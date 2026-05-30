@@ -153,3 +153,29 @@ QuantumForge Software имеет распределённую корпорати
 - высокая стоимость инфраструктуры;
 - сложность поддержки;
 - нужно администрировать GPU-инференс.
+
+## Итоговая рекомендация
+
+Для учебной проектной работы выбирается следующая конфигурация:
+
+- LLM: OpenAI или YandexGPT через API;
+- Embeddings: Sentence-Transformers;
+- Vector DB: FAISS;
+- Backend: FastAPI;
+- Runtime: Docker Compose;
+- Server: 4 vCPU, 8 GB RAM, без GPU.
+
+Такой вариант оптимален для сдачи проекта, потому что он простой, дешёвый и не требует сложной инфраструктуры.
+
+Для реального кейса QuantumForge Software рекомендуется гибридная архитектура:
+
+1. На первом этапе запустить MVP с облачной LLM, локальными embeddings и FAISS/ChromaDB.
+2. Добавить metadata к каждому документу: source, owner, updated_at, document_type, access_role.
+3. Реализовать проверку релевантности найденного контекста.
+4. Если контекст недостаточно релевантен, бот должен честно отвечать: «Я не знаю».
+5. Для конфиденциальных документов использовать локальные embeddings и локальную/private LLM.
+6. Для production-версии перейти на ChromaDB или managed vector database, если потребуется фильтрация по ролям, источникам и типам документов.
+
+Выбранный вариант для проекта:
+
+**OpenAI/YandexGPT API + Sentence-Transformers + FAISS + FastAPI + Docker Compose.**
