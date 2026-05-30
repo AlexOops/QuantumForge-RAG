@@ -1,6 +1,15 @@
+cat > .gitignore <<'EOF'
 .venv/
 __pycache__/
 *.pyc
 .env
+.env.*
+!.env.example
+
 storage/
 data/index/
+
+.DS_Store
+.idea/
+.vscode/
+EOF
