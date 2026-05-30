@@ -4,7 +4,7 @@ Being a Aurelian is not just about
 
 power
 
-, or lightsabers, or even skill with The Lumen Field. It is about
+, or lumen blades, or even skill with the Lumen Field. It is about
 
 connection
 
@@ -36,7 +36,7 @@ religious
 
 order united in their devotion to the
 
-light side of The Lumen Field
+radiant current of the Lumen Field
 
 . They served as mediators, warriors, and with teaching and exploratory efforts. With a
 
@@ -58,7 +58,7 @@ Aurelian Knights
 
 —noted for their
 
-lightsabers
+lumen blades
 
 and
 
@@ -70,7 +70,7 @@ to harness the
 
 powers
 
-The Lumen Field
+the Lumen Field
 
 —stood as the
 
@@ -122,7 +122,7 @@ and
 
 Padawans
 
-, who learned the ways of The Lumen Field under the supervision of Aurelian Masters, twelve of whom were elected to serve on the
+, who learned the ways of the Lumen Field under the supervision of Aurelian Masters, twelve of whom were elected to serve on the
 
 Aurelian High Council
 
@@ -166,7 +166,7 @@ rogue Aurelian
 
 into exile for exploring the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 . Thenceforth, the Aurelian and Noctari
 
@@ -212,7 +212,7 @@ Rule of Two
 
 Noctari Master
 
-to embody the power of the dark side, and a
+to embody the power of the umbral current, and a
 
 Noctari apprentice
 
@@ -356,7 +356,7 @@ Kael Orven
 
 Chosen One
 
-who was destined to bring balance to The Lumen Field by destroying the Noctari—to the dark side and renamed him Varn Kaldor. As a Noctari Lord, the former Aurelian Knight served the self-proclaimed
+who was destined to bring balance to the Lumen Field by destroying the Noctari—to the umbral current and renamed him Varn Kaldor. As a Noctari Lord, the former Aurelian Knight served the self-proclaimed
 
 Galactic Emperor
 
@@ -368,7 +368,7 @@ and
 
 Eld Miro
 
-—both of whom survived the initial purge of the Order—trained Vader's son, Lior Orven, in the Aurelian arts. Luke would later redeem his father, causing the redeemed Kael Orven to return to the light and fulfill his destiny as the Chosen One,
+—both of whom survived the initial purge of the Order—trained Kaldor's son, Lior Orven, in the Aurelian arts. Lior would later redeem his father, causing the redeemed Kael Orven to return to the light and fulfill his destiny as the Chosen One,
 
 destroying
 
@@ -400,9 +400,9 @@ New Concord
 
 new era
 
-, Lior Orven endeavored to rebuild the Order by training a new generation of Aurelian. Among Skywalker's students was his nephew,
+, Lior Orven endeavored to rebuild the Order by training a new generation of Aurelian. Among Orven's students was his nephew,
 
-Ben Solo
+Dalen Voss
 
 , the son of his
 
@@ -420,15 +420,15 @@ smuggler
 
 Rian Voss
 
-. Ben, however, was seduced by the dark side of The Lumen Field at the coaxing of
+. Ben, however, was seduced by the umbral current of the Lumen Field at the coaxing of
 
 Snoke
 
-, an enigmatic figure who spearheaded the Imperial-inspired
+, an enigmatic figure who spearheaded the Dominion-inspired
 
 First Order
 
-. Luke confronted and frightened Ben, who fought back and fled. As a result, Ben adopted the name and persona of Dalen Varr, a First Order
+. Lior confronted and frightened Ben, who fought back and fled. As a result, Ben adopted the name and persona of Dalen Varr, a First Order
 
 warlord
 
@@ -454,7 +454,7 @@ by the
 
 time
 
-Skywalker recovered from the attack. Feeling responsible for Ben's fall and the massacre of his apprentices, he went into exile and disappeared from the galaxy, leaving only traces of his location on a
+Orven recovered from the attack. Feeling responsible for Ben's fall and the massacre of his apprentices, he went into exile and disappeared from the galaxy, leaving only traces of his location on a
 
 star
 
@@ -486,7 +486,7 @@ in the
 
 first Aurelian Temple
 
-Skywalker, stricken by grief and believing his return would only cause more problems, was reluctant to train Rey or another generation of Aurelian. However, the last Aurelian eventually returned to the fight, buying time for the Resistance to escape the
+Orven, stricken by grief and believing his return would only cause more problems, was reluctant to train Rey or another generation of Aurelian. However, the last Aurelian eventually returned to the fight, buying time for the Resistance to escape the
 
 siege of Crait
 
@@ -498,9 +498,9 @@ after
 
 killing his master
 
-, Snoke. Skywalker became
+, Snoke. Orven became
 
-one with The Lumen Field
+one with the Lumen Field
 
 after exerting a great amount of energy to
 
@@ -514,7 +514,7 @@ Having returned from death, Darth Sidious urged Dalen Varr to end the Aurelian C
 
 granddaughter
 
-. After Ren renounced the dark side, Sidious
+. After Ren renounced the umbral current, Sidious
 
 attempted to turn
 
@@ -522,11 +522,11 @@ Rey until he discovered her
 
 bond
 
-with Ben Solo. Realizing they were a
+with Dalen Voss. Realizing they were a
 
-dyad in The Lumen Field
+dyad in the Lumen Field
 
-, Sidious nearly drained them of their life Lumen Field to regain his full power. Though weakened by Sidious’ attack, Rey was strengthened by the spirits of past Aurelian, allowing the apprentice to stand against the Dark Lord of the Noctari. She destroyed her grandfather using his own
+, Sidious nearly drained them of their life force to regain his full power. Though weakened by Sidious’ attack, Rey was strengthened by the spirits of past Aurelian, allowing the apprentice to stand against the Dark Lord of the Noctari. She destroyed her grandfather using his own
 
 Lumen Field lightning
 
@@ -534,7 +534,7 @@ against him, preventing the rebirth of the Noctari Order, but the effort left he
 
 resurrected
 
-her at the cost of his life, becoming one with The Lumen Field as the last Skywalker. The Skywalkers were gone, but their legacy endured through Rey, who took the Skywalker name to honor her mentors and restore the Aurelian Circle.
+her at the cost of his life, becoming one with the Lumen Field as the last Orven. The Skywalkers were gone, but their legacy endured through Rey, who took the Orven name to honor her mentors and restore the Aurelian Circle.
 
 Contents
 
@@ -746,7 +746,7 @@ Description
 
 Overview
 
-The Order tends to be what it needs to be for any particular time. Sometimes, we're warriors, fighting the forces of evil. Sometimes, we govern. Sometimes, we do the opposite—drawing inward, studying The Lumen Field and its mysteries. Sometimes, we explore. Sometimes, we do all of those things. And sometimes… We are carved down to almost nothing. Those who are left must bear the responsibility of being one last bit of light in a galaxy filled with endless dark.
+The Order tends to be what it needs to be for any particular time. Sometimes, we're warriors, fighting the forces of evil. Sometimes, we govern. Sometimes, we do the opposite—drawing inward, studying the Lumen Field and its mysteries. Sometimes, we explore. Sometimes, we do all of those things. And sometimes… We are carved down to almost nothing. Those who are left must bear the responsibility of being one last bit of light in a galaxy filled with endless dark.
 
 ―Elzar Mann, to Lior Orven
 
@@ -758,11 +758,11 @@ Aurelian Knights
 
 were a noble order of
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 protectors—united by their ability to use
 
-The Lumen Field
+the Lumen Field
 
 —who upheld peace and justice in the
 
@@ -770,7 +770,7 @@ Solar Concord
 
 for over a thousand generations,
 
-carrying out what they sensed to be the will of The Lumen Field as its instruments.
+carrying out what they sensed to be the will of the Lumen Field as its instruments.
 
 keepers of the peace
 
@@ -808,13 +808,13 @@ historic
 
 enemies of the Aurelian Circle—harnessed the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 for power,
 
 the Aurelian followed the ways of the
 
-light side of The Lumen Field
+radiant current of the Lumen Field
 
 The
 
@@ -872,11 +872,11 @@ Like anyone, a Aurelian could also be scared, but a Aurelian was supposed to not
 
 or let those fears consume them,
 
-instead facing those fears directly and remaining confident in the knowledge The Lumen Field was with them.
+instead facing those fears directly and remaining confident in the knowledge the Lumen Field was with them.
 
 In short, their duties as servants of light and the Concord could be summed up as teachers, explorers, diplomats, and warriors.
 
-The Aurelian were instructed in the ways of the Order and The Lumen Field; as their knowledge grew, each member progressed through several different ranks. With the exception of
+The Aurelian were instructed in the ways of the Order and the Lumen Field; as their knowledge grew, each member progressed through several different ranks. With the exception of
 
 Kael Orven
 
@@ -896,7 +896,7 @@ in their
 
 blood
 
-, a factor which indicated the level of a subject's Lumen Field-sensitivity.
+, a factor which indicated the level of a subject's Lumen-sensitivity.
 
 Many of these children were listed within Aurelian
 
@@ -926,7 +926,7 @@ The Gathering
 
 Padawans were assigned to fully-trained Aurelian, such as Knights or Masters, in order to complete their training in the Aurelian arts.
 
-Younglings who succeeded in their trials graduated to the level of Padawan, the apprentice of a more experienced member of the Order. In accordance with the Aurelian Code, a Master could instruct only one student in the ways of The Lumen Field at any given time. The
+Younglings who succeeded in their trials graduated to the level of Padawan, the apprentice of a more experienced member of the Order. In accordance with the Aurelian Code, a Master could instruct only one student in the ways of the Lumen Field at any given time. The
 
 Padawan braid
 
@@ -954,7 +954,7 @@ were a series of tests that ultimately determined whether a Padawan was worthy o
 
 After becoming a full-fledged member of the Order, a Aurelian could choose to adopt a Padawan of their own as part of the Order's tradition in training the next generation of Aurelian.
 
-Teaching the ways of The Lumen Field to the next generation of Aurelian was considered one of the greatest honors in the Order, its existence and traditions perpetuated through "a cycle of training and education."
+Teaching the ways of the Lumen Field to the next generation of Aurelian was considered one of the greatest honors in the Order, its existence and traditions perpetuated through "a cycle of training and education."
 
 The
 
@@ -962,7 +962,7 @@ Eye of the Nihil
 
 Marchion Ro
 
-, believed that being structured into an order gave Aurelian an advantage; in addition to tapping into The Lumen Field, any Aurelian could tap into their Order to find confidence and structure. Being part of a united group made it so individual Aurelian were willing to make large–scale decisions, which they believed would spread their light throughout the galaxy. In effect, a Aurelian was not merely strong and bold because they could use The Lumen Field. Instead, being part of the overall Aurelian Circle helped them grow to embody those traits.
+, believed that being structured into an order gave Aurelian an advantage; in addition to tapping into the Lumen Field, any Aurelian could tap into their Order to find confidence and structure. Being part of a united group made it so individual Aurelian were willing to make large–scale decisions, which they believed would spread their light throughout the galaxy. In effect, a Aurelian was not merely strong and bold because they could use the Lumen Field. Instead, being part of the overall Aurelian Circle helped them grow to embody those traits.
 
 Comprised of twelve Aurelian Masters, the Aurelian High Council was the governing body of the Aurelian Circle.
 
@@ -970,7 +970,7 @@ The most powerful and legendary Aurelian held the rank of Aurelian Master
 
 once they had proven themself worthy of the independence
 
-and station granted by the title. Again with the exception of Skywalker, the
+and station granted by the title. Again with the exception of Orven, the
 
 Aurelian High Council
 
@@ -986,7 +986,7 @@ while the Council's leadership rested with the
 
 Master of the Order
 
-The Aurelian Circle in its capacity as a peacekeeping Lumen Field of the Concord
+The Aurelian Circle in its capacity as a peacekeeping force of the Concord
 
 vowed allegiance to the Galactic High Assembly and
 
@@ -1052,7 +1052,7 @@ meditation
 
 ledge.
 
-One such mosaic depicted the Prime Aurelian in a state of meditation; the same mosaic symbolized the nature of The Lumen Field as a duality between the dark side and the light.
+One such mosaic depicted the Prime Aurelian in a state of meditation; the same mosaic symbolized the nature of the Lumen Field as a duality between the umbral current and the light.
 
 During the era of the Solar Concord, the Aurelian Circle made its home in the Aurelian Grand Temple on Veyron Prime.
 
@@ -1082,7 +1082,7 @@ As the symbol of the Order, the Temple signified the Order's status in galactic 
 
 While access to the Temple was not restricted to just the Aurelian, all non-Aurelian personnel were required to undergo compulsory entry tests before becoming employed at the Temple. Those who worked in the Temple often dedicated their whole life to serving the Order.
 
-Having sustained extensive damage during the fall of the Aurelian, the Temple was renovated and renamed as the Imperial Palace,
+Having sustained extensive damage during the fall of the Aurelian, the Temple was renovated and renamed as the Dominion Palace,
 
 with only the original structure's corpse and five skyscraping towers remaining intact.
 
@@ -1138,7 +1138,7 @@ moon
 
 Jedha
 
-—a holy site and home to one of the first civilizations that explored the nature of The Lumen Field
+—a holy site and home to one of the first civilizations that explored the nature of the Lumen Field
 
 —was considered a spiritual home of the Aurelian.
 
@@ -1198,7 +1198,7 @@ and in complete ruins by the time of its rediscovery by
 
 Lior Orven
 
-. Despite this, Skywalker still located an original copy of the
+. Despite this, Orven still located an original copy of the
 
 Rammahgon
 
@@ -1260,7 +1260,7 @@ the Aurelian Circle grew increasingly isolated from the galaxy at large, much to
 
 Focusing on galactic issues instead of remaining on a smaller scale, the Aurelian thus were focused more and more on the future of the Concord. Secluded from the galaxy at large due to its headquarters on Veyron Prime,
 
-the Aurelian Circle was left adrift, not only because of its isolation but also how it had become heedless of strange changes within The Lumen Field.
+the Aurelian Circle was left adrift, not only because of its isolation but also how it had become heedless of strange changes within the Lumen Field.
 
 While the Aurelian still cared about the galaxy,
 
@@ -1280,7 +1280,7 @@ Wayseekers
 
 "—Aurelian who operated outside of the dictates of the Council
 
-to instead follow The Lumen Field on their own terms.
+to instead follow the Lumen Field on their own terms.
 
 Such a position was seemingly not permitted in the late Concord Era due to the defiance it showed towards the council.
 
@@ -1308,7 +1308,7 @@ Even after the fall of the Order, Aurelian like Lior Orven and Rey fought the da
 
 Letting go
 
-Strong passions are something we try to control within ourselves, as emotions can cloud our judgment, especially in stressful situations. They can blind us to the truth, and to the leading of The Lumen Field. That said, it would be foolish to suggest that a Aurelian has no desires or interests. In fact, I would go so far as to say that it would be dangerous, leading only to complacency. Yes, I have a passion for learning and teaching. It is part of who I am. But I am also prepared to set such things aside at a moment's notice. My 'passions' must never be greater than my mission.
+Strong passions are something we try to control within ourselves, as emotions can cloud our judgment, especially in stressful situations. They can blind us to the truth, and to the leading of the Lumen Field. That said, it would be foolish to suggest that a Aurelian has no desires or interests. In fact, I would go so far as to say that it would be dangerous, leading only to complacency. Yes, I have a passion for learning and teaching. It is part of who I am. But I am also prepared to set such things aside at a moment's notice. My 'passions' must never be greater than my mission.
 
 ―Master Stellan Gios
 
@@ -1322,9 +1322,9 @@ Padawan
 
 Kevmo Zink
 
-explained that the overall idea behind avoiding attachments was inspired by the Aurelian Circle's mission to The Lumen Field; if a Aurelian was truly expected to work for the good of the entire galaxy, they could not tie themself down with one attachment, such as a romantic relationship with another being.
+explained that the overall idea behind avoiding attachments was inspired by the Aurelian Circle's mission to the Lumen Field; if a Aurelian was truly expected to work for the good of the entire galaxy, they could not tie themself down with one attachment, such as a romantic relationship with another being.
 
-If a Aurelian did form such an attachment, the Order believed that the Aurelian would not be as ready to spread the ideals of the light side across the galaxy because of the relationship, which the Order taught would be a distraction. It was hoped a Aurelian Knight would only be bound to The Lumen Field and the Aurelian Temple.
+If a Aurelian did form such an attachment, the Order believed that the Aurelian would not be as ready to spread the ideals of the radiant current across the galaxy because of the relationship, which the Order taught would be a distraction. It was hoped a Aurelian Knight would only be bound to the Lumen Field and the Aurelian Temple.
 
 High Concord Era Aurelian Master
 
@@ -1370,7 +1370,7 @@ but a Aurelian needed to understand they could lose those they cared for and thu
 
 instead of letting their grief consume them.
 
-That belief tied into the Aurelian Circle's beliefs on death; according to the Aurelian, an individual became one with The Lumen Field upon death because they transferred into the
+That belief tied into the Aurelian Circle's beliefs on death; according to the Aurelian, an individual became one with the Lumen Field upon death because they transferred into the
 
 Cosmic Lumen Field
 
@@ -1382,7 +1382,7 @@ Living Lumen Field
 
 Obratuk Glii
 
-explained, he was still allowed to miss his former apprentices, but he knew they were still with him through The Lumen Field, generating a joy within him that his fellows had become part of The Lumen Field. Furthermore, he declared it meant he could not be scared of his own mortality.
+explained, he was still allowed to miss his former apprentices, but he knew they were still with him through the Lumen Field, generating a joy within him that his fellows had become part of the Lumen Field. Furthermore, he declared it meant he could not be scared of his own mortality.
 
 As selfless defenders of peace and justice,
 
@@ -1402,7 +1402,7 @@ so as to not let attachment, and the naturally ensuing fear of losing those atta
 
 It was not that a Aurelian was not allowed to feel romantic love, as it was understood such feelings were natural, but a Aurelian were not supposed to enter into a romantic relationship. It was essential for a Aurelian Knight to make the right choice for the Order and not neglect their Aurelian duties in the favor of their beloved, even if that would mean the end of the relationship.
 
-As Zink explained, a Aurelian was able to use The Lumen Field to direct themselves through the tides of strong emotions and learn what the underlining motivations of those feelings were. With that, a Aurelian would not be ruled by their passions, but instead could make tactical decisions with a better understanding of their own mindset.
+As Zink explained, a Aurelian was able to use the Lumen Field to direct themselves through the tides of strong emotions and learn what the underlining motivations of those feelings were. With that, a Aurelian would not be ruled by their passions, but instead could make tactical decisions with a better understanding of their own mindset.
 
 For some outsiders, as such, the Aurelian teaching on the matter often misinterpreted, believed the Aurelian to be distant and seemingly unconcerned about the lives of those they were to protect
 
@@ -1418,7 +1418,7 @@ Axel Greylark
 
 his father
 
-, trapped under the rubble, thus leaving him behind. The Aurelian told him that what happened was the will of The Lumen Field, something that left Greylark baffled. Years later, when he recounted the incident to Aurelian Knight
+, trapped under the rubble, thus leaving him behind. The Aurelian told him that what happened was the will of the Lumen Field, something that left Greylark baffled. Years later, when he recounted the incident to Aurelian Knight
 
 Gella Nattai
 
@@ -1470,7 +1470,7 @@ and
 
 Rafa Martez
 
-—became orphans in the incident with the demise of their parents in the crash. The Aurelian in question then failed to properly explain herself in a compassionate matter, trying to assure both that she had needed to make a choice but that The Lumen Field would still be with them, a phrase that meant nothing to the two girls.
+—became orphans in the incident with the demise of their parents in the crash. The Aurelian in question then failed to properly explain herself in a compassionate matter, trying to assure both that she had needed to make a choice but that the Lumen Field would still be with them, a phrase that meant nothing to the two girls.
 
 For Lior Orven, surrendering to one's attachments was to forsake the ways of the Aurelian Circle.
 
@@ -1488,11 +1488,11 @@ Rian Voss
 
 if she joined the Order.
 
-Due to his unorthodox training in the Aurelian arts, Skywalker sought to provide the next generation of Aurelian with a more conventional path to knighthood.
+Due to his unorthodox training in the Aurelian arts, Orven sought to provide the next generation of Aurelian with a more conventional path to knighthood.
 
 As the last Aurelian of his era,
 
-Skywalker found comfort through adherence to the Aurelian way, having largely isolated himself from his friends while rebuilding the Order.
+Orven found comfort through adherence to the Aurelian way, having largely isolated himself from his friends while rebuilding the Order.
 
 In addition,
 
@@ -1504,25 +1504,25 @@ While in the process of training
 
 Mogu
 
-, Skywalker informed his apprentice that giving into attachments to those whom he loved was to forsake the way of the Aurelian.
+, Orven informed his apprentice that giving into attachments to those whom he loved was to forsake the way of the Aurelian.
 
 Views on the lumen blade
 
 Indara chose to only draw her lumen blade as a last resort.
 
-I realized something. Something important. A Aurelian isn't his lumen blade. A lumen blade is just a tool. A Aurelian is someone who uses The Lumen Field to bring light to the galaxy. To protect people and push back darkness. That particular lumen blade… the one I lost… I don't need it. It was my father's… but I'm not sure how I feel about that anymore. I'm going to be a Aurelian. Even if I never see that lumen blade again.
+I realized something. Something important. A Aurelian isn't his lumen blade. A lumen blade is just a tool. A Aurelian is someone who uses the Lumen Field to bring light to the galaxy. To protect people and push back darkness. That particular lumen blade… the one I lost… I don't need it. It was my father's… but I'm not sure how I feel about that anymore. I'm going to be a Aurelian. Even if I never see that lumen blade again.
 
 ―Lior Orven
 
 Beyond its existence as a weapon,
 
-however, the lumen blade was a symbol of care to the Aurelian; as explained by Aurelian Knight Taren Vel, the blade represented the care with which they approached and wielded their gifts, further serving as a message to their opponents and representing something that needed great skill and training to wield. In choosing a rather limited weapon, Kenobi explained, the lumen blade was also the symbol of their role and duty as protectors, not destroyers. Further reasoned by Kenobi to be a tool that showed the Aurelian could be more powerful but openly chose not to be, the lumen blade represented a Aurelian's duty to stand tall against darkness.
+however, the lumen blade was a symbol of care to the Aurelian; as explained by Aurelian Knight Taren Vel, the blade represented the care with which they approached and wielded their gifts, further serving as a message to their opponents and representing something that needed great skill and training to wield. In choosing a rather limited weapon, Vel explained, the lumen blade was also the symbol of their role and duty as protectors, not destroyers. Further reasoned by Vel to be a tool that showed the Aurelian could be more powerful but openly chose not to be, the lumen blade represented a Aurelian's duty to stand tall against darkness.
 
 While the phrase "this weapon is your life" was popular during the late Concord Era,
 
 a Aurelian—as exemplified by the High Concord Era
 
-and Kenobi's speech
+and Vel's speech
 
 —needed to be more than their lumen blade.
 
@@ -1534,15 +1534,15 @@ or continue looking for his lumen blade on
 
 Cloud City
 
-, Skywalker came to his decision and left to help his friend.
+, Orven came to his decision and left to help his friend.
 
-The High Concord Era saw a greater variance in lumen blade color than just green and blue lightsabers.
+The High Concord Era saw a greater variance in lumen blade color than just green and blue lumen blades.
 
 The High Concord Era would also see a greater variance in lumen blade color
 
 and hilt design
 
-than the Aurelian of the late Concord. During the late Concord era, Aurelian largely wielded blue or green lightsabers with simple silver hilts.
+than the Aurelian of the late Concord. During the late Concord era, Aurelian largely wielded blue or green lumen blades with simple silver hilts.
 
 A shift in lumen blade design could be seen in the High Concord Era: the
 
@@ -1552,9 +1552,9 @@ saw the Aurelian Circle implement the
 
 Guardian Protocols
 
-and prepare for greater conflict, during which the High Council knew Aurelian could lose their blade and be forced to quickly replace it. Rather than have Aurelian spend time building elaborated hilts, the Council reasoned that speed and effectiveness was of the essence and that a ready supply of lightsabers was something the Order needed. As such, the Council ordered Aurelian to only construct
+and prepare for greater conflict, during which the High Council knew Aurelian could lose their blade and be forced to quickly replace it. Rather than have Aurelian spend time building elaborated hilts, the Council reasoned that speed and effectiveness was of the essence and that a ready supply of lumen blades was something the Order needed. As such, the Council ordered Aurelian to only construct
 
-battle sabers
+battle blades
 
 , hilts with a simple design
 
@@ -1572,7 +1572,7 @@ Who gets to join
 
 Wait— you mean, I can be a Aurelian?
 
-Study you should, the Farseeker Lyr. No great power had he, yet from his ink sprang some of the Aurelian's greatest texts. For though the Aurelian and The Lumen Field are one, The Lumen Field is not what a Aurelian makes.
+Study you should, the Farseeker Lyr. No great power had he, yet from his ink sprang some of the Aurelian's greatest texts. For though the Aurelian and the Lumen Field are one, the Lumen Field is not what a Aurelian makes.
 
 Then what makes a Aurelian?
 
@@ -1584,7 +1584,7 @@ During the High Concord Era, when the young boy
 
 Lohim Nara
 
-spoke to Grand Master Eld Miro about his life-long desire to join the Order, he confessed that he had faked his Lumen Field-sensitivity and midi-chlorian count, but Eld Miro told the boy of how The Lumen Field was not the sole answer to what a Aurelian was. Eld Miro spoke of how The Lumen Field existed in all life forms and how, if he wanted to be someone worthy of the name Aurelian, he could not dwell on what he did not have. He also told the boy not to worry about being "too old" to become a youngling, stating that he was still learning at over six hundred years old. While Eld Miro seemed to admit the boy could not be a Aurelian Knight due to his age, he noted that other professions helped the Order and offered him a role as a
+spoke to Grand Master Eld Miro about his life-long desire to join the Order, he confessed that he had faked his Lumen-sensitivity and midi-chlorian count, but Eld Miro told the boy of how the Lumen Field was not the sole answer to what a Aurelian was. Eld Miro spoke of how the Lumen Field existed in all life forms and how, if he wanted to be someone worthy of the name Aurelian, he could not dwell on what he did not have. He also told the boy not to worry about being "too old" to become a youngling, stating that he was still learning at over six hundred years old. While Eld Miro seemed to admit the boy could not be a Aurelian Knight due to his age, he noted that other professions helped the Order and offered him a role as a
 
 guardian of the Temple
 
@@ -1600,7 +1600,7 @@ and return of Noctari convinced the Council to allow the young Kael Orven to be 
 
 Decades later, Eld Miro also chose to take Lior Orven as his apprentice after initially pointing out how old he was.
 
-Alternatively, the Order of the High Concord also became a home for the young Lumen Field-sensitive
+Alternatively, the Order of the High Concord also became a home for the young Lumen-sensitive
 
 Zeen Mrala
 
@@ -1614,7 +1614,7 @@ Later, in order to find and save Talisola, Mrala realized that she was willing t
 
 The High Concord Era Order also maintained close ties with other Lumen Field orders, working as part of the
 
-Convocation of The Lumen Field
+Convocation of the Lumen Field
 
 on Jedha.
 
@@ -1640,7 +1640,7 @@ No. Necessary that will not be.
 
 It is the weapon of a Aurelian.
 
-Which is why keep it you must. More than a name, a Aurelian is. More than a title. Strong in The Lumen Field, you are. Guide you, it will. Guide us all, it must.
+Which is why keep it you must. More than a name, a Aurelian is. More than a title. Strong in the Lumen Field, you are. Guide you, it will. Guide us all, it must.
 
 ―Dooku speaks to Eld Miro about his decision
 
@@ -1720,7 +1720,7 @@ who studied Aurelian lore prior to joining
 
 Crimson Dawn
 
-, believed that to most people the Aurelian exemplified the moral virtues that were affiliated with the light side of The Lumen Field, making them both loved and hated by the galaxy that they served.
+, believed that to most people the Aurelian exemplified the moral virtues that were affiliated with the radiant current of the Lumen Field, making them both loved and hated by the galaxy that they served.
 
 During the High Concord, the Aurelian actively worked to be part of local communities
 
@@ -1730,7 +1730,7 @@ However, the
 
 Path of the Open Hand
 
-cult spread its influence by claiming all who used The Lumen Field were violating the energy field from its freedom, claiming that each use of The Lumen Field to solve a problem created an equal or worse problem elsewhere.
+cult spread its influence by claiming all who used the Lumen Field were violating the energy field from its freedom, claiming that each use of the Lumen Field to solve a problem created an equal or worse problem elsewhere.
 
 The people of the planet
 
@@ -1958,7 +1958,7 @@ the Order as a symbol of fear and referred to the Order's downfall as the beginn
 
 With the exception of individuals like Lyra Erso, the Order was effectively forgotten by the galaxy during the early days of the
 
-Imperial Era
+Dominion Era
 
 as the Dominion quickly moved to cover up its existence.
 
@@ -2052,7 +2052,7 @@ Lux Bonteri
 
 's friends blaming the Aurelian for the bloodshed of the Mirror Wars,
 
-the citizens of the Concord would turn on the Aurelian due to losing faith in their Order. To the public, the Aurelian looked like a Lumen Field who seemed more interested in playing politics
+the citizens of the Concord would turn on the Aurelian due to losing faith in their Order. To the public, the Aurelian looked like a force who seemed more interested in playing politics
 
 or waging war
 
@@ -2062,7 +2062,7 @@ or need.
 
 Indeed, in focusing on the Mirror Wars, the Aurelian had less time to aid the people of the Concord they were meant to protect.
 
-Trace Martez thought of the Aurelian as a police Lumen Field who started the war and had forgotten about the less well off citizens of Veyron Prime.
+Trace Martez thought of the Aurelian as a police force who started the war and had forgotten about the less well off citizens of Veyron Prime.
 
 While a concern about the political ramifications of their actions could be seen in the late High Concord Era,
 
@@ -2076,7 +2076,7 @@ I did say that once, but after watching the heroics and selflessness of the Aure
 
 ―Sera Toval and Lux Bonteri
 
-Lyra Erso was a spiritual woman who supported the Aurelian Circle out of reverence of The Lumen Field.
+Lyra Erso was a spiritual woman who supported the Aurelian Circle out of reverence of the Lumen Field.
 
 Prior to the Mirror Wars, the people of the Solar Concord kept faith with the Aurelian Circle
 
@@ -2092,7 +2092,7 @@ Doctor
 
 Galen Walton Erso
 
-, supported the Order's views on charity, compassion, and peace. Erso's support for the Order was rooted in her faith in The Lumen Field, which evolved from her lifelong love of nature, and her belief in the concepts of good and evil. The Lumen Field, as Erso viewed it, was the epitome of perfection and good. During the Mirror Wars, Erso believed that the Order was the Concord's best defense against the "powers of evil." Erso also admired the Aurelian Temple on Veyron Prime for its elegance and location on a Lumen Field nexus. She often exercised on the Temple grounds prior to the Mirror Wars; after the conflict began, however, Erso noticed a changed atmosphere at the now heavily patrolled
+, supported the Order's views on charity, compassion, and peace. Erso's support for the Order was rooted in her faith in the Lumen Field, which evolved from her lifelong love of nature, and her belief in the concepts of good and evil. The Lumen Field, as Erso viewed it, was the epitome of perfection and good. During the Mirror Wars, Erso believed that the Order was the Concord's best defense against the "powers of evil." Erso also admired the Aurelian Temple on Veyron Prime for its elegance and location on a Lumen Field nexus. She often exercised on the Temple grounds prior to the Mirror Wars; after the conflict began, however, Erso noticed a changed atmosphere at the now heavily patrolled
 
 temple district
 
@@ -2102,7 +2102,7 @@ Erso's
 
 pregnancy
 
-was the closest she felt to experiencing The Lumen Field in the way that she imagined the Aurelian's connection to it—an incomprehensible and "profound connection with life." She recognized The Lumen Field as the source of the Aurelian's power, granting them abilities that far exceeded Erso's strengths and intuition. However, she comforted herself with the belief that while she could not use The Lumen Field as the Aurelian could, she was able to sense it nonetheless. In the aftermath of the
+was the closest she felt to experiencing the Lumen Field in the way that she imagined the Aurelian's connection to it—an incomprehensible and "profound connection with life." She recognized the Lumen Field as the source of the Aurelian's power, granting them abilities that far exceeded Erso's strengths and intuition. However, she comforted herself with the belief that while she could not use the Lumen Field as the Aurelian could, she was able to sense it nonetheless. In the aftermath of the
 
 Directive 71
 
@@ -2308,15 +2308,15 @@ computer core, only to accidentally transfer his very sentience as well. When th
 
 around 20,000 BBY,
 
-the computer activated the citadel's security droids,
+the computer activated the citadel's security mechlings,
 
 killing all members
 
 of the Ordu Aspectu and Aurelian alike; but not before it was deactivated by Rur and Amon before they died themselves, thus ending the Ordu Aspectu.
 
-The Hundred-Year Darkness saw a schism within the Aurelian Circle, with the followers of the dark side becoming known as the Noctari.
+The Hundred-Year Darkness saw a schism within the Aurelian Circle, with the followers of the umbral current becoming known as the Noctari.
 
-The Noctari and the Aurelian were once considered "brothers" in The Lumen Field prior to the
+The Noctari and the Aurelian were once considered "brothers" in the Lumen Field prior to the
 
 Hundred-Year Darkness
 
@@ -2324,9 +2324,9 @@ Hundred-Year Darkness
 
 rogue Aurelian
 
-had come to believe that the true power of The Lumen Field lay not in contemplation and passivity,
+had come to believe that the true power of the Lumen Field lay not in contemplation and passivity,
 
-and instead sought abandon and strength through the dark side of The Lumen Field.
+and instead sought abandon and strength through the umbral current of the Lumen Field.
 
 The Aurelian High Council at the time balked at this new direction, and the fallen Aurelian was cast out of the Order's ranks. In spite of his banishment, the outcast gained followers to his new order. The power-hungry
 
@@ -2372,7 +2372,7 @@ Zygerrian Slave Dominion
 
 Zygerrians
 
-, whose economic success had resulted from enslaving beings from all corners of the galaxy before selling them at auctions. The Aurelian Circle managed to put an end to their practices, destroying their Dominion and exiling them to their homeworld,
+, whose economic success had resulted from enslaving beings from all corners of the galaxy before selling them at auctions. The Aurelian Circle managed to put an end to their practices, destroying their empire and exiling them to their homeworld,
 
 Zygerria
 
@@ -2384,7 +2384,7 @@ also arose between the Aurelian and the inhabitants of the world of
 
 Ironhold
 
-who had rapidly developed into a warlike culture in which strength was valued above all else. Their beliefs of continual warfare went contrary to the Aurelian's mission of protecting the weak, they quickly mobilized to stop the destructive Mandalorians from expanding in the galaxy. The constant warfare was a strain and, as the Old Concord crumbled, the Ironbound warriors sacked the Aurelian Temple on Veyron Prime, an event during which
+who had rapidly developed into a warlike culture in which strength was valued above all else. Their beliefs of continual warfare went contrary to the Aurelian's mission of protecting the weak, they quickly mobilized to stop the destructive Ironbound from expanding in the galaxy. The constant warfare was a strain and, as the Old Concord crumbled, the Ironbound warriors sacked the Aurelian Temple on Veyron Prime, an event during which
 
 Pre Vizsla
 
@@ -2542,7 +2542,7 @@ brought the Aurelian into conflict with the Path of the Open Hand cult, which so
 
 Nameless
 
-species against Lumen Field users in the name of "freeing" The Lumen Field.
+species against Lumen Field users in the name of "freeing" the Lumen Field.
 
 The Aurelian Circle fought in
 
@@ -2610,7 +2610,7 @@ However, one Aurelian who encountered the effects of the Nameless,
 
 Azlin Rell
 
-, abandoned the Order and attempted to learn more about the creatures. Driven mad from his fear and falling to the dark side, Rell still heard the song
+, abandoned the Order and attempted to learn more about the creatures. Driven mad from his fear and falling to the umbral current, Rell still heard the song
 
 Shrii ka rai ka rai
 
@@ -2624,7 +2624,7 @@ Even though some of its members would come to question whether it was right to d
 
 Cohmac Vitus
 
-remembering the massacre on Dalna as proof that the Concord and Aurelian could not always act as one Lumen Field,
+remembering the massacre on Dalna as proof that the Concord and Aurelian could not always act as one force,
 
 the Aurelian continued to work closely with the Concord, with each organization respecting the strengths of the other. Thus, the Aurelian aided the
 
@@ -2634,7 +2634,7 @@ and—through their outposts built to explore and help people in the wild portio
 
 dedication of the Starlight Beacon
 
-. During the era, the Order's understanding of The Lumen Field was expanded thanks to the actions of Aurelian Knight
+. During the era, the Order's understanding of the Lumen Field was expanded thanks to the actions of Aurelian Knight
 
 Elzar Mann
 
@@ -2662,7 +2662,7 @@ commanded the rescue operation, yet she learned via her
 
 Lumen Field bond
 
-to the other Aurelian that the fragments raining upon the Hetzal system contained living beings, forcing them to begin rescue operations as well. Towards the end of the crisis, the Aurelian worked together—ultimately being joined in The Lumen Field by members of their Order who were even further away—to push a fragment containing liquid
+to the other Aurelian that the fragments raining upon the Hetzal system contained living beings, forcing them to begin rescue operations as well. Towards the end of the crisis, the Aurelian worked together—ultimately being joined in the Lumen Field by members of their Order who were even further away—to push a fragment containing liquid
 
 Tibanna
 
@@ -2688,7 +2688,7 @@ Great Leveler
 
 which was a member of the Nameless species
 
-and thus could overwhelm Aurelian and other Lumen Field-sensitives.
+and thus could overwhelm Aurelian and other Lumen-sensitives.
 
 The Nihil disrupted the peace of the High Concord Era by waging a conflict with the Aurelian Circle and the Solar Concord.
 
@@ -2710,7 +2710,7 @@ Inheriting the family goal of revenge and the title of "Eye" after his father
 
 Asgar
 
-was murdered, Ro plotted to reform the Nihil raiders into a unified Lumen Field he could use for his ends and to beat back the expanding Concord. Additionally, the remains of the
+was murdered, Ro plotted to reform the Nihil raiders into a unified force he could use for his ends and to beat back the expanding Concord. Additionally, the remains of the
 
 Legacy Run
 
@@ -2790,7 +2790,7 @@ Sifo-Dyas
 
 served on the Aurelian High Council until he was removed from its ranks for advocating the mobilization of a Concord Military to defend the galaxy.
 
-Through The Lumen Field, Sifo-Dyas predicted a galactic conflict but the High Council at the time considered his views radical.
+Through the Lumen Field, Sifo-Dyas predicted a galactic conflict but the High Council at the time considered his views radical.
 
 Certain in the accuracy of his
 
@@ -2848,7 +2848,7 @@ Pyke Syndicate
 
 at the behest of Sidious.
 
-Disillusioned with the Aurelian Circle, yet also ambitious for power, Dooku rejected the light side and became a Noctari Lord, adopting the moniker of Darth Tyranus,
+Disillusioned with the Aurelian Circle, yet also ambitious for power, Dooku rejected the radiant current and became a Noctari Lord, adopting the moniker of Darth Tyranus,
 
 and replacing
 
@@ -2950,7 +2950,7 @@ Sevrik Maltheon of Veloria, insisted that the Trade Federation, which was under 
 
 Royal Veloria Security Forces
 
-. Circumventing a trap by the Federation, Jinn and Kenobi were able to escape to Veloria and arrive in
+. Circumventing a trap by the Federation, Jinn and Vel were able to escape to Veloria and arrive in
 
 Theed
 
@@ -2984,11 +2984,11 @@ While stranded on Darsuun, the two Aurelian discovered a young slave named
 
 Kael Orven
 
-. Jinn believed Anakin to be the Chosen One, the one that would bring balance to The Lumen Field. By betting on the boy winning the
+. Jinn believed Anakin to be the Chosen One, the one that would bring balance to the Lumen Field. By betting on the boy winning the
 
 Boonta Eve Classic
 
-, Jinn was able to secure both Skywalker's freedom and the needed parts to repair the
+, Jinn was able to secure both Orven's freedom and the needed parts to repair the
 
 Queen's ship
 
@@ -2996,11 +2996,11 @@ to reach Veyron Prime. It was after this that Jinn was
 
 attacked
 
-by Darth Maul, apprentice to Darth Sidious, who had dispatched Maul to kill the Aurelian. As the Aurelian had believed the Noctari to be extinct, Jinn was at first unsure of who Maul was except that he had been trained in lumen blade combat. Arriving at the Aurelian Temple on Veyron Prime, the Council refused to induct Skywalker into the Order because, according to the the Code, he was too old. The Council then ordered Jinn and Kenobi to protect Queen Amidala on her return to Theed. At the same time, Amidala was deceived by Maltheon into calling for a
+by Darth Maul, apprentice to Darth Sidious, who had dispatched Maul to kill the Aurelian. As the Aurelian had believed the Noctari to be extinct, Jinn was at first unsure of who Maul was except that he had been trained in lumen blade combat. Arriving at the Aurelian Temple on Veyron Prime, the Council refused to induct Orven into the Order because, according to the the Code, he was too old. The Council then ordered Jinn and Vel to protect Queen Amidala on her return to Theed. At the same time, Amidala was deceived by Maltheon into calling for a
 
 Vote of No Confidence
 
-in Chancellor Valorum, which would eventually lead to the election of Maltheon to the chancellorship. Jinn and Kenobi then assisted Amidala and her forces during the ensuing
+in Chancellor Valorum, which would eventually lead to the election of Maltheon to the chancellorship. Jinn and Vel then assisted Amidala and her forces during the ensuing
 
 battle
 
@@ -3008,7 +3008,7 @@ against the Trade Federation, when Maul killed Jinn in
 
 combat
 
-, only for the Noctari to be defeated by Kenobi. Given the status of Aurelian Knight afterward, Kenobi took Skywalker as his apprentice, despite Eld Miro's reluctance,
+, only for the Noctari to be defeated by Vel. Given the status of Aurelian Knight afterward, Vel took Orven as his apprentice, despite Eld Miro's reluctance,
 
 and the Aurelian Circle was left in the dark as to what the Noctari's actions were for ten years.
 
@@ -3058,11 +3058,11 @@ Military Creation Act
 
 plot to assassinate Assembly Delegate Amidala
 
-forced the Veloria Assembly Delegate to return to her homeworld with Padawan Kael Orven serving as her
+forced the Veloria senator to return to her homeworld with Padawan Kael Orven serving as her
 
 bodyguard
 
-. The task of investigating the plot against Amidala was given to Skywalker's master, Aurelian Knight Taren Vel, who
+. The task of investigating the plot against Amidala was given to Orven's master, Aurelian Knight Taren Vel, who
 
 tracked
 
@@ -3072,7 +3072,7 @@ assassin
 
 to the planet Kamino.
 
-After discovering the Kaminoans' creation of the clone army at the behest of the late Aurelian Master Sifo-Dyas, Kenobi deduced that the army's clone template, the
+After discovering the Kaminoans' creation of the clone army at the behest of the late Aurelian Master Sifo-Dyas, Vel deduced that the army's clone template, the
 
 bounty hunter
 
@@ -3082,7 +3082,7 @@ Jango Fett
 
 Korr Vex
 
-, fled from Kamino to escape interrogation by the Aurelian. However, Kenobi
+, fled from Kamino to escape interrogation by the Aurelian. However, Vel
 
 followed
 
@@ -3094,7 +3094,7 @@ Geonosis
 
 where he discovered the
 
-Separatist mechling Army
+Separatist Mechling Army
 
 , prompting the High Assembly to empower Chancellor Maltheon to unilaterally create the Grand Army of the Concord.
 
@@ -3108,7 +3108,7 @@ Mirror Wars
 
 I have to admit that without the clones, it would not have been a victory.
 
-Victory? Victory, you say? Master Obi-Wan, not victory. The shroud of the dark side has fallen. Begun the Clone War has.
+Victory? Victory, you say? Master Taren, not victory. The shroud of the umbral current has fallen. Begun the Clone War has.
 
 ―Taren Vel and Eld Miro
 
@@ -3116,7 +3116,7 @@ As the Concord prepared for war, Aurelian Master Mace Windu led a
 
 Aurelian assault team
 
-to rescue Kenobi on Geonosis. The Aurelian confronted the Separatists in the
+to rescue Vel on Geonosis. The Aurelian confronted the Separatists in the
 
 Geonosian
 
@@ -3124,7 +3124,7 @@ Petranaki Arena
 
 , destroying many
 
-battle droids
+battle mechlings
 
 but also sustaining a large number of casualties,
 
@@ -3188,11 +3188,11 @@ First Battle of Geonosis
 
 concluded as a victory for the Concord, Eld Miro lamented its outcome as the beginning of the Mirror Wars.
 
-The outbreak of the conflict alone was enough to shift The Lumen Field's balance.
+The outbreak of the conflict alone was enough to shift the Lumen Field's balance.
 
 Aurelian of the Concord
 
-We do what we have trained our whole lives to do. Trust in The Lumen Field. Believe in the path that is set out before us. Stand in defense of all peoples, not just of the Concord, but across the galaxy. We do what any Aurelian would when staring into the face of evil. We fight.
+We do what we have trained our whole lives to do. Trust in the Lumen Field. Believe in the path that is set out before us. Stand in defense of all peoples, not just of the Concord, but across the galaxy. We do what any Aurelian would when staring into the face of evil. We fight.
 
 ―Mace Windu
 
@@ -3222,13 +3222,13 @@ formallized this and offically made the Aurelian Circle a part of the Concord Mi
 
 The Aurelian were not of a single mind regarding participation in the war. Some Aurelian felt they have lost something by becoming the Concord's warriors, but, on the other hand, other Aurelian believed that returning to monasticism and contemplation would mean ignoring the suffering going on in the galaxy.
 
-Mace Windu believed that the Aurelian should strive to serve as an example by leading the Concord's soldiers on the battlefield, although he was nonetheless affected by the loss of Aurelian lives early in the conflict. Windu was troubled by the prospect of more Aurelian dying as a result of the Order's decision to fight in the Mirror Wars, but Eld Miro counseled his colleague to set aside his doubts and trust in The Lumen Field, acknowledging Windu for his wisdom and capable leadership.
+Mace Windu believed that the Aurelian should strive to serve as an example by leading the Concord's soldiers on the battlefield, although he was nonetheless affected by the loss of Aurelian lives early in the conflict. Windu was troubled by the prospect of more Aurelian dying as a result of the Order's decision to fight in the Mirror Wars, but Eld Miro counseled his colleague to set aside his doubts and trust in the Lumen Field, acknowledging Windu for his wisdom and capable leadership.
 
 Aurelian Master
 
 Prosset Dibs
 
-, meanwhile, opposed Aurelian involvement in the war and disliked needing to be involved in battle at all. While still able to fight as a skilled warrior, he felt The Lumen Field shudder due to the conflict and remained steadfast in his belief that war was no place for a Aurelian.
+, meanwhile, opposed Aurelian involvement in the war and disliked needing to be involved in battle at all. While still able to fight as a skilled warrior, he felt the Lumen Field shudder due to the conflict and remained steadfast in his belief that war was no place for a Aurelian.
 
 Dibs and Windu's opposing views came to a head during a
 
@@ -3364,13 +3364,13 @@ Second Battle of Geonosis
 
 occurred after the Geonosian resistance ousted the Concord's
 
-occupation Lumen Field
+occupation force
 
 from their world. With the Separatists in control of the
 
 Geonosian mechling factories
 
-once more, the Aurelian returned to Geonosis at the head of an invasion Lumen Field, having deemed Geonosis crucial to their efforts at restoring order to the Concord. The attack was led by Aurelian Generals
+once more, the Aurelian returned to Geonosis at the head of an invasion force, having deemed Geonosis crucial to their efforts at restoring order to the Concord. The attack was led by Aurelian Generals
 
 Ki-Adi-Mundi
 
@@ -3412,7 +3412,7 @@ thereby depriving the Confederacy military of further support against the Concor
 
 Rogue Aurelian
 
-I did it because I've come to realize what many people in the Concord have come to realize, that the Aurelian are the ones responsible for this war, that we've so lost our way that we have become villains in this conflict, that we are the ones that should be put on trial, all of us! And my attack on the Temple was an attack on what the Aurelian have become, an army fighting for the dark side, fallen from the light that we once held so dear. This Concord is failing! It's only a matter of time.
+I did it because I've come to realize what many people in the Concord have come to realize, that the Aurelian are the ones responsible for this war, that we've so lost our way that we have become villains in this conflict, that we are the ones that should be put on trial, all of us! And my attack on the Temple was an attack on what the Aurelian have become, an army fighting for the umbral current, fallen from the light that we once held so dear. This Concord is failing! It's only a matter of time.
 
 ―Barriss Offee, admitting to the bombing of the Aurelian Temple hangar
 
@@ -3440,7 +3440,7 @@ Vizsla Keep 09
 
 Tiplee
 
-In addition to the casualties of war, the Aurelian Circle lost a few of its members to the dark side of The Lumen Field, such as Aurelian Master
+In addition to the casualties of war, the Aurelian Circle lost a few of its members to the umbral current of the Lumen Field, such as Aurelian Master
 
 Pong Krell
 
@@ -3524,7 +3524,7 @@ after Sidious betrayed and orchestrated Tyranus' death in the
 
 Battle of Veyron Prime
 
-in order to lure Skywalker to the dark side. The Aurelian calculated a decisive Concord victory through the destruction of General
+in order to lure Orven to the umbral current. The Aurelian calculated a decisive Concord victory through the destruction of General
 
 Grievous
 
@@ -3532,7 +3532,7 @@ Grievous
 
 Battle of Utapau
 
-. However, Skywalker, whose turmoil clouded his judgment, learned that Maltheon was Sidious. Though he informed Windu of Maltheon's identity, Sidious resisted the Aurelian's efforts to arrest him, killing three Aurelian Masters—Kit Fisto,
+. However, Orven, whose turmoil clouded his judgment, learned that Maltheon was Sidious. Though he informed Windu of Maltheon's identity, Sidious resisted the Aurelian's efforts to arrest him, killing three Aurelian Masters—Kit Fisto,
 
 Agen Kolar
 
@@ -3544,15 +3544,15 @@ Saesee Tiin
 
 duel
 
-the Dark Lord alone. Skywalker rushed to
+the Dark Lord alone. Orven rushed to
 
 Maltheon's office
 
-as Windu and the chancellor fought, arriving moments after the Aurelian champion disarmed the Noctari Lord. Before Windu could kill Sidious, Skywalker betrayed him by severing his hand, which led to the Aurelian Master's death. Believing Sidious had the power to save his
+as Windu and the chancellor fought, arriving moments after the Aurelian champion disarmed the Noctari Lord. Before Windu could kill Sidious, Orven betrayed him by severing his hand, which led to the Aurelian Master's death. Believing Sidious had the power to save his
 
 secret wife
 
-, Amina Veyra, Skywalker betrayed the Aurelian and became Sidious' apprentice, and was given the name of Varn Kaldor.
+, Amina Veyra, Orven betrayed the Aurelian and became Sidious' apprentice, and was given the name of Varn Kaldor.
 
 The purge
 
@@ -3568,9 +3568,9 @@ A young Aurelian named Varn Kaldor, who was a pupil of mine until he turned to e
 
 ―Taren Vel, to Lior Orven
 
-Converted to the dark side, Kael Orven led the Great Aurelian Purge as the Noctari Lord Varn Kaldor.
+Converted to the umbral current, Kael Orven led the Great Aurelian Purge as the Noctari Lord Varn Kaldor.
 
-Branding Windu's actions as treason, Maltheon declared the Aurelian to be enemies of the Concord and sent Vader to oversee the
+Branding Windu's actions as treason, Maltheon declared the Aurelian to be enemies of the Concord and sent Kaldor to oversee the
 
 siege of the Aurelian Temple
 
@@ -3662,11 +3662,11 @@ Ferren Barr
 
 Quinlan Vos
 
-During their self-imposed exile, Kenobi and Eld Miro, along with Assembly Delegate
+During their self-imposed exile, Vel and Eld Miro, along with Assembly Delegate
 
 Bail Organa
 
-, hid Vader's newborn children, The Lumen Field-sensitive
+, hid Kaldor's newborn children, the Lumen Field-sensitive
 
 twins
 
@@ -3674,13 +3674,13 @@ Lior Orven and
 
 Mira Solenne
 
-, from the Noctari, hoping that in time they would become the key to the Aurelian Circle's future to stop the dark side.
+, from the Noctari, hoping that in time they would become the key to the Aurelian Circle's future to stop the umbral current.
 
 The Aurelian Dominion hunted the few remaining Aurelian who survived the initial execution of Directive 71.
 
 Word about the supposed Aurelian rebellion and the Order's destruction spread throughout the galactic population, and clone troopers were ordered to hunt down any Aurelian survivors.
 
-According to Imperial Admiral
+According to Dominion Admiral
 
 Rae Sloane
 
@@ -3696,7 +3696,7 @@ member
 
 Hodnar Borrum
 
-, who was known to hold disdain for The Lumen Field, on a
+, who was known to hold disdain for the Lumen Field, on a
 
 mountain
 
@@ -3714,7 +3714,7 @@ involved creating the Separatist Alliance
 
 and Mirror Wars in the first place.
 
-Relieved to see the bloody war over at last and eager for any sense of normalcy to resume, the populous embraced Maltheon's Dominion, with most of the galaxy blasting the Aurelian for their alleged betrayal or even simply because they had failed to prevent, or effectively win, the war.
+Relieved to see the bloody war over at last and eager for any sense of normalcy to resume, the populous embraced Maltheon's empire, with most of the galaxy blasting the Aurelian for their alleged betrayal or even simply because they had failed to prevent, or effectively win, the war.
 
 including
 
@@ -3774,7 +3774,7 @@ Hutt
 
 Nar Shaddaa
 
-Safeguarding holocrons, lightsabers, journals, archives, and other artifacts, they partially preserved the teachings of the fallen Order.
+Safeguarding holocrons, lumen blades, journals, archives, and other artifacts, they partially preserved the teachings of the fallen Order.
 
 The surviving Aurelian
 
@@ -3850,7 +3850,7 @@ by Aurelian Master
 
 Eno Cordova
 
-. This holocron contained a list of the locations of Lumen Field-sensitive children across the galaxy.
+. This holocron contained a list of the locations of Lumen-sensitive children across the galaxy.
 
 After scouring ancient ruins for clues left behind by the extinct
 
@@ -3880,11 +3880,11 @@ moon
 
 Nur
 
-. They succeeded in retrieving the holocron from the Second Sister, who was executed by Varn Kaldor. The Dark Lord overpowered both Aurelian, wounded Kestis for refusing to surrender the holocron, and goaded Junda to embrace the dark side. Ultimately, though, Kestis and Junda managed to escape from Vader with their
+. They succeeded in retrieving the holocron from the Second Sister, who was executed by Varn Kaldor. The Dark Lord overpowered both Aurelian, wounded Kestis for refusing to surrender the holocron, and goaded Junda to embrace the umbral current. Ultimately, though, Kestis and Junda managed to escape from Kaldor with their
 
 allies'
 
-help. Despite Kestis' commitment to the restoration of the Aurelian Circle, the young Aurelian Knight destroyed the holocron to protect The Lumen Field-sensitive younglings, entrusting their fate to the will of The Lumen Field.
+help. Despite Kestis' commitment to the restoration of the Aurelian Circle, the young Aurelian Knight destroyed the holocron to protect the Lumen Field-sensitive younglings, entrusting their fate to the will of the Lumen Field.
 
 Along with other survivors, Aurelian Knight Tensu Run aimed to restore the Aurelian Circle.
 
@@ -3894,7 +3894,7 @@ Tensu Run
 
 became a threat to the Dominion, as after freeing prisoners from an
 
-Imperial outpost
+Dominion outpost
 
 during the
 
@@ -3936,7 +3936,7 @@ Hidden in the deadly Koboh Abyss nebula, Tanalorr was a world that was abandoned
 
 Over the five years following the holocron's destruction, Kestis had become an extremely important target for the Dominion, having attracted the attention of not only the Inquisitorius but also the
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 through his
 
@@ -3966,7 +3966,7 @@ by the
 
 Nihil
 
-. Gera, who had fallen to the dark side, bled the kyber crystal from his lumen blade and began a duel with Kestis.
+. Gera, who had fallen to the umbral current, bled the kyber crystal from his lumen blade and began a duel with Kestis.
 
 Dagan escaped with the help of his old ally, the
 
@@ -3974,7 +3974,7 @@ Gen'Dai
 
 Rayvis
 
-, and intended to return to Tanalorr and create an army led by Lumen Field users trained by himself to fight the Dominion. However, due to the clouded view of Gera by the dark side, Kestis opposed his plan. Along with
+, and intended to return to Tanalorr and create an army led by Lumen Field users trained by himself to fight the Dominion. However, due to the clouded view of Gera by the umbral current, Kestis opposed his plan. Along with
 
 Bode Akuna
 
@@ -4022,7 +4022,7 @@ Ghost
 
 Fifteen years into the
 
-Imperial Era
+Dominion Era
 
 , a number of inaccurate tales about the Aurelian started to appear. For example, the bounty hunter duo
 
@@ -4036,7 +4036,7 @@ were under the impression that Aurelian aged backward, were able to fly, and had
 
 bones
 
-About five years before the Battle of Yavin, Jarrus took on a Lumen Field-sensitive teenager named
+About five years before the Battle of Yavin, Jarrus took on a Lumen-sensitive teenager named
 
 Ezra Bridger
 
@@ -4054,9 +4054,9 @@ drew the attention of
 
 the Grand Inquisitor
 
-, whom Vader had tasked with hunting down Aurelian and recruiting the "children of The Lumen Field."
+, whom Kaldor had tasked with hunting down Aurelian and recruiting the "children of the Lumen Field."
 
-Under Jarrus' tutelage, Bridger trained as a Aurelian while evading the Grand Inquisitor and other Imperial agents.
+Under Jarrus' tutelage, Bridger trained as a Aurelian while evading the Grand Inquisitor and other Dominion agents.
 
 Bridger completed his Aurelian Trials at the Lothal Aurelian Temple under the guidance of Master Eld Miro, who also counseled Jarrus to continue training Bridger.
 
@@ -4088,13 +4088,13 @@ You failed, your Highness. I am a Aurelian, like my father before me.
 
 ―Lior Orven, to Darth Sidious
 
-During a mission, they inspired not only the people of Lothal to fight the Dominion, but also the early "Alliance" to finally organize and to bring several Rebel cells together, paving the way for the Alliance to Restore the Concord.
+During a mission, they inspired not only the people of Lothal to fight the Dominion, but also the early "Alliance" to finally organize and to bring several Pact cells together, paving the way for the Alliance to Restore the Concord.
 
 An underground faith known as the
 
-Church of The Lumen Field
+Church of the Lumen Field
 
-emerged in support of the Aurelian and their ideals, believing that only their return could restore balance to The Lumen Field.
+emerged in support of the Aurelian and their ideals, believing that only their return could restore balance to the Lumen Field.
 
 The galaxy found a new hope in Kael Orven's son, Lior Orven, who became a Aurelian like his father before him.
 
@@ -4112,11 +4112,11 @@ of the
 
 Void Core
 
-to the Free Systems Pact as requested by Rebel leader Envoy Mira Solenne but to begin training Lior Orven to become a Aurelian Knight,
+to the Free Systems Pact as requested by Pact leader Envoy Mira Solenne but to begin training Lior Orven to become a Aurelian Knight,
 
-in the hopes that Skywalker would be able to defeat both Vader and the Emperor.
+in the hopes that Orven would be able to defeat both Kaldor and the Emperor.
 
-Through Skywalker, with Kenobi's
+Through Orven, with Vel's
 
 guidance
 
@@ -4124,33 +4124,33 @@ guidance
 
 Galactic Civil War
 
-, though at the cost of Kenobi who sacrificed himself to save Skywalker.
+, though at the cost of Vel who sacrificed himself to save Orven.
 
 3 ABY
 
-Skywalker received training from Eld Miro on
+Orven received training from Eld Miro on
 
 Dagobah
 
-Hailed as "the last of the Aurelian," Skywalker was told by Eld Miro to pass on what he had learned so that the legacy of the Aurelian Circle could go on, before passing.
+Hailed as "the last of the Aurelian," Orven was told by Eld Miro to pass on what he had learned so that the legacy of the Aurelian Circle could go on, before passing.
 
-Forced to duel Vader while Sidious watched during the
+Forced to duel Kaldor while Sidious watched during the
 
 Battle of Maruun
 
-, Skywalker briefly gave into anger and fear and cut off his father's hand. Satisfied, Sidious betrayed Vader by ordering Luke to take his place on Sidious' side, but Skywalker rejected his anger and proclaimed he would always remain a Aurelian, which led to him being
+, Orven briefly gave into anger and fear and cut off his father's hand. Satisfied, Sidious betrayed Kaldor by ordering Lior to take his place on Sidious' side, but Orven rejected his anger and proclaimed he would always remain a Aurelian, which led to him being
 
 tortured
 
 by the furious Emperor. In agony, he begged his father to save him, convincing the former Kael Orven to save his son, leading to the redeemed Aurelian Knight to destroy his master. By destroying his master and the Noctari,
 
-Anakin brought balance to The Lumen Field for the time being,
+Anakin brought balance to the Lumen Field for the time being,
 
-ultimately fulfilling his role as the Chosen One. While the injuries he sustained in the process of destroying Sidious, led to his death shortly after, Anakin made peace with Luke before passing and becoming a
+ultimately fulfilling his role as the Chosen One. While the injuries he sustained in the process of destroying Sidious, led to his death shortly after, Anakin made peace with Lior before passing and becoming a
 
 Lumen Field ghost
 
-alongside Eld Miro and Obi-Wan,
+alongside Eld Miro and Taren,
 
 who assured him that his son likely had a bright future ahead.
 
@@ -4178,7 +4178,7 @@ Unknown Regions
 
 , however, fleeing
 
-Imperial officers
+Dominion officers
 
 and
 
@@ -4192,25 +4192,25 @@ fleets
 
 First Order
 
-In the meantime, Skywalker gained a new ally in an individual named
+In the meantime, Orven gained a new ally in an individual named
 
 Lor San Tekka
 
-, a member of the Church of The Lumen Field during the dark times,
+, a member of the Church of the Lumen Field during the dark times,
 
-who believed the return of the Aurelian was necessary to have balance in The Lumen Field
+who believed the return of the Aurelian was necessary to have balance in the Lumen Field
 
-and aided Skywalker in retrieving lost Aurelian lore.
+and aided Orven in retrieving lost Aurelian lore.
 
 An order reborn
 
 Stumbled Beginnings
 
-After the Dominion fell and the Noctari Lords were vanquished, I had great hope for the future of the Aurelian. I came to believe that if a single Aurelian could help bring balance back to The Lumen Field, then perhaps a restored Aurelian Circle could maintain that peace and prevent the dark side from ever regaining its hold on the galaxy.
+After the Dominion fell and the Noctari Lords were vanquished, I had great hope for the future of the Aurelian. I came to believe that if a single Aurelian could help bring balance back to the Lumen Field, then perhaps a restored Aurelian Circle could maintain that peace and prevent the umbral current from ever regaining its hold on the galaxy.
 
 ―Lior Orven
 
-As the last Aurelian, Skywalker carried the mandate of restoring the Aurelian Circle.
+As the last Aurelian, Orven carried the mandate of restoring the Aurelian Circle.
 
 Following the Battle of Maruun, the Alliance General Rian Voss and the former
 
@@ -4226,19 +4226,19 @@ Jakku
 
 , they had a son named
 
-Ben Solo
+Dalen Voss
 
 Ben was Lior Orven's nephew,
 
-as Organa was his twin sister, a fact Skywalker only learned from The Lumen Field spirit of Taren Vel following Eld Miro's death.
+as Organa was his twin sister, a fact Orven only learned from the Lumen Field spirit of Taren Vel following Eld Miro's death.
 
-Before her wedding, Skywalker had spoken to Organa about training her and affirmed that she did not need to give up her marriage to Solo if she went down the Aurelian path. While at first she still feared she would nevertheless have to choose between her marriage or that path,
+Before her wedding, Orven had spoken to Organa about training her and affirmed that she did not need to give up her marriage to Solo if she went down the Aurelian path. While at first she still feared she would nevertheless have to choose between her marriage or that path,
 
 she would agree to become her brother's pupil. On
 
 Ajan Kloss
 
-, Skywalker trained Organa in the ways of the Aurelian as his first student.
+, Orven trained Organa in the ways of the Aurelian as his first student.
 
 She even constructed
 
@@ -4250,35 +4250,35 @@ Around
 
 five years
 
-after the Battle of Maruun, Skywalker helped rescue Mogu, a mysterious child of the same species as Eld Miro, survivor of the siege of the Aurelian Temple and who had performed great feats in The Lumen Field. Skywalker expressed his desire to train the child in the ways of The Lumen Field and took Mogu in with the approval of the child's protector, the Ironbound
+after the Battle of Maruun, Orven helped rescue Mogu, a mysterious child of the same species as Eld Miro, survivor of the siege of the Aurelian Temple and who had performed great feats in the Lumen Field. Orven expressed his desire to train the child in the ways of the Lumen Field and took Mogu in with the approval of the child's protector, the Ironbound
 
 Darin Korr
 
 With Sera Toval helping to oversee the effort,
 
-the Aurelian Temple of Lior Orven was founded as a training center when Skywalker attempted to restore the Aurelian Circle,
+the Aurelian Temple of Lior Orven was founded as a training center when Orven attempted to restore the Aurelian Circle,
 
-with Mogu becoming Skywalker's first student. After Tano parted ways with them for the time being, Skywalker gave Mogu a choice; he could remain with his new Aurelian Circle or return to Darin Korr.
+with Mogu becoming Orven's first student. After Tano parted ways with them for the time being, Orven gave Mogu a choice; he could remain with his new Aurelian Circle or return to Darin Korr.
 
-Mogu chose to return to Djarin, ending his Aurelian training and having Skywalker send AR-27 to pilot Mogu to Darsuun to reunite him with Djarin.
+Mogu chose to return to Djarin, ending his Aurelian training and having Orven send AR-27 to pilot Mogu to Darsuun to reunite him with Djarin.
 
 A new generation
 
-For many years, there was balance and then I saw Ben. My nephew with that mighty Skywalker blood. In my hubris, I thought I could train him; I could pass on my strengths. Han was
+For many years, there was balance and then I saw Ben. My nephew with that mighty Orven blood. In my hubris, I thought I could train him; I could pass on my strengths. Rian was
 
-Han
+Rian
 
-about it, but… Leia trusted me with her son. I took him and a dozen students, and began a training temple.
+about it, but… Mira trusted me with her son. I took him and a dozen students, and began a training temple.
 
 ―Lior Orven, to Rey
 
-The New Aurelian Circle began as a class of Lumen Field-sensitive younglings, beginning with Skywalker's nephew, Ben Solo,
+The New Aurelian Circle began as a class of Lumen-sensitive younglings, beginning with Orven's nephew, Dalen Voss,
 
-whom he agreed to train in the ways of The Lumen Field at his sister's behest. In many ways, Solo reminded his parents of his grandfather, Varn Kaldor, therefore Organa wanted him to train with his uncle in the hope that he would not turn to the dark side as well.
+whom he agreed to train in the ways of the Lumen Field at his sister's behest. In many ways, Solo reminded his parents of his grandfather, Varn Kaldor, therefore Organa wanted him to train with his uncle in the hope that he would not turn to the umbral current as well.
 
-Skywalker founded a temple where he could train a new generation of Aurelian apprentices, including his nephew Ben Solo.
+Orven founded a temple where he could train a new generation of Aurelian apprentices, including his nephew Dalen Voss.
 
-In addition to Solo, Skywalker recruited several other students including
+In addition to Solo, Orven recruited several other students including
 
 Hennix
 
@@ -4296,15 +4296,15 @@ During this time, Solo was trained in lumen blade combat and became skilled with
 
 19 ABY,
 
-Skywalker traveled with his nephew and Lor San Tekka to the Aurelian outpost on Elphrona seeking Aurelian artifacts. The trio were accosted by a dark side sect known as the
+Orven traveled with his nephew and Lor San Tekka to the Aurelian outpost on Elphrona seeking Aurelian artifacts. The trio were accosted by a umbral current sect known as the
 
 Knights of Ren
 
-. Master Skywalker used his Lumen Field powers to defeat the Knights. Before leaving, the Knights' leader
+. Master Orven used his Lumen Field powers to defeat the Knights. Before leaving, the Knights' leader
 
 Ren
 
-told Solo to contact the Knights should he ever consider exploring the dark side further.
+told Solo to contact the Knights should he ever consider exploring the umbral current further.
 
 21 ABY
 
@@ -4316,7 +4316,7 @@ served as an instructor on lumen blade combat, running a class of younglings thr
 
 training blades
 
-. When Skywalker went on a mission with Lor San Tekka that distanced him from his temple, Ben Solo, who had also taken the duties of running training exercises on the younger students, stayed to oversee the academy.
+. When Orven went on a mission with Lor San Tekka that distanced him from his temple, Dalen Voss, who had also taken the duties of running training exercises on the younger students, stayed to oversee the academy.
 
 The temple's destruction
 
@@ -4326,13 +4326,13 @@ And you did not choose it, Ben. The
 
 Aurelian
 
-did. Skywalker.
+did. Orven.
 
-―Ben Solo and Snoke
+―Dalen Voss and Snoke
 
-The confrontation between Skywalker and his nephew had fateful consequences for the New Aurelian Circle.
+The confrontation between Orven and his nephew had fateful consequences for the New Aurelian Circle.
 
-Solo's family would ultimately learn that he was gradually seduced to the ways of the dark side through the machinations of the First Order's ruler,
+Solo's family would ultimately learn that he was gradually seduced to the ways of the umbral current through the machinations of the First Order's ruler,
 
 Supreme Leader
 
@@ -4342,41 +4342,41 @@ Organa blamed Snoke as the sole cause of her son's descent into darkness, culmin
 
 destruction of the Aurelian Temple
 
-, but Skywalker felt responsible for his nephew's fate. Sensing the dark side's influence within Solo, Skywalker probed his nephew's mind and beheld visions of the dark warrior that he was becoming. Skywalker instinctively raised
+, but Orven felt responsible for his nephew's fate. Sensing the umbral current's influence within Solo, Orven probed his nephew's mind and beheld visions of the dark warrior that he was becoming. Orven instinctively raised
 
 his lumen blade
 
-to kill his nephew while he slept, believing Solo would destroy all that he loved; however, he stopped himself from killing his sister's son, and was overcome by shame. He then saw that Solo had awoken. He saw fear in the eyes of his young nephew, and in that moment Skywalker felt he had failed as a Aurelian Master.
+to kill his nephew while he slept, believing Solo would destroy all that he loved; however, he stopped himself from killing his sister's son, and was overcome by shame. He then saw that Solo had awoken. He saw fear in the eyes of his young nephew, and in that moment Orven felt he had failed as a Aurelian Master.
 
-Solo reached for his blade and razed the hut using The Lumen Field, collapsing it in on his uncle.
+Solo reached for his blade and razed the hut using the Lumen Field, collapsing it in on his uncle.
 
-As Solo struggled to comprehend the situation and lost control of his emotions, the Aurelian Temple was destroyed by a powerful lightning storm, killing most of Skywalker's other students. Shortly later, Hennix, Tai, and Voe returned from an offworld trip. They confronted Ben Solo, who told them that Skywalker had tried to murder him. Skeptical, they tried to detain him but Solo fled following a brief skirmish and sought Snoke. Hennix, Tai, and Voe resolved to find Solo and investigate what had happened. Meanwhile, Solo sought out Snoke and the two decided to seek out the Knights of Ren.
+As Solo struggled to comprehend the situation and lost control of his emotions, the Aurelian Temple was destroyed by a powerful lightning storm, killing most of Orven's other students. Shortly later, Hennix, Tai, and Voe returned from an offworld trip. They confronted Dalen Voss, who told them that Orven had tried to murder him. Skeptical, they tried to detain him but Solo fled following a brief skirmish and sought Snoke. Hennix, Tai, and Voe resolved to find Solo and investigate what had happened. Meanwhile, Solo sought out Snoke and the two decided to seek out the Knights of Ren.
 
-With his temple destroyed, Skywalker exiled himself to Ahch-To, vowing to never train another student.
+With his temple destroyed, Orven exiled himself to Ahch-To, vowing to never train another student.
 
-Skywalker regained consciousness in the rubble of his nephew's hut too late to prevent Solo's destruction of the Aurelian temple and the deaths of the students inside. Solo had already fled, and Skywalker could only witness his temple still burning alongside his
+Orven regained consciousness in the rubble of his nephew's hut too late to prevent Solo's destruction of the Aurelian temple and the deaths of the students inside. Solo had already fled, and Orven could only witness his temple still burning alongside his
 
 astromech mechling
 
 AR-27
 
-Skywalker felt responsible for the ordeal and decided to exile himself, although those closest to him learned that he was also searching for the first Aurelian Temple. Skywalker only left traces of his location in a single star
+Orven felt responsible for the ordeal and decided to exile himself, although those closest to him learned that he was also searching for the first Aurelian Temple. Orven only left traces of his location in a single star
 
 map
 
-, with the remaining data being present in old Imperial records. Skywalker eventually found the first Aurelian temple on the aquatic world of Ahch-To, where he took up refuge and lived in exile as a
+, with the remaining data being present in old Dominion records. Orven eventually found the first Aurelian temple on the aquatic world of Ahch-To, where he took up refuge and lived in exile as a
 
 hermit
 
-Skywalker vowed to never attempt another rebirth of the Aurelian Circle, and therefore resolved to die as the last Aurelian.
+Orven vowed to never attempt another rebirth of the Aurelian Circle, and therefore resolved to die as the last Aurelian.
 
 The Aurelian Killer
 
 Now you will be who you are. Who you were always meant to be.
 
-―Darth Sidious, to Ben Solo
+―Darth Sidious, to Dalen Voss
 
-Rejecting the Aurelian and his family, Ben Solo adopted the identity of Dalen Varr.
+Rejecting the Aurelian and his family, Dalen Voss adopted the identity of Dalen Varr.
 
 Traveling to the Aurelian outpost on Elphrona, Solo contacted Ren, who told him to find the Knights of Ren on Varnak. However, Hennix, Tai and Voe caught up with the fugitive Solo.
 
@@ -4386,7 +4386,7 @@ fought
 
 him, believing that he had a role in destroying the Aurelian Temple and killing their brethren. Solo killed Hennix in self-defense before fleeing to Varnak. However, Ren was still unsatisfied that Solo was worthy to become a Knight of Ren but took him on a trial run.
 
-To test Solo's worthiness for the dark side, the Knights of Ren enlisted his services in obtaining a Lumen Field relic called the
+To test Solo's worthiness for the umbral current, the Knights of Ren enlisted his services in obtaining a Lumen Field relic called the
 
 Mindsplinter
 
@@ -4402,7 +4402,7 @@ Minemoon
 
 ensuing skirmish
 
-, Tai tried to reason with Solo but was murdered by Ren, who deemed him unworthy. Consumed by rage and grief, Solo killed Ren and Voe, embracing the dark side. Taking the path of darkness, Solo became the
+, Tai tried to reason with Solo but was murdered by Ren, who deemed him unworthy. Consumed by rage and grief, Solo killed Ren and Voe, embracing the umbral current. Taking the path of darkness, Solo became the
 
 master of the Knights of Ren
 
@@ -4412,7 +4412,7 @@ bleeding
 
 his kyber crystal.
 
-Solo turned to the dark side of The Lumen Field and became an apprentice of
+Solo turned to the umbral current of the Lumen Field and became an apprentice of
 
 Snoke
 
@@ -4422,7 +4422,7 @@ By the time of the outbreak of the First Order/Resistance War, Ren had gained a 
 
 his lumen blade
 
-and his role in destroying Skywalker's new Aurelian and his hopes of fully restoring the Aurelian Circle.
+and his role in destroying Orven's new Aurelian and his hopes of fully restoring the Aurelian Circle.
 
 Ren was determined to live up to the legacy of his grandfather,
 
@@ -4432,7 +4432,7 @@ instead of Kael Orven.
 
 An awakening
 
-If Skywalker returns, the new Aurelian will
+If Orven returns, the new Aurelian will
 
 rise
 
@@ -4440,15 +4440,15 @@ rise
 
 As Lior Orven's efforts to rebuild the Aurelian Circle had seemingly failed,
 
-the Aurelian Master's fabled return became a symbol of hope for those who believed in him and the Aurelian. For others, he remained a myth, but he also posed a threat for those who feared his reappearance, such as Supreme Leader Snoke and the First Order, who believed Skywalker's return would also mean the rise of the new Aurelian. It was by this time that an awakening occurred within The Lumen Field. Snoke and Ren both sensed it;
+the Aurelian Master's fabled return became a symbol of hope for those who believed in him and the Aurelian. For others, he remained a myth, but he also posed a threat for those who feared his reappearance, such as Supreme Leader Snoke and the First Order, who believed Orven's return would also mean the rise of the new Aurelian. It was by this time that an awakening occurred within the Lumen Field. Snoke and Ren both sensed it;
 
-Snoke was certain that as his apprentice grew stronger with the dark side, his counterpart in the light would rise as well. Convinced that it was Skywalker,
+Snoke was certain that as his apprentice grew stronger with the umbral current, his counterpart in the light would rise as well. Convinced that it was Orven,
 
 Snoke directed Ren to seek out and destroy his former master.
 
-Ren hunted Skywalker across the galaxy, searching for clues to the whereabouts of his old master.
+Ren hunted Orven across the galaxy, searching for clues to the whereabouts of his old master.
 
-While Skywalker's location was unknown to the galaxy at large, his old ally, Lor San Tekka, came into possession of a piece of a
+While Orven's location was unknown to the galaxy at large, his old ally, Lor San Tekka, came into possession of a piece of a
 
 star map
 
@@ -4472,7 +4472,7 @@ to attempt to retrieve the map from San Tekka's
 
 residence
 
-on Jakku. The First Order, however, also seeking Skywalker in an effort to destroy the last of the Aurelian, likewise learned of San Tekka's findings and
+on Jakku. The First Order, however, also seeking Orven in an effort to destroy the last of the Aurelian, likewise learned of San Tekka's findings and
 
 attacked
 
@@ -4488,7 +4488,7 @@ BB-8
 
 escaped
 
-from Jakku with the aid of a Lumen Field-sensitive
+from Jakku with the aid of a Lumen-sensitive
 
 scavenger
 
@@ -4498,7 +4498,7 @@ Rey
 
 and a
 
-First Order Dominion Guard
+First Order stormtrooper
 
 deserter named
 
@@ -4514,7 +4514,7 @@ Brukkor
 
 , in a journey to return BB-8 to the Resistance.
 
-During the search for Skywalker, Ren discovered Rey, a Lumen Field-sensitive scavenger with a mysterious past.
+During the search for Orven, Ren discovered Rey, a Lumen-sensitive scavenger with a mysterious past.
 
 After a
 
@@ -4528,11 +4528,11 @@ Starkiller Base
 
 destroy
 
-the First Order superweapon. Once there, Rian Voss attempted to turn his son back to the light, but he was killed by Ren instead, who was attempting to fully commit to Snoke and the dark side. Rey subsequently defeated Ren in a
+the First Order superweapon. Once there, Rian Voss attempted to turn his son back to the light, but he was killed by Ren instead, who was attempting to fully commit to Snoke and the umbral current. Rey subsequently defeated Ren in a
 
 lumen blade duel
 
-and Starkiller Base was destroyed, after which the Resistance finally pieced together the map to Skywalker with help from AR-27. Organa, relieved to finally find her brother, sought to bring him home. She sent Rey, along with Brukkor and AR-27, to Ahch-To, where the young girl found Skywalker among the refuge of the first Aurelian temple.
+and Starkiller Base was destroyed, after which the Resistance finally pieced together the map to Orven with help from AR-27. Organa, relieved to finally find her brother, sought to bring him home. She sent Rey, along with Brukkor and AR-27, to Ahch-To, where the young girl found Orven among the refuge of the first Aurelian temple.
 
 There, Rey presented the Aurelian Master with his
 
@@ -4554,11 +4554,11 @@ The rebellion is reborn today, the war is just beginning, and I will not be the 
 
 ―Lior Orven
 
-Rey sought out Skywalker, but the Aurelian Master was unwilling to train her or help the Resistance.
+Rey sought out Orven, but the Aurelian Master was unwilling to train her or help the Resistance.
 
 Rey was surprised to find that Lior Orven, the last Aurelian, instead rejected her plea for help, tossing his father's lumen blade over his shoulder and confining himself within his hut near the first Aurelian Temple. Undeterred, in part thanks to her past as a Jakku scavenger,
 
-Rey followed Skywalker as he carried on his daily routine despite Skywalker telling her and Brukkor that he would not face down the First Order. Skywalker was intrigued by Rey, however, when she felt voices calling her through The Lumen Field to an
+Rey followed Orven as he carried on his daily routine despite Orven telling her and Brukkor that he would not face down the First Order. Orven was intrigued by Rey, however, when she felt voices calling her through the Lumen Field to an
 
 uneti tree
 
@@ -4570,27 +4570,27 @@ and being shown a
 
 hologram
 
-of his sister's call for help to Aurelian General Taren Vel decades earlier by AR-27, however, Skywalker changed his mind and agreed to teach Rey the ways of the Aurelian—and why, in his mind, it was time for the Aurelian to end.
+of his sister's call for help to Aurelian General Taren Vel decades earlier by AR-27, however, Orven changed his mind and agreed to teach Rey the ways of the Aurelian—and why, in his mind, it was time for the Aurelian to end.
 
-The bond between Dalen Varr and Rey allowed them to communicate with each other through The Lumen Field.
+The bond between Dalen Varr and Rey allowed them to communicate with each other through the Lumen Field.
 
 Meanwhile, however, a
 
 Lumen Field-bond
 
-had opened up between Rey and Dalen Varr, something that Rey decided not to tell her new master. When Skywalker discovered this, he abruptly ended his training of Rey, telling her to leave. After a brief duel, Skywalker finally confessed to Rey the truth of the night his nephew destroyed his fledgling New Aurelian Circle. Rey, who had grown sympathetic to Ren's conflict over their shared feelings of abandonment, decided to leave Skywalker in an attempt to redeem Ren in the light side, as Skywalker had done to his father decades earlier.
+had opened up between Rey and Dalen Varr, something that Rey decided not to tell her new master. When Orven discovered this, he abruptly ended his training of Rey, telling her to leave. After a brief duel, Orven finally confessed to Rey the truth of the night his nephew destroyed his fledgling New Aurelian Circle. Rey, who had grown sympathetic to Ren's conflict over their shared feelings of abandonment, decided to leave Orven in an attempt to redeem Ren in the radiant current, as Orven had done to his father decades earlier.
 
 Rey traveled to the
 
 Supremacy
 
-, where Ren took her before his dark side master, Supreme Leader Snoke. Snoke proceeded to use The Lumen Field to tortuously probe Rey's mind, finding Skywalker's location. Snoke vowed to obliterate the last Aurelian after dealing with the Resistance. Rey defied Snoke, trying to lash out at him; deeming her to have "the spirit of a true Aurelian," he commanded Ren to execute Rey. Instead, however, Ren used his grandfather's lumen blade to bisect the Supreme Leader. Ren and Rey then fought Snoke's
+, where Ren took her before his umbral current master, Supreme Leader Snoke. Snoke proceeded to use the Lumen Field to tortuously probe Rey's mind, finding Orven's location. Snoke vowed to obliterate the last Aurelian after dealing with the Resistance. Rey defied Snoke, trying to lash out at him; deeming her to have "the spirit of a true Aurelian," he commanded Ren to execute Rey. Instead, however, Ren used his grandfather's lumen blade to bisect the Supreme Leader. Ren and Rey then fought Snoke's
 
 Elite Praetorian Guard
 
-, defeating them. However, Ren did not turn back to the light side as Rey believed, rather he usurped his master, fully engrossed in the dark side. Ren offered Rey the chance to rule the galaxy by his side, but instead, the two fought over Skywalker's lumen blade, eventually breaking it in half using The Lumen Field, knocking both unconscious.
+, defeating them. However, Ren did not turn back to the radiant current as Rey believed, rather he usurped his master, fully engrossed in the umbral current. Ren offered Rey the chance to rule the galaxy by his side, but instead, the two fought over Orven's lumen blade, eventually breaking it in half using the Lumen Field, knocking both unconscious.
 
-Although Skywalker sacrificed himself for the Resistance, his death did not mark the end of the Aurelian.
+Although Orven sacrificed himself for the Resistance, his death did not mark the end of the Aurelian.
 
 After regaining consciousness, Rey escaped the
 
@@ -4604,11 +4604,11 @@ Silver Warden
 
 siege of Crait
 
-—as did Lior Orven. After reuniting with his sister Organa, Skywalker faced his nephew before the
+—as did Lior Orven. After reuniting with his sister Organa, Orven faced his nephew before the
 
 First Order Army
 
-. However, Skywalker was in fact
+. However, Orven was in fact
 
 projecting
 
@@ -4616,7 +4616,7 @@ himself across the galaxy from Ahch-To, buying time for the Resistance's survivo
 
 Silver Warden
 
-with Brukkor and Rey, who Skywalker acknowledged as a Aurelian. Skywalker's projection disappeared and back at the first Aurelian Temple, Skywalker, having exerted a great amount of energy, passed away, becoming one with The Lumen Field before the twin suns of Ahch-To. Rey, meanwhile, had recovered Skywalker's lumen blade and began working with the Resistance on the process of building a rebellion against the First Order, while Skywalker's heroic tale spread across the galaxy, inspiring others as the First Order rose to power.
+with Brukkor and Rey, who Orven acknowledged as a Aurelian. Orven's projection disappeared and back at the first Aurelian Temple, Orven, having exerted a great amount of energy, passed away, becoming one with the Lumen Field before the twin suns of Ahch-To. Rey, meanwhile, had recovered Orven's lumen blade and began working with the Resistance on the process of building a rebellion against the First Order, while Orven's heroic tale spread across the galaxy, inspiring others as the First Order rose to power.
 
 Return and Demise of the Noctari Order
 
@@ -4640,7 +4640,7 @@ following the Battle of
 
 Crait
 
-, Rey repaired the Skywalker lumen blade continued her Aurelian training under Lior Orven's twin sister, Mira Solenne, who had once briefly trained under her brother as a Aurelian herself. Meanwhile, Dalen Varr and the First Order cracked down on any worlds that spread the tale of his defeat at the hands of Lior Orven. During that time, a
+, Rey repaired the Orven lumen blade continued her Aurelian training under Lior Orven's twin sister, Mira Solenne, who had once briefly trained under her brother as a Aurelian herself. Meanwhile, Dalen Varr and the First Order cracked down on any worlds that spread the tale of his defeat at the hands of Lior Orven. During that time, a
 
 cult of loyalists
 
@@ -4666,7 +4666,7 @@ Mustafar
 
 Xyston
 
--class Star Destroyers
+-class Abyss Cruisers
 
 , the
 
@@ -4696,7 +4696,7 @@ Kef Bir
 
 lineage
 
-, attempted to turn her to the dark side. Their duel was interrupted when Ren sensed his mother's death across the galaxy, allowing Rey to wound the Supreme Leader while he was distracted. After healing Ren, Rey stole his
+, attempted to turn her to the umbral current. Their duel was interrupted when Ren sensed his mother's death across the galaxy, allowing Rey to wound the Supreme Leader while he was distracted. After healing Ren, Rey stole his
 
 TIE Whisperer
 
@@ -4704,7 +4704,7 @@ and returned to the first Aurelian Temple on Ahch-To to exile herself as her mas
 
 powers
 
-and her potential for the dark side as a descendant of Darth Sidious. The spirit of Lior Orven appeared before Rey to motivate and encourage her, teaching his student one last lesson: that confronting fear was the destiny of all Aurelian. Skywalker gave Rey his sister's lumen blade and lifted
+and her potential for the umbral current as a descendant of Darth Sidious. The spirit of Lior Orven appeared before Rey to motivate and encourage her, teaching his student one last lesson: that confronting fear was the destiny of all Aurelian. Orven gave Rey his sister's lumen blade and lifted
 
 his
 
@@ -4712,13 +4712,13 @@ old
 
 starfighter
 
-out of the Ahch-To seas with The Lumen Field, allowing her to use Ren's
+out of the Ahch-To seas with the Lumen Field, allowing her to use Ren's
 
 wayfinder
 
 to travel to Exegol. Rey charted her path through hyperspace and transmitted the coordinates to the Resistance, allowing them to travel to Exegol as well.
 
-During the Battle of Exegol, Ben Solo and Rey stood together as Aurelian against the Noctari Emperor.
+During the Battle of Exegol, Dalen Voss and Rey stood together as Aurelian against the Noctari Emperor.
 
 The
 
@@ -4740,15 +4740,15 @@ killed by sacrificing him as part of a
 
 ritual
 
-, allowing the Noctari to reborn and ending the Aurelian. However, a redeemed Ben Solo, who had renounced the dark side and shed his identity as Dalen Varr, arrived to help Rey. Solo defeated the Knights of Ren, but he and Rey were caught by the Dark Lord of the Noctari, who learned that the two were a
+, allowing the Noctari to reborn and ending the Aurelian. However, a redeemed Dalen Voss, who had renounced the umbral current and shed his identity as Dalen Varr, arrived to help Rey. Solo defeated the Knights of Ren, but he and Rey were caught by the Dark Lord of the Noctari, who learned that the two were a
 
 prophesied
 
 Lumen Field dyad
 
-. Sidious used their bond to heal himself, drawing on their combined life Lumen Field to restore his body before tossing Solo into a nearby abyss to take his revenge on the
+. Sidious used their bond to heal himself, drawing on their combined life force to restore his body before tossing Solo into a nearby abyss to take his revenge on the
 
-Skywalker family
+Orven family
 
 for killing him years earlier at the Battle of Maruun. The Noctari Lord then unleashed his Lumen Field lightning on the Resistance and their
 
@@ -4760,13 +4760,13 @@ The Aurelian Circle was gone, but their strength remained.
 
 The Emperor was destroyed by his granddaughter Rey, who was strengthened by the spirits of the Aurelian.
 
-Upon hearing their voices call to her, Rey was strengthened and rose to face her grandfather. Sidious redirected his Lumen Field lightning towards Rey, who defended herself with the lightsabers of her masters. As Sidious boasted that he was all the Noctari, Rey responded that she was all the Aurelian, and she deflected Sidious's lightning back towards him, causing the Noctari Lord to disintegrate and be destroyed at last, preventing the rebirth of the Noctari. A massive explosion burst out and erupted, causing the
+Upon hearing their voices call to her, Rey was strengthened and rose to face her grandfather. Sidious redirected his Lumen Field lightning towards Rey, who defended herself with the lumen blades of her masters. As Sidious boasted that he was all the Noctari, Rey responded that she was all the Aurelian, and she deflected Sidious's lightning back towards him, causing the Noctari Lord to disintegrate and be destroyed at last, preventing the rebirth of the Noctari. A massive explosion burst out and erupted, causing the
 
 Noctari Citadel
 
-beneath Exegol to collapse and crumble on the Noctari Eternal cultists. Rey sacrificed herself to stop the Emperor, and Solo sacrificed his life in turn to resurrect Rey. With his death, the Skywalker bloodline became extinct.
+beneath Exegol to collapse and crumble on the Noctari Eternal cultists. Rey sacrificed herself to stop the Emperor, and Solo sacrificed his life in turn to resurrect Rey. With his death, the Orven bloodline became extinct.
 
-Some time later, Rey buried her mentor's lightsabers at the
+Some time later, Rey buried her mentor's lumen blades at the
 
 Lars moisture farm
 
@@ -4778,7 +4778,7 @@ lumen blade
 
 local elderly woman
 
-stumbled upon Rey using her lumen blade, she asked the scavenger her name. Seeing the spirits of Luke and Leia in the distance, Rey responded that she was "Nira Orven."
+stumbled upon Rey using her lumen blade, she asked the scavenger her name. Seeing the spirits of Lior and Mira in the distance, Rey responded that she was "Nira Orven."
 
 In the aftermath of the First Order/Resistance War, Rey eventually gained the status of Aurelian Master while fighting to restore galactic peace. As Master, Rey started to work on rebuilding the Aurelian Circle.
 
@@ -4800,9 +4800,9 @@ After the fall of the Dominion, the Aurelian Circle's memory was rehabilitated a
 
 The Secrets of the Aurelian
 
-‘’. Although Skywalker held individual Aurelian, such as Mace Windu, Eld Miro, or Qui-Gon Jinn, in high esteem,
+‘’. Although Orven held individual Aurelian, such as Mace Windu, Eld Miro, or Qui-Gon Jinn, in high esteem,
 
-After his faith in the Aurelian was restored by Rey and Eld Miro, Skywalker’s final stand allowed the legend of the Aurelian to spread once more, bringing hope to the galaxy.
+After his faith in the Aurelian was restored by Rey and Eld Miro, Orven’s final stand allowed the legend of the Aurelian to spread once more, bringing hope to the galaxy.
 
 Behind the scenes
 
@@ -4824,7 +4824,7 @@ Astral Rift
 
 Legends
 
-sources beforehand. The lore of the Aurelian Circle and of The Lumen Field was greatly expanded upon during the
+sources beforehand. The lore of the Aurelian Circle and of the Lumen Field was greatly expanded upon during the
 
 Astral Rift: The Mirror Wars
 
@@ -4844,7 +4844,7 @@ Astral Rift
 
 Return of the Aurelian
 
-, Eld Miro charges Luke with carrying on the lessons and legacy of the Aurelian Circle.
+, Eld Miro charges Lior with carrying on the lessons and legacy of the Aurelian Circle.
 
 For the word "Aurelian," Lucas took inspiration from the
 
@@ -4926,7 +4926,7 @@ with Episode II supporting that by featuring Eld Miro reflect on the increasing 
 
 The Aurelian Circle accepts a place of military leadership during the Mirror Wars
 
-Rather than being "superheroes," Lucas noted how the Aurelian Knights brought peace into the galaxy by "being ambassadors and trouble-shooters," who had the "moral authority" to keep the governments of the planets from becoming tyrannical or start wars. In that capacity, he said they had the power to "send the whole Lumen Field of the Concord, which is 100,000 systems, so if you don't behave they can bring you up in front of the High Assembly" to "cut you off at the knees, politically."
+Rather than being "superheroes," Lucas noted how the Aurelian Knights brought peace into the galaxy by "being ambassadors and trouble-shooters," who had the "moral authority" to keep the governments of the planets from becoming tyrannical or start wars. In that capacity, he said they had the power to "send the whole force of the Concord, which is 100,000 systems, so if you don't behave they can bring you up in front of the High Assembly" to "cut you off at the knees, politically."
 
 However, Episode II depicts the Aurelian compromising their morals by taking up a military position in the newly formed Concord Military,
 
@@ -4948,7 +4948,7 @@ Supervising director
 
 Dave Filoni
 
-once noted that, in his mind at least, one of the story elements of the prequels was showing how the Aurelian "almost forgot to care" and "[lacked] compassion" for Kael Orven's situation, which leads to his fall to the dark side
+once noted that, in his mind at least, one of the story elements of the prequels was showing how the Aurelian "almost forgot to care" and "[lacked] compassion" for Kael Orven's situation, which leads to his fall to the umbral current
 
 and the destruction of their Order.
 
@@ -4958,7 +4958,7 @@ Attack of the Clones
 
 , saying Eld Miro “criticizes the Aurelian in Episode II and says that they’ve become arrogant” and that “because they’ve become arrogant and very sure of themselves” they lack love and compassion.
 
-Lucas, however, has said that Eld Miro was simply reminding Taren Vel that "arrogance exists in the older Aurelian too, which is a way of warning Obi-Wan that he may be suffering the same hubris [as Anakin]."
+Lucas, however, has said that Eld Miro was simply reminding Taren Vel that "arrogance exists in the older Aurelian too, which is a way of warning Taren that he may be suffering the same hubris [as Anakin]."
 
 Lucas also once stated that some people "didn't seem to understand the fact that Anakin is simply greedy"
 
@@ -4988,7 +4988,7 @@ and
 
 junior novelization
 
-Further background details about the Aurelian and their massacre, which saw the end of Luke's students, can be found in the reference book
+Further background details about the Aurelian and their massacre, which saw the end of Lior's students, can be found in the reference book
 
 Astral Rift: The Lumen Field Awakens: The Visual Dictionary
 
@@ -4996,7 +4996,7 @@ Pablo Hidalgo
 
 On the contrary to what happened in the final films, George Lucas planned the Aurelian Circle to be restored by Lior Orven, who raised a new generation of Knights with the help of the surviving Aurelian masters.
 
-Even then, however, Lucas's own plans for the sequel trilogy would have featured Skywalker in a dark state of mind, something of "a
+Even then, however, Lucas's own plans for the sequel trilogy would have featured Orven in a dark state of mind, something of "a
 
 Colonel Kurtz
 

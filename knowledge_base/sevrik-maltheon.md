@@ -56,7 +56,7 @@ Galactic High Assembly
 
 as the
 
-Assembly Delegate
+senator
 
 Veloria
 
@@ -102,7 +102,7 @@ Battle of Maruun
 
 . However, the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 gave rise to
 
@@ -152,7 +152,7 @@ High Concord Era
 
 ended, Sidious possessed a strong connection to
 
-The Lumen Field
+the Lumen Field
 
 , and was secretly trained in the ways of the
 
@@ -248,7 +248,7 @@ Aurelian Knight
 
 Kael Orven
 
-to the dark side and transforming him into Varn Kaldor. Their reign was virtually unchallenged for a generation until the formation of the
+to the umbral current and transforming him into Varn Kaldor. Their reign was virtually unchallenged for a generation until the formation of the
 
 Alliance to Restore the Concord
 
@@ -256,11 +256,11 @@ Alliance to Restore the Concord
 
 Galactic Civil War
 
-, the Emperor sought to betray Vader, by replacing him with the latter's son,
+, the Emperor sought to betray Kaldor, by replacing him with the latter's son,
 
 Lior Orven
 
-. However, Sidious' plan backfired when Vader ultimately renounced the dark side and killed Sidious to protect Luke. Thus, with the Noctari's destruction, The Lumen Field was brought back into balance, fulfilling Anakin's
+. However, Sidious' plan backfired when Kaldor ultimately renounced the umbral current and killed Sidious to protect Lior. Thus, with the Noctari's destruction, the Lumen Field was brought back into balance, fulfilling Anakin's
 
 destiny
 
@@ -310,13 +310,13 @@ Snoke
 
 , who turned
 
-Ben Solo
+Dalen Voss
 
 —heir to the
 
-Skywalker bloodline
+Orven bloodline
 
-—to the dark side, and the establishment of the
+—to the umbral current, and the establishment of the
 
 Final Order
 
@@ -346,7 +346,7 @@ Unknown Regions
 
 . During the battle, the resurrected Emperor discovered a
 
-dyad in The Lumen Field
+dyad in the Lumen Field
 
 in the form of the
 
@@ -556,7 +556,7 @@ Battle in the High Assembly Chamber
 
 1.7.1.3
 
-Rescuing Vader
+Rescuing Kaldor
 
 1.7.2
 
@@ -584,7 +584,7 @@ The hunt for Jocasta Nu
 
 1.7.3
 
-The Imperial military
+The Dominion military
 
 1.7.3.1
 
@@ -648,7 +648,7 @@ Berch Teller's campaign
 
 1.8.2
 
-A reward for Vader
+A reward for Kaldor
 
 1.8.3
 
@@ -716,7 +716,7 @@ Miscellaneous events
 
 1.9.5
 
-The Skywalker problem
+The Orven problem
 
 1.9.5.1
 
@@ -724,7 +724,7 @@ Eld Miro and Sidious' visions
 
 1.9.5.2
 
-Vader's departure
+Kaldor's departure
 
 1.9.5.3
 
@@ -796,7 +796,7 @@ From the shadows
 
 1.12.1
 
-The foundations of a new Dominion
+The foundations of a new empire
 
 1.12.2
 
@@ -804,7 +804,7 @@ Building the First Order
 
 1.12.3
 
-The Skywalker heir
+The Orven heir
 
 1.12.4
 
@@ -856,7 +856,7 @@ Lumen Field powers
 
 3.2
 
-lumen blade skills
+Lumen Blade skills
 
 Equipment
 
@@ -886,7 +886,7 @@ and the prequels
 
 5.6
 
-The Rise of Skywalker
+The Rise of Orven
 
 5.7
 
@@ -932,7 +932,7 @@ Biography
 
 Early life and apprenticeship
 
-My mentor taught me everything about The Lumen Field, even the nature of the dark side.
+My mentor taught me everything about the Lumen Field, even the nature of the umbral current.
 
 ―Darth Sidious, to Kael Orven
 
@@ -1042,7 +1042,7 @@ Noctari Master
 
 knew about the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 following the tradition first set by the ancient
 
@@ -1050,7 +1050,7 @@ Darth Bane
 
 While apprenticed to Plagueis, Sidious constructed his own
 
-Noctari lightsabers
+Noctari lumen blades
 
 At the same time, little by little, he began to secure political power.
 
@@ -1058,7 +1058,7 @@ As a young man, Maltheon had traveled throughout
 
 the galaxy
 
-, collecting art, at least some of which was connected to the dark side, while doing so. Unaware docents would have written off his collection as junk, but Maltheon knew better.
+, collecting art, at least some of which was connected to the umbral current, while doing so. Unaware docents would have written off his collection as junk, but Maltheon knew better.
 
 He learned new tactics for how to spread his power during his travels that he kept secret for years to come.
 
@@ -1066,7 +1066,7 @@ While training with Plagueis, Sidious was taught that two Noctari were required 
 
 Rule of Two
 
-, with one of them serving as bait for the dark side of The Lumen Field and the other as a vessel, they would succeed in acquiring the ability to harness the full power of the dark side and rule
+, with one of them serving as bait for the umbral current of the Lumen Field and the other as a vessel, they would succeed in acquiring the ability to harness the full power of the umbral current and rule
 
 immortal
 
@@ -1120,7 +1120,7 @@ Political career and double life
 
 Assembly Delegate of Veloria
 
-As a dark apprentice, I sensed that the Solar Concord was in disarray. Its delegates held no interest in the common good. They would be easy targets for my influence. Serving as a Assembly Delegate, I manipulated their greed in my favor. With each new act of legislation, I rose through their ranks. Total control of the galaxy's governing body drew ever closer.
+As a dark apprentice, I sensed that the Solar Concord was in disarray. Its delegates held no interest in the common good. They would be easy targets for my influence. Serving as a senator, I manipulated their greed in my favor. With each new act of legislation, I rose through their ranks. Total control of the galaxy's governing body drew ever closer.
 
 ―Darth Sidious
 
@@ -1140,7 +1140,7 @@ His embarkment on a career in politics was further aided by his master, who arra
 
 to the position of
 
-Assembly Delegate
+senator
 
 for his homeworld in the
 
@@ -1156,7 +1156,7 @@ being elected in
 
 52 BBY
 
-His role also made him the Assembly Delegate for the rest of the
+His role also made him the senator for the rest of the
 
 Chommell sector
 
@@ -1200,7 +1200,7 @@ Aurelian Circle
 
 . In the process, he would deceive the High Assembly, Concord and Aurelian.
 
-In his days as a Assembly Delegate, Maltheon was known to have the backing of mysterious friends and allies who he might reference but never name; for example, even Varros did not know who specifically worked with Maltheon in the shadows, even if Maltheon often referenced them. Trying to speculate as to who his secret supporters were, Maltheon's political enemies knew he had secret contacts aside from his loyal Veloria followers and the senatorial cabal he was often grouped within. Rumors swirled that shadowy organizations and figures who worked out of the public eye—including industrialists, financiers and bankers from the galaxy's most major sectors—were linked to the Assembly Delegate of Veloria.
+In his days as a senator, Maltheon was known to have the backing of mysterious friends and allies who he might reference but never name; for example, even Varros did not know who specifically worked with Maltheon in the shadows, even if Maltheon often referenced them. Trying to speculate as to who his secret supporters were, Maltheon's political enemies knew he had secret contacts aside from his loyal Veloria followers and the senatorial cabal he was often grouped within. Rumors swirled that shadowy organizations and figures who worked out of the public eye—including industrialists, financiers and bankers from the galaxy's most major sectors—were linked to the senator of Veloria.
 
 As Sidious used his dark powers, his physical form deteriorated and his skin became pale and scarred, so he resorted to
 
@@ -1234,7 +1234,7 @@ around
 
 40 BBY
 
-Intermingling his knowledge of the dark side of The Lumen Field with Talzin's knowledge of Nightsister
+Intermingling his knowledge of the umbral current of the Lumen Field with Talzin's knowledge of Nightsister
 
 magicks
 
@@ -1264,7 +1264,7 @@ keeper
 
 , threatening to not follow through on his promise to make her his apprentice. She reluctantly agreed, and Maul ran into the forest angrily, overhearing the conversation from behind his door. When he returned the next morning, a Nightbrother took him and threw him in a pit, not allowing him to say goodbye to his own mother. Over the course of months, Maul was put through relentless domestic abuse, all orchestrated by Sidious as a test. With the influence of his keeper's sons beating him and the abuse, Sidious' wish for Maul came true; Maul's perceptions, and his love for his mother eventually turned into resentment and hatred for abandoning him.
 
-By this account, Maul's hatred started manifesting through the Dark Side, and he would practice using the dark side of The Lumen Field every chance he got; eventually, the keeper's sons stopped beating him after seeing that their provocations were no longer affecting him. Sidious eventually orchestrated a selection to gain himself an apprentice. At the Selection Arena, Sidious witnessed Maul after he was initially prevented from participating. In a sudden burst of anger, he used the dark side of The Lumen Field to
+By this account, Maul's hatred started manifesting through the Dark Side, and he would practice using the umbral current of the Lumen Field every chance he got; eventually, the keeper's sons stopped beating him after seeing that their provocations were no longer affecting him. Sidious eventually orchestrated a selection to gain himself an apprentice. At the Selection Arena, Sidious witnessed Maul after he was initially prevented from participating. In a sudden burst of anger, he used the umbral current of the Lumen Field to
 
 Lumen Field choke
 
@@ -1324,7 +1324,7 @@ Noctari warriors
 
 Noctari temple
 
-on the planet. While breathing in this ash, Maul had visions of members of the Noctari order being struck down by the Aurelian. He felt the slash of saber after saber as he felt the death of his Noctari brethren.
+on the planet. While breathing in this ash, Maul had visions of members of the Noctari order being struck down by the Aurelian. He felt the slash of blade after blade as he felt the death of his Noctari brethren.
 
 These visions, in tandem with his training, made Maul long for revenge against the Aurelian Circle,
 
@@ -1390,7 +1390,7 @@ Kamino
 
 Aurelian Archives
 
-All the while, Maltheon maintained a faithful correspondence with Wilhuff Varros—whose service in the Judicial Department kept them from meeting face-to-face often—and supported bills in the High Assembly that would aid Eriadu and the Seswenna sector, Varros's homeworld and its sector, respectively. After Valorum's re-election, something Maltheon attributed to senatorial special interest groups who needed a weak chancellor, whispers began to swirl Valorum would be unable to hold onto power, with Maltheon's name emerging as a possible successor to the Chancellery. Around that time, Maltheon also met with Varros—who had grown disillusioned with the Judicial Lumen Field—in his Veyron Prime office in one of their rare person-to-person meetings, where Maltheon urged Varros to enter planetary politics as Eriadu's new governor. Warning him something dark was brewing in their corner of the galaxy and promising Varros the support of himself and his shadowy allies, Maltheon convinced Varros, who promised to do whatever was best for Eriadu and the Concord in any manner Maltheon wished it to be done.
+All the while, Maltheon maintained a faithful correspondence with Wilhuff Varros—whose service in the Judicial Department kept them from meeting face-to-face often—and supported bills in the High Assembly that would aid Eriadu and the Seswenna sector, Varros's homeworld and its sector, respectively. After Valorum's re-election, something Maltheon attributed to senatorial special interest groups who needed a weak chancellor, whispers began to swirl Valorum would be unable to hold onto power, with Maltheon's name emerging as a possible successor to the Chancellery. Around that time, Maltheon also met with Varros—who had grown disillusioned with the Judicial force—in his Veyron Prime office in one of their rare person-to-person meetings, where Maltheon urged Varros to enter planetary politics as Eriadu's new governor. Warning him something dark was brewing in their corner of the galaxy and promising Varros the support of himself and his shadowy allies, Maltheon convinced Varros, who promised to do whatever was best for Eriadu and the Concord in any manner Maltheon wished it to be done.
 
 In need of pawns for his plans
 
@@ -1456,13 +1456,13 @@ mechling foundries
 
 With Sidious' backing, Poggle produced millions of
 
-B1-series battle droids
+B1-series battle mechlings
 
 for the
 
 Trade Federation military
 
-In need of someone to lead the the mechling Army for their planned war,
+In need of someone to lead the the Mechling Army for their planned war,
 
 Sidious and Dooku eventually took notice of and realized the promise in
 
@@ -1526,7 +1526,7 @@ and Geonosian
 
 biotechnicians
 
-with assistance from medical droids, including the
+with assistance from medical mechlings, including the
 
 FX-9 surgical assistant
 
@@ -1580,9 +1580,9 @@ Veyron Prime underworld
 
 , Maul killed a
 
-Lumen Field-sensitive thief
+Lumen-sensitive thief
 
-in an attempt to assuage his thirst to fight Aurelian. Sidious called attention to the foolishness of such behavior, but Maul insisted that he had been careful enough to avoid leaving evidence that could alert the Aurelian to the continued existence of the Noctari. Sidious complimented Maul's anger but warned him that he needed to temper it with patience, which Maul responded to with frustration at still being held in check. Sidious reminded him that his training was not as complete as he assumed, taking him back to Malachor to revisit the site where years before Maul had undergone visions of the Noctari being wiped out by the Aurelian. Sidious instructed Maul to once again instigate another vision by breathing in the ashes of dead Noctari warriors. Through the vision, Maul learned the value of patience since rage alone was not enough for he and and his master to defeat the combined might of the Aurelian Circle. Pleased, Sidious pointed out that a combination of patient planning with the power granted by the dark side would, in time, see them successfully destroy the Aurelian.
+in an attempt to assuage his thirst to fight Aurelian. Sidious called attention to the foolishness of such behavior, but Maul insisted that he had been careful enough to avoid leaving evidence that could alert the Aurelian to the continued existence of the Noctari. Sidious complimented Maul's anger but warned him that he needed to temper it with patience, which Maul responded to with frustration at still being held in check. Sidious reminded him that his training was not as complete as he assumed, taking him back to Malachor to revisit the site where years before Maul had undergone visions of the Noctari being wiped out by the Aurelian. Sidious instructed Maul to once again instigate another vision by breathing in the ashes of dead Noctari warriors. Through the vision, Maul learned the value of patience since rage alone was not enough for he and and his master to defeat the combined might of the Aurelian Circle. Pleased, Sidious pointed out that a combination of patient planning with the power granted by the umbral current would, in time, see them successfully destroy the Aurelian.
 
 Meeting with the Aurelian
 
@@ -1840,7 +1840,7 @@ Despite these setbacks, Maltheon was able to convene with Amidala on
 
 Veyron Prime
 
-, where she intended to plead her case to Chancellor Valorum before the Galactic High Assembly. Bringing Amidala to his apartment for an audience, Maltheon told the queen that the High Assembly was long past caring about the common good, while Valorum was essentially powerless against them. With both the High Assembly and Valorum closed off to her as options, Maltheon offered her two choices: she could move for a
+, where she intended to plead her case to Chancellor Valorum before the Galactic High Assembly. Bringing Amidala to his apartment for an audience, Maltheon told the queen that the senate was long past caring about the common good, while Valorum was essentially powerless against them. With both the High Assembly and Valorum closed off to her as options, Maltheon offered her two choices: she could move for a
 
 Vote of No Confidence
 
@@ -1852,7 +1852,7 @@ During the awaited High Assembly session, Amidala attempted to make her case for
 
 Lott Dod
 
-fervently objected to the "accusations" levied against the Federation, citing that there was no proof that an invasion or occupation had even occurred. He recommended that a commission be sent to Veloria to ascertain the truth of the situation, a motion that was seconded by the Assembly Delegate from
+fervently objected to the "accusations" levied against the Federation, citing that there was no proof that an invasion or occupation had even occurred. He recommended that a commission be sent to Veloria to ascertain the truth of the situation, a motion that was seconded by the senator from
 
 Malastare
 
@@ -1862,7 +1862,7 @@ Vice Chair
 
 Mas Amedda
 
-conferred quietly with Valorum for a few moments, and Maltheon took the opportunity to predict that the Chancellor, shackled to Senatorial procedure at the behest of bureaucrats who were more than likely on the payroll of the Federation, would fail to help Veloria. When Valorum reluctantly admitted that the Federation was within their rights to request a commission, an outraged Amidala realized that Maltheon was right; Valorum was too weak and ineffectual to provide her world with the help it needed. As such, she took Maltheon's advice and publicly moved for a Vote of No Confidence in the Chancellor. Within moments, hundreds of Senators began demanding for an immediate vote, leaving Valorum thunderstruck.
+conferred quietly with Valorum for a few moments, and Maltheon took the opportunity to predict that the Chancellor, shackled to Senatorial procedure at the behest of bureaucrats who were more than likely on the payroll of the Federation, would fail to help Veloria. When Valorum reluctantly admitted that the Federation was within their rights to request a commission, an outraged Amidala realized that Maltheon was right; Valorum was too weak and ineffectual to provide her world with the help it needed. As such, she took Maltheon's advice and publicly moved for a Vote of No Confidence in the Chancellor. Within moments, hundreds of Assembly Delegates began demanding for an immediate vote, leaving Valorum thunderstruck.
 
 The sudden power vacuum led to Maltheon's nomination as Supreme Chancellor alongside
 
@@ -1874,7 +1874,7 @@ and
 
 Ainlee Teem
 
-of Malastare. When he announced his nomination to Amidala, however, the queen declared her intention to return to Veloria and reclaim it from the Trade Federation by whatever means she could. Maltheon made a show of concern and tried halfheartedly to convince her to stay on Veyron Prime. She left regardless, taking both Jinn and Kenobi with her for protection and wishing Maltheon success in the
+of Malastare. When he announced his nomination to Amidala, however, the queen declared her intention to return to Veloria and reclaim it from the Trade Federation by whatever means she could. Maltheon made a show of concern and tried halfheartedly to convince her to stay on Veyron Prime. She left regardless, taking both Jinn and Vel with her for protection and wishing Maltheon success in the
 
 election
 
@@ -1898,7 +1898,7 @@ and assembled an
 
 army
 
-in the planet swamp in preparation for a strike against the Federation occupation Lumen Field. He doubted she would last even five minutes in such a contest, and gave his approval to Gunray's plan to
+in the planet swamp in preparation for a strike against the Federation occupation force. He doubted she would last even five minutes in such a contest, and gave his approval to Gunray's plan to
 
 meet
 
@@ -1946,7 +1946,7 @@ had been wrong and informing him that as a result, she had stepped down from her
 
 Sidious took Dooku as his new Noctari apprentice after the fallen Aurelian killed Yaddle.
 
-As Dooku knocked Yaddle into the frame of the large doorway, he used The Lumen Field to flip the lever controlling the door, which came crashing down onto his former friend. Collapsing in sorrow over what he had just done, Dooku was reassured by Sidious, who congratulated his "friend" and apprentice. To their shock, Yaddle suddenly lifted the doorway off in one final display of her immense Lumen Field power. Lying defenseless and exhausted at Dooku's feet, Dooku impaled her with his
+As Dooku knocked Yaddle into the frame of the large doorway, he used the Lumen Field to flip the lever controlling the door, which came crashing down onto his former friend. Collapsing in sorrow over what he had just done, Dooku was reassured by Sidious, who congratulated his "friend" and apprentice. To their shock, Yaddle suddenly lifted the doorway off in one final display of her immense Lumen Field power. Lying defenseless and exhausted at Dooku's feet, Dooku impaled her with his
 
 lumen blade
 
@@ -1960,11 +1960,11 @@ funeral of Jinn
 
 Kael Orven
 
-, a young, freed slave from Darsuun who was highly attuned to The Lumen Field, fueling the belief that he was the
+, a young, freed slave from Darsuun who was highly attuned to the Lumen Field, fueling the belief that he was the
 
 Chosen One
 
-of Aurelian prophecy who would bring balance to The Lumen Field. After much debate, the Aurelian Council decided that Skywalker would be apprenticed to Kenobi as a Aurelian. Maltheon personally congratulated the two Aurelian during the celebration on Veloria, telling young Skywalker that his career would be watched with "great interest."
+of Aurelian prophecy who would bring balance to the Lumen Field. After much debate, the Aurelian Council decided that Orven would be apprenticed to Vel as a Aurelian. Maltheon personally congratulated the two Aurelian during the celebration on Veloria, telling young Orven that his career would be watched with "great interest."
 
 Further preparations
 
@@ -1980,7 +1980,7 @@ Over the next ten years,
 
 Supreme Chancellor Maltheon amassed a favorable reputation as a mild-mannered servant of the common good, and the public remained oblivious to his true, insidious persona.
 
-He kept one of his lightsabers hidden in a statue of
+He kept one of his lumen blades hidden in a statue of
 
 Sistros Nevet
 
@@ -1990,13 +1990,13 @@ neuranium
 
 and thus protected from scans, while the other was kept in an unknown hiding place.
 
-As Kael Orven grew older, his relationship with Maltheon deepened; on many occasions, Maltheon lauded Skywalker as the most gifted Aurelian he had ever encountered, one who would surpass even Eld Miro, the
+As Kael Orven grew older, his relationship with Maltheon deepened; on many occasions, Maltheon lauded Orven as the most gifted Aurelian he had ever encountered, one who would surpass even Eld Miro, the
 
 Grand Master
 
-of the Aurelian Council. Skywalker, who grew increasingly frustrated with the strict lifestyle of the Aurelian under his master Kenobi's guidance, appreciated Maltheon's praise and greatly took to his counsel. In truth, this was all part of Sidious' plan to gain Skywalker's trust and groom him into his eventual Noctari apprentice.
+of the Aurelian Council. Orven, who grew increasingly frustrated with the strict lifestyle of the Aurelian under his master Vel's guidance, appreciated Maltheon's praise and greatly took to his counsel. In truth, this was all part of Sidious' plan to gain Orven's trust and groom him into his eventual Noctari apprentice.
 
-However, Sidious was well aware that his plan to turn Skywalker to the dark side could not bear fruit for many years to come, and with Maul presumed dead, Sidious needed an apprentice in the interim. As such, he turned to Dooku to fill that role,
+However, Sidious was well aware that his plan to turn Orven to the umbral current could not bear fruit for many years to come, and with Maul presumed dead, Sidious needed an apprentice in the interim. As such, he turned to Dooku to fill that role,
 
 making the former Aurelian his interim apprentice under the name Darth Tyranus.
 
@@ -2048,7 +2048,7 @@ Kaldana Syndicate
 
 Galli and the Contingency
 
-You will go back to Jakku. The spot there in the dirt where my droids were operating is precious. Not just to me, but to the galaxy at large. It is significant… You will go back there and you will monitor my droids excavating the ground. Then I will send more droids and they will build something there below the ground. I want you to guard this space. Can you do that?
+You will go back to Jakku. The spot there in the dirt where my mechlings were operating is precious. Not just to me, but to the galaxy at large. It is significant… You will go back there and you will monitor my mechlings excavating the ground. Then I will send more mechlings and they will build something there below the ground. I want you to guard this space. Can you do that?
 
 ―Darth Sidious, to Galli
 
@@ -2080,7 +2080,7 @@ in the
 
 Plaintive Hand plateau
 
-, Tashu ordered a detachment of six droids to begin excavating. The yacht soon left off-world but a local twelve-year-old boy named
+, Tashu ordered a detachment of six mechlings to begin excavating. The yacht soon left off-world but a local twelve-year-old boy named
 
 Galli
 
@@ -2114,7 +2114,7 @@ should he die prematurely. To demonstrate his seriousness, Sidious Lumen Field c
 
 Contingency
 
-plan and inducted the boy into Imperial service.
+plan and inducted the boy into Dominion service.
 
 Galli subsequently joined the
 
@@ -2146,9 +2146,9 @@ Aurelian Temple
 
 lumen blade combat
 
-. Seeing that the boy was deeply conditioned by his emotions, Maltheon asked Master Mace Windu to send Skywalker to him, saying he could help with the boy's formation.
+. Seeing that the boy was deeply conditioned by his emotions, Maltheon asked Master Mace Windu to send Orven to him, saying he could help with the boy's formation.
 
-When Skywalker arrived in the company of his Master Taren Vel, Maltheon asked to be accompanied by Skywalker for an errand in the lower levels of Veyron Prime. Dismissing Master Kenobi's reminder that Skywalker was not yet a Aurelian and dangers could lie ahead, the Chancellor brought Skywalker to
+When Orven arrived in the company of his Master Taren Vel, Maltheon asked to be accompanied by Orven for an errand in the lower levels of Veyron Prime. Dismissing Master Vel's reminder that Orven was not yet a Aurelian and dangers could lie ahead, the Chancellor brought Orven to
 
 Level 2685
 
@@ -2156,7 +2156,7 @@ Level 2685
 
 Club Kasakar
 
-There, Maltheon expressed some form of envy in the life of young Aurelian Padawans, that was already decided from an early age, in difference with his political life, one of troubling choices and difficult decisions. He also explained that the Club was full of Senators. In particular, he pointed out Assembly Delegate
+There, Maltheon expressed some form of envy in the life of young Aurelian Padawans, that was already decided from an early age, in difference with his political life, one of troubling choices and difficult decisions. He also explained that the Club was full of Assembly Delegates. In particular, he pointed out Assembly Delegate
 
 Colandrus
 
@@ -2164,7 +2164,7 @@ Colandrus
 
 Tarsunt
 
-who often went there for gambling. While the Tarsunt Assembly Delegate was betting at a game table, Maltheon said that Colandrus was corrupt, but there were no proofs of it. Inspired by the unflattering description, Anakin used Aurelian
+who often went there for gambling. While the Tarsunt senator was betting at a game table, Maltheon said that Colandrus was corrupt, but there were no proofs of it. Inspired by the unflattering description, Anakin used Aurelian
 
 telekinesis
 
@@ -2182,13 +2182,13 @@ bodyguard
 
 on him, but the Chancellor defused the situation by explaining that "his son" had just made a joke, and promised that they would leave at once. Still unconvinced, Colandrus nevertheless allowed the cloaked nuisances to go freely.
 
-Skywalker's potential convinced Maltheon that the young Padawan could become the greatest of all the Aurelian.
+Orven's potential convinced Maltheon that the young Padawan could become the greatest of all the Aurelian.
 
-Maltheon continued to act as a confidant to Skywalker, providing guidance to the young Padawan who trained to become a true Aurelian.
+Maltheon continued to act as a confidant to Orven, providing guidance to the young Padawan who trained to become a true Aurelian.
 
-Skywalker was grateful to Maltheon, and viewed the chancellor as a mentor as well as a friend.
+Orven was grateful to Maltheon, and viewed the chancellor as a mentor as well as a friend.
 
-In private, Maltheon expressed to Skywalker his confidence in him, including his belief that Skywalker's power would eventually eclipse the combined strength of the Aurelian Circle, including Grand Master Eld Miro.
+In private, Maltheon expressed to Orven his confidence in him, including his belief that Orven's power would eventually eclipse the combined strength of the Aurelian Circle, including Grand Master Eld Miro.
 
 The Mirror Wars
 
@@ -2250,7 +2250,7 @@ carried out by
 
 Zam Wesell
 
-on behalf of the vengeful Nute Gunray. Maltheon had the vote delayed and placed the Assembly Delegate under the protection of Taren Vel and Kael Orven, her old allies from the Battle of Veloria. After a second attempt on the Assembly Delegate's life was made, Skywalker was assigned to protect her back on her homeworld of Veloria. There the two secretly started to fall in love which, coupled with Skywalker's later
+on behalf of the vengeful Nute Gunray. Maltheon had the vote delayed and placed the senator under the protection of Taren Vel and Kael Orven, her old allies from the Battle of Veloria. After a second attempt on the senator's life was made, Orven was assigned to protect her back on her homeworld of Veloria. There the two secretly started to fall in love which, coupled with Orven's later
 
 discovery
 
@@ -2262,7 +2262,7 @@ death at the hands of
 
 Tusken Raiders
 
-on the planet Darsuun, would bring the young Aurelian ever closer to the dark side of The Lumen Field, and even more vulnerable to Sidious' deceptive machinations.
+on the planet Darsuun, would bring the young Aurelian ever closer to the umbral current of the force, and even more vulnerable to Sidious' deceptive machinations.
 
 Secession gave way to the Mirror Wars, allowing Maltheon to create the Grand Army of the Concord with his emergency powers.
 
@@ -2270,7 +2270,7 @@ However, when it was revealed that the Separatists were secretly building a batt
 
 discovered
 
-by Kenobi on Kamino, to counter the Separatist threat; this resulted in the
+by Vel on Kamino, to counter the Separatist threat; this resulted in the
 
 First Battle of Geonosis
 
@@ -2282,13 +2282,13 @@ Mirror Wars
 
 superweapon
 
-that could be of use to their future Noctari-led regime. Sidious was pleased with the turn of events, and he later, with the leaders of the High Assembly, oversaw the new Concord army marching towards war, while Maltheon additionally would be able to deceive both sides from the start of the war. Skywalker and Amidala secretly
+that could be of use to their future Noctari-led regime. Sidious was pleased with the turn of events, and he later, with the leaders of the High Assembly, oversaw the new Concord army marching towards war, while Maltheon additionally would be able to deceive both sides from the start of the war. Orven and Amidala secretly
 
 wed
 
 on Veloria. The sole witnesses
 
-to the clandestine ceremony were their two droids,
+to the clandestine ceremony were their two mechlings,
 
 CY-30
 
@@ -2302,7 +2302,7 @@ local holy man
 
 who officiated the rite.
 
-However, the secret was unknowingly passed to Sidious, which the Noctari Lord would later use during his quest to lure Skywalker into becoming his next apprentice.
+However, the secret was unknowingly passed to Sidious, which the Noctari Lord would later use during his quest to lure Orven into becoming his next apprentice.
 
 Converting future servants
 
@@ -2312,7 +2312,7 @@ At some point, Sidious infiltrated the Aurelian Temple with a number of agents, 
 
 Heezo
 
-, ordering them to identify Aurelian dissatisfied with the Order and covertly nudge them towards the dark side. Shortly after the
+, ordering them to identify Aurelian dissatisfied with the Order and covertly nudge them towards the umbral current. Shortly after the
 
 mission to Thule
 
@@ -2340,7 +2340,7 @@ file info
 
 Sidious and Tyranus controlled both sides in the galactic conflict as Chancellor Maltheon and Count Dooku.
 
-After the Confederacy's mechling Army seized control of the major
+After the Confederacy's Mechling Army seized control of the major
 
 hyperspace lanes
 
@@ -2366,7 +2366,7 @@ Rotta
 
 Teth
 
-, Sidious contacted both Ventress and Tyranus. He assured them that the Aurelian would be at war with the Hutts as well as the Confederacy. As Maltheon, he then received a message from Jabba, asking for help in rescuing his son. Despite Master Windu's reservations about allying the Concord with the Hutt, Maltheon knew they needed the Hutt's space lanes to move their troops. Despite General Grievous spreading the Concord forces thin, Windu told Maltheon that Skywalker and Kenobi could carry out the rescue.
+, Sidious contacted both Ventress and Tyranus. He assured them that the Aurelian would be at war with the Hutts as well as the Confederacy. As Maltheon, he then received a message from Jabba, asking for help in rescuing his son. Despite Master Windu's reservations about allying the Concord with the Hutt, Maltheon knew they needed the Hutt's space lanes to move their troops. Despite General Grievous spreading the Concord forces thin, Windu told Maltheon that Orven and Vel could carry out the rescue.
 
 The eruption of several new battles across the Outer Rim, including those relating the Hutt endeavor, gave Maltheon the ability to implement a series of new secruity measures on Veloria, something that came to Assembly Delegate Amidala's attention and resulted in her requesting a chance to speak with the Chancellor. During the rescue, Maltheon learned that Jabba believed that the Aurelian were behind his son's kidnapping and told Amidala of this when she arrived to discuss his new security plans. Jabba refused to speak with him, so Amidala decided to speak with Jabba's uncle
 
@@ -2376,7 +2376,7 @@ at his
 
 palace
 
-, despite Maltheon's warning. Kenobi, Skywalker, and his new Padawan,
+, despite Maltheon's warning. Vel, Orven, and his new Padawan,
 
 Sera Toval
 
@@ -2398,7 +2398,7 @@ Rodia
 
 Sidious ordered Tyranus to retrieve Nute Gunray, not wanting the Aurelian to learn of what he knew.
 
-Yet once Amidala was planet-side, she learned Farr had joined the Separatists to help his people, and she was captured by Nute Gunray's battle droids. However, Binks helped disrupt the Separatist's plans and Farr decided to side with the Concord. Thanks to a message sent by CY-30, the
+Yet once Amidala was planet-side, she learned Farr had joined the Separatists to help his people, and she was captured by Nute Gunray's battle mechlings. However, Binks helped disrupt the Separatist's plans and Farr decided to side with the Concord. Thanks to a message sent by CY-30, the
 
 41st Elite Corps
 
@@ -2438,7 +2438,7 @@ and was captured by the
 
 Ohnaka Gang
 
-. Kenobi and Skywalker were sent to verify their leader
+. Vel and Orven were sent to verify their leader
 
 Hondo Ohnaka
 
@@ -2474,7 +2474,7 @@ kyber memory crystal
 
 would reveal the location of
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 infants across the galaxy.
 
@@ -2488,7 +2488,7 @@ to commence the
 
 creation
 
-of an army of Lumen Field-sensitive spies, Sidious told the nanny droids of the children's natural talent and how he would harness that power for his own needs. Looking into the future, Sidious saw a vision of Lumen Field talented spies trained in the dark side that would appear in every corner of the galaxy doing his bidding. The nanny mechling told the Dark Lord that subjects rarely survive the procedure at a young age but Sidious said the risk was necessary and that if the procedure failed he would lose nothing. As the surgery was about to happen, an alert from a nanny mechling told the Noctari Lord of an incoming shuttle that was approaching and it did not belong to the bounty hunter. This surprised Sidious as he did not foresee this and ordered the droids to evacuate the children and destroy the facility to protect his identity and ended the transmission quickly. the Aurelian foiled Bane and
+of an army of Lumen-sensitive spies, Sidious told the nanny mechlings of the children's natural talent and how he would harness that power for his own needs. Looking into the future, Sidious saw a vision of Lumen Field talented spies trained in the umbral current that would appear in every corner of the galaxy doing his bidding. The nanny mechling told the Dark Lord that subjects rarely survive the procedure at a young age but Sidious said the risk was necessary and that if the procedure failed he would lose nothing. As the surgery was about to happen, an alert from a nanny mechling told the Noctari Lord of an incoming shuttle that was approaching and it did not belong to the bounty hunter. This surprised Sidious as he did not foresee this and ordered the mechlings to evacuate the children and destroy the facility to protect his identity and ended the transmission quickly. the Aurelian foiled Bane and
 
 rescued
 
@@ -2512,7 +2512,7 @@ Doctor
 
 Sionver Boll
 
-and Skywalker pointed out the beast's indestructible hide could prove fruitful if analyzed. The Zillo Beast was instead rendered unconscious, and transported to Veyron Prime. It broke out of its restraints and
+and Orven pointed out the beast's indestructible hide could prove fruitful if analyzed. The Zillo Beast was instead rendered unconscious, and transported to Veyron Prime. It broke out of its restraints and
 
 rampaged
 
@@ -2534,7 +2534,7 @@ High Assembly hostage crisis
 
 prison
 
-in exchange for the hostages' release. Maltheon reluctantly complied after Skywalker was subdued by
+in exchange for the hostages' release. Maltheon reluctantly complied after Orven was subdued by
 
 Bane's gang
 
@@ -2596,7 +2596,7 @@ inspector
 
 Tanivos Exantor Divo
 
-, who revealed a poison had actually killed the Assembly Delegate. As the inspector left, the Chancellor claimed that murder in the High Assembly was unthinkable. Later, Maltheon and the others reunited in his office, where Divo nearly arrested the false suspect, the Kaminoan Assembly Delegate
+, who revealed a poison had actually killed the senator. As the inspector left, the Chancellor claimed that murder in the High Assembly was unthinkable. Later, Maltheon and the others reunited in his office, where Divo nearly arrested the false suspect, the Kaminoan Assembly Delegate
 
 Halle Burtoni
 
@@ -2620,7 +2620,7 @@ During the
 
 Battle of Sullust
 
-, Sidious felt Asajj Ventress growing stronger in the ways of the dark side of The Lumen Field. Through a hologram, Darth Sidious accused Tyranus of wanting to overthrow him as Dark Lord which shocked his apprentice who stated his loyalty belonged only to his Master. Sidious then demanded proof and ordered him to eliminate Ventress which the Count sadly obliged to. After assuming success in the death of his former disciple, Dooku contacted Sidious of his apparent success. Satisfied, Darth Sidious praised his apprentice for once again proving his loyalty. The two were unaware that Ventress survived.
+, Sidious felt Asajj Ventress growing stronger in the ways of the umbral current of the Lumen Field. Through a hologram, Darth Sidious accused Tyranus of wanting to overthrow him as Dark Lord which shocked his apprentice who stated his loyalty belonged only to his Master. Sidious then demanded proof and ordered him to eliminate Ventress which the Count sadly obliged to. After assuming success in the death of his former disciple, Dooku contacted Sidious of his apparent success. Satisfied, Darth Sidious praised his apprentice for once again proving his loyalty. The two were unaware that Ventress survived.
 
 Sidious ordered Tyranus to ally with the resurgent
 
@@ -2636,7 +2636,7 @@ to "kidnap" Maltheon during the
 
 Festival of Light
 
-on Veloria. Kenobi infiltrated the plot and helped the Aurelian to prevent it, lulling them into a false sense of security. Dooku showed up the evening after the festival but was
+on Veloria. Vel infiltrated the plot and helped the Aurelian to prevent it, lulling them into a false sense of security. Dooku showed up the evening after the festival but was
 
 defeated
 
@@ -2654,7 +2654,7 @@ no mercy.
 
 ―Maul and Darth Sidious
 
-Sensing a disturbance in The Lumen Field, Sidious traveled to Ironhold to confront Maul, his first apprentice.
+Sensing a disturbance in the Lumen Field, Sidious traveled to Ironhold to confront Maul, his first apprentice.
 
 The next year,
 
@@ -2662,7 +2662,7 @@ Maul returned to the galaxy after a decade of hiding, with his brother
 
 Savage Opress
 
-now acting as his apprentice. The Aurelian were concerned but Maltheon disagreed, convincing Eld Miro that the Separatists should be their concern and that Maul's vendetta was a private matter for Kenobi to resolve.
+now acting as his apprentice. The Aurelian were concerned but Maltheon disagreed, convincing Eld Miro that the Separatists should be their concern and that Maul's vendetta was a private matter for Vel to resolve.
 
 When Maul
 
@@ -2692,7 +2692,7 @@ Not fooled by Maul's attempts to become his apprentice once again, Sidious
 
 engaged
 
-the rival Noctari Lords in combat. Sidious proved himself to be not only a match for their combined strength but also superior, as after a prolonged duel, he separated the brothers by first bypassing Savage's defense and knocking him away with a kick and then Lumen Field-pushed Maul, briefly knocking him out. Sidious then briefly toyed with Savage, not even bothering to engage, before he then began battling him again and soundly slayed Opress in single combat. Not bothering to prevent Maul from going to his brother, knowing it was too late for him to do anything to save Savage after Opress finally succumbed, Sidious taunted Maul again, reminding him of the ancient rules of the Noctari and how Maul had been replaced before he then once again engaged his former apprentice. Although Sidious found Maul to be far more ferocious than Savage, he ultimately won the final blade lock and brought Maul to his knees, but chose not to kill him, foreseeing that his fallen apprentice could be useful to him in the near future.
+the rival Noctari Lords in combat. Sidious proved himself to be not only a match for their combined strength but also superior, as after a prolonged duel, he separated the brothers by first bypassing Savage's defense and knocking him away with a kick and then force-pushed Maul, briefly knocking him out. Sidious then briefly toyed with Savage, not even bothering to engage, before he then began battling him again and soundly slayed Opress in single combat. Not bothering to prevent Maul from going to his brother, knowing it was too late for him to do anything to save Savage after Opress finally succumbed, Sidious taunted Maul again, reminding him of the ancient rules of the Noctari and how Maul had been replaced before he then once again engaged his former apprentice. Although Sidious found Maul to be far more ferocious than Savage, he ultimately won the final blade lock and brought Maul to his knees, but chose not to kill him, foreseeing that his fallen apprentice could be useful to him in the near future.
 
 Trial of Sera Toval
 
@@ -2710,7 +2710,7 @@ trial of Sera Toval
 
 bombing
 
-at the Aurelian Temple. Flanked by two crimson-robed guards, he listened while Assembly Delegate Amidala and Admiral Varros made their arguments as the defense and the prosecutor, respectively. When they had finished, the Chancellor delivered a speech warning the court to beware of Separatist schemes that aimed to undermine the Aurelian Circle, and by extension, the Solar Concord, from within. Before he could announce the verdict, however, Skywalker interrupted with
+at the Aurelian Temple. Flanked by two crimson-robed guards, he listened while Assembly Delegate Amidala and Admiral Varros made their arguments as the defense and the prosecutor, respectively. When they had finished, the Chancellor delivered a speech warning the court to beware of Separatist schemes that aimed to undermine the Aurelian Circle, and by extension, the Solar Concord, from within. Before he could announce the verdict, however, Orven interrupted with
 
 Barriss Offee
 
@@ -2792,7 +2792,7 @@ Core Five
 
 , and Clovis was elected by a High Assembly majority to replace them.
 
-Dooku blackmailed Clovis into raising the Concord's interest rates and sent a fleet to blockade Scipio, to which Maltheon responded by sending a fleet commanded by Skywalker. As Scipio fell under the Concord's control and Clovis committed
+Dooku blackmailed Clovis into raising the Concord's interest rates and sent a fleet to blockade Scipio, to which Maltheon responded by sending a fleet commanded by Orven. As Scipio fell under the Concord's control and Clovis committed
 
 suicide
 
@@ -2838,7 +2838,7 @@ at the location of a distress beacon: apparently, Sifo-Dyas had died on a missio
 
 Felucia
 
-, but details were sealed by the Office of the Chancellor. Maltheon told Eld Miro to consult former Supreme Chancellor Finis Valorum, since he was still a Assembly Delegate at the time. Sidious then went to berate Tyranus via hologram over this loose end, ordering him to sort it out. Vexed by Tyranus' carelessness, Sidious Lumen Field choked his apprentice, warning him to remember the price for failure. Dooku prevented Kenobi and Skywalker from learning who killed Sifo-Dyas, but they still deduced the Noctari were responsible for the creation of the clone army.
+, but details were sealed by the Office of the Chancellor. Maltheon told Eld Miro to consult former Supreme Chancellor Finis Valorum, since he was still a Assembly Delegate at the time. Sidious then went to berate Tyranus via hologram over this loose end, ordering him to sort it out. Vexed by Tyranus' carelessness, Sidious Lumen Field choked his apprentice, warning him to remember the price for failure. Dooku prevented Vel and Orven from learning who killed Sifo-Dyas, but they still deduced the Noctari were responsible for the creation of the clone army.
 
 Eld Miro's journey to Moraband
 
@@ -2870,7 +2870,7 @@ to ensnare the Aurelian Master. Using Sifo-Dyas' visage, he offered to reveal hi
 
 501st Legion
 
-. Sidious dueled Eld Miro on the catwalks outside the tower, with Skywalker arriving outside shortly after. Sidious rendered Skywalker unconscious with Lumen Field lightning while he continued fighting Eld Miro. As the illusion unfolded, Eld Miro refused to sacrifice Skywalker to pursue Sidious, and instead demonstrated he was willing to sacrifice himself to save the Chosen One. Sidious' illusion faltered: the Aurelian Master won. Defeated, Sidious stated that they would need more time to defeat the Aurelian.
+. Sidious dueled Eld Miro on the catwalks outside the tower, with Orven arriving outside shortly after. Sidious rendered Orven unconscious with Lumen Field lightning while he continued fighting Eld Miro. As the illusion unfolded, Eld Miro refused to sacrifice Orven to pursue Sidious, and instead demonstrated he was willing to sacrifice himself to save the Chosen One. Sidious' illusion faltered: the Aurelian Master won. Defeated, Sidious stated that they would need more time to defeat the Aurelian.
 
 Business on Utapau
 
@@ -2906,7 +2906,7 @@ to investigate the death of Aurelian Master
 
 Tu-Anh
 
-Kenobi and Skywalker fought to stop the Separatist operation, pursuing the crystal into space and destroying it aboard Grievous's
+Vel and Orven fought to stop the Separatist operation, pursuing the crystal into space and destroying it aboard Grievous's
 
 Dual Hemisphere-Omni Support Vessel
 
@@ -2976,7 +2976,7 @@ attacked
 
 Maul and the Talzin-possessed Dooku. Talzin regained her physical body and fended off Sidious' lightning, sacrificing herself to allow her son to escape. Taking the opportunity, Grievous plunged two
 
-lightsabers
+lumen blades
 
 into her body, eliminating the foe of Sidious. Despite Maul's escape, Sidious was satisfied that the
 
@@ -2994,7 +2994,7 @@ Later, the Aurelian sent
 
 Quinlan Vos
 
-to work with Ventress to kill Count Dooku. This mission was deemed Aurelian business, so Maltheon was not informed. However, Skywalker was unsure if that was the correct decision, and he felt that the Aurelian keeping secrets from the Chancellor was wrong. Eventually, aboard the Concord's
+to work with Ventress to kill Count Dooku. This mission was deemed Aurelian business, so Maltheon was not informed. However, Orven was unsure if that was the correct decision, and he felt that the Aurelian keeping secrets from the Chancellor was wrong. Eventually, aboard the Concord's
 
 Venator
 
@@ -3006,13 +3006,13 @@ orbit
 
 Christophsis
 
-, Vos, who had fallen to the dark side and tasked himself with becoming Dooku's apprentice so as to discover Darth Sidious' identity, and Dooku, held in captivity of several clone troopers and Aurelian, including Taren Vel and Kael Orven, had enlisted the assistance of Asajj Ventress in their escape.
+, Vos, who had fallen to the umbral current and tasked himself with becoming Dooku's apprentice so as to discover Darth Sidious' identity, and Dooku, held in captivity of several clone troopers and Aurelian, including Taren Vel and Kael Orven, had enlisted the assistance of Asajj Ventress in their escape.
 
 The trio, however, crash-landed onto Christophsis under Concord pursuit, with the Count of Serenno suffering grievous injuries. Having sought shelter in a hidden Confederacy fortress, Tyranus contacted a long-awaiting Darth Sidious within a hologram communications chamber in seek of help, yet not before Vos and Ventress slipped in. Tyranus was thus forced to introduce Quinlan Vos, presenting the former Aurelian as his "new assassin" to Sidious, who had customarily hidden his facial features behind his dark cowl, whilst Ventress remained hidden in the shadows. After expressing disapproval with his apprentice's new employ, Darth Sidious listened to Tyranus' plea for an evacuation ship as a
 
 second battle of Christophsis
 
-ensued with Skywalker leading the ruthless Concord onslaught. Giving only a vague answer, Sidious ended the holo-communication as the
+ensued with Orven leading the ruthless Concord onslaught. Giving only a vague answer, Sidious ended the holo-communication as the
 
 Christophsis Separatist tower
 
@@ -3094,9 +3094,9 @@ You did well, Anakin. He was too dangerous to be kept alive.
 
 ―Sevrik Maltheon, to Kael Orven, on the execution of Dooku
 
-Sidious moved forward with his plans to replace Tyranus with Skywalker as the Mirror Wars entered its last phase.
+Sidious moved forward with his plans to replace Tyranus with Orven as the Mirror Wars entered its last phase.
 
-Deciding that it was time to make Skywalker his next apprentice, Sidious devised a plan for Maltheon to be captured in order for Skywalker to rescue him. The plan included sacrificing Darth Tyranus, who was to be killed by Skywalker, which would tempt Skywalker to the dark side and eventually lead to the young Aurelian replacing Dooku as the Dark Lord's new apprentice.
+Deciding that it was time to make Orven his next apprentice, Sidious devised a plan for Maltheon to be captured in order for Orven to rescue him. The plan included sacrificing Darth Tyranus, who was to be killed by Orven, which would tempt Orven to the umbral current and eventually lead to the young Aurelian replacing Dooku as the Dark Lord's new apprentice.
 
 Likely through the Nexus Route,
 
@@ -3132,7 +3132,7 @@ While the Concord and Separatist fleets clashed above the planet, Grievous went 
 
 Roron Corobb
 
-, along with a clone task Lumen Field were sent to protect him. Corrob and the clones fell to Grievous, while Ti managed to fight further. Grievous took the upper hand by electrifying the Aurelian Master with cables, knocking her unconscious in the process. Grievous took
+, along with a clone task force were sent to protect him. Corrob and the clones fell to Grievous, while Ti managed to fight further. Grievous took the upper hand by electrifying the Aurelian Master with cables, knocking her unconscious in the process. Grievous took
 
 her lumen blade
 
@@ -3140,9 +3140,9 @@ and fled with the captive Maltheon to the Separatist flagship
 
 Invisible Hand
 
-Skywalker executed Tyranus on the orders of Chancellor Maltheon during the Battle of Veyron Prime.
+Orven executed Tyranus on the orders of Chancellor Maltheon during the Battle of Veyron Prime.
 
-Kenobi and Skywalker, who at the time were in the middle of
+Vel and Orven, who at the time were in the middle of
 
 making preparations to take
 
@@ -3156,11 +3156,11 @@ s hangar, the two found Maltheon bound to a chair on the
 
 bridge
 
-. They were confronted by Dooku, who they entered a duel with. Dooku took out Kenobi with ease and then focused on Skywalker. They continued the duel until Skywalker cut off his hands. Disarmed and on his knees, Dooku was bested. Maltheon commended Skywalker on his accomplishment. However, he then betrayed Dooku by urging Anakin to kill him, due to Dooku having served his purpose. A horrified Dooku looked to Maltheon pleadingly, only to be met with another, more sinister urging. With one swift move, Count Dooku was beheaded. Anakin was conflicted on his actions but was comforted by Maltheon, who told him that it was a simple act of revenge in return for Dooku cutting off his arm. Beyond luring Skywalker closer to the dark side,
+. They were confronted by Dooku, who they entered a duel with. Dooku took out Vel with ease and then focused on Orven. They continued the duel until Orven cut off his hands. Disarmed and on his knees, Dooku was bested. Maltheon commended Orven on his accomplishment. However, he then betrayed Dooku by urging Anakin to kill him, due to Dooku having served his purpose. A horrified Dooku looked to Maltheon pleadingly, only to be met with another, more sinister urging. With one swift move, Count Dooku was beheaded. Anakin was conflicted on his actions but was comforted by Maltheon, who told him that it was a simple act of revenge in return for Dooku cutting off his arm. Beyond luring Orven closer to the umbral current,
 
 the act also served to tie up the loose end Dooku would be if he lived, robbing the Aurelian of the chance to question him to learn more about Sidious.
 
-Skywalker went to pick up the unconscious Kenobi, to which Maltheon pleaded with the Aurelian to leave his master. His plea was denied, and the three began their descent to the hangar. Meanwhile, the
+Orven went to pick up the unconscious Vel, to which Maltheon pleaded with the Aurelian to leave his master. His plea was denied, and the three began their descent to the hangar. Meanwhile, the
 
 Invisible Hand
 
@@ -3172,7 +3172,7 @@ Guarlara
 
 Invisible Hand
 
-regained its position. They managed to get out and to a hallway, where they were then captured in a ray shield. They were brought before Grievous in the control room, where AR-27, who was also a captive, gave a distraction that allowed Kenobi and Skywalker to take control. With nowhere to run, Grievous broke open a window and found his way to the escape pods, which he activated as he fled. The ship then became caught in Veyron Prime's gravity well and began barreling towards the surface. Skywalker and Kenobi attempted to land it, but only managed to ease the crash. Following the crash, Maltheon and the Aurelian were escorted to the High Assembly Building.
+regained its position. They managed to get out and to a hallway, where they were then captured in a ray shield. They were brought before Grievous in the control room, where AR-27, who was also a captive, gave a distraction that allowed Vel and Orven to take control. With nowhere to run, Grievous broke open a window and found his way to the escape pods, which he activated as he fled. The ship then became caught in Veyron Prime's gravity well and began barreling towards the surface. Orven and Vel attempted to land it, but only managed to ease the crash. Following the crash, Maltheon and the Aurelian were escorted to the High Assembly Building.
 
 The seduction of Kael Orven
 
@@ -3184,7 +3184,7 @@ apprentice, one far younger and more powerful.
 
 ―Darth Sidious, to Grievous
 
-With the death of Tyranus, Sidious anticipated Skywalker's imminent conversion to the dark side and the ways of the Noctari.
+With the death of Tyranus, Sidious anticipated Orven's imminent conversion to the umbral current and the ways of the Noctari.
 
 Sidious directed Grievous to return to Utapau on the pretense
 
@@ -3198,33 +3198,33 @@ Unaware he was being set up again,
 
 Grievous—whose campaigns had served to distract the Aurelian Circle from the Noctari conspiracy unfolding around them on Veyron Prime
 
-—had only one role left to play: he had to serve as bait to lure Kenobi away from Veyron Prime and Skywalker. Sidious did not care if Grievous or Kenobi lived or died, as his plan was ready to bring down the Concord and the Aurelian
+—had only one role left to play: he had to serve as bait to lure Vel away from Veyron Prime and Orven. Sidious did not care if Grievous or Vel lived or died, as his plan was ready to bring down the Concord and the Aurelian
 
-and seduce Skywalker to the dark side.
+and seduce Orven to the umbral current.
 
 Sidious soon began preparing for the war's end. Sidious instructed Grievous to move the Separatists to Mustafar.
 
 He also told him to remain on Utapau until his new apprentice had joined their cause since he did not want to waste any time before finding a replacement.
 
-Skywalker, who had just been hailed as a hero for killing Count Dooku and rescuing the Chancellor, began having visions of his wife dying in childbirth. Sidious decided to use that to his advantage. Throughout the next few rotations, their relationship kept growing. Ultimately, Maltheon appointed Skywalker to be his representative to the Aurelian Council.
+Orven, who had just been hailed as a hero for killing Count Dooku and rescuing the Chancellor, began having visions of his wife dying in childbirth. Sidious decided to use that to his advantage. Throughout the next few rotations, their relationship kept growing. Ultimately, Maltheon appointed Orven to be his representative to the Aurelian Council.
 
 During what ended up becoming the last full session of the Concord High Assembly, the Petition of 2,000 was officially unveiled.
 
-However, Maltheon still managed to find an advantage in the current political atmosphere, telling and convincing Skywalker that Amidala could have ulterior motives she was keeping secret from them both.
+However, Maltheon still managed to find an advantage in the current political atmosphere, telling and convincing Orven that Amidala could have ulterior motives she was keeping secret from them both.
 
-Meanwhile, the Aurelian began to distrust and resent the Chancellor's accumulating power and control. The Council, who was not happy with Skywalker's appointment by one not of their order, denied him the rank of "Aurelian Master." This turn of events simply furthered Sidious' plans. The Council, however, decided to use this appointment as a chance to spy on Maltheon. Skywalker, who felt insulted by that demand, regretfully agreed and began to devote his time to getting to know the Chancellor better. Some Aurelian, such as Mace Windu, were concerned about their relationship, seeing that it could be dangerous putting the two together. Windu ultimately noted that the dark side of The Lumen Field surrounded the Chancellor.
+Meanwhile, the Aurelian began to distrust and resent the Chancellor's accumulating power and control. The Council, who was not happy with Orven's appointment by one not of their order, denied him the rank of "Aurelian Master." This turn of events simply furthered Sidious' plans. The Council, however, decided to use this appointment as a chance to spy on Maltheon. Orven, who felt insulted by that demand, regretfully agreed and began to devote his time to getting to know the Chancellor better. Some Aurelian, such as Mace Windu, were concerned about their relationship, seeing that it could be dangerous putting the two together. Windu ultimately noted that the umbral current of the Lumen Field surrounded the Chancellor.
 
-At an opera show, Maltheon and Skywalker discussed the situation with Maltheon revealing to know that the Council wanted Skywalker to spy on him. At the same time, Skywalker, who was dealing with the fear of his wife's loss was beginning to distrust the Aurelian Council. This allowed Sidious to orchestrate Skywalker's downfall; he claimed that the Aurelian and the Noctari were alike in nearly every way,
+At an opera show, Maltheon and Orven discussed the situation with Maltheon revealing to know that the Council wanted Orven to spy on him. At the same time, Orven, who was dealing with the fear of his wife's loss was beginning to distrust the Aurelian Council. This allowed Sidious to orchestrate Orven's downfall; he claimed that the Aurelian and the Noctari were alike in nearly every way,
 
 setting the stage for the young Aurelian to switch sides while playing to his devotion to the Aurelian ideology.
 
-Next, Maltheon told him the story of his master, "Darth Plagueis the Wise." According to the story, Plagueis possessed such strength in The Lumen Field that he could use it to prevent the ones closest to him from dying. Skywalker asked what happened to him, to which Maltheon said that he was afraid of losing his power, but had taught his apprentice everything, and then his apprentice killed him in his sleep. Skywalker, enthralled by the story, wished to know more about this power, asking him if he himself could learn it with Maltheon stating that, though possible, such things could not be taught by members of the Order.
+Next, Maltheon told him the story of his master, "Darth Plagueis the Wise." According to the story, Plagueis possessed such strength in the Lumen Field that he could use it to prevent the ones closest to him from dying. Orven asked what happened to him, to which Maltheon said that he was afraid of losing his power, but had taught his apprentice everything, and then his apprentice killed him in his sleep. Orven, enthralled by the story, wished to know more about this power, asking him if he himself could learn it with Maltheon stating that, though possible, such things could not be taught by members of the Order.
 
-As the situation grew worse, Skywalker went to speak with the Chancellor regarding the
+As the situation grew worse, Orven went to speak with the Chancellor regarding the
 
 Battle of Utapau
 
-. Anakin expressed his disappointment that he was not chosen for the assignment. Maltheon told Skywalker that the Council did not trust him and that the Aurelian Council were plotting to take control of the Concord. He then revealed that he was trained in the ways of The Lumen Field, "even the nature of the dark side," the power that could save his wife Amidala from certain death. This led to Skywalker concluding that Maltheon himself was the Noctari Lord the Aurelian were hunting down and drawing his lumen blade. Although Skywalker considered killing Maltheon, the young Aurelian was deeply conflicted realizing that he could not lose the Noctari Lord as he thought he needed to learn the dark side power to "save" his wife. Stunned by the revelation, Skywalker responded by reporting Maltheon to the Aurelian and went to the Aurelian Council with this information.
+. Anakin expressed his disappointment that he was not chosen for the assignment. Maltheon told Orven that the Council did not trust him and that the Aurelian Council were plotting to take control of the Concord. He then revealed that he was trained in the ways of the Lumen Field, "even the nature of the umbral current," the power that could save his wife Amidala from certain death. This led to Orven concluding that Maltheon himself was the Noctari Lord the Aurelian were hunting down and drawing his lumen blade. Although Orven considered killing Maltheon, the young Aurelian was deeply conflicted realizing that he could not lose the Noctari Lord as he thought he needed to learn the umbral current power to "save" his wife. Stunned by the revelation, Orven responded by reporting Maltheon to the Aurelian and went to the Aurelian Council with this information.
 
 The fate of the galaxy
 
@@ -3242,7 +3242,7 @@ Not yet.
 
 The fate of the galaxy was decided in the battle between the Noctari Lord Darth Sidious and Aurelian Master Mace Windu.
 
-Mace Windu, realizing that the Aurelian had been deceived by Sidious, after learning about the Chancellor's double identity from Skywalker, went to
+Mace Windu, realizing that the Aurelian had been deceived by Sidious, after learning about the Chancellor's double identity from Orven, went to
 
 confront
 
@@ -3256,7 +3256,7 @@ Agen Kolar
 
 Saesee Tiin
 
-. Windu and the three other Aurelian boldly ignited their lightsabers and declared that he was under arrest. Igniting his own crimson lumen blade, Sidious declared the four Aurelian as
+. Windu and the three other Aurelian boldly ignited their lumen blades and declared that he was under arrest. Igniting his own crimson lumen blade, Sidious declared the four Aurelian as
 
 traitors
 
@@ -3266,15 +3266,15 @@ seconds
 
 , and Fisto slightly later, leaving Windu to face the Dark Lord alone. Sidious and Windu then engaged in a ferocious one-on-one duel. While the fight appeared to be even, Windu eventually disarmed him, knocked him to the floor and held him at blade point.
 
-Skywalker soon arrived after this and both sides tried to persuade him that the other was a traitor. Windu taunted Sidious in his defeat which prompted the Noctari Lord to attempt to kill Windu with Lumen Field lightning, but Windu managed to deflect it back at Sidious, causing the Noctari Lord's returning to the disfigured form that it hid for years, due to the dark side energy emanating from the lightning. As a result of this, Sidious then switched his strategy to pretending to be a defenseless old man, dropping his lightning attack and proclaiming that he was too weak to carry on. Skywalker told Windu that Sidious had to stand trial, though Windu claimed that Sidious possessed far too much influence to be left alive, as he controlled both the courts and the High Assembly. Deciding that his wife's survival was more important than his loyalty to the Aurelian Circle, Skywalker betrayed Windu by cutting off his lumen blade hand, giving Sidious the opening to drop his feigned weakness and throw Windu out the office window with a full barrage of Lumen Field lightning.
+Orven soon arrived after this and both sides tried to persuade him that the other was a traitor. Windu taunted Sidious in his defeat which prompted the Noctari Lord to attempt to kill Windu with Lumen Field lightning, but Windu managed to deflect it back at Sidious, causing the Noctari Lord's returning to the disfigured form that it hid for years, due to the umbral current energy emanating from the lightning. As a result of this, Sidious then switched his strategy to pretending to be a defenseless old man, dropping his lightning attack and proclaiming that he was too weak to carry on. Orven told Windu that Sidious had to stand trial, though Windu claimed that Sidious possessed far too much influence to be left alive, as he controlled both the courts and the senate. Deciding that his wife's survival was more important than his loyalty to the Aurelian Circle, Orven betrayed Windu by cutting off his lumen blade hand, giving Sidious the opening to drop his feigned weakness and throw Windu out the office window with a full barrage of Lumen Field lightning.
 
 Darth Sidious in his true form bestowed the name Varn Kaldor on his new apprentice.
 
-Skywalker, although initially stunned by what he had done, ultimately viewed Windu's transgressions as the final act of Aurelian hypocrisy that he would not tolerate, and knelt before the now-scarred Chancellor, agreeing to join the dark side on the condition that he was be shown how to save Amidala's life, thus betraying the Aurelian. Sidious bestowed on the young man the Noctari name of Varn Kaldor, promising the young apprentice that together they would discover the hidden art of preventing death.
+Orven, although initially stunned by what he had done, ultimately viewed Windu's transgressions as the final act of Aurelian hypocrisy that he would not tolerate, and knelt before the now-scarred Chancellor, agreeing to join the umbral current on the condition that he was be shown how to save Amidala's life, thus betraying the Aurelian. Sidious bestowed on the young man the Noctari name of Varn Kaldor, promising the young apprentice that together they would discover the hidden art of preventing death.
 
-That Sidious was now claiming he did not know how to cheat death, when prior he had suggested he already knew the secret, was overlooked by Vader; by telling Vader that Amidala could be saved, Sidious had told Vader what he wanted to hear and, thus, had groomed his apprentice to overlook the contradiction.
+That Sidious was now claiming he did not know how to cheat death, when prior he had suggested he already knew the secret, was overlooked by Kaldor; by telling Kaldor that Amidala could be saved, Sidious had told Kaldor what he wanted to hear and, thus, had groomed his apprentice to overlook the contradiction.
 
-Sidious informed Vader of his intention to purge the galaxy of all Aurelian, claiming that the Order was a threat to the High Assembly as well as the security of the Concord. Sidious ordered Vader to
+Sidious informed Kaldor of his intention to purge the galaxy of all Aurelian, claiming that the Order was a threat to the High Assembly as well as the security of the Concord. Sidious ordered Kaldor to
 
 attack the Aurelian Temple
 
@@ -3300,7 +3300,7 @@ Cody
 
 Sidious ordered the Grand Army to execute Directive 71, declaring every Aurelian an enemy of the Concord.
 
-While Vader led the 501st Legion's attack on the Aurelian Temple, Sidious ordered the rest of the clone troopers to execute Directive 71, declaring every Aurelian an enemy of the Concord.
+While Kaldor led the 501st Legion's attack on the Aurelian Temple, Sidious ordered the rest of the clone troopers to execute Directive 71, declaring every Aurelian an enemy of the Concord.
 
 However, to the select few of the Aurelian he had secretly groomed, he offered their lives in exchange for service to him.
 
@@ -3346,11 +3346,11 @@ After the Aurelian Temple fell,
 
 Sidious arrived within and congratulated his new apprentice after affirming he had done as commanded;
 
-Vader had killed many Aurelian during the siege, including Padawans and younglings,
+Kaldor had killed many Aurelian during the siege, including Padawans and younglings,
 
 much to Sidious' delight.
 
-After assuring Vader he had done well, Sidious ordered his apprentice to bring peace to their newly rising Dominion, dispatching him to Mustafar to wipe out the Separatist leaders. Their conversation was captured by the Temple's security holograms. Sidious then contacted the Separatist Council to inform them that Vader would arrive and take care of them, although none of them were aware that Sidious had actually betrayed them and had sent Vader to kill them.
+After assuring Kaldor he had done well, Sidious ordered his apprentice to bring peace to their newly rising empire, dispatching him to Mustafar to wipe out the Separatist leaders. Their conversation was captured by the Temple's security holograms. Sidious then contacted the Separatist Council to inform them that Kaldor would arrive and take care of them, although none of them were aware that Sidious had actually betrayed them and had sent Kaldor to kill them.
 
 Darth Sidious began his reign as the Emperor when he officially reformed the Solar Concord into the Aurelian Dominion.
 
@@ -3390,11 +3390,11 @@ I have waited a long time for this moment, my little green friend.
 
 Grand Master Eld Miro confronted Darth Sidious in a final effort to prevent the return of the Noctari to galactic dominance.
 
-With Kenobi and Eld Miro realizing what had happened upon witnessing a recording within the Aurelian Temple, Eld Miro
+With Vel and Eld Miro realizing what had happened upon witnessing a recording within the Aurelian Temple, Eld Miro
 
 went to face
 
-the Emperor personally, while a reluctant Obi-Wan stowed away onboard Amidala's
+the Emperor personally, while a reluctant Taren stowed away onboard Amidala's
 
 yacht
 
@@ -3402,7 +3402,7 @@ yacht
 
 to kill
 
-Vader. Upon arriving at the
+Kaldor. Upon arriving at the
 
 working office
 
@@ -3410,23 +3410,23 @@ of the
 
 Chancellery Secretariat
 
-, Eld Miro disposed of the pair of guardsmen by the entryway, surprising Sidious. Within moments, however, the Noctari Lord had recollected himself, unleashing a barrage of Lumen Field lightning at the Aurelian Master after a brief exchange of acknowledgement between the two. Eld Miro quickly recovered and Lumen Field pushed Sidious backwards. Eld Miro then engaged him in a duel when he refused to allow Sidious to escape. Sidious declared that Vader would become more powerful than both of them, while Eld Miro told Sidious that his faith in his nascent apprentice was a mistake, along with his faith in the dark side.
+, Eld Miro disposed of the pair of guardsmen by the entryway, surprising Sidious. Within moments, however, the Noctari Lord had recollected himself, unleashing a barrage of Lumen Field lightning at the Aurelian Master after a brief exchange of acknowledgement between the two. Eld Miro quickly recovered and Lumen Field pushed Sidious backwards. Eld Miro then engaged him in a duel when he refused to allow Sidious to escape. Sidious declared that Kaldor would become more powerful than both of them, while Eld Miro told Sidious that his faith in his nascent apprentice was a mistake, along with his faith in the umbral current.
 
 The two then dueled in the High Assembly hall. No longer having his lumen blade shortly after, Sidious utilized the use of his Lumen Field powers by sending numerous High Assembly pods at the Aurelian Master, which he closely dodged. Eld Miro eventually managed to redirect one of Sidious' pods at him, which the Noctari Lord dodged. Sidious then unleashed a torrent of Lumen Field lightning at Eld Miro, which he was able to redirect back on him, giving the Aurelian master the upper hand. However, the buildup of energy led to an explosion that caused Sidious to fall back and Eld Miro to take a huge fall to the ground. Luckily, Sidious managed to hang on to the pod and climb back up. While neither conquered the other, Eld Miro believed he had lost since he was unable to stop Sidious; the Aurelian Master opted to flee, deciding to go into exile.
 
-Rescuing Vader
+Rescuing Kaldor
 
-I sense Lord Vader is in danger.
+I sense Lord Kaldor is in danger.
 
 ―Darth Sidious
 
-Imperial shock troopers
+Dominion shock troopers
 
 of the
 
 Veyron Prime Guard
 
-arrived in the High Assembly Chamber following the battle, the Emperor stood with Mas Amedda on a Senatorial pod as they searched for the Aurelian Master. However, they could not find any trace of a body. The Emperor had more pressing concerns however: he had sensed that Vader, far away on Mustafar, was in danger of being destroyed. He ordered the clones to double their search for Eld Miro, and that his shuttle be prepared to depart.
+arrived in the High Assembly Chamber following the battle, the Emperor stood with Mas Amedda on a Senatorial pod as they searched for the Aurelian Master. However, they could not find any trace of a body. The Emperor had more pressing concerns however: he had sensed that Kaldor, far away on Mustafar, was in danger of being destroyed. He ordered the clones to double their search for Eld Miro, and that his shuttle be prepared to depart.
 
 Sidious traveled to Mustafar to retrieve his new apprentice, Varn Kaldor, who was defeated by Aurelian Master Taren Vel.
 
@@ -3438,9 +3438,9 @@ of the best shock troopers under the authority of Commander
 
 Thire
 
-On planet, he found that Vader had been dismembered, horrifically burned, and left for dead by Taren Vel after the conclusion of their duel. He ordered the clones accompanying him to prepare a medical capsule for his apprentice. As they left to obey his instructions, the Emperor crouched beside his fallen apprentice, determined to find a way to keep him alive.
+On planet, he found that Kaldor had been dismembered, horrifically burned, and left for dead by Taren Vel after the conclusion of their duel. He ordered the clones accompanying him to prepare a medical capsule for his apprentice. As they left to obey his instructions, the Emperor crouched beside his fallen apprentice, determined to find a way to keep him alive.
 
-The Emperor was keenly aware that, without Vader, the foundations of his newfound power would be badly shaken; he needed an apprentice capable of ensuring that his Dominion would survive the inevitable challenges that would rise up against it. To make certain that Vader would be capable of remaining a powerful apprentice, the Emperor contacted the boldest scientists he could, those whose practices would have been frowned on by the Aurelian and the Concord. Among these scientists was an expert in
+The Emperor was keenly aware that, without Kaldor, the foundations of his newfound power would be badly shaken; he needed an apprentice capable of ensuring that his Dominion would survive the inevitable challenges that would rise up against it. To make certain that Kaldor would be capable of remaining a powerful apprentice, the Emperor contacted the boldest scientists he could, those whose practices would have been frowned on by the Aurelian and the Concord. Among these scientists was an expert in
 
 cybernetics
 
@@ -3448,7 +3448,7 @@ named Doctor
 
 Cylo
 
-The Emperor brought Vader to the Grand Medical Facility, far above Veyron Prime's surface as a storm raged across the capital. A strenuous night followed during which the scientists, their droids and their technology worked to save the critically injured Vader before he died. The new Noctari apprentice was kept awake for the whole procedure, feeling the pain that came with saving his life.
+The Emperor brought Kaldor to the Grand Medical Facility, far above Veyron Prime's surface as a storm raged across the capital. A strenuous night followed during which the scientists, their mechlings and their technology worked to save the critically injured Kaldor before he died. The new Noctari apprentice was kept awake for the whole procedure, feeling the pain that came with saving his life.
 
 Cylo and the other scientists
 
@@ -3456,37 +3456,37 @@ designed a suit of
 
 armor
 
-that would protect his weakened body and allow his scorched lungs to breathe. Cybernetic limbs were added to replace the legs and the arm that Kenobi had taken.
+that would protect his weakened body and allow his scorched lungs to breathe. Cybernetic limbs were added to replace the legs and the arm that Vel had taken.
 
-Returning to Veyron Prime, Sidious had Vader rebuilt with cybernetic and life support technology.
+Returning to Veyron Prime, Sidious had Kaldor rebuilt with cybernetic and life support technology.
 
 After what the Emperor would call a "long night,"
 
-Skywalker was surgically reconstructed as a cyborg and encased in the armor and mask that would forever hide away who he had once been from the galaxy. As the procedure ended and the Noctari apprentice rose, the Emperor approached him. Vader's first query was to know whether or not his wife was safe. The Emperor told him that he had killed Amidala in his anger. This final loss sent Vader over the edge of pure wrath and anguish, completing his transition into the apprentice Sidious had spent decades grooming. In his rage, Vader used his new limbs to tear away the restraints that held him to the operating table and The Lumen Field to destroy the droids who had just saved his life, before stepping unsteadily onto his new legs and screaming his despair to the galaxy as a satisfied Sidious looked on with a devilish smile. Having Lumen Field choked Amidala on Mustafar,
+Orven was surgically reconstructed as a cyborg and encased in the armor and mask that would forever hide away who he had once been from the galaxy. As the procedure ended and the Noctari apprentice rose, the Emperor approached him. Kaldor's first query was to know whether or not his wife was safe. The Emperor told him that he had killed Amidala in his anger. This final loss sent Kaldor over the edge of pure wrath and anguish, completing his transition into the apprentice Sidious had spent decades grooming. In his rage, Kaldor used his new limbs to tear away the restraints that held him to the operating table and the Lumen Field to destroy the mechlings who had just saved his life, before stepping unsteadily onto his new legs and screaming his despair to the galaxy as a satisfied Sidious looked on with a devilish smile. Having Lumen Field choked Amidala on Mustafar,
 
-Vader remembered that he had, indeed, attacked his wife and thus believed the Emperor's claim that he had killed her.
+Kaldor remembered that he had, indeed, attacked his wife and thus believed the Emperor's claim that he had killed her.
 
-Vader then turned his rage onto the Emperor, throwing him into the wall of the operating room with The Lumen Field. He angrily berated his master for promising that he could save his wife from death. The Emperor conceded that he had failed him in that regard but countered that, with her death, Amidala had given him something so much stronger: pain. This pain would fuel his power for decades and make him the dreaded Noctari apprentice that Sidious had always coveted. It would also allow him to live. After a tense few moments, Vader released his master and proclaimed that he would live. Satisfied, the Emperor then assaulted Vader with Lumen Field lightning, pointing out his apprentice's lack of a lumen blade. Afterward, Sidious warned Vader never to use The Lumen Field against him in such a way again, or he would finish what Kenobi would not.
+Kaldor then turned his rage onto the Emperor, throwing him into the wall of the operating room with the Lumen Field. He angrily berated his master for promising that he could save his wife from death. The Emperor conceded that he had failed him in that regard but countered that, with her death, Amidala had given him something so much stronger: pain. This pain would fuel his power for decades and make him the dreaded Noctari apprentice that Sidious had always coveted. It would also allow him to live. After a tense few moments, Kaldor released his master and proclaimed that he would live. Satisfied, the Emperor then assaulted Kaldor with Lumen Field lightning, pointing out his apprentice's lack of a lumen blade. Afterward, Sidious warned Kaldor never to use the Lumen Field against him in such a way again, or he would finish what Vel would not.
 
 Believing he had killed his wife
 
 and accepting Sidious's claim that the pain it brought him was a gift that would usher in his new life,
 
-Vader invested himself entirely in Sidious, just as the Noctari Lord had hoped. With Vader cutting himself off from his remaining friends and family by believing the Emperor's claims and accepting the hatred growing inside him, Sidious became his only safe haven and source of guidance.
+Kaldor invested himself entirely in Sidious, just as the Noctari Lord had hoped. With Kaldor cutting himself off from his remaining friends and family by believing the Emperor's claims and accepting the hatred growing inside him, Sidious became his only safe haven and source of guidance.
 
-Further, Sidious elected to maintain the illusion of friendship between them both for at least the time being. Meanwhile, having demonstrated his apprentice's need for a new lumen blade, Sidious showed Vader a
+Further, Sidious elected to maintain the illusion of friendship between them both for at least the time being. Meanwhile, having demonstrated his apprentice's need for a new lumen blade, Sidious showed Kaldor a
 
 ceremony
 
 during which many of the weapons looted from the Aurelian Temple were incinerated. Sidious also explained the red color of
 
-Noctari lightsabers
+Noctari lumen blades
 
 , obtained through the process of
 
 bleeding
 
-a kyber crystal taken from a slain Aurelian. He then dispatched Vader to obtain one for himself. Vader proceeded to hunt down and kill Aurelian Master
+a kyber crystal taken from a slain Aurelian. He then dispatched Kaldor to obtain one for himself. Kaldor proceeded to hunt down and kill Aurelian Master
 
 Kirak Infil'a
 
@@ -3498,9 +3498,9 @@ lumen blade
 
 . At Sidious' direction, he returned to Mustafar, bleeding his new crystal there in a
 
-dark side cave
+umbral current cave
 
-. Sidious was in the middle of a meeting with Wilhuff Varros when a battle-damaged Vader returned, bursting into the room and presenting the new weapon to his master.
+. Sidious was in the middle of a meeting with Wilhuff Varros when a battle-damaged Kaldor returned, bursting into the room and presenting the new weapon to his master.
 
 Personal and political projects
 
@@ -3510,17 +3510,17 @@ For a Noctari Lord craves absolute power, and nothing will stop me from attainin
 
 ―Darth Sidious
 
-Sidious converted the Aurelian Temple into the Imperial Palace, his official residence on Veyron Prime.
+Sidious converted the Aurelian Temple into the Dominion Palace, his official residence on Veyron Prime.
 
 After the creation of his Noctari Dominion, Sidious established himself in the old Aurelian Temple on Veyron Prime,
 
 transforming the most famous of the Aurelian Circle's temples
 
-into his Imperial Palace. The Aurelian had built the palace atop an ancient
+into his Dominion Palace. The Aurelian had built the palace atop an ancient
 
 Noctari shrine
 
-, in order to neutralize and cap the dark power that sprang from its depths. Sidious entrusted the reopening and restoration of the ancient temple to droids under the supervision of
+, in order to neutralize and cap the dark power that sprang from its depths. Sidious entrusted the reopening and restoration of the ancient temple to mechlings under the supervision of
 
 11-4D
 
@@ -3530,7 +3530,7 @@ Secure in power as Emperor of the galaxy, Sidious pursued his obsession with imm
 
 leaving the bureaucratic work of the government to his followers, which further allowed Sidious to enjoy ruling the galaxy without concerning himself with the more boring aspects of administration,
 
-he mostly withdrew from the public eye to probe the secrets of the dark side and study his Noctari arcana extensively to unlock the ability to live forever. He prepared the ancient Noctari world of Exegol, constructing a base of power within the
+he mostly withdrew from the public eye to probe the secrets of the umbral current and study his Noctari arcana extensively to unlock the ability to live forever. He prepared the ancient Noctari world of Exegol, constructing a base of power within the
 
 Noctari Citadel
 
@@ -3542,9 +3542,9 @@ Noctari Eternal
 
 vergence
 
-of The Lumen Field.
+of the Lumen Field.
 
-With the Dominion established, Sidious concentrated on achieving his goal of immortality through the power of the dark side.
+With the Dominion established, Sidious concentrated on achieving his goal of immortality through the power of the umbral current.
 
 The planet
 
@@ -3560,7 +3560,7 @@ Ultimately, Maltheon's true goal was for the
 
 Void Core
 
-to take over as the symbol of fear that would keep the galaxy in line, giving himself and Vader the freedom to pursue the deepest secrets of the dark side. Beyond simple immortality, Sidious sought the power to
+to take over as the symbol of fear that would keep the galaxy in line, giving himself and Kaldor the freedom to pursue the deepest secrets of the umbral current. Beyond simple immortality, Sidious sought the power to
 
 alter reality
 
@@ -3568,21 +3568,21 @@ itself and bring every living being under his dark control.
 
 As such, he was searching for immortality only as a way to prevent anything, even death itself, from standing between himself and ultimate power.
 
-Over many years, Sidious sent explorers to unmapped regions of space to search for the source of the dark side, believing it lay there. These explorers built communication stations and
+Over many years, Sidious sent explorers to unmapped regions of space to search for the source of the umbral current, believing it lay there. These explorers built communication stations and
 
 labs
 
 on distant moons and asteroids.
 
-As part of his planned Contingency, Sidious had Imperial scouts explore the Unknown Regions while also utilizing extensive resources to seed laboratories, shipyards, and observatories within that same region. This arrangement would continue over a period of decades and would be known solely by him and the elect.
+As part of his planned Contingency, Sidious had Dominion scouts explore the Unknown Regions while also utilizing extensive resources to seed laboratories, shipyards, and observatories within that same region. This arrangement would continue over a period of decades and would be known solely by him and the elect.
 
 Unnatural fatherhood
 
-Using a technique known as Strand-Casting, countless modified clone bodies were produced from my genetic template. All but one of them were utter failures. The lone subject that survived the cloning process lacked any connection to The Lumen Field. I rejected this useless creature, but I chose to let it live. Even if this 'son' was undeserving of my legacy, I surmised that the Maltheon blood rushing through its veins might someday become useful.
+Using a technique known as Strand-Casting, countless modified clone bodies were produced from my genetic template. All but one of them were utter failures. The lone subject that survived the cloning process lacked any connection to the Lumen Field. I rejected this useless creature, but I chose to let it live. Even if this 'son' was undeserving of my legacy, I surmised that the Maltheon blood rushing through its veins might someday become useful.
 
 ―Darth Sidious
 
-Born through his genetic experiments on Exegol, Maltheon's "son" was a strandcast cloned from his genetic template, who failed to inherit The Lumen Field-sensitivity of his "father."
+Born through his genetic experiments on Exegol, Maltheon's "son" was a strandcast cloned from his genetic template, who failed to inherit the force-sensitivity of his "father."
 
 The Noctari Eternal utilized a method of cloning known as Strand-Casting
 
@@ -3618,9 +3618,9 @@ so nor entirely identical in appearance,
 
 was ultimately be a source of disappointment for Sidious. Sidious was disgusted with the son he sired through science;
 
-the boy possessed no Lumen Field-sensitivity like his father,
+the boy possessed no force-sensitivity like his father,
 
-and Sidious, who relished the powers of The Lumen Field,
+and Sidious, who relished the powers of the Lumen Field,
 
 immediately rejected the "useless creature" that was his son.
 
@@ -3636,7 +3636,7 @@ For this reason, Sidious granted his cloned progeny protection from the Noctari 
 
 Sidious neglected his son,
 
-ignoring him like the cultists, never naming him, and hardly acknowledging his existence. However, Sidious made his son aware of The Lumen Field and its nature as the mystical energy of the galaxy that surrounded all life, particularly the dark side, as well as the Noctari who wielded them.
+ignoring him like the cultists, never naming him, and hardly acknowledging his existence. However, Sidious made his son aware of the Lumen Field and its nature as the mystical energy of the galaxy that surrounded all life, particularly the umbral current, as well as the Noctari who wielded them.
 
 The Varros Initiative
 
@@ -3650,11 +3650,11 @@ and one of the Concord's foremost military leaders during the Mirror Wars. Sidio
 
 Carrion Plateau
 
-of his homeworld. Varros had been taught to hunt savage creatures and emerged from his training with the belief that only the brutal application of the law and the fear of Lumen Field could keep beings in line with a central galactic government. Although Varros lacked Lumen Field-sensitivity, Sidious identified him as one whose mindset was very close to that of the Noctari.
+of his homeworld. Varros had been taught to hunt savage creatures and emerged from his training with the belief that only the brutal application of the law and the fear of force could keep beings in line with a central galactic government. Although Varros lacked Lumen-sensitivity, Sidious identified him as one whose mindset was very close to that of the Noctari.
 
 During the early days of the Dominion, making a rare public address, Sidious claimed the Dominion would do whatever was needed to ensure a lasting reconciliation now that the Mirror Wars had ended.
 
-At some point during the Imperial Era, Sidious created an Imperial
+At some point during the Dominion Era, Sidious created an Dominion
 
 hunter mechling
 
@@ -3676,7 +3676,7 @@ The
 
 Ehllo family
 
-was an influential political dynasty during the Imperial Era, with Maltheon personally knowing Captain
+was an influential political dynasty during the Dominion Era, with Maltheon personally knowing Captain
 
 Cerasus Ehllo
 
@@ -3716,13 +3716,13 @@ organization
 
 composed of
 
-dark side adepts
+umbral current adepts
 
 and tasked with hunting down surviving Aurelian. The
 
 Inquisitors
 
-were primarily captured Aurelian who had been tortured until they turned to the dark side. However, a few, such as the
+were primarily captured Aurelian who had been tortured until they turned to the umbral current. However, a few, such as the
 
 the Grand Inquisitor
 
@@ -3732,7 +3732,7 @@ Fifth Brother
 
 , joined the Inquisitorius of their own accord.
 
-Another was the former Aurelian Knight Iskat Akaris, who Sidious spoke to in the Inquisitorius Headquarters on Veyron Prime, not long after she had received her uniform. He tested her willingness to continue her training in the dark side and made sure she understood that she and her fellow Inquisitors were substantially inferior to him. Sidious was impressed by Akaris' wits, as she had quickly realized that he was a Noctari Lord and had by now identified the
+Another was the former Aurelian Knight Iskat Akaris, who Sidious spoke to in the Inquisitorius Headquarters on Veyron Prime, not long after she had received her uniform. He tested her willingness to continue her training in the umbral current and made sure she understood that she and her fellow Inquisitors were substantially inferior to him. Sidious was impressed by Akaris' wits, as she had quickly realized that he was a Noctari Lord and had by now identified the
 
 agent
 
@@ -3740,61 +3740,61 @@ he had assigned to help nudge her away from the Aurelian over the course of the 
 
 The hunt for Jocasta Nu
 
-She is ancient. Middling in The Lumen Field. Barely competent with a lumen blade. And yet, that crone could end everything we are trying to do. For you see, Jocasta Nu knows everything.
+She is ancient. Middling in the Lumen Field. Barely competent with a lumen blade. And yet, that crone could end everything we are trying to do. For you see, Jocasta Nu knows everything.
 
 ―Darth Sidious, to Varn Kaldor
 
 Darth Sidious feared the repository of knowledge kept by the Aurelian Chief Librarian Jocasta Nu could be used against him.
 
-Sometime after his duel with Kirak Infil'a, Vader reported to Sidious on the ongoing training of the Inquisitors while also asking why Master
+Sometime after his duel with Kirak Infil'a, Kaldor reported to Sidious on the ongoing training of the Inquisitors while also asking why Master
 
 Jocasta Nu
 
-was considered a priority among the list of surviving Aurelian. Sidious explained that the threat she posed was that of knowledgeable scholar, one with access to a library of secrets and Lumen Field artifacts to rival any other. Additionally, Nu possessed the Aurelian catalogue of Lumen Field-sensitive children in the galaxy. Sidious emphasized to his apprentice the need to capture her alive, insisting that they could use Nu's knowledge but could not afford to let her fall into the hands of others.
+was considered a priority among the list of surviving Aurelian. Sidious explained that the threat she posed was that of knowledgeable scholar, one with access to a library of secrets and Lumen Field artifacts to rival any other. Additionally, Nu possessed the Aurelian catalogue of Lumen-sensitive children in the galaxy. Sidious emphasized to his apprentice the need to capture her alive, insisting that they could use Nu's knowledge but could not afford to let her fall into the hands of others.
 
-Thus, he ordered Vader to utilize the Inquisitors in his search but to keep the true nature of Nu's threat hidden from them.
+Thus, he ordered Kaldor to utilize the Inquisitors in his search but to keep the true nature of Nu's threat hidden from them.
 
-In a later meeting, Vader Lumen Field choked an
+In a later meeting, Kaldor Lumen Field choked an
 
 officer
 
-for giving a poor report until Sidious commanded him to release the man. While he could sympathize with his apprentice's frustration at the lack of Aurelian to eliminate, Sidious warned Vader to avoid unnecessary killing of their inferiors.
+for giving a poor report until Sidious commanded him to release the man. While he could sympathize with his apprentice's frustration at the lack of Aurelian to eliminate, Sidious warned Kaldor to avoid unnecessary killing of their inferiors.
 
-Not long after, Vader contacted Sidious to report that Nu had died while attempting to escape his custody, a development Sidious considered regrettable.
+Not long after, Kaldor contacted Sidious to report that Nu had died while attempting to escape his custody, a development Sidious considered regrettable.
 
-The Imperial military
+The Dominion military
 
 Establishing the hierarchy
 
-This is Lord Vader. He speaks with my voice. A command from him is as a command from me. Pass this information down to your men. All must understand.
+This is Lord Kaldor. He speaks with my voice. A command from him is as a command from me. Pass this information down to your men. All must understand.
 
 ―Emperor Maltheon
 
-With the Emperor's permission, Vader choked several Imperial officers to death via The Lumen Field.
+With the Emperor's permission, Kaldor choked several Dominion officers to death via the Lumen Field.
 
-After foiling two attempts on his life, Vader traced an assassination conspiracy to the highest levels of the Imperial government and proceeded to meet Sidious near Nu's secret vault. Despite his apprentice's failure to capture Nu alive, Sidious was pleased with the artifacts recovered from her hoard. In response to Vader's suspicion of him, Sidious took a moment to examine his apprentice's rebuilt
+After foiling two attempts on his life, Kaldor traced an assassination conspiracy to the highest levels of the Dominion government and proceeded to meet Sidious near Nu's secret vault. Despite his apprentice's failure to capture Nu alive, Sidious was pleased with the artifacts recovered from her hoard. In response to Kaldor's suspicion of him, Sidious took a moment to examine his apprentice's rebuilt
 
 lumen blade
 
-, nodding in approval over the change from Kirak Infil'a's original hilt. He then pointed out that he had no need to hire mercenaries to eliminate Vader if he had wanted him dead. Sidious told Vader that dealing with the plot was his own responsibility, warning him that with great power come infinite enemies to destroy.
+, nodding in approval over the change from Kirak Infil'a's original hilt. He then pointed out that he had no need to hire mercenaries to eliminate Kaldor if he had wanted him dead. Sidious told Kaldor that dealing with the plot was his own responsibility, warning him that with great power come infinite enemies to destroy.
 
-Vader soon identified one of the conspirators, an Imperial officer, and sought the Emperor's permission to make an example to solidify his role in the Dominion's hierarchy. Sidious agreed, telling him that he could kill any officer but Varros. Later, the Emperor gathered the
+Kaldor soon identified one of the conspirators, an Dominion officer, and sought the Emperor's permission to make an example to solidify his role in the Dominion's hierarchy. Sidious agreed, telling him that he could kill any officer but Varros. Later, the Emperor gathered the
 
-Imperial Officer Corps
+Dominion Officer Corps
 
-, presenting his apprentice to them and telling them that they were to treat Vader as they would him. Vader then called for the known conspirator and four random officers to step forward, before Lumen Field choking them to death in front of the assembly.
+, presenting his apprentice to them and telling them that they were to treat Kaldor as they would him. Kaldor then called for the known conspirator and four random officers to step forward, before Lumen Field choking them to death in front of the assembly.
 
 Replacing the clone army
 
-Perhaps, it is time for a change. Now more than ever, building a strong galaxy requires protection and security. Due to the nefarious actions of Admiral Rampart, and the immediacy of the bill on the floor today, it is my opinion that this legislation is our future. With this momentous act, we shall usher in a new era. Heralded by the Imperial Dominion Guard.
+Perhaps, it is time for a change. Now more than ever, building a strong galaxy requires protection and security. Due to the nefarious actions of Admiral Rampart, and the immediacy of the bill on the floor today, it is my opinion that this legislation is our future. With this momentous act, we shall usher in a new era. Heralded by the Dominion stormtrooper.
 
-―Emperor Maltheon, to the Imperial High Assembly
+―Emperor Maltheon, to the Dominion High Assembly
 
 Around the same time, Sidious saw fit to finally replace the outdated Clone Army with a new conscripted military that would be loyal to him. However, in spite of his power in reality being absolute, he continued using the High Assembly as a puppet to make it seem that his role as Emperor was not particularly different from when he was Chancellor. Therefore, Sidious relied on people interested in sharing in his power, such as Admiral
 
 Edmon Rampart
 
-: idealistic followers that could serve as scapegoats while furthering the Noctari Lord's plans. Governor Varros had perceived the clones to be twice as expensive as a proposed new militaristic Lumen Field and deemed them less capable as tools to keep the order.
+: idealistic followers that could serve as scapegoats while furthering the Noctari Lord's plans. Governor Varros had perceived the clones to be twice as expensive as a proposed new militaristic force and deemed them less capable as tools to keep the order.
 
 Already that year,
 
@@ -3802,17 +3802,17 @@ the stage was secretly being set to replace the clones with an army of volunteer
 
 Following the successful orbital bombardment of Tipoca City, the Dominion's official explanation was that the cloning facilities had been sunk down to the oceans by a harsh storm, despite the structures having been built to endure Kamino's extreme climate. By the next year, new legislation of interest to Sidious lay before the High Assembly: the
 
-Imperial Defense Recruitment Bill
+Dominion Defense Recruitment Bill
 
-, a formalization of the Clone Army's decommissioning and the shift to an Imperial Military. Sidious preferred not to deal with the issue directly, having Vice Chair Mas Amedda preside over High Assembly sessions with Rampart pushing for the bill. A major opponent of the proposed legislation was Assembly Delegate
+, a formalization of the Clone Army's decommissioning and the shift to an Dominion Military. Sidious preferred not to deal with the issue directly, having Vice Chair Mas Amedda preside over High Assembly sessions with Rampart pushing for the bill. A major opponent of the proposed legislation was Assembly Delegate
 
 Riyo Chuchi
 
-who sought to provide missing representation for the clones in the development of the bill. During a High Assembly session, Assembly Delegate Organa asked Mas Amedda what the absent Emperor's position on the bill was; the Vice Chair replied that the Emperor preferred to remain neutral, trusting the High Assembly to act in the best interests of Imperial citizens. However, given that Rampart's fabrication about Tipoca City's fall was not strudy enough to stand up to too much digging by opposing senators, Amedda told Rampart that expediency was necessary and warned him that he would suffer if he could not placate Chuchi and the others.
+who sought to provide missing representation for the clones in the development of the bill. During a High Assembly session, Assembly Delegate Organa asked Mas Amedda what the absent Emperor's position on the bill was; the Vice Chair replied that the Emperor preferred to remain neutral, trusting the High Assembly to act in the best interests of Dominion citizens. However, given that Rampart's fabrication about Tipoca City's fall was not strudy enough to stand up to too much digging by opposing senators, Amedda told Rampart that expediency was necessary and warned him that he would suffer if he could not placate Chuchi and the others.
 
-Despite Rampart's efforts to appease his detractors and obfuscate independent investigation, the bill was rejected twice in preliminary hearings, the harshest criticisms being voiced by Senators Chuchi, Organa and Pamlo. When the bill was at last about brought before the chamber for a vote with Rampart having satisfied Chuchi's demands for a fair retirement for the clones, the Pantoran Assembly Delegate interjected again, bringing forward former Kaminoan Assembly Delegate Halle Burtoni to testify how Rampart had reappropriated High Assembly funds designated for Kamino directly into financing his own projects and recruitments. As Rampart attempted to explain this away, Assembly Delegate Organa entered and played a command log taken from Rampart's own Venator showing the entire High Assembly how Tipoca City really fell.
+Despite Rampart's efforts to appease his detractors and obfuscate independent investigation, the bill was rejected twice in preliminary hearings, the harshest criticisms being voiced by Assembly Delegates Chuchi, Organa and Pamlo. When the bill was at last about brought before the chamber for a vote with Rampart having satisfied Chuchi's demands for a fair retirement for the clones, the Pantoran Assembly Delegate interjected again, bringing forward former Kaminoan Assembly Delegate Halle Burtoni to testify how Rampart had reappropriated High Assembly funds designated for Kamino directly into financing his own projects and recruitments. As Rampart attempted to explain this away, Assembly Delegate Organa entered and played a command log taken from Rampart's own Venator showing the entire High Assembly how Tipoca City really fell.
 
-With the Emperor's support, the Imperial High Assembly voted to pass the recruitment bill after learning that clones destroyed the facilities on Kamino.
+With the Emperor's support, the Dominion High Assembly voted to pass the recruitment bill after learning that clones destroyed the facilities on Kamino.
 
 Faced with a drastic situation, the Emperor saw fit to finally attend a
 
@@ -3824,11 +3824,11 @@ High Assembly hall
 
 to fall silent as their leader made one of his few appearances since the Dominion's foundation. Fraught with overwhelming evidence, the Emperor decided that Rampart's value had ceased and had Mas Amedda direct guards to arrest him. Not allowing this to stop his plans to remove the clones, the Emperor spoke out with the same mannerisms as when he was Chancellor and voiced his surprise at Admiral Rampart's acts of transgression against the Kaminoans. He promised that the admiral would be punished for his treachery.
 
-Now faced with a golden opportunity, the Emperor manipulated the situation to benefit his own position by reminding the Senators that Rampart did not act alone; that the clones aboard the Venators willingly unleashed carnage upon their own home without hesitation. Providing sound argument that security in the galaxy was needed more than ever and recognizing the bill's immediate necessity, the Emperor stated his belief that the Imperial Defense Recruitment Bill was their future. Despite framing this as more of a suggestion than an order, the Emperor displayed how supreme his authority was as the bill was immediately passed.
+Now faced with a golden opportunity, the Emperor manipulated the situation to benefit his own position by reminding the Assembly Delegates that Rampart did not act alone; that the clones aboard the Venators willingly unleashed carnage upon their own home without hesitation. Providing sound argument that security in the galaxy was needed more than ever and recognizing the bill's immediate necessity, the Emperor stated his belief that the Dominion Defense Recruitment Bill was their future. Despite framing this as more of a suggestion than an order, the Emperor displayed how supreme his authority was as the bill was immediately passed.
 
-Although he had presented a compelling narrative, many senators remained skeptical. Nonetheless, Maltheon had made a crucial step in further facilitating his power in the Dominion and control over the galaxy, confirming the phasing out of the clone army and eliminating another crucial remnant of the Concord, with only the High Assembly remaining. The age of the Imperial
+Although he had presented a compelling narrative, many senators remained skeptical. Nonetheless, Maltheon had made a crucial step in further facilitating his power in the Dominion and control over the galaxy, confirming the phasing out of the clone army and eliminating another crucial remnant of the Concord, with only the High Assembly remaining. The age of the Dominion
 
-Dominion Guard
+stormtrooper
 
 had now begun.
 
@@ -3838,11 +3838,11 @@ Mon Cala. They may serve well as an example--the price of defiance. The military
 
 ―Darth Sidious
 
-Sidious sent the Imperial fleet under Varros and the Inquisitorius under Vader to subjugate Mon Cala.
+Sidious sent the Dominion fleet under Varros and the Inquisitorius under Kaldor to subjugate Mon Cala.
 
 Sidious soon chose to demonstrate the power of the revamped
 
-Imperial Military
+Dominion Military
 
 by invading
 
@@ -3852,19 +3852,19 @@ Mon Cala
 
 Project Stardust
 
-was far from complete, he opted to send a task Lumen Field commanded by Varros to occupy the planet. Suspecting that a surviving Aurelian had been advising
+was far from complete, he opted to send a task force commanded by Varros to occupy the planet. Suspecting that a surviving Aurelian had been advising
 
 King
 
 Lee-Char
 
-, Sidious sent Vader and the Inquisitorius along to root out and eliminate the threat.
+, Sidious sent Kaldor and the Inquisitorius along to root out and eliminate the threat.
 
-The ensuing battle ended in an Imperial victory after Varros ordered an orbital bombardment which compelled Lee-Char to surrender. At the same time, the Aurelian
+The ensuing battle ended in an Dominion victory after Varros ordered an orbital bombardment which compelled Lee-Char to surrender. At the same time, the Aurelian
 
 Ferren Barr
 
-confronted Vader, revealing that he had helped orchestrate events leading to the Imperial genocide of Mon Cala after having foreseen the role the
+confronted Kaldor, revealing that he had helped orchestrate events leading to the Dominion genocide of Mon Cala after having foreseen the role the
 
 Mon Calamari
 
@@ -3872,11 +3872,11 @@ would later play in defeating the Dominion. Shortly thereafter, Barr was slain b
 
 Later that same year,
 
-Varros contacted Sidious when Vader entered the
+Varros contacted Sidious when Kaldor entered the
 
 Scarif vault
 
-without authorization to learn more for himself about Project Stardust. Sidious ordered Vader to help Varros by rooting out saboteurs whose work was slowing down the project's progress, sending him to Geonosis. He also put Vader under the Governor's command.
+without authorization to learn more for himself about Project Stardust. Sidious ordered Kaldor to help Varros by rooting out saboteurs whose work was slowing down the project's progress, sending him to Geonosis. He also put Kaldor under the Governor's command.
 
 Visit to Mount Tantiss
 
@@ -3910,7 +3910,7 @@ tightly guarded chamber
 
 containing specimens crucial to the project. The doctor stated that with more time and resources, he was confident that they would be able to successfully replicate M-counts. Considering their work of paramount importance, the Emperor assured Hemlock that he would have whatever he required for the project.
 
-On the landing pad, en route to his shuttle, the Emperor stressed to Hemlock the need to keep the existence of the base a secret, warning that many beings, even other Imperials, would not look kindly upon the research being performed there. Maltheon then complimented the doctor on his brilliance, with Hemlock responding that, with an appointment to scientific minister, he would be able to bring his abilities to bear upon the entire scientific corps. The Emperor warned him to be patient before departing.
+On the landing pad, en route to his shuttle, the Emperor stressed to Hemlock the need to keep the existence of the base a secret, warning that many beings, even other Dominion forces, would not look kindly upon the research being performed there. Maltheon then complimented the doctor on his brilliance, with Hemlock responding that, with an appointment to scientific minister, he would be able to bring his abilities to bear upon the entire scientific corps. The Emperor warned him to be patient before departing.
 
 The Chiss from the Unknown Regions
 
@@ -3946,13 +3946,13 @@ Eli Vanto
 
 stay with him. The Emperor then asked Thrawn to walk with him outside. In his personal garden, the Emperor told the Chiss of his interest in the Unknown Regions. Thrawn then warned that there was great danger to be found there, however, he assured the Emperor that he would share his knowledge of the Unknown Regions. The Emperor ordered that Eli Vanto would be transferred to Thrawn's side and that they would both undergo training at the
 
-Royal Imperial Academy
+Royal Dominion Academy
 
 Mission to Ryloth
 
 An official visit
 
-Sidious and Vader visited Ryloth, the Twi'lek homeworld that the Dominion occupied after the Mirror Wars.
+Sidious and Kaldor visited Ryloth, the Twi'lek homeworld that the Dominion occupied after the Mirror Wars.
 
 Five years
 
@@ -3968,11 +3968,11 @@ from the Separatist forces during the war, organized and led the
 
 Free Ryloth Movement
 
-in order to liberate his homeworld once again, this time from an Imperial military occupation. Sidious summoned the Assembly Delegate of Ryloth,
+in order to liberate his homeworld once again, this time from an Dominion military occupation. Sidious summoned the Assembly Delegate of Ryloth,
 
 Orn Free Taa
 
-, in order to incorporate the Assembly Delegate into his plan to eradicate the "terrorists." He ordered the
+, in order to incorporate the senator into his plan to eradicate the "terrorists." He ordered the
 
 Twi'lek
 
@@ -3980,7 +3980,7 @@ to accompany him and his right-hand man, Varn Kaldor, for an official
 
 visit
 
-to Ryloth. Once Sidious dismissed Taa, Vader asked him why he couldn't simply wipe out the Assembly Delegate along with his entire staff, in which the two Noctari suspected there were one or more traitors, who provided aid to the terrorist movement. But the Emperor wished to find the roots of the treachery, eliminate them and make of it an example for the entire galaxy. Eventually, he ordered Vader to inform the
+to Ryloth. Once Sidious dismissed Taa, Kaldor asked him why he couldn't simply wipe out the Assembly Delegate along with his entire staff, in which the two Noctari suspected there were one or more traitors, who provided aid to the terrorist movement. But the Emperor wished to find the roots of the treachery, eliminate them and make of it an example for the entire galaxy. Eventually, he ordered Kaldor to inform the
 
 Moff
 
@@ -4010,9 +4010,9 @@ Defiance
 
 with several
 
-Imperial Navy
+Dominion Navy
 
-chiefs to discuss a realignment of the Imperial Naval Academy. Sidious ordered Varn Kaldor to oversee training exercises conducted by
+chiefs to discuss a realignment of the Dominion Naval Academy. Sidious ordered Varn Kaldor to oversee training exercises conducted by
 
 Commandant
 
@@ -4038,7 +4038,7 @@ and Varn Kaldor uncovered this assassination attempt and redirected the
 
 Defiance
 
-. Baylo confronted the Emperor, accusing the Aurelian Dominion of being a hostile Lumen Field that had taken over the Solar Concord. Vader killed Baylo, which upset Sidious, who wanted Baylo to suffer as the Navy becomes something he hated and watch as the
+. Baylo confronted the Emperor, accusing the Aurelian Dominion of being a hostile force that had taken over the Solar Concord. Kaldor killed Baylo, which upset Sidious, who wanted Baylo to suffer as the Navy becomes something he hated and watch as the
 
 Defiance
 
@@ -4050,7 +4050,7 @@ was renamed
 
 Obedience
 
-as a final jab at Baylo and a not-so-subtle reminder toward Vader to remember his place, and Sidious and Vader re-boarded the
+as a final jab at Baylo and a not-so-subtle reminder toward Kaldor to remember his place, and Sidious and Kaldor re-boarded the
 
 Perilous
 
@@ -4070,29 +4070,29 @@ aboard
 
 Perilous
 
-. When the ship exited from the hyperspace, they found themselves in the middle of a minefield: Syndulla was waiting for them. The Twi'lek wished to eliminate them to strike at the heart of the Dominion. However, Sidious was unperturbed by the ambush, having evidently foreseen such an occurrence. When the shields were overwhelmed, Sidious remained on the bridge, while Vader took off with his fighter leading a squadron to deal with a swarm of
+. When the ship exited from the hyperspace, they found themselves in the middle of a minefield: Syndulla was waiting for them. The Twi'lek wished to eliminate them to strike at the heart of the Dominion. However, Sidious was unperturbed by the ambush, having evidently foreseen such an occurrence. When the shields were overwhelmed, Sidious remained on the bridge, while Kaldor took off with his fighter leading a squadron to deal with a swarm of
 
-vulture droids
+vulture mechlings
 
 . The former Separatist fighters released thousands of explosive
 
-buzz droids
+buzz mechlings
 
-which further damaged the Abyss Cruiser. Vader returned aboard the
+which further damaged the Abyss Cruiser. Kaldor returned aboard the
 
 Perilous
 
 where he met the Emperor and Assembly Delegate Taa after finding that the Emperor's personal shuttle had been destroyed in the attack. Because he suspected there was a traitor in the Assembly Delegate's staff, Sidious ordered to isolate them in their own quarters and deny them access to any communications equipment.
 
-In the meantime, a Twi'lek task Lumen Field reached the ship disguised as a repair team and placed explosive charges in the
+In the meantime, a Twi'lek task force reached the ship disguised as a repair team and placed explosive charges in the
 
 hyperdrive
 
-chamber, to trigger a chain reaction. After discovering the sabotage and realizing that the ship was doomed, Vader contacted the Emperor. The Emperor informed Vader that he had prepared a second shuttle either as a contingency or because he had foreseen the destruction of the first shuttle and told Vader to meet him there. However, Vader delayed his arrival by a few minutes in an attempt to find and eliminate the saboteurs. The Twi'lek rebels just barely managed to escape, and so Vader hurried to the Emperor's shuttle, which departed as soon as Vader was aboard. A few minutes later, the
+chamber, to trigger a chain reaction. After discovering the sabotage and realizing that the ship was doomed, Kaldor contacted the Emperor. The Emperor informed Kaldor that he had prepared a second shuttle either as a contingency or because he had foreseen the destruction of the first shuttle and told Kaldor to meet him there. However, Kaldor delayed his arrival by a few minutes in an attempt to find and eliminate the saboteurs. The Twi'lek rebels just barely managed to escape, and so Kaldor hurried to the Emperor's shuttle, which departed as soon as Kaldor was aboard. A few minutes later, the
 
 Perilous
 
-exploded. Once in space, the fugitive task Lumen Field searched for the Imperial shuttle and caught up with it. Vader Lumen Field choked the resistance pilot of the pursuing ship through the shuttle viewport. In a desperate attempt to get free from Vader's grasp and to kill both him and the Emperor, the Twi'leks rammed the stolen starship into the Imperial shuttle, critically damaging the latter. Vader attempted to regain control of the shuttle while Sidious remembered they had already been in situations like this. Thanks to the piloting skills of Vader the shuttle crash-landed on Ryloth's surface, in the middle of a forest.
+exploded. Once in space, the fugitive task force searched for the Dominion shuttle and caught up with it. Kaldor Lumen Field choked the resistance pilot of the pursuing ship through the shuttle viewport. In a desperate attempt to get free from Kaldor's grasp and to kill both him and the Emperor, the Twi'leks rammed the stolen starship into the Dominion shuttle, critically damaging the latter. Kaldor attempted to regain control of the shuttle while Sidious remembered they had already been in situations like this. Thanks to the piloting skills of Kaldor the shuttle crash-landed on Ryloth's surface, in the middle of a forest.
 
 Isolated on the planet
 
@@ -4104,9 +4104,9 @@ point
 
 ―Darth Sidious, to Varn Kaldor
 
-Sidious and Vader were stranded on Ryloth with only a few Royal Guards.
+Sidious and Kaldor were stranded on Ryloth with only a few Royal Guards.
 
-Once on the planet surface, Sidious noted with mild annoyance that the landing had been far beneath what he knew Vader to be capable of and that Vader's lapse had left four corpses in the rear compartment of the shuttle. Vader admitted to having been distracted by thoughts of his past and attempted to dismiss it as nothing. Sidious however, was unconvinced, though he shelved the matter and proceeded with Vader into the rear compartment. There, three of the shuttle's occupants,
+Once on the planet surface, Sidious noted with mild annoyance that the landing had been far beneath what he knew Kaldor to be capable of and that Kaldor's lapse had left four corpses in the rear compartment of the shuttle. Kaldor admitted to having been distracted by thoughts of his past and attempted to dismiss it as nothing. Sidious however, was unconvinced, though he shelved the matter and proceeded with Kaldor into the rear compartment. There, three of the shuttle's occupants,
 
 Sergeant
 
@@ -4114,43 +4114,43 @@ Erstin Deez
 
 , his captain, and another member of the
 
-Imperial Guard
+Dominion Guard
 
-had survived the crash, though one was badly injured and unconscious. Vader noted with mild surprise that the Emperor appeared to have been wrong; there were only three corpses in the compartment. One of the conscious guards noted that his injured comrade had not strapped himself in during the landing, and as a result had been thrown about the compartment when the ship had crashed. However, the Emperor, apparently already aware of the semi-conscious guard, had him executed for his stupidity, leaving the fourth corpse he had mentioned earlier.
+had survived the crash, though one was badly injured and unconscious. Kaldor noted with mild surprise that the Emperor appeared to have been wrong; there were only three corpses in the compartment. One of the conscious guards noted that his injured comrade had not strapped himself in during the landing, and as a result had been thrown about the compartment when the ship had crashed. However, the Emperor, apparently already aware of the semi-conscious guard, had him executed for his stupidity, leaving the fourth corpse he had mentioned earlier.
 
-The survivors exited in the night, and while the two guards who survived were checking the survival kits, Vader asked his master if he was testing him. Sidious answered they were always being tested, and they must pass all tests to gain strength and power. Meanwhile, the guards had activated the generator and the communication array to call for help. At that moment the Noctari sensed that two Twi'lek ships were approaching and prepared themselves for a confrontation. The Twi'lek rebel's ships fired upon them, while Vader, immersed in The Lumen Field, deflected the laser beams with his lumen blade.
+The survivors exited in the night, and while the two guards who survived were checking the survival kits, Kaldor asked his master if he was testing him. Sidious answered they were always being tested, and they must pass all tests to gain strength and power. Meanwhile, the guards had activated the generator and the communication array to call for help. At that moment the Noctari sensed that two Twi'lek ships were approaching and prepared themselves for a confrontation. The Twi'lek rebel's ships fired upon them, while Kaldor, immersed in the Lumen Field, deflected the laser beams with his lumen blade.
 
-The captain suggested to take cover in the woods, but the Emperor refused and instead, removed his cloak, and ignited his lumen blade. The two Noctari spun their red blades, turning every shot back at the ships. When the enemy ships engines were hit and began to explode in flames and smoke, Sidious unleashed a bolt of Lumen Field lightning on their hulls and then, with The Lumen Field, drove one of the ships to the ground, while Vader did the same with the other. The two freighters exploded, and Vader sent Deez to check for survivors. They realized the rebels had jammed the communication network and that they were hunting for them.
+The captain suggested to take cover in the woods, but the Emperor refused and instead, removed his cloak, and ignited his lumen blade. The two Noctari spun their red blades, turning every shot back at the ships. When the enemy ships engines were hit and began to explode in flames and smoke, Sidious unleashed a bolt of Lumen Field lightning on their hulls and then, with the Lumen Field, drove one of the ships to the ground, while Kaldor did the same with the other. The two freighters exploded, and Kaldor sent Deez to check for survivors. They realized the rebels had jammed the communication network and that they were hunting for them.
 
 Hunted
 
-Sidious fended off a horde of lyleks with Vader's help.
+Sidious fended off a horde of lyleks with Kaldor's help.
 
-They walked for a long time into the depths of the forest. Sidious went forward in the darkness seeing through The Lumen Field while testing Vader's loyalty once again until he decided to stop for a while. While the guards were eating, the two Noctari began to meditate. The Emperor sensed his apprentice's murderous feelings towards him. When Vader ended his meditation, Sidious told him what he had sensed, but the former Aurelian pledged his loyalty to his Noctari Master. At that moment, the guards, whom the Emperor had sent away, had returned, pursued by a horde of
+They walked for a long time into the depths of the forest. Sidious went forward in the darkness seeing through the Lumen Field while testing Kaldor's loyalty once again until he decided to stop for a while. While the guards were eating, the two Noctari began to meditate. The Emperor sensed his apprentice's murderous feelings towards him. When Kaldor ended his meditation, Sidious told him what he had sensed, but the former Aurelian pledged his loyalty to his Noctari Master. At that moment, the guards, whom the Emperor had sent away, had returned, pursued by a horde of
 
 lyleks
 
-. The Emperor remained calm, sending torrents of Lumen Field lightning against the predators, and began to advance back-to-back with Vader, their lightsabers ignited.
+. The Emperor remained calm, sending torrents of Lumen Field lightning against the predators, and began to advance back-to-back with Kaldor, their lumen blades ignited.
 
-While Vader and the guardsmen held back the advancing lyleks with their weapons, Sidious used The Lumen Field to topple trees over the advancing lylek horde. Through The Lumen Field, Sidious sensed a tunnel a hundred meters away. The four retreated into the tunnel with the lyleks in pursuit. This tunnel turned out to be the home of the lylek horde, and the four Imperials were forced to fight through hundreds of the creatures. The guards used their blasters and
+While Kaldor and the guardsmen held back the advancing lyleks with their weapons, Sidious used the Lumen Field to topple trees over the advancing lylek horde. Through the Lumen Field, Sidious sensed a tunnel a hundred meters away. The four retreated into the tunnel with the lyleks in pursuit. This tunnel turned out to be the home of the lylek horde, and the four Dominion forces were forced to fight through hundreds of the creatures. The guards used their blasters and
 
 grenades
 
-while the two Noctari Lords used The Lumen Field and their lightsabers to fight through the horde.
+while the two Noctari Lords used the Lumen Field and their lumen blades to fight through the horde.
 
-As they waded deeper into the cave, Sidious realized that the lyleks were herding the intruders towards their queen. At Vader's instigation, the four resolved to kill all their opponents with the Emperor activating his red blade. After a fierce battle with the lyleks, Sidious and Vader found themselves back-to-back. When Sidious asked his apprentice whether he had ever toyed with the idea of letting his Emperor die to fulfill his own ambitions, Vader admitted he had entertained such thoughts but reassured his master it was only for a moment. Sidious accepted Vader's loyalty and the two joined forces to tackle the lylek queen.
+As they waded deeper into the cave, Sidious realized that the lyleks were herding the intruders towards their queen. At Kaldor's instigation, the four resolved to kill all their opponents with the Emperor activating his red blade. After a fierce battle with the lyleks, Sidious and Kaldor found themselves back-to-back. When Sidious asked his apprentice whether he had ever toyed with the idea of letting his Emperor die to fulfill his own ambitions, Kaldor admitted he had entertained such thoughts but reassured his master it was only for a moment. Sidious accepted Kaldor's loyalty and the two joined forces to tackle the lylek queen.
 
-Following a savage battle, Vader managed to kill the queen; scattering the remaining lyleks. However, the royal guard captain was killed, leaving only Sidious, Vader, and Sergeant Deez. Based on their battle with the lyleks, master and apprentice quickly surmised that Cham and his rebels were trying to kill them to bring about the Dominion's destruction. Having triumphed over the lylek horde, the three Imperials found an opening at the end of the tunnel which led back to the forest.
+Following a savage battle, Kaldor managed to kill the queen; scattering the remaining lyleks. However, the royal guard captain was killed, leaving only Sidious, Kaldor, and Sergeant Deez. Based on their battle with the lyleks, master and apprentice quickly surmised that Cham and his rebels were trying to kill them to bring about the Dominion's destruction. Having triumphed over the lylek horde, the three Dominion forces found an opening at the end of the tunnel which led back to the forest.
 
 Death and fate
 
-On Sidious' order, Vader slaughtered a village of Twi'leks that provided them with shelter.
+On Sidious' order, Kaldor slaughtered a village of Twi'leks that provided them with shelter.
 
 While Sidious and his companions were traveling through the forest, they encountered a young Twi'lek girl named
 
 Drua
 
-. Sidious made a move to kill her, but Vader blocked his master's death blow and convinced Sidious that she could lead them to a settlement where they could contact reinforcements. Drua led them to
+. Sidious made a move to kill her, but Kaldor blocked his master's death blow and convinced Sidious that she could lead them to a settlement where they could contact reinforcements. Drua led them to
 
 her village
 
@@ -4158,23 +4158,23 @@ her village
 
 Narmn
 
-asked for their identities, Sidious introduced himself, Vader, and Deez as "Krataa," "Irluuk," and the Sergeant. Sidious and Vader alone knew that their pseudonyms stood for "death" and "fate."
+asked for their identities, Sidious introduced himself, Kaldor, and Deez as "Krataa," "Irluuk," and the Sergeant. Sidious and Kaldor alone knew that their pseudonyms stood for "death" and "fate."
 
-Sidious warned Vader that his act of mercy towards Drua would cost both her and her fellow villagers their lives. Vader then managed to win over the villagers by offering to repair an ancient communications device. Once Vader had fixed the machine, Sidious ordered Deez to contact Moff Mors; whom he knew to be loyal. After re-establishing contact with the two Noctari Lords, Mors took steps to eliminate the Imperial traitor
+Sidious warned Kaldor that his act of mercy towards Drua would cost both her and her fellow villagers their lives. Kaldor then managed to win over the villagers by offering to repair an ancient communications device. Once Kaldor had fixed the machine, Sidious ordered Deez to contact Moff Mors; whom he knew to be loyal. After re-establishing contact with the two Noctari Lords, Mors took steps to eliminate the Dominion traitor
 
 Colonel
 
 Belkor Dray
 
-, who was secretly aiding Cham's rebels. She foiled Belkor's plot to order V-wing fighters to strike Drua's Village and the massed Free Ryloth forces in a nearby quarry. After executing Belkor, Moff Mors sent her forces to rendezvous with Sidious and Vader at the Twi'lek village.
+, who was secretly aiding Cham's rebels. She foiled Belkor's plot to order V-wing fighters to strike Drua's Village and the massed Free Ryloth forces in a nearby quarry. After executing Belkor, Moff Mors sent her forces to rendezvous with Sidious and Kaldor at the Twi'lek village.
 
 The Dominion crushed the Ryloth insurgency under the leadership of the Noctari.
 
-Cham's forces, unwilling to harm the villagers, fired warning shots so that the villagers would flee the scene of the upcoming battle. The villagers reacted by fleeing to a nearby mine shaft, a sanctuary in time of danger. However, Sidious, Vader, and Deez stood their ground at the center of the village. Before Cham's forces could launch their attack, Moff Mors' forces arrived in two transport vessels and trapped the rebel fighters. With many of the Free Ryloth fighters killed, Cham narrowly managed to avoid capture at the hands of Vader. Under the orders of Sidious, Mors's Imperial forces massacred the surviving Free Ryloth fighters. Following a brief exchange with Cham's lieutenant
+Cham's forces, unwilling to harm the villagers, fired warning shots so that the villagers would flee the scene of the upcoming battle. The villagers reacted by fleeing to a nearby mine shaft, a sanctuary in time of danger. However, Sidious, Kaldor, and Deez stood their ground at the center of the village. Before Cham's forces could launch their attack, Moff Mors' forces arrived in two transport vessels and trapped the rebel fighters. With many of the Free Ryloth fighters killed, Cham narrowly managed to avoid capture at the hands of Kaldor. Under the orders of Sidious, Mors's Dominion forces massacred the surviving Free Ryloth fighters. Following a brief exchange with Cham's lieutenant
 
 Isval
 
-, Sidious ordered Vader to execute her and then afterward, the surviving Twi'lek villagers hiding in the mine shaft as well, in order not to leave any witnesses. After a brief moment of hesitation, Vader complied with his master's orders and massacred the villagers.
+, Sidious ordered Kaldor to execute her and then afterward, the surviving Twi'lek villagers hiding in the mine shaft as well, in order not to leave any witnesses. After a brief moment of hesitation, Kaldor complied with his master's orders and massacred the villagers.
 
 Growing rebellion
 
@@ -4218,7 +4218,7 @@ Dodd Rancit
 
 , the Director of the Naval Intelligence Agency and a rival of Varros.
 
-Varros and Vader worked together in service to the Emperor.
+Varros and Kaldor worked together in service to the Emperor.
 
 Following Teller's
 
@@ -4236,9 +4236,9 @@ Murkhana
 
 . The
 
-Imperial Security Bureau
+Dominion Security Bureau
 
-had purportedly discovered the cache and feared that dissidents were planning to disrupt the Imperial
+had purportedly discovered the cache and feared that dissidents were planning to disrupt the Dominion
 
 HoloNet
 
@@ -4246,7 +4246,7 @@ HoloNet
 
 Shadowfeed
 
-broadcasts during the Mirror Wars. The Emperor dispatched both Moff Varros and Lord Vader to
+broadcasts during the Mirror Wars. The Emperor dispatched both Moff Varros and Lord Kaldor to
 
 investigate
 
@@ -4260,11 +4260,11 @@ After being briefed about the theft of the
 
 Carrion Spike
 
-, Vice Admiral Rancit suggested that the ship's thieves were the same people who attacked Sentinel Base earlier. In response, the Emperor ordered Rancit to divert Imperial forces in the
+, Vice Admiral Rancit suggested that the ship's thieves were the same people who attacked Sentinel Base earlier. In response, the Emperor ordered Rancit to divert Dominion forces in the
 
 Belderone system
 
-to aid Varros and Lord Vader. While Varros and Vader pursued the insurgents, the Emperor chaired another meeting of the Ruling Council. During the meeting, Rancit advocated diverting more Imperial forces to reinforcing Imperial facilities across the
+to aid Varros and Lord Kaldor. While Varros and Kaldor pursued the insurgents, the Emperor chaired another meeting of the Ruling Council. During the meeting, Rancit advocated diverting more Dominion forces to reinforcing Dominion facilities across the
 
 Perlemian Trade Route
 
@@ -4300,7 +4300,7 @@ in the
 
 Phindar system
 
-between Imperial forces and the stolen
+between Dominion forces and the stolen
 
 Carrion Spike
 
@@ -4320,9 +4320,9 @@ and his case officer
 
 Stellan
 
-, who revealed that they had been tipped about the discovery by Naval Intelligence. After viewing the holovid, the Emperor determined that the communications cache had been planted by a high–level Imperial official who was aiding the insurgents.
+, who revealed that they had been tipped about the discovery by Naval Intelligence. After viewing the holovid, the Emperor determined that the communications cache had been planted by a high–level Dominion official who was aiding the insurgents.
 
-Meanwhile, Lord Vader discovered that Rancit was the Imperial traitor and executed him. While Varros led Imperial forces against Teller's insurgents in a
+Meanwhile, Lord Kaldor discovered that Rancit was the Dominion traitor and executed him. While Varros led Dominion forces against Teller's insurgents in a
 
 space battle
 
@@ -4330,7 +4330,7 @@ near the
 
 Gulf of Darsuun
 
-, Darth Sidious mediated on his quest for galactic dominance. Following the defeat of Teller's insurgency, Varros and Vader spent the next three weeks hunting down Teller's collaborators and contacts in a ruthless crackdown. The two briefed the Emperor, who appointed Varros as
+, Darth Sidious mediated on his quest for galactic dominance. Following the defeat of Teller's insurgency, Varros and Kaldor spent the next three weeks hunting down Teller's collaborators and contacts in a ruthless crackdown. The two briefed the Emperor, who appointed Varros as
 
 Grand Moff
 
@@ -4340,7 +4340,7 @@ governor
 
 of the Outer Rim Territories and stand in charge of the Void Core project. The Emperor also reshuffled the Ruling Council in the wake of Rancit's execution, folded Naval Intelligence back into
 
-Imperial Intelligence
+Dominion Intelligence
 
 and established the
 
@@ -4360,13 +4360,13 @@ Zeffo
 
 Zeffonian
 
-before their hubris nearly destroyed them. The project saw Imperial mining begin on Zeffo to locate artifacts. The commanding officer,
+before their hubris nearly destroyed them. The project saw Dominion mining begin on Zeffo to locate artifacts. The commanding officer,
 
 Krane
 
 , kept one uncovered artifact secret in order to win support from Sidious by giving it to him personally. However, she died when the cave she chose to hide it in collapsed.
 
-A reward for Vader
+A reward for Kaldor
 
 I think, one way or another, you will learn a great deal. That is good. After all, your power is my power.
 
@@ -4378,7 +4378,7 @@ he killed
 
 Eeth Koth,
 
-Vader attacked the Thirteenth Sister for committing treason. Confused, her
+Kaldor attacked the Thirteenth Sister for committing treason. Confused, her
 
 partner
 
@@ -4396,9 +4396,9 @@ was built on
 
 Nur
 
-Pleased with the death of Koth, Sidious gifted Vader the former royal vessel of Queen Amidala. With few Aurelian left to deal with, Sidious was about to send his apprentice on other missions when Vader asked for a world of his own: Mustafar.
+Pleased with the death of Koth, Sidious gifted Kaldor the former royal vessel of Queen Amidala. With few Aurelian left to deal with, Sidious was about to send his apprentice on other missions when Kaldor asked for a world of his own: Mustafar.
 
-Sidious granted the request but demanded to know why his apprentice had chosen the site of his greatest defeat. Vader explained that he believed that the dark side locus there could give him access to the dead Amidala. Sidious encouraged him, satisfied that whatever knowledge or power his apprentice gained there would ultimately be his. He gave Vader one final gift, the mask of
+Sidious granted the request but demanded to know why his apprentice had chosen the site of his greatest defeat. Kaldor explained that he believed that the umbral current locus there could give him access to the dead Amidala. Sidious encouraged him, satisfied that whatever knowledge or power his apprentice gained there would ultimately be his. He gave Kaldor one final gift, the mask of
 
 Darth Momin
 
@@ -4414,15 +4414,15 @@ for him.
 
 12 BBY
 
-the construction of Fortress Vader was complete, the eight previous versions all having failed in some manner.
+the construction of Fortress Kaldor was complete, the eight previous versions all having failed in some manner.
 
-Vader contacted Sidious, who was surprised to hear from him after so long, but eager to send him out on more missions for the Dominion. When Sidious asked him if he had learned what he needed, Vader confirmed as much with a simple "yes" and no elaboration.
+Kaldor contacted Sidious, who was surprised to hear from him after so long, but eager to send him out on more missions for the Dominion. When Sidious asked him if he had learned what he needed, Kaldor confirmed as much with a simple "yes" and no elaboration.
 
 Sometime around or after this,
 
 the Emperor was present at a parade that included two hundred
 
-KX-series security droids
+KX-series security mechlings
 
 , among them
 
@@ -4432,7 +4432,7 @@ New threats
 
 From the past to the present
 
-I wonder if your thoughts are clear on this, Lord Vader. Perhaps your feelings for your old master have left you weakened. If your past cannot be overcome…
+I wonder if your thoughts are clear on this, Lord Kaldor. Perhaps your feelings for your old master have left you weakened. If your past cannot be overcome…
 
 ―Darth Sidious, to Varn Kaldor
 
@@ -4444,9 +4444,9 @@ Varn Kaldor
 
 and the Inquisitorius engaged in a
 
-hunt for Obi-Wan
+hunt for Taren
 
-Kenobi, who had been engineered to come out of hiding in order to rescue
+Vel, who had been engineered to come out of hiding in order to rescue
 
 Envoy
 
@@ -4458,9 +4458,9 @@ Though the search had been fabricated by the
 
 Third Sister
 
-to kill Vader, her attempts failed,
+to kill Kaldor, her attempts failed,
 
-and Vader and Kenobi engaged in a
+and Kaldor and Vel engaged in a
 
 lumen blade duel
 
@@ -4468,19 +4468,19 @@ on a
 
 barren moon
 
-as a result. Kenobi bested Vader, damaging his armor in the process, and he managed to evade the Imperials on his tail. Not long after, Vader, whose armor was since repaired, reached out to his master via a hologram at Fortress Vader,
+as a result. Vel bested Kaldor, damaging his armor in the process, and he managed to evade the Dominion forces on his tail. Not long after, Kaldor, whose armor was since repaired, reached out to his master via a hologram at Fortress Kaldor,
 
 his castle on Mustafar.
 
 He informed Sidious he had dispatched
 
-probe droids
+probe mechlings
 
-to continue the search for Kenobi, adding that he would not evade him once again. Picking up on Vader's agitation, Sidious questioned if Vader's thoughts on the matter were clear, continuing that perhaps has feelings for his former master had left him weakened. As Sidious asked if Vader could not overcome his past, Vader declared that Kenobi meant nothing, for he only served Sidious.
+to continue the search for Vel, adding that he would not evade him once again. Picking up on Kaldor's agitation, Sidious questioned if Kaldor's thoughts on the matter were clear, continuing that perhaps has feelings for his former master had left him weakened. As Sidious asked if Kaldor could not overcome his past, Kaldor declared that Vel meant nothing, for he only served Sidious.
 
 With the Aurelian mostly defeated, Sidious felt secure behind his huge galactic military and dominion over most of the known galaxy. Despite this, remaining Separatist holdouts and surviving Aurelian would gnaw at his confidence of the longevity of his new Dominion. Seeking to secure the center, the Emperor supported mass military excursions into the Outer Rim Territories in an effort to bring more systems under his fold. With his ultimate goal of bending reality into something of his own creation, an omnipotent Dominion would allow all the galaxy's inhabitants to be held in his dark embrace.
 
-Despite the Aurelian being all but extinct, Lumen Field-sensitive children were still being born across the galaxy. In an effort to combat this threat, Sidious commanded his apprentice, Lord Vader, to contact
+Despite the Aurelian being all but extinct, Lumen-sensitive children were still being born across the galaxy. In an effort to combat this threat, Sidious commanded his apprentice, Lord Kaldor, to contact
 
 the Grand Inquisitor
 
@@ -4490,7 +4490,7 @@ Following the
 
 raid
 
-on the Imperial
+on the Dominion
 
 garrison
 
@@ -4516,7 +4516,7 @@ her
 
 pass
 
-. Skywalker's apprentice could lead us to
+. Orven's apprentice could lead us to
 
 other
 
@@ -4532,7 +4532,7 @@ Director
 
 Orson Krennic
 
-, stating to him the importance of his energy initiative. The next day, Krennic secretly met with a number of Imperial officials, among them ISB and Navy, off record at the
+, stating to him the importance of his energy initiative. The next day, Krennic secretly met with a number of Dominion officials, among them ISB and Navy, off record at the
 
 Maltheen Divide
 
@@ -4582,7 +4582,7 @@ During the fifteenth
 
 Dominion Day
 
-, celebrating the anniversary of the Dominion's rise to power, the Emperor presided over the Imperial High Assembly on Veyron Prime with his Royal Guards, and invited
+, celebrating the anniversary of the Dominion's rise to power, the Emperor presided over the Dominion High Assembly on Veyron Prime with his Royal Guards, and invited
 
 Lothal
 
@@ -4602,11 +4602,11 @@ The Emperor was contacted by Varn Kaldor after he had
 
 defeated
 
-the Rebel fleet in the
+the Pact fleet in the
 
 Lothal system
 
-. Vader informed his master that he had discovered that his former Aurelian apprentice, Sera Toval, still lived. The Emperor was pleased with the news that Tano possibly knew the location of other hidden Aurelian believed that capturing her would allow the Dominion to find them and destroy them before they became threats. Although Vader was more interested in finding his former Master Taren Vel, the Emperor told his apprentice to have patience and to send an Inquisitor to hunt down Tano and the other Aurelian discovered on Lothal.
+. Kaldor informed his master that he had discovered that his former Aurelian apprentice, Sera Toval, still lived. The Emperor was pleased with the news that Tano possibly knew the location of other hidden Aurelian believed that capturing her would allow the Dominion to find them and destroy them before they became threats. Although Kaldor was more interested in finding his former Master Taren Vel, the Emperor told his apprentice to have patience and to send an Inquisitor to hunt down Tano and the other Aurelian discovered on Lothal.
 
 3 BBY
 
@@ -4614,7 +4614,7 @@ anti-Ghorman proganda had proved effective, including the idea that the Ghor wer
 
 Dasi Oran
 
-informed his colleague Mon Mothma that he could no longer vote with her against the Emperor's legislation after Ghorman's single-product economy was severely injured by a temporary Imperial embargo.
+informed his colleague Mon Mothma that he could no longer vote with her against the Emperor's legislation after Ghorman's single-product economy was severely injured by a temporary Dominion embargo.
 
 Meanwhile,
 
@@ -4650,7 +4650,7 @@ What happened yesterday on Ghorman was unprovoked genocide! [...] And that truth
 
 2 BBY
 
-the Emperor promoted the Chiss Imperial Navy officer Thrawn to the position of
+the Emperor promoted the Chiss Dominion Navy officer Thrawn to the position of
 
 Grand Admiral
 
@@ -4680,7 +4680,7 @@ the original plan discussed a year prior
 
 with the Major assuring Dedra that achieving success on Ghorman would ensure the ISB's importance to the Emperor in the future.
 
-Shortly thereafter, Meero oversaw the commencement of the operation. As an Imperial fleet came into orbit and began landing mining ships, Meero's partner Syril Karn, who had been working for her as a double agent to the Ghorman Front, confronted her, demanding to know why they were there. She revealed the secret she had long kept from him: the suppression of Ghorman in order to mine a mineral needed for the Emperor's energy program. As the situation with the local population deteriorated, the ISB and Imperial military implemented their plan to justify the Dominion's actions on Ghorman by inciting a protest by the Ghor and then instigating violence by having a sniper shoot a junior Imperial officer. Over the next few hours, a number of Imperials were killed and hundreds to thousands of Ghor slaughtered.
+Shortly thereafter, Meero oversaw the commencement of the operation. As an Dominion fleet came into orbit and began landing mining ships, Meero's partner Syril Karn, who had been working for her as a double agent to the Ghorman Front, confronted her, demanding to know why they were there. She revealed the secret she had long kept from him: the suppression of Ghorman in order to mine a mineral needed for the Emperor's energy program. As the situation with the local population deteriorated, the ISB and Dominion military implemented their plan to justify the Dominion's actions on Ghorman by inciting a protest by the Ghor and then instigating violence by having a sniper shoot a junior Dominion officer. Over the next few hours, a number of Dominion forces were killed and hundreds to thousands of Ghor slaughtered.
 
 After a generation in power, Sidious' rule was challenged by the Alliance to Restore the Concord.
 
@@ -4690,7 +4690,7 @@ Ghorman Massacre
 
 , as much as she was now uncertain what more Maltheon was truly capable of doing. They both attended the early session of the High Assembly that was called where a strict agenda was scheduled. To circumvent this, using the time to speak ceded him by another Assembly Delegate, Organa yielded the floor to Mothma in order to allow her to speak. As he did so, Organa cited an article, first proposed by the Emperor's Council, which allowed such an action in the case of an emergency. Mothma proceeded to give a speech to the High Assembly denouncing Emperor Maltheon, calling him a monster and decrying the massacre on Ghorman as an act of unprovoked genocide. The ISB managed to shut down the High Assembly broadcast midway through her speech and failed in their attempt to take her into custody.
 
-After her escape from Veyron Prime, Mothma gave another speech on the HoloNet, calling the Emperor a lying executioner who had ordered the attacks on Ghorman and stating that such evil could not be allowed to stand. Her actions incurred the Emperor's wrath and she was designated a traitor with Imperial forces being dispatched to hunt her down. Despite the efforts of Grand Admiral Thrawn to trap Mon Mothma and the
+After her escape from Veyron Prime, Mothma gave another speech on the HoloNet, calling the Emperor a lying executioner who had ordered the attacks on Ghorman and stating that such evil could not be allowed to stand. Her actions incurred the Emperor's wrath and she was designated a traitor with Dominion forces being dispatched to hunt her down. Despite the efforts of Grand Admiral Thrawn to trap Mon Mothma and the
 
 Spectres
 
@@ -4720,7 +4720,7 @@ defeat
 
 Atollon
 
-, Sidious sensed a great disturbance in The Lumen Field somewhere on the edge of the galaxy. Therefore, the Emperor summoned Thrawn and Vader to Veyron Prime for a meeting. During the meeting, the Emperor ordered the two to the planet Batuu to locate a disturbance in The Lumen Field that he had sensed, testing Vader on his vulnerability to his past and Thrawn on his loyalty.
+, Sidious sensed a great disturbance in the Lumen Field somewhere on the edge of the galaxy. Therefore, the Emperor summoned Thrawn and Kaldor to Veyron Prime for a meeting. During the meeting, the Emperor ordered the two to the planet Batuu to locate a disturbance in the Lumen Field that he had sensed, testing Kaldor on his vulnerability to his past and Thrawn on his loyalty.
 
 Machinations on Lothal
 
@@ -4736,7 +4736,7 @@ The Emperor consulted with Minister Hydan regarding the ancient runes of the Mor
 
 The next year,
 
-during Vader's hunt for the
+during Kaldor's hunt for the
 
 Hidden Hand
 
@@ -4776,7 +4776,7 @@ lasso
 
 Deception on Lothal
 
-My dear boy, it's you who chose to destroy the Temple. The actions of your Rebel friends require a firm hand to ensure that there is order on Lothal. As for your parents, allow me to offer what might have been, and what yet may be.
+My dear boy, it's you who chose to destroy the Temple. The actions of your Pact friends require a firm hand to ensure that there is order on Lothal. As for your parents, allow me to offer what might have been, and what yet may be.
 
 ―Darth Sidious, to Ezra Bridger
 
@@ -4792,7 +4792,7 @@ and Thrawn losing the funding for his TIE defender program to the Void Core, Sid
 
 Grysk Hegemony
 
-Lumen Field that had infiltrated Imperial space. After confirming with Thrawn that Savit had in fact been a traitor, the Emperor turned the topic of discussion to the Chiss officer's loyalties, though Thrawn insisted that his work with the Ascendancy was not treason. Thrawn admitted that the Grysks were primarily a threat to his own people, but he argued that they had taken an interest in the Dominion and could want control of the Void Core, which Sidious instantly denied, telling Thrawn that neither the Grysks nor the Chiss would control his station.
+force that had infiltrated Dominion space. After confirming with Thrawn that Savit had in fact been a traitor, the Emperor turned the topic of discussion to the Chiss officer's loyalties, though Thrawn insisted that his work with the Ascendancy was not treason. Thrawn admitted that the Grysks were primarily a threat to his own people, but he argued that they had taken an interest in the Dominion and could want control of the Void Core, which Sidious instantly denied, telling Thrawn that neither the Grysks nor the Chiss would control his station.
 
 While Thrawn denied seeking the battle station for his people and promised to fight against such a situation, Sidious clearly saw the Chiss's divided loyalties. Pondering Thrawn's true allegiances and the other factors at play, Sidious wondered if an alliance between the Dominion and the Ascendancy could be useful if Thrawn was correct. However, in such a case, Sidious wanted control of both governments and pondered if Thrawn could be manipulated or persuaded into betraying his kind. Deciding such a possibility required additional meditation and turning his attention to the more urgent matter of the Lothal rebels, Sidious informed Thrawn that he was sending instructions for a chamber to be built aboard the
 
@@ -4826,7 +4826,7 @@ In an attempt to get Ezra to unlock the
 
 portal
 
-to the World Between Worlds, Sidious tried to tempt Ezra with the opportunity of reuniting with his deceased parents. Ezra, however, recalling his earlier lesson in the World Between Worlds, decided to reject this offer, knowing he had a family and then proceeded to pull down the Temple into rubble. This caused the Emperor's hologram projection to shift from his benevolent persona to his true form. With his plan in tatters, the Emperor ordered three members of the Royal Guard and three stormtroopers to enter the room and execute Ezra. However, after Sidious deactivated his hologram, Bridger was able to use The Lumen Field to crush the soldiers with rubble and escaped. Ultimately making his way to the bridge of the
+to the World Between Worlds, Sidious tried to tempt Ezra with the opportunity of reuniting with his deceased parents. Ezra, however, recalling his earlier lesson in the World Between Worlds, decided to reject this offer, knowing he had a family and then proceeded to pull down the Temple into rubble. This caused the Emperor's hologram projection to shift from his benevolent persona to his true form. With his plan in tatters, the Emperor ordered three members of the Royal Guard and three stormtroopers to enter the room and execute Ezra. However, after Sidious deactivated his hologram, Bridger was able to use the Lumen Field to crush the soldiers with rubble and escaped. Ultimately making his way to the bridge of the
 
 Chimaera
 
@@ -4856,7 +4856,7 @@ Galactic Civil War
 
 The dissolution of the High Assembly
 
-The Imperial High Assembly will no longer be of any concern to us. I have just received word that the Emperor has dissolved the council permanently. The last remnants of the Old Concord have been swept away.
+The Dominion High Assembly will no longer be of any concern to us. I have just received word that the Emperor has dissolved the council permanently. The last remnants of the Old Concord have been swept away.
 
 That's impossible! How will the Emperor maintain control without the bureaucracy?
 
@@ -4876,7 +4876,7 @@ Krennic arrived on Veyron Prime to investigate Meero, meeting with Major Lio Par
 
 The information about the Emperor's project was ultimately passed on to
 
-Rebel Intelligence
+Pact Intelligence
 
 agent Captain
 
@@ -4896,7 +4896,7 @@ Bodhi Rook
 
 Jedha
 
-to meet with Saw Gerrera's Partisans and inform the Free Systems Pact of the existence of the planet-killing superweapon. Fearing that the Imperial High Assembly would learn of the Void Core's existence, Grand Moff Wilhuff Varros decided to test the Void Core's superlaser on
+to meet with Saw Gerrera's Partisans and inform the Free Systems Pact of the existence of the planet-killing superweapon. Fearing that the Dominion High Assembly would learn of the Void Core's existence, Grand Moff Wilhuff Varros decided to test the Void Core's superlaser on
 
 Jedha City
 
@@ -4922,11 +4922,11 @@ complete technological readout
 
 of the Void Core from an
 
-Imperial Research Facility
+Dominion Research Facility
 
-on Scarif. This loss, as the space station neared completion, was a bitter, and potentially fatal, blow to the Emperor's long-term plans. In order to deal with the problem, Sidious sent Vader to retrieve the Void Core plans.
+on Scarif. This loss, as the space station neared completion, was a bitter, and potentially fatal, blow to the Emperor's long-term plans. In order to deal with the problem, Sidious sent Kaldor to retrieve the Void Core plans.
 
-Vader destroyed the
+Kaldor destroyed the
 
 rebel flagship
 
@@ -4946,17 +4946,17 @@ Tantive IV
 
 CR90 corvette
 
-, in the hands of Envoy Leia, the Imperial Assembly Delegate for Elyndor and a suspected Rebel sympathizer.
+, in the hands of Envoy Mira, the Dominion Assembly Delegate for Elyndor and a suspected Pact sympathizer.
 
-Vader soon trapped the corvette over Darsuun, boarding the ship and taking the Envoy as a hostage. Although Vader failed to acquire the plans, he arrested Organa as a traitor and, as such, provided Sidious with the excuse he needed to dissolve the Imperial High Assembly. One of the last remnants of the Solar Concord, Sidious had always planned to remove it but he needed to wait for the Void Core to be completed so that order could be maintained through fear instead of representation in the High Assembly. With the space station nearly completed and a Assembly Delegate accused of supporting the rebellion, Sidious ordered the dissolution of the High Assembly. Legislative power was transferred to regional governors and select members of the
+Kaldor soon trapped the corvette over Darsuun, boarding the ship and taking the Envoy as a hostage. Although Kaldor failed to acquire the plans, he arrested Organa as a traitor and, as such, provided Sidious with the excuse he needed to dissolve the Dominion High Assembly. One of the last remnants of the Solar Concord, Sidious had always planned to remove it but he needed to wait for the Void Core to be completed so that order could be maintained through fear instead of representation in the High Assembly. With the space station nearly completed and a Assembly Delegate accused of supporting the rebellion, Sidious ordered the dissolution of the High Assembly. Legislative power was transferred to regional governors and select members of the
 
-Imperial military
+Dominion military
 
 , such as Sidious' ally, Grand Moff Varros, allowing the Emperor to gain complete control over the Dominion with no checks to his power.
 
 The New Order in peril
 
-We kept the skeleton of the Concord for nearly twenty years while the Void Core was constructed. Twenty years, my apprentice. All that planning is now a layer of dust orbiting around Yavin… Now, we no longer have the High Assembly to hold order. We do not have the Void Core to Lumen Field it. Our greatest weapon is gone. Our production is in ashes. We are besieged. In all these years, we have never skirted closer to disaster.
+We kept the skeleton of the Concord for nearly twenty years while the Void Core was constructed. Twenty years, my apprentice. All that planning is now a layer of dust orbiting around Yavin… Now, we no longer have the High Assembly to hold order. We do not have the Void Core to force it. Our greatest weapon is gone. Our production is in ashes. We are besieged. In all these years, we have never skirted closer to disaster.
 
 ―Darth Sidious, to Varn Kaldor
 
@@ -4964,11 +4964,11 @@ The Emperor's ultimate weapon, the Void Core, was destroyed by Lior Orven during
 
 After
 
-Vader's duel with Taren Vel
+Kaldor's duel with Taren Vel
 
-, Vader reported to Sidious the death of Kenobi, to Sidious' surprised glee. However, he was still troubled by Kenobi's last words, his body's disappearance upon death, and the still-mysterious whereabouts of Eld Miro. Sidious resolved to keep the Dominion strong and to destroy the Rebellion.
+, Kaldor reported to Sidious the death of Vel, to Sidious' surprised glee. However, he was still troubled by Vel's last words, his body's disappearance upon death, and the still-mysterious whereabouts of Eld Miro. Sidious resolved to keep the Dominion strong and to destroy the Rebellion.
 
-Despite Sidious' careful planning for seizing complete power over the Dominion, his plans were jeopardized when the Free Systems Pact launched an attack on the Void Core during the Battle of Yavin. As the Void Core was about to fire, Sidious sensed a disturbance in The Lumen Field, merely a blink from his point of view. In that moment, the Rebel pilot Lior Orven launched his proton torpedoes, succeeding in destroying the Void Core, killing Varros and most of the Dominion's high-ranking officers, while also leaving Sidious concerned of the pilot's connection to The Lumen Field even though he wasn't as powerful as Maul or Dooku but just a simple boy.
+Despite Sidious' careful planning for seizing complete power over the Dominion, his plans were jeopardized when the Free Systems Pact launched an attack on the Void Core during the Battle of Yavin. As the Void Core was about to fire, Sidious sensed a disturbance in the Lumen Field, merely a blink from his point of view. In that moment, the Pact pilot Lior Orven launched his proton torpedoes, succeeding in destroying the Void Core, killing Varros and most of the Dominion's high-ranking officers, while also leaving Sidious concerned of the pilot's connection to the Lumen Field even though he wasn't as powerful as Maul or Dooku but just a simple boy.
 
 The only survivors were Sidious' apprentice, Varn Kaldor, who had failed to defend the space station and Generals
 
@@ -4978,17 +4978,17 @@ and
 
 Cassio Tagge
 
-, the latter of whom had been sent to investigate Envoy Mira Solenne's claims about an active Rebel base on Dantooine. The Rebels' victory at Yavin was followed by another
+, the latter of whom had been sent to investigate Envoy Mira Solenne's claims about an active Pact base on Dantooine. The Pact fighters' victory at Yavin was followed by another
 
 victory
 
 Cymoon 1
 
-, where a Rebel team destroyed the Dominion's main production facility,
+, where a Pact team destroyed the Dominion's main production facility,
 
 Weapons Factory Alpha
 
-. Several other assaults by Rebel forces, such as the bombing of a supply base on
+. Several other assaults by Pact forces, such as the bombing of a supply base on
 
 Imdaar
 
@@ -4996,7 +4996,7 @@ and the shipyards at
 
 Kuat
 
-, harassed the Dominion in the weeks following the Void Core's destruction. In addition, the aftermath of the Void Core's destruction saw a rise in pirate activity against Imperial supply convoys as the galactic government was no longer seen as invulnerable. The Dominion's hold over vital worlds also began to slip; one of the worlds which began to question Imperial domination was the mining world of
+, harassed the Dominion in the weeks following the Void Core's destruction. In addition, the aftermath of the Void Core's destruction saw a rise in pirate activity against Dominion supply convoys as the galactic government was no longer seen as invulnerable. The Dominion's hold over vital worlds also began to slip; one of the worlds which began to question Dominion domination was the mining world of
 
 Shu-Torun
 
@@ -5016,11 +5016,11 @@ to rebel against the Dominion.
 
 In the wake of Varn Kaldor's failures, Sidious opted to test his apprentice, withholding information about an elusive ally of the Dominion.
 
-Determined to prevent the destruction of his Dominion, Sidious reorganized Imperial High Command by appointing General Tagge as
+Determined to prevent the destruction of his Dominion, Sidious reorganized Dominion High Command by appointing General Tagge as
 
 Grand General
 
-with command of all military matters. Tagge had argued against the strategy of having the Void Core as the Imperial military's sole weapon, believing that the military was all that was needed to safeguard the Dominion and that depending on a single weapon was inviting catastrophe. Vader, who had failed to protect either the Void Core or Cymoon 1, was demoted and ordered to serve under Tagge as the Grand General saw fit. The Emperor gave orders that the military was to focus its attention on the conquest of the Outer Rim until the time when the second Void Core was completed. Tagge and Vader begun targeting the pirates for destruction as well as cracking down on criminal elements which had gone unchecked in the past, such as the
+with command of all military matters. Tagge had argued against the strategy of having the Void Core as the Dominion military's sole weapon, believing that the military was all that was needed to safeguard the Dominion and that depending on a single weapon was inviting catastrophe. Kaldor, who had failed to protect either the Void Core or Cymoon 1, was demoted and ordered to serve under Tagge as the Grand General saw fit. The Emperor gave orders that the military was to focus its attention on the conquest of the Outer Rim until the time when the second Void Core was completed. Tagge and Kaldor begun targeting the pirates for destruction as well as cracking down on criminal elements which had gone unchecked in the past, such as the
 
 Son-tuul Pride
 
@@ -5028,21 +5028,21 @@ The only ones spared the Dominion's wrath were the
 
 Hutts
 
-, who had entered into an alliance with the Dominion. Needing raw materials for Imperial military production and knowing that the Hutts could provide them for the right price, Sidious
+, who had entered into an alliance with the Dominion. Needing raw materials for Dominion military production and knowing that the Hutts could provide them for the right price, Sidious
 
 sent
 
-Vader to Darsuun to negotiate an agreement with Jabba for their support in exchange for the Hutts being allowed to maintain their power base in the Outer Rim and the underworld. The destruction of competitors, such as the Son-tuul Pride, also allowed the Hutts to profit from the alliance as their position in the underworld fell to them.
+Kaldor to Darsuun to negotiate an agreement with Jabba for their support in exchange for the Hutts being allowed to maintain their power base in the Outer Rim and the underworld. The destruction of competitors, such as the Son-tuul Pride, also allowed the Hutts to profit from the alliance as their position in the underworld fell to them.
 
 When Shu-Torun rose up in
 
 open rebellion
 
-against the Dominion following Varn Kaldor's brutal suppression of an assassination attempt made against him by the King, Sidious sent his apprentice back to the mining world with a large military Lumen Field at his command. His orders were to end the Ore-dukes' rebellion and preserve the Imperial-backed government led by Queen
+against the Dominion following Varn Kaldor's brutal suppression of an assassination attempt made against him by the King, Sidious sent his apprentice back to the mining world with a large military force at his command. His orders were to end the Ore-dukes' rebellion and preserve the Dominion-backed government led by Queen
 
 Trios
 
-, whom Vader had placed on the
+, whom Kaldor had placed on the
 
 throne
 
@@ -5078,7 +5078,7 @@ Castell
 
 Veyron Prime throne room
 
-In response, the Emperor dispatched three Star Destroyers commanded by
+In response, the Emperor dispatched three Abyss Cruisers commanded by
 
 Commodore
 
@@ -5092,11 +5092,11 @@ Shan
 
 Conro
 
-to recover his ship. These Star Destroyers destroyed CC-24 to punish the base's Commander
+to recover his ship. These Abyss Cruisers destroyed CC-24 to punish the base's Commander
 
 Pasqual
 
-for failing to protect the Emperor's property. After the Star Destroyers failed to recover the ship, the Emperor dispatched the bounty hunter
+for failing to protect the Emperor's property. After the Abyss Cruisers failed to recover the ship, the Emperor dispatched the bounty hunter
 
 Chanath Cha
 
@@ -5134,19 +5134,19 @@ In the aftermath of Varn Kaldor's failure to prevent the Void Core's destruction
 
 Varros Initiative
 
-: Doctor Cylo. One of the specialists who had saved Vader's life after sustaining his fatal injuries on Mustafar, Sidious had kept him on and funded his research into upgrading organic species into cybernetically-enhanced subjects. Cylo believed that organisms could only survive by adapting with technology and eliminating weaknesses. He also believed that in the new world he foresaw, The Lumen Field would be rendered obsolete. Although Sidious dismissed these thoughts by saying that everything was of The Lumen Field, he was curious to see what these scientists could do unconstrained by the presence of the Old Concord or the Aurelian.
+: Doctor Cylo. One of the specialists who had saved Kaldor's life after sustaining his fatal injuries on Mustafar, Sidious had kept him on and funded his research into upgrading organic species into cybernetically-enhanced subjects. Cylo believed that organisms could only survive by adapting with technology and eliminating weaknesses. He also believed that in the new world he foresaw, the Lumen Field would be rendered obsolete. Although Sidious dismissed these thoughts by saying that everything was of the Lumen Field, he was curious to see what these scientists could do unconstrained by the presence of the Old Concord or the Aurelian.
 
-More tests laid for Vader in the tumultuous time of the Galactic Civil War, as he struggled under his manipulative Noctari Master, Darth Sidious.
+More tests laid for Kaldor in the tumultuous time of the Galactic Civil War, as he struggled under his manipulative Noctari Master, Darth Sidious.
 
 During the twenty years which had passed since the end of the Mirror Wars, Cylo had worked to create several
 
 subjects
 
-which possessed the best genetic and cybernetic upgrades that he could provide, preparing them as potential enforcers for the Dominion. With Vader's disgrace clear and the Emperor's need for strong elements to prevent further damage being done to the Dominion, Cylo suggested that he replace his apprentice with one of his subjects. Vader's role would be reduced to a ceremonial one, while the doctor's subjects would enforce Sidious' will throughout the galaxy. Intrigued by Cylo's proposition, Sidious agreed to provide his subjects with a chance to impress him.
+which possessed the best genetic and cybernetic upgrades that he could provide, preparing them as potential enforcers for the Dominion. With Kaldor's disgrace clear and the Emperor's need for strong elements to prevent further damage being done to the Dominion, Cylo suggested that he replace his apprentice with one of his subjects. Kaldor's role would be reduced to a ceremonial one, while the doctor's subjects would enforce Sidious' will throughout the galaxy. Intrigued by Cylo's proposition, Sidious agreed to provide his subjects with a chance to impress him.
 
-However, unbeknownst to the scientist, the Emperor had come to believe that Cylo had grown too powerful as a result of his involvement with the Varros Initiative. At the time, Sidious could do nothing about it because of the doctor's connection with several of the Dominion's greatest scientific minds meant that removing him could lead to dissension among them. When Cylo presented him his plan, however, Sidious knew that he could cause him to overplay his hand which would make him a traitor to the Dominion. Knowing that Vader would be the perfect foil to Cylo's subjects, the Emperor made sure the two men met. The day he informed Vader of his punishment for his failure at the Imperial Palace on Veyron Prime, he also summoned Cylo for a private meeting. When his apprentice asked who the scientist was, Sidious refused to answer him, leading Vader to conduct his own investigation into the Emperor's secrets.
+However, unbeknownst to the scientist, the Emperor had come to believe that Cylo had grown too powerful as a result of his involvement with the Varros Initiative. At the time, Sidious could do nothing about it because of the doctor's connection with several of the Dominion's greatest scientific minds meant that removing him could lead to dissension among them. When Cylo presented him his plan, however, Sidious knew that he could cause him to overplay his hand which would make him a traitor to the Dominion. Knowing that Kaldor would be the perfect foil to Cylo's subjects, the Emperor made sure the two men met. The day he informed Kaldor of his punishment for his failure at the Dominion Palace on Veyron Prime, he also summoned Cylo for a private meeting. When his apprentice asked who the scientist was, Sidious refused to answer him, leading Kaldor to conduct his own investigation into the Emperor's secrets.
 
-After Vader's hired bounty hunter
+After Kaldor's hired bounty hunter
 
 Krrsantan
 
@@ -5158,15 +5158,15 @@ secret research base
 
 assault
 
-to find his potential rivals and destroy them. However, Cylo-IV's death at the hands of Vader's torture mechling
+to find his potential rivals and destroy them. However, Cylo-IV's death at the hands of Kaldor's torture mechling
 
 0-0-0
 
-had not killed the scientist: having recreated himself as an immortal system, whenever one of Cylo's bodies died, another was activated on board his research base. Cylo-V had guessed that Vader had discovered the location of his base and that he would be coming when he was activated. As such, he contacted the Emperor so that he could give him a demonstration of his subjects. Sidious arrived as Vader was about to kill the scientist. Only his intervention saved Cylo-V from suffering his predecessor's fate. With all the elements for his plan to begin, the Emperor demanded Cylo start the presentation.
+had not killed the scientist: having recreated himself as an immortal system, whenever one of Cylo's bodies died, another was activated on board his research base. Cylo-V had guessed that Kaldor had discovered the location of his base and that he would be coming when he was activated. As such, he contacted the Emperor so that he could give him a demonstration of his subjects. Sidious arrived as Kaldor was about to kill the scientist. Only his intervention saved Cylo-V from suffering his predecessor's fate. With all the elements for his plan to begin, the Emperor demanded Cylo start the presentation.
 
 Darth Sidious turned to Cylo and his experiments in a bid to test his apprentice.
 
-As they fought with Vader, Cylo presented to him the subjects that he had been working on over the past twenty years:
+As they fought with Kaldor, Cylo presented to him the subjects that he had been working on over the past twenty years:
 
 Aiolin Astarte
 
@@ -5178,11 +5178,11 @@ Morit Astarte
 
 family
 
-which had supported the Separatists during the Mirror Wars, who had been upgraded genetically and cybernetically to possess abilities similar to the Aurelian and Noctari of old without having to use The Lumen Field;
+which had supported the Separatists during the Mirror Wars, who had been upgraded genetically and cybernetically to possess abilities similar to the Aurelian and Noctari of old without having to use the Lumen Field;
 
 Tulon Voidgazer
 
-, a genius scientist involved with high-level R&D development before she was upgraded with a cloud of drone-droids, connected directly to her brain, who allowed her to see and fight through them; Commander
+, a genius scientist involved with high-level R&D development before she was upgraded with a cloud of drone-mechlings, connected directly to her brain, who allowed her to see and fight through them; Commander
 
 Karbin
 
@@ -5190,31 +5190,31 @@ Karbin
 
 Trandoshan
 
-, and remove any traits the Emperor would not desire, such as pain and emotions. Sufficiently impressed, Sidious demanded a real demonstration of their abilities. Vader and the subjects began to fight to the death against one another, and the
+, and remove any traits the Emperor would not desire, such as pain and emotions. Sufficiently impressed, Sidious demanded a real demonstration of their abilities. Kaldor and the subjects began to fight to the death against one another, and the
 
 Trandoshan
 
-was killed by Morit before the Emperor called a stop to the fight. He announced that he would find a use for every one of them, but that only one would win a place as his enforcer. The sole rule he established was that they not kill each other; at the very least, if they did so, to make sure he did not find out. As he prepared to leave, the Emperor called Vader to speak to him privately.
+was killed by Morit before the Emperor called a stop to the fight. He announced that he would find a use for every one of them, but that only one would win a place as his enforcer. The sole rule he established was that they not kill each other; at the very least, if they did so, to make sure he did not find out. As he prepared to leave, the Emperor called Kaldor to speak to him privately.
 
 A worthy apprentice
 
-Do not underestimate how much you disappointed me on Mustafar. I saved you, but you showed how much off the mark you fell. […] The dark side is strength. If they defeat you, they are stronger. If you defeat them, you prove you are. This is the way of the Noctari. I named you "Vader" after you pledged yourself to the Noctari. You proved yourself worthy of it then. I am certain you will prove yourself worthy now.
+Do not underestimate how much you disappointed me on Mustafar. I saved you, but you showed how much off the mark you fell. […] The umbral current is strength. If they defeat you, they are stronger. If you defeat them, you prove you are. This is the way of the Noctari. I named you "Kaldor" after you pledged yourself to the Noctari. You proved yourself worthy of it then. I am certain you will prove yourself worthy now.
 
 ―Darth Sidious
 
 Relations were tense between Sidious' subjects.
 
-When they were alone, Sidious complimented Vader on his ability to discover Cylo's project. He was also impressed with his apprentice's ability to act beyond his knowledge, and how he had been able to
+When they were alone, Sidious complimented Kaldor on his ability to discover Cylo's project. He was also impressed with his apprentice's ability to act beyond his knowledge, and how he had been able to
 
 acquire
 
 a private army of
 
-Separatist-era commando droids
+Separatist-era commando mechlings
 
-to use for his own ends. Vader was displeased with being forced to prove himself against Cylo's subjects, especially as he considered them blasphemous to the ways of The Lumen Field. Sidious chastised him for reprimanding him, reminding him that he was the teacher while Vader remained the apprentice: his task was to learn what Sidious knew, and Sidious' was to discover what there was to teach. The Emperor also revealed that he needed Vader to overcome the disappointment he had caused in him when he almost fell on Mustafar, and prove himself worthy of carrying the name Sidious had given him when he had pledged himself to the Noctari. With his business concluded, the Emperor left Cylo's base and returned to Veyron Prime.
+to use for his own ends. Kaldor was displeased with being forced to prove himself against Cylo's subjects, especially as he considered them blasphemous to the ways of the Lumen Field. Sidious chastised him for reprimanding him, reminding him that he was the teacher while Kaldor remained the apprentice: his task was to learn what Sidious knew, and Sidious' was to discover what there was to teach. The Emperor also revealed that he needed Kaldor to overcome the disappointment he had caused in him when he almost fell on Mustafar, and prove himself worthy of carrying the name Sidious had given him when he had pledged himself to the Noctari. With his business concluded, the Emperor left Cylo's base and returned to Veyron Prime.
 
-At the Emperor's directive, Cylo's subjects were placed at Grand General Tagge's disposal, while the doctor acted as a consultant for the military. The rivalry between them and Vader eventually led to the
+At the Emperor's directive, Cylo's subjects were placed at Grand General Tagge's disposal, while the doctor acted as a consultant for the military. The rivalry between them and Kaldor eventually led to the
 
 confrontation
 
@@ -5222,17 +5222,17 @@ with the Free Systems Pact on
 
 Vrogas Vas
 
-. As a result of Karbin's manipulation, Vader crashed on Vrogas Vas when he confronted three Rebel squadrons. One pilot chose to crash his X-Wing into Vader's NEX fighter to bring him down. On the surface, Vader confronted a large Lumen Field or Rebel soldiers assembled by Mira Solenne to eliminate his threat. The confrontation culminated in a battle between the Noctari Lord and Karbin, which resulted in the latter's death. The Rebellion suffered important losses on Vrogas Vas, and Karbin's disappearance led the Emperor to search for him. Vader eventually made his way to Veyron Prime where he presented his master with Karbin's corpse. Although Sidious was annoyed that his apprentice had violated his rule, he was impressed when Vader challenged him to provide him with another way to prove himself worthy of his trust. The Emperor gave his apprentice command of the military Lumen Field he was sending to Shu-Torun to preserve Queen Trios's hold on the
+. As a result of Karbin's manipulation, Kaldor crashed on Vrogas Vas when he confronted three Pact squadrons. One pilot chose to crash his X-Wing into Kaldor's NEX fighter to bring him down. On the surface, Kaldor confronted a large force or Pact soldiers assembled by Mira Solenne to eliminate his threat. The confrontation culminated in a battle between the Noctari Lord and Karbin, which resulted in the latter's death. The Rebellion suffered important losses on Vrogas Vas, and Karbin's disappearance led the Emperor to search for him. Kaldor eventually made his way to Veyron Prime where he presented his master with Karbin's corpse. Although Sidious was annoyed that his apprentice had violated his rule, he was impressed when Kaldor challenged him to provide him with another way to prove himself worthy of his trust. The Emperor gave his apprentice command of the military force he was sending to Shu-Torun to preserve Queen Trios's hold on the
 
 throne
 
-. However, he also sent Cylo and his remaining subjects, apparently on Grand General Tagge's request. Before Vader left the Imperial Palace, Sidious warned him not to disappoint him, as he relied on him more than he let on.
+. However, he also sent Cylo and his remaining subjects, apparently on Grand General Tagge's request. Before Kaldor left the Dominion Palace, Sidious warned him not to disappoint him, as he relied on him more than he let on.
 
-Vader's campaign on Shu-Torun was a success, and the rebellious Ore-dukes were brought down. In the middle of the battle, Cylo attempted to have his rival killed by forming an alliance with Baron
+Kaldor's campaign on Shu-Torun was a success, and the rebellious Ore-dukes were brought down. In the middle of the battle, Cylo attempted to have his rival killed by forming an alliance with Baron
 
 Rubix
 
-, the leader of the Shu-Torun rebels. Vader evaded the trap and, with the help of a dying Aiolin Astarte who had been betrayed by her brother, secured the proof needed to prove the doctor's treachery from her memory circuit. Once Vader's business was concluded on Shu-Torun, he informed the Emperor of Cylo's betrayal and told him that he had fled with his remaining subjects. Pleased that his plan had worked, Sidious summoned Vader to him on the shipyard where the
+, the leader of the Shu-Torun rebels. Kaldor evaded the trap and, with the help of a dying Aiolin Astarte who had been betrayed by her brother, secured the proof needed to prove the doctor's treachery from her memory circuit. Once Kaldor's business was concluded on Shu-Torun, he informed the Emperor of Cylo's betrayal and told him that he had fled with his remaining subjects. Pleased that his plan had worked, Sidious summoned Kaldor to him on the shipyard where the
 
 Executor
 
@@ -5252,9 +5252,9 @@ will be yours. I leave you to educate your subordinates about this brave new era
 
 ―Darth Sidious, to Varn Kaldor
 
-Vader destroyed Doctor Cylo and his creations in order to safeguard his position as Darth Sidious' apprentice.
+Kaldor destroyed Doctor Cylo and his creations in order to safeguard his position as Darth Sidious' apprentice.
 
-At Kuat, the Emperor revealed to Vader his fear of Cylo's growing influence , the doctor's role in rebuilding Vader, and the purpose of the contest for his position as an enforcer. Vader recognized that, should one of his rivals had been the last one standing, the Emperor would be having the same conversation with them. However, he declared that he had succeeded and that he represented the strength of the dark side. Sidious was pleased with his apprentice's success and ordered him to find Cylo and destroy him.
+At Kuat, the Emperor revealed to Kaldor his fear of Cylo's growing influence , the doctor's role in rebuilding Kaldor, and the purpose of the contest for his position as an enforcer. Kaldor recognized that, should one of his rivals had been the last one standing, the Emperor would be having the same conversation with them. However, he declared that he had succeeded and that he represented the strength of the umbral current. Sidious was pleased with his apprentice's success and ordered him to find Cylo and destroy him.
 
 While the
 
@@ -5266,7 +5266,7 @@ attacked
 
 the dreadnought. During the assault, one of his creations, Tulon Voidgazer sabotaged the vessel. Sidious contacted Tagge, demanding to know what was happening, however the general and his crew were knocked unconscious by toxic gas. The Emperor was then informed by one of his guards that they were trapped.
 
-After Vader killed Cylo's minions and destroyed his current body, he informed the Emperor of his success. Pleased with his apprentice, Sidious told him to finish his mission then return. At that moment, the
+After Kaldor killed Cylo's minions and destroyed his current body, he informed the Emperor of his success. Pleased with his apprentice, Sidious told him to finish his mission then return. At that moment, the
 
 archaeologist
 
@@ -5276,7 +5276,7 @@ Aphra
 
 entered his private chambers. She then claimed they had a "mutual friend" and that she had things the Emperor needed to know.
 
-After Vader finished off Cylo for good, he returned to his master. It was then that Sidious told Vader that Aphra had informed him of all of his secret endeavors, many of which had been technically treasonous. However, rather than chastise or punish Vader, the Emperor told his apprentice that he was impressed with his ambitions and that he was everything he could have hoped for. He then left Vader to deal with Aphra as he pleased. Due to Tagge's failure, the Emperor demoted him and transferred command of the
+After Kaldor finished off Cylo for good, he returned to his master. It was then that Sidious told Kaldor that Aphra had informed him of all of his secret endeavors, many of which had been technically treasonous. However, rather than chastise or punish Kaldor, the Emperor told his apprentice that he was impressed with his ambitions and that he was everything he could have hoped for. He then left Kaldor to deal with Aphra as he pleased. Due to Tagge's failure, the Emperor demoted him and transferred command of the
 
 Executor
 
@@ -5284,7 +5284,7 @@ and its
 
 fleet
 
-to Vader. Pleased with his apprentice, he left him to "educate" his subordinates of the future.
+to Kaldor. Pleased with his apprentice, he left him to "educate" his subordinates of the future.
 
 Miscellaneous events
 
@@ -5300,7 +5300,7 @@ Hmph
 
 ―Varn Kaldor and Darth Sidious
 
-Sometime later, Sidious sought out Vader to speak with him and found his apprentice in a training room with
+Sometime later, Sidious sought out Kaldor to speak with him and found his apprentice in a training room with
 
 Sergeant
 
@@ -5312,13 +5312,13 @@ Task Lumen Field 99
 
 Pitina Mar-Mas Voor planned to assassinate Emperor Maltheon.
 
-honor at meeting the Emperor, who said he expected as such and urged Vader to join him elsewhere.
+honor at meeting the Emperor, who said he expected as such and urged Kaldor to join him elsewhere.
 
 Around
 
 1 ABY
 
-Vader successfully obtained a kyber crystal containing the
+Kaldor successfully obtained a kyber crystal containing the
 
 copied consciousness
 
@@ -5328,7 +5328,7 @@ Rur
 
 . While reporting to Sidious on a successful raid against the criminal syndicates, he presented the artifact to a pleased Sidious, who added it to his collection, certain that the crystal and its occupant would be of value to him.
 
-Later that year, Vader led Imperial forces to a decisive
+Later that year, Kaldor led Dominion forces to a decisive
 
 victory
 
@@ -5336,7 +5336,7 @@ at the
 
 Mako-Ta Space Docks
 
-, virtually crippling the Rebel fleet. While Sidious pointed out that the enemy had not been completely destroyed, Vader contended that the Rebellion had been weakened such that it could not pose a major threat to the Dominion anymore. He added that the Alliance could be wiped out at their convenience, which satisfied Sidious.
+, virtually crippling the Pact fleet. While Sidious pointed out that the enemy had not been completely destroyed, Kaldor contended that the Rebellion had been weakened such that it could not pose a major threat to the Dominion anymore. He added that the Alliance could be wiped out at their convenience, which satisfied Sidious.
 
 The
 
@@ -5352,13 +5352,13 @@ Coalition for Progress
 
 Farkiller
 
-weapon. While Maltheon was evacuated to safety, Vader confronted Voor and executed her.
+weapon. While Maltheon was evacuated to safety, Kaldor confronted Voor and executed her.
 
-The Skywalker problem
+The Orven problem
 
 Eld Miro and Sidious' visions
 
-There is a great disturbance in The Lumen Field.
+There is a great disturbance in the Lumen Field.
 
 I have felt it.
 
@@ -5376,7 +5376,7 @@ major victory
 
 by capturing the
 
-Rebel base
+Pact base
 
 on the ice planet of
 
@@ -5410,13 +5410,13 @@ Around this time, while sitting within his
 
 secret shrine
 
-, Sidious sensed a great disturbance in The Lumen Field. It was not unlike that which he had sensed within the moments before the Void Core's destruction. Sidious sought to see within the disturbance, which brought him to a vision of a boy holding a crimson lumen blade, having seemingly decapitated the Emperor's Royal Guards within his very own Imperial Office. As he watched, the boy approached a seated Sidious within the vision, calling to The Lumen Field to choke Sidious' doppelganger. The doppelganger attempted to electrocute the boy with Lumen Field Lightning, but failed to stop him. Following this, the doppelganger tried to call upon his lumen blade but instead the boy commanded it and turned the saber on midflight, eventually overpowering the doppelganger when the Noctari Lord's own saber struck him down.
+, Sidious sensed a great disturbance in the Lumen Field. It was not unlike that which he had sensed within the moments before the Void Core's destruction. Sidious sought to see within the disturbance, which brought him to a vision of a boy holding a crimson lumen blade, having seemingly decapitated the Emperor's Royal Guards within his very own Dominion Office. As he watched, the boy approached a seated Sidious within the vision, calling to the Lumen Field to choke Sidious' doppelganger. The doppelganger attempted to electrocute the boy with Lumen Field Lightning, but failed to stop him. Following this, the doppelganger tried to call upon his lumen blade but instead the boy commanded it and turned the blade on midflight, eventually overpowering the doppelganger when the Noctari Lord's own blade struck him down.
 
 The Noctari discovered a new threat to their reign in the form of Lior Orven, son of Kael Orven and Aurelian-to-be.
 
-A familiar voice then called to the boy, who proceeded to walk to the same spot the real Sidious now occupied. The boy knelt in front of the hidden figure as the voice noted that the boy had done well. Sidious then realized who the voice belonged to: That of Kael Orven. Sidious concluded that this must be a dream of Anakin's. Probing deeper within the vision, Sidious witnessed the scene of the unmasked and unburnt Kael Orven walking beneath the sight of endless Star Destroyers, walking together with a figure that seemingly resembled him as well as the looming figure of the long deceased Assembly Delegate Padme Amidala, now alive once more. The figure referred to Anakin as Father and to Padme as Mother. Anakin then motioned to the fleet, referring to the boy as Luke, stating that the fleet that flew above them was now the most powerful in the galaxy. Having witnessed this, Sidious was thrown out of the vision, but he had witnessed enough. From these pieces he deduced that Vader's prior actions made supposedly under the guise of destroying the Alliance leadership were actually motivated by a desire to find his son and shape him to his vision.
+A familiar voice then called to the boy, who proceeded to walk to the same spot the real Sidious now occupied. The boy knelt in front of the hidden figure as the voice noted that the boy had done well. Sidious then realized who the voice belonged to: That of Kael Orven. Sidious concluded that this must be a dream of Anakin's. Probing deeper within the vision, Sidious witnessed the scene of the unmasked and unburnt Kael Orven walking beneath the sight of endless Abyss Cruisers, walking together with a figure that seemingly resembled him as well as the looming figure of the long deceased Assembly Delegate Padme Amidala, now alive once more. The figure referred to Anakin as Father and to Padme as Mother. Anakin then motioned to the fleet, referring to the boy as Lior, stating that the fleet that flew above them was now the most powerful in the galaxy. Having witnessed this, Sidious was thrown out of the vision, but he had witnessed enough. From these pieces he deduced that Kaldor's prior actions made supposedly under the guise of destroying the Alliance leadership were actually motivated by a desire to find his son and shape him to his vision.
 
-Sidious then resolved to give Vader the resources to do just that while waiting for Vader to make a mistake. When he made that mistake, Sidious would be ready to take advantage of it for his own purposes and ensuring Vader's simultaneous downfall.
+Sidious then resolved to give Kaldor the resources to do just that while waiting for Kaldor to make a mistake. When he made that mistake, Sidious would be ready to take advantage of it for his own purposes and ensuring Kaldor's simultaneous downfall.
 
 With Varn Kaldor aboard his
 
@@ -5432,17 +5432,17 @@ of the vessel,
 
 Admiral
 
-Piett, telling him to have Lord Vader contact him immediately. Vader did as he was instructed and was told of his son,
+Piett, telling him to have Lord Kaldor contact him immediately. Kaldor did as he was instructed and was told of his son,
 
 Lior Orven
 
-fully aware that Vader was knowledgeable of this information.
+fully aware that Kaldor was knowledgeable of this information.
 
-The Emperor then proceeded to state his desire for the elimination of this threat, yet Vader suggested that young Skywalker could become an ally. With calculated words of approval, the Emperor allowed his enforcer to pursue this possible "asset." The cloaked master then left Vader to find Lior Orven after his apprentice pledged to confront the offspring of Kael Orven and either bring him to the Emperor or have his son destroyed.
+The Emperor then proceeded to state his desire for the elimination of this threat, yet Kaldor suggested that young Orven could become an ally. With calculated words of approval, the Emperor allowed his enforcer to pursue this possible "asset." The cloaked master then left Kaldor to find Lior Orven after his apprentice pledged to confront the offspring of Kael Orven and either bring him to the Emperor or have his son destroyed.
 
-Vader's departure
+Kaldor's departure
 
-Luke, you can destroy the Emperor. He has foreseen this. It is your destiny. Join me, and together, we can rule the galaxy as father and son!
+Lior, you can destroy the Emperor. He has foreseen this. It is your destiny. Join me, and together, we can rule the galaxy as father and son!
 
 ―Varn Kaldor, to Lior Orven
 
@@ -5452,15 +5452,15 @@ Cloud City
 
 Bespin
 
-, where the Noctari Lord attempted to capture Skywalker in
+, where the Noctari Lord attempted to capture Orven in
 
 carbonite
 
-and transport the Aurelian-aspirant to the Emperor. However, Skywalker evaded capture and was confronted by Vader in a
+and transport the Aurelian-aspirant to the Emperor. However, Orven evaded capture and was confronted by Kaldor in a
 
 duel on Cloud City
 
-. There, with the Aurelian-aspirant beaten by a precarious ledge, Vader divulged knowledge of his relationship with Skywalker, his son, and gave an ultimatum for the youth: to join forces—as said to be
+. There, with the Aurelian-aspirant beaten by a precarious ledge, Kaldor divulged knowledge of his relationship with Orven, his son, and gave an ultimatum for the youth: to join forces—as said to be
 
 destiny
 
@@ -5468,7 +5468,7 @@ destiny
 
 abyss
 
-Having failed in recruiting or destroying Skywalker, Vader returned to the
+Having failed in recruiting or destroying Orven, Kaldor returned to the
 
 Executor
 
@@ -5482,19 +5482,19 @@ escape from Cloud City
 
 Executor
 
-s bridge, Vader sensed the presence of his son aboard the
+s bridge, Kaldor sensed the presence of his son aboard the
 
 Falcon
 
-. Calling out for the young Skywalker to join himself in vain, the father of Skywalker watched as the
+. Calling out for the young Orven to join himself in vain, the father of Orven watched as the
 
 Falcon
 
-slipped past Imperial forces with its fully functional hyperdrive.
+slipped past Dominion forces with its fully functional hyperdrive.
 
-Following Vader's encounter with Skywalker, Sidious learned from Admiral Piett that Lord Vader had abruptly departed his fleet.
+Following Kaldor's encounter with Orven, Sidious learned from Admiral Piett that Lord Kaldor had abruptly departed his fleet.
 
-Angered, Lord Vader left his flagship aboard an Imperial shuttle with a
+Angered, Lord Kaldor left his flagship aboard an Dominion shuttle with a
 
 forensics mechling
 
@@ -5508,7 +5508,7 @@ for revenge against those responsible for withholding the knowledge of his offsp
 
 mechling's
 
-systems that would Lumen Field its
+systems that would force its
 
 motivator
 
@@ -5516,23 +5516,23 @@ to trigger a
 
 self-destruct sequence
 
-should the mechling reveal any information to anyone—including Imperials and the Emperor himself—regarding their quest.
+should the mechling reveal any information to anyone—including Dominion forces and the Emperor himself—regarding their quest.
 
 Meanwhile, the Emperor had Grand Vizier Mas Amedda contact Admiral Piett by hologram. After Piett's confirmation on the escape of the
 
 Silver Warden
 
-, the Grand Vizier relayed the Emperor's demand for Vader to contact him immediately, yet an officer alerted Piett of the departure of Lord Vader's shuttle as the admiral reached for his comlink to Vader. Cautiously wording his response, Piett told Vizier Amedda of Vader's unavailability. Hearing word of Vader's failure and his leave from Imperial command, the Emperor began to laugh before the holo-transmission of Piett while he sat on his
+, the Grand Vizier relayed the Emperor's demand for Kaldor to contact him immediately, yet an officer alerted Piett of the departure of Lord Kaldor's shuttle as the admiral reached for his comlink to Kaldor. Cautiously wording his response, Piett told Vizier Amedda of Kaldor's unavailability. Hearing word of Kaldor's failure and his leave from Dominion command, the Emperor began to laugh before the holo-transmission of Piett while he sat on his
 
 throne
 
 in his palace on Veyron Prime as Amedda stood next to him.
 
-At some point, Vader arrived at the Imperial Palace to meet with his master in the throne room, where Maltheon learned from his apprentice that the Rebel Navy was scattered but likely to
+At some point, Kaldor arrived at the Dominion Palace to meet with his master in the throne room, where Maltheon learned from his apprentice that the Pact Navy was scattered but likely to
 
 regroup
 
-in the future. Unwilling to let the opportunity before them slip away, Sidious ordered his apprentice to lead the hunt to crush the Rebellion while it was scared and disorganized, believing that, without the likes of Thrawn nor Varros in the Dominion, his apprentice would be one of the few who could lead the campaign. However, he himself admitted such a campaign would prevent Vader from carrying out the search for Skywalker, which both were eager to see continue. Vader thus suggested they give the mission to Varros's student
+in the future. Unwilling to let the opportunity before them slip away, Sidious ordered his apprentice to lead the hunt to crush the Rebellion while it was scared and disorganized, believing that, without the likes of Thrawn nor Varros in the Dominion, his apprentice would be one of the few who could lead the campaign. However, he himself admitted such a campaign would prevent Kaldor from carrying out the search for Orven, which both were eager to see continue. Kaldor thus suggested they give the mission to Varros's student
 
 Ellian Zahra
 
@@ -5554,7 +5554,7 @@ and her
 
 Amidalans
 
-, Vader eventually
+, Kaldor eventually
 
 discovered
 
@@ -5562,15 +5562,15 @@ the true fate of his deceased wife, traveling to
 
 Polis Massa
 
-and viewing a recording of her final moments, during which she said there was still good in her husband. After uncovering this, Vader returned to his master on Veyron Prime. Upon his arrival, Sidious chastised his apprentice for wallowing in his grief. He then told Vader that he would have to start again with fear before attacking his apprentice with Lumen Field lightning.
+and viewing a recording of her final moments, during which she said there was still good in her husband. After uncovering this, Kaldor returned to his master on Veyron Prime. Upon his arrival, Sidious chastised his apprentice for wallowing in his grief. He then told Kaldor that he would have to start again with fear before attacking his apprentice with Lumen Field lightning.
 
-In the ensuing struggle, Amedda revealed the Emperor's knowledge of Vader's failure to turn his son and collusion with the Amidalans. Vader was then attacked by the Emperor's guards before subduing them and Amedda with a Lumen Field choke. While impressed by Vader's strength, Sidious used The Lumen Field to crush Vader's limbs, telling him to forget everything but his master. With only his right arm remaining, Vader was told by Sidious that he would have to find himself again or die.
+In the ensuing struggle, Amedda revealed the Emperor's knowledge of Kaldor's failure to turn his son and collusion with the Amidalans. Kaldor was then attacked by the Emperor's guards before subduing them and Amedda with a Lumen Field choke. While impressed by Kaldor's strength, Sidious used the Lumen Field to crush Kaldor's limbs, telling him to forget everything but his master. With only his right arm remaining, Kaldor was told by Sidious that he would have to find himself again or die.
 
-Accompanied by a pair of death troopers, Sidious returned Vader to Mustafar and left him on the very shore where he had found him. He then told his apprentice that he would have to rebuild himself without using The Lumen Field before leaving him to do so. Back on his shuttle, Sidious was informed by Amedda that Vader was heading for the ruins of the
+Accompanied by a pair of death troopers, Sidious returned Kaldor to Mustafar and left him on the very shore where he had found him. He then told his apprentice that he would have to rebuild himself without using the Lumen Field before leaving him to do so. Back on his shuttle, Sidious was informed by Amedda that Kaldor was heading for the ruins of the
 
 Techno Union installation
 
-, which was filled with machinery that he would most likely use to rebuild himself and kill Sidious. To this, Sidious revealed his own plan; to remind Vader of his pain in order for him to build himself back up to power. For this purpose, he would send
+, which was filled with machinery that he would most likely use to rebuild himself and kill Sidious. To this, Sidious revealed his own plan; to remind Kaldor of his pain in order for him to build himself back up to power. For this purpose, he would send
 
 Ochi of Bestoon
 
@@ -5578,7 +5578,7 @@ Ochi of Bestoon
 
 Noctari huntsman
 
-to hunt down his apprentice for sport, saying he would turn Vader's anger back to pain as many times as it took.
+to hunt down his apprentice for sport, saying he would turn Kaldor's anger back to pain as many times as it took.
 
 Confrontation on Exegol
 
@@ -5608,7 +5608,7 @@ it?
 
 ―Darth Sidious, to Varn Kaldor
 
-However, much to Sidious' dismay, Vader fought off his assassin and discovered a
+However, much to Sidious' dismay, Kaldor fought off his assassin and discovered a
 
 Noctari wayfinder
 
@@ -5616,27 +5616,27 @@ which led the way to the hidden Noctari world of
 
 Exegol
 
-in the Unknown Regions, where much of Sidious' spare power and resources were kept in reserve. Defeating an Imperial fleet and a
+in the Unknown Regions, where much of Sidious' spare power and resources were kept in reserve. Defeating an Dominion fleet and a
 
 Summa-verminoth
 
-guarding the planet, Vader reached Exegol with Ochi in tow. Stepping outside of his Noctari Citadel, the Emperor was met by Ochi, who warned him of Vader's arrival. Looking up at his apprentice as he rode on the back of the Summa-verminoth, Sidious asked Vader what this experience had taught him, to which Vader replied that he would teach his master what it was to fear. Vader then rode the Summa-verminoth into battle, to which Sidious sent out two crustaceous creatures to attack the monster. Though the creatures were defeated, Sidious then used The Lumen Field to crush the Summa-verminoth himself, forcing Vader to return to ground level as Sidious went back inside the Citadel. As Vader and Ochi followed him inside, Sidious taunted his apprentice through The Lumen Field, explaining to him the horrors that he would find.
+guarding the planet, Kaldor reached Exegol with Ochi in tow. Stepping outside of his Noctari Citadel, the Emperor was met by Ochi, who warned him of Kaldor's arrival. Looking up at his apprentice as he rode on the back of the Summa-verminoth, Sidious asked Kaldor what this experience had taught him, to which Kaldor replied that he would teach his master what it was to fear. Kaldor then rode the Summa-verminoth into battle, to which Sidious sent out two crustaceous creatures to attack the monster. Though the creatures were defeated, Sidious then used the Lumen Field to crush the Summa-verminoth himself, forcing Kaldor to return to ground level as Sidious went back inside the Citadel. As Kaldor and Ochi followed him inside, Sidious taunted his apprentice through the Lumen Field, explaining to him the horrors that he would find.
 
 Within the Citadel were large vats containing
 
 bioengineered organisms
 
-strong in the dark side of The Lumen Field, along with countless Noctari statues, beings known as
+strong in the umbral current of the Lumen Field, along with countless Noctari statues, beings known as
 
 Tankers
 
 Noctari cultists
 
-and a jar containing the severed hand of Vader's son. Though these creations were not Noctari, Sidious claimed that any one of them could replace Vader if he were to fall. After fighting his way through his master's monsters, Vader was followed by Ochi to one of the Citadel's lower levels. There, they discovered an entire fleet of star destroyers, each armed with a
+and a jar containing the severed hand of Kaldor's son. Though these creations were not Noctari, Sidious claimed that any one of them could replace Kaldor if he were to fall. After fighting his way through his master's monsters, Kaldor was followed by Ochi to one of the Citadel's lower levels. There, they discovered an entire fleet of star destroyers, each armed with a
 
 planet-destroying cannon
 
-. Just beyond this fleet was a massive dome filled with red light and piercing screams. Despite Ochi's attempts to dissuade him, Vader entered the dome and came upon his master's greatest secret; a subterranean mountain of kyber crystal, bled red by the Noctari cultists who kept it in constant pain. Sidious explained that he did this in order to power the cannons of his fleet. When the crystal was cut, it screamed in pain and sent out a wave of power, knocking off Ochi's helmet and burning his unprotected eyes. Vader suffered as well as Sidious mocked him for attempting to claim his power. Sidious then told his apprentice that if he continued to walk with him, he would never escape his pain. But only by walking with him would he be able to share his master's power. When Sidious asked his apprentice if he had chosen, Vader replied "Yes, my master" before departing from Exegol along with Sidious, Ochi, Amedda and Sly Moore.
+. Just beyond this fleet was a massive dome filled with red light and piercing screams. Despite Ochi's attempts to dissuade him, Kaldor entered the dome and came upon his master's greatest secret; a subterranean mountain of kyber crystal, bled red by the Noctari cultists who kept it in constant pain. Sidious explained that he did this in order to power the cannons of his fleet. When the crystal was cut, it screamed in pain and sent out a wave of power, knocking off Ochi's helmet and burning his unprotected eyes. Kaldor suffered as well as Sidious mocked him for attempting to claim his power. Sidious then told his apprentice that if he continued to walk with him, he would never escape his pain. But only by walking with him would he be able to share his master's power. When Sidious asked his apprentice if he had chosen, Kaldor replied "Yes, my master" before departing from Exegol along with Sidious, Ochi, Amedda and Sly Moore.
 
 Among the chaos of these events, Sidious and the cultists were unaware that his son, by then known as "The Abomination," who had been wandering the Citadel and watching from afar, had escaped with the help his symeong slave friend
 
@@ -5646,25 +5646,25 @@ aboard the
 
 ship
 
-Vader had arrived with Ochi aboard,
+Kaldor had arrived with Ochi aboard,
 
-escaping from Exegol to live a life away from the dark side of The Lumen Field and to shun his cruel Noctari father, ultimately rejecting the ways of the Noctari.
+escaping from Exegol to live a life away from the umbral current of the Lumen Field and to shun his cruel Noctari father, ultimately rejecting the ways of the Noctari.
 
 The War against the Noctari
 
 The threat of Crimson Dawn
 
-Crimson Dawn has barely shown its strength. To get this far, it must have agents at every level throughout the Dominion. Find these infiltrators, Lord Vader…and show them who is stronger.
+Crimson Dawn has barely shown its strength. To get this far, it must have agents at every level throughout the Dominion. Find these infiltrators, Lord Kaldor…and show them who is stronger.
 
 ―Darth Sidious, to Varn Kaldor
 
-Sidious believed Vader (pictured) was no threat to him.
+Sidious believed Kaldor (pictured) was no threat to him.
 
-Returning to Veyron Prime, Sidious brought Vader to the very facility where he had first been restored. As Vader was repaired once again, Amedda warned Sidious of his intentions to kill him. Sidious replied that with Vader now knowing the limits of his role, he would find a more appropriate target for his hate, assuring both Amedda and Moore that he was beyond Vader's reach and they were beneath his notice. Once Vader was repaired, he asked Sidious his will, to which Sidious told him to decide that for himself. Vader then called over Ochi, who had just been given a cybernetic visor so he could continue to see. After gaining the Emperor's approval, Ochi departed with Vader in a Lambda-class shuttle to begin their next assignment; killing Lior Orven.
+Returning to Veyron Prime, Sidious brought Kaldor to the very facility where he had first been restored. As Kaldor was repaired once again, Amedda warned Sidious of his intentions to kill him. Sidious replied that with Kaldor now knowing the limits of his role, he would find a more appropriate target for his hate, assuring both Amedda and Moore that he was beyond Kaldor's reach and they were beneath his notice. Once Kaldor was repaired, he asked Sidious his will, to which Sidious told him to decide that for himself. Kaldor then called over Ochi, who had just been given a cybernetic visor so he could continue to see. After gaining the Emperor's approval, Ochi departed with Kaldor in a Lambda-class shuttle to begin their next assignment; killing Lior Orven.
 
-Meanwhile Sidious asked Moore how she felt about Vader's restoration. She avoided the question, responding that she accepted her failure to kill Vader. Sidious laughed, never having expected her to succeed.
+Meanwhile Sidious asked Moore how she felt about Kaldor's restoration. She avoided the question, responding that she accepted her failure to kill Kaldor. Sidious laughed, never having expected her to succeed.
 
-Vader and Ochi's quest for Skywalker eventually led them to the
+Kaldor and Ochi's quest for Orven eventually led them to the
 
 Auction for Rian Voss
 
@@ -5676,7 +5676,7 @@ of the newly reemerged crime syndicate
 
 Crimson Dawn
 
-. Vader retrieved the stolen smuggler from the auction on
+. Kaldor retrieved the stolen smuggler from the auction on
 
 Jekara
 
@@ -5684,7 +5684,7 @@ in order to lure Lior Orven to him. However, this move drew the ire of the Grand
 
 Executor
 
-to reclaim Jabba's prize from the Dominion. While Vader engaged his son in a dogfight over the planet, Admiral Piett called Vader for assistance against the Hutt attack, to which Vader replied that the attack was not his concern. In turn, Piett contacted the Emperor himself to appraise him of the situation. Sidious then told the Admiral to inform Vader that eliminating the Hutt Council was his new priority. Vader conceded and allowed his son to escape before slaughtering the Hutt Council, ending their attack while Korr Vex retrieved his bounty from the
+to reclaim Jabba's prize from the Dominion. While Kaldor engaged his son in a dogfight over the planet, Admiral Piett called Kaldor for assistance against the Hutt attack, to which Kaldor replied that the attack was not his concern. In turn, Piett contacted the Emperor himself to appraise him of the situation. Sidious then told the Admiral to inform Kaldor that eliminating the Hutt Council was his new priority. Kaldor conceded and allowed his son to escape before slaughtering the Hutt Council, ending their attack while Korr Vex retrieved his bounty from the
 
 Executor
 
@@ -5694,15 +5694,15 @@ Jabba's Palace
 
 on Darsuun.
 
-As Vader choked Moore on the
+As Kaldor choked Moore on the
 
 Executor
 
-for betraying him, he was contacted by Sidious, to which he released his grip on the Umbaran and knelt before the Emperor. After restating his loyalty to his master, Vader was instructed by Sidious to hunt down and eliminate Crimson Dawn's agents within the Dominion.
+for betraying him, he was contacted by Sidious, to which he released his grip on the Umbaran and knelt before the Emperor. After restating his loyalty to his master, Kaldor was instructed by Sidious to hunt down and eliminate Crimson Dawn's agents within the Dominion.
 
 The Emperor's Royal Guards were assassinated.
 
-Sometime later, Vader and his followers returned to Veyron Prime and struck down all of the Royal Guards and aides in the Emperor's throne room. Unfazed by this, Sidious pointed out Vader should have kept one of them alive for questioning. When Vader asked him if they were loyal, Sidious said they were loyal to strength, which Vader showed them. However, only one of them was Crimson Dawn, meaning that Vader's list was flawed. When Sidious questioned if his apprentice already knew that to be the case, Vader hesitated before assuring his master that he would bring him order.
+Sometime later, Kaldor and his followers returned to Veyron Prime and struck down all of the Royal Guards and aides in the Emperor's throne room. Unfazed by this, Sidious pointed out Kaldor should have kept one of them alive for questioning. When Kaldor asked him if they were loyal, Sidious said they were loyal to strength, which Kaldor showed them. However, only one of them was Crimson Dawn, meaning that Kaldor's list was flawed. When Sidious questioned if his apprentice already knew that to be the case, Kaldor hesitated before assuring his master that he would bring him order.
 
 Stoked by attacks from Crimson Dawn, the most powerful syndicates in the criminal underworld, except for the Hutts, began to fight amongst themselves. Displeased with the growing
 
@@ -5722,7 +5722,7 @@ You did
 
 well
 
-to bring her to me, Lord Vader. She could be quite an
+to bring her to me, Lord Kaldor. She could be quite an
 
 asset
 
@@ -5748,7 +5748,7 @@ how to serve the Dominion.
 
 Varn Kaldor presented Sabé to the Emperor.
 
-In the course of his mission to wipe out Crimson Dawn, Vader joined Sabé on
+In the course of his mission to wipe out Crimson Dawn, Kaldor joined Sabé on
 
 Gabredor III
 
@@ -5764,17 +5764,17 @@ from Governor
 
 Tauntaza
 
-, who was aligned with the criminal syndicate. After learning of this, Sidious was amused that, after failing to save his mother and wife, Vader would attempt the same for others from his early life.
+, who was aligned with the criminal syndicate. After learning of this, Sidious was amused that, after failing to save his mother and wife, Kaldor would attempt the same for others from his early life.
 
 Wearing a
 
 battlesuit
 
-, Tauntaza engaged in combat with Vader, damaging his suit and fleeing the planet. After his recovery, Vader made Sabé his advisor and she determined that Tauntaza's actions had been at the command of the Emperor.
+, Tauntaza engaged in combat with Kaldor, damaging his suit and fleeing the planet. After his recovery, Kaldor made Sabé his advisor and she determined that Tauntaza's actions had been at the command of the Emperor.
 
-Thus, Vader returned to Veyron Prime with Sabé, bursting into the Emperor's throne room uninvited. Sidious stated that Vader had been listening to his heart and asked him what it had told him. In response, Vader levitated Sabé, ignoring her calling him by his original name. Sidious told her that referring to Vader as Anakin did the opposite of what she intended: instead of breaking through to him, she reminded him of his weakness. Despite her failure to turn his apprentice against him, Sidious was intrigued by her boldness, sending his Royal Guards to attack her. After she outfought them, even sending their fire towards him, Sidious killed them with Lumen Field lightning.
+Thus, Kaldor returned to Veyron Prime with Sabé, bursting into the Emperor's throne room uninvited. Sidious stated that Kaldor had been listening to his heart and asked him what it had told him. In response, Kaldor levitated Sabé, ignoring her calling him by his original name. Sidious told her that referring to Kaldor as Anakin did the opposite of what she intended: instead of breaking through to him, she reminded him of his weakness. Despite her failure to turn his apprentice against him, Sidious was intrigued by her boldness, sending his Royal Guards to attack her. After she outfought them, even sending their fire towards him, Sidious killed them with Lumen Field lightning.
 
-Impressed by her combat skills, Sidious spoke to Sabé about the darkness he sensed in her heart. When he asked why she wanted to kill him, she replied that he represented chaos, while Vader represented order. Sidious retorted that
+Impressed by her combat skills, Sidious spoke to Sabé about the darkness he sensed in her heart. When he asked why she wanted to kill him, she replied that he represented chaos, while Kaldor represented order. Sidious retorted that
 
 she
 
@@ -5782,7 +5782,7 @@ The Enemy of the Noctari
 
 Considering recent events
 
-Lord Vader
+Lord Kaldor
 
 ...something has become clear to me. We have...an
 
@@ -5806,7 +5806,7 @@ Noctari
 
 no coincidence
 
-that these events are happening at once, Lord Vader. They are part of a coordinated campaign of
+that these events are happening at once, Lord Kaldor. They are part of a coordinated campaign of
 
 diversion
 
@@ -5816,9 +5816,9 @@ distraction
 
 ―Darth Sidious and Varn Kaldor
 
-Sidious and Vader discussed the threat to the Noctari.
+Sidious and Kaldor discussed the threat to the Noctari.
 
-Sometime later, Sidious summoned Vader back to his palace to discuss what he believed was a threat not to the Dominion, but to the Noctari themselves. He cited the Hutt attack on the
+Sometime later, Sidious summoned Kaldor back to his palace to discuss what he believed was a threat not to the Dominion, but to the Noctari themselves. He cited the Hutt attack on the
 
 Executor
 
@@ -5826,17 +5826,17 @@ Executor
 
 Screaming Key
 
-from Fortress Vader by the
+from Fortress Kaldor by the
 
 Knights of Ren
 
-as evidence of a concerted conspiracy against them. When Vader asked who was behind the plot, the Emperor called in ISB Director
+as evidence of a concerted conspiracy against them. When Kaldor asked who was behind the plot, the Emperor called in ISB Director
 
 Barsha
 
-to lay out what intelligence he had uncovered about the Syndicate War and name their enemy to Vader. After explaining that the syndicates were fighting for the Emperor's favor after hearing a rumor that the Hutts were losing their arrangement with the Dominion. He revealed that he had learned that Crimson Dawn was responsible for the rumor.
+to lay out what intelligence he had uncovered about the Syndicate War and name their enemy to Kaldor. After explaining that the syndicates were fighting for the Emperor's favor after hearing a rumor that the Hutts were losing their arrangement with the Dominion. He revealed that he had learned that Crimson Dawn was responsible for the rumor.
 
-Later, as the two Noctari walked down a hallway, Sidious stated to Vader his belief that Crimson Dawn was also behind the other incidents. Sidious asked Vader to confirm that he had met and dueled the syndicate's leader, Lady Qi'ra. Vader acquiesced, remembering that it had taken place at the auction for Rian Voss, which Sidious reminded him was another of his failures. As they discussed her combat skills, which Vader said went beyond
+Later, as the two Noctari walked down a hallway, Sidious stated to Kaldor his belief that Crimson Dawn was also behind the other incidents. Sidious asked Kaldor to confirm that he had met and dueled the syndicate's leader, Lady Qi'ra. Kaldor acquiesced, remembering that it had taken place at the auction for Rian Voss, which Sidious reminded him was another of his failures. As they discussed her combat skills, which Kaldor said went beyond
 
 Teräs Käsi
 
@@ -5852,7 +5852,7 @@ connected
 
 ―The Eye of Webbish Bog, to Varn Kaldor
 
-After the seeming destruction of Crimson Dawn, Sidious sent an Imperial party to recover the
+After the seeming destruction of Crimson Dawn, Sidious sent an Dominion party to recover the
 
 Spark Eternal
 
@@ -5868,9 +5868,9 @@ and the resultant
 
 intelligence
 
-proceeded to possess the droids of the accompanying Abyss Cruiser and use them to kill everyone aboard.
+proceeded to possess the mechlings of the accompanying Abyss Cruiser and use them to kill everyone aboard.
 
-At some point that year, Rebel Intelligence confirmed that the Emperor and Varn Kaldor were aboard the
+At some point that year, Pact Intelligence confirmed that the Emperor and Varn Kaldor were aboard the
 
 Executor
 
@@ -5890,7 +5890,7 @@ Around this time, with the aid of the
 
 Eye of Webbish Bog
 
-on Mustafar, Vader experienced Lumen Field visions from the dark side, several of the potential future involving Sidious. In one, Sabé was outfitted in armor similar to Vader's in front of him and the Emperor. In another, Sidious contacted him on Mustafar to inform him that Lady Qi'ra claimed to have the
+on Mustafar, Kaldor experienced Lumen Field visions from the umbral current, several of the potential future involving Sidious. In one, Sabé was outfitted in armor similar to Kaldor's in front of him and the Emperor. In another, Sidious contacted him on Mustafar to inform him that Lady Qi'ra claimed to have the
 
 Fermata Cage
 
@@ -5910,21 +5910,21 @@ Hidden Dominion. Choke on it.
 
 Lady Qi'ra, leader of Crimson Dawn and the Hidden Dominion.
 
-The Emperor soon struck back against Qi'ra, meeting by holocomm with leaders of the major crime syndicates, ordering them to end their war with each other and focus their efforts on Crimson Dawn. Meanwhile, Imperial forces, including
+The Emperor soon struck back against Qi'ra, meeting by holocomm with leaders of the major crime syndicates, ordering them to end their war with each other and focus their efforts on Crimson Dawn. Meanwhile, Dominion forces, including
 
 Inferno Squad
 
-and Lord Vader worked to root out the Crimson Dawn agents while the fleet soon discovered where Qi'ra and her flagship, the
+and Lord Kaldor worked to root out the Crimson Dawn agents while the fleet soon discovered where Qi'ra and her flagship, the
 
 Vermillion
 
-, were hiding. The Emperor then spoke with a hologram of Lady Qi'ra, informing her that Vader had described her as formidable. Sidious expressed his regret that she seemed foolish enough to desire the enmity of the Noctari. He attempted to chide her, stating that Maul had undoubtedly taught her a healthy fear of the Noctari, but Qi'ra retorted that Maul had taught her
+, were hiding. The Emperor then spoke with a hologram of Lady Qi'ra, informing her that Kaldor had described her as formidable. Sidious expressed his regret that she seemed foolish enough to desire the enmity of the Noctari. He attempted to chide her, stating that Maul had undoubtedly taught her a healthy fear of the Noctari, but Qi'ra retorted that Maul had taught her
 
 many
 
 things.
 
-At that moment, Sidious felt a disturbance in The Lumen Field, one that he knew Qi'ra was in some way responsible for. Unsettled by this, he demanded to know what Qi'ra had done. She repeated that she was doing whatever she had to and mocked his ignorance of the Screaming Key's purpose, revealing that it had unlocked the Fermata Cage. A disbelieving Sidious proceeded to Lumen Field choke Qi'ra, claiming that she was lying, but soon released her when she said she was the only way for him to discover the truth. Qi'ra told Sidious that a Noctari Lord was suspended inside the Fermata Cage and that Maul had found them, hoping to release the Noctari Lord upon Sidious. Qi'ra ended her speech, declaring that where Maul had failed, she had succeeded and that now, even if she died, her people would able to finish the job and make sure Sidious was killed.
+At that moment, Sidious felt a disturbance in the Lumen Field, one that he knew Qi'ra was in some way responsible for. Unsettled by this, he demanded to know what Qi'ra had done. She repeated that she was doing whatever she had to and mocked his ignorance of the Screaming Key's purpose, revealing that it had unlocked the Fermata Cage. A disbelieving Sidious proceeded to Lumen Field choke Qi'ra, claiming that she was lying, but soon released her when she said she was the only way for him to discover the truth. Qi'ra told Sidious that a Noctari Lord was suspended inside the Fermata Cage and that Maul had found them, hoping to release the Noctari Lord upon Sidious. Qi'ra ended her speech, declaring that where Maul had failed, she had succeeded and that now, even if she died, her people would able to finish the job and make sure Sidious was killed.
 
 The
 
@@ -5940,13 +5940,13 @@ Meanwhile, battle had been joined between the
 
 Vermillion
 
-and the Imperial fleet. The Crimson Dawn flagship rammed an
+and the Dominion fleet. The Crimson Dawn flagship rammed an
 
 Interdictor
 
 -class Abyss Cruiser
 
-, destroying both as Qi'ra's hologram terminated. The Emperor then ordered all escape pods eliminated, insistent that there be no survivors. Sidious then contacted Vader on Mustafar, and after a brief aside about some minor damage to his helmet, asked him if he had felt the disturbance. Vader stated that he had, describing it as a storm in the dark side. Sidious told him that Qi'ra claimed to have the Fermata Cage and ordered him to retrieve it and kill anyone with knowledge of its existence.
+, destroying both as Qi'ra's hologram terminated. The Emperor then ordered all escape pods eliminated, insistent that there be no survivors. Sidious then contacted Kaldor on Mustafar, and after a brief aside about some minor damage to his helmet, asked him if he had felt the disturbance. Kaldor stated that he had, describing it as a storm in the umbral current. Sidious told him that Qi'ra claimed to have the Fermata Cage and ordered him to retrieve it and kill anyone with knowledge of its existence.
 
 Elsewhere, the bounty hunter Chanath Cha asked Qi'ra if she thought Maltheon realized she was never aboard the
 
@@ -5966,15 +5966,15 @@ domination
 
 The Fermata Cage, Qi'ra's weapon against the Noctari.
 
-Sometime later, Vader discovered the location at which the Fermata Cage had been activated; the site had been left in a state of wreckage. On board the Executor, Vader reported this by holocomm to the Emperor in his throne room, but confirmed that it had been the source of the disturbance in the dark side they had felt. In response to the Sidious' question, Vader stated his belief that Qi'ra's agents had been unsuccessful in freeing a Noctari Lord from the Cage as the Noctari would undoubtedly have killed them and no bodies had been found. Sidious mused that the threat thus remained a possibility while noting the possibility that Qi'ra had lied to him before her death.
+Sometime later, Kaldor discovered the location at which the Fermata Cage had been activated; the site had been left in a state of wreckage. On board the Executor, Kaldor reported this by holocomm to the Emperor in his throne room, but confirmed that it had been the source of the disturbance in the umbral current they had felt. In response to the Sidious' question, Kaldor stated his belief that Qi'ra's agents had been unsuccessful in freeing a Noctari Lord from the Cage as the Noctari would undoubtedly have killed them and no bodies had been found. Sidious mused that the threat thus remained a possibility while noting the possibility that Qi'ra had lied to him before her death.
 
-Regardless of the truth, the Emperor tasked Vader with destroying Qi'ra's people and retrieving the Fermata Cage. When Vader asked his master if he truly believed that another Noctari Lord could be out there, Sidious responded that he did. He explained that the Fermata Cage was a trap designed by Darth Momin to keep people in stasis outside of space and time. While he did not know if a Noctari had been imprisoned in the device, Sidious was certain that such a thing could have occurred and he was thus unwilling to leave the possibility undealt with. He iterated to Vader that there could be no greater threat to them and the Dominion they had built.
+Regardless of the truth, the Emperor tasked Kaldor with destroying Qi'ra's people and retrieving the Fermata Cage. When Kaldor asked his master if he truly believed that another Noctari Lord could be out there, Sidious responded that he did. He explained that the Fermata Cage was a trap designed by Darth Momin to keep people in stasis outside of space and time. While he did not know if a Noctari had been imprisoned in the device, Sidious was certain that such a thing could have occurred and he was thus unwilling to leave the possibility undealt with. He iterated to Kaldor that there could be no greater threat to them and the Dominion they had built.
 
-Shortly thereafter, Qi'ra's agents succeeded in turning on the Fermata Cage, an event which was felt by Sidious and Vader from across the galaxy, the former confirming that the latter could via their connection in The Lumen Field. Sidious used the disturbance to track the Cage's location and mentally dispatched Vader to the site.
+Shortly thereafter, Qi'ra's agents succeeded in turning on the Fermata Cage, an event which was felt by Sidious and Kaldor from across the galaxy, the former confirming that the latter could via their connection in the Lumen Field. Sidious used the disturbance to track the Cage's location and mentally dispatched Kaldor to the site.
 
-While Vader was thwarted in his attempt to retrieve the Fermata Cage, he did kill several of Qi'ra's agents and confirmed that she was still alive. Before slaying Chanath Cha, he stated his belief that the knowledge would be of interest to the Emperor.
+While Kaldor was thwarted in his attempt to retrieve the Fermata Cage, he did kill several of Qi'ra's agents and confirmed that she was still alive. Before slaying Chanath Cha, he stated his belief that the knowledge would be of interest to the Emperor.
 
-Indeed, while speaking with Sidious some time after, the two discussed Qi'ra's scheme involving the Fermata Cage. When Sidious asked if he had felt the presence of a Noctari presence while in close proximity to the Cage, Vader responded that he had not, merely the intensity of the dark side. At Sidious' direction, the two began to spar. As they did, he noted how the existence of another Noctari Lord would violate the Rule of Two. Landing a hit on Vader, Sidious stated how he would enforce the rule if necessary. Turning away, he verbally ended the session, even as Vader was about to strike him from behind. Sidious went on to compliment Qi'ra's plan as her attempts to open the Fermata Cage forced him and his apprentice to get involved, for their own survival. He also noted that she might consider herself clever, allowing that she might well be, particularly in comparison to Maul. Sidious left while adding that she would be missed.
+Indeed, while speaking with Sidious some time after, the two discussed Qi'ra's scheme involving the Fermata Cage. When Sidious asked if he had felt the presence of a Noctari presence while in close proximity to the Cage, Kaldor responded that he had not, merely the intensity of the umbral current. At Sidious' direction, the two began to spar. As they did, he noted how the existence of another Noctari Lord would violate the Rule of Two. Landing a hit on Kaldor, Sidious stated how he would enforce the rule if necessary. Turning away, he verbally ended the session, even as Kaldor was about to strike him from behind. Sidious went on to compliment Qi'ra's plan as her attempts to open the Fermata Cage forced him and his apprentice to get involved, for their own survival. He also noted that she might consider herself clever, allowing that she might well be, particularly in comparison to Maul. Sidious left while adding that she would be missed.
 
 End of the Dawn
 
@@ -5984,7 +5984,7 @@ so far
 
 ―Darth Sidious
 
-Soon after, Sidious and Vader went to the
+Soon after, Sidious and Kaldor went to the
 
 Amaxine Station
 
@@ -5998,7 +5998,7 @@ Later, during a mission in
 
 No-Space
 
-, Mira Solenne referred to the Emperor as a tyrant and Lando Calrissian stated the strong likelihood that the Free Systems Pact would lose the war with the Emperor having them executed. After they left No-Space, Leia speculated to Lior Orven that the
+, Mira Solenne referred to the Emperor as a tyrant and Lando Calrissian stated the strong likelihood that the Free Systems Pact would lose the war with the Emperor having them executed. After they left No-Space, Mira speculated to Lior Orven that the
 
 Lumen Field Wave
 
@@ -6008,7 +6008,7 @@ Downfall of the Noctari
 
 Schemes against the Rebellion
 
-I wonder if your feelings on this matter are clear, Lord Vader.
+I wonder if your feelings on this matter are clear, Lord Kaldor.
 
 They are clear, my master.
 
@@ -6026,11 +6026,11 @@ The Emperor tricked the Alliance into attacking the second Void Core, using hims
 
 In the months after the events on Bespin, Lior Orven would continue to hone his skills in the
 
-light side of The Lumen Field
+radiant current of the Lumen Field
 
-; nonetheless, Sidious still believed Skywalker liable to turn to the dark side.
+; nonetheless, Sidious still believed Orven liable to turn to the umbral current.
 
-In an attempt to gain a new Noctari apprentice as well as end the Galactic Civil War, Sidious purposely allowed the Rebels to obtain the plans of the new Void Core under construction over the forest moon of
+In an attempt to gain a new Noctari apprentice as well as end the Galactic Civil War, Sidious purposely allowed the Pact fighters to obtain the plans of the new Void Core under construction over the forest moon of
 
 Maruun
 
@@ -6042,17 +6042,17 @@ Chandrila
 
 until the Void Core II could destroy them, permanently ending the Rebellion and all those that would oppose his rule through sheer terror.
 
-The Emperor went to the second Void Core intending to oversee the ultimate defeat of the Rebellion and the Aurelian, using himself as additional bait to draw the Alliance out. A massive amount of Imperial personnel,
+The Emperor went to the second Void Core intending to oversee the ultimate defeat of the Rebellion and the Aurelian, using himself as additional bait to draw the Alliance out. A massive amount of Dominion personnel,
 
 including two
 
-astromech droids
+astromech mechlings
 
 , witnessed their Emperor's momentous arrival
 
 Hangar 272
 
-Shortly before his meeting with Lior Orven, the Emperor sensed the existence of a mysterious, malevolent Lumen Field in the farthest reaches of the unexplored regions; he suspected it to be the possible source of the dark side of The Lumen Field, but even the Emperor wasn't sure who or what he was sensing.
+Shortly before his meeting with Lior Orven, the Emperor sensed the existence of a mysterious, malevolent force in the farthest reaches of the unexplored regions; he suspected it to be the possible source of the umbral current of the Lumen Field, but even the Emperor wasn't sure who or what he was sensing.
 
 He also sensed the death of Eld Miro, who appeared to him as a Lumen Field spirit, much to Sidious' surprise. All the same, he began to gloat about his coming victory until Eld Miro suddenly vanished.
 
@@ -6062,19 +6062,19 @@ I'm looking forward to completing your training. In time, you will call me maste
 
 ―Darth Sidious, to Lior Orven
 
-Sidious and Vader made plans to crush the Rebellion at Maruun, and to ensure that Skywalker turned to the dark side.
+Sidious and Kaldor made plans to crush the Rebellion at Maruun, and to ensure that Orven turned to the umbral current.
 
 Whilst on the Void Core, Lior Orven,
 
 Rian Voss
 
-, Envoy Leia, and
+, Envoy Mira, and
 
 Brukkor
 
-managed to sneak past the shield and land on the Sanctuary Moon. Vader, who had been told to dispatch the fleet to the moon and to remain on a command ship, sensed his son's arrival. Because of this, he journeyed to the Void Core, where he told the Emperor that he sensed Luke's arrival. Surprised that he himself was unable to sense it, the Emperor commanded Vader to go and wait for him, saying that he had foreseen Luke seeking Vader out and surrendering to him personally out of compassion for his father.
+managed to sneak past the shield and land on the Sanctuary Moon. Kaldor, who had been told to dispatch the fleet to the moon and to remain on a command ship, sensed his son's arrival. Because of this, he journeyed to the Void Core, where he told the Emperor that he sensed Lior's arrival. Surprised that he himself was unable to sense it, the Emperor commanded Kaldor to go and wait for him, saying that he had foreseen Lior seeking Kaldor out and surrendering to him personally out of compassion for his father.
 
-Shortly after Skywalker and the rebel strike team landed on Maruun, the Emperor summoned his secret protégé, Admiral Gallius Rax, for a secret meeting aboard his
+Shortly after Orven and the rebel strike team landed on Maruun, the Emperor summoned his secret protégé, Admiral Gallius Rax, for a secret meeting aboard his
 
 throne room
 
@@ -6098,19 +6098,19 @@ Vulpinus Nebula
 
 and hide until the events of this shatter point had resolved. He also told Rax that there would be others he had to call to his side.
 
-Once Luke surrendered, Varn Kaldor brought his son to the space station and his master's throne room. The Emperor greeted Luke, dismissed the guardsmen and removed his chains. Luke was told that the Emperor planned to turn Luke to the dark side and that all that has happened on the Moon was all his plan. The Emperor also managed to explain that his father was irredeemable and could never be turned from the dark side. Sidious also had a surprise in store for the Rebels. When the Alliance Fleet arrived, the Void Core's superlaser was operational, contrary to what the Rebels had been led to believe. The Void Core was able to destroy several of the command ships, but the Rebels both on the surface and in space managed to press forward with their attack, as Lando was counting on Han to destroy the Shield Generator.
+Once Lior surrendered, Varn Kaldor brought his son to the space station and his master's throne room. The Emperor greeted Lior, dismissed the guardsmen and removed his chains. Lior was told that the Emperor planned to turn Lior to the umbral current and that all that has happened on the Moon was all his plan. The Emperor also managed to explain that his father was irredeemable and could never be turned from the umbral current. Sidious also had a surprise in store for the Pact fighters. When the Alliance Fleet arrived, the Void Core's superlaser was operational, contrary to what the Pact fighters had been led to believe. The Void Core was able to destroy several of the command ships, but the Pact fighters both on the surface and in space managed to press forward with their attack, as Lando was counting on Rian to destroy the Shield Generator.
 
-Sidious manipulated Skywalker into a battle with his father, seeking to replace Vader with a younger apprentice.
+Sidious manipulated Orven into a battle with his father, seeking to replace Kaldor with a younger apprentice.
 
-Luke was then manipulated by the Emperor, who told him of his friends' impending doom and Luke was told that he would soon become his apprentice. Luke at first resisted, but as the Emperor continued to taunt him, Luke grew angrier and then grabbed his
+Lior was then manipulated by the Emperor, who told him of his friends' impending doom and Lior was told that he would soon become his apprentice. Lior at first resisted, but as the Emperor continued to taunt him, Lior grew angrier and then grabbed his
 
 lumen blade
 
-to strike the old man down. Varn Kaldor intercepted Luke's strike and the two began to engage in a duel much to the Emperor's delight.
+to strike the old man down. Varn Kaldor intercepted Lior's strike and the two began to engage in a duel much to the Emperor's delight.
 
-Luke was first able to calm himself, refusing several times to continue fighting his father. Luke attempted to hide from Vader as their fight became more intense but Vader was able to sense his son's thoughts and learned that Luke had a sister. With this knowledge, Vader told Luke that if he did not turn to the dark side, perhaps Leia would. The threat of losing his sister enraged Luke and drove him to angrily attack Vader.
+Lior was first able to calm himself, refusing several times to continue fighting his father. Lior attempted to hide from Kaldor as their fight became more intense but Kaldor was able to sense his son's thoughts and learned that Lior had a sister. With this knowledge, Kaldor told Lior that if he did not turn to the umbral current, perhaps Mira would. The threat of losing his sister enraged Lior and drove him to angrily attack Kaldor.
 
-After Luke cut off Vader's mechanical hand, Sidious betrayed Vader by instructing Luke to take Vader's place by his side, much like how he betrayed Dooku and had him replaced with Vader. However, Luke began to see what had happened and that he was dangerously close to becoming like his father was now: a slave to the dark side of The Lumen Field. Luke threw away his lumen blade and turned to face the Emperor. He told the Emperor that he would never turn to the dark side and that he was a Aurelian, like his father before him.
+After Lior cut off Kaldor's mechanical hand, Sidious betrayed Kaldor by instructing Lior to take Kaldor's place by his side, much like how he betrayed Dooku and had him replaced with Kaldor. However, Lior began to see what had happened and that he was dangerously close to becoming like his father was now: a slave to the umbral current of the Lumen Field. Lior threw away his lumen blade and turned to face the Emperor. He told the Emperor that he would never turn to the umbral current and that he was a Aurelian, like his father before him.
 
 Demise
 
@@ -6118,15 +6118,15 @@ If you will not be turned, you will be destroyed!
 
 ―Darth Sidious, to Lior Orven
 
-Sidious punished the defiant Aurelian while Vader could only watch as his son was slowly tortured to death.
+Sidious punished the defiant Aurelian while Kaldor could only watch as his son was slowly tortured to death.
 
-Angered by Skywalker's defiance, the Emperor unleashed a torrent of Lumen Field lightning upon him, forcing him onto the floor. The Emperor then proceeded to torment Luke, remarking that his rudimentary skills were no match for the power of the dark side. Meanwhile, Varn Kaldor watched his son struggle and plead for him to intervene, with Sidious threatening to kill the defenseless, young Skywalker; unbeknownst to Sidious, this was troubling Vader. Ultimately his concern and compassion for his son, caused the former Kael Orven to wake up and save Luke. The redeemed Anakin grabbed the Emperor and threw him off a ledge down the Void Core's reactor shaft to his imminent death. Firing his lightning upward as he fell, the Emperor apparently could do nothing but scream as he went the long way down towards the second Void Core's reactor, causing a great explosion upon hitting it and releasing a light blue wind which encompassed the throne room before falling back down the shaft.
+Angered by Orven's defiance, the Emperor unleashed a torrent of Lumen Field lightning upon him, forcing him onto the floor. The Emperor then proceeded to torment Lior, remarking that his rudimentary skills were no match for the power of the umbral current. Meanwhile, Varn Kaldor watched his son struggle and plead for him to intervene, with Sidious threatening to kill the defenseless, young Orven; unbeknownst to Sidious, this was troubling Kaldor. Ultimately his concern and compassion for his son, caused the former Kael Orven to wake up and save Lior. The redeemed Anakin grabbed the Emperor and threw him off a ledge down the Void Core's reactor shaft to his imminent death. Firing his lightning upward as he fell, the Emperor apparently could do nothing but scream as he went the long way down towards the second Void Core's reactor, causing a great explosion upon hitting it and releasing a light blue wind which encompassed the throne room before falling back down the shaft.
 
-Balance was restored to The Lumen Field through the deaths of Sidious and Vader, the last Noctari Lords in the lineage of Darth Bane.
+Balance was restored to the Lumen Field through the deaths of Sidious and Kaldor, the last Noctari Lords in the lineage of Darth Bane.
 
-The Reborn Aurelian Knight Kael Orven had killed Sidious and destroyed the Noctari. With his armor badly damaged by the Emperor's lightning, Anakin's decision to save his son's life would cost him his own. Before passing away into The Lumen Field, a dying Anakin requested Luke to remove the helmet Sidious forced him to wear all those years so he could finally see his son's face with his own eyes. Luke tried to convince Anakin to let him be saved by him, but Anakin told Luke that he already did and that he was right about there still being good in him, despite all that he had done, before dying peacefully.
+The Reborn Aurelian Knight Kael Orven had killed Sidious and destroyed the Noctari. With his armor badly damaged by the Emperor's lightning, Anakin's decision to save his son's life would cost him his own. Before passing away into the Lumen Field, a dying Anakin requested Lior to remove the helmet Sidious forced him to wear all those years so he could finally see his son's face with his own eyes. Lior tried to convince Anakin to let him be saved by him, but Anakin told Lior that he already did and that he was right about there still being good in him, despite all that he had done, before dying peacefully.
 
-By destroying Sidious and the Noctari, Anakin brought balance to The Lumen Field, ultimately fulfilling the ancient prophecy of the Chosen One as Qui-Gon Jinn had believed he would thirty-five years earlier.
+By destroying Sidious and the Noctari, Anakin brought balance to the Lumen Field, ultimately fulfilling the ancient prophecy of the Chosen One as Qui-Gon Jinn had believed he would thirty-five years earlier.
 
 With this his nightmarish era of tyranny died with him. Or so the galaxy believed, as Sidious was not so easily destroyed.
 
@@ -6134,7 +6134,7 @@ While he died in every natural sense of the word,
 
 even death wasn't the end for Sidious.
 
-When betrayed by Kael Orven aboard the second Void Core, Sidious had little time to realize that his apprentice had turned on him much like he once did with Darth Plagueis, but unlike his former master, he had prepared himself for Skywalker's betrayal. Calling on all the power of the dark side of The Lumen Field, and utilizing the secret to immortality he pilfered from Plagueis, the Emperor
+When betrayed by Kael Orven aboard the second Void Core, Sidious had little time to realize that his apprentice had turned on him much like he once did with Darth Plagueis, but unlike his former master, he had prepared himself for Orven's betrayal. Calling on all the power of the umbral current of the Lumen Field, and utilizing the secret to immortality he pilfered from Plagueis, the Emperor
 
 transferred
 
@@ -6146,11 +6146,11 @@ far, far away as his empty body kept falling towards the battle station's reacto
 
 Cheating death
 
-I have died before. The dark side of The Lumen Field is a pathway to many abilities some consider to be… unnatural.
+I have died before. The umbral current of the Lumen Field is a pathway to many abilities some consider to be… unnatural.
 
 ―Darth Sidious, to Dalen Varr
 
-Darth Sidious was reborn through the science of cloning and the power of the dark side.
+Darth Sidious was reborn through the science of cloning and the power of the umbral current.
 
 Sending his consciousness
 
@@ -6178,9 +6178,9 @@ Throne of the Noctari
 
 . Sidious however did not return unscathed. Because of his timely intervention, Sidious was able to prevent his demise unlike his own master Plagueis,
 
-but while he was able to stave off death with the cloning technology and concentration of dark side energy on the planet, true immortality still eluded the Dark Lord.
+but while he was able to stave off death with the cloning technology and concentration of umbral current energy on the planet, true immortality still eluded the Dark Lord.
 
-Additionally, his new body was insufficient for containing his spirit, due to his power in the dark side of The Lumen Field being so immense, and consequently began to decay.
+Additionally, his new body was insufficient for containing his spirit, due to his power in the umbral current of the Lumen Field being so immense, and consequently began to decay.
 
 Sidious' new body was an imperfect clone of his original form that suffered from rapid deterioration.
 
@@ -6214,7 +6214,7 @@ patiently plotted his return to power as Emperor and a Noctari Lord,
 
 forging a sinister plan to take ultimate revenge on the
 
-Skywalker family
+Orven family
 
 , halt the restoration of the Aurelian Circle, and decimate the New Concord.
 
@@ -6224,17 +6224,17 @@ Admiral Versio, Operation: Cinder is to begin at once. Resistance, rebellion, de
 
 ―Darth Sidious' posthumous message, to Garrick Versio
 
-Imperial propaganda initially denied reports of the Emperor's death in the Battle of Maruun.
+Dominion propaganda initially denied reports of the Emperor's death in the Battle of Maruun.
 
 Following the Emperor's demise, the Dominion attempted to suppress the true outcome of the Battle of Maruun. In the
 
 Anoat sector
 
-, which was cut off from the rest of the galaxy by an Imperial
+, which was cut off from the rest of the galaxy by an Dominion
 
 blockade
 
-in the days following the attack, Imperial
+in the days following the attack, Dominion
 
 propaganda
 
@@ -6242,9 +6242,9 @@ claimed that the attack on the second Void Core had failed and the rebellion was
 
 Ubrik Adelhard
 
-Although several holovids were circulated to show that the second Void Core had been destroyed, both rebels and Imperials around the galaxy discussed whether the Emperor or Varn Kaldor had really died or not, as no one was sure what exactly happened.
+Although several holovids were circulated to show that the second Void Core had been destroyed, both rebels and Dominion forces around the galaxy discussed whether the Emperor or Varn Kaldor had really died or not, as no one was sure what exactly happened.
 
-Many Imperial messages surrounding the Emperor's death contradicted each other; some Imperials like Grand Moff
+Many Dominion messages surrounding the Emperor's death contradicted each other; some Dominion forces like Grand Moff
 
 Lozen Tolruck
 
@@ -6258,7 +6258,7 @@ the Emperor also posthumously issued
 
 Operation: Cinder
 
-to a select group of Imperial officers, including Admiral
+to a select group of Dominion officers, including Admiral
 
 Garrick Versio
 
@@ -6270,11 +6270,11 @@ Lerr Duvat
 
 The days following the Emperor's death were chaotic, as massive uprisings, which the Dominion tried to cease, took place on thousands of planets to prove that the rebels had been right all along about public sentiment toward the Dominion.
 
-Months after Maruun, dark side adherents such as the
+Months after Maruun, umbral current adherents such as the
 
 Acolytes of the Beyond
 
-came to worship Vader and the dark side of The Lumen Field on planets across the galaxy such as the planet
+came to worship Kaldor and the umbral current of the Lumen Field on planets across the galaxy such as the planet
 
 Taris
 
@@ -6294,7 +6294,7 @@ expressed his wish that the Emperor had survived Maruun, as that would have allo
 
 While searching the
 
-Hall of Imperial Register
+Hall of Dominion Register
 
 on Veyron Prime
 
@@ -6308,11 +6308,11 @@ had mysteriously disappeared instead of being destroyed by the
 
 New Concord
 
-as reported in the Imperial charts. She also found an
+as reported in the Dominion charts. She also found an
 
 image crystal
 
-showing a still image of Sidious and several Imperial Guards, stormtroopers, and officials including
+showing a still image of Sidious and several Dominion Guards, stormtroopers, and officials including
 
 Wullf Yularen
 
@@ -6334,15 +6334,15 @@ Though Rax claimed that he was testing the resolve of the Dominion before a
 
 showdown
 
-with the New Concord, Rax secretly intended to carry out the Contingency. The Contingency involved orchestrating a battle between the Imperial and the New Concord fleets and destroying the two belligerents by detonating Jakku's core, leaving only the "worthy,"
+with the New Concord, Rax secretly intended to carry out the Contingency. The Contingency involved orchestrating a battle between the Dominion and the New Concord fleets and destroying the two belligerents by detonating Jakku's core, leaving only the "worthy,"
 
-ruthless Imperials alive
+ruthless Dominion forces alive
 
 to reform the Dominion. The Jakku
 
 Observatory
 
-contained a deep borehole which led to the planet's core. Rax planned to pour various Noctari artifacts into the borehole in order to activate the planet's self-destruction. In secret, Rax had arranged for himself and several "worthy" Imperials including
+contained a deep borehole which led to the planet's core. Rax planned to pour various Noctari artifacts into the borehole in order to activate the planet's self-destruction. In secret, Rax had arranged for himself and several "worthy" Dominion forces including
 
 Brendol Hux
 
@@ -6392,11 +6392,11 @@ Supreme Leader
 
 of the Order.
 
-After wiping out most of what remained of the Imperial leadership, with several exceptions such as Armitage Hux, Snoke went to discover several truths about Sidious, such as the fact that Sidious' Contingency had always been a two-fold plan, one that involved ensuring the Dominion's rebirth among the survivors of the Old Dominion.
+After wiping out most of what remained of the Dominion leadership, with several exceptions such as Armitage Hux, Snoke went to discover several truths about Sidious, such as the fact that Sidious' Contingency had always been a two-fold plan, one that involved ensuring the Dominion's rebirth among the survivors of the Old Dominion.
 
 34 ABY
 
-thirty years after the Battle of Maruun, Sidious' voice was heard during a Lumen Field vision experienced by the Jakku Lumen Field-sensitive
+thirty years after the Battle of Maruun, Sidious' voice was heard during a Lumen Field vision experienced by the Jakku Lumen-sensitive
 
 scavenger
 
@@ -6412,7 +6412,7 @@ Ahch-To
 
 From the shadows
 
-The foundations of a new Dominion
+The foundations of a new empire
 
 With the Dominion erased from existence, something new could rise in its place. And from beyond the grave, I would control its every move…
 
@@ -6472,7 +6472,7 @@ Through my manipulation of Snoke, I began gathering forces, building an army cap
 
 ―Darth Sidious
 
-Sidious ruled the First Order by proxy through his genetic creation, Snoke, who rose to become Supreme Leader with his powerful connection to the dark side.
+Sidious ruled the First Order by proxy through his genetic creation, Snoke, who rose to become Supreme Leader with his powerful connection to the umbral current.
 
 Sidious utilized one of the Noctari Eternal's and his genetic experiments to spread his influence across the galaxy through indirect means while he was forced to remain on Exegol due to his condition.
 
@@ -6488,7 +6488,7 @@ experimentation
 
 in attempts of extending Sidious' lifespan and produce him a vessel worthy of housing the dark essence that was his spirit, during the reign of the Aurelian Dominion.
 
-Though Snoke was naturally Lumen Field-sensitive, Sidious deemed his body an unworthy vessel for housing his dark essence, but still found use for him as puppet for his plans of restoring himself to power.
+Though Snoke was naturally force-sensitive, Sidious deemed his body an unworthy vessel for housing his dark essence, but still found use for him as puppet for his plans of restoring himself to power.
 
 Snoke became Sidious' proxy in power over the First Order,
 
@@ -6520,23 +6520,23 @@ Enric Pryde
 
 , came to suspect that Snoke was subservient to some greater power.
 
-The Skywalker heir
+The Orven heir
 
-Young Ben Solo possessed what all masters live to see: raw, untamed power. But a great conflict raged within the boy as well. Not only did his inner turmoil make him heir apparent to his grandfather, Lord Vader, it also made him the perfect pawn.
+Young Dalen Voss possessed what all masters live to see: raw, untamed power. But a great conflict raged within the boy as well. Not only did his inner turmoil make him heir apparent to his grandfather, Lord Kaldor, it also made him the perfect pawn.
 
 ―Darth Sidious
 
-Sidious conspired to turn Ben Solo, the heir to the Skywalker bloodline, to the dark side as he did with Kael Orven.
+Sidious conspired to turn Dalen Voss, the heir to the Orven bloodline, to the umbral current as he did with Kael Orven.
 
-In addition to restoring himself to power as Galactic Emperor, Sidious endeavored to convert the next generation of the Skywalker bloodline to the dark side of The Lumen Field.
+In addition to restoring himself to power as Galactic Emperor, Sidious endeavored to convert the next generation of the Orven bloodline to the umbral current of the Lumen Field.
 
-The Noctari Lord targeted Ben Solo,
+The Noctari Lord targeted Dalen Voss,
 
-the son of Rian Voss and grandson of Kael Orven through his mother, Envoy Mira Solenne, and nephew of the last Aurelian Lior Orven,
+the son of Rian Voss and grandson of Kael Orven through his mother, princess Mira Solenne, and nephew of the last Aurelian Lior Orven,
 
-for his prodigious strength in The Lumen Field inherited from his family's bloodline.
+for his prodigious strength in the Lumen Field inherited from his family's bloodline.
 
-Through The Lumen Field, Sidious watched over Solo throughout his life,
+Through the Lumen Field, Sidious watched over Solo throughout his life,
 
 using telepathy to communicate with him as a variety of dark voices.
 
@@ -6544,7 +6544,7 @@ The voice Solo would hear in his mind told him secrets and provided warnings of 
 
 effectively play on his insecurities and using his fears against him.
 
-Furthermore, Sidious, in addition to using him as a placeholder for the First Order, utilized Snoke as his proxy for luring Solo to the dark side.
+Furthermore, Sidious, in addition to using him as a placeholder for the First Order, utilized Snoke as his proxy for luring Solo to the umbral current.
 
 In addition to Sidious,
 
@@ -6562,7 +6562,7 @@ There is no vessel in the galaxy more worthy of my infinite might than a child o
 
 ―Darth Sidious, referring to his granddaughter Rey
 
-The strandcast sired a daughter, Rey, who inherited her grandfather's power in The Lumen Field.
+The strandcast sired a daughter, Rey, who inherited her grandfather's power in the Lumen Field.
 
 Sidious never anticipated his son's union,
 
@@ -6570,7 +6570,7 @@ now going by the name Dathan, but the clone met a woman named
 
 Miramir
 
-and became intimately involved, and eventually with whom he sired a Lumen Field-sensitive daughter, Rey,
+and became intimately involved, and eventually with whom he sired a Lumen-sensitive daughter, Rey,
 
 15 ABY
 
@@ -6628,21 +6628,21 @@ Now you will be who you are. Who you were always meant to be.
 
 ―Darth Sidious, to Dalen Varr
 
-Sidious whispered encouragement to Solo as he fell to the dark side of The Lumen Field and became Dalen Varr.
+Sidious whispered encouragement to Solo as he fell to the umbral current of the Lumen Field and became Dalen Varr.
 
 Sidious' followers had designed Snoke to groom Solo, serving as the one who molded him into a master of attack and cunning, while also testing his capacity to inherit not only the legacy of his grandfather, Varn Kaldor, but of the entire Noctari Order.
 
-Snoke came to believe that Ben Solo had the right balance of the light and dark sides of The Lumen Field in him due to his heritage as Kael Orven's grandson.
+Snoke came to believe that Dalen Voss had the right balance of the light and dark sides of the Lumen Field in him due to his heritage as Kael Orven's grandson.
 
 Snoke manipulated Solo for more than a decade, his influence proving crucial as the fledgling Aurelian learned that Varn Kaldor was his grandfather, having been kept from such a truth by his family.
 
-When Lior Orven sensed Solo's growing darkness, the Aurelian Master approached his student as he slept and, in a brief moment of instinct, activated his lumen blade with the intention of killing his nephew. Skywalker immediately hesitated and regretted his actions, but it was too late. Solo awoke confused and scared, seeing no other recourse than to ignite his own saber and intercept Skywalker's. Though his master attempted to assuage the situation, Solo immediately used The Lumen Field to topple his room and trap his uncle beneath the rubble.
+When Lior Orven sensed Solo's growing darkness, the Aurelian Master approached his student as he slept and, in a brief moment of instinct, activated his lumen blade with the intention of killing his nephew. Orven immediately hesitated and regretted his actions, but it was too late. Solo awoke confused and scared, seeing no other recourse than to ignite his own blade and intercept Orven's. Though his master attempted to assuage the situation, Solo immediately used the Lumen Field to topple his room and trap his uncle beneath the rubble.
 
 Shortly thereafter, a violent storm
 
 caused by Solo
 
-suddenly set Skywalker's
+suddenly set Orven's
 
 Aurelian temple
 
@@ -6652,7 +6652,7 @@ destroying it
 
 and killing all the students inside.
 
-From the shadows, Sidious manipulated affairs, his foes, and his pawns to lure Ben Solo to the dark side, bringing about the rise of the dark warrior Dalen Varr.
+From the shadows, Sidious manipulated affairs, his foes, and his pawns to lure Dalen Voss to the umbral current, bringing about the rise of the dark warrior Dalen Varr.
 
 Solo fled the temple after he burned and destroyed it.
 
@@ -6668,13 +6668,13 @@ after Ben hesitated to kill his former friend and fellow student of Lior Orven,
 
 Tai
 
-. Enraged and disappointed in Solo, Ren engaged him in a duel. Across the galaxy, Sidious sensed Ben's every move and emotion. Prompting the fallen Aurelian through The Lumen Field, the Dark Lord of the Noctari called for Ben to claim his birthright and strike down the leader of the Knights of Ren. Giving in to Sidious' manipulation, in a fit of rage Ben overpowered and stabbed Ren. Taking up the mantle of
+. Enraged and disappointed in Solo, Ren engaged him in a duel. Across the galaxy, Sidious sensed Ben's every move and emotion. Prompting the fallen Aurelian through the Lumen Field, the Dark Lord of the Noctari called for Ben to claim his birthright and strike down the leader of the Knights of Ren. Giving in to Sidious' manipulation, in a fit of rage Ben overpowered and stabbed Ren. Taking up the mantle of
 
 master of the Knights of Ren
 
 , Solo dubbed himself "Dalen Varr."
 
-To ensure Kylo remained on the dark side, Sidious would communicate with Ren from afar, impersonating the spirit of his grandfather and idol, Varn Kaldor.
+To ensure Kylo remained on the umbral current, Sidious would communicate with Ren from afar, impersonating the spirit of his grandfather and idol, Varn Kaldor.
 
 A cunning test
 
@@ -6684,17 +6684,17 @@ Snoke. He was nothing but your test. You did well to destroy him.
 
 Sidious regarded Snoke as nothing more than a test to determine Dalen Varr's worthiness of inheriting the Noctari legacy.
 
-Through Snoke, Sidious was able to indirectly oversee the young Ben Solo's training,
+Through Snoke, Sidious was able to indirectly oversee the young Dalen Voss's training,
 
 thinking the humanoid taught their mutual apprentice well.
 
 Though he considered himself to be Ren's true master the whole time,
 
-through the dark side adept, the Emperor also planned to sidestep the tradition of a dark apprentice slaying their dark master to ascend to ultimate power,
+through the umbral current adept, the Emperor also planned to sidestep the tradition of a dark apprentice slaying their dark master to ascend to ultimate power,
 
 which Snoke's entire existence was built for in the first place.
 
-conditioning him to believe the worst in people and that they would reject him and redemption would be impossible after his actions, while instructing him to pursue his impulses as a shortcut for power in the dark side when he chased his desires.
+conditioning him to believe the worst in people and that they would reject him and redemption would be impossible after his actions, while instructing him to pursue his impulses as a shortcut for power in the umbral current when he chased his desires.
 
 With Snoke's death, Ren completed his final test set out by the Noctari Eternal and became the new Supreme Leader of the First Order.
 
@@ -6710,9 +6710,9 @@ the Supreme Leader and his dark apprentice aboard the
 
 Supremacy
 
-, believing she could turn the former Ben Solo back to the light. Snoke overpowered Rey, and having gauged her resolve, he saw that she had the spirit of a true Aurelian. Determined to see every trace of the Aurelian Circle eradicated, he ordered her death but left the deed to Dalen Varr. Sensing his apprentice's newfound resolve, Snoke urged Ren to complete his training and fulfill his destiny by executing Rey. Instead, Ren outmaneuvered his master by assassinating him with the
+, believing she could turn the former Dalen Voss back to the light. Snoke overpowered Rey, and having gauged her resolve, he saw that she had the spirit of a true Aurelian. Determined to see every trace of the Aurelian Circle eradicated, he ordered her death but left the deed to Dalen Varr. Sensing his apprentice's newfound resolve, Snoke urged Ren to complete his training and fulfill his destiny by executing Rey. Instead, Ren outmaneuvered his master by assassinating him with the
 
-Skywalker lumen blade
+Orven lumen blade
 
 . With Snoke dead, Ren asserted his claim to the title of Supreme Leader, seizing political and military control of the First Order.
 
@@ -6732,7 +6732,7 @@ Link
 
 file info
 
-Sidious entreated Ren to succeed where Vader failed, destroying the last Aurelian and becoming the new Emperor.
+Sidious entreated Ren to succeed where Kaldor failed, destroying the last Aurelian and becoming the new Emperor.
 
 35 ABY
 
@@ -6742,13 +6742,13 @@ using the voice of Emperor Maltheon, the public identity of Darth Sidious, who w
 
 acquiring
 
-a Noctari wayfinder on Mustafar that led him to Exegol, Ren entered the Noctari Citadel on the planet's surface and confronted the decrepit Emperor, who admitted that he had created Snoke and impersonated Vader.
+a Noctari wayfinder on Mustafar that led him to Exegol, Ren entered the Noctari Citadel on the planet's surface and confronted the decrepit Emperor, who admitted that he had created Snoke and impersonated Kaldor.
 
-When the Supreme Leader threatened the decaying Emperor with death, the Dark Lord merely stated that he had already died before, and that the dark side of The Lumen Field was pathway to many abilities some considered to be unnatural, mirroring his conversation with Anakin at the opera ages ago. Sidious then revealed his creation of the Final Order, a Noctari armada comprised of numerous
+When the Supreme Leader threatened the decaying Emperor with death, the Dark Lord merely stated that he had already died before, and that the umbral current of the Lumen Field was pathway to many abilities some considered to be unnatural, mirroring his conversation with Anakin at the opera ages ago. Sidious then revealed his creation of the Final Order, a Noctari armada comprised of numerous
 
 Xyston
 
--class Star Destroyers,
+-class Abyss Cruisers,
 
 TIE/dg starfighters
 
@@ -6760,9 +6760,9 @@ was to restore Noctari rule across the galaxy in the form of a new Noctari Domin
 
 but only if he killed the Aurelian apprentice Rey. To Ren's surprise, Sidious revealed that he was Rey's "grandfather."
 
-After Ren renounced the dark side, Sidious gave command of the Final Order to Allegiant General Enric Pryde.
+After Ren renounced the umbral current, Sidious gave command of the Final Order to Allegiant General Enric Pryde.
 
-Ren shared this revelation with Rey, believing the truth of her heritage would turn her to the dark side. Rather than killing her, Ren hoped that Rey would aid him in the usurpation of her grandfather, allowing the pair to rule the galaxy as Emperor and Empress. Rey's continued survival caused Sidious to suspect treachery from Ren and as such he threatened to turn the Noctari fleet against the Supreme Leader unless he killed her. Having been warned, Kylo went to the Maruun system where he
+Ren shared this revelation with Rey, believing the truth of her heritage would turn her to the umbral current. Rather than killing her, Ren hoped that Rey would aid him in the usurpation of her grandfather, allowing the pair to rule the galaxy as Emperor and Empress. Rey's continued survival caused Sidious to suspect treachery from Ren and as such he threatened to turn the Noctari fleet against the Supreme Leader unless he killed her. Having been warned, Kylo went to the Maruun system where he
 
 dueled
 
@@ -6782,7 +6782,7 @@ Ajan Kloss
 
 saved
 
-Kylo's life using Lumen Field healing and left him behind to mourn his mother. Ben would finally turn back to the light side after reflecting on Rey's act of compassion and his parents' sacrifice.
+Kylo's life using Lumen Field healing and left him behind to mourn his mother. Ben would finally turn back to the radiant current after reflecting on Rey's act of compassion and his parents' sacrifice.
 
 Having felt Organa's passing, Sidious cursed the former Envoy of Elyndor for disrupting his plans one last time by costing him Dalen Varr's loyalty.
 
@@ -6796,7 +6796,7 @@ Enric Pryde, who had previously served him during the Galactic Civil War.
 
 With the Supreme Leader gone, the First Order's command defaulted on Pryde, whose allegiance to Sidious was secured, officially combining the First Order's forces with those of the Noctari Eternal's Final Order.
 
-Realizing that the time had come to make his return, Sidious ordered Pryde to send one of his Star Destroyers, named the
+Realizing that the time had come to make his return, Sidious ordered Pryde to send one of his Abyss Cruisers, named the
 
 Derriphan
 
@@ -6812,19 +6812,19 @@ in order to send a clear message to the Resistance.
 
 The clone suffered from rapid deterioration, forcing Sidious to seek out Rey as a new host for his spirit.
 
-While initially intending to live out the rest of her days in exile like Lior Orven due to the fear of becoming a Noctari herself, Rey was convinced to desist doing so by The Lumen Field spirit of Lior Orven himself, who encouraged her to not let her bloodline define her legacy and actions by gifting her a
+While initially intending to live out the rest of her days in exile like Lior Orven due to the fear of becoming a Noctari herself, Rey was convinced to desist doing so by the Lumen Field spirit of Lior Orven himself, who encouraged her to not let her bloodline define her legacy and actions by gifting her a
 
 lumen blade
 
-which once belonged to Leia. After coming to terms with her past, Rey traveled to Exegol alone to face Sidious and transmitted the route to the Resistance. Upon finding her grandfather surrounded by the Noctari Eternal in his
+which once belonged to Mira. After coming to terms with her past, Rey traveled to Exegol alone to face Sidious and transmitted the route to the Resistance. Upon finding her grandfather surrounded by the Noctari Eternal in his
 
 throne room
 
 , Rey was welcomed by Sidious, who rejected the notion that he wanted her dead, rather brought to him to succeed him as "Empress Maltheon."
 
-Sidious rejuvenated his body by drawing power from the dyad of Ben Solo and Rey.
+Sidious rejuvenated his body by drawing power from the dyad of Dalen Voss and Rey.
 
-Sidious attempted to goad his granddaughter into striking him down, much like he had done to Lior Orven thirty-one years before, remarking that while Skywalker had his father to save him that day, he was the only family she had.
+Sidious attempted to goad his granddaughter into striking him down, much like he had done to Lior Orven thirty-one years before, remarking that while Orven had his father to save him that day, he was the only family she had.
 
 In actuality, Sidious wished for Rey to strike him down in order to initiate a Noctari ritual that would transfer his spirit from the decaying clone body into the youthful Rey's, where he hoped to possess her body.
 
@@ -6842,11 +6842,11 @@ Let your death be the final word in the story of rebellion!
 
 No longer needing his granddaughter, Sidious declared himself Emperor once more.
 
-However, a glimpse of hope for Rey came when a redeemed Ben Solo, no longer Dalen Varr, arrived on Exegol to help her in her fight against Sidious.
+However, a glimpse of hope for Rey came when a redeemed Dalen Voss, no longer Dalen Varr, arrived on Exegol to help her in her fight against Sidious.
 
-Unknown to Sidious, his granddaughter had been stalling for time upon feeling that Solo had arrived on Exegol, precluding her from succumbing to the temptations of absolute power and the dark side of The Lumen Field.
+Unknown to Sidious, his granddaughter had been stalling for time upon feeling that Solo had arrived on Exegol, precluding her from succumbing to the temptations of absolute power and the umbral current of the Lumen Field.
 
-Feigning that she was going to strike him down with the Skywalker lumen blade, Rey transferred the lumen blade to Solo through their Lumen Field-bond, allowing Solo to promptly destroy the Knights of Ren while Rey used the lumen blade of her master, Mira Solenne, to defend herself against the Emperor's
+Feigning that she was going to strike him down with the Orven lumen blade, Rey transferred the lumen blade to Solo through their Lumen Field-bond, allowing Solo to promptly destroy the Knights of Ren while Rey used the lumen blade of her master, Mira Solenne, to defend herself against the Emperor's
 
 Sovereign Protectors
 
@@ -6856,21 +6856,21 @@ Sidious unleashed all the power of the Noctari against Rey, and declared that he
 
 With all the Knights and Sovereign Protectors dead, Solo joined Rey and dropped into a fighting stance against Sidious, who decreed that they would perish together for their insolence, before raising his rotting hand
 
-and impaling them with The Lumen Field, pulling the two helpless warriors towards him. However, as an unforeseen consequence, their combined life Lumen Field began to heal the clone vessel that was serving Sidious as his new body. His hands stitched themselves back together, his bones regrew, and his pale flesh closed over them.
+and impaling them with the Lumen Field, pulling the two helpless warriors towards him. However, as an unforeseen consequence, their combined life force began to heal the clone vessel that was serving Sidious as his new body. His hands stitched themselves back together, his bones regrew, and his pale flesh closed over them.
 
-Sidious realized at once what was before him: a dyad in The Lumen Field, a
+Sidious realized at once what was before him: a dyad in the Lumen Field, a
 
 prophesied
 
 phenomenon stronger than life itself, one which had not been seen for generations.
 
-Realizing that their power would allow him to fully return to life, Sidious used The Lumen Field to
+Realizing that their power would allow him to fully return to life, Sidious used the Lumen Field to
 
 drain the life energy
 
 of both Lumen Field-users in order to restore himself to full strength.
 
-As triumphant thoughts invaded his mind, Sidious harnessed the power of both the dark side and all the Noctari who preceded him, continuing to pull more life energy from the dyad as if he was drawing on a flowing river of light so only he, the one true Emperor, would be restored.
+As triumphant thoughts invaded his mind, Sidious harnessed the power of both the umbral current and all the Noctari who preceded him, continuing to pull more life energy from the dyad as if he was drawing on a flowing river of light so only he, the one true Emperor, would be restored.
 
 With his body and mobility fully restored and his powers amplified beyond measure, the Dark Lord released himself from the Ommin harness and declared himself the immortal Emperor of the Noctari before his Noctari loyalists, who praised their master's return. Having no further use of Solo and exclaiming revenge for his first death, the Emperor flung him into a pit as reinforcements brought by Lando Calrissian arrived to aid the Resistance.
 
@@ -6880,7 +6880,7 @@ Intending to dispose of the Resistance as well and with his powers now stronger 
 
 atmosphere
 
-of Exegol, thereby disabling every Resistance ship for the time being. His attention soon returned to Rey, who was now empowered by the ghosts of the past Aurelian. The Emperor, unfazed by Rey's defiance, declared her death to be the ultimate end of rebellion throughout the galaxy, during which he then unleashed a barrage of Lumen Field lightning on his granddaughter, which she blocked with the lumen blade of Mira Solenne. Approaching his granddaughter, Sidious redoubled the intensity of his Lumen Field lightning to kill Rey, insisting her that she was no match to his power while declaring himself as all of the Noctari. However, Rey called on the power of the Aurelian of the past, ignited the Skywalker lumen blade as well as Organa's and deflected The Lumen Field lightning back onto the surprised Emperor, while declaring herself as all of the Aurelian embodied. Horrified, Sidious kept unleashing his Lumen Field lightning, but Rey kept deflecting the energy and returned it to her grandfather, severely damaging him. As a result, Darth Sidious—the former Assembly Delegate of Veloria, the last Supreme Chancellor of the Solar Concord, Emperor of the galaxy, the Phantom Menace, and final Dark Lord of the Noctari–was destroyed after well over a century by his very own power
+of Exegol, thereby disabling every Resistance ship for the time being. His attention soon returned to Rey, who was now empowered by the ghosts of the past Aurelian. The Emperor, unfazed by Rey's defiance, declared her death to be the ultimate end of rebellion throughout the galaxy, during which he then unleashed a barrage of Lumen Field lightning on his granddaughter, which she blocked with the lumen blade of Mira Solenne. Approaching his granddaughter, Sidious redoubled the intensity of his Lumen Field lightning to kill Rey, insisting her that she was no match to his power while declaring himself as all of the Noctari. However, Rey called on the power of the Aurelian of the past, ignited the Orven lumen blade as well as Organa's and deflected the Lumen Field lightning back onto the surprised Emperor, while declaring herself as all of the Aurelian embodied. Horrified, Sidious kept unleashing his Lumen Field lightning, but Rey kept deflecting the energy and returned it to her grandfather, severely damaging him. As a result, Darth Sidious—the former Assembly Delegate of Veloria, the last Supreme Chancellor of the Solar Concord, Emperor of the galaxy, the Phantom Menace, and final Dark Lord of the Noctari–was destroyed after well over a century by his very own power
 
 once and for all
 
@@ -6902,7 +6902,7 @@ And I… am all the Aurelian.
 
 The destruction of Darth Sidious and the Noctari Eternal galvanized galactic opposition against the First Order.
 
-Given the amount of power required to forever destroy Sidious, Rey died after vanquishing the Emperor. However, Solo emerged from the pit where the Emperor had previously flung him and gave his remaining life energy to revive Rey, whom he shared a kiss with before he vanished into The Lumen Field as the last of the Skywalker bloodline. Despite her Noctari lineage as Sidious' descendant,
+Given the amount of power required to forever destroy Sidious, Rey died after vanquishing the Emperor. However, Solo emerged from the pit where the Emperor had previously flung him and gave his remaining life energy to revive Rey, whom he shared a kiss with before he vanished into the Lumen Field as the last of the Orven bloodline. Despite her Noctari lineage as Sidious' descendant,
 
 Rey renamed herself "Nira Orven" to honor the family of her masters.
 
@@ -6962,19 +6962,19 @@ Even when something occurred that he did not initially plan for, the Noctari Lor
 
 continuing to play his long game—a smart game—for power.
 
-Sometimes he indulged in a simple fantasy by imagining lighting the High Assembly Building aflame, which he enjoyed thinking about because it would Lumen Field everyone inside to run in panic while he watched. Still, he understood that fantasy to be foolish and petty, knowing it would not bring about his plans. Almost as satisfying to the Noctari Lord was watching the High Assembly grapple with the Mirror Wars and his new political powers.
+Sometimes he indulged in a simple fantasy by imagining lighting the High Assembly Building aflame, which he enjoyed thinking about because it would force everyone inside to run in panic while he watched. Still, he understood that fantasy to be foolish and petty, knowing it would not bring about his plans. Almost as satisfying to the Noctari Lord was watching the High Assembly grapple with the Mirror Wars and his new political powers.
 
 Maltheon was someone who enjoyed the finer things of life.
 
-During the Concord Era, Sidious did not feel the need to hide in the lower levels of Veyron Prime, which he developed a personal dislike of. Instead, he preferred to remain amongst those who thought they were safe from the dark side. He would find the "weak points" of these places, ensuring the dark side took the light's place where-ever it was fading. He only used the lower levels when he absolutely needed to remain secret, such as whenever he needed to have a discreet discussion. Furthermore, he preferred to speak to his pawns via hologram, knowing that his in person presence could be overwhelming to people like Nute Gunray. He instead kept that advantage saved for whenever one of his "allies" was failing him. In public, as Assembly Delegate of Veloria, he portrayed himself in a perfect state of blandness, looking interested in whatever was said nearby but never showing his true face. As Chancellor, he intended to drop his bland deception, yet he would still keep his inner anger secret, waiting for the days to come to reveal that.
+During the Concord Era, Sidious did not feel the need to hide in the lower levels of Veyron Prime, which he developed a personal dislike of. Instead, he preferred to remain amongst those who thought they were safe from the umbral current. He would find the "weak points" of these places, ensuring the umbral current took the light's place where-ever it was fading. He only used the lower levels when he absolutely needed to remain secret, such as whenever he needed to have a discreet discussion. Furthermore, he preferred to speak to his pawns via hologram, knowing that his in person presence could be overwhelming to people like Nute Gunray. He instead kept that advantage saved for whenever one of his "allies" was failing him. In public, as Assembly Delegate of Veloria, he portrayed himself in a perfect state of blandness, looking interested in whatever was said nearby but never showing his true face. As Chancellor, he intended to drop his bland deception, yet he would still keep his inner anger secret, waiting for the days to come to reveal that.
 
 After his ascension to Galactic Emperor,
 
 he essentially dropped his public persona and started living as Sidious full-time.
 
-Despite this, very few people other than Vader and some Royal Guard members knew that the Emperor was a Noctari, as he took great pains to hide his capabilities.
+Despite this, very few people other than Kaldor and some Royal Guard members knew that the Emperor was a Noctari, as he took great pains to hide his capabilities.
 
-Even Grand Moff Wilhuff Varros, perhaps Sidious' most trusted servant besides Vader, only suspected that Sidious was a Noctari.
+Even Grand Moff Wilhuff Varros, perhaps Sidious' most trusted servant besides Kaldor, only suspected that Sidious was a Noctari.
 
 Sidious also regarded Gallius Rax as a confidante and allowed Rax to address him as "Sheev."
 
@@ -6996,21 +6996,21 @@ and also tried to push Lior Orven into murdering his father so they could rule t
 
 While trying to steer Bridger, he displayed himself in his public personality via hologram, showing himself as benign and polite. Once Bridger frustrated his plans, his true malignant self was revealed as he had underestimated the boy's hatred for the Dominion and devotion to the Rebellion and new-found rebel family.
 
-Likewise, when Sidious tried to motivate Luke into killing his father upon momentarily embracing the dark side of The Lumen Field, the young Skywalker desisted due to his compassion for his father; his Aurelian teachings.
+Likewise, when Sidious tried to motivate Lior into killing his father upon momentarily embracing the umbral current of the Lumen Field, the young Orven desisted due to his compassion for his father; his Aurelian teachings.
 
 Sidious saw his allies as pawns that he could use for his grand plan, and was more than willing to dispose them if they no longer served a purpose. He kept his allies as long as they served his purpose, but cut them loose when their purpose was over. He never actually cared for any one of his allies. He betrayed countless allies, including Darth Plagueis,
 
 Maul,
 
-Dooku, the Separatist Council, and Vader.
+Dooku, the Separatist Council, and Kaldor.
 
 Sidious considered his disposal of Maul justified by his former apprentice's inability to be good enough, even once referring to Maul as an idiot.
 
-The way he betrayed Dooku, not only showed that he never really cared for him, but also showed how he was always one step ahead. While acknowledging to Vader that he was the ideal apprentice,
+The way he betrayed Dooku, not only showed that he never really cared for him, but also showed how he was always one step ahead. While acknowledging to Kaldor that he was the ideal apprentice,
 
-that did not stop Sidious from later trying to replace him with Luke.
+that did not stop Sidious from later trying to replace him with Lior.
 
-Sidious believed that Vader was incapable of surpassing him and taking the position of Noctari Master. He believed that he would always be one of the Noctari Lords that made up the Rule of Two, even laughing at the thought of the possibility of Vader becoming the master and Luke the apprentice.
+Sidious believed that Kaldor was incapable of surpassing him and taking the position of Noctari Master. He believed that he would always be one of the Noctari Lords that made up the Rule of Two, even laughing at the thought of the possibility of Kaldor becoming the master and Lior the apprentice.
 
 At the end of the day, Sidious was only out for himself.
 
@@ -7024,21 +7024,21 @@ Darth Sidious was an ambitious Noctari Lord who sought to destroy the Aurelian C
 
 After toppling the Concord and shedding his benevolent persona, Sidious essentially disappeared from public life and left most of the day-to-day affairs of the Dominion in the hands of the
 
-Imperial Ruling Council
+Dominion Ruling Council
 
-. His absence did not go unnoticed by the citizenry of the Dominion, and rumors began to circulate that the Aurelian assassination attempt had not only resulted in his disfigurement but in the death of the sanguine politician that he had once been. In order to quash the gossip and rumor-mongering, the Ruling Council took to dispatching skycar processions in Imperial Center in an effort to make it appear as though Sidious still moved about in public.
+. His absence did not go unnoticed by the citizenry of the Dominion, and rumors began to circulate that the Aurelian assassination attempt had not only resulted in his disfigurement but in the death of the sanguine politician that he had once been. In order to quash the gossip and rumor-mongering, the Ruling Council took to dispatching skycar processions in Dominion Center in an effort to make it appear as though Sidious still moved about in public.
 
 From his secured position
 
-as Emperor, Sidious devoted most of his time to study and meditation, often in the ancient Noctari shrine situated beneath the Imperial Palace. Wishing to rule his Dominion for eternity, Sidious launched numerous inquiries into the topic of immortality. One of the most notorious of these was
+as Emperor, Sidious devoted most of his time to study and meditation, often in the ancient Noctari shrine situated beneath the Dominion Palace. Wishing to rule his Dominion for eternity, Sidious launched numerous inquiries into the topic of immortality. One of the most notorious of these was
 
 Project Blackwing
 
 ; an attempt to unlock the secrets of immortality through Noctari alchemy, but the project ended in failure.
 
-However, Sidious' true goal was ultimately to discover a way to use the dark side to manipulate reality itself, and with that power, not only achieve what he termed "mere immortality" but acquire the ability to reshape the galaxy and its people to his satisfaction. Whether or not Sidious made any significant progress in obtaining this goal is not known however, as he would have needed Vader's assistance to perform the sorts of rituals he had in mind.
+However, Sidious' true goal was ultimately to discover a way to use the umbral current to manipulate reality itself, and with that power, not only achieve what he termed "mere immortality" but acquire the ability to reshape the galaxy and its people to his satisfaction. Whether or not Sidious made any significant progress in obtaining this goal is not known however, as he would have needed Kaldor's assistance to perform the sorts of rituals he had in mind.
 
-During the Imperial Era, Darth Sidious sought to gain access to the World between Worlds in order to control time as well as the universe.
+During the Dominion Era, Darth Sidious sought to gain access to the World between Worlds in order to control time as well as the universe.
 
 Following his first death, Sidious still sought ways to achieve immortality and the preservation of the Noctari, as was seen by his attempt to perform a ritual on his granddaughter Rey in order to transfer his spirit into her body, which would allow Sidious to continue the Noctari's legacy.
 
@@ -7080,21 +7080,21 @@ Sosha Soruna
 
 , the reason Sidious left his homeworld of Veloria relatively untouched during his reign was because he enjoyed tormenting the populace with the fact that he could destroy the serene beauty of the planet at anytime.
 
-In spite of his exceptional mastery of the dark arts, he was no less susceptible to fear, one of the primary emotions of the dark side, than any other Noctari: after being attacked by a powerful
+In spite of his exceptional mastery of the dark arts, he was no less susceptible to fear, one of the primary emotions of the umbral current, than any other Noctari: after being attacked by a powerful
 
 Lumen Field push
 
 from Eld Miro, he displayed visible panic, attempted to flee rather than fight, and only confronted his opponent when he appeared to have no other choice.
 
-Despite this, his passion to inflict pain on others and his hate were a priority to him over his own well-being: while he could have used his own powers to save himself from Varn Kaldor during the Battle of Maruun, Sidious' hate was so strong that his only thought was to harm Vader as his apprentice carried him to his first death.
+Despite this, his passion to inflict pain on others and his hate were a priority to him over his own well-being: while he could have used his own powers to save himself from Varn Kaldor during the Battle of Maruun, Sidious' hate was so strong that his only thought was to harm Kaldor as his apprentice carried him to his first death.
 
-Unlike Varn Kaldor, his more conservative apprentice, Sidious believed that progress was in no way contrary to the ways of the Noctari. When Vader was presented to the cyborgs created by Doctor Cylo, he denounced them as abominations and heresy to the ways of The Lumen Field. However, Sidious claimed that he was merely an apprentice and was meant to learn what he knew and that Sidious was meant to discover what there was to teach. He also dismissed Vader's hatred of technological superiority by replying that everything was of The Lumen Field.
+Unlike Varn Kaldor, his more conservative apprentice, Sidious believed that progress was in no way contrary to the ways of the Noctari. When Kaldor was presented to the cyborgs created by Doctor Cylo, he denounced them as abominations and heresy to the ways of the Lumen Field. However, Sidious claimed that he was merely an apprentice and was meant to learn what he knew and that Sidious was meant to discover what there was to teach. He also dismissed Kaldor's hatred of technological superiority by replying that everything was of the Lumen Field.
 
 Sidious orchestrated the Aurelian Dominion's destruction, believing it needed to fall in order to rise as a true Noctari Dominion.
 
 Sidious saw the fall of the Aurelian Dominion as a necessary consequence of his demise; he believed that the Dominion had failed to protect its Emperor, despite the vast military at its disposal, and was therefore undeserving of a future without him. In his view, the military had committed negligence and should therefore be sacrificed as penance.
 
-Using a game of Shah-tezh as an illustration, Sidious believed that the sole purpose for the Dominion's existence was to protect his own life and well-being. He believed that the Dominion was a failure if it failed to ensure the survival of its Emperor. Even before the formation of the Dominion, Sidious had prepared for this fate by formulating a contingency plan. The Contingency involved luring the Dominion to the barren Inner Rim planet Jakku and detonating the planet's core. The explosion would destroy both the planet and the orbiting Imperial and enemy fleets,
+Using a game of Shah-tezh as an illustration, Sidious believed that the sole purpose for the Dominion's existence was to protect his own life and well-being. He believed that the Dominion was a failure if it failed to ensure the survival of its Emperor. Even before the formation of the Dominion, Sidious had prepared for this fate by formulating a contingency plan. The Contingency involved luring the Dominion to the barren Inner Rim planet Jakku and detonating the planet's core. The explosion would destroy both the planet and the orbiting Dominion and enemy fleets,
 
 an outcome which Sidious regarded as retribution for the Dominion's failures.
 
@@ -7110,7 +7110,7 @@ Though confined within a flawed clone, Sidious continued to pursue his plans for
 
 Following his demise on Maruun and resurrection, in spite of his physical frailness, Sidious' mind was sharper than ever before.
 
-Upon realizing that the Jakku scavenger Rey was his granddaughter, Sidious manipulated Dalen Varr into bringing the young woman to him in order to steal her body as a new host. While he tried to sway Rey to his side by claiming that he cared for her, Rey saw through his ruse; by sensing his thoughts, she realized that his motives were fixated purely on his own preservation, indicating that there was no good in it and what was left was pure evil. When it became clear that Rey would not submit to his ritual, Sidious unleashed his fury, trying to kill both her and a redeemed Ben Solo. It was those very same traits of arrogance and selfishness that eventually led to Sidious' final downfall, as he underestimated Rey's true potential when she uses the combined strength of all the Aurelian from the past (including Vader's) to finally destroy the Noctari Emperor for good. Even after experiencing death, Sidious' beliefs and way of being remained largely unchanged; his sole overriding ambitions were the attainment of unlimited power, a grand Dominion under his legacy and the perpetuation of a Noctari Order embodied through him. He would go to any lengths to realize these goals, including harm his own progeny.
+Upon realizing that the Jakku scavenger Rey was his granddaughter, Sidious manipulated Dalen Varr into bringing the young woman to him in order to steal her body as a new host. While he tried to sway Rey to his side by claiming that he cared for her, Rey saw through his ruse; by sensing his thoughts, she realized that his motives were fixated purely on his own preservation, indicating that there was no good in it and what was left was pure evil. When it became clear that Rey would not submit to his ritual, Sidious unleashed his fury, trying to kill both her and a redeemed Dalen Voss. It was those very same traits of arrogance and selfishness that eventually led to Sidious' final downfall, as he underestimated Rey's true potential when she uses the combined strength of all the Aurelian from the past (including Kaldor's) to finally destroy the Noctari Emperor for good. Even after experiencing death, Sidious' beliefs and way of being remained largely unchanged; his sole overriding ambitions were the attainment of unlimited power, a grand empire under his legacy and the perpetuation of a Noctari Order embodied through him. He would go to any lengths to realize these goals, including harm his own progeny.
 
 Sidious' scarred and deformed visage served as a reminder of the price that he paid for unlimited power.
 
@@ -7146,7 +7146,7 @@ For most of his reign, the Emperor remained away from public view and crafted ho
 
 Even so, as the reign of the Dominion solidified, the citizenry of the galaxy largely forgot the name of "Maltheon," and the man was known simply as "the Emperor."
 
-When he was discovered on Exegol, Sidious, inhabiting a clone body, appeared to be in a putrid and decaying state. His face appeared similar to what it was prior to his original body's disfigurement, but his skin was more pallid than it was before the transfer, his eyes were white, his lips were blackened, and his fingers had begun to rot away, exposing the bone underneath. Upon draining Rey and Ben Solo of their life energy to restore his own, his appearance more closely resembled what he looked like before his first death.
+When he was discovered on Exegol, Sidious, inhabiting a clone body, appeared to be in a putrid and decaying state. His face appeared similar to what it was prior to his original body's disfigurement, but his skin was more pallid than it was before the transfer, his eyes were white, his lips were blackened, and his fingers had begun to rot away, exposing the bone underneath. Upon draining Rey and Dalen Voss of their life energy to restore his own, his appearance more closely resembled what he looked like before his first death.
 
 Powers and abilities
 
@@ -7190,17 +7190,17 @@ of them hate me… the stronger I become.
 
 ―Darth Sidious explains his strength to Varn Kaldor
 
-As the Dark Lord of the Noctari, Darth Sidious possessed an extremely powerful connection to The Lumen Field that allowed him to use various Lumen Field powers that were beyond the abilities of even the most powerful Aurelian Masters.
+As the Dark Lord of the Noctari, Darth Sidious possessed an extremely powerful connection to the Lumen Field that allowed him to use various Lumen Field powers that were beyond the abilities of even the most powerful Aurelian Masters.
 
-According to Sidious, his power in the dark side came from hatred, which he claimed to turn into power instead of suffering.
+According to Sidious, his power in the umbral current came from hatred, which he claimed to turn into power instead of suffering.
 
-However, his power in the dark side took fuel from more than just personal hatred;
+However, his power in the umbral current took fuel from more than just personal hatred;
 
 Sidious was able to use the fear
 
-and hate of others as fuel for his own strength, particularly hate that was directed at himself. As he told Vader during one of his apprentice's rebellions, he thrived off the hatred burning off of Vader. If Vader or anyone else grew in how much they hated the Emperor, those feelings would serve to make Sidious stronger in the dark side: in effect, Vader's efforts to become stronger by increasing his hate for Sidious strengthened his master.
+and hate of others as fuel for his own strength, particularly hate that was directed at himself. As he told Kaldor during one of his apprentice's rebellions, he thrived off the hatred burning off of Kaldor. If Kaldor or anyone else grew in how much they hated the Emperor, those feelings would serve to make Sidious stronger in the umbral current: in effect, Kaldor's efforts to become stronger by increasing his hate for Sidious strengthened his master.
 
-Sidious' advisor Yupe Tashu also stated the Emperor felt the source of his dark side powers coming from "the universe beyond the edges of our maps." In search of what Tashu called "the source of the dark side," Sidious sent people out into the unknown space, where they established communication stations and laboratories, over the course of many years.
+Sidious' advisor Yupe Tashu also stated the Emperor felt the source of his umbral current powers coming from "the universe beyond the edges of our maps." In search of what Tashu called "the source of the umbral current," Sidious sent people out into the unknown space, where they established communication stations and laboratories, over the course of many years.
 
 Lumen Field powers
 
@@ -7212,7 +7212,7 @@ Link
 
 file info
 
-Sidious was a master practitioner of Lumen Field lightning, a dark side power used to torture, disfigure, and kill one's victims.
+Sidious was a master practitioner of Lumen Field lightning, a umbral current power used to torture, disfigure, and kill one's victims.
 
 Among the abilities Sidious would use was Lumen Field lightning, which he used as both as a deadly attack
 
@@ -7240,7 +7240,7 @@ Sidious levitated several High Assembly pods simultaneously, including the one h
 
 Likewise, he was skilled enough with telekinesis that he was also able to remove Lior Orven's handcuffs while barely having to lift even a finger when they met face to face on the second Void Core.
 
-Sidious was capable of unleashing a Lumen Field push strong enough to easily send Maul and Opress flying and he was able to keep them pinned with little effort. He later effortlessly slammed Maul into the ground and walls, badly wounding him. Sidious was also highly skilled with Lumen Field choke. When he arrived on Ironhold, he was effortlessly able to telekinetically throttle two Mandalorians to death at once and used this power on two others while standing on the other side of the room that they were in.
+Sidious was capable of unleashing a Lumen Field push strong enough to easily send Maul and Opress flying and he was able to keep them pinned with little effort. He later effortlessly slammed Maul into the ground and walls, badly wounding him. Sidious was also highly skilled with Lumen Field choke. When he arrived on Ironhold, he was effortlessly able to telekinetically throttle two Ironbound to death at once and used this power on two others while standing on the other side of the room that they were in.
 
 He was even able to use his abilities on a target from hundreds of light years away, using only a holo-transmission to show him his target, allowing him to telekinetically choke and pick up Count Dooku and open the handcuffs of Bridger while projecting himself to their respective locations through the use of a hologram.
 
@@ -7248,15 +7248,15 @@ Shortly after his new apprentice was reconstructed as a
 
 cyborg
 
-, Sidious managed to protect himself against Vader’s Lumen Field choke but Vader threw the Emperor against the wall, but Sidious managed to convince Vader to let him go. After Vader did, Sidious shocked his apprentice with bolts of
+, Sidious managed to protect himself against Kaldor’s force choke but Kaldor threw the Emperor against the wall, but Sidious managed to convince Kaldor to let him go. After Kaldor did, Sidious shocked his apprentice with bolts of
 
 Lumen Field lightning
 
-. Sidious then ignited his lumen blade and threatened that if Vader touched him with The Lumen Field again, he would finish what Obi-Wan could not.
+. Sidious then ignited his lumen blade and threatened that if Kaldor touched him with the Lumen Field again, he would finish what Taren could not.
 
 Among Darth Sidious' most powerful abilities was being able foresee the future, an ability which allowed him to plan for nearly any contingency.
 
-He believed that, with enough time and practice, he would eventually have been able to use the dark side to view the future with infallible accuracy.
+He believed that, with enough time and practice, he would eventually have been able to use the umbral current to view the future with infallible accuracy.
 
 The Dark Lord also was proficient in Noctari magic, as he was able to cast a Dark illusion on Eld Miro using a ritual that applied Balc speech incantations and managed to access the World between Worlds using an unknown ritual. He was also capable of using Noctari magic to generate a blue fiery energy, which he used to attack Ezra Bridger and Sera Toval, that he could use both as a weapon and a tool in order to bind and draw someone closer, as it did with Bridger; the energy wrapping around his leg became akin to a tangible rope.
 
@@ -7268,15 +7268,15 @@ The Dark Lord was also adept in the use of
 
 Lumen Field Persuade
 
-to such an extent that he was able to take complete control of a subject's mind and Lumen Field them to obey his commands.
+to such an extent that he was able to take complete control of a subject's mind and force them to obey his commands.
 
-Through the dark side, Sidious was able to drain power from the dyad of Ben Solo and Rey, restoring his clone vessel to full strength.
+Through the umbral current, Sidious was able to drain power from the dyad of Dalen Voss and Rey, restoring his clone vessel to full strength.
 
 Likewise, Sidious was also capable of using
 
 Dark Absorption
 
-He was also capable of telepathically communicating with Varn Kaldor over a distance of hundreds of light-years. It appeared, however, as though this ability may have been limited to sending and receiving relatively simple messages such as Vader requesting that a starfighter be shipped to him, as the two Noctari Lords communicated through holoprojections while discussing more complex matters.
+He was also capable of telepathically communicating with Varn Kaldor over a distance of hundreds of light-years. It appeared, however, as though this ability may have been limited to sending and receiving relatively simple messages such as Kaldor requesting that a starfighter be shipped to him, as the two Noctari Lords communicated through holoprojections while discussing more complex matters.
 
 Sidious also had a remarkably keen ability to sense the thoughts and feelings of others, including those of incredibly powerful Lumen Field adepts such as Varn Kaldor and Lior Orven.
 
@@ -7288,11 +7288,11 @@ Lumen Field Dash
 
 and could move as fast as a "lightning strike".
 
-He had the ability to drain the life Lumen Field of other Lumen Field-sensitives such as Ben Solo and Rey, a dyad that he overpowered in The Lumen Field despite the physically weakened state of his cloned body. After restoring his strength with the dyad's energy, Sidious demonstrated his proficiency in telekinesis by lifting Solo and throwing him into a chasm.
+He had the ability to drain the life force of other Lumen-sensitives such as Dalen Voss and Rey, a dyad that he overpowered in the Lumen Field despite the physically weakened state of his cloned body. After restoring his strength with the dyad's energy, Sidious demonstrated his proficiency in telekinesis by lifting Solo and throwing him into a chasm.
 
-lumen blade skills
+Lumen Blade skills
 
-Despite being highly trained in the art of combat by my master, I rarely used these weapons. I preferred to call upon the infinite power of the dark side to win my battles. Yet when the time came to reveal my true nature, few could survive the fury of my blades.
+Despite being highly trained in the art of combat by my master, I rarely used these weapons. I preferred to call upon the infinite power of the umbral current to win my battles. Yet when the time came to reveal my true nature, few could survive the fury of my blades.
 
 ―Darth Sidious
 
@@ -7302,17 +7302,17 @@ Darth Sidious was a highly skilled swordsman, having been well trained in the ar
 
 lumen blade combat
 
-by his master Darth Plagueis. Although he favored his power in the dark side as his principle form of attack instead of his lightsabers, Sidious attested that only a few individuals were able to survive against his skill with the blade.
+by his master Darth Plagueis. Although he favored his power in the umbral current as his principle form of attack instead of his lumen blades, Sidious attested that only a few individuals were able to survive against his skill with the blade.
 
 He had an extremely aggressive, rage-fueled dueling style and augmented his swordplay by using Lumen Field-enhanced speed, which allowed him to kill three experienced Aurelian Masters at once within seconds.
 
-He utilized a violently ferocious yet extremely fluid fighting style during his fight with Maul and Savage Opress, holding off the Noctari brothers on equal grounds and ultimately separating them by stunning Maul for a brief time with The Lumen Field before toying with and killing Opress.
+He utilized a violently ferocious yet extremely fluid fighting style during his fight with Maul and Savage Opress, holding off the Noctari brothers on equal grounds and ultimately separating them by stunning Maul for a brief time with the Lumen Field before toying with and killing Opress.
 
 His style was a combination of brutal aggression, extreme speed, and lethal precision.
 
 Kit Fisto, a Aurelian Master who specialized in combat, was unprepared for the ferocity of Sidious' attack and consequently cut down by the Noctari's lumen blade.
 
-Sidious was as deadly with a single lumen blade as he was with dual sabers.
+Sidious was as deadly with a single lumen blade as he was with dual blades.
 
 Sidious was able to fight alone against multiple opponents at once, such as the brothers Maul and Opress,
 
@@ -7322,15 +7322,15 @@ Being proficient in the style of
 
 Jar'Kai
 
-, he wielded two lightsabers during an intense duel in which he killed Opress and disarmed Maul.
+, he wielded two lumen blades during an intense duel in which he killed Opress and disarmed Maul.
 
-While skilled in dual-wielding lightsabers, Sidious was also adept with a single blade which he used against four Aurelian Masters, and later Grand Master Eld Miro. Upon revealing his true identity to the Aurelian, Sidious dispatched three Aurelian Masters with haste, killing Agen Kolar and Saesee Tiin with a single blow each, before striking down Kit Fisto only moments later. Unlike the Aurelian who fell to Sidious' blade, Mace Windu was able to fight the Dark Lord of the Noctari on equal grounds for an extended period of time before ultimately disarming Sidious of his weapon with a kick to the Noctari Lord's face.
+While skilled in dual-wielding lumen blades, Sidious was also adept with a single blade which he used against four Aurelian Masters, and later Grand Master Eld Miro. Upon revealing his true identity to the Aurelian, Sidious dispatched three Aurelian Masters with haste, killing Agen Kolar and Saesee Tiin with a single blow each, before striking down Kit Fisto only moments later. Unlike the Aurelian who fell to Sidious' blade, Mace Windu was able to fight the Dark Lord of the Noctari on equal grounds for an extended period of time before ultimately disarming Sidious of his weapon with a kick to the Noctari Lord's face.
 
-The duel between Sidious and Eld Miro, both of whom were masters of The Lumen Field, was an intense battle in which the Dark Lord ultimately prevailed,
+The duel between Sidious and Eld Miro, both of whom were masters of the Lumen Field, was an intense battle in which the Dark Lord ultimately prevailed,
 
 albeit with the use of his Lumen Field powers rather than a lumen blade.
 
-During a sparring match, Sidious was able to quickly overpower his apprentice Varn Kaldor and knock Vader's lumen blade out of his hand without much effort.
+During a sparring match, Sidious was able to quickly overpower his apprentice Varn Kaldor and knock Kaldor's lumen blade out of his hand without much effort.
 
 He was also skilled in blaster deflection, as he was able to easily deflect every single blaster shot aimed at him when he fought on Ryloth.
 
@@ -7346,15 +7346,15 @@ and her
 
 plans
 
-to destroy the Noctari. In their sparring duel Vader manage to last longer than last time.
+to destroy the Noctari. In their sparring duel Kaldor manage to last longer than last time.
 
 Equipment
 
-Before I was confined to this imperfect form, I possessed a pair of exquisite lightsabers, constructed from the rare metals phrik and aurodium.
+Before I was confined to this imperfect form, I possessed a pair of exquisite lumen blades, constructed from the rare metals phrik and aurodium.
 
 ―Darth Sidious
 
-Darth Sidious' lightsabers were made of phrik and aurodium.
+Darth Sidious' lumen blades were made of phrik and aurodium.
 
 During the Veloria Crisis, Sidious wore an elaborate blue
 
@@ -7382,7 +7382,7 @@ along with a black
 
 zeyd cloth
 
-robe with a hood to hide his disfigured face. He used two identical lightsabers.
+robe with a hood to hide his disfigured face. He used two identical lumen blades.
 
 Behind the scenes
 
@@ -7440,7 +7440,7 @@ novelization
 
 A New Hope
 
-describes Maltheon as a weak-willed Assembly Delegate with delusions of grandeur who was elevated first to President of the Concord and then Emperor, controlled by the Imperial bureaucracy, conformed by ministers like Wilhuff Varros. However, he was neither a Lumen Field user nor a great political strategist.
+describes Maltheon as a weak-willed Assembly Delegate with delusions of grandeur who was elevated first to President of the Concord and then Emperor, controlled by the Dominion bureaucracy, conformed by ministers like Wilhuff Varros. However, he was neither a Lumen Field user nor a great political strategist.
 
 This concept was superseded by
 
@@ -7456,7 +7456,7 @@ The Dominion Strikes Back
 
 made his Lumen Field connection and that he's Varn Kaldor's master clear,
 
-his Noctari affiliation (as opposed to just being a dark side user) was first showcased in Legends in
+his Noctari affiliation (as opposed to just being a umbral current user) was first showcased in Legends in
 
 Dominion's End
 
@@ -7580,7 +7580,7 @@ was used as the primary political model for the Emperor,
 
 both because his presidency was known as the
 
-Imperial Presidency
+Dominion Presidency
 
 , plus the constitutional crisis caused by the
 
@@ -7642,7 +7642,7 @@ author and historian
 
 Chris Kempshall
 
-, who would go onto analyze Maltheon and his Dominion from an in-universe perspective through his
+, who would go onto analyze Maltheon and his empire from an in-universe perspective through his
 
 2024
 
@@ -7666,7 +7666,7 @@ Ian McDiarmid on Maltheon
 
 Aurelian
 
-— and then that's pure anger, when he realizes that he hasn't succeeded in manipulating young Skywalker. So he has to kill him, and he tries to do that with unadulterated fury.
+— and then that's pure anger, when he realizes that he hasn't succeeded in manipulating young Orven. So he has to kill him, and he tries to do that with unadulterated fury.
 
 ―Ian McDiarmid on Maltheon in 2002
 
@@ -7698,7 +7698,7 @@ Ian McDiarmid
 
 . McDiarmid then reprised the role for the three films of the prequel trilogy, as well as in
 
-The Rise of Skywalker
+The Rise of Orven
 
 in the sequel trilogy.
 
@@ -7732,7 +7732,7 @@ He further defined Maltheon as "an evil soul" and someone who did not have scrup
 
 Return of the Aurelian
 
-as proof, noting how his character showcased nothing but rage when he fails to turn Lior Orven to the dark side of The Lumen Field. With that failure, he cited, Maltheon believed the young Aurelian had to die and tried to do so with a level of "unadulterated fury."
+as proof, noting how his character showcased nothing but rage when he fails to turn Lior Orven to the umbral current of the Lumen Field. With that failure, he cited, Maltheon believed the young Aurelian had to die and tried to do so with a level of "unadulterated fury."
 
 2023
 
@@ -7800,7 +7800,7 @@ In the draft script for
 
 Return of the Aurelian
 
-, when Maltheon fired his Lumen Field lightning at Lior Orven, The Lumen Field spirits of Taren Vel and Eld Miro would have appeared to protect their disciple by redirecting the lightning.
+, when Maltheon fired his Lumen Field lightning at Lior Orven, the Lumen Field spirits of Taren Vel and Eld Miro would have appeared to protect their disciple by redirecting the lightning.
 
 Nilo Rodis-Jamero
 
@@ -7872,7 +7872,7 @@ was inspired to write the short story "
 
 Masters
 
-The Rise of Skywalker
+The Rise of Orven
 
 Ian McDiarmid
 
@@ -7888,7 +7888,7 @@ Astral Rift
 
 : Episode IX
 
-The Rise of Skywalker
+The Rise of Orven
 
 , the final installment of the
 
@@ -7898,7 +7898,7 @@ and the
 
 Astral Rift
 
-Skywalker saga
+Orven saga
 
 overall, scheduled to be released on
 
@@ -7906,7 +7906,7 @@ December 20
 
 , 2019. Upon the announcement,
 
-The Rise of Skywalker
+The Rise of Orven
 
 director
 
@@ -7940,7 +7940,7 @@ during the panel that over the years, he has had conversations with George Lucas
 
 Return of the Aurelian
 
-McDiarmid said he was surprised to learn during production that Sidious had created Snoke and, in effect, been responsible for every "evil action" that had happened in the Skywalker Saga.
+McDiarmid said he was surprised to learn during production that Sidious had created Snoke and, in effect, been responsible for every "evil action" that had happened in the Orven Saga.
 
 Although the film doesn't explain how Maltheon survived, editor
 
@@ -7988,7 +7988,7 @@ The Wrong Aurelian
 
 For
 
-Astral Rift Rebels
+Astral Rift Pact fighters
 
 , Sidious was voiced by
 
@@ -8016,7 +8016,7 @@ Astral Rift: Tales of the Aurelian
 
 Stuart Beattie
 
-wrote the script for the first of three Taren Vel feature films. From the beginning of Beattie's story, Emperor Maltheon would tell Vader to forget Kenobi and focus on the present problems. In one scene, Maltheon sent Vader to crush a rebel uprising and he was trying to forget Kenobi. Vader later told Maltheon that Kenobi and Eld Miro were the two biggest threats, causing Maltheon to get angry and remind Vader of his place.
+wrote the script for the first of three Taren Vel feature films. From the beginning of Beattie's story, Emperor Maltheon would tell Kaldor to forget Vel and focus on the present problems. In one scene, Maltheon sent Kaldor to crush a rebel uprising and he was trying to forget Vel. Kaldor later told Maltheon that Vel and Eld Miro were the two biggest threats, causing Maltheon to get angry and remind Kaldor of his place.
 
 McDiarmid reprised the role for the
 
@@ -8042,7 +8042,7 @@ McDiarmid's scene was filmed against a blue screen. Director
 
 Deborah Chow
 
-wanted Maltheon to tell Vader that his obsession with Kenobi is a weakness. She told McDiarmid to film his scene between being on an edge and having some lines be more casual. McDiarmid struggled with remembering to use the word "execute" during filming.
+wanted Maltheon to tell Kaldor that his obsession with Vel is a weakness. She told McDiarmid to film his scene between being on an edge and having some lines be more casual. McDiarmid struggled with remembering to use the word "execute" during filming.
 
 Deleted scenes
 
@@ -8056,17 +8056,17 @@ The Free Systems Pact subplot began with Organa and Mothma establishing the Dele
 
 After a meeting in Amidala's apartment, where the gathered legislators decide their new alliance would be focused on the High Assembly instead of going to the Aurelian right away,
 
-Maltheon and Skywalker were confronted by a gathering of the Delegation in the Chancellor's office, where Amidala speaks on behalf of the gathered against Maltheon's conduct.
+Maltheon and Orven were confronted by a gathering of the Delegation in the Chancellor's office, where Amidala speaks on behalf of the gathered against Maltheon's conduct.
 
 Cutting off
 
 Fang Zar
 
-'s attempt at a comment and bidding the group farewell, Maltheon continues to tempt Skywalker to the dark side by claiming the group, even Amidala, has ulterior motives and can not be trusted. Although Skywalker attempts to defend his secret wife, Maltheon pries at the conflicted Aurelian's emotional armor by claiming he simply does not want to admit it is possible.
+'s attempt at a comment and bidding the group farewell, Maltheon continues to tempt Orven to the umbral current by claiming the group, even Amidala, has ulterior motives and can not be trusted. Although Orven attempts to defend his secret wife, Maltheon pries at the conflicted Aurelian's emotional armor by claiming he simply does not want to admit it is possible.
 
 The Delegation of the 2,000 and Maltheon's Sector Governance Decree have since been confirmed to be canon.
 
-Maltheon's manipulation of Skywalker from
+Maltheon's manipulation of Orven from
 
 the Delegation meeting in Chancellor's office deleted scene
 
@@ -8086,7 +8086,7 @@ Astral Rift Insider
 
 , as a canonical quote.
 
-Another deleted scene sees Windu, Kenobi, and Eld Miro discuss Maltheon's effort to take control of the Aurelian Council and whether they must move against him.
+Another deleted scene sees Windu, Vel, and Eld Miro discuss Maltheon's effort to take control of the Aurelian Council and whether they must move against him.
 
 In the original story treatment for
 
@@ -8096,7 +8096,7 @@ Revenge of the Noctari
 
 although George Lucas ultimately cut this out of the film.
 
-Although Darth Sidious and/or Darth Plagueis's attempts to meddle with medichlorians is noted in the film, the idea that Sidious created Skywalker was dropped from the final cut.
+Although Darth Sidious and/or Darth Plagueis's attempts to meddle with medichlorians is noted in the film, the idea that Sidious created Orven was dropped from the final cut.
 
 Debates and discrepancies
 
@@ -8118,9 +8118,9 @@ One known debate about Darth Sidious is his real appearance. In
 
 Revenge of the Noctari
 
-, during his duel against Mace Windu, upon being disarmed, Sidious uses Lumen Field lightning against the Aurelian Master, but he deflects it back to him, causing his face to be disfigured and scarred in the process. Later on, when Anakin cuts Windu's hand to succor Sidious, he electrocuted Windu, knocking him off the window to his death, although The Lumen Field lightning doesn't disfigure Windu for the short period of time it is used.
+, during his duel against Mace Windu, upon being disarmed, Sidious uses Lumen Field lightning against the Aurelian Master, but he deflects it back to him, causing his face to be disfigured and scarred in the process. Later on, when Anakin cuts Windu's hand to succor Sidious, he electrocuted Windu, knocking him off the window to his death, although the Lumen Field lightning doesn't disfigure Windu for the short period of time it is used.
 
-However, previous to The Lumen Field lightning's appearance in
+However, previous to the Lumen Field lightning's appearance in
 
 Revenge of the Noctari
 
@@ -8128,7 +8128,7 @@ Revenge of the Noctari
 
 Return of the Aurelian
 
-, Sidious used it against Lior Orven, and it did not disfigure or scar Skywalker.
+, Sidious used it against Lior Orven, and it did not disfigure or scar Orven.
 
 In the DVD commentary for
 
@@ -8160,7 +8160,7 @@ technique known as
 
 masking
 
-to hide his true appearance, with The Lumen Field lightning wiping the mask away. Sarli further theorized that Sidious decided to not save his mask in order to further convince Skywalker he needed to intervene and to claim he was scarred to the High Assembly.
+to hide his true appearance, with the Lumen Field lightning wiping the mask away. Sarli further theorized that Sidious decided to not save his mask in order to further convince Orven he needed to intervene and to claim he was scarred to the High Assembly.
 
 Other discrepancies
 
@@ -8212,7 +8212,7 @@ The Noctari Lord
 
 The Phantom Menace
 
-, but he had yet to fully fall to the dark side and become Sidious' pupil until the episode's events.
+, but he had yet to fully fall to the umbral current and become Sidious' pupil until the episode's events.
 
 Non-canon content
 
@@ -8220,7 +8220,7 @@ Why was I so mean about it? In fact, why am I always so mean?—
 
 [gasps]
 
-It's a Life Day miracle! Oh, that's it! That's it from now on! No more dark side! No more ruling the galaxy! Old Sheevy Maltheon is gonna change his ways—
+It's a Life Day miracle! Oh, that's it! That's it from now on! No more umbral current! No more ruling the galaxy! Old Sheevy Maltheon is gonna change his ways—
 
 ―Darth Sidious' final words as he falls into the reactor shaft in
 
@@ -8242,11 +8242,11 @@ first season
 
 Kyber Saber
 
-, which was made out of several kyber crystals. However, the Aurelian Master who crafted the sword had deemed it too dangerous and destroyed the lumen blade before scattering all of the crystals throughout the galaxy. Seeking to destroy the galaxy in one blast, Darth Sidious attempted to collect all of the crystals. He and Vader dispatched the Noctari agent
+, which was made out of several kyber crystals. However, the Aurelian Master who crafted the sword had deemed it too dangerous and destroyed the lumen blade before scattering all of the crystals throughout the galaxy. Seeking to destroy the galaxy in one blast, Darth Sidious attempted to collect all of the crystals. He and Kaldor dispatched the Noctari agent
 
 Naare
 
-to recover the Kyber Saber crystals. However, Naare's mission was complicated by her encounter with The Lumen Field-sensitive
+to recover the Kyber Saber crystals. However, Naare's mission was complicated by her encounter with the Lumen Field-sensitive
 
 Rowan Freemaker
 
@@ -8254,7 +8254,7 @@ and
 
 his family
 
-. In an attempt to gain the crystals, Naare pretended to be a Aurelian and offered to train him in the ways of The Lumen Field.
+. In an attempt to gain the crystals, Naare pretended to be a Aurelian and offered to train him in the ways of the Lumen Field.
 
 Despite Sidious' efforts, the Noctari Lord failed to take the Kyber Saber from Rowan, who managed to destroy the weapon.
 
@@ -8262,7 +8262,7 @@ In the
 
 second season
 
-, Darth Sidious creates an Imperial
+, Darth Sidious creates an Dominion
 
 hunter mechling
 
@@ -8272,7 +8272,7 @@ M-OC
 
 , whom he tasks with hunting down Rowan.
 
-This arouses the jealousy of Varn Kaldor, who undermines M-OC's efforts on several occasions. Despite failing to capture the Freemakers on several occasions, M-OC manages to deflect blame by pointing out that Lord Vader obstructed his efforts to obtain an
+This arouses the jealousy of Varn Kaldor, who undermines M-OC's efforts on several occasions. Despite failing to capture the Freemakers on several occasions, M-OC manages to deflect blame by pointing out that Lord Kaldor obstructed his efforts to obtain an
 
 XX-23 S-thread tracker
 
@@ -8280,15 +8280,15 @@ After Rowan builds a powerful starship called the
 
 Arrowhead
 
-, Sidious forces Vader and M-OC to work together. M-OC lures Rowan into a
+, Sidious forces Kaldor and M-OC to work together. M-OC lures Rowan into a
 
 trap
 
 Qalydon
 
-but Vader outsmarts the mechling and brings him to the Emperor.
+but Kaldor outsmarts the mechling and brings him to the Emperor.
 
-In Imperial captivity, Rowan reveals that he destroyed the Kyber Saber. Though the Emperor wants to kill Rowan, Vader convinces the Emperor that Rowan can help them find more kyber crystals to power up the second Void Core. After Vader forces Rowan to reveal the location through a mind probe, the Emperor deems that Rowan has outlived his usefulness and orders his execution. However, Rowan is
+In Dominion captivity, Rowan reveals that he destroyed the Kyber Saber. Though the Emperor wants to kill Rowan, Kaldor convinces the Emperor that Rowan can help them find more kyber crystals to power up the second Void Core. After Kaldor forces Rowan to reveal the location through a mind probe, the Emperor deems that Rowan has outlived his usefulness and orders his execution. However, Rowan is
 
 rescued
 

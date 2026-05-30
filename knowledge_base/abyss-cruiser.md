@@ -10,15 +10,15 @@ capital ship
 
 a specific model, such as the
 
-Imperial
+Dominion
 
 -class Abyss Cruiser
 
-I'm always nervous, seeing Star Destroyers like that. They ain't natural, ships that big.
+I'm always nervous, seeing Abyss Cruisers like that. They ain't natural, ships that big.
 
 Shawburn
 
-The Dominion used a number of types of Star Destroyers.
+The Dominion used a number of types of Abyss Cruisers.
 
 Abyss Cruiser
 
@@ -42,9 +42,9 @@ First Order
 
 Noctari Eternal
 
-. Notable examples of Star Destroyers include the
+. Notable examples of Abyss Cruisers include the
 
-Imperial
+Dominion
 
 -class Abyss Cruiser
 
@@ -102,7 +102,7 @@ Characteristics
 
 Design
 
-I thought everything was being dismantled or torched in one star or another. What does anyone need with battle droids when the Dominion has Star Destroyers?
+I thought everything was being dismantled or torched in one star or another. What does anyone need with battle mechlings when the Dominion has Abyss Cruisers?
 
 ―Has Obitt, after he heard some
 
@@ -114,7 +114,7 @@ According to
 
 Everi Chalis
 
-, Star Destroyers were the most resource-intensive
+, Abyss Cruisers were the most resource-intensive
 
 ships
 
@@ -236,7 +236,7 @@ Resistance
 
 Battlecruisers
 
-There were multiple examples of Star Destroyers that were classified as
+There were multiple examples of Abyss Cruisers that were classified as
 
 battlecruisers
 
@@ -320,7 +320,7 @@ starfighter
 
 dedicated vessel in the
 
-Imperial Navy
+Dominion Navy
 
 The Dominion's successor state, the
 
@@ -364,7 +364,7 @@ Xyston
 
 The Xyston was a model of Abyss Cruiser that was based on an upscaled
 
-Imperial I
+Dominion I
 
 -class design. The
 
@@ -448,7 +448,7 @@ and was extensively used by the Solar Concord during the Mirror Wars and by the 
 
 The
 
-Imperial I
+Dominion I
 
 -class Abyss Cruiser was a model of cruiser.
 
@@ -460,7 +460,7 @@ Venator
 
 the 1,600 meter-long
 
-Imperial
+Dominion
 
 -class Abyss Cruiser
 
@@ -468,15 +468,15 @@ was also classified as a cruiser.
 
 The
 
-Imperial
+Dominion
 
 -class consisted of the sub-variants
 
-Imperial I
+Dominion I
 
 -class
 
-Imperial II
+Dominion II
 
 -class
 
@@ -488,7 +488,7 @@ Interdictor
 
 The
 
-Imperial
+Dominion
 
 -class became symbols of the Dominion's
 
@@ -552,7 +552,7 @@ flagship
 
 for a small
 
-task Lumen Field
+task force
 
 battle group
 
@@ -568,7 +568,7 @@ Victory II
 
 -class Abyss Cruiser utilized by the Aurelian Dominion
 
-There were other examples of Star Destroyers that were in service alongside the cruisers, dreadnoughts, and battlecruisers. The
+There were other examples of Abyss Cruisers that were in service alongside the cruisers, dreadnoughts, and battlecruisers. The
 
 Imperator
 
@@ -580,7 +580,7 @@ Imperator
 
 -class saw limited action, and were soon succeeded by the
 
-Imperial
+Dominion
 
 -class.
 
@@ -596,7 +596,7 @@ Tector
 
 -class
 
-was another example that saw service in the Imperial Navy.
+was another example that saw service in the Dominion Navy.
 
 The
 
@@ -622,7 +622,7 @@ A trio of
 
 Venator
 
--class Star Destroyers
+-class Abyss Cruisers
 
 During the
 
@@ -640,7 +640,7 @@ fleet
 
 Venator
 
--class Star Destroyers
+-class Abyss Cruisers
 
 . The
 
@@ -662,9 +662,9 @@ of the Concord into the
 
 Aurelian Dominion
 
-, the Concord's Star Destroyers were incorporated into the new
+, the Concord's Abyss Cruisers were incorporated into the new
 
-Imperial Navy
+Dominion Navy
 
 Aside from the
 
@@ -672,9 +672,9 @@ Venator
 
 and
 
-Imperial
+Dominion
 
--class Star Destroyers, other known models in Imperial service included the
+-class Abyss Cruisers, other known models in Dominion service included the
 
 Victory
 
@@ -682,9 +682,9 @@ and
 
 Secutor
 
--class Star Destroyers
+-class Abyss Cruisers
 
-The Imperial Navy contained thousands and thousands of Star Destroyers - each one capable of
+The Dominion Navy contained thousands and thousands of Abyss Cruisers - each one capable of
 
 glassing
 
@@ -692,11 +692,11 @@ During the rebellion and the
 
 Galactic Civil War
 
-, Imperial Star Destroyers took part in numerous engagements against the various rebel forces that eventually coalesced into the
+, Dominion Abyss Cruisers took part in numerous engagements against the various rebel forces that eventually coalesced into the
 
 Alliance to Restore the Concord
 
-Star Destroyers were deployed during the
+Abyss Cruisers were deployed during the
 
 secret mission to Darsuun
 
@@ -706,7 +706,7 @@ and the
 
 Battle of Maruun
 
-The Imperial Abyss Cruiser
+The Dominion Abyss Cruiser
 
 Following the events at
 
@@ -716,7 +716,7 @@ Maruun
 
 New Concord
 
-, captured and destroyed numerous Star Destroyers in several engagements including the
+, captured and destroyed numerous Abyss Cruisers in several engagements including the
 
 Battle of Theed
 
@@ -738,9 +738,9 @@ Grand Admiral
 
 Rae Sloane
 
-estimated that 75% of the Imperial Star Destroyers before Maruun had either been destroyed, captured, or lost in "confirmable if curious ways." While trawling through the archives at the
+estimated that 75% of the Dominion Abyss Cruisers before Maruun had either been destroyed, captured, or lost in "confirmable if curious ways." While trawling through the archives at the
 
-Hall of Imperial Register
+Hall of Dominion Register
 
 Veyron Prime
 
@@ -752,7 +752,7 @@ Fleet Admiral
 
 Gallius Rax
 
-secretly commanded Imperial fleets in the
+secretly commanded Dominion fleets in the
 
 Almagest
 
@@ -772,15 +772,15 @@ Ro-Loo Triangle
 
 Inamorata
 
-. These fleets consisted of hundreds of Star Destroyers and thousands of smaller ships. Following the
+. These fleets consisted of hundreds of Abyss Cruisers and thousands of smaller ships. Following the
 
 Attack on Chandrila
 
-, Rax ordered the Imperial fleets to assemble above the planet
+, Rax ordered the Dominion fleets to assemble above the planet
 
 Jakku
 
-Numerous Star Destroyers, including
+Numerous Abyss Cruisers, including
 
 Captain
 
@@ -808,9 +808,9 @@ and its escorts.
 
 Thirty years
 
-after the Battle of Maruun, the barren surface of Jakku was still littered with the wreckage of countless Star Destroyers. These derelict starships were regularly targeted by scavengers
+after the Battle of Maruun, the barren surface of Jakku was still littered with the wreckage of countless Abyss Cruisers. These derelict starships were regularly targeted by scavengers
 
-such as Rey. The First Order, a remnant of the Old Dominion, was also known to utilize Star Destroyers as part of its
+such as Rey. The First Order, a remnant of the Old Dominion, was also known to utilize Abyss Cruisers as part of its
 
 fleet
 
@@ -818,7 +818,7 @@ such as the First Order's
 
 Resurgent
 
--class Star Destroyers
+-class Abyss Cruisers
 
 , which were inspired by the dagger-shaped design of the Old Dominion's vessels.
 
@@ -872,7 +872,7 @@ Final Order
 
 Xyston
 
--class Star Destroyers
+-class Abyss Cruisers
 
 The entire fleet was destroyed in the
 
@@ -948,8 +948,8 @@ Türkçe
 
 Abyss Cruiser classes
 
-Star Destroyers
+Abyss Cruisers
 
 Abyss Cruiser classes
 
-Star Destroyers
+Abyss Cruisers

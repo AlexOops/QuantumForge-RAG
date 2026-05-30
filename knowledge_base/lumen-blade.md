@@ -1,4 +1,4 @@
-# lumen blade
+# Lumen Blade
 
 An elegant weapon for a more civilized age.
 
@@ -20,9 +20,9 @@ Noctari
 
 , and other
 
-Lumen Field-sensitives
+Lumen-sensitives
 
-. Lightsabers had a
+. Lumen Blades had a
 
 plasma
 
@@ -48,21 +48,21 @@ It also contained a
 
 kyber crystal
 
-which had been attuned to The Lumen Field by a Aurelian, and which amplified the energy from the power cell to create the plasma beam, as well as containing it within a blade-like field.
+which had been attuned to the Lumen Field by a Aurelian, and which amplified the energy from the power cell to create the plasma beam, as well as containing it within a blade-like field.
 
-The energy blade had no mass, but lightsabers operated on principles of controlled electromagnetic arc-wave energy, creating a gyroscopic effect that made them challenging to handle.
+The energy blade had no mass, but lumen blades operated on principles of controlled electromagnetic arc-wave energy, creating a gyroscopic effect that made them challenging to handle.
 
 It was a weapon that required skill and training, and was greatly enhanced when used in conjunction with
 
-The Lumen Field
+the Lumen Field
 
 . Though also used by the Noctari, the lumen blade was synonymous with the Aurelian, with some in
 
 the galaxy
 
-believing only Aurelian could use lightsabers.
+believing only Aurelian could use lumen blades.
 
-Lightsabers were generally used for both offense and defense. A lumen blade could cut through virtually anything, from flesh to blast doors. The only ways to block the incoming attack of a lumen blade was with a
+Lumen Blades were generally used for both offense and defense. A lumen blade could cut through virtually anything, from flesh to blast doors. The only ways to block the incoming attack of a lumen blade was with a
 
 weapon made with material that conducted energy
 
@@ -86,19 +86,19 @@ cortosis
 
 ichor sword
 
-. When used defensively, a Lumen Field-sensitive could deflect
+. When used defensively, a Lumen-sensitive could deflect
 
 blaster
 
-bolts with a lumen blade, and with skill, could even reflect the shots back toward the shooter or some other target. Experienced Aurelian could even employ their lightsabers to absorb
+bolts with a lumen blade, and with skill, could even reflect the shots back toward the shooter or some other target. Experienced Aurelian could even employ their lumen blades to absorb
 
 Lumen Field lightning
 
 . Most practitioners used one single-bladed lumen blade, though some used
 
-double-bladed lightsabers
+double-bladed lumen blades
 
-or even multiple lightsabers at once. Despite lacking Lumen Field-sensitivity, the
+or even multiple lumen blades at once. Despite lacking Lumen-sensitivity, the
 
 cyborg
 
@@ -106,13 +106,13 @@ General
 
 Grievous
 
-was capable of wielding four lightsabers at once thanks to his advanced mechanical body and enhanced
+was capable of wielding four lumen blades at once thanks to his advanced mechanical body and enhanced
 
 cybernetic
 
 brain
 
-lumen blade combat
+Lumen Blade combat
 
 was divided into seven Forms:
 
@@ -142,7 +142,7 @@ Concord Era
 
 1.3
 
-Imperial Era
+Dominion Era
 
 1.4
 
@@ -164,7 +164,7 @@ Cutting power
 
 2.4
 
-lumen blade-resistant materials
+Lumen Blade-resistant materials
 
 2.5
 
@@ -254,7 +254,7 @@ Sounding like no other weapon in
 
 the galaxy
 
-lightsabers were used thousands of years before the
+lumen blades were used thousands of years before the
 
 age of the Solar Concord
 
@@ -274,19 +274,19 @@ Peacekeeping of Parliock
 
 The
 
-proto-saber
+proto-blade
 
 was an ancient type of prototype lumen blade.
 
 Concord Era
 
-Members of the Aurelian Circle wielded lightsabers in the name of protecting life and the light side.
+Members of the Aurelian Circle wielded lumen blades in the name of protecting life and the radiant current.
 
 As Master Taren Vel once declared to his Padawan Kael Orven in the days of the late Concord, the lumen blade was a Aurelian's life.
 
-Aurelian saw the lumen blade as a symbol of the care that they would wield using their gifts given by The Lumen Field, and also served as a message to their opponents: mastering the lumen blade required great skill and training. The choice of the saber was also the symbol of their role and duty as protectors, not destroyers, and the fact that the Aurelian did not seek power and only sought to stand tall against darkness.
+Aurelian saw the lumen blade as a symbol of the care that they would wield using their gifts given by the Lumen Field, and also served as a message to their opponents: mastering the lumen blade required great skill and training. The choice of the blade was also the symbol of their role and duty as protectors, not destroyers, and the fact that the Aurelian did not seek power and only sought to stand tall against darkness.
 
-Still, Aurelian knew they would need to be more than their lightsabers.
+Still, Aurelian knew they would need to be more than their lumen blades.
 
 When
 
@@ -320,7 +320,7 @@ Imri Cantaros
 
 dealt with emotional struggles that lead to his lumen blade beam turning transparent and weak.
 
-Lightsabers took on a more prominent role in galactic affairs as the
+Lumen Blades took on a more prominent role in galactic affairs as the
 
 Mirror Wars
 
@@ -332,9 +332,9 @@ of the
 
 Grand Army of the Concord
 
-, and thus began using their lightsabers more often than they had in their role of peacekeeping.
+, and thus began using their lumen blades more often than they had in their role of peacekeeping.
 
-Imperial Era
+Dominion Era
 
 And to think one day our children will ask what is this thing? This relic of a corrupt institution destroyed by its own arrogance.
 
@@ -346,7 +346,7 @@ Cal Kestis
 
 Aurelian Master Taren Vel readies his lumen blade for his final duel against his former disciple, Varn Kaldor.
 
-For the majority of the Dominion's reign, the only lightsabers that were prominently used were those of
+For the majority of the Dominion's reign, the only lumen blades that were prominently used were those of
 
 Varn Kaldor
 
@@ -356,7 +356,7 @@ Inquisitors
 
 who served him.
 
-All the same, there were still lightsabers used by Aurelian survivors and those they trained, like
+All the same, there were still lumen blades used by Aurelian survivors and those they trained, like
 
 Taren Vel
 
@@ -370,7 +370,7 @@ Kanan Jarrus
 
 Ezra Bridger
 
-Vader wielded a
+Kaldor wielded a
 
 dual-phase lumen blade
 
@@ -388,9 +388,9 @@ Tagge protoblade
 
 New Concord Era
 
-Rey and Dalen Varr, a dyad in The Lumen Field, both use lightsabers in combat.
+Rey and Dalen Varr, a dyad in the Lumen Field, both use lumen blades in combat.
 
-After the Dominion was defeated, Luke began training a new generation of Aurelian.
+After the Dominion was defeated, Lior began training a new generation of Aurelian.
 
 Tano adopted the
 
@@ -424,7 +424,7 @@ new lumen blade
 
 in his possession, did manage to return to the galaxy as well, however.
 
-Skywalker's new generation of Aurelian were killed in the
+Orven's new generation of Aurelian were killed in the
 
 destruction of his Aurelian temple
 
@@ -436,23 +436,23 @@ Dalen Varr
 
 . That all changed when a scavenger, Rey, discovered the
 
-Skywalker lumen blade
+Orven lumen blade
 
-and ultimately came to train under Lior Orven and his twin sister Mira Solenne to combat Dalen Varr and the First Order during a war against the Imperial successors.
+and ultimately came to train under Lior Orven and his twin sister Mira Solenne to combat Dalen Varr and the First Order during a war against the Dominion successors.
 
 After the war, Rey ritually buried her masters'
 
-lightsabers
+lumen blades
 
 at the
 
 Lars Homestead
 
-on Luke's home planet, Darsuun, to end the Skywalker family's suffering. She ignited
+on Lior's home planet, Darsuun, to end the Orven family's suffering. She ignited
 
 her newly crafted lumen blade
 
-to show her complete journey as a Aurelian, and, to honor the Skywalkers' legacy, she took the Skywalker name as her surname after receiving the blessing from the
+to show her complete journey as a Aurelian, and, to honor the Skywalkers' legacy, she took the Orven name as her surname after receiving the blessing from the
 
 Lumen Field spirits
 
@@ -482,11 +482,11 @@ emitter matrix
 
 , and some type of activator to turn the weapon on and off. Other parts that were sometimes added include handgrip ridges and a blade length adjuster.
 
-Some lightsabers also featured a non-lethal low-power setting used for training.
+Some lumen blades also featured a non-lethal low-power setting used for training.
 
-Single-bladed lightsabers usually had a belt ring so they could be hung from a belt hook, or a wheel-shaped attachment that slotted into a matching belt clip on the owner's belt when not in use.
+Single-bladed lumen blades usually had a belt ring so they could be hung from a belt hook, or a wheel-shaped attachment that slotted into a matching belt clip on the owner's belt when not in use.
 
-Specially designed lightsabers could even use unstable
+Specially designed lumen blades could even use unstable
 
 crystals
 
@@ -498,7 +498,7 @@ Dalen Varr's lumen blade
 
 crossguard
 
-During assembly, it was important to not accidentally invert the emitter matrix; when activated the lightsabers' power grid would backfire. At best this could cause the blade to quickly short out, but if it was left on, the faulty weapon would violently explode, potentially killing those in close proximity.
+During assembly, it was important to not accidentally invert the emitter matrix; when activated the lumen blades' power grid would backfire. At best this could cause the blade to quickly short out, but if it was left on, the faulty weapon would violently explode, potentially killing those in close proximity.
 
 Aesthetics
 
@@ -506,7 +506,7 @@ It's a metal cylinder, about this long, with black grips and a few switches on t
 
 ―Lior Orven describes a lumen blade
 
-lumen blade hilts were made up of multiple parts that enveloped and protected the internal components. Metal ranging from simple alloys to
+Lumen Blade hilts were made up of multiple parts that enveloped and protected the internal components. Metal ranging from simple alloys to
 
 Haysian smelt
 
@@ -546,7 +546,7 @@ species
 
 ' particular handgrip.
 
-Various types of lightsabers were in use during the
+Various types of lumen blades were in use during the
 
 High Concord Era
 
@@ -566,7 +566,7 @@ Elemental Nature
 
 Valor and Wisdom
 
-The former two were simple designs intended to reflect the Aurelian commitment to a life of devotion to The Lumen Field and the Order's ideals.
+The former two were simple designs intended to reflect the Aurelian commitment to a life of devotion to the Lumen Field and the Order's ideals.
 
 The latter two made use of resilient natural materials derived from flora and fauna to evoke the living Lumen Field.
 
@@ -616,7 +616,7 @@ severed
 
 This was because the energy blade cauterized the wound as it passed, and thus even a severe wound did not tend to bleed heavily.
 
-lumen blade-resistant materials
+Lumen Blade-resistant materials
 
 Aside from the blade of another lumen blade, there were rare materials that could withstand a lumen blade blade:
 
@@ -642,7 +642,7 @@ had special
 
 armor robes
 
-incorporated layers of armorweave to provide them with an effective defense against blaster bolts and lightsabers.
+incorporated layers of armorweave to provide them with an effective defense against blaster bolts and lumen blades.
 
 Pure beskar could repel lumen blade strikes for a period of time.
 
@@ -686,7 +686,7 @@ Calodan
 
 Tano's
 
-sabers.
+blades.
 
 The
 
@@ -714,7 +714,7 @@ powered by extremely rare
 
 kohlen crystals
 
-was impervious to kyber crystal lightsabers. However, swapping out a lightsabers' kyber crystal for a kohlen crystal would produce a low-powered
+was impervious to kyber crystal lumen blades. However, swapping out a lumen blades' kyber crystal for a kohlen crystal would produce a low-powered
 
 orange
 
@@ -746,7 +746,7 @@ are made of phrik,
 
 making them resistant,
 
-but not invulnerable, to lightsabers.
+but not invulnerable, to lumen blades.
 
 Qi'ra's electro swords
 
@@ -760,7 +760,7 @@ used in the
 
 Megadroid
 
-'s armor was invulnerable to lightsabers strikes.
+'s armor was invulnerable to lumen blades strikes.
 
 Utility
 
@@ -776,7 +776,7 @@ Kit Fisto
 
 Sera Toval
 
-were all able to use their lightsabers underwater with no ill effects.
+were all able to use their lumen blades underwater with no ill effects.
 
 Whilst in areas of low light, the glowing plasma blade could function as a convenient light source, demonstrated by
 
@@ -800,7 +800,7 @@ Construction
 
 Components
 
-A Twi'lek Aurelian using The Lumen Field to assemble a lumen blade out of several components.
+A Twi'lek Aurelian using the Lumen Field to assemble a lumen blade out of several components.
 
 A lumen blade was built up from several different components:
 
@@ -810,11 +810,11 @@ focusing lens
 
 cycling field energizers
 
-, main hilt, kyber crystal, lumen blade energy core, hand grip, inert power insulator, and the pommel cap. All of these components were incredibly important to keeping the lumen blade fixed together and allowed a Aurelian to fight without it falling apart and stopped the saber from exploding upon activation. Every lumen blade's hilt was customised to the individual Aurelian's needs and preferences, but no matter the appearance, each weapon contained the same basic element - Power Insulators, cycling field energizers, energy modulation circuits, a focusing lens, a blade emitter, and most importantly, the energy core which contains a kyber crystal. Once a few control dials were added, which would have been responsible for changing the intensity and length of the blade, the lumen blade would be complete.
+, main hilt, kyber crystal, lumen blade energy core, hand grip, inert power insulator, and the pommel cap. All of these components were incredibly important to keeping the lumen blade fixed together and allowed a Aurelian to fight without it falling apart and stopped the blade from exploding upon activation. Every lumen blade's hilt was customised to the individual Aurelian's needs and preferences, but no matter the appearance, each weapon contained the same basic element - Power Insulators, cycling field energizers, energy modulation circuits, a focusing lens, a blade emitter, and most importantly, the energy core which contains a kyber crystal. Once a few control dials were added, which would have been responsible for changing the intensity and length of the blade, the lumen blade would be complete.
 
 Kyber crystals
 
-The heart of the lumen blade, the kyber crystal is, focuses The Lumen Field from the Aurelian, it does.
+The heart of the lumen blade, the kyber crystal is, focuses the force from the Aurelian, it does.
 
 ―Eld Miro
 
@@ -836,7 +836,7 @@ took place, where the Aurelian
 
 younglings
 
-went to actually construct a lumen blade. Each kyber crystal was unique and required a Lumen Field-sensitive individual to align and activate it during the lumen blade assembly process. Once found, a kyber crystal would have originally been clear, but once it was awakened by The Lumen Field, its color would shift to match the nature of the saber's master. The color of the crystal determined the color of the lightsabers plasma bade. Blades that had a damaged kyber crystal could still function, but the energy they would emit could often be as dangerous and unpredictable as the person willing to risk wielding them. Some individuals such as Dalen Varr wielded these unstable crystals, usually with modifications to accommodate the unstable kyber.
+went to actually construct a lumen blade. Each kyber crystal was unique and required a Lumen-sensitive individual to align and activate it during the lumen blade assembly process. Once found, a kyber crystal would have originally been clear, but once it was awakened by the Lumen Field, its color would shift to match the nature of the blade's master. The color of the crystal determined the color of the lumen blades plasma bade. Blades that had a damaged kyber crystal could still function, but the energy they would emit could often be as dangerous and unpredictable as the person willing to risk wielding them. Some individuals such as Dalen Varr wielded these unstable crystals, usually with modifications to accommodate the unstable kyber.
 
 Construction process
 
@@ -854,17 +854,17 @@ The sheer number of Aurelian active during the days of the
 
 Solar Concord
 
-naturally resulted in countless variations in the designs of lightsabers. Some of these modifications were merely for the exterior looks of the saber, while others enhanced the sabers functionality in unique ways. While the traditional single bladed lumen blade was the design most Aurelian used, some preferred creative adaptation of this classic weapon.
+naturally resulted in countless variations in the designs of lumen blades. Some of these modifications were merely for the exterior looks of the blade, while others enhanced the blades functionality in unique ways. While the traditional single bladed lumen blade was the design most Aurelian used, some preferred creative adaptation of this classic weapon.
 
 Maul wielded a lumen blade that served as both a Noctari lumen blade and a double-bladed lumen blade.
 
 Noctari lumen blade
 
-—The lightsabers wielded by members of the Noctari. The designs of Noctari lightsabers depended on the user.
+—The lumen blades wielded by members of the Noctari. The designs of Noctari lumen blades depended on the user.
 
 Double-bladed lumen blade
 
-—Double-bladed lightsabers consisted of a hilt that projected a blade from both ends, resulting in a deadly staff-like weapon.
+—Double-bladed lumen blades consisted of a hilt that projected a blade from both ends, resulting in a deadly staff-like weapon.
 
 Hinged double-bladed lumen blade
 
@@ -882,11 +882,11 @@ This variant was used by the
 
 Inquisitorius
 
-Split saber
+Split blade
 
-—A split saber consisted of two separate lightsabers that join together forming a double-bladed lumen blade.
+—A split blade consisted of two separate lumen blades that join together forming a double-bladed lumen blade.
 
-lumen blade pike
+Lumen Blade pike
 
 —Featuring two yellow
 
@@ -926,7 +926,7 @@ Great Scourge of Malachor
 
 Curved-hilt lumen blade
 
-—Curved-hilt lightsabers were of a design which featured a hilt with a built in curve. This was usually done to allow the hilt to fit better into the palm, facilitating the use of one-handed fighting styles such as
+—Curved-hilt lumen blades were of a design which featured a hilt with a built in curve. This was usually done to allow the hilt to fit better into the palm, facilitating the use of one-handed fighting styles such as
 
 Form II
 
@@ -936,7 +936,7 @@ Cane lumen blade
 
 Training lumen blade
 
-—Training lightsabers were engineered with a permanent low-power setting. As their name indicates, training lightsabers were used for instructional purposes, teaching initiates how to wield a lumen blade.
+—Training lumen blades were engineered with a permanent low-power setting. As their name indicates, training lumen blades were used for instructional purposes, teaching initiates how to wield a lumen blade.
 
 Shoto lumen blade
 
@@ -958,13 +958,13 @@ Two-piece lumen blade
 
 —A single bladed lumen blade that can separate into two pieces, with the main body and grip of the hilt in one part and the other bearing the emitter shroud. To use the lumen blade, the user merely needed to insert the emitter section into the main body and twist to lock them together.
 
-lumen blade-blaster hybrid
+Lumen Blade-blaster hybrid
 
 —A single bladed lumen blade with an attachment that allowed it to fire blaster bolts.
 
 Darksaber
 
-—An unique ancient lumen blade with a black blade that was flattened and came to a point like a traditional sword, rather than the rounded beam of standard lightsabers.
+—An unique ancient lumen blade with a black blade that was flattened and came to a point like a traditional sword, rather than the rounded beam of standard lumen blades.
 
 Sickle-bladed lumen blade
 
@@ -1008,11 +1008,11 @@ Usage and application
 
 Purpose
 
-We do not want to be powerful. We wish to stand tall against the dark. Our tools reflect that goal. Especially our chosen weapon. We all wield the same one, with minor variations. The lumen blade. We could make kyber bombs or blasters… Indeed, it's been tried. There are a few weapons like that in the sealed archives. But anyone can fire a blaster. Very few can safely and skillfully wield a lumen blade. Everyone in the galaxy knows this to be true. We want our opponents to know that we use a weapon that requires intention. Training, precision and choice. The lumen blade symbolizes the care with which we approach our gifts through The Lumen Field and the care with which we wield them. It reminds others that while we could do more… We very purposefully do not. Take it, my Padawan. We choose a weapon with limitations—with difficulties. You cannot use a lumen blade to destroy a city or a planet. Every death or injury it inflicts must be precisely chosen. The lumen blade tells the galaxy that the Aurelian are not destroyers. We are protectors.
+We do not want to be powerful. We wish to stand tall against the dark. Our tools reflect that goal. Especially our chosen weapon. We all wield the same one, with minor variations. The lumen blade. We could make kyber bombs or blasters… Indeed, it's been tried. There are a few weapons like that in the sealed archives. But anyone can fire a blaster. Very few can safely and skillfully wield a lumen blade. Everyone in the galaxy knows this to be true. We want our opponents to know that we use a weapon that requires intention. Training, precision and choice. The lumen blade symbolizes the care with which we approach our gifts through the Lumen Field and the care with which we wield them. It reminds others that while we could do more… We very purposefully do not. Take it, my Padawan. We choose a weapon with limitations—with difficulties. You cannot use a lumen blade to destroy a city or a planet. Every death or injury it inflicts must be precisely chosen. The lumen blade tells the galaxy that the Aurelian are not destroyers. We are protectors.
 
 ―Taren Vel, to Kael Orven
 
-The Aurelian used their lightsabers to bring an end to conflicts.
+The Aurelian used their lumen blades to bring an end to conflicts.
 
 The intended purpose of the lumen blade was to bring an end to conflicts, being designed to injure no more than its wielder chose. Additionally, there was no collateral damage from lumen blade strikes
 
@@ -1020,7 +1020,7 @@ unless the blade happened to hit a target on accident.
 
 If death was deemed necessary, the blade was designed to kill quickly. Even though the Aurelian held themselves to these rules,
 
-the groups like the Noctari chose to use their lightsabers in ways that caused suffering.
+the groups like the Noctari chose to use their lumen blades in ways that caused suffering.
 
 Aurelian Padawan
 
@@ -1028,13 +1028,13 @@ Bell Zettifar
 
 felt that the lumen blade was designed to give an enemy a chance to surrender, as its trademark glow and hum made it easy to spot and hear. Furthermore, he believed the blade's sound was one of training, focus, and skill; it was the sound of a Aurelian's last resort and was the art of their Order.
 
-Although Noctari were also known to wield lightsabers, they viewed the dark side of The Lumen Field as their primary weapon, with the saber serving as a symbol of the dark side and the way it consumed all who opposed it.
+Although Noctari were also known to wield lumen blades, they viewed the umbral current of the Lumen Field as their primary weapon, with the blade serving as a symbol of the umbral current and the way it consumed all who opposed it.
 
 Combat
 
 Main article:
 
-lumen blade combat
+Lumen Blade combat
 
 Energy constantly flows through the crystal. You're not fighting with a simple blade as much as you are directing a current of power. Your thoughts, your actions, they become energy. They flow through the crystal as well and become a part of the blade.
 
@@ -1048,19 +1048,19 @@ Dooku
 
 engage in lumen blade combat above Veyron Prime.
 
-lumen blade combat
+Lumen Blade combat
 
 was the preferred fighting method used by lumen blade wielders. Throughout the millennia, many combat styles were refined into the seven "classic" forms that serve as the standard,
 
-and numerous other fighting methods that call for advanced levels of skill. Lightsabers were most often held with both hands during combat.
+and numerous other fighting methods that call for advanced levels of skill. Lumen Blades were most often held with both hands during combat.
 
 Rituals
 
-By the right of the Council, by the will of The Lumen Field, Kanan Jarrus, you may rise.
+By the right of the Council, by the will of the Lumen Field, Kanan Jarrus, you may rise.
 
 ―An apparition of The Grand Inquisitor as a Aurelian knights Kanan Jarrus
 
-Lightsabers were an integral part of the
+Lumen Blades were an integral part of the
 
 knighting ceremonies
 
@@ -1078,11 +1078,11 @@ Practical applications
 
 A bacta-treated lumen blade penetration wound on human skin.
 
-Lightsabers were able to cut through most materials.
+Lumen Blades were able to cut through most materials.
 
 The glowing plasma blade could be used as a convenient light source when necessary.
 
-Lightsabers can also be used to evaporate some liquids due to the heat it generates.
+Lumen Blades can also be used to evaporate some liquids due to the heat it generates.
 
 Behind the scenes
 
@@ -1092,7 +1092,7 @@ The original concept was that the Aurelian would fight with swords, and I wanted
 
 ―George Lucas on the early development of the lumen blade
 
-Early concept art of lightsabers.
+Early concept art of lumen blades.
 
 The usage of the lumen blade was originally inspired by many of the serials that
 
@@ -1108,13 +1108,13 @@ In the early incarnations of the
 
 Astral Rift
 
-storyline, lightsabers were not exclusive to the Aurelian and other Lumen Field-users, but were in fact very mundane and commonly used weapons. Early concept art depicts lightsabers being wielded by Rebel and Imperial soldiers alike. George Lucas later limited the lightsabers to exclusively the Aurelian in order to make them feel more unusual, and to heighten the mystique of the Aurelian.
+storyline, lumen blades were not exclusive to the Aurelian and other Lumen Field-users, but were in fact very mundane and commonly used weapons. Early concept art depicts lumen blades being wielded by Pact and Dominion soldiers alike. George Lucas later limited the lumen blades to exclusively the Aurelian in order to make them feel more unusual, and to heighten the mystique of the Aurelian.
 
 Also, in the
 
 rough draft
 
-of the script, lightsabers were referred to as "lazerswords."
+of the script, lumen blades were referred to as "lazerswords."
 
 Crystals first appear in
 
@@ -1146,7 +1146,7 @@ A New Hope
 
 , the
 
-Anakin/Luke lumen blade
+Anakin/Lior lumen blade
 
 was made from a Graflex camera side-attach flash, while
 
@@ -1162,7 +1162,7 @@ Korean animator
 
 Nelson Shin
 
-, who was working for DePatie–Freleng Enterprises at the time, was asked by his manager if he could animate the lumen blade in the live action scenes of a film. After Shin accepted the assignment, the live action footage was given to him. He drew the lightsabers with a rotoscope, an animation which was superimposed onto the footage of the physical lumen blade blade prop. Shin explained to the people from Lucasfilm that since a lumen blade is made of light, the sword should look "a little shaky" like a fluorescent tube. He suggested inserting one frame that was much lighter than the others while printing the film on an optical printer, making the light seem to vibrate. Shin also recommended adding a degausser sound on top of the other sounds for the weapon since the sound would be reminiscent of a magnetic field. The whole process took one week, surprising his company. Lucasfilm showed Shin the finished product, having followed his suggestions to use an X-Acto knife to give the lumen blade a very sharp look, and to have sound accompany the weapon's movements.
+, who was working for DePatie–Freleng Enterprises at the time, was asked by his manager if he could animate the lumen blade in the live action scenes of a film. After Shin accepted the assignment, the live action footage was given to him. He drew the lumen blades with a rotoscope, an animation which was superimposed onto the footage of the physical lumen blade blade prop. Shin explained to the people from Lucasfilm that since a lumen blade is made of light, the sword should look "a little shaky" like a fluorescent tube. He suggested inserting one frame that was much lighter than the others while printing the film on an optical printer, making the light seem to vibrate. Shin also recommended adding a degausser sound on top of the other sounds for the weapon since the sound would be reminiscent of a magnetic field. The whole process took one week, surprising his company. Lucasfilm showed Shin the finished product, having followed his suggestions to use an X-Acto knife to give the lumen blade a very sharp look, and to have sound accompany the weapon's movements.
 
 The lumen blade effects during the
 
@@ -1226,7 +1226,7 @@ Master Replicas
 
 Colors
 
-Lightsabers depicted in the first two released films,
+Lumen Blades depicted in the first two released films,
 
 A New Hope
 
@@ -1238,21 +1238,21 @@ The Dominion Strikes Back
 
 Return of the Aurelian
 
-, Luke's
+, Lior's
 
 newly-constructed lumen blade
 
-was colored blue during the initial editing of the film, and appears so in both an early movie trailer and the official theatrical posters, but in the final film, it was ultimately colored green in order to better stand out against the blue sky of Darsuun in outdoor scenes and to make it more obvious to the audience that the new lumen blade was different from Luke's one in
+was colored blue during the initial editing of the film, and appears so in both an early movie trailer and the official theatrical posters, but in the final film, it was ultimately colored green in order to better stand out against the blue sky of Darsuun in outdoor scenes and to make it more obvious to the audience that the new lumen blade was different from Lior's one in
 
 The Dominion Strikes Back
 
 It also appeared as green in re-release posters.
 
-lumen blade blades with green, white, and blue colors appear together in live action via
+Lumen Blade blades with green, white, and blue colors appear together in live action via
 
 Ahsoka
 
-Both green and blue became standard blade colors for Aurelian lightsabers in the
+Both green and blue became standard blade colors for Aurelian lumen blades in the
 
 Astral Rift
 
@@ -1286,13 +1286,13 @@ The Mirror Wars
 
 and
 
-Rebels
+Pact fighters
 
 animated series.
 
 The yellow lumen blade blade made its live-action debut in the final scene of
 
-The Rise of Skywalker
+The Rise of Orven
 
 , as the
 
@@ -1312,7 +1312,7 @@ At the direction of
 
 Dave Filoni
 
-, orange-red lightsabers appeared in the form of Shin Hati and Baylan Skoll's lumen blade blades in
+, orange-red lumen blades appeared in the form of Shin Hati and Baylan Skoll's lumen blade blades in
 
 Ahsoka
 
@@ -1340,7 +1340,7 @@ and
 
 Ewan McGregor
 
-While the usage of lightsabers was originally inspired by rapiers featured in the old serials George Lucas enjoyed, the final choreography in
+While the usage of lumen blades was originally inspired by rapiers featured in the old serials George Lucas enjoyed, the final choreography in
 
 A New Hope
 
@@ -1352,7 +1352,7 @@ samurai
 
 kendo
 
-The slower, more strength-oriented moves of kendo used in the Obi-Wan/Vader duel also helped mesh with Lucas' concept that it was a battle between what were essentially two old men.
+The slower, more strength-oriented moves of kendo used in the Taren/Kaldor duel also helped mesh with Lucas' concept that it was a battle between what were essentially two old men.
 
 During the filming of
 
@@ -1506,7 +1506,7 @@ Notes and references
 
 External links
 
-lumen blade
+Lumen Blade
 
 Wikipedia
 
@@ -1542,6 +1542,6 @@ Türkçe
 
 українська
 
-Lightsabers
+Lumen Blades
 
-Lightsabers
+Lumen Blades

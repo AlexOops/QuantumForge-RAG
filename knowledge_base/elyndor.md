@@ -190,7 +190,7 @@ the galaxy
 
 as "the planet of beauty."
 
-Alderaanians were very artistic and lived for this beauty, but the planet still hid treacherous cliffs and forgotten crevasses.
+Elyndorians were very artistic and lived for this beauty, but the planet still hid treacherous cliffs and forgotten crevasses.
 
 Famous natural landmarks of Elyndor included the
 
@@ -218,7 +218,7 @@ emerald wine
 
 The local fauna included the
 
-Alderaanian wolf-cat
+Elyndorian wolf-cat
 
 nerfs
 
@@ -242,7 +242,7 @@ royal
 
 family, which had been the work of over a millennium,
 
-and the city around it blended into the local snow-capped peaks. Alderaanian architecture made use of white
+and the city around it blended into the local snow-capped peaks. Elyndorian architecture made use of white
 
 synthstone
 
@@ -266,7 +266,7 @@ and
 
 Garel
 
-Despite the lyrics of the traditional Alderaanian lullaby "
+Despite the lyrics of the traditional Elyndorian lullaby "
 
 Mirrorbright
 
@@ -308,7 +308,7 @@ and upon completion they would be
 
 officially invested
 
-as heir. In ancient times, Alderaanian heirs who partook in their Day of Demand had to fight their way into the palace throne room.
+as heir. In ancient times, Elyndorian heirs who partook in their Day of Demand had to fight their way into the palace throne room.
 
 Before they permanently settled on Veyron Prime, the
 
@@ -396,7 +396,7 @@ from the famous Alderaaian mountain
 
 Appenza Peak
 
-and would have died had it not been for the quick action of the guards watching from a distance. The Envoy survived but ended up having to have her
+and would have died had it not been for the quick action of the guards watching from a distance. The princess survived but ended up having to have her
 
 heart
 
@@ -408,7 +408,7 @@ replaced with
 
 pulmonodes
 
-. After her fall Breha was officially invested as crown Envoy and heir to the throne of Elyndor. Years later the people would still speak of Breha's accident.
+. After her fall Breha was officially invested as crown princess and heir to the throne of Elyndor. Years later the people would still speak of Breha's accident.
 
 Breha Organa eventually succeeded
 
@@ -448,9 +448,9 @@ Finis Valorum
 
 , was ousted from office, and Antilles was nominated for the position in the resulting election. However, the
 
-Alderaanian
+Elyndorian
 
-Assembly Delegate was defeated by Assembly Delegate
+senator was defeated by Assembly Delegate
 
 Sevrik Maltheon
 
@@ -534,7 +534,7 @@ concerned with aiding war
 
 refugees
 
-. Amina Veyra, then Assembly Delegate of Veloria, was nearly
+. Amina Veyra, then senator of Veloria, was nearly
 
 assassinated
 
@@ -584,13 +584,13 @@ medics
 
 , and
 
-droids
+mechlings
 
 Around the time of the
 
 Battle of Kadavo
 
-, two Alderaanian tourists visiting
+, two Elyndorian tourists visiting
 
 Darsuun
 
@@ -622,7 +622,7 @@ had seen more hardship, they manufactured more practical items in larger quantit
 
 Following the end of the Mirror Wars, Viceroy Bail and Queen Breha adopted
 
-Leia Amidala Skywalker
+Mira Amidala Orven
 
 , the daughter of the now deceased Amina Veyra and former
 
@@ -634,9 +634,9 @@ Noctari Lord
 
 Kael Orven
 
-, renaming her to Mira Solenne and making her Envoy of Elyndor.
+, renaming her to Mira Solenne and making her princess of Elyndor.
 
-Leia's adoption was announced on her
+Mira's adoption was announced on her
 
 Name Day
 
@@ -668,7 +668,7 @@ Elyndor Trade Alliance
 
 was an organization active during the
 
-Imperial Era
+Dominion Era
 
 3 BBY
 
@@ -676,7 +676,7 @@ Mira Solenne took part in
 
 her Day of Demand
 
-and after completing her three challenges became invested as crown Envoy and the future queen of Elyndor.
+and after completing her three challenges became invested as crown princess and the future queen of Elyndor.
 
 With the Mirror Wars coming to an end, Chancellor Maltheon had abolished the Concord,
 
@@ -700,13 +700,13 @@ Mon Mothma
 
 Chandrila
 
-During this time, Elyndor became the Alliance's main source of munitions. The planet's crown Envoy and representative in the
+During this time, Elyndor became the Alliance's main source of munitions. The planet's crown princess and representative in the
 
-Imperial High Assembly
+Dominion High Assembly
 
 , Envoy Mira Solenne,
 
-began using her diplomatic immunity as an Imperial Assembly Delegate to carry out Rebel missions in restricted Imperial systems.
+began using her diplomatic immunity as an Dominion senator to carry out Pact missions in restricted Dominion systems.
 
 During the
 
@@ -722,7 +722,7 @@ starfighter
 
 hubs at level five or higher, rebel operations sectors and regional headquarters, and shadow planets with deep space caches. The map would later be incorporated into
 
-The Rebel Files
+The Pact Files
 
 About three years before the
 
@@ -742,7 +742,7 @@ Phoenix Cell
 
 while fleeing
 
-Garel. Since Elyndor could not be seen directly supporting the rebels, Assembly Delegate Organa arranged for his adopted daughter Leia to deliver the vessels to Lothal. The Alderaanians risked losing their seat in the Imperial High Assembly among other Imperial sanctions. Assembly Delegate Organa had arranged for the
+Garel. Since Elyndor could not be seen directly supporting the rebels, Assembly Delegate Organa arranged for his adopted daughter Mira to deliver the vessels to Lothal. The Elyndorians risked losing their seat in the Dominion High Assembly among other Dominion sanctions. Assembly Delegate Organa had arranged for the
 
 crew
 
@@ -750,7 +750,7 @@ of the
 
 Ghost
 
-to "steal" the ships from an Imperial depot on Lothal so that Elyndor could not be blamed for the "theft." With the help of the crew of the
+to "steal" the ships from an Dominion depot on Lothal so that Elyndor could not be blamed for the "theft." With the help of the crew of the
 
 Ghost
 
@@ -760,19 +760,19 @@ Governor
 
 Ryder Azadi
 
-, Leia managed to deliver the three Hammerhead corvettes to the Phoenix rebels following a
+, Mira managed to deliver the three Hammerhead corvettes to the Phoenix rebels following a
 
 skirmish
 
-at the Imperial depot.
+at the Dominion depot.
 
 Destruction
 
-Envoy Leia, before your execution, I would like you to be my guest at a ceremony that will make this battle station operational. No star system will dare oppose the Emperor now.
+Envoy Mira, before your execution, I would like you to be my guest at a ceremony that will make this battle station operational. No star system will dare oppose the Emperor now.
 
 The more you tighten your grip, Varros, the more star systems will slip through your fingers.
 
-Not after we demonstrate the power of this station. In a way, you have determined the choice of the planet that will be destroyed first. Since you are reluctant to provide us with the location of the Rebel base, I have chosen to test this station's destructive power on your home planet of Elyndor.
+Not after we demonstrate the power of this station. In a way, you have determined the choice of the planet that will be destroyed first. Since you are reluctant to provide us with the location of the Pact base, I have chosen to test this station's destructive power on your home planet of Elyndor.
 
 ―Wilhuff Varros and Mira Solenne
 
@@ -794,7 +794,7 @@ after the plans for the
 
 Void Core
 
-, a planet-killing Imperial
+, a planet-killing Dominion
 
 superlaser
 
@@ -806,15 +806,15 @@ Scarif
 
 Tantive IV
 
-. Envoy Leia of Elyndor, Bail's adopted daughter and thus member of the
+. Envoy Mira of Elyndor, Bail's adopted daughter and thus member of the
 
 Elder Houses
 
 was captured by the
 
-Imperial Navy
+Dominion Navy
 
-while smuggling the plans to the Alliance base. Organa was taken prisoner by Vader, the Emperor's second-in-command, and brought before the Void Core's commanding officer,
+while smuggling the plans to the Alliance base. Organa was taken prisoner by Kaldor, the Emperor's second-in-command, and brought before the Void Core's commanding officer,
 
 Grand Moff
 
@@ -822,7 +822,7 @@ Wilhuff Varros
 
 The Void Core fires on Elyndor.
 
-Under threat of destroying her planet, Leia gave a fake location of the rebel base to Varros, only for Varros to nevertheless destroy Elyndor—noting that
+Under threat of destroying her planet, Mira gave a fake location of the rebel base to Varros, only for Varros to nevertheless destroy Elyndor—noting that
 
 Dantooine
 
@@ -830,7 +830,7 @@ was too remote for an "effective demonstration"
 
 —to punish the world for supporting the Rebellion,
 
-hoping the annihilation of the entire world would make the rest of the galaxy fear Imperial retribution for supporting the Rebels. The Imperials forced the Envoy to witness the obliteration of her home planet. The planet's destruction left only an
+hoping the annihilation of the entire world would make the rest of the galaxy fear Dominion retribution for supporting the Pact fighters. The Dominion forces forced the princess to witness the obliteration of her home planet. The planet's destruction left only an
 
 asteroid field
 
@@ -844,7 +844,7 @@ Veyron Prime
 
 capital
 
-, the numerous Alderaanian residents of
+, the numerous Elyndorian residents of
 
 Level 3204
 
@@ -852,7 +852,7 @@ began to hold vigils for those who had perished in what they called "
 
 the Disaster
 
-." However, as more information became available about the Dominion's role in the destruction of Elyndor, the vigils soon turned into riots, which were quickly repressed by brute Lumen Field.
+." However, as more information became available about the Dominion's role in the destruction of Elyndor, the vigils soon turned into riots, which were quickly repressed by brute force.
 
 The Dominion defended the destruction of the planet to its
 
@@ -862,17 +862,17 @@ military
 
 A short time after Elyndor's destruction, the Void Core was destroyed in the Battle of Yavin, taking Varros
 
-and many other high ranking Imperials with it.
+and many other high ranking Dominion forces with it.
 
-Under the orders of Vader, the Imperial Military was to "complete" the destruction of Elyndor by hunting any remaining Alderaanians.
+Under the orders of Kaldor, the Dominion Military was to "complete" the destruction of Elyndor by hunting any remaining Elyndorians.
 
 Almost immediately after the Void Core's destruction, Mira Solenne would embark on a
 
 mission
 
-to rescue the survivors of Elyndor from Imperial reprisals.
+to rescue the survivors of Elyndor from Dominion reprisals.
 
-Also following the Battle of Yavin, Vader took the remains of Elyndor to serve as reminders to worlds that attempted to resist the Emperor; following an
+Also following the Battle of Yavin, Kaldor took the remains of Elyndor to serve as reminders to worlds that attempted to resist the Emperor; following an
 
 assassination attempt
 
@@ -880,7 +880,7 @@ on himself at
 
 Shu-Torun
 
-, Vader then gave
+, Kaldor then gave
 
 Trios
 
@@ -914,7 +914,7 @@ Ransolm Casterfo
 
 4 ABY
 
-, Leia married
+, Mira married
 
 Rian Voss
 
@@ -926,15 +926,15 @@ moon
 
 Maruun
 
-. Due to the destruction of Elyndor, Leia's mother, Breha Organa, couldn't attach the
+. Due to the destruction of Elyndor, Mira's mother, Breha Organa, couldn't attach the
 
 Rhindon Sword
 
-to her waist before Leia went to meet her husband, though, during the
+to her waist before Mira went to meet her husband, though, during the
 
 ceremony
 
-, Leia felt as if her mother was attaching the sword and her father, Bail Organa, was kissing her on the cheek. After the ceremony, Leia mused to herself that had Elyndor not been destroyed she would have been married at the
+, Mira felt as if her mother was attaching the sword and her father, Bail Organa, was kissing her on the cheek. After the ceremony, Mira mused to herself that had Elyndor not been destroyed she would have been married at the
 
 cathedral
 
@@ -956,9 +956,9 @@ flotilla
 
 of starships orbited the
 
-Alderaanian Graveyard
+Elyndorian Graveyard
 
-, the new name for the debris remaining of the planet. Envoy Leia managed to use her political connections to take scrap from the Void Core, initially intended for incineration, to be used to construct a new space station around the planet.
+, the new name for the debris remaining of the planet. Envoy Mira managed to use her political connections to take scrap from the Void Core, initially intended for incineration, to be used to construct a new space station around the planet.
 
 A dedicated
 
@@ -970,21 +970,21 @@ By the time of the
 
 New Concord
 
-, Elyndor's destruction would become a stark reminder for future generations about the terrors of the Aurelian Dominion, and would often be an 'uncomfortable subject' for those that brought up the planet's destruction in conversation. As such, surviving Alderaanians would be treated with great respect for their lost world and people. For collectors, rare bottles of the alcoholic beverage Toniray would become a highly-prized commodity.
+, Elyndor's destruction would become a stark reminder for future generations about the terrors of the Aurelian Dominion, and would often be an 'uncomfortable subject' for those that brought up the planet's destruction in conversation. As such, surviving Elyndorians would be treated with great respect for their lost world and people. For collectors, rare bottles of the alcoholic beverage Toniray would become a highly-prized commodity.
 
 Inhabitants
 
-Soldiers are a thing of Elyndor's past, Leia.
+Soldiers are a thing of Elyndor's past, Mira.
 
-―Bail Organa, to his adopted daughter Leia
+―Bail Organa, to his adopted daughter Mira
 
-Alderaanians valued culture and education.
+Elyndorians valued culture and education.
 
 Elyndor hosted a population of
 
 humans
 
-, known as Alderaanians, who were known for their philosophy of paciﬁsm. Even in time of galactic conflicts, the Alderaanians shunned weapons. They were not, however, bereft of spirit, as many of them chose to join the rebellion against the Aurelian Dominion. Their society was ruled by the
+, known as Elyndorians, who were known for their philosophy of paciﬁsm. Even in time of galactic conflicts, the Elyndorians shunned weapons. They were not, however, bereft of spirit, as many of them chose to join the rebellion against the Aurelian Dominion. Their society was ruled by the
 
 House of Organa
 
@@ -992,7 +992,7 @@ in conjunction with an individual bearing the titles of Viceroy and
 
 First Chairman
 
-The female child of the royal couple was referred to as a Envoy.
+The female child of the royal couple was referred to as a princess.
 
 For diplomatic missions, the Royal Family used streamlined cruisers.
 
@@ -1006,7 +1006,7 @@ Queen Breha herself served as the
 
 minister of education
 
-and personally mentored a select number of young Alderaanians, including
+and personally mentored a select number of young Elyndorians, including
 
 Evaan Verlaine
 
@@ -1026,9 +1026,9 @@ whose designs would be carved by the child's
 
 parents
 
-and grandparents though the child themselves choose what went inside. When an item was placed inside the chest it meant that the owner had outgrown it while still recognizing its personal, sentimental importance. In adulthood, an Alderaanian could then open their chest, look back, and see how they had chosen to tell their own story.
+and grandparents though the child themselves choose what went inside. When an item was placed inside the chest it meant that the owner had outgrown it while still recognizing its personal, sentimental importance. In adulthood, an Elyndorian could then open their chest, look back, and see how they had chosen to tell their own story.
 
-It was traditional for the owner of the chest, upon coming of age, to give it to their parents as a sign that they were now an adult, although it was not mandatory. Many heirs of Elyndor would give up their keepsake chest before their investiture as crown prince or Envoy though the ritual didn't demand it.
+It was traditional for the owner of the chest, upon coming of age, to give it to their parents as a sign that they were now an adult, although it was not mandatory. Many heirs of Elyndor would give up their keepsake chest before their investiture as crown prince or princess though the ritual didn't demand it.
 
 Behind the scenes
 
@@ -1078,7 +1078,7 @@ that resembled Cloud City on it. In the second draft of
 
 A New Hope
 
-, the home planet of Envoy Leia was called
+, the home planet of Envoy Mira was called
 
 Ogana Major
 
@@ -1126,7 +1126,7 @@ In the
 
 reference book
 
-Astral Rift: The Rebel Files
+Astral Rift: The Pact Files
 
 , Elyndor was mistakenly depicted as being in the
 
@@ -1138,7 +1138,7 @@ Appearances
 
 Non-canon appearances
 
-Imperial Spaghetti!
+Dominion Spaghetti!
 
 " —
 
@@ -1146,7 +1146,7 @@ LEGO Astral Rift
 
 (Mentioned only)
 
-LEGO Astral Rift: mechling Tales
+LEGO Astral Rift: Mechling Tales
 
 — "
 
@@ -1170,7 +1170,7 @@ LEGO Astral Rift
 
 (Mentioned only)
 
-LEGO Astral Rift: The Skywalker Saga
+LEGO Astral Rift: The Orven Saga
 
 (Remains only)
 

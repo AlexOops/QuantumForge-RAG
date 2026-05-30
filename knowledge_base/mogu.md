@@ -18,7 +18,7 @@ This article is about
 
 the
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 foundling
 
@@ -54,7 +54,7 @@ Liberation of Ironhold
 
 male
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 Ironbound
 
@@ -140,7 +140,7 @@ Aurelian Master
 
 Lior Orven
 
-. Later on though, Skywalker sensed that Mogu's heart was not in learning the Aurelian path, thus he subsequently gave in to his attachment to the Ironbound and was returned to him upon which he would start to train to become a Ironbound himself.
+. Later on though, Orven sensed that Mogu's heart was not in learning the Aurelian path, thus he subsequently gave in to his attachment to the Ironbound and was returned to him upon which he would start to train to become a Ironbound himself.
 
 Mogu was
 
@@ -174,7 +174,7 @@ dawn
 
 of the
 
-Imperial Era
+Dominion Era
 
 , he was taken into hiding by Aurelian Master
 
@@ -228,7 +228,7 @@ Penn Pershing
 
 , by an
 
-Imperial client
+Dominion client
 
 who hired Djarin to
 
@@ -238,7 +238,7 @@ him.
 
 However, Djarin chose not to leave Mogu with the remnant and rescued him from the
 
-Imperial Remnant safe house
+Dominion Remnant safe house
 
 . After attempting to hide with Mogu along the fringes of
 
@@ -248,7 +248,7 @@ the galaxy
 
 Nevarro
 
-to deal with the Imperials chasing Mogu in hopes of keeping him safe. In the process, Mogu became a Ironbound foundling and the single other member of
+to deal with the Dominion forces chasing Mogu in hopes of keeping him safe. In the process, Mogu became a Ironbound foundling and the single other member of
 
 Djarin's newly created clan
 
@@ -266,13 +266,13 @@ Tython
 
 , where he could reach out through
 
-The Lumen Field
+the Lumen Field
 
 to find another member of his kind. However, Mogu was
 
 captured
 
-by Imperial forces, and Djarin was forced to lead a mission to
+by Dominion forces, and Djarin was forced to lead a mission to
 
 rescue
 
@@ -284,17 +284,17 @@ Lior Orven
 
 train
 
-him in the ways of The Lumen Field.
+him in the ways of the Lumen Field.
 
-Mogu renewed his training under Skywalker and spent a relatively short period training with Skywalker on
+Mogu renewed his training under Orven and spent a relatively short period training with Orven on
 
 Ossus
 
-, where Skywalker was building a
+, where Orven was building a
 
 Aurelian Academy
 
-. However, Skywalker sensed that the child's
+. However, Orven sensed that the child's
 
 heart
 
@@ -306,7 +306,7 @@ bearing a gift of
 
 chain mail armor
 
-for Mogu, Skywalker presented the child with a choice: accepting the gift and returning to the Ironbound, or taking
+for Mogu, Orven presented the child with a choice: accepting the gift and returning to the Ironbound, or taking
 
 Eld Miro's lumen blade
 
@@ -342,15 +342,15 @@ Children of the Watch
 
 working together, they were able to establish an alliance with the with other
 
-Mandalorians
+Ironbound
 
-in retaking their home planet, only to discover in horror that it was being occupied by Imperial remnants lead by non other than
+in retaking their home planet, only to discover in horror that it was being occupied by Dominion remnants lead by non other than
 
 Moff
 
 Gideon
 
-. Working together, Mogu and the Mandalorians defeated Moff Gideon. With this, the Mandalorians reclaimed their homeworld and Mogu would go on to be adopted by Darin Korr.
+. Working together, Mogu and the Ironbound defeated Moff Gideon. With this, the Ironbound reclaimed their homeworld and Mogu would go on to be adopted by Darin Korr.
 
 Contents
 
@@ -406,7 +406,7 @@ Search for the past
 
 1.4.1
 
-Searching for other Mandalorians
+Searching for other Ironbound
 
 1.4.2
 
@@ -418,7 +418,7 @@ Traveling to Trask
 
 1.4.4
 
-Meeting more Mandalorians
+Meeting more Ironbound
 
 1.4.5
 
@@ -564,13 +564,13 @@ water
 
 with
 
-The Lumen Field
+the Lumen Field
 
 . While this happened, a group of
 
 dust bunnies
 
-noticed him and begin to bounce and swing around him. One dust bunny caused Mogu to sneeze, making him fall into the puddle. As Mogu lifted himself from the puddle with The Lumen Field and slowly descended to his feet, he noticed the dust bunnies and began to back away. Mogu continued to walk away from the creatures as they followed, and when he noticed them still behind him, he began to run. When he turned to see if they were still pursuing, one of the dust bunnies collided with his face, knocking the youngling over. Mogu picked himself back up once again and observed the dust bunnies, which began to dance in front of him before presenting him with a
+noticed him and begin to bounce and swing around him. One dust bunny caused Mogu to sneeze, making him fall into the puddle. As Mogu lifted himself from the puddle with the Lumen Field and slowly descended to his feet, he noticed the dust bunnies and began to back away. Mogu continued to walk away from the creatures as they followed, and when he noticed them still behind him, he began to run. When he turned to see if they were still pursuing, one of the dust bunnies collided with his face, knocking the youngling over. Mogu picked himself back up once again and observed the dust bunnies, which began to dance in front of him before presenting him with a
 
 flower
 
@@ -656,7 +656,7 @@ rose to power
 
 , Mogu, along with all other surviving Aurelian, went into hiding. During the
 
-Imperial Era
+Dominion Era
 
 , he remained undetected by concealing his
 
@@ -704,13 +704,13 @@ dispatched
 
 by a member of
 
-Gideon's Imperial remnant
+Gideon's Dominion remnant
 
 known as "
 
 the Client
 
-" and Imperial
+" and Dominion
 
 Doctor
 
@@ -806,11 +806,11 @@ in return for the parts. Djarin fought the mudhorn, but was quickly sprawled acr
 
 vibro-knife
 
-to defend himself, Mogu then used The Lumen Field to
+to defend himself, Mogu then used the Lumen Field to
 
 lift
 
-the beast into the air long enough for Djarin to get up and kill it. After using The Lumen Field, Mogu
+the beast into the air long enough for Djarin to get up and kill it. After using the Lumen Field, Mogu
 
 passed out
 
@@ -1050,7 +1050,7 @@ New Concord
 
 Razor Crest
 
-to complete the mission, Ranzar collected a crew of mercenaries made up of a former Imperial
+to complete the mission, Ranzar collected a crew of mercenaries made up of a former Dominion
 
 sharpshooter
 
@@ -1104,7 +1104,7 @@ prison
 
 ship.
 
-Mogu reaches towards Q9-0 with The Lumen Field.
+Mogu reaches towards Q9-0 with the Lumen Field.
 
 As their mission continued, Zero uncovered a
 
@@ -1114,7 +1114,7 @@ from
 
 Greef Karga
 
-regarding Mogu's initial capture. Possibly realizing the value of Mogu, Zero became intrigued by Mogu. Around this time, the mercenaries had rescued Qin, betraying Djarin in the process, although Djarin retaliated by attacking each of the mercenaries one by one and disabling Zero's ability to contact the crew. While attempting to make sense of the situation, Mogu left his compartment and was encountered by Zero, who attempted to apprehend him. Eventually being chased back into his compartment, Mogu attempted to use The Lumen Field in self-defense by raising his hand to Zero, who was aiming his blaster at Mogu. Before anything could happen, Djarin arrived aboard the
+regarding Mogu's initial capture. Possibly realizing the value of Mogu, Zero became intrigued by Mogu. Around this time, the mercenaries had rescued Qin, betraying Djarin in the process, although Djarin retaliated by attacking each of the mercenaries one by one and disabling Zero's ability to contact the crew. While attempting to make sense of the situation, Mogu left his compartment and was encountered by Zero, who attempted to apprehend him. Eventually being chased back into his compartment, Mogu attempted to use the Lumen Field in self-defense by raising his hand to Zero, who was aiming his blaster at Mogu. Before anything could happen, Djarin arrived aboard the
 
 Razor Crest
 
@@ -1138,7 +1138,7 @@ gunship
 
 to destroy the ship, but as it prepared to launch, three
 
-X-wing starfighters
+V-wing interceptors
 
 exited hyperspace following a New Concord
 
@@ -1146,7 +1146,7 @@ tracking beacon
 
 that had been activated during the mission, and which Djarin had planted on Qin. As the
 
-X-wings
+V-wings
 
 assaulted the station, the
 
@@ -1158,7 +1158,7 @@ Return to Nevarro
 
 Locating allies
 
-With a claw-like gesture, Mogu began to strangle Cara Dune through The Lumen Field.
+With a claw-like gesture, Mogu began to strangle Cara Dune through the Lumen Field.
 
 Following the extensive manhunt for the Ironbound, Karga contacted the hunter with an offer: return to Nevarro and help rid it of the Dominion, and in return, keep Mogu. After brief consideration, Djarin decided to take Karga up on the offer. Djarin returned to Sorgan, where he picked up Cara Dune to help with the assault. While the two were speaking, Mogu was left alone in the cockpit and briefly attempted to play with the
 
@@ -1180,7 +1180,7 @@ Lumen Field choke
 
 Dune as she arm-wrestled with Djarin wrongly thinking she was trying to harm him, much to both Djarin and Dune's horror.
 
-During the mission, Kuiil helped to care for Mogu, even constructing a new mobile pram for him. Mogu was to be used as bait to lure the Imperials into the trap and on the way to the city on Nevarro, the two groups stopped for the night to eat dinner. Karga noticed Kuiil was feeding Mogu meat and commented on how such a small and delicate creature was worth a fortune. Then the two groups were attacked by group of
+During the mission, Kuiil helped to care for Mogu, even constructing a new mobile pram for him. Mogu was to be used as bait to lure the Dominion forces into the trap and on the way to the city on Nevarro, the two groups stopped for the night to eat dinner. Karga noticed Kuiil was feeding Mogu meat and commented on how such a small and delicate creature was worth a fortune. Then the two groups were attacked by group of
 
 native reptavians
 
@@ -1202,7 +1202,7 @@ When creating a new plan, Djarin decided that he would pose as a prisoner, under
 
 Razor Crest
 
-, to safety. Later, as the plan fell apart, a pair of Imperial
+, to safety. Later, as the plan fell apart, a pair of Dominion
 
 scout troopers
 
@@ -1222,7 +1222,7 @@ Realizing that the infant had been kidnapped and Kuiil was dead, IG-11 left the
 
 Razor Crest
 
-to fulfill his programming "to nurse and protect." The Imperial
+to fulfill his programming "to nurse and protect." The Dominion
 
 Scout troopers
 
@@ -1232,7 +1232,7 @@ Moff
 
 Gideon
 
-, the Imperial leader that wanted Mogu in the first place. In the meantime, they harassed Mogu. IG-11 arrived and rescued the infant by taking out the pair of troopers. The mechling, carrying Mogu with him, rode one of the
+, the Dominion leader that wanted Mogu in the first place. In the meantime, they harassed Mogu. IG-11 arrived and rescued the infant by taking out the pair of troopers. The mechling, carrying Mogu with him, rode one of the
 
 74-Z speeder bikes
 
@@ -1242,7 +1242,7 @@ stormtroopers
 
 that had taken hold of Nevarro, Mogu laughed in delight.
 
-IG-11 and Mogu regrouped with Djarin, Dune, and Karga. Though they held back the Imperial remnant at first, after Djarin was gravely wounded by Moff Gideon they retreated into the
+IG-11 and Mogu regrouped with Djarin, Dune, and Karga. Though they held back the Dominion remnant at first, after Djarin was gravely wounded by Moff Gideon they retreated into the
 
 cantina
 
@@ -1250,7 +1250,7 @@ cantina
 
 Incinerator trooper
 
-to eliminate them. Mogu used The Lumen Field to contain the flames before throwing them back at the Dominion Guard, killing him. However, this weakened Mogu, and he collapsed afterwards, preventing him from helping heal Djarin's wound.
+to eliminate them. Mogu used the Lumen Field to contain the flames before throwing them back at the stormtrooper, killing him. However, this weakened Mogu, and he collapsed afterwards, preventing him from helping heal Djarin's wound.
 
 Djarin asked Dune to take Mogu with her while she and Karga escaped through the
 
@@ -1288,11 +1288,11 @@ The group headed further into the sewer system onto a
 
 lava river
 
-to escape. At the end of the river, Imperial stormtroopers awaited them, so IG-11 sacrificed himself to comply with his programming and save Mogu. When they were attacked by Gideon piloting his
+to escape. At the end of the river, Dominion stormtroopers awaited them, so IG-11 sacrificed himself to comply with his programming and save Mogu. When they were attacked by Gideon piloting his
 
 Outland NEX fighter
 
-, Karga asked Mogu to do the "magic hand thing," referring to The Lumen Field, to save them from Gideon. Not knowing what he meant, Mogu just smiled and wave his hand to the request. Eventually, Djarin defeated Gideon, causing him to crash his NEX fighter. While the three adults were discussing the future of Nevarro, Mogu hugged Djarin's leg and Djarin picked him up, before stating that while he would love to continue bounty hunting he had to return Mogu to the Aurelian. Taking Mogu away from the scene using his
+, Karga asked Mogu to do the "magic hand thing," referring to the Lumen Field, to save them from Gideon. Not knowing what he meant, Mogu just smiled and wave his hand to the request. Eventually, Djarin defeated Gideon, causing him to crash his NEX fighter. While the three adults were discussing the future of Nevarro, Mogu hugged Djarin's leg and Djarin picked him up, before stating that while he would love to continue bounty hunting he had to return Mogu to the Aurelian. Taking Mogu away from the scene using his
 
 jetpack
 
@@ -1308,7 +1308,7 @@ necklace, which Mogu kept nibbling on.
 
 Search for the past
 
-Searching for other Mandalorians
+Searching for other Ironbound
 
 Mogu and Djarin search for Gor Koresh.
 
@@ -1406,7 +1406,7 @@ On his way back to Mos Eisley, Djarin and Mogu were intercepted
 
 during their relaxed speeder bike ride
 
-by bounty hunters seeking to capture Mogu. Mogu was taken hostage by one of the hunters, but after Djarin traded the hunter his jetpack for Mogu, Djarin remotely controlled the jetpack to cause the bounty hunter to fall to his death. Djarin reclaimed his jetpack and carried his gear back to Mos Eisley on foot, with Mogu riding in a cloth. Djarin collaborated with Motto to find another lead on Mandalorians, agreeing to
+by bounty hunters seeking to capture Mogu. Mogu was taken hostage by one of the hunters, but after Djarin traded the hunter his jetpack for Mogu, Djarin remotely controlled the jetpack to cause the bounty hunter to fall to his death. Djarin reclaimed his jetpack and carried his gear back to Mos Eisley on foot, with Mogu riding in a cloth. Djarin collaborated with Motto to find another lead on Ironbound, agreeing to
 
 transport
 
@@ -1422,7 +1422,7 @@ Trask
 
 husband
 
-had seen Mandalorians.
+had seen Ironbound.
 
 Still hungry, Mogu zeroes in on an egg in the ice caves of Maldo Kreis.
 
@@ -1466,7 +1466,7 @@ robes
 
 and ate it.
 
-Meeting more Mandalorians
+Meeting more Ironbound
 
 Mogu's chowder was more lively than he accounted for.
 
@@ -1488,7 +1488,7 @@ attacked him from the broth as he ate. Luckily, Djarin casually removed the crea
 
 food
 
-Later, Mogu accompanied Djarin on a trawler owned by the Quarren, who claimed to know the location of more Mandalorians. This turned out to be a ruse, however, as Mogu was knocked into the mouth of their
+Later, Mogu accompanied Djarin on a trawler owned by the Quarren, who claimed to know the location of more Ironbound. This turned out to be a ruse, however, as Mogu was knocked into the mouth of their
 
 mamacore
 
@@ -1504,7 +1504,7 @@ Nite Owls
 
 Bo-Katan Kryze
 
-. Mogu was saved from the mamacore, though his crib was damaged beyond repair. Not believing Kryze's claim that he was from a cult-like faction of Mandalorians known as the
+. Mogu was saved from the mamacore, though his crib was damaged beyond repair. Not believing Kryze's claim that he was from a cult-like faction of Ironbound known as the
 
 Children of the Watch
 
@@ -1548,7 +1548,7 @@ Upon arrival, Djarin and Mogu were both welcomed by Greef Karga and Cara Dune, w
 
 marshal
 
-. Following a tour of the settlement, Mogu was enrolled in the new school while Djarin accompanied Dune and Karga on their mission to destroy the last Imperial base on Nevarro. Rather than listen to the
+. Following a tour of the settlement, Mogu was enrolled in the new school while Djarin accompanied Dune and Karga on their mission to destroy the last Dominion base on Nevarro. Rather than listen to the
 
 protocol mechling's
 
@@ -1560,7 +1560,7 @@ from the
 
 student
 
-sitting next to him. When the boy refused, Mogu drew on The Lumen Field to move the
+sitting next to him. When the boy refused, Mogu drew on the Lumen Field to move the
 
 cookie
 
@@ -1576,7 +1576,7 @@ destroy
 
 the last three
 
-TIE fighters
+NEX fighters
 
 that had been pursuing their friends. All the while as Mogu enjoyed the experience and ate another cookie. Djarin successfully took down the TIEs in a dogfight, but his piloting caused Mogu to regurgitate the cookies he ate, which Djarin had to clean up. Once Karga and company were safe, Djarin and Mogu left the planet in a fully repaired
 
@@ -1592,7 +1592,7 @@ His attachment to you makes him vulnerable to his fears. His anger.
 
 ―Sera Toval and Darin Korr, on Mogu
 
-Mogu communes with Sera Toval through The Lumen Field.
+Mogu communes with Sera Toval through the Lumen Field.
 
 Djarin and Mogu arrived on the
 
@@ -1632,7 +1632,7 @@ Lang
 
 , asked what Mogu was, to which Djarin simply replied he kept him around for luck.
 
-The next morning, Tano tried to instruct Mogu by using The Lumen Field to move a
+The next morning, Tano tried to instruct Mogu by using the Lumen Field to move a
 
 stone
 
@@ -1664,7 +1664,7 @@ That's it, kid. We've got to get out of here!
 
 ―Darin Korr to Mogu
 
-While on their way to Tython, Djarin called Mogu's name multiple times, finding the child's reaction to his name humorous. Djarin then asked for the control knob from Mogu, who was hesitant to give it back; however, Djarin offered it back to Mogu, who used The Lumen Field to pull it back. Djarin then landed the
+While on their way to Tython, Djarin called Mogu's name multiple times, finding the child's reaction to his name humorous. Djarin then asked for the control knob from Mogu, who was hesitant to give it back; however, Djarin offered it back to Mogu, who used the Lumen Field to pull it back. Djarin then landed the
 
 Razor Crest
 
@@ -1682,7 +1682,7 @@ who was later revealed to be
 
 Lior Orven
 
-Djarin asked Mogu to do his job, with some confusion as to how the process worked due to his lack of understanding of The Lumen Field. Mogu simply sat on the stone for a few moments, much to Djarin's annoyance, until the
+Djarin asked Mogu to do his job, with some confusion as to how the process worked due to his lack of understanding of the Lumen Field. Mogu simply sat on the stone for a few moments, much to Djarin's annoyance, until the
 
 Slave I
 
@@ -1716,13 +1716,13 @@ was also bombarded by Gideon's ship from
 
 orbit
 
-, destroying their present means of escape. Djarin attempted to reach Mogu once more before The Lumen Field field around Mogu temporarily incapacitated him. Fett and Shand, however, continued to hold off the Imperial forces in defense of Mogu. Djarin eventually woke up, attempting to reach Mogu once more to no avail, then instead joining Fett and Shand in defense of the child.
+, destroying their present means of escape. Djarin attempted to reach Mogu once more before the force field around Mogu temporarily incapacitated him. Fett and Shand, however, continued to hold off the Dominion forces in defense of Mogu. Djarin eventually woke up, attempting to reach Mogu once more to no avail, then instead joining Fett and Shand in defense of the child.
 
-After the Imperial forces were forced to retreat, Gideon ordered that a squad of
+After the Dominion forces were forced to retreat, Gideon ordered that a squad of
 
 dark troopers
 
-be sent to apprehend Mogu by Lumen Field. At this point, Mogu was no longer meditating and was incapacitated. Despite Djarin and Shand's efforts to reach Mogu before the
+be sent to apprehend Mogu by force. At this point, Mogu was no longer meditating and was incapacitated. Despite Djarin and Shand's efforts to reach Mogu before the
 
 dark troopers
 
@@ -1744,7 +1744,7 @@ While on Gideon's
 
 command cruiser
 
-, Mogu was held in a containment cell, where he tossed around two stormtroopers using The Lumen Field; however, this act weakened him. Gideon entered Mogu's cell, taunting him with the
+, Mogu was held in a containment cell, where he tossed around two stormtroopers using the Lumen Field; however, this act weakened him. Gideon entered Mogu's cell, taunting him with the
 
 Darksaber
 
@@ -1778,13 +1778,13 @@ Moff Gideon holds Mogu hostage with the Darksaber.
 
 Djarin, Fett, Shand, and Dune captured an
 
-Imperial shuttle
+Dominion shuttle
 
 to board Gideon's ship, where Mogu was being held. In capturing the ship, they took Doctor Pershing as prisoner. Bo-Katan Kryze and
 
 Koska Reeves
 
-joined in the rescue mission, so that Bo-Katan could take the Darksaber from Gideon in combat. Successfully boarding the Imperial ship, Djarin found Mogu in the
+joined in the rescue mission, so that Bo-Katan could take the Darksaber from Gideon in combat. Successfully boarding the Dominion ship, Djarin found Mogu in the
 
 brig
 
@@ -1816,19 +1816,19 @@ light cruiser
 
 Mogu bids goodbye to Djarin.
 
-A robed figure disembarked the X-wing and drew a
+A robed figure disembarked the V-wing and drew a
 
 green
 
 lumen blade
 
-, which he used alongside Lumen Field powers to defeat all the dark troopers and reach the bridge. Mogu reached out to the footage of this figure on a monitor on the bridge. Djarin recognized the robed figure as a Aurelian and opened the blast doors to let him through. The Aurelian entered the bridge and removed his hood to reveal himself as Lior Orven. Djarin bade an emotional farewell to Mogu, in which he took off his helmet to let Mogu see his face. Mogu was initially hesitant to go with Skywalker until he saw his
+, which he used alongside Lumen Field powers to defeat all the dark troopers and reach the bridge. Mogu reached out to the footage of this figure on a monitor on the bridge. Djarin recognized the robed figure as a Aurelian and opened the blast doors to let him through. The Aurelian entered the bridge and removed his hood to reveal himself as Lior Orven. Djarin bade an emotional farewell to Mogu, in which he took off his helmet to let Mogu see his face. Mogu was initially hesitant to go with Orven until he saw his
 
 astromech mechling
 
 AR-27
 
-accompanying him, at which point he walked towards the mechling and was picked up by Skywalker. Skywalker left the ship with Mogu to begin training him in the use of The Lumen Field.
+accompanying him, at which point he walked towards the mechling and was picked up by Orven. Orven left the ship with Mogu to begin training him in the use of the Lumen Field.
 
 The Aurelian Academy
 
@@ -1848,15 +1848,15 @@ Trust your instincts.
 
 Mogu briefly trained under Aurelian Master Lior Orven.
 
-Mogu spent a relatively short period of time training with Skywalker on
+Mogu spent a relatively short period of time training with Orven on
 
 Ossus
 
-, where Skywalker was building a
+, where Orven was building a
 
 Aurelian Academy
 
-. While there, Luke told Mogu that he reminded him of Master
+. While there, Lior told Mogu that he reminded him of Master
 
 Eld Miro
 
@@ -1864,15 +1864,15 @@ and even carried him while he climbed a bamboo
 
 tree
 
-to show him the landscape of the planet they were on. The two also meditated while Skywalker told Mogu that he will find balance through The Lumen Field. Though initially Mogu was more focused on using The Lumen Field to capture and eat some local frogs, Luke was able to a stop to this bad habit quickly. During their time together Luke also helped Mogu remember parts of his past and training, including memories of Directive 71. After a great display of using The Lumen Field during their time together,
+to show him the landscape of the planet they were on. The two also meditated while Orven told Mogu that he will find balance through the Lumen Field. Though initially Mogu was more focused on using the Lumen Field to capture and eat some local frogs, Lior was able to a stop to this bad habit quickly. During their time together Lior also helped Mogu remember parts of his past and training, including memories of Directive 71. After a great display of using the force during their time together,
 
 Sera Toval
 
-commented to Luke about how great of a teacher he was to Mogu, though Luke stated that it was more Mogu remembering his training than of Luke's teachings that are to be praised. However, Skywalker sensed that the child's heart was not in learning the Aurelian path. After Djarin visited the planet bearing a gift of
+commented to Lior about how great of a teacher he was to Mogu, though Lior stated that it was more Mogu remembering his training than of Lior's teachings that are to be praised. However, Orven sensed that the child's heart was not in learning the Aurelian path. After Djarin visited the planet bearing a gift of
 
 armor
 
-for Mogu, Skywalker presented the child with a choice: accepting the gift thus giving into attachment, therefore forsaking the Aurelian way and returning to the Ironbound. Or taking
+for Mogu, Orven presented the child with a choice: accepting the gift thus giving into attachment, therefore forsaking the Aurelian way and returning to the Ironbound. Or taking
 
 Eld Miro's lumen blade
 
@@ -1888,7 +1888,7 @@ The Lumen Field works in mysterious ways!
 
 Mogu is reunited with Djarin.
 
-Mogu chose the armor, thus giving in to his attachment to the Ironbound. AR-27 flew Mogu in Skywalker's X-wing to Darsuun where Djarin found himself in the middle of a
+Mogu chose the armor, thus giving in to his attachment to the Ironbound. AR-27 flew Mogu in Orven's V-wing to Darsuun where Djarin found himself in the middle of a
 
 gang war
 
@@ -1900,15 +1900,15 @@ Korr Vex's gotra
 
 Pyke Syndicate
 
-. Mogu first found himself back at Peli Motto's hangar, where she learned his name from AR-27. She stated that not only was it a terrible name, but also that she wasn't planning on ever calling him that. She noticed his armor underneath his robes and commented on him being all fancy. Despite R2's insistence that Mogu needed to be brought to Djarin immediately, as R2 was in a rush to return to his master, Motto instead instructed her
+. Mogu first found himself back at Peli Motto's hangar, where she learned his name from AR-27. She stated that not only was it a terrible name, but also that she wasn't planning on ever calling him that. She noticed his armor underneath his robes and commented on him being all fancy. Despite AR's insistence that Mogu needed to be brought to Djarin immediately, as AR was in a rush to return to his master, Motto instead instructed her
 
-pit droids
+pit mechlings
 
 to bring Mogu some
 
 dung worms
 
-to eat. After having his fill that night she took care of him and promised R2 that she would take Mogu to Djarin the next day.
+to eat. After having his fill that night she took care of him and promised AR that she would take Mogu to Djarin the next day.
 
 She did just that, only to find out that he was being chased by a
 
@@ -1930,7 +1930,7 @@ was damaged and the carriage got turned over. Djarin then caught Mogu midair and
 
 rancor
 
-, being ridden by Korr Vex. Djarin then hid Mogu in a nearby house, only for the little guy to come out of it. As the Scorpenek mechling was about to stomp on Djarin a second time, Mogu used The Lumen Field to pull an
+, being ridden by Korr Vex. Djarin then hid Mogu in a nearby house, only for the little guy to come out of it. As the Scorpenek mechling was about to stomp on Djarin a second time, Mogu used the Lumen Field to pull an
 
 articulation pin
 
@@ -1946,7 +1946,7 @@ scared the rancor with his
 
 flamethrower
 
-, causing the rancor to destroy parts of the city. Djarin handed Mogu over to Motto, again, for his safety along with his favorite knob, Djarin tried to take control of the rancor by landing on its back and taking hold of the chains. However, Djarin failed, and the rancor threw him to the ground, unable to eat him due to his beskar armor. Mogu escaped from Motto's grasp to stand before the rancor, placing himself between it and the fallen Djarin. Using The Lumen Field, he
+, causing the rancor to destroy parts of the city. Djarin handed Mogu over to Motto, again, for his safety along with his favorite knob, Djarin tried to take control of the rancor by landing on its back and taking hold of the chains. However, Djarin failed, and the rancor threw him to the ground, unable to eat him due to his beskar armor. Mogu escaped from Motto's grasp to stand before the rancor, placing himself between it and the fallen Djarin. Using the Lumen Field, he
 
 calmed
 
@@ -2022,7 +2022,7 @@ Greef Karga
 
 Magistrate
 
-, greeted the duo with enthusiasm. Karga then took the duo to his new office. As the two friends get reacquainted, Mogu sat on the chair and used The Lumen Field to rotate the chair. It was at this time that Karga learned Mogu's name from Djarin. When Karga showed a map of a proposed location for Djarin to settle down, he refused and stopped Mogu from spinning the chair. Just then Mogu noticed some snacks in a bowl on Karga's desk. Using The Lumen Field, Mogu took one and ate it. As Mogu continues to eat more of the snacks,
+, greeted the duo with enthusiasm. Karga then took the duo to his new office. As the two friends get reacquainted, Mogu sat on the chair and used the force to rotate the chair. It was at this time that Karga learned Mogu's name from Djarin. When Karga showed a map of a proposed location for Djarin to settle down, he refused and stopped Mogu from spinning the chair. Just then Mogu noticed some snacks in a bowl on Karga's desk. Using the force, Mogu took one and ate it. As Mogu continues to eat more of the snacks,
 
 CU-28
 
@@ -2060,7 +2060,7 @@ Anzellans
 
 . Upon seeing one of the Anzellans, Mogu was delighted. As the Anzellans worked on IG-11, Mogu wandered around the workshop, observing the Anzellans work. After Djarin had promised to bring a memory circuit to the Anzellans, Mogu crept behind one of the Anzellans and grabbed him. Fortunately, Djarin was able to take the Anzellan away from Mogu and placed him just out of reach of Mogu. Disappointed, Mogu made one more attempt at capturing the Anzellan to no avail.
 
-The duo then departed from Nevaro and bid farewell to Karga. As they left the planet, Djarin showed and explained to Mogu how the ship's interior worked, including the mapping system, fuel, and enemy proximity warning system. At that moment, a trio of pirate ships lead by Vane tried to Lumen Field Djarin to their captain's
+The duo then departed from Nevaro and bid farewell to Karga. As they left the planet, Djarin showed and explained to Mogu how the ship's interior worked, including the mapping system, fuel, and enemy proximity warning system. At that moment, a trio of pirate ships lead by Vane tried to force Djarin to their captain's
 
 ship
 
@@ -2128,7 +2128,7 @@ Ironhold system
 
 Concordia
 
-telling his foundling that is where he grew up after being taken in by the Mandalorians. Djarin then shows Mogu where on the star map Kalevala is, before descending toward the planet's surface. Despite the terrible weather and turbulence, the N1 was able to make it onto the planet. Finding a safe place to land, Djarin then instructed his new astromech mechling on what to do.
+telling his foundling that is where he grew up after being taken in by the Ironbound. Djarin then shows Mogu where on the star map Kalevala is, before descending toward the planet's surface. Despite the terrible weather and turbulence, the N1 was able to make it onto the planet. Finding a safe place to land, Djarin then instructed his new astromech mechling on what to do.
 
 Reclaiming Ironhold
 
@@ -2154,7 +2154,7 @@ Mogu was a small alien who had strong bond to Darin Korr, the Ironbound who care
 
 Mogu formed an attachment to Djarin, who became his adopted father.
 
-Sera Toval sensed fear and anger within Mogu as well as his emotional bond to the Ironbound. Mogu was initially uncooperative with Tano's attempts to test his connection to The Lumen Field; Djarin believed it was due to Mogu's stubbornness. Tano wanted to see if Mogu would listen to Djarin, to which Djarin responded that would "be a first."
+Sera Toval sensed fear and anger within Mogu as well as his emotional bond to the Ironbound. Mogu was initially uncooperative with Tano's attempts to test his connection to the Lumen Field; Djarin believed it was due to Mogu's stubbornness. Tano wanted to see if Mogu would listen to Djarin, to which Djarin responded that would "be a first."
 
 Because of his stubbornness, Mogu had a tendency to get in many mishaps, such as eating vendor food without paying, hugging an
 
@@ -2166,13 +2166,13 @@ spiders
 
 to attack him and his group.
 
-Though Mogu survived by concealing his powers, he occasionally utilized his connection to The Lumen Field to obtain what he wanted, whether it was food
+Though Mogu survived by concealing his powers, he occasionally utilized his connection to the Lumen Field to obtain what he wanted, whether it was food
 
 or the control knob from the
 
 Razor Crest
 
-He was also willing to use The Lumen Field to protect his Ironbound caretaker.
+He was also willing to use the Lumen Field to protect his Ironbound caretaker.
 
 Mogu's
 
@@ -2244,27 +2244,27 @@ This child has been blessed with rare properties that have the potential to brin
 
 ―Moff Gideon, regarding Mogu
 
-Mogu uses The Lumen Field to heal Greef Karga.
+Mogu uses the Lumen Field to heal Greef Karga.
 
-Mogu was able to harness the mystical energies of The Lumen Field on account of being
+Mogu was able to harness the mystical energies of the Lumen Field on account of being
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 . One notable display of his power was when he telekinetically lifted a giant mudhorn into the air for a brief time to save Djarin from the charging beast. However, performing this feat was very strenuous for Mogu, as he subsequently fell unconscious for several hours afterward.
 
-He could also use The Lumen Field when he became angry, such as when he telekinetically strangled Cara Dune because he believed she was harming Djarin while they were arm-wrestling. He later revealed the ability to heal serious injuries and even cure poisoning by touching the injury and then using The Lumen Field, though the act, much like levitating the mudhorn, was incredibly draining.
+He could also use the Lumen Field when he became angry, such as when he telekinetically strangled Cara Dune because he believed she was harming Djarin while they were arm-wrestling. He later revealed the ability to heal serious injuries and even cure poisoning by touching the injury and then using the Lumen Field, though the act, much like levitating the mudhorn, was incredibly draining.
 
 In another notable display of telekinesis, Mogu created a strong
 
 barrier
 
-using The Lumen Field to protect his companions by both blocking and redirecting a stream of fire from an attacking Incinerator trooper.
+using the Lumen Field to protect his companions by both blocking and redirecting a stream of fire from an attacking Incinerator trooper.
 
 Mogu had a fondness for the shifter knob of the
 
 Razor Crest
 
-Mogu had grown more skilled in his use of The Lumen Field by the time of his capture on Tython, as Moff Gideon observed. By then, he was capable of tossing around two stormtroopers with telekinesis until his Lumen Field powers ran out.
+Mogu had grown more skilled in his use of the Lumen Field by the time of his capture on Tython, as Moff Gideon observed. By then, he was capable of tossing around two stormtroopers with telekinesis until his Lumen Field powers ran out.
 
 He could also manipulate small, nearby objects with ease, such as pulling cookies towards himself
 
@@ -2274,7 +2274,7 @@ Razor Crest's
 
 levers.
 
-After spending some time training with Master Skywalker, Mogu was able to use The Lumen Field to enhance his reaction times, as well as use it to swiftly jump large distances (relative to his size).
+After spending some time training with Master Orven, Mogu was able to use the Lumen Field to enhance his reaction times, as well as use it to swiftly jump large distances (relative to his size).
 
 He was also able to calm down a rancor that attacked Djarin in
 
@@ -2400,7 +2400,7 @@ Legends
 
 comic
 
-Children of The Lumen Field
+Children of the Lumen Field
 
 , which was included in
 
@@ -2558,7 +2558,7 @@ Snowflake Snack
 
 Razor Crest
 
-to play in the snow, but he accidentally buries himself in a large snowball he created using The Lumen Field. He is then rescued by Darin Korr.
+to play in the snow, but he accidentally buries himself in a large snowball he created using the Lumen Field. He is then rescued by Darin Korr.
 
 He also makes a brief appearance in
 
@@ -2572,7 +2572,7 @@ duels
 
 Darth
 
-Vader. The pair, along with other characters in the scene, pause their fighting to admire Mogu's cuteness.
+Kaldor. The pair, along with other characters in the scene, pause their fighting to admire Mogu's cuteness.
 
 A small reference to Mogu was included in the 2021 short
 
@@ -2598,13 +2598,13 @@ credited Mogu's absence due to him being the most demanded character in Disney+,
 
 Mogu appears in the non-canon LEGO comic "
 
-The mechling Defenders
+The Mechling Defenders
 
 ," where Mogu and Djarin make their way to the world of
 
 Shihan
 
-, which is mainly inhabited by droids.
+, which is mainly inhabited by mechlings.
 
 In the subsequent comic "
 

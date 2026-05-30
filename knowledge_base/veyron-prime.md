@@ -10,7 +10,7 @@ protocol mechling
 
 0-0-0
 
-Imperial Center
+Dominion Center
 
 redirects here. You may be looking for
 
@@ -46,7 +46,7 @@ Jewel of the Core Worlds
 
 , or
 
-Imperial Center
+Dominion Center
 
 during the
 
@@ -76,7 +76,7 @@ Core Worlds
 
 . Prior to being covered by over five thousand metallic levels of what would become known as
 
-Imperial City
+Dominion City
 
 , Veyron Prime was the ancient
 
@@ -266,7 +266,7 @@ Galactic Emperor
 
 to the applause of the now
 
-Imperial High Assembly
+Dominion High Assembly
 
 Veyron Prime continued to serve as galactic capital under the Dominion, having become the Emperor's
 
@@ -282,7 +282,7 @@ advisors
 
 in the
 
-Imperial Ruling Council
+Dominion Ruling Council
 
 . The Dominion maintained a firm hold on Veyron Prime throughout the Emperor's
 
@@ -332,7 +332,7 @@ Counselor to the Dominion
 
 de facto
 
-control of the collapsing Imperial government. Hoping to escape prosecution for war crimes, Amedda ultimately surrendered himself to the
+control of the collapsing Dominion government. Hoping to escape prosecution for war crimes, Amedda ultimately surrendered himself to the
 
 New Concord
 
@@ -424,7 +424,7 @@ Overview
 
 1.2
 
-Imperial City
+Dominion City
 
 2.1
 
@@ -458,7 +458,7 @@ The end of the Concord
 
 2.3.2
 
-Imperial capital
+Dominion capital
 
 2.3.2.1
 
@@ -524,19 +524,19 @@ Grand Concord Medical Facility
 
 5.1.4
 
-Imperial Executive Building
+Dominion Executive Building
 
 5.1.5
 
-Imperial Inspectorate HQ
+Dominion Inspectorate HQ
 
 5.1.6
 
-Imperial Palace
+Dominion Palace
 
 5.1.7
 
-Imperial High Assembly Building
+Dominion High Assembly Building
 
 5.2
 
@@ -596,9 +596,9 @@ Veyron Prime was a Core Worlds planet situated along many important hyperspace l
 
 Veyron Prime,
 
-also known as Imperial Center during the
+also known as Dominion Center during the
 
-Imperial Era
+Dominion Era
 
 or as the Jewel of the Core Worlds,
 
@@ -798,7 +798,7 @@ space
 
 , the bright lights from
 
-Imperial City
+Dominion City
 
 , Veyron Prime's dense multi-layered planet-spanning
 
@@ -814,13 +814,13 @@ affected by troposphere-piercing
 
 skyscrapers
 
-across Imperial City. While Veyron Prime's artificial climate was largely temperate in nature, parts of the planet occasionally experienced infrequent snowfall,
+across Dominion City. While Veyron Prime's artificial climate was largely temperate in nature, parts of the planet occasionally experienced infrequent snowfall,
 
 and in the
 
 Veyron Prime Underworld
 
-beneath Imperial City's surface levels, fierce microclimates began to form, forcing the Underworld's many residents to adapt.
+beneath Dominion City's surface levels, fierce microclimates began to form, forcing the Underworld's many residents to adapt.
 
 Similarly, Inside the Veyron Prime's tallest skyscrapers, enormous differences of
 
@@ -888,7 +888,7 @@ were located in a fixed-path orbit around the planet.
 
 During the
 
-Imperial Era
+Dominion Era
 
 , dozens of the
 
@@ -898,7 +898,7 @@ and
 
 Golan III defense platforms
 
-were in orbit of Veyron Prime and other important Imperial Core Worlds for defense.
+were in orbit of Veyron Prime and other important Dominion Core Worlds for defense.
 
 Small
 
@@ -916,23 +916,23 @@ and
 
 rats
 
-Imperial City
+Dominion City
 
 Main article:
 
-Imperial City
+Dominion City
 
 Thousands of layers of buildings and skyscrapers cover the entire planetary surface of Veyron Prime. Because of this, Veyron Prime is one of only a handful of city-planets, known as an 'ecumenopolis.'
 
 ―Recording for Veyron Prime newcomers
 
-The urban sprawl that covered the surface of Veyron Prime was known as Galactic City prior to the Imperial Era.
+The urban sprawl that covered the surface of Veyron Prime was known as Galactic City prior to the Dominion Era.
 
 Veyron Prime's surface was defined by its urban sprawl, which collectively was called
 
 Galactic City
 
-until it was officially renamed as Imperial City during the Imperial Era.
+until it was officially renamed as Dominion City during the Dominion Era.
 
 The dense city blocks were built on top of each other, with the lowest being
 
@@ -1046,9 +1046,9 @@ Aurelian
 
 Temple
 
-was repurposed as the Imperial Palace. The palace became a part of the "supreme triangle" of structures alongside the
+was repurposed as the Dominion Palace. The palace became a part of the "supreme triangle" of structures alongside the
 
-Imperial Inspectorate HQ
+Dominion Inspectorate HQ
 
 and the massive
 
@@ -1060,7 +1060,7 @@ ISB Central Office
 
 of the
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 Next to the Federal District was the
 
@@ -1072,7 +1072,7 @@ Hall of Adjudication
 
 , the
 
-Hall of Imperial Register
+Hall of Dominion Register
 
 , the
 
@@ -1314,7 +1314,7 @@ into the militant
 
 Path of the Closed Fist
 
-to war against the Aurelian and other Lumen Field-sensitives, she had dreams of spreading their insurgency as far as Veyron Prime itself, urging the Path to follow her across the stars. While the Path quickly fell under Ro's sway,
+to war against the Aurelian and other Lumen-sensitives, she had dreams of spreading their insurgency as far as Veyron Prime itself, urging the Path to follow her across the stars. While the Path quickly fell under Ro's sway,
 
 the ensuing
 
@@ -1406,7 +1406,7 @@ from
 
 Darsuun
 
-, Skywalker was brought to the Aurelian Temple by
+, Orven was brought to the Aurelian Temple by
 
 Aurelian Master
 
@@ -1418,7 +1418,7 @@ Chosen One
 
 destined to bring balance to
 
-The Lumen Field
+the Lumen Field
 
 . In the High Assembly, Supreme Chancellor
 
@@ -1438,7 +1438,7 @@ elected
 
 as the new Supreme Chancellor.
 
-During the early years of Maltheon's chancellery, he brought Skywalker to the lower levels of Veyron Prime, revealing corruption and the Concord's limitations to the young
+During the early years of Maltheon's chancellery, he brought Orven to the lower levels of Veyron Prime, revealing corruption and the Concord's limitations to the young
 
 Aurelian apprentice
 
@@ -1484,7 +1484,7 @@ while she was on Veyron Prime opposing the
 
 Military Creation Act
 
-. The former queen-turned-Assembly Delegate was saved from the
+. The former queen-turned-senator was saved from the
 
 bounty hunters
 
@@ -1494,7 +1494,7 @@ and
 
 Jango Fett
 
-through the efforts of Kenobi and Skywalker. While Skywalker escorted Amidala to Veloria for her protection, Kenobi
+through the efforts of Vel and Orven. While Orven escorted Amidala to Veloria for her protection, Vel
 
 tracked
 
@@ -1518,7 +1518,7 @@ from Fett's
 
 genetic template
 
-. Kenobi followed Fett to
+. Vel followed Fett to
 
 Geonosis
 
@@ -1530,7 +1530,7 @@ Dooku
 
 and the
 
-Separatist mechling Army
+Separatist Mechling Army
 
 Having learned of the Separatists' plan to attack the Concord, the
 
@@ -1584,7 +1584,7 @@ Veyron Prime Guard
 
 was formed to serve as a clone
 
-security Lumen Field
+security force
 
 for the Concord capital.
 
@@ -1696,7 +1696,7 @@ by planetside Separatist agents. Consequently, the High Assembly voted to
 
 deregulate the banking industry
 
-, allowing the Concord to take on additional loans for the purpose of purchasing more clones for its army. Unbeknown to the High Assembly, the attack was supported by Senators
+, allowing the Concord to take on additional loans for the purpose of purchasing more clones for its army. Unbeknown to the High Assembly, the attack was supported by Assembly Delegates
 
 Nix Card
 
@@ -1736,13 +1736,13 @@ Jackar Bowmani
 
 , had fed him volatile
 
-nano-droids
+nano-mechlings
 
 which then exploded, killing Bowmani and causing the bombing at the Temple. Turmond was arrested and held at the Concord Center for Military Operations.
 
 Tano was subsequently framed for the death of Turmond, who was
 
-killed by way of The Lumen Field
+killed by way of the Lumen Field
 
 She
 
@@ -1796,7 +1796,7 @@ Outer Rim Territories
 
 Veyron Prime Home Defense Fleet
 
-when a Separatist assault Lumen Field launched a surprise attack on the planet.
+when a Separatist assault force launched a surprise attack on the planet.
 
 During the
 
@@ -1820,7 +1820,7 @@ Grievous
 
 , the
 
-Supreme Martial Commander of the Separatist mechling Armies
+Supreme Martial Commander of the Separatist Mechling Armies
 
 . Despite the Concord's success in the
 
@@ -1834,7 +1834,7 @@ and the Supreme Chancellor. Suspicious of the chancellor's motives, the High
 
 Council
 
-tasked Skywalker with
+tasked Orven with
 
 spying
 
@@ -1864,7 +1864,7 @@ homeworld of
 
 Kashyyyk
 
-. Shortly afterward, the High Council dispatched Kenobi and his
+. Shortly afterward, the High Council dispatched Vel and his
 
 212th Attack Battalion
 
@@ -1880,7 +1880,7 @@ With the Mirror Wars nearing its conclusion, Chancellor Maltheon revealed his se
 
 Dark Lord of the Noctari
 
-to Skywalker. Acting on Skywalker's report, Aurelian Masters Mace Windu,
+to Orven. Acting on Orven's report, Aurelian Masters Mace Windu,
 
 Kit Fisto
 
@@ -1898,7 +1898,7 @@ Sidious. The ensuing
 
 lumen blade duel
 
-resulted in the deaths of Kolar, Tiin, and Fisto; although Sidious was disarmed by Windu, he succeeded in killing the Aurelian Circle's champion due to the interference of Skywalker, who believed the chancellor's claims of possessing the power to save others from death. As a consequence, Skywalker renounced the Aurelian and assumed the mantle of a Noctari as Varn Kaldor.
+resulted in the deaths of Kolar, Tiin, and Fisto; although Sidious was disarmed by Windu, he succeeded in killing the Aurelian Circle's champion due to the interference of Orven, who believed the chancellor's claims of possessing the power to save others from death. As a consequence, Orven renounced the Aurelian and assumed the mantle of a Noctari as Varn Kaldor.
 
 The Aurelian Dominion
 
@@ -1928,7 +1928,7 @@ using hidden
 
 inhibitor chips
 
-to Lumen Field the clone troopers into killing their
+to force the clone troopers into killing their
 
 Aurelian Generals
 
@@ -1936,7 +1936,7 @@ On Veyron Prime, the
 
 Great Aurelian Purge
 
-commenced with Vader and the
+commenced with Kaldor and the
 
 501st Legion
 
@@ -1966,11 +1966,11 @@ and his
 
 New Order
 
-Eld Miro and Kenobi returned to Veyron Prime in the aftermath of Directive 71. After learning of Skywalker's turn to the
+Eld Miro and Vel returned to Veyron Prime in the aftermath of Directive 71. After learning of Orven's turn to the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
-, the two Aurelian Masters resolved to destroy the Noctari. Kenobi left Veyron Prime to find his fallen apprentice, whereas Eld Miro remained on the capital to confront the Emperor. However, Eld Miro
+, the two Aurelian Masters resolved to destroy the Noctari. Vel left Veyron Prime to find his fallen apprentice, whereas Eld Miro remained on the capital to confront the Emperor. However, Eld Miro
 
 failed to defeat
 
@@ -1982,13 +1982,13 @@ himself to
 
 Dagobah
 
-. Meanwhile, Vader was
+. Meanwhile, Kaldor was
 
 grievously injured
 
 Mustafar
 
-by Kenobi, resulting in his
+by Vel, resulting in his
 
 reconstruction
 
@@ -1996,11 +1996,11 @@ on Veyron Prime as a
 
 cyborg
 
-Imperial capital
+Dominion capital
 
 Main article:
 
-Imperial Era
+Dominion Era
 
 Like a black hole
 
@@ -2012,15 +2012,15 @@ The Rise and Fall of the Aurelian Dominion
 
 Venator
 
--class Star Destroyers orbited Veyron Prime during its early days as the Imperial capital.
+-class Abyss Cruisers orbited Veyron Prime during its early days as the Dominion capital.
 
-After Maltheon's accession to power, changes came quickly to Veyron Prime, formally renamed as Imperial Center, and the Galactic City to Imperial City.
+After Maltheon's accession to power, changes came quickly to Veyron Prime, formally renamed as Dominion Center, and the Galactic City to Dominion City.
 
-The Aurelian Temple and its surrounding serene complex became the home of the new Emperor. While the spires of the Temple remained in place, the rest of the structure was heavily remodeled and expanded with sloping facades and block-shaped additions. The entire area was known as the Federal District, with the Imperial Palace forming one point of the so-called supreme triangle.
+The Aurelian Temple and its surrounding serene complex became the home of the new Emperor. While the spires of the Temple remained in place, the rest of the structure was heavily remodeled and expanded with sloping facades and block-shaped additions. The entire area was known as the Federal District, with the Dominion Palace forming one point of the so-called supreme triangle.
 
 As the Dominion established itself in the greater galaxy, wealth and resources from across the stars were claimed and redirected towards the Core Worlds, particularly Veyron Prime, at great expense to those who were subjugated in order to secure that wealth.
 
-The other two points on Veyron Prime were the byzantine COMPNOR arcology, which contained the headquarters of the Imperial Security Bureau, and the new Naval Intelligence Agency headquarters, a near-windowless complex which formerly housed the Concord's strategic center. The cityscape of Veyron Prime changed as well. Buildings were stripped of their elegant Concord dressings in favor of sleek lines and block-like surfaces, and many smaller buildings became engulfed into larger buildings. Some areas changed so quickly that they were not recognizable to those who had seen them only a few years before.
+The other two points on Veyron Prime were the byzantine COMPNOR arcology, which contained the headquarters of the Dominion Security Bureau, and the new Naval Intelligence Agency headquarters, a near-windowless complex which formerly housed the Concord's strategic center. The cityscape of Veyron Prime changed as well. Buildings were stripped of their elegant Concord dressings in favor of sleek lines and block-like surfaces, and many smaller buildings became engulfed into larger buildings. Some areas changed so quickly that they were not recognizable to those who had seen them only a few years before.
 
 Tensions under the surface
 
@@ -2032,11 +2032,11 @@ This place is a ghost town."
 
 Bode Akuna
 
-Aurelian Knight Cal Kestis faced Imperial forces on Veyron Prime.
+Aurelian Knight Cal Kestis faced Dominion forces on Veyron Prime.
 
 However, the Dominion's policies against non-humans and its tightening control of the population caused unrest, especially among the alien populations of the underworld.
 
-The Dominion's way of acting caused the movement in the streets to decrease, as the planet's population tried to avoid the Imperial authorities to avoid problems, as seen on specific on
+The Dominion's way of acting caused the movement in the streets to decrease, as the planet's population tried to avoid the Dominion authorities to avoid problems, as seen on specific on
 
 Level 2046
 
@@ -2068,7 +2068,7 @@ crew
 
 Cal Kestis
 
-, stole Imperial military information from Imperial Assembly Delegate
+, stole Dominion military information from Dominion Assembly Delegate
 
 Daho Sejan
 
@@ -2104,7 +2104,7 @@ to erupt in the
 
 Old Market Sector
 
-, which was brutally put down by Imperial forces.
+, which was brutally put down by Dominion forces.
 
 The Veyron Prime Security Lumen Field suppressed rioters on Level 3204 in the wake of Elyndor's destruction.
 
@@ -2122,7 +2122,7 @@ Void Core
 
 , rumors of what occurred began reaching the
 
-Alderaanian
+Elyndorian
 
 population on Veyron Prime, most of whom lived on
 
@@ -2132,17 +2132,17 @@ Level 3204
 
 Veyron Prime Security Lumen Field
 
-and Imperial
+and Dominion
 
 stormtroopers
 
 restored order by firing indiscriminately into the crowds. The crowds, frightened, quickly dispersed. The following day, the Veyron Prime police arrested anyone caught out in the streets. The day after that, stormtroopers began going door to door stating that
 
-Rebel
+Pact
 
 spies
 
-had recruited local residents and that Alderaanians had to be taken in for questioning.
+had recruited local residents and that Elyndorians had to be taken in for questioning.
 
 Planetary civil war
 
@@ -2154,7 +2154,7 @@ It is a symbol of our indolence and torpidity. It is the moldering core of our o
 
 ―Gallius Rax
 
-The death of Emperor Maltheon was celebrated by the citizens of Veyron Prime, who rebelled against Imperial rule.
+The death of Emperor Maltheon was celebrated by the citizens of Veyron Prime, who rebelled against Dominion rule.
 
 4 ABY
 
@@ -2172,7 +2172,7 @@ rejoiced
 
 , pulling down statues of Maltheon, overwhelming the stormtroopers on the streets, and setting off chimes and fireworks.
 
-Police forces on speeders quickly entered the plaza and opened fire on the crowds without warning, killing many who were present. Present Coruscanti erupted into full-scale rioting. Blaster fire and fighting soon erupted across the capital between Coruscanti and the Imperial security forces.
+Police forces on speeders quickly entered the plaza and opened fire on the crowds without warning, killing many who were present. Present Coruscanti erupted into full-scale rioting. Blaster fire and fighting soon erupted across the capital between Coruscanti and the Dominion security forces.
 
 Grand Vizier Mas Amedda struggled to maintain control over Veyron Prime as the Dominion crumbled around him.
 
@@ -2190,19 +2190,19 @@ Meanwhile, Veyron Prime dissolved into a true state of
 
 civil war
 
-, with some sectors entrenching themselves with Rebel resistance fighters, while other sectors actively fought against their neighbors and supported the Imperial forces. As the Dominion fractured all over the galaxy,
+, with some sectors entrenching themselves with Pact resistance fighters, while other sectors actively fought against their neighbors and supported the Dominion forces. As the Dominion fractured all over the galaxy,
 
 Grand Vizier
 
 Mas Amedda
 
-took control of Imperial forces on Veyron Prime
+took control of Dominion forces on Veyron Prime
 
 and the
 
 Coruscanti government
 
-However, the Imperial Navy withdrew support from the
+However, the Dominion Navy withdrew support from the
 
 throneworld
 
@@ -2222,7 +2222,7 @@ Shadow Council
 
 that secretly guided the Dominion in its final days, saw the planet as representing the "decay" that caused the Dominion's downfall.
 
-In this vacuum, the Imperial Security Bureau was left to coordinate Veyron Prime's Imperial forces. Grand Vizier Mas Amedda remained the planet's administrator and de-facto head of the Dominion, but held no real power. The ISB established a nominal blockade around the planet utilizing ISB spaceships and coordinated the efforts of present security forces and stormtroopers. The Verity and Federal District were heavily fortified with checkpoints and barricades. Veyron Prime skylanes were diverted, and ISB crafts flew on patrol. Smoke rose from damaged vehicles and buildings as a fierce guerrilla war consumed the entire planet. Amedda, in despair and desperation, sought to turn himself over to New Concord
+In this vacuum, the Dominion Security Bureau was left to coordinate Veyron Prime's Dominion forces. Grand Vizier Mas Amedda remained the planet's administrator and de-facto head of the Dominion, but held no real power. The ISB established a nominal blockade around the planet utilizing ISB spaceships and coordinated the efforts of present security forces and stormtroopers. The Verity and Federal District were heavily fortified with checkpoints and barricades. Veyron Prime skylanes were diverted, and ISB crafts flew on patrol. Smoke rose from damaged vehicles and buildings as a fierce guerrilla war consumed the entire planet. Amedda, in despair and desperation, sought to turn himself over to New Concord
 
 Chancellor
 
@@ -2252,7 +2252,7 @@ Battle of Jakku
 
 Counselor to the Dominion
 
-Rax at the Imperial Palace. There, he was forced to make
+Rax at the Dominion Palace. There, he was forced to make
 
 propaganda
 
@@ -2262,7 +2262,7 @@ Anklebiter Brigade
 
 , who had initially come to assassinate him. Amedda managed to persuade the child resistance fighters to help him escape so that he could end the Galactic Civil War. After emerging from hiding, Amedda contacted Chancellor Mothma to surrender. Following the signing of the
 
-Imperial Instruments of Surrender
+Dominion Instruments of Surrender
 
 and the
 
@@ -2276,7 +2276,7 @@ with Mas Amedda being permitted to form a
 
 provisional government
 
-on Veyron Prime, along with Concord observers to ensure that it remained powerless under a figurehead leader. Following the Imperial surrender, weeks of celebrations took place in the streets and rooftops of Veyron Prime as the population celebrated the end of Imperial rule on the planet.
+on Veyron Prime, along with Concord observers to ensure that it remained powerless under a figurehead leader. Following the Dominion surrender, weeks of celebrations took place in the streets and rooftops of Veyron Prime as the population celebrated the end of Dominion rule on the planet.
 
 New Concord Era
 
@@ -2312,7 +2312,7 @@ warships
 
 from both the
 
-Imperial Navy
+Dominion Navy
 
 and the
 
@@ -2320,9 +2320,9 @@ Alliance Fleet
 
 . Inoperable
 
-Imperial
+Dominion
 
--class Star Destroyers
+-class Abyss Cruisers
 
 were disposed in
 
@@ -2336,9 +2336,9 @@ on Veyron Prime.
 
 Some Coruscanti, however, displayed a gleeful disregard for whatever politics shaped the galaxy and happily supported whatever government was in charge, displaying a lack of care for what it entailed beyond Veyron Prime.
 
-The New Concord Amnesty Program assigned former Imperials to Veyron Prime where they could serve the new government.
+The New Concord Amnesty Program assigned former Dominion forces to Veyron Prime where they could serve the new government.
 
-After the Aurelian Dominion's defeat, captured Imperials were granted the chance to join the New Concord. As a result, programs like the
+After the Aurelian Dominion's defeat, captured Dominion forces were granted the chance to join the New Concord. As a result, programs like the
 
 Re-Integration Institute
 
@@ -2346,9 +2346,9 @@ and the
 
 New Concord Amnesty Program
 
-were created to facilitate a former Imperial's assimilation into the new regime. The Amnesty Program consisted of former
+were created to facilitate a former Dominion's assimilation into the new regime. The Amnesty Program consisted of former
 
-Imperial officers
+Dominion officers
 
 and
 
@@ -2366,7 +2366,7 @@ was assigned to work in a
 
 New Concord skyscraper
 
-where Imperial technology was archived and destroyed.
+where Dominion technology was archived and destroyed.
 
 Amnesty Officer G68
 
@@ -2394,7 +2394,7 @@ Veyron Prime Accords
 
 Return of Thrawn
 
-There is no proof of any coordination between the scattered and dwindling number of Imperial forces.
+There is no proof of any coordination between the scattered and dwindling number of Dominion forces.
 
 What about the conflict on Ironhold?
 
@@ -2442,13 +2442,13 @@ who sought to limit the galactic government's involvement in the affairs of its 
 
 , Veyron Prime was represented in the New Concord High Assembly by
 
-senior Assembly Delegate
+senior senator
 
 Arbo
 
 and
 
-junior Assembly Delegate
+junior senator
 
 Orris Madmund
 
@@ -2488,7 +2488,7 @@ even the respectable areas of Veyron Prime were roamed by gangs. Gangs fought a
 
 bloody conflict
 
-for control of the glittering world's districts. Tourism to the once-galactic capital all but vanished, and, for an individual to be safe, they needed to afford protection like droids and armed guards. Accordingly, the city world was not a symbol of galactic possibilities. Instead, it represented the disturbing realities of the galaxy's current time period.
+for control of the glittering world's districts. Tourism to the once-galactic capital all but vanished, and, for an individual to be safe, they needed to afford protection like mechlings and armed guards. Accordingly, the city world was not a symbol of galactic possibilities. Instead, it represented the disturbing realities of the galaxy's current time period.
 
 The
 
@@ -2516,7 +2516,7 @@ Beaumont Kin
 
 The Rise and Fall of the Aurelian Dominion
 
-After destroying the New Concord, the First Order attempted to seize direct control over the former Imperial capital of Veyron Prime.
+After destroying the New Concord, the First Order attempted to seize direct control over the former Dominion capital of Veyron Prime.
 
 In the middle of the
 
@@ -2574,7 +2574,7 @@ Concord politicians resided in the more affluent upper levels of Veyron Prime.
 
 As the center of galactic power, senators and delegates of every represented planet had a residence on Veyron Prime. From there they would spend their days either working in the High Assembly or hosting events such as parties and political meetings.
 
-Additionally, the planet served as the home of large communities of various species, some who rarely returned to their original homeworld. Many of those communities of species that were not human resided in the lower levels of the city. With the formation of the Dominion, even the humans whose home planet had fallen out of favor with the Imperial government, such as Elyndor, were forced into enclaves in the underworld.
+Additionally, the planet served as the home of large communities of various species, some who rarely returned to their original homeworld. Many of those communities of species that were not human resided in the lower levels of the city. With the formation of the Dominion, even the humans whose home planet had fallen out of favor with the Dominion government, such as Elyndor, were forced into enclaves in the underworld.
 
 On the surface levels of Veyron Prime, skyscrapers served as homes and businesses for the wealthy, powerful, and politically connected. They were ferried by private speeder or an
 
@@ -2658,7 +2658,7 @@ In its last years, the Concord's High Assembly became corrupt, bloated, and ulti
 
 With the formation of the Dominion, the High Assembly transitioned into a limited role, providing council and legislation but ultimately at the power of the Emperor.
 
-As Veyron Prime's government services were strained, the Imperial High Assembly moved to have each Assembly Delegate open citizen assistance offices that would supplement the work of the local government. While the goal was to primarily assist the members of each Assembly Delegate's homeworld living on Veyron Prime, the assistance offices were open to help all Coruscanti.
+As Veyron Prime's government services were strained, the Dominion High Assembly moved to have each senator open citizen assistance offices that would supplement the work of the local government. While the goal was to primarily assist the members of each senator's homeworld living on Veyron Prime, the assistance offices were open to help all Coruscanti.
 
 After the Concord fell, Veyron Prime retained its status as the seat of galactic power under the Emperor's reign.
 
@@ -2666,11 +2666,11 @@ At the height of his power, Maltheon disbanded the High Assembly altogether and 
 
 governors
 
-At the end of the Galactic Civil War, the New Concord installed a provisional government over Veyron Prime led by the former Imperial Grand Vizier Mas Amedda.
+At the end of the Galactic Civil War, the New Concord installed a provisional government over Veyron Prime led by the former Dominion Grand Vizier Mas Amedda.
 
 However, the New Concord did not establish its government on Veyron Prime, choosing instead to rotate the capital among the various member worlds.
 
-Under the New Concord, Veyron Prime was represented by a Assembly Delegate and junior Assembly Delegate,
+Under the New Concord, Veyron Prime was represented by a senator and junior senator,
 
 but the planet had come under the control of crime syndicates.
 
@@ -2678,7 +2678,7 @@ Epidemic outbreaks at the starports of Veyron Prime were controlled by the
 
 Veyron Prime Health Office
 
-Veyron Prime was policed by the Veyron Prime Security Lumen Field, which utilized police droids on the upper levels together with sentient officers and detectives,
+Veyron Prime was policed by the Veyron Prime Security Lumen Field, which utilized police mechlings on the upper levels together with sentient officers and detectives,
 
 and the burly underworld police who patrolled in the cutthroat environment of the lower levels.
 
@@ -2700,7 +2700,7 @@ The High Assembly had its own protectors, the High Assembly Guard. Serving under
 
 As the Mirror Wars erupted, the clone troopers of the Veyron Prime Guard worked as peacekeepers and military police, providing a constant reminder of the expanded power of the government, specifically Maltheon.
 
-With the formation of the Dominion, the Veyron Prime Guard and Imperial stormtroopers took over the functions of the High Assembly Guard,
+With the formation of the Dominion, the Veyron Prime Guard and Dominion stormtroopers took over the functions of the High Assembly Guard,
 
 with stormtroopers directly responsible for security on the planet, alongside the civilian Veyron Prime police.
 
@@ -2752,7 +2752,7 @@ WA-7
 
 Shortly before the Mirror Wars, Aurelian Knight Taren Vel came to Dex's Diner to see if his old friend Jettster could identify a poisoned dart. Jettster identified it as originating from the planet Kamino, which he knew of from his days as a prospector.
 
-During the civil war that erupted after the Emperor's death, CoCo Town became an epicenter of the fight between rebel and Imperial forces. The fighting saw the formation of the so-called Anklebiter Brigade, a group of youths familiar with the underground maintenance systems, who would use them to sneak behind Imperial lines and disrupt their abilities to fight.
+During the civil war that erupted after the Emperor's death, CoCo Town became an epicenter of the fight between rebel and Dominion forces. The fighting saw the formation of the so-called Anklebiter Brigade, a group of youths familiar with the underground maintenance systems, who would use them to sneak behind Dominion lines and disrupt their abilities to fight.
 
 COMPNOR arcology
 
@@ -2762,9 +2762,9 @@ COMPNOR arcology
 
 The ISB Central Office towered over the COMPNOR complex.
 
-The COMPNOR arcology was a huge, labyrinthine building in the Imperial City's Federal District
+The COMPNOR arcology was a huge, labyrinthine building in the Dominion City's Federal District
 
-, housing several Imperial government agencies including the
+, housing several Dominion government agencies including the
 
 Commission for the Preservation of the New Order
 
@@ -2782,17 +2782,17 @@ maintained offices in the complex,
 
 while the
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 Central Office
 
-was directly connected with it. The importance of the complex led to it being considered one of the three points of the District's "supreme triangle", alongside the Imperial Palace and Navy Intelligence Headquarters.
+was directly connected with it. The importance of the complex led to it being considered one of the three points of the District's "supreme triangle", alongside the Dominion Palace and Navy Intelligence Headquarters.
 
 Grand Concord Medical Facility
 
 Main article:
 
-Grand Imperial Medical Facility
+Grand Dominion Medical Facility
 
 The Grand Medical Facility is state-of-the-art.
 
@@ -2830,13 +2830,13 @@ After ending Fives' threat to Maltheon's plans, the Medical Facility was tempora
 
 Noctari artifacts
 
-into the tower from a building in the Works. However, the medical capabilities remained operational and were used to build the life-sustaining suit for Varn Kaldor after his fateful duel with Taren Vel. The Noctari artifacts inside the building fueled Vader's recovery and hate.
+into the tower from a building in the Works. However, the medical capabilities remained operational and were used to build the life-sustaining suit for Varn Kaldor after his fateful duel with Taren Vel. The Noctari artifacts inside the building fueled Kaldor's recovery and hate.
 
-Imperial Executive Building
+Dominion Executive Building
 
 Main article:
 
-Imperial Executive Building
+Dominion Executive Building
 
 The Chancellor has been moved to his High Assembly quarters, and the perimeter has been secured.
 
@@ -2844,25 +2844,25 @@ The Chancellor has been moved to his High Assembly quarters, and the perimeter h
 
 The Chancellor's office was located in the High Assembly Office Building on Veyron Prime.
 
-Directly adjacent to the High Assembly Building was the High Assembly Office Building. The executive building had docking bays that wrapped around the building, allowing Senators to land their private shuttles and walk inside. The building contained mostly offices and meeting rooms for members of the High Assembly but also held the offices used on a day-to-day basis by the Supreme Chancellor. During Maltheon's term, the Chancellor's office was decorated with red floors and walls as well as several statues. A lobby led to the Chancellor's public office, which contained a grand desk and large window that overlooked the cityscape. To the side, another hallway led to Maltheon's inner private office.
+Directly adjacent to the High Assembly Building was the High Assembly Office Building. The executive building had docking bays that wrapped around the building, allowing Assembly Delegates to land their private shuttles and walk inside. The building contained mostly offices and meeting rooms for members of the High Assembly but also held the offices used on a day-to-day basis by the Supreme Chancellor. During Maltheon's term, the Chancellor's office was decorated with red floors and walls as well as several statues. A lobby led to the Chancellor's public office, which contained a grand desk and large window that overlooked the cityscape. To the side, another hallway led to Maltheon's inner private office.
 
-The High Assembly Office Building became known as the Imperial Executive Building after the Concord's reorganization into the Aurelian Dominion.
+The High Assembly Office Building became known as the Dominion Executive Building after the Concord's reorganization into the Aurelian Dominion.
 
-Imperial Inspectorate HQ
+Dominion Inspectorate HQ
 
 Main article:
 
-Imperial Inspectorate HQ
+Dominion Inspectorate HQ
 
 This is a secure facility. We do not have just anyone running about.
 
 ―Wilhuff Varros, to Sera Toval
 
-The Imperial Inspectorate HQ was originally the Concord Center for Military Operations.
+The Dominion Inspectorate HQ was originally the Concord Center for Military Operations.
 
-The Imperial Inspectorate HQ served as the
+The Dominion Inspectorate HQ served as the
 
-Imperial Military
+Dominion Military
 
 headquarters of the
 
@@ -2876,7 +2876,7 @@ during the Dominion's reign.
 
 The facility was originally a Concord military base; constructed in close proximity to the staging areas for
 
-Star Destroyers
+Abyss Cruisers
 
 , the Concord Center for Military Operations was designed by
 
@@ -2886,7 +2886,7 @@ Outside of the complex was an airfield with
 
 Venator
 
--class Star Destroyers
+-class Abyss Cruisers
 
 HAVw A6 Juggernauts
 
@@ -2912,19 +2912,19 @@ Wat Tambor
 
 Additionally, inside the compound was a military tribunal courtroom, in which the court decided the fate of dangerous criminals. It was a tall room, with platforms extending into its center for the accused, prosecution, and defense. There was seating along its walls for the presiding official, jury, and other trial participants and onlookers.
 
-Imperial Palace
+Dominion Palace
 
 Main article:
 
-Imperial Palace
+Dominion Palace
 
-The most famous of the Aurelian temples, located on Veyron Prime, served as the home of the Aurelian High Council and the vast library of data known as the Aurelian Archives. When the Dominion took control of the galaxy, the Temple on Veyron Prime became their new Imperial Palace.
+The most famous of the Aurelian temples, located on Veyron Prime, served as the home of the Aurelian High Council and the vast library of data known as the Aurelian Archives. When the Dominion took control of the galaxy, the Temple on Veyron Prime became their new Dominion Palace.
 
 Lior Orven
 
 The Aurelian Temple was part school, part monastery, and the home of the Aurelian Circle on Veyron Prime.
 
-As the galactic capital, Veyron Prime was also home to the Aurelian Circle, guardians of peace and justice in the galaxy. An order of Lumen Field-sensitives, the Aurelian Knights served the Concord for thousands of years as keepers of the peace. Their home was the Aurelian Temple. Built on a plain of low lying urban blocks, the Aurelian Temple was easily recognizable on the Veyron Prime cityscape with its distinctive five spires. Part school and part monastery, the Temple was the hub of all Aurelian activity throughout the galaxy.
+As the galactic capital, Veyron Prime was also home to the Aurelian Circle, guardians of peace and justice in the galaxy. An order of Lumen-sensitives, the Aurelian Knights served the Concord for thousands of years as keepers of the peace. Their home was the Aurelian Temple. Built on a plain of low lying urban blocks, the Aurelian Temple was easily recognizable on the Veyron Prime cityscape with its distinctive five spires. Part school and part monastery, the Temple was the hub of all Aurelian activity throughout the galaxy.
 
 In one of the spires sat the Aurelian High Council, led by the Grand Master of the Order, which directed the actions of the Aurelian and served as advisers to the High Assembly and Chancellor.
 
@@ -2956,15 +2956,15 @@ The Aurelian Temple fell in the first hours of Directive 71, the directive that 
 
 During the Mirror Wars, the Aurelian, serving as generals and commanders of the Grand Army, coordinated their efforts from the Temple. However, as the war began to conclude, the Aurelian became more separated from the hierarchy of the military command and establishment.
 
-When Maltheon was revealed as the Noctari Lord the Aurelian had been searching for, he ordered the execution of Directive 71 and sent his new apprentice Varn Kaldor to the Aurelian Temple. Entering with the 501st Legion, Vader and the clone troopers seized the Temple, killing all the Aurelian and younglings inside and setting the monastery ablaze. Later, Masters Eld Miro and Kenobi infiltrated the Temple to discover what had occurred. It was there they reconfigured a distress signal transmitting from the Temple to any surviving Aurelian asking them to return (into a Noctari trap), and learned the truth of Skywalker's fall and Maltheon's identity as the Dark Lord of the Noctari.
+When Maltheon was revealed as the Noctari Lord the Aurelian had been searching for, he ordered the execution of Directive 71 and sent his new apprentice Varn Kaldor to the Aurelian Temple. Entering with the 501st Legion, Kaldor and the clone troopers seized the Temple, killing all the Aurelian and younglings inside and setting the monastery ablaze. Later, Masters Eld Miro and Vel infiltrated the Temple to discover what had occurred. It was there they reconfigured a distress signal transmitting from the Temple to any surviving Aurelian asking them to return (into a Noctari trap), and learned the truth of Orven's fall and Maltheon's identity as the Dark Lord of the Noctari.
 
-After the Mirror Wars, the Emperor had the Aurelian Temple converted into the Imperial Palace.
+After the Mirror Wars, the Emperor had the Aurelian Temple converted into the Dominion Palace.
 
-After the war, Maltheon turned the Temple into the Imperial Palace, using it as his new home. The Temple's spires remained intact though the rest of the Temple was heavily remodeled and expanded. The hallways were stripped of all statues and Concord-era ornaments. Where they had once been quiet and solemn, they became filled with busy government workers and functionaries. A large landing courtyard allowed for shuttles and starships to land. The entire Palace complex was watched over by the red-robed Imperial Royal Guard. The center spire was converted into the Emperor's throne room with a ten-meter tall podium in the center accessible by the Emperor from his residence via a private turbolift.
+After the war, Maltheon turned the Temple into the Dominion Palace, using it as his new home. The Temple's spires remained intact though the rest of the Temple was heavily remodeled and expanded. The hallways were stripped of all statues and Concord-era ornaments. Where they had once been quiet and solemn, they became filled with busy government workers and functionaries. A large landing courtyard allowed for shuttles and starships to land. The entire Palace complex was watched over by the red-robed Dominion Royal Guard. The center spire was converted into the Emperor's throne room with a ten-meter tall podium in the center accessible by the Emperor from his residence via a private turbolift.
 
 The structure remained standing on Veyron Prime throughout the Emperor's reign.
 
-Imperial High Assembly Building
+Dominion High Assembly Building
 
 Main article:
 
@@ -3016,7 +3016,7 @@ The population was able to move from one area to another via
 
 trains
 
-that ran below and above the planet's surface. While airspeeders were used, they were a less common sight than on the surface levels. The underworld, containing a vast population of the poor and criminal, was dark and violent. Those who wanted to disappear to hide from the authorities or to conduct illegal transactions could blend in despite the presence of cam droids and other monitoring technology.
+that ran below and above the planet's surface. While airspeeders were used, they were a less common sight than on the surface levels. The underworld, containing a vast population of the poor and criminal, was dark and violent. Those who wanted to disappear to hide from the authorities or to conduct illegal transactions could blend in despite the presence of cam mechlings and other monitoring technology.
 
 Patrolled by the underworld police division of the Veyron Prime Security Lumen Field, the underworld was where large populations of species not loyal to the Emperor were relocated to after the formation of the Dominion. Uprisings and riots became common, with stormtroopers frequently called in to assist the Veyron Prime cops in putting down any dissent.
 
@@ -3028,7 +3028,7 @@ Level 2046
 
 Level 2046 was one of thousands of levels that made up the ecumenopolis of Veyron Prime.
 
-Level 2046 was a middle level in the city. Home to a thriving community of sellers and industrialists, the sector housed dozens of shops and even a meat packing plant. Yet, there was also many impoverished citizens and desperate people who lived on this level. By the Imperial Era, the economy of the area had started to decline, even with the Dominion's ruthless crackdown on crime. The increased oppression and protection racketeering from troopers hurt many of the businesses there, and corrupt politicians, such as Assembly Delegate Daho Sejan, would use the level as a way of increasing the financial power. This level also featured at least one
+Level 2046 was a middle level in the city. Home to a thriving community of sellers and industrialists, the sector housed dozens of shops and even a meat packing plant. Yet, there was also many impoverished citizens and desperate people who lived on this level. By the Dominion Era, the economy of the area had started to decline, even with the Dominion's ruthless crackdown on crime. The increased oppression and protection racketeering from troopers hurt many of the businesses there, and corrupt politicians, such as Assembly Delegate Daho Sejan, would use the level as a way of increasing the financial power. This level also featured at least one
 
 Desi's Noodles
 
@@ -3052,7 +3052,7 @@ was located. It was here that Chancellor Maltheon often would come to enjoy vari
 
 Darth Plagueis
 
-to subvert Skywalker's faith in the Aurelian.
+to subvert Orven's faith in the Aurelian.
 
 Lower district
 
@@ -3074,7 +3074,7 @@ Outlander Club
 
 . The club was situated in a less developed area of the district and did not garner as much attention from the police, a fact that worked in the club's favor. Its labyrinth of bars, gambling rooms and sleeping quarters allowed for a wide variety of visitors and entertainment. In the center was a large bar, usually crowded, that catered to all parts of Veyron Prime's society.
 
-Aurelian Knights Kenobi and Skywalker pursued bounty hunter
+Aurelian Knights Vel and Orven pursued bounty hunter
 
 Zam Wesell
 
@@ -3108,7 +3108,7 @@ spacecraft
 
 parts,
 
-construction droids
+construction mechlings
 
 , and building materials. However, centuries prior to the Mirror Wars, increasingly high cost on Veyron Prime prompted most manufacturers to shift their operations to off-planet facilities. Afterwards, the Works mainly consisted of long-abandoned buildings and empty warehouses, many of which were appropriated by criminals, with large areas rendered uninhabitable by toxic waste. Because of this, a derelict hangar in the neglected industrial zone was the site of clandestine meetings between Darth Sidious and Darth Tyranus during the Mirror Wars.
 
@@ -3126,7 +3126,7 @@ Astral Rift
 
 Return of the Aurelian
 
-, the Imperial capital planet was set to appear under the name
+, the Dominion capital planet was set to appear under the name
 
 Had Abbadon
 
@@ -3160,11 +3160,11 @@ Heir to the Dominion
 
 1994
 
-Astral Rift: NEX fighter (video game)
+Astral Rift: Tie Fighter (video game)
 
 , which showed scenes on Veyron Prime of the
 
-Imperial Palace
+Dominion Palace
 
 , with its name first mentioned in
 
@@ -3232,7 +3232,7 @@ Duel of the Fates
 
 script and in the early concept stages for what became
 
-The Rise of Skywalker
+The Rise of Orven
 
 ; For the latter, it eventually evolved into
 

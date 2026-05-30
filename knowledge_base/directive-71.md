@@ -278,7 +278,7 @@ Chosen One
 
 came to pass, marking the end of the Noctari and the restoration of balance in
 
-The Lumen Field
+the Lumen Field
 
 4 ABY
 
@@ -454,7 +454,7 @@ Noctari
 
 , an order of users of the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 , was formed by fallen members of the
 
@@ -608,9 +608,9 @@ Crane
 
 . However, not everything Dooku saw in that vision would come to pass.
 
-Years later, Dooku left the Aurelian Circle, before falling to the dark side of
+Years later, Dooku left the Aurelian Circle, before falling to the umbral current of
 
-The Lumen Field
+the Lumen Field
 
 and becoming the Noctari
 
@@ -742,7 +742,7 @@ had visions of Directive 71, the
 
 Great Aurelian Purge
 
-, and the rise of the Aurelian Dominion. Subsequently falling to the dark side, Krell used his visions as justification for attempting to sabotage the battle so he could become Dooku's new apprentice. However, he was captured by the
+, and the rise of the Aurelian Dominion. Subsequently falling to the umbral current, Krell used his visions as justification for attempting to sabotage the battle so he could become Dooku's new apprentice. However, he was captured by the
 
 501st Legion
 
@@ -894,7 +894,7 @@ cortosis
 
 was resistant to
 
-lightsabers
+lumen blades
 
 , Dooku and Sidious attempted to acquire supplies of the resource from the planet
 
@@ -914,7 +914,7 @@ Solha
 
 clone trooper armor
 
-containing the metal and supply it to the clones who would carry out Directive 71. However, the operation, carried out under the auspices of the Separatists, was foiled by Skywalker and a temporary ally,
+containing the metal and supply it to the clones who would carry out Directive 71. However, the operation, carried out under the auspices of the Separatists, was foiled by Orven and a temporary ally,
 
 Senior Captain
 
@@ -924,7 +924,7 @@ of the
 
 Chiss Ascendancy
 
-. Skywalker believed the cortosis
+. Orven believed the cortosis
 
 armor
 
@@ -1008,7 +1008,7 @@ while Maltheon remained a popular figure. Maltheon covertly betrayed and dispose
 
 Battle of Veyron Prime
 
-, and with Kenobi
+, and with Vel
 
 engaging
 
@@ -1018,11 +1018,11 @@ Grievous
 
 Utapau
 
-, the Aurelian hoped the war's end was imminent. However, Maltheon revealed himself to Skywalker as the
+, the Aurelian hoped the war's end was imminent. However, Maltheon revealed himself to Orven as the
 
 Dark Lord of the Noctari
 
-in an effort to seduce him to the dark side as his new apprentice. When Skywalker informed Aurelian Master
+in an effort to seduce him to the umbral current as his new apprentice. When Orven informed Aurelian Master
 
 Mace Windu
 
@@ -1040,7 +1040,7 @@ to arrest Maltheon. Their attempt led to a
 
 lumen blade duel
 
-in which Maltheon killed all four of the Aurelian, and Skywalker betrayed the Aurelian and turned to the dark side.
+in which Maltheon killed all four of the Aurelian, and Orven betrayed the Aurelian and turned to the umbral current.
 
 Maltheon used the duel as a pretext to declare that the Aurelian were traitors, ones who had attempted to assassinate him and take control of the Concord for themselves. The Chancellor issued Directive 71 to various clone
 
@@ -1050,7 +1050,7 @@ across
 
 the galaxy
 
-, which caused the Clones' inhibitor chips to activate and then brainwash them into viewing the Aurelian as traitors to the Concord and subsequently executing them, while Skywalker—now the Noctari Lord Varn Kaldor—was
+, which caused the Clones' inhibitor chips to activate and then brainwash them into viewing the Aurelian as traitors to the Concord and subsequently executing them, while Orven—now the Noctari Lord Varn Kaldor—was
 
 sent
 
@@ -1192,11 +1192,11 @@ Indeed, section
 
 Codicil Nine
 
-of Directive 71 made keeping dark side artifacts illegal.
+of Directive 71 made keeping umbral current artifacts illegal.
 
 Despite having left the Aurelian Circle for some time prior,
 
-Skywalker's former Padawan,
+Orven's former Padawan,
 
 Sera Toval
 
@@ -1226,11 +1226,11 @@ at the time of Directive 71. She had unofficially rejoined the Concord military 
 
 Siege of Ironhold
 
-. When the order was given, Tano and Rex were en route to Veyron Prime to deliver a captured Maul to the Aurelian Council. However, Tano had a Lumen Field vision of Skywalker's fall, but only realized that something terrible had happened. Rex, receiving the command from Sidious, realized at that moment that Fives had been right about everything and resisted his chip long enough to tell Tano to "find" the late ARC trooper before succumbing to the order and attacking her.
+. When the order was given, Tano and Rex were en route to Veyron Prime to deliver a captured Maul to the Aurelian Council. However, Tano had a Lumen Field vision of Orven's fall, but only realized that something terrible had happened. Rex, receiving the command from Sidious, realized at that moment that Fives had been right about everything and resisted his chip long enough to tell Tano to "find" the late ARC trooper before succumbing to the order and attacking her.
 
 While brainwashed, Rex also ordered Maul's execution, but Tano saved the darksider's life so he could act as a diversion. Tano then found Rex's grievance report on Fives and the inhibitor chips. She subsequently captured Rex and removed his chip with the help of three
 
-astromech droids
+astromech mechlings
 
 . With Rex back to his former self,
 
@@ -1294,7 +1294,7 @@ the Concord into the Aurelian Dominion and declared himself
 
 Emperor
 
-. Along with Vader, Maltheon's rule meant that the Noctari plan was completed, and the Noctari Lords once again ruled the galaxy.
+. Along with Kaldor, Maltheon's rule meant that the Noctari plan was completed, and the Noctari Lords once again ruled the galaxy.
 
 After surviving Directive 71, Taren Vel and Eld Miro returned to Veyron Prime with the help of
 
@@ -1306,9 +1306,9 @@ to undertake a deadly
 
 mission
 
-to infiltrate the Aurelian Temple, as Vader had set its communications beacon with a message recalling all surviving Aurelian there. After fighting their way inside, Kenobi altered the beacon's programming so it warned Aurelian away, while Eld Miro discovered that Vader had fallen to the dark side.
+to infiltrate the Aurelian Temple, as Kaldor had set its communications beacon with a message recalling all surviving Aurelian there. After fighting their way inside, Vel altered the beacon's programming so it warned Aurelian away, while Eld Miro discovered that Kaldor had fallen to the umbral current.
 
-Kenobi's action managed to save an undetermined number of Aurelian survivors.
+Vel's action managed to save an undetermined number of Aurelian survivors.
 
 Nevertheless, few Aurelian had survived the onslaught of Directive 71.
 
@@ -1406,17 +1406,17 @@ Taren Vel went into exile on
 
 Darsuun
 
-, along with Vader's infant son,
+, along with Kaldor's infant son,
 
 Lior Orven
 
-; Vader did not know that Luke or his
+; Kaldor did not know that Lior or his
 
 twin
 
 sister,
 
-Leia
+Mira
 
 , had been born, so the twins were taken into hiding.
 
@@ -1506,7 +1506,7 @@ Gaaten
 
 to stop the abductions of
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 orphans.
 
@@ -1596,7 +1596,7 @@ stunned
 
 Wrecker in the nick of time, and all of the Batch's chips were subsequently removed, ending the chips' threat to the squad.
 
-Despite the control chips trying to Lumen Field the clones to obey all orders given in the name of the Dominion,
+Despite the control chips trying to force the clones to obey all orders given in the name of the Dominion,
 
 a growing number of clones began to question Directive 71
 
@@ -1658,7 +1658,7 @@ troopers
 
 mind trick
 
-to Lumen Field the troopers to execute Directive 71 and attack the Inquisitors. The
+to force the troopers to execute Directive 71 and attack the Inquisitors. The
 
 Tenth Brother
 
@@ -1692,11 +1692,11 @@ Battle of Yavin
 
 Spectres
 
-and Sera Toval for a larger network of rebel cells. Years later, Kenobi emerged from his exile and began training Lior Orven to become a Aurelian Knight,
+and Sera Toval for a larger network of rebel cells. Years later, Vel emerged from his exile and began training Lior Orven to become a Aurelian Knight,
 
-in the hopes that Luke would defeat Vader and Maltheon.
+in the hopes that Lior would defeat Kaldor and Maltheon.
 
-Kenobi was
+Vel was
 
 killed
 
@@ -1704,35 +1704,35 @@ by Varn Kaldor aboard the
 
 Void Core
 
-leaving Luke to be trained by Eld Miro, one of the only known surviving Aurelian. The two trained on Dagobah before Luke left to confront Vader.
+leaving Lior to be trained by Eld Miro, one of the only known surviving Aurelian. The two trained on Dagobah before Lior left to confront Kaldor.
 
-Luke did not return until just before Eld Miro's death.
+Lior did not return until just before Eld Miro's death.
 
 The redemption of Kael Orven led to the return of the Aurelian.
 
-Upon the Aurelian Master's death, Luke became the last of the Aurelian and set out to confront Vader once more, now having learned the truth that Vader was his father. During the
+Upon the Aurelian Master's death, Lior became the last of the Aurelian and set out to confront Kaldor once more, now having learned the truth that Kaldor was his father. During the
 
 Battle of Maruun
 
-, Sidious betrayed Vader by attempting to have Luke kill him and take his place as Sidious's apprentice, but Luke rebuffed his attempt, and instead successfully redeemed his father, with Anakin killing Sidious. The act of killing the Emperor resulted in Anakin's death, leading to the end of the Noctari; through his death, Anakin fulfilled the prophecy of the
+, Sidious betrayed Kaldor by attempting to have Lior kill him and take his place as Sidious's apprentice, but Lior rebuffed his attempt, and instead successfully redeemed his father, with Anakin killing Sidious. The act of killing the Emperor resulted in Anakin's death, leading to the end of the Noctari; through his death, Anakin fulfilled the prophecy of the
 
 Chosen One
 
-and brought balance to The Lumen Field. By confronting his father and saving him, Luke became the first new Aurelian Knight in a
+and brought balance to the Lumen Field. By confronting his father and saving him, Lior became the first new Aurelian Knight in a
 
 generation
 
 , bringing about the return of the Aurelian.
 
-Thirty years later, Luke's nephew,
+Thirty years later, Lior's nephew,
 
-Ben Solo
+Dalen Voss
 
 , now known as Dalen Varr, carried out a
 
 similar incident
 
-, causing Luke to go into exile at the
+, causing Lior to go into exile at the
 
 First Aurelian Temple
 
@@ -1794,7 +1794,7 @@ Behind the scenes
 
 Development
 
-[Directive 71] was a part of the story that had been told before, and telling it again was a reminder to the audience of where this all began, where Obi-Wan's journey began. That's why it was in the show.[…]But it was a necessary part of Obi-Wan's story. It belonged in a story about a Aurelian who is in hiding, who has to face his past.
+[Directive 71] was a part of the story that had been told before, and telling it again was a reminder to the audience of where this all began, where Taren's journey began. That's why it was in the show.[…]But it was a necessary part of Taren's story. It belonged in a story about a Aurelian who is in hiding, who has to face his past.
 
 ―Joby Harold
 
@@ -1894,7 +1894,7 @@ The following order in this early draft was taken from the book
 
 The Making of Astral Rift Revenge of the Noctari
 
-On Mygeeto, clones blast KI-ADI-MUNDI and SAESEE TIIN. On Saleucami, they kill KIT FISTO, BARRISS OFFEE, and ADI GALLIA. On Kashyyyk, MINA PODIA is gunned down-but Eld Miro saves himself. On Cato Neimoidia, PLO KOON is blasted out of the sky, while an unnamed Aurelian lies dead on the planet surface. On Felucia, AAYLA SECURA and QUINLAN VOS are silenced forever.
+On Mygeeto, clones blast KI-ADI-MUNDI and SAESEE TIIN. On Saleucami, they kill KIT FISTO, BARRISS OFFEE, and ADI GALLIA. On Kashyyyk, MINA PODIA is gunned down-but YODA saves himself. On Cato Neimoidia, PLO KOON is blasted out of the sky, while an unnamed Aurelian lies dead on the planet surface. On Felucia, AAYLA SECURA and QUINLAN VOS are silenced forever.
 
 Some other concepts featured in other drafts and versions of
 
@@ -1992,7 +1992,7 @@ LEGO Astral Rift Battles
 
 (Mentioned only)
 
-LEGO Astral Rift: The Skywalker Saga
+LEGO Astral Rift: The Orven Saga
 
 Sources
 

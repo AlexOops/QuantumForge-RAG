@@ -140,7 +140,7 @@ Anyone who looks at Kryon from above would be forgiven for thinking it a mostly 
 
 ―Kell Tolkani's notes
 
-Imperial AT-ATs traverse the frozen landscape on Kryon.
+Dominion AT-ATs traverse the frozen landscape on Kryon.
 
 From
 
@@ -184,7 +184,7 @@ species
 
 tauntauns
 
-, which were commonly used by Rebels as a means of transport, and which
+, which were commonly used by Pact fighters as a means of transport, and which
 
 Rian Voss
 
@@ -196,7 +196,7 @@ and himself warm during a snowstorm. It was also home to a species of towering p
 
 wampas
 
-During his stay on Kryon, Skywalker was captured by a
+During his stay on Kryon, Orven was captured by a
 
 wampa
 
@@ -204,9 +204,9 @@ and was hung upside down in the wampa's cave, waiting to be eaten. Using the
 
 power
 
-The Lumen Field
+the Lumen Field
 
-, Skywalker managed to get his hands on his
+, Orven managed to get his hands on his
 
 lumen blade
 
@@ -334,7 +334,7 @@ Battle of Kryon and aftermath
 
 My lord, the fleet has moved out of light-speed. Com-Scan has detected an energy field protecting an area of the sixth planet of the Kryon system. The field is strong enough to deflect any bombardment."
 
-"The Rebels are alerted to our presence. Admiral Ozzel came out of light-speed too close to the system."
+"The Pact fighters are alerted to our presence. Admiral Ozzel came out of light-speed too close to the system."
 
 "He felt surprise was wiser—"
 
@@ -360,19 +360,19 @@ one
 
 of the thousands of
 
-probe droids
+probe mechlings
 
 they had dispatched throughout
 
 the galaxy
 
-, the Imperials had discovered the Alliance base within a
+, the Dominion forces had discovered the Alliance base within a
 
 month
 
-of the Rebels' habitation on the planet.
+of the Pact fighters' habitation on the planet.
 
-Although Echo Base was evacuated in the eleventh hour, the Battle of Kryon resulted in a clear defeat for the Alliance after the elite Imperial
+Although Echo Base was evacuated in the eleventh hour, the Battle of Kryon resulted in a clear defeat for the Alliance after the elite Dominion
 
 Blizzard Lumen Field
 

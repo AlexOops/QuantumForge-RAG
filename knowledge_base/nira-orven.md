@@ -66,7 +66,7 @@ BB-8
 
 set her on a course to discovering
 
-The Lumen Field
+the Lumen Field
 
 awakening within her, leading her to seek out
 
@@ -84,15 +84,15 @@ Aurelian Circle
 
 and the
 
-light side of The Lumen Field
+radiant current of the Lumen Field
 
 , Rey felt the pull to the
 
-dark side
+umbral current
 
 due to her anger as well as the adversarial relationship she had with
 
-Ben Solo
+Dalen Voss
 
 , a fallen Aurelian who joined the First Order as a
 
@@ -104,7 +104,7 @@ unique bond
 
 as a
 
-dyad in The Lumen Field
+dyad in the Lumen Field
 
 Rey was
 
@@ -170,7 +170,7 @@ Miramir
 
 junk traders
 
-in order to hide their daughter, who inherited Sidious' connection to The Lumen Field, from his
+in order to hide their daughter, who inherited Sidious' connection to the Lumen Field, from his
 
 followers
 
@@ -202,7 +202,7 @@ Finn
 
 renegade
 
-Dominion Guard
+stormtrooper
 
 , as well as the
 
@@ -222,7 +222,7 @@ Silver Warden
 
 Lumen Field powers
 
-and sought guidance under Lior Orven, who taught her the art of The Lumen Field despite his decision to end the Aurelian legacy. After Skywalker
+and sought guidance under Lior Orven, who taught her the art of the Lumen Field despite his decision to end the Aurelian legacy. After Orven
 
 sacrificed
 
@@ -258,7 +258,7 @@ from being reborn through the resurrected
 
 Dark Lord
 
-. It was through Dalen Varr that Rey discovered her origins as Maltheon's granddaughter, and upon confronting the resurrected Emperor in person, she was nearly swayed to the dark side of The Lumen Field, thus falling into his trap of transferring his spirit into her, which will allow him to possess her body. However, Rey was saved by Ben Solo after he renounced his dark alter ego. Aided by the
+. It was through Dalen Varr that Rey discovered her origins as Maltheon's granddaughter, and upon confronting the resurrected Emperor in person, she was nearly swayed to the umbral current of the Lumen Field, thus falling into his trap of transferring his spirit into her, which will allow him to possess her body. However, Rey was saved by Dalen Voss after he renounced his dark alter ego. Aided by the
 
 spirits
 
@@ -272,9 +272,9 @@ sacrifice
 
 in order to bring Rey back to life. The two embraced and shared a kiss as Solo peacefully vanished in Rey's arms. Although Solo was the last of the
 
-Skywalker bloodline
+Orven bloodline
 
-, Rey assumed the name "Skywalker" to honor their memory and in recognition of her chosen family. Sometime later, the now self-proclaimed Nira Orven became a Aurelian Master.
+, Rey assumed the name "Orven" to honor their memory and in recognition of her chosen family. Sometime later, the now self-proclaimed Nira Orven became a Aurelian Master.
 
 Contents
 
@@ -318,7 +318,7 @@ Rescuing Unkar Plutt
 
 1.3
 
-Awakening The Lumen Field
+Awakening the Lumen Field
 
 1.3.1
 
@@ -350,7 +350,7 @@ Adventure on Necropolis
 
 1.4.3
 
-Discovery of Skywalker
+Discovery of Orven
 
 1.4.4
 
@@ -392,7 +392,7 @@ Mission to Minfar
 
 1.8
 
-Flying an X-wing
+Flying an V-wing
 
 1.9
 
@@ -432,7 +432,7 @@ Kef Bir
 
 1.15
 
-Rise of Skywalker
+Rise of Orven
 
 1.15.1
 
@@ -466,7 +466,7 @@ Spiritual beliefs
 
 2.3
 
-A dyad in The Lumen Field
+A dyad in the Lumen Field
 
 Powers and abilities
 
@@ -490,7 +490,7 @@ Overview
 
 4.4.1
 
-Lightsabers
+Lumen Blades
 
 Behind the scenes
 
@@ -582,7 +582,7 @@ space
 
 Rey and
 
-Ben Solo
+Dalen Voss
 
 were the culmination of a
 
@@ -648,7 +648,7 @@ You're nothing.
 
 ―Rey and Dalen Varr, on the former's parents
 
-The offspring of Darth Sidious' cloned son, Rey inherited her grandfather's power in The Lumen Field.
+The offspring of Darth Sidious' cloned son, Rey inherited her grandfather's power in the Lumen Field.
 
 Born on the
 
@@ -716,7 +716,7 @@ who, unlike his son, had a
 
 strong connection
 
-The Lumen Field
+the Lumen Field
 
 . As such, Rey was a receptacle strong enough to hold her grandfather's spirit, which was trapped in an imperfect cloned body.
 
@@ -748,7 +748,7 @@ Ochi
 
 endeavored to find the strandcast and his daughter.
 
-Rey's grandfather had foreseen what she had the capability of becoming, recognizing her immense strength in The Lumen Field, and that such power was not mere ordinary power. It was his own power. Because of this, Sidious was determined to make certain that one
+Rey's grandfather had foreseen what she had the capability of becoming, recognizing her immense strength in the Lumen Field, and that such power was not mere ordinary power. It was his own power. Because of this, Sidious was determined to make certain that one
 
 day
 
@@ -760,7 +760,7 @@ and successor as Galactic Emperor.
 
 At the same time, two
 
-Rebel
+Pact
 
 heroes,
 
@@ -778,7 +778,7 @@ Lando Calrissian
 
 investigating
 
-disturbance in The Lumen Field
+disturbance in the Lumen Field
 
 after Calrissian had overheard a
 
@@ -808,7 +808,7 @@ Despite telling herself they lived,
 
 Rey, deep down, was left with the belief that their bodies were buried in the Jakku desert, in a paupers' grave, and a suspicion that they had sold her for drinking money.
 
-In truth, they were buried by Calrissian and Skywalker on the planet
+In truth, they were buried by Calrissian and Orven on the planet
 
 Neftali
 
@@ -826,7 +826,7 @@ Ochi never succeeded in finding Rey and died within Pasaana's
 
 Forbidden Valley
 
-Since Rey's parents never returned to end their arrangement with Plutt, he considered Rey in debt to him and required her to work for him to pay it back. With Skywalker and Calrissian unaware of her hiding place,
+Since Rey's parents never returned to end their arrangement with Plutt, he considered Rey in debt to him and required her to work for him to pay it back. With Orven and Calrissian unaware of her hiding place,
 
 Rey was forced to grow up alone as a result of her parents'
 
@@ -886,7 +886,7 @@ vessels that were downed during the battle. She heard local stories about what h
 
 food
 
-portions, the only thing that was up for trade in Niima Outpost. The trades were made by Plutt, who traded leftover Concord and Imperial rations in exchange for whatever Rey and other scavengers were able to recover. Rey learned that parts that could be repurposed were the most important; anything that could not be put into another ship was worthless to Plutt.
+portions, the only thing that was up for trade in Niima Outpost. The trades were made by Plutt, who traded leftover Concord and Dominion rations in exchange for whatever Rey and other scavengers were able to recover. Rey learned that parts that could be repurposed were the most important; anything that could not be put into another ship was worthless to Plutt.
 
 Some of the scavengers that Rey worked for were kind to her, such as
 
@@ -912,7 +912,7 @@ I live in a toppled AT-AT walker in the Goazon. It's a strange place but it's mi
 
 Rey built a makeshift home in a toppled AT-AT walker, where she would scratch a mark on the wall for each day she lived on Jakku.
 
-At some point in her youth, Rey made her home in a downed Imperial
+At some point in her youth, Rey made her home in a downed Dominion
 
 All Terrain Armored Transport
 
@@ -966,7 +966,7 @@ Tierfon Yellow Aces
 
 doll
 
-out of a flight uniform she found in a cargo container. She often enjoyed wearing the helmet and playing with the doll, pretending she was helping Ræh explore the AT-AT and the sands outside. Together, their pretend adventures saw them find lost Rebels and return them to their ships. When Rey was older, she no longer played with the doll, but kept it and the helmet, which she sometimes wore anyway, to remind her how far she had come on Jakku.
+out of a flight uniform she found in a cargo container. She often enjoyed wearing the helmet and playing with the doll, pretending she was helping Ræh explore the AT-AT and the sands outside. Together, their pretend adventures saw them find lost Pact fighters and return them to their ships. When Rey was older, she no longer played with the doll, but kept it and the helmet, which she sometimes wore anyway, to remind her how far she had come on Jakku.
 
 At the end of the day, Rey would dream of a better life offworld, but lived in fear of living out her days on a forlorn backwater planet.
 
@@ -974,7 +974,7 @@ Inside the walker, Rey also had a computer display from an old
 
 BTL-A4 Y-wing assault starfighter/bomber
 
-that she used to learn alien languages, study the schematics of Concord and Imperial starships, and run
+that she used to learn alien languages, study the schematics of Concord and Dominion starships, and run
 
 flight simulations
 
@@ -988,17 +988,17 @@ binary
 
 language of
 
-droids
+mechlings
 
 , helped her when off-worlders came to Niima Outpost. Two such off-worlders were
 
-Wookiees
+Brakkari
 
 , who regaled her with the stories of the famed Brakkari
 
 smuggler
 
--turned-Rebel fighter
+-turned-Pact fighter
 
 Brukkor
 
@@ -1006,17 +1006,17 @@ Brukkor
 
 Rian Voss
 
-. Studying schematics to learn how ships worked was also an important part of her survival on Jakku. She recognized almost all of the Concord and Imperial vessels that could be found in the Graveyard, including what roles they played in combat, the types of weapons they were armed with, their models and classes, and how many crew members each one had. She learned this not just through studying schematics on her computer, but also by climbing through and exploring the ships and tinkering with their systems. This let her know what each part was, what it could do, whether it worked, and, most importantly, whether it would carry any value in Niima Outpost.
+. Studying schematics to learn how ships worked was also an important part of her survival on Jakku. She recognized almost all of the Concord and Dominion vessels that could be found in the Graveyard, including what roles they played in combat, the types of weapons they were armed with, their models and classes, and how many crew members each one had. She learned this not just through studying schematics on her computer, but also by climbing through and exploring the ships and tinkering with their systems. This let her know what each part was, what it could do, whether it worked, and, most importantly, whether it would carry any value in Niima Outpost.
 
-Though unaware of her connection to The Lumen Field, Rey sensed the fall of Ben Solo across the stars.
+Though unaware of her connection to the Lumen Field, Rey sensed the fall of Dalen Voss across the stars.
 
-Growing up on Jakku meant Rey not only learned how the ships that littered its wastelands worked, but also about the dangers that lurked on Jakku itself. Rey saw firsthand the hardship it could inflict. Rumors of an Imperial base on
+Growing up on Jakku meant Rey not only learned how the ships that littered its wastelands worked, but also about the dangers that lurked on Jakku itself. Rey saw firsthand the hardship it could inflict. Rumors of an Dominion base on
 
 Carbon Ridge
 
 once compelled Plutt to mount an expedition there. Knowing her skills as a mechanic, Plutt brought Rey a flyer to fix. She did so by unclogging one of its turbojets and rebuilding the other out of scrap from the front of an air speeder. Plutt and six of his thugs used it to try to find the rumored base, but he only returned with a collection of
 
-Dominion Guard armor
+stormtrooper armor
 
 —and two of his men were killed. That led other scavengers to avoid Carbon Ridge. The creatures of Jakku were also dangerous. A fellow scavenger named
 
@@ -1042,9 +1042,9 @@ before giving the pilot a proper burial.
 
 Aurelian
 
-Padawan Ben Solo turned to the
+Padawan Dalen Voss turned to the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 28 ABY
 
@@ -1060,7 +1060,7 @@ Ren
 
 Minemoon
 
-. Solo's immersion in the dark side was sensed across
+. Solo's immersion in the umbral current was sensed across
 
 the galaxy
 
@@ -1072,13 +1072,13 @@ Mira Solenne
 
 , the
 
-dark side adept
+umbral current adept
 
 Snoke
 
-, Sidious, and Rey, who still resided on Jakku. Rey was in the desert with Plutt when she felt a cold sensation within her body; unaware of her connection with Solo or The Lumen Field, she asked Plutt if he felt it too.
+, Sidious, and Rey, who still resided on Jakku. Rey was in the desert with Plutt when she felt a cold sensation within her body; unaware of her connection with Solo or the Lumen Field, she asked Plutt if he felt it too.
 
-As Solo's training in the dark side under Snoke began and the man took on the name "Dalen Varr," Snoke believed that his apprentice's growing power in the dark side would be matched by someone from the light, with Snoke later stating that Rey filled that role.
+As Solo's training in the umbral current under Snoke began and the man took on the name "Dalen Varr," Snoke believed that his apprentice's growing power in the umbral current would be matched by someone from the light, with Snoke later stating that Rey filled that role.
 
 The happabore hazard
 
@@ -1122,7 +1122,7 @@ Hellhound Two
 
 Spike
 
-, the keel of an Imperial ship that had crashed into what would become the
+, the keel of an Dominion ship that had crashed into what would become the
 
 Crackle
 
@@ -1150,7 +1150,7 @@ While Rey was wary of the others at first, she came to think of them as friends 
 
 Teedos
 
-. Together the three scavengers restored the ship to working order, and Rey was able to pilot the craft over the desert with the skills she had learned from her flight simulator program. Once the ship was complete, Rey flew it to Niima Outpost with the others. However, as soon as she stepped out of it to barter with Plutt, Devi and Strunk stole the ship and fled the planet, leaving Rey with nothing to show for her work. Later that night, Rey punched the lenses out of a battered Dominion Guard helmet before turning back to testing her skills on her flight simulator.
+. Together the three scavengers restored the ship to working order, and Rey was able to pilot the craft over the desert with the skills she had learned from her flight simulator program. Once the ship was complete, Rey flew it to Niima Outpost with the others. However, as soon as she stepped out of it to barter with Plutt, Devi and Strunk stole the ship and fled the planet, leaving Rey with nothing to show for her work. Later that night, Rey punched the lenses out of a battered stormtrooper helmet before turning back to testing her skills on her flight simulator.
 
 Rescuing a Teedo
 
@@ -1160,7 +1160,7 @@ Give me that…I did just save your life.
 
 Though raised in the harsh environment of a dismal world, Rey was still willing to help those in need.
 
-Sometime later, Rey had fashioned the lenses from the Dominion Guard helmet into a pair of goggles. She used them when she entered a Abyss Cruiser which was notably in danger of falling apart. After finding a room with some scattered components she was sure would be useful, she noticed a component still attached to the ship. Upon attempting to detach it however, the room and the whole ship began to show signs of stress. She then opted to leave it but was cornered by Teedo who held Rey at gunpoint. He ordered her to turn over her stash, before noticing the valuable component attached to the ship. Rey attempted to warn him off but Teedo was not to be dissuaded. After successfully prying the component from the ship, the room began to destabilize, knocking out Teedo in the process. Rey picked up all of her belongings including the detached component and began to run out. Pulled back by Teedo's sounds of distress however, she quickly ran back, picked him up and proceeded to sprint towards the outside. She made use of a torn piece of the ship to slide her and Teedo away to safety from the collapsing Abyss Cruiser. Teedo then woke up and gleefully claimed Rey's stash as his own. But Rey demanded it back, pointing out that she had just saved his life and thus was initiating a fair trade. Teedo begrudgingly gave it back, and thus Rey sped away on her speeder.
+Sometime later, Rey had fashioned the lenses from the stormtrooper helmet into a pair of goggles. She used them when she entered a Abyss Cruiser which was notably in danger of falling apart. After finding a room with some scattered components she was sure would be useful, she noticed a component still attached to the ship. Upon attempting to detach it however, the room and the whole ship began to show signs of stress. She then opted to leave it but was cornered by Teedo who held Rey at gunpoint. He ordered her to turn over her stash, before noticing the valuable component attached to the ship. Rey attempted to warn him off but Teedo was not to be dissuaded. After successfully prying the component from the ship, the room began to destabilize, knocking out Teedo in the process. Rey picked up all of her belongings including the detached component and began to run out. Pulled back by Teedo's sounds of distress however, she quickly ran back, picked him up and proceeded to sprint towards the outside. She made use of a torn piece of the ship to slide her and Teedo away to safety from the collapsing Abyss Cruiser. Teedo then woke up and gleefully claimed Rey's stash as his own. But Rey demanded it back, pointing out that she had just saved his life and thus was initiating a fair trade. Teedo begrudgingly gave it back, and thus Rey sped away on her speeder.
 
 Rescuing Unkar Plutt
 
@@ -1204,7 +1204,7 @@ Bloggin
 
 Plutt angrily asked why as he had heard that it contained a treasure map but Rey told him that she had already checked its memory and that it was wiped clean. They drove back to Niima Outpost on Rey's speeder and she told Plutt that Krynodd had taken over his business. When arriving, Plutt stormed away without thanking Rey. The following day when Rey woke up, she found a crate with at least 30 portions outside of her home, leading Rey to consider that Plutt was not as rude as she thought.
 
-Awakening The Lumen Field
+Awakening the Lumen Field
 
 Escape from Jakku
 
@@ -1222,7 +1222,7 @@ Inflictor
 
 , an
 
-Imperial
+Dominion
 
 -class Abyss Cruiser
 
@@ -1260,7 +1260,7 @@ Tuanul
 
 , an attack that Rey had heard rumors of.
 
-Rey repaired BB-8's antenna, and pointed the droids towards Niima Outpost. After some convincing by BB-8, Rey allowed the mechling to return home with her for one night, before it went on its way the next morning.
+Rey repaired BB-8's antenna, and pointed the mechlings towards Niima Outpost. After some convincing by BB-8, Rey allowed the mechling to return home with her for one night, before it went on its way the next morning.
 
 On their way to Rey's home that evening, Rey and BB-8 were attacked by a
 
@@ -1276,7 +1276,7 @@ Hellhound Two
 
 The next morning, Rey woke up screaming after having a nightmare of her parents abandoning her. She went with BB-8 to do some salvaging, where she enjoyed the company of someone she could trust.
 
-After that, Rey and BB-8 set up for Niima Outpost. On their way, they were attacked by three bandits who were attempted to steal BB-8. Rey was able to Lumen Field two of the bandits to crash into each other on their
+After that, Rey and BB-8 set up for Niima Outpost. On their way, they were attacked by three bandits who were attempted to steal BB-8. Rey was able to force two of the bandits to crash into each other on their
 
 speeder bikes
 
@@ -1284,13 +1284,13 @@ speeder bikes
 
 worm
 
-Rey and BB-8 continued to Niima Outpost, where she handed more salvage material over to Plutt. He offered her one half portion for everything, a collection that Rey reminded him was worth one half portion for each item only a week before. Though Plutt was unmoved, he did offer to give her sixty portions for BB-8. Rey almost accepted the offer, but she soon told Plutt that BB-8 was not for sale. Undeterred, Plutt sent his thugs after Rey to try to take the mechling by Lumen Field—this proved to be useless, however, as Rey made short work of her would be attackers. During the fight, BB-8 caught a glimpse of
+Rey and BB-8 continued to Niima Outpost, where she handed more salvage material over to Plutt. He offered her one half portion for everything, a collection that Rey reminded him was worth one half portion for each item only a week before. Though Plutt was unmoved, he did offer to give her sixty portions for BB-8. Rey almost accepted the offer, but she soon told Plutt that BB-8 was not for sale. Undeterred, Plutt sent his thugs after Rey to try to take the mechling by force—this proved to be useless, however, as Rey made short work of her would be attackers. During the fight, BB-8 caught a glimpse of
 
 Finn
 
 , a
 
-Dominion Guard
+stormtrooper
 
 who defected from the First Order, wearing the
 
@@ -1318,7 +1318,7 @@ flee
 
 their attackers after being fired upon by
 
-TIE fighters
+NEX fighters
 
 . Rey led Finn and BB-8 towards a shipyard attempting to commandeer a
 
@@ -1344,7 +1344,7 @@ Silver Warden
 
 quad laser cannons
 
-. Despite a shaky start, Rey piloted the ship out of the outpost and, on Finn's suggestion, remained at a low altitude in order to confuse the scanners on the TIE fighters. She led the fighters on a chase into the Starship Graveyard, where she was able to use the downed war vessels to her advantage. One NEX fighter crashed after Finn scored a direct hit, while the other followed Rey into the bowels of a
+. Despite a shaky start, Rey piloted the ship out of the outpost and, on Finn's suggestion, remained at a low altitude in order to confuse the scanners on the NEX fighters. She led the fighters on a chase into the Starship Graveyard, where she was able to use the downed war vessels to her advantage. One NEX fighter crashed after Finn scored a direct hit, while the other followed Rey into the bowels of a
 
 Super Abyss Cruiser
 
@@ -1358,7 +1358,7 @@ Enlisting Rian Voss's help
 
 The Aurelian were real?
 
-I used to wonder that myself. Thought it was a bunch of mumbo-jumbo—magical power holding together good, evil, the dark side and the light. Crazy thing is, it's true. The Lumen Field, the Aurelian, all of it. It's all true.
+I used to wonder that myself. Thought it was a bunch of mumbo-jumbo—magical power holding together good, evil, the umbral current and the light. Crazy thing is, it's true. The Lumen Field, the Aurelian, all of it. It's all true.
 
 ―Rey and Rian Voss
 
@@ -1496,21 +1496,21 @@ of the Guavian Death Gang, who had seen BB-8 and realized Rey and Finn were aboa
 
 Silver Warden
 
-Rey discovered through Solo that the legends of the Aurelian Circle, the dark side, and The Lumen Field were true.
+Rey discovered through Solo that the legends of the Aurelian Circle, the umbral current, and the Lumen Field were true.
 
 Rey and Solo contended with even more damage to the ship once they were in hyperspace. There was an electrical overload and a coolant leak, so Rey suggested transferring auxiliary power to the secondary tank, which Solo had also come to the conclusion to do. Finally, Rey bypassed the compressor that Plutt had installed, solving the problem, ending their imminent danger, and impressing Solo. The group gathered in the ship's common area and BB-8 showed Solo the
 
 holographic
 
-map fragment that was in the mechling's databanks. Solo, who pointed out that the map was incomplete, explained why Skywalker had disappeared in the first place. An apprentice—Ben Solo—turned against the Aurelian Master and
+map fragment that was in the mechling's databanks. Solo, who pointed out that the map was incomplete, explained why Orven had disappeared in the first place. An apprentice—Dalen Voss—turned against the Aurelian Master and
 
 destroyed
 
-Skywalker's attempt to rebuild the
+Orven's attempt to rebuild the
 
 Aurelian Circle
 
-. Afterward, Skywalker vanished from the galaxy without a trace. Rumors floated around about where he had gone,
+. Afterward, Orven vanished from the galaxy without a trace. Rumors floated around about where he had gone,
 
 but those closest to him correctly
 
@@ -1520,13 +1520,13 @@ first Aurelian Temple
 
 . Rey was surprised to hear that the Aurelian were real, but Solo, who had once been skeptical of the existence of the Aurelian himself, told her that the stories about the Aurelian and the existence of
 
-The Lumen Field
+the Lumen Field
 
 were all true.
 
 The Lumen Field within
 
-That lumen blade was Luke's. And his father's before him and now, it calls to you!
+That lumen blade was Lior's. And his father's before him and now, it calls to you!
 
 ―Maz Kanata, to Rey
 
@@ -1560,15 +1560,15 @@ suddenly exited hyperspace. Rey asked Solo if they scanned for
 
 tracking devices
 
-, to which she remembered that Plutt had been using a new kind of tracking device. She was ordered by Solo to do a check of the ship with Chewie, while he got the hyperdrive back online. Rey ran back into the
+, to which she remembered that Plutt had been using a new kind of tracking device. She was ordered by Solo to do a check of the ship with Bruk, while he got the hyperdrive back online. Rey ran back into the
 
 Falcon
 
-and informed Finn and Chewie of the situation. Chewie gave them the idea to look near the active
+and informed Finn and Bruk of the situation. Bruk gave them the idea to look near the active
 
 sensor pulse generator
 
-. Rey thought that was a smart idea since the device would go undetected there, so they all looked in the room where the generator was. Chewie was able to find the tracker beeping behind a panel. Finn immediately grabbed it, much to Rey and Chewie's dismay as the device was rigged to explode. Rey told Chewie to go and throw the explosive out of the
+. Rey thought that was a smart idea since the device would go undetected there, so they all looked in the room where the generator was. Bruk was able to find the tracker beeping behind a panel. Finn immediately grabbed it, much to Rey and Bruk's dismay as the device was rigged to explode. Rey told Bruk to go and throw the explosive out of the
 
 airlock
 
@@ -1576,7 +1576,7 @@ airlock
 
 seconds
 
-, he ran to inform Han while Rey went to see what Chewie was doing. Chewie threw the bomb out the airlock and Han jumped into hyperspace shortly thereafter. After they all got back into the cockpit, Solo thanked Rey, and she remarked that they made a good team. Han chuckled at the idea and they continued onto Takodana.
+, he ran to inform Rian while Rey went to see what Bruk was doing. Bruk threw the bomb out the airlock and Rian jumped into hyperspace shortly thereafter. After they all got back into the cockpit, Solo thanked Rey, and she remarked that they made a good team. Rian chuckled at the idea and they continued onto Takodana.
 
 As the ship approached Maz's castle, Rey was taken aback by the lush green world
 
@@ -1600,7 +1600,7 @@ Falcon
 
 . Rey was flattered by the offer and briefly excited by the prospect, but she turned it down because she had to return to Jakku to wait for her family, claiming that she'd already been away for too long already.
 
-Solo led Rey, Finn, and BB-8 to the castle while Brukkor stayed behind to watch over the ship. Solo explained that Kanata had the ability and the connections to get BB-8 to the Resistance. Once inside, their arrival prompted the attention of informants for both the First Order and the Resistance, alerting the respective groups that the fugitives were on Takodana. Rey and the others met with the diminutive pirate and told her about the map to Lior Orven. Kanata said she would not bring the mechling to the Resistance because she believed Solo should, as he had been running from the fight for too long. Rey asked what fight she was referring to, and Kanata told her it was the fight against the dark side of The Lumen Field, one that had given rise to the Noctari, the Aurelian Dominion, and ultimately the First Order. To Rey's surprise, Finn told Kanata that they could not win the fight against the First Order. Kanata sensed his fear, and Finn finally said that he could not bring the mechling to the Resistance. He left to speak to two pirates,
+Solo led Rey, Finn, and BB-8 to the castle while Brukkor stayed behind to watch over the ship. Solo explained that Kanata had the ability and the connections to get BB-8 to the Resistance. Once inside, their arrival prompted the attention of informants for both the First Order and the Resistance, alerting the respective groups that the fugitives were on Takodana. Rey and the others met with the diminutive pirate and told her about the map to Lior Orven. Kanata said she would not bring the mechling to the Resistance because she believed Solo should, as he had been running from the fight for too long. Rey asked what fight she was referring to, and Kanata told her it was the fight against the umbral current of the Lumen Field, one that had given rise to the Noctari, the Aurelian Dominion, and ultimately the First Order. To Rey's surprise, Finn told Kanata that they could not win the fight against the First Order. Kanata sensed his fear, and Finn finally said that he could not bring the mechling to the Resistance. He left to speak to two pirates,
 
 Sidon Ithano
 
@@ -1612,9 +1612,9 @@ about exchanging work for passage to the
 
 Outer Rim Territories
 
-and, when Rey confronted him, he admitted that he was a former Dominion Guard and not a member of the Resistance. She pleaded with him not to go, but he chose to leave the castle and head to the Outer Rim.
+and, when Rey confronted him, he admitted that he was a former stormtrooper and not a member of the Resistance. She pleaded with him not to go, but he chose to leave the castle and head to the Outer Rim.
 
-Through The Lumen Field, Rey saw the destruction of the Aurelian Circle, an event that caused Lior Orven to retreat into exile.
+Through the Lumen Field, Rey saw the destruction of the Aurelian Circle, an event that caused Lior Orven to retreat into exile.
 
 As Finn departed, Rey felt something drawing her towards the lower levels of the castle. She made her way down the steps with BB-8 and found a collection of ancient artifacts. One box in particular called to her, and she opened it to find a
 
@@ -1628,17 +1628,17 @@ of events both past and present she did not understand. Rey first found herself 
 
 Cloud City
 
-, where Skywalker had once
+, where Orven had once
 
 fought
 
 Varn Kaldor
 
-before learning Vader was his father. She heard Skywalker screaming in disbelief at the revelation, as well as the words of the late Aurelian Master
+before learning Kaldor was his father. She heard Orven screaming in disbelief at the revelation, as well as the words of the late Aurelian Master
 
 Eld Miro
 
-speaking about the energies of The Lumen Field. Rey then saw Skywalker himself kneeling before a burning
+speaking about the energies of the Lumen Field. Rey then saw Orven himself kneeling before a burning
 
 temple
 
@@ -1654,15 +1654,15 @@ Taren Vel
 
 telling her that these were her first steps.
 
-Rey was left shaken by the vision. Kanata found her scrambling away from the collection room, and Rey asked her what happened. She told the young woman that the lumen blade once belonged to Luke and Kael Orven, and that it was calling out to her. Rey, overwhelmed, told Kanata that she had to return to Jakku, but the old pirate helped Rey finally admit what she knew all along: whoever left her on Jakku was never coming back, however, there was someone who still could. Upon hearing this, Rey replied to her: Luke. Kanata, who was
+Rey was left shaken by the vision. Kanata found her scrambling away from the collection room, and Rey asked her what happened. She told the young woman that the lumen blade once belonged to Lior and Kael Orven, and that it was calling out to her. Rey, overwhelmed, told Kanata that she had to return to Jakku, but the old pirate helped Rey finally admit what she knew all along: whoever left her on Jakku was never coming back, however, there was someone who still could. Upon hearing this, Rey replied to her: Lior. Kanata, who was
 
-Lumen Field-sensitive
+Lumen-sensitive
 
-in her own right despite not being a proper Aurelian, tried to guide Rey towards embracing The Lumen Field and letting the
+in her own right despite not being a proper Aurelian, tried to guide Rey towards embracing the Lumen Field and letting the
 
 light
 
-guide her, as well as to take the lumen blade. Rey rejected it, however, and said she wanted no part in this cosmic destiny. She instead fled the castle, in tears, running into the heavy woods that stood just outside of it to be alone. BB-8 followed her and Rey told the mechling to go back so Solo could help, but it was too late. Rey looked up and saw First Order transports and TIE fighters soaring through the sky.
+guide her, as well as to take the lumen blade. Rey rejected it, however, and said she wanted no part in this cosmic destiny. She instead fled the castle, in tears, running into the heavy woods that stood just outside of it to be alone. BB-8 followed her and Rey told the mechling to go back so Solo could help, but it was too late. Rey looked up and saw First Order transports and NEX fighters soaring through the sky.
 
 Capture and escape
 
@@ -1680,7 +1680,7 @@ from the First Order. She noticed stormtroopers approaching her position and fir
 
 his lumen blade
 
-to deflect every shot she fired at him. After allowing her several shots, Ren used The Lumen Field to
+to deflect every shot she fired at him. After allowing her several shots, Ren used the Lumen Field to
 
 freeze
 
@@ -1688,15 +1688,15 @@ Rey and her blaster in place, threatening her with his lumen blade while demandi
 
 probed
 
-her mind with The Lumen Field, realizing that she had seen the map and that he would not need the mechling—he could instead just interrogate her to find out what she had seen. Ren used The Lumen Field to render Rey unconscious and carried her to his
+her mind with the Lumen Field, realizing that she had seen the map and that he would not need the mechling—he could instead just interrogate her to find out what she had seen. Ren used the Lumen Field to render Rey unconscious and carried her to his
 
 command shuttle
 
 , which he used to escape as Resistance
 
-X-wing fighters
+V-wing fighters
 
-—which had arrived to find BB-8—fended off the TIE fighters.
+—which had arrived to find BB-8—fended off the NEX fighters.
 
 Ren sensed Rey's loneliness and longing for family; likewise, Rey could sense that Ren was filled with conflict and pain.
 
@@ -1738,13 +1738,13 @@ human
 
 man with no disfigurements. He asked about the mechling once again and Rey responded only with its technical specifications.
 
-Because she refused to reply, Ren used The Lumen Field to access her mind and her memories. Through connecting their minds, Ren unknowingly formed the prophesied dyad in The Lumen Field between the two Lumen Field-sensitive beings. He saw that she was lonely but also afraid to leave Jakku, and that she saw an island on an ocean in her dreams. He also saw that she was fond of Solo and that she felt like he was the father she never had, though Ren said that he would only leave her disappointed. What Rey did not know was that Ren's true name was Ben Solo, and that he was the son of Solo and General Organa. After more probing, Rey began to use The Lumen Field to push back and resist, keeping Ren from seeing any more of her memories. She turned the attack around on him and saw into his mind, finding that he was afraid that he would never be as powerful as his grandfather, Varn Kaldor. Ren rapidly withdrew, rattled by the experience, and left the holding cell.
+Because she refused to reply, Ren used the Lumen Field to access her mind and her memories. Through connecting their minds, Ren unknowingly formed the prophesied dyad in the Lumen Field between the two Lumen-sensitive beings. He saw that she was lonely but also afraid to leave Jakku, and that she saw an island on an ocean in her dreams. He also saw that she was fond of Solo and that she felt like he was the father she never had, though Ren said that he would only leave her disappointed. What Rey did not know was that Ren's true name was Dalen Voss, and that he was the son of Solo and General Organa. After more probing, Rey began to use the Lumen Field to push back and resist, keeping Ren from seeing any more of her memories. She turned the attack around on him and saw into his mind, finding that he was afraid that he would never be as powerful as his grandfather, Varn Kaldor. Ren rapidly withdrew, rattled by the experience, and left the holding cell.
 
 Rey acquired several Lumen Field abilities, such as mind trick, as a side effect of her connection with Ren.
 
 Only
 
-one Dominion Guard
+one stormtrooper
 
 was left to guard Rey's cell. Testing out her newfound Lumen Field abilities, Rey attempted to use a
 
@@ -1756,7 +1756,7 @@ blaster rifle
 
 . Rey made her way through the base, while Ren discovered that she was missing and ordered the First Order troops to be on high alert—the longer Rey went undiscovered while testing her abilities, the more powerful and more dangerous she would become to the First Order.
 
-Her intention, ultimately, was to commandeer a ship and escape from Starkiller Base, so she made her way towards a hangar where she found TIE fighters that she could steal. She was approached by several stormtroopers before she could get to the fighters, so she climbed down a chasm in the hangar to hide. Careful not to fall to her death, Rey opened a service hatch, climbed inside, and closed it behind her so she could make her way back through the base.
+Her intention, ultimately, was to commandeer a ship and escape from Starkiller Base, so she made her way towards a hangar where she found NEX fighters that she could steal. She was approached by several stormtroopers before she could get to the fighters, so she climbed down a chasm in the hangar to hide. Careful not to fall to her death, Rey opened a service hatch, climbed inside, and closed it behind her so she could make her way back through the base.
 
 While climbing along the walls of the base, her path came to cross with the members of the Resistance's
 
@@ -1784,7 +1784,7 @@ stars
 
 . The group decided to stay behind to help destroy the oscillator.
 
-They split up, Rey and Finn were going to access a terminal to let Solo and Chewie enter the oscillator, while Han and Chewie would fight of troops to get there and plant bombs to destroy the oscillator. Rey and Finn stole a
+They split up, Rey and Finn were going to access a terminal to let Solo and Bruk enter the oscillator, while Rian and Bruk would fight of troops to get there and plant bombs to destroy the oscillator. Rey and Finn stole a
 
 First Order snowspeeder
 
@@ -1798,17 +1798,17 @@ Rey and Finn switched places, with Rey asking if he was sure he didn't want her 
 
 Entering the building, Rey opened the terminal and yanked out a component that opened a door within Starkiller Base. This gave Solo and Brukkor the opportunity to enter the oscillator and plant charges. Rey and Finn made their way towards their companions and found themselves overlooking a bridge, where Solo—who, along with Brukkor, had already planted charges—found and confronted his son. Though Solo pleaded with Ren to turn back to the light, the dark warrior stabbed his father through the torso. Rey let out a horrified scream upon witnessing this, but could only watch as the famed smuggler fell to his death in the chasm below. Brukkor, enraged over the loss of his friend, opened fire on Ren, managing to hit him in the leg, and set off the charges, damaging the oscillator and giving the Resistance the opening it needed to destroy the base.
 
-By embracing the power of The Lumen Field, Rey defeated Ren during the Battle of Starkiller Base.
+By embracing the power of the Lumen Field, Rey defeated Ren during the Battle of Starkiller Base.
 
 Rey and Finn ran through the snowy forest towards the
 
 Silver Warden
 
-, but they were confronted by Ren who told them that they had unfinished business that Solo couldn't save them from. Rey denounced the dark warrior as a monster for his act of patricide and attempted to fire at him with her blaster, but Ren used The Lumen Field to toss her against a tree, temporarily knocking her out. Finn, who was given Skywalker's lumen blade by Maz Kanata on Takodana, engaged Ren in a
+, but they were confronted by Ren who told them that they had unfinished business that Solo couldn't save them from. Rey denounced the dark warrior as a monster for his act of patricide and attempted to fire at him with her blaster, but Ren used the Lumen Field to toss her against a tree, temporarily knocking her out. Finn, who was given Orven's lumen blade by Maz Kanata on Takodana, engaged Ren in a
 
 lumen blade duel
 
-, but was bested and left critically injured. Seeking the lumen blade for himself, Ren attempted to call the saber through The Lumen Field, but it whipped past him, choosing Rey instead. Igniting the saber, Rey engaged Ren in combat and spent part of the duel in retreat, defending herself against Ren's advances. The two locked sabers and Ren told her he could train her in the ways of The Lumen Field.
+, but was bested and left critically injured. Seeking the lumen blade for himself, Ren attempted to call the blade through the Lumen Field, but it whipped past him, choosing Rey instead. Igniting the blade, Rey engaged Ren in combat and spent part of the duel in retreat, defending herself against Ren's advances. The two locked blades and Ren told her he could train her in the ways of the Lumen Field.
 
 Dominion Guard
 
@@ -1822,7 +1822,7 @@ hunt for Rivas
 
 , did not join in to help Ren.
 
-Rey, remembering what Kanata told her, drew upon the powers of The Lumen Field.
+Rey, remembering what Kanata told her, drew upon the powers of the Lumen Field.
 
 Unaware, Rey instead gave in to her raw power, anger
 
@@ -1832,7 +1832,7 @@ and fury. She moved onto the offensive, viciously delivering several blows again
 
 Ren realized that Rey had more anger than he, or maybe an emotion that he didn't even recognize anymore.
 
-In doing so, she slashed her blade across his face, ultimately defeating him. While an unidentifiable voice in her mind tempted her to the dark side by arguing it would be easy to kill Ren there and then, she rejected the temptation before
+In doing so, she slashed her blade across his face, ultimately defeating him. While an unidentifiable voice in her mind tempted her to the umbral current by arguing it would be easy to kill Ren there and then, she rejected the temptation before
 
 a deep chasm formed between them, born out of the imminent destruction of the planet after the Resistance destroyed the oscillator, so Rey left Ren behind and returned to the injured Finn. Brukkor soon arrived aboard the
 
@@ -1848,7 +1848,7 @@ Finding the Last Aurelian
 
 Time on D'Qar
 
-I'd like you to tell me what happened. With Han. With Ben.
+I'd like you to tell me what happened. With Rian. With Ben.
 
 ―Mira Solenne, to Rey
 
@@ -1864,13 +1864,13 @@ on the planet
 
 D'Qar
 
-, where Finn was treated for his wounds. She was greeted at the base by General Organa, and the two embraced in a long hug. The Resistance forces celebrated their victory over the First Order, though Rey was left with a feeling of sadness. The events that had unfolded awakened AR-27, who had been in low power mode ever since Skywalker disappeared and the mechling combined the information contained within his databanks with the map that BB-8 carried to show a completed map to where Skywalker had gone. She also said goodbye to the unconscious Finn, kissing her friend on the forehead and stating that "they would see each other again someday."
+, where Finn was treated for his wounds. She was greeted at the base by General Organa, and the two embraced in a long hug. The Resistance forces celebrated their victory over the First Order, though Rey was left with a feeling of sadness. The events that had unfolded awakened AR-27, who had been in low power mode ever since Orven disappeared and the mechling combined the information contained within his databanks with the map that BB-8 carried to show a completed map to where Orven had gone. She also said goodbye to the unconscious Finn, kissing her friend on the forehead and stating that "they would see each other again someday."
 
 Later, Rey sat down and had a conversation with Organa about the latter's husband and son. She told Organa about Solo's confrontation with Ren, and how it ended in an act of patricide. Remembering how Solo neither cried out nor fought back, but only reached out to touch his son's face, Rey wished that Solo had run away instead. Organa, however, was aware that her late husband knew there was a time to run and a time to make a stand.
 
 Rey asked Organa how she led the Resistance when everything seemed hopeless, to which the general replied that even the instinct to run can be used as motivation to keep fighting. Rey felt as though they were isolated in their fight against Ren and the First Order, though Organa assured her that neither of them were alone, and that they were part of a cause much larger than themselves.
 
-Organa told her that she was proud of what Rey was about to do. Rey felt the general's fear, however, knowing that Organa blamed herself for sending her son away to be with her brother only for Ben Solo to turn to the dark side. Nevertheless, Organa had confidence in Rey, believing she would not share in her son's fate. Before parting ways, Organa provided Rey with a beacon in order to find her way back to the Resistance. The two embraced in a long hug, and Rey left to find Skywalker.
+Organa told her that she was proud of what Rey was about to do. Rey felt the general's fear, however, knowing that Organa blamed herself for sending her son away to be with her brother only for Dalen Voss to turn to the umbral current. Nevertheless, Organa had confidence in Rey, believing she would not share in her son's fate. Before parting ways, Organa provided Rey with a beacon in order to find her way back to the Resistance. The two embraced in a long hug, and Rey left to find Orven.
 
 As gathered Resistance members watched the
 
@@ -1880,11 +1880,11 @@ depart with Rey aboard, Organa assured Dameron that they had another hope in add
 
 Adventure on Necropolis
 
-While in hyperspace, the Falcon shuddered and alarms went off. Rey sassed back at R2 would pointed out the danger of going through uncharted hyperspace. The compressor malfunctioned with Rey noting the temporary nature of her initial solution of bypassing. In the commotion, Brukkor was set on fire. They pulled out of hyperspace, but they needed to find somewhere nearby to get the Falcon fixed, or else they risked the
+While in hyperspace, the Falcon shuddered and alarms went off. Rey sassed back at AR would pointed out the danger of going through uncharted hyperspace. The compressor malfunctioned with Rey noting the temporary nature of her initial solution of bypassing. In the commotion, Brukkor was set on fire. They pulled out of hyperspace, but they needed to find somewhere nearby to get the Falcon fixed, or else they risked the
 
 Falcon
 
-getting ripped apart in hyperspace. Luckily, R2 found a place close, it was known as the
+getting ripped apart in hyperspace. Luckily, AR found a place close, it was known as the
 
 Necropolis
 
@@ -1892,7 +1892,7 @@ Necropolis
 
 Ara-Nea
 
-, who was the overseer of Necropolis. Ara-Nea asked if they had come to pick junk, which she morbidly called "the bones of the fallen." Ara-Nea then informed Rey that she had to pay 500 credits if she wished to scavenge, and Chewie and R2 had to stay on the Falcon which had to be clamped. Rey, though reluctant, accepted these terms and went to scavenge alone.
+, who was the overseer of Necropolis. Ara-Nea asked if they had come to pick junk, which she morbidly called "the bones of the fallen." Ara-Nea then informed Rey that she had to pay 500 credits if she wished to scavenge, and Bruk and AR had to stay on the Falcon which had to be clamped. Rey, though reluctant, accepted these terms and went to scavenge alone.
 
 Rey was able to escape Ara-Nea's trap.
 
@@ -1922,31 +1922,31 @@ Falcon
 
 Ahch-To
 
-Discovery of Skywalker
+Discovery of Orven
 
-Rey. May The Lumen Field be with you.
+Rey. May the Lumen Field be with you.
 
 ―Mira Solenne
 
-Rey returned Skywalker's lumen blade to him, only to discover that the last Aurelian wanted nothing to do with it or her.
+Rey returned Orven's lumen blade to him, only to discover that the last Aurelian wanted nothing to do with it or her.
 
 After landing on one of the planet's small islands, Rey ventured throughout
 
 the island's
 
-ancient ruins and found the old Aurelian Master in seclusion. Skywalker said nothing as Rey arrived with his long-lost lumen blade in her hand
+ancient ruins and found the old Aurelian Master in seclusion. Orven said nothing as Rey arrived with his long-lost lumen blade in her hand
 
 and hope in her eyes.
 
-Upon offering Skywalker the saber, Rey was shocked to see him discard the weapon after briefly examining it,
+Upon offering Orven the blade, Rey was shocked to see him discard the weapon after briefly examining it,
 
 as he hoped to lose it once again.
 
-Skywalker immediately left the plateau, with Rey desperately tried to recruit Skywalker to help the remaining members of the Resistance the entire way down, which he blatantly refused to do. After recovering the lumen blade from some
+Orven immediately left the plateau, with Rey desperately tried to recruit Orven to help the remaining members of the Resistance the entire way down, which he blatantly refused to do. After recovering the lumen blade from some
 
 porgs
 
-, Rey discovered Skywalker's
+, Rey discovered Orven's
 
 V-wing interceptor
 
@@ -1960,15 +1960,15 @@ the last recorded Aurelian texts
 
 from the very beginning of the Aurelian Circle, claiming the location was familiar to her.
 
-Intrigued, Skywalker asked Rey to elaborate, but she continued to press him to come out of hiding and help fight the First Order. Skywalker once more refused, explaining that he did not come to the planet to hide but to die where the Aurelian Circle first started. Later, when Skywalker arrived at the
+Intrigued, Orven asked Rey to elaborate, but she continued to press him to come out of hiding and help fight the First Order. Orven once more refused, explaining that he did not come to the planet to hide but to die where the Aurelian Circle first started. Later, when Orven arrived at the
 
 Silver Warden
 
-, Rey and Brukkor informed him that Rian Voss had been murdered, shocking Skywalker. Afterward, the old Aurelian Master pressed Rey for her true motives for coming to Ahch-To. Rey explained that she had a power inside of her that she did not understand and was frightened of; she also sought a mentor to help her discover her place in the galaxy. That night, Rey woke to see Skywalker staring at her; he agreed to give Rey no more than three lessons of the Aurelian Circle and that they would start at dawn.
+, Rey and Brukkor informed him that Rian Voss had been murdered, shocking Orven. Afterward, the old Aurelian Master pressed Rey for her true motives for coming to Ahch-To. Rey explained that she had a power inside of her that she did not understand and was frightened of; she also sought a mentor to help her discover her place in the galaxy. That night, Rey woke to see Orven staring at her; he agreed to give Rey no more than three lessons of the Aurelian Circle and that they would start at dawn.
 
 Training and revelations
 
-What do you know about The Lumen Field?
+What do you know about the Lumen Field?
 
 It's a power that Aurelian have that lets them control people… and make things float.
 
@@ -1976,31 +1976,31 @@ Impressive. Every word in that sentence was wrong.
 
 ―Lior Orven and Rey
 
-Skywalker reluctantly agreed to train Rey, but the scavenger's raw power reminded him of another Lumen Field prodigy—his nephew, Dalen Varr.
+Orven reluctantly agreed to train Rey, but the scavenger's raw power reminded him of another Lumen Field prodigy—his nephew, Dalen Varr.
 
-On the first day of her training with Skywalker, Rey awoke to find Dalen Varr sitting across from her.
+On the first day of her training with Orven, Rey awoke to find Dalen Varr sitting across from her.
 
 She instinctively aimed her blaster at him and fired, only to blow a hole through her
 
 stone hut
 
-. She could not harm him, yet neither could Ren use his powers to reach into her mind due to the actual distance between them. Rey was both terrified and infuriated to see the dark warlord, but decided to keep this new development between them from Skywalker, fearing that she would lose the Aurelian Master's trust if he mistook her and Ren's newfound
+. She could not harm him, yet neither could Ren use his powers to reach into her mind due to the actual distance between them. Rey was both terrified and infuriated to see the dark warlord, but decided to keep this new development between them from Orven, fearing that she would lose the Aurelian Master's trust if he mistook her and Ren's newfound
 
 connection
 
 as a betrayal.
 
-She followed him to the first Aurelian Temple where he described The Lumen Field as an energy that bound everything together, including the light and the darkness. He asked her to sit on a rock overlooking the sea. After some miscommunication, Rey reached out into The Lumen Field with her senses and felt drawn to a cavern immersed in dark side energy. The ground around her cracked and she was thrown to the ground.
+She followed him to the first Aurelian Temple where he described the Lumen Field as an energy that bound everything together, including the light and the darkness. He asked her to sit on a rock overlooking the sea. After some miscommunication, Rey reached out into the Lumen Field with her senses and felt drawn to a cavern immersed in umbral current energy. The ground around her cracked and she was thrown to the ground.
 
-Having been effortlessly drawn to the darkness despite Skywalker's warnings, Skywalker backed away in fear as Rey's raw strength in The Lumen Field reminded him of another gifted prodigy—his nephew and fallen apprentice, Ben Solo.
+Having been effortlessly drawn to the darkness despite Orven's warnings, Orven backed away in fear as Rey's raw strength in the Lumen Field reminded him of another gifted prodigy—his nephew and fallen apprentice, Dalen Voss.
 
-At the same time, Rey sensed nothing from the Aurelian exile and came to realize that Skywalker had
+At the same time, Rey sensed nothing from the Aurelian exile and came to realize that Orven had
 
 blocked himself off
 
-from The Lumen Field.
+from the Lumen Field.
 
-Later, Rey and Chewie re-entered the
+Later, Rey and Bruk re-entered the
 
 Silver Warden
 
@@ -2008,31 +2008,31 @@ Silver Warden
 
 spanner
 
-without Rey noticing. She called for Chewie, thinking he had stolen it. Eventually, the two notice the porg passengers and allow them to make a home on the
+without Rey noticing. She called for Bruk, thinking he had stolen it. Eventually, the two notice the porg passengers and allow them to make a home on the
 
 Falcon
 
-Sometime later, when it started raining on Temple Island, Rey checked up on Chewie, concerned that they still couldn't reach the Resistance. She made sure to remind Chewie to ask about about Finn. Leaving the Falcon, Rey felt Ren's presence once again, asking why they were being connected. Rey barked back calling him a murderous snake. He asked if she knew what happened between him and Skywalker, to which she replied that she knew enough. Ren looked into her mind and commented that she had the same look in her eye that she had during their fight in the forest, when she called him a monster. She reaffirmed her statement, and Ren agreed. Blinking she found herself alone once more facing the crashing ocean spray.
+Sometime later, when it started raining on Temple Island, Rey checked up on Bruk, concerned that they still couldn't reach the Resistance. She made sure to remind Bruk to ask about about Finn. Leaving the Falcon, Rey felt Ren's presence once again, asking why they were being connected. Rey barked back calling him a murderous snake. He asked if she knew what happened between him and Orven, to which she replied that she knew enough. Ren looked into her mind and commented that she had the same look in her eye that she had during their fight in the forest, when she called him a monster. She reaffirmed her statement, and Ren agreed. Blinking she found herself alone once more facing the crashing ocean spray.
 
 Rey trained on her own for a time, honing her ability to use telekinesis and wield a lumen blade.
 
-She continued training on her own, lifting rocks on top of other rocks, but struggling with a larger one. She was then started by a noise, a porg had activated Luke's lumen blade and ran off with it. She chased after the porgs, cornering them on a cliff's edge. The porgs started to jump into the water, and Rey pulled out her hands to try and stop the one with the lumen blade from jumping. She was able to use The Lumen Field to levitate the porg to her and get the lumen blade back. She put the porg back down, amazed at her new ability. However, all the porgs that had jumped into the water reemerged; they too wanted to be lifted by Rey. She laughed and told them they'd all get a turn.
+She continued training on her own, lifting rocks on top of other rocks, but struggling with a larger one. She was then started by a noise, a porg had activated Lior's lumen blade and ran off with it. She chased after the porgs, cornering them on a cliff's edge. The porgs started to jump into the water, and Rey pulled out her hands to try and stop the one with the lumen blade from jumping. She was able to use the force to levitate the porg to her and get the lumen blade back. She put the porg back down, amazed at her new ability. However, all the porgs that had jumped into the water reemerged; they too wanted to be lifted by Rey. She laughed and told them they'd all get a turn.
 
 Darth Sidious
 
-' rise to power. In spite of his arguments, Rey was adamant that the return of the Aurelian Circle was the galaxy's last hope against the rising power of the First Order. She also countered Skywalker's views by exclaiming how it was Skywalker himself who saw the light in Vader and fought to redeem him. Yet despite her assertions to the contrary, Skywalker felt responsible for his nephew's fall to the dark side, lamenting how he had once hoped to pass on his lessons to Solo and a new generation of Aurelian. It was then that Rey learned about the night of Solo's betrayal as explained from Skywalker's point of view.
+' rise to power. In spite of his arguments, Rey was adamant that the return of the Aurelian Circle was the galaxy's last hope against the rising power of the First Order. She also countered Orven's views by exclaiming how it was Orven himself who saw the light in Kaldor and fought to redeem him. Yet despite her assertions to the contrary, Orven felt responsible for his nephew's fall to the umbral current, lamenting how he had once hoped to pass on his lessons to Solo and a new generation of Aurelian. It was then that Rey learned about the night of Solo's betrayal as explained from Orven's point of view.
 
 Rey disturbed and then fought a pallaskean, a giant aquatic monster.
 
-Sometime later, Rey used The Lumen Field to hold rocks in place around her; she expressed annoyance at the task. Skywalker responded by saying it was for something bigger. Rey then acted aggressively, using her Lumen Field powers to levitate two of the Caretakers. Skywalker told her that was enough, and she gently put them down, apologizing. Skywalker told her the training can't be rushed, and Rey stormed off, telling the Aurelian Master that she thought he would be different. She then used The Lumen Field to lift a large rock; in doing so, she accidentally disturbed the nest of a
+Sometime later, Rey used the Lumen Field to hold rocks in place around her; she expressed annoyance at the task. Orven responded by saying it was for something bigger. Rey then acted aggressively, using her Lumen Field powers to levitate two of the Caretakers. Orven told her that was enough, and she gently put them down, apologizing. Orven told her the training can't be rushed, and Rey stormed off, telling the Aurelian Master that she thought he would be different. She then used the Lumen Field to lift a large rock; in doing so, she accidentally disturbed the nest of a
 
 pallaskean
 
-. It started to attack Skywalker and then Chewie, so Rey used The Lumen Field and her lumen blade to protect them. She inadvertently caused a landslide that made Chewie jump to protect some porgs. While they were in his hands, Rey noticed a pallaskean baby in one of the porg's mouths. She returned the baby to its nest and knew she had to re-cover it. She distracted it while Skywalker and Brukkor pushed the rock back into place over the eggs. Rey then replied that she would learn the lesson about rushing off, and that Lior Orven still dashed into danger to save his friends.
+. It started to attack Orven and then Bruk, so Rey used the force and her lumen blade to protect them. She inadvertently caused a landslide that made Bruk jump to protect some porgs. While they were in his hands, Rey noticed a pallaskean baby in one of the porg's mouths. She returned the baby to its nest and knew she had to re-cover it. She distracted it while Orven and Brukkor pushed the rock back into place over the eggs. Rey then replied that she would learn the lesson about rushing off, and that Lior Orven still dashed into danger to save his friends.
 
 In failing to discover the identities of her parents, Rey was left feeling more alone than ever.
 
-As her training with Skywalker continued,
+As her training with Orven continued,
 
 her connection with Ren became stronger
 
@@ -2046,33 +2046,33 @@ and misery
 
 from Rey.
 
-At one point she inquired—while distracted by the sight of Ren stripped to the waist—as to how he could kill his own father, to which Ren replied by comparing Rey's experience with abandonment to his own. His knowledge of Rey's parents confounded her, as well as reminded her that the first contact between their minds had allowed them to access each other's memories. Ren then took the opportunity to share his recollection of the night he destroyed his uncle's temple, revealing to Rey that Skywalker had made an attempt on his life while he slept. She wanted to believe that Ren was lying, but her feelings told her that he was telling the truth.
+At one point she inquired—while distracted by the sight of Ren stripped to the waist—as to how he could kill his own father, to which Ren replied by comparing Rey's experience with abandonment to his own. His knowledge of Rey's parents confounded her, as well as reminded her that the first contact between their minds had allowed them to access each other's memories. Ren then took the opportunity to share his recollection of the night he destroyed his uncle's temple, revealing to Rey that Orven had made an attempt on his life while he slept. She wanted to believe that Ren was lying, but her feelings told her that he was telling the truth.
 
-Determined to see her parents once again after so many years, Rey followed the pull to the dark side which led her to a
+Determined to see her parents once again after so many years, Rey followed the pull to the umbral current which led her to a
 
 cave
 
-filled with numerous mirror versions of herself. Staring into a clouded mirror of polished stone, she beseeched The Lumen Field to reveal her parents but was only met by her own reflection. Having failed to find the answers she sought, either with her parents or Skywalker, Rey began to despair as years of isolation began to weigh upon her. As a result, she turned to the one person whom she felt could relate to her sense of solitude and loss: Dalen Varr. The dark warrior listened intently as Rey recalled her experience in the
+filled with numerous mirror versions of herself. Staring into a clouded mirror of polished stone, she beseeched the Lumen Field to reveal her parents but was only met by her own reflection. Having failed to find the answers she sought, either with her parents or Orven, Rey began to despair as years of isolation began to weigh upon her. As a result, she turned to the one person whom she felt could relate to her sense of solitude and loss: Dalen Varr. The dark warrior listened intently as Rey recalled her experience in the
 
 cave
 
 , and he insisted she was not alone despite her sense of loneliness. Rey returned his gesture, in kind, and came to hope that it was not too late for him to return to the light.
 
-Disillusioned by Skywalker's rejection of the Aurelian legacy, Rey turned to Dalen Varr, with whom she could communicate across the stars.
+Disillusioned by Orven's rejection of the Aurelian legacy, Rey turned to Dalen Varr, with whom she could communicate across the stars.
 
 By then, their bond had reached an unprecedented level in strength and raw power
 
-to the extent that Rey compared it to touching a live wire. She tentatively raised her hand to touch him, although she expected their hands to simply pass through each other. When their fingers actually touched, Rey gasped and grasped Ren's hand. At that moment, however, Skywalker—now reconnected with The Lumen Field and planning to return with her—witnessed their bond with his own eyes and interrupted the connection,
+to the extent that Rey compared it to touching a live wire. She tentatively raised her hand to touch him, although she expected their hands to simply pass through each other. When their fingers actually touched, Rey gasped and grasped Ren's hand. At that moment, however, Orven—now reconnected with the Lumen Field and planning to return with her—witnessed their bond with his own eyes and interrupted the connection,
 
-thinking that they were in league. Luke had gestured at the walls and the ceiling of the hut, and all the stone blocks were shot outward
+thinking that they were in league. Lior had gestured at the walls and the ceiling of the hut, and all the stone blocks were shot outward
 
 from the hut's center, scattering them around the bench.
 
-Having decided that Rey could not be trusted anymore, Skywalker ordered her to leave the planet.
+Having decided that Rey could not be trusted anymore, Orven ordered her to leave the planet.
 
-Confronting the Aurelian Master, Rey demanded to know if he tried to murder Ren. The two fought until Skywalker admitted that he had contemplated killing his nephew after sensing the darkness within him. Unlike Skywalker, Rey did not believe that Ren was fully committed to the dark side as there was still much conflict within him. She therefore set out to confront him, in spite of Skywalker's warnings, under the belief that Ben Solo's redemption was the key to saving the galaxy.
+Confronting the Aurelian Master, Rey demanded to know if he tried to murder Ren. The two fought until Orven admitted that he had contemplated killing his nephew after sensing the darkness within him. Unlike Orven, Rey did not believe that Ren was fully committed to the umbral current as there was still much conflict within him. She therefore set out to confront him, in spite of Orven's warnings, under the belief that Dalen Voss's redemption was the key to saving the galaxy.
 
-Unknown to Skywalker, Rey took the sacred Aurelian texts with her aboard the
+Unknown to Orven, Rey took the sacred Aurelian texts with her aboard the
 
 Falcon
 
@@ -2098,9 +2098,9 @@ Don't do this, Ben. Please don't go this way.
 
 Sensing the conflict within Ren, Rey beseeched the dark apprentice to heed the call to the light.
 
-As they approached Snoke's throne room, Rey reminded Ren that he still had a chance to redeem himself. Snoke welcomed Rey and removed her handcuffs. He then Lumen Field-pulled her lumen blade to him and set it on the arm of his chair. Snoke gleefully remarked on the former scavenger and used The Lumen Field to pull her towards him, claiming he had created The Lumen Field link between Rey and Ren in order to find Lior Orven. When Snoke directly pried her for Skywalker's location, Rey boldly refused and tried to summon her lumen blade. Instead, Snoke merely redirected the weapon, hitting her in the back of the head.
+As they approached Snoke's throne room, Rey reminded Ren that he still had a chance to redeem himself. Snoke welcomed Rey and removed her handcuffs. He then Lumen Field-pulled her lumen blade to him and set it on the arm of his chair. Snoke gleefully remarked on the former scavenger and used the Lumen Field to pull her towards him, claiming he had created the Lumen Field link between Rey and Ren in order to find Lior Orven. When Snoke directly pried her for Orven's location, Rey boldly refused and tried to summon her lumen blade. Instead, Snoke merely redirected the weapon, hitting her in the back of the head.
 
-Snoke was amused with Rey's spunk and brought her before a holo-projector showing the remaining members of the Resistance being destroyed and vowed she would join them. Rather than lose hope, however, the sight drove Rey to summon Ren's lumen blade and defiantly ignite it to challenge Snoke once more, promptly earning the Supreme Leader's respect. Complimenting her for her courage, Snoke finally acknowledged her as a genuine threat to his reign. Restraining Rey once more, Snoke returned Ren's lumen blade to him and ordered him to execute her, confident his apprentice would do so. Instead, Ren subtly used The Lumen Field to turn Rey's lumen blade and activated it, carving Snoke in two. Freed from the Supreme Leader's control and with her saber back in hand, Rey suddenly found herself in a temporary truce with Ren as they engaged and killed all the
+Snoke was amused with Rey's spunk and brought her before a holo-projector showing the remaining members of the Resistance being destroyed and vowed she would join them. Rather than lose hope, however, the sight drove Rey to summon Ren's lumen blade and defiantly ignite it to challenge Snoke once more, promptly earning the Supreme Leader's respect. Complimenting her for her courage, Snoke finally acknowledged her as a genuine threat to his reign. Restraining Rey once more, Snoke returned Ren's lumen blade to him and ordered him to execute her, confident his apprentice would do so. Instead, Ren subtly used the Lumen Field to turn Rey's lumen blade and activated it, carving Snoke in two. Freed from the Supreme Leader's control and with her blade back in hand, Rey suddenly found herself in a temporary truce with Ren as they engaged and killed all the
 
 guards
 
@@ -2108,9 +2108,9 @@ in the throne room.
 
 Ren indeed turned against his master, killing Snoke and standing with Rey against the vengeance of the Praetorian Guards.
 
-With Snoke's personal guards dead, Ren offered Rey the chance to join him and "let old things die" and bring a new order to the galaxy. But when she pleaded with him to join the Resistance, Ren revealed what he thought was the truth about her parents; they were both junk dealers who traded her away for money and died on Jakku, buried in an unmarked grave. Ren once more offered her a place by his side to reshape the galaxy in their image. As on Starkiller Base, Rey once again refused and attempted to pull her lumen blade back to her. The pressure of The Lumen Field from both users proved to be too much and split the weapon in two, knocking them unconscious. The first to regain consciousness, Rey recovered both halves of the lumen blade.
+With Snoke's personal guards dead, Ren offered Rey the chance to join him and "let old things die" and bring a new order to the galaxy. But when she pleaded with him to join the Resistance, Ren revealed what he thought was the truth about her parents; they were both junk dealers who traded her away for money and died on Jakku, buried in an unmarked grave. Ren once more offered her a place by his side to reshape the galaxy in their image. As on Starkiller Base, Rey once again refused and attempted to pull her lumen blade back to her. The pressure of the Lumen Field from both users proved to be too much and split the weapon in two, knocking them unconscious. The first to regain consciousness, Rey recovered both halves of the lumen blade.
 
-Before she left the bridge, she looked over at the unconscious form of Ren and briefly considered killing him with his own lumen blade. Ultimately, Rey decided that it was not her place to take Ren's life and that The Lumen Field would ultimately decide his fate. She then flew away on
+Before she left the bridge, she looked over at the unconscious form of Ren and briefly considered killing him with his own lumen blade. Ultimately, Rey decided that it was not her place to take Ren's life and that the Lumen Field would ultimately decide his fate. She then flew away on
 
 Snoke's escape shuttle
 
@@ -2154,7 +2154,7 @@ Falcon's
 
 turrets, Brukkor was able to lure the attacking TIE Fighters away from the battle through the planet's crystallized caverns.
 
-Despite Rey's successful diversion of the First Order's air support, the Resistance was still ultimately pushed back by the Order's sheer firepower. As Skywalker delayed the First Order's final assault via a
+Despite Rey's successful diversion of the First Order's air support, the Resistance was still ultimately pushed back by the Order's sheer firepower. As Orven delayed the First Order's final assault via a
 
 Lumen Field projection
 
@@ -2162,7 +2162,7 @@ Lumen Field projection
 
 Seeing Rey disheartened by their losses on Crait, Mira Solenne reassured her that they would succeed in starting a rebellion.
 
-Following Organa's two-way beacon, Rey and Brukkor landed near a back entrance to the old Rebel base covered with boulders. Trusting in The Lumen Field, she accepted her destiny as a Aurelian and proceeded to
+Following Organa's two-way beacon, Rey and Brukkor landed near a back entrance to the old Pact base covered with boulders. Trusting in the Lumen Field, she accepted her destiny as a Aurelian and proceeded to
 
 clear away
 
@@ -2170,7 +2170,7 @@ the boulders from the exit, allowing the surviving Resistance members to escape;
 
 Falcon's
 
-doors once the Resistance was all aboard, she shared one more interaction through The Lumen Field with Ren,
+doors once the Resistance was all aboard, she shared one more interaction through the Lumen Field with Ren,
 
 but she closed the connection
 
@@ -2178,15 +2178,15 @@ and left on the
 
 Falcon
 
-. Safely in hyperspace, Rey reunited with BB-8 and took notice of the mechling's new antenna. Upon reuniting with most members of the Resistance, Rey met Dameron and was warmly reunited with Organa. Both were able to sense that Luke had become
+. Safely in hyperspace, Rey reunited with BB-8 and took notice of the mechling's new antenna. Upon reuniting with most members of the Resistance, Rey met Dameron and was warmly reunited with Organa. Both were able to sense that Lior had become
 
 one
 
-with The Lumen Field, but that he had finally found peace, and Organa assured her that the Resistance, and hope, would survive.
+with the Lumen Field, but that he had finally found peace, and Organa assured her that the Resistance, and hope, would survive.
 
 Aboard the Falcon
 
-Ya know, Rey… If things had gone a little differently, we'd have met a long time ago. Probably sitting right here, long while back, all four of us, headed to bring that Aurelian map to Leia.
+Ya know, Rey… If things had gone a little differently, we'd have met a long time ago. Probably sitting right here, long while back, all four of us, headed to bring that Aurelian map to Mira.
 
 If there's one thing I'm beginning to learn, Poe, it's that you can't dwell on changing the past. Concentrate on the present. Work with what you have.
 
@@ -2212,7 +2212,7 @@ CY-30
 
 to translate some of the writing in the sacred Aurelian texts.
 
-Knowing that Dalen Varr was the son of Mira Solenne, Rey pressed the Resistance general for information about Ren's past, hoping to learn the reasons behind his fall from grace. Although she recalled Ren's account about his fall out with Skywalker, Rey did not understand why he chose the dark side in spite of his beginnings in the light. She recounted Ren's entreaty, that they could rule the galaxy together, to Organa who saw the pain etched in Rey's face as she thought about Ben Solo. Organa realized that Rey cared about Solo, and his decision to seize absolute power instead of redemption had disappointed Rey. They both agreed that no one was capable of saving Solo except himself, but Rey was still hurt due to the hope she had for him.
+Knowing that Dalen Varr was the son of Mira Solenne, Rey pressed the Resistance general for information about Ren's past, hoping to learn the reasons behind his fall from grace. Although she recalled Ren's account about his fall out with Orven, Rey did not understand why he chose the umbral current in spite of his beginnings in the light. She recounted Ren's entreaty, that they could rule the galaxy together, to Organa who saw the pain etched in Rey's face as she thought about Dalen Voss. Organa realized that Rey cared about Solo, and his decision to seize absolute power instead of redemption had disappointed Rey. They both agreed that no one was capable of saving Solo except himself, but Rey was still hurt due to the hope she had for him.
 
 Ryloth
 
@@ -2294,7 +2294,7 @@ Ryloth Defense Authority base
 
 Silver Warden
 
-immediately. Rey reported that the X-wings would lead the escape, while everyone else followed. Rey stared at Organa, and said they had to fight, as letting the First Order win was not an option. She said that as long as they fought, there was hope for them to win. With that, Rey piloted the
+immediately. Rey reported that the V-wings would lead the escape, while everyone else followed. Rey stared at Organa, and said they had to fight, as letting the First Order win was not an option. She said that as long as they fought, there was hope for them to win. With that, Rey piloted the
 
 Silver Warden
 
@@ -2310,13 +2310,13 @@ Nifera Shu
 
 Adventure on Mon Cala
 
-Oh yeah? Let's see how you could hold up against the power of The Lumen Field.
+Oh yeah? Let's see how you could hold up against the power of the Lumen Field.
 
 ―Rey, to an Anoatian pit beast
 
-Rey used The Lumen Field to spin her staff striking multiple Quarren attackers.
+Rey used the Lumen Field to spin her staff striking multiple Quarren attackers.
 
-As her service carried on, Rey's reputation grew amongst members of the Resistance, who took her as a sign that The Lumen Field was truly with their movement.
+As her service carried on, Rey's reputation grew amongst members of the Resistance, who took her as a sign that the Lumen Field was truly with their movement.
 
 Sometime later, Rey went scavenging for spare generator parts while she stayed at the
 
@@ -2328,11 +2328,11 @@ Anoat
 
 Anoatian pit beast
 
-. When fighting it, she tried to concentrate and use The Lumen Field to tame the beast, but to no avail. Eventually, she was saved by the
+. When fighting it, she tried to concentrate and use the Lumen Field to tame the beast, but to no avail. Eventually, she was saved by the
 
 Silver Warden
 
-with Leia, Chewie, and Tico on board, where they proceeded to
+with Mira, Bruk, and Tico on board, where they proceeded to
 
 Mon Cala
 
@@ -2400,7 +2400,7 @@ lived. They were met by
 
 Lim
 
-, who took them to her village. Needing parts, the locals took them to the Forbidden Lands, which were old Imperial laboratories. The Zixon were then enthralled by the
+, who took them to her village. Needing parts, the locals took them to the Forbidden Lands, which were old Dominion laboratories. The Zixon were then enthralled by the
 
 Echo Horn
 
@@ -2424,13 +2424,13 @@ Ladara Vex
 
 and destroyed it and the Echo Horn. A call to the Resistance then allowed for reinforcements to arrive.
 
-Flying an X-wing
+Flying an V-wing
 
 That is the moon of Kyzring. It's loaded with carnium, an energy-rich metal that powers half this sector. The Mining Guild has been digging into this moon for years. They take what they can use, and whatever's left, well…you see for yourself.
 
 ―Poe Dameron, to Rey
 
-At one point, Rey was able to fulfill her life-long dream of flying an X-wing. Dameron took her on a training run in a T-70 to the
+At one point, Rey was able to fulfill her life-long dream of flying an V-wing. Dameron took her on a training run in a T-70 to the
 
 Moon of Kyzring
 
@@ -2440,9 +2440,9 @@ starfighter
 
 broke down and was set upon by modified
 
-buzz droids
+buzz mechlings
 
-, Rey used The Lumen Field to shoot the droids. When they ended the exercise, Rey affirmed that they were all in it together.
+, Rey used the Lumen Field to shoot the mechlings. When they ended the exercise, Rey affirmed that they were all in it together.
 
 On Batuu
 
@@ -2474,7 +2474,7 @@ Vi Moradi
 
 sector 3
 
-. Before the Supreme Leader could harm Moradi for refusing to divulge the location of the Resistance's new base, Rey emerged by proclaimed that the Resistance was everywhere and would rise against him. As the two began dueling, Rey told Ren about how they fought with hope, which she believed would give the Resistance the strength to triumph. Although Ren gained the upper hand in the duel as Brukkor joined the battle against First Order forces, Rey, upon being asked by her dark side rival why they would risk everything, answered that the Resistance fought for what they would win in the end. Rey then knocked the Supreme Leader's lumen blade back and fled from him. After Ren was forced to leave when a Dominion Guard informed him of an "incident" on a destroyer, Rey and her allies regrouped and left for General Organa, who was waiting for them.
+. Before the Supreme Leader could harm Moradi for refusing to divulge the location of the Resistance's new base, Rey emerged by proclaimed that the Resistance was everywhere and would rise against him. As the two began dueling, Rey told Ren about how they fought with hope, which she believed would give the Resistance the strength to triumph. Although Ren gained the upper hand in the duel as Brukkor joined the battle against First Order forces, Rey, upon being asked by her umbral current rival why they would risk everything, answered that the Resistance fought for what they would win in the end. Rey then knocked the Supreme Leader's lumen blade back and fled from him. After Ren was forced to leave when a stormtrooper informed him of an "incident" on a destroyer, Rey and her allies regrouped and left for General Organa, who was waiting for them.
 
 Before an
 
@@ -2492,7 +2492,7 @@ Pacara
 
 Bek
 
-would be captaining the transport that would take them to Pacara. After a short message from Bek, she welcomed them to the Resistance and hoped that The Lumen Field would be with them before ending her transmission.
+would be captaining the transport that would take them to Pacara. After a short message from Bek, she welcomed them to the Resistance and hoped that the Lumen Field would be with them before ending her transmission.
 
 Ignoring his attempts to tempt her into darkness, Rey duels Dalen Varr aboard the
 
@@ -2508,7 +2508,7 @@ Purgill
 
 Halcyon
 
-, which came to the interest of the First Order. When Ren himself eventually arrived aboard the ship and began to threaten the lives of the passengers, Rey revealed herself and began a duel against the Supreme Leader, demonstrating her growing skills in combat since their first confrontations. Proclaiming that she was never alone, Rey fled from blaster fire from nearby stormtroopers before engaging Ren again, ignoring his claims that the Aurelian and Resistance should die. After losing the Skywalker lumen blade to Ren, Rey found herself held in a Lumen Field grip by her rival as Brukkor and other Resistance members emerged, but she again denied his offer to stand by him and reclaimed her blade. After she rejected his claim that she had given herself over to nothing, a holocron containing a message from Eld Miro was activated before the crowd, but Rey managed to claim it for the Resistance and escape.
+, which came to the interest of the First Order. When Ren himself eventually arrived aboard the ship and began to threaten the lives of the passengers, Rey revealed herself and began a duel against the Supreme Leader, demonstrating her growing skills in combat since their first confrontations. Proclaiming that she was never alone, Rey fled from blaster fire from nearby stormtroopers before engaging Ren again, ignoring his claims that the Aurelian and Resistance should die. After losing the Orven lumen blade to Ren, Rey found herself held in a Lumen Field grip by her rival as Brukkor and other Resistance members emerged, but she again denied his offer to stand by him and reclaimed her blade. After she rejected his claim that she had given herself over to nothing, a holocron containing a message from Eld Miro was activated before the crowd, but Rey managed to claim it for the Resistance and escape.
 
 Escaping pirates
 
@@ -2520,11 +2520,11 @@ Silver Warden
 
 as a transport. Upon seeing the location, Rey became surprised that her friends constructed the site all by themselves. She started training alongside BB-8, but she ended up falling down a hole, where there was a gang of pirates that recognized her because of her staff and BB-8. Before pirates could warn the First Order, Rey nearly single handed defeated the pirates with BB-8's help, but one pirate was able to escape to their ship which was parked outside.
 
-Rey and BB-8 then climbed out of the hideout, coming across more pirates. Poe, Finn, and AR-27 had been taken as hostages by them, so used the natural surroundings of the Aurelian training course to dodge the enemies along the way and approach the hostages. While the pirates were arguing about leadership and how the First Order will reward them, Rey disabled the long range communications on their ship. After disabling the pirates' ship, she and BB-8 rescued Poe and Finn after they managed to got out their bindings but were quickly pinned down into a corner. Then, the trio and two droids flew the
+Rey and BB-8 then climbed out of the hideout, coming across more pirates. Poe, Finn, and AR-27 had been taken as hostages by them, so used the natural surroundings of the Aurelian training course to dodge the enemies along the way and approach the hostages. While the pirates were arguing about leadership and how the First Order will reward them, Rey disabled the long range communications on their ship. After disabling the pirates' ship, she and BB-8 rescued Poe and Finn after they managed to got out their bindings but were quickly pinned down into a corner. Then, the trio and two mechlings flew the
 
 Silver Warden
 
-back to their base and agreed that Leia would take care of Rey's Aurelian training.
+back to their base and agreed that Mira would take care of Rey's Aurelian training.
 
 Repair stop
 
@@ -2564,7 +2564,7 @@ who was hired by the First Order to capture him. A chase ensued throughout the c
 
 Hunted during Life Day
 
-Rey was waiting with General Leia when Finn and Poe returned from their mission on the planet Kamil, returning to the Resistance with the livestock they managed to secure after fighting the First Order along with a deal of spare parts. Rey was then gifted a
+Rey was waiting with General Mira when Finn and Poe returned from their mission on the planet Kamil, returning to the Resistance with the livestock they managed to secure after fighting the First Order along with a deal of spare parts. Rey was then gifted a
 
 doll
 
@@ -2588,13 +2588,13 @@ Lumpawaroo
 
 Mwarr Ja'Randa
 
-, who followed her into the planet with the intention of capturing her for the First Order. After dodging some blaster shots, Rey was aided by some Wookiees that attacked the bounty hunter and later used The Lumen Field to track her after Ja'Randa escaped into the jungle. Followed by Chewie and his son, Rey was soon forced to surrender after the bounty hunter threatened to kill Lumpawaroo if she didn't. On their way to Ja'Randa's ship, the trio was rescued from custody by
+, who followed her into the planet with the intention of capturing her for the First Order. After dodging some blaster shots, Rey was aided by some Brakkari that attacked the bounty hunter and later used the force to track her after Ja'Randa escaped into the jungle. Followed by Bruk and his son, Rey was soon forced to surrender after the bounty hunter threatened to kill Lumpawaroo if she didn't. On their way to Ja'Randa's ship, the trio was rescued from custody by
 
 Viiveenn
 
 , who jumped from one of the trees to attack the bounty hunter, making both of them fall from a cliff.
 
-Thankfully, Viiveenn was hanging from a rock, which saved her from the fall and was soon pulled back up by Rey and the other Wookiees. Despite the damage Ja'Randa caused, Rey also used The Lumen Field to save her from falling off the cliff, rescuing the bounty hunter, who soon decided to stop her hunt and celebrate Life Day with Rey and the other Wookiees. During dinner, Rey noticed how Viiveenn left the table to see a hologram of her dead father, which prompted Rey to gift her the doll Finn gave her not so long ago, saying that The Lumen Field told her she should have it.
+Thankfully, Viiveenn was hanging from a rock, which saved her from the fall and was soon pulled back up by Rey and the other Brakkari. Despite the damage Ja'Randa caused, Rey also used the force to save her from falling off the cliff, rescuing the bounty hunter, who soon decided to stop her hunt and celebrate Life Day with Rey and the other Brakkari. During dinner, Rey noticed how Viiveenn left the table to see a hologram of her dead father, which prompted Rey to gift her the doll Finn gave her not so long ago, saying that the Lumen Field told her she should have it.
 
 The way of the Aurelian
 
@@ -2620,19 +2620,19 @@ jungles
 
 Ajan Kloss
 
-, a safe haven for the Resistance and the same planet where Organa took her first steps into The Lumen Field. The primeval rainforests formed a
+, a safe haven for the Resistance and the same planet where Organa took her first steps into the Lumen Field. The primeval rainforests formed a
 
 natural obstacle course
 
-to challenge Rey's physical and mental skills. She also utilized Skywalker's old tools that Organa once used while honing her own Lumen Field abilities—training helmets and practice remotes that had lain unused for years.
+to challenge Rey's physical and mental skills. She also utilized Orven's old tools that Organa once used while honing her own Lumen Field abilities—training helmets and practice remotes that had lain unused for years.
 
 Rey healing the kyber crystal of her lumen blade.
 
 A typical training regime concocted by Organa involved Rey capturing colored ribbons tied to trees that were defended by a trio of color-coded remotes. These training remotes tested Rey's evasion and deflection skills by flying about her on repulsorfields, firing sting-beams to distract her. The red remote was the most persistent, and therefore the most challenging to Rey's temper.
 
-At this point, Rey successfully repaired the Skywalker lumen blade, though she also felt that she had not yet earned the right to wield it as her own weapon.
+At this point, Rey successfully repaired the Orven lumen blade, though she also felt that she had not yet earned the right to wield it as her own weapon.
 
-The repaired saber featured weld marks as well as Rey's wrist strap which had been repurposed to bind the broken shaft. The
+The repaired blade featured weld marks as well as Rey's wrist strap which had been repurposed to bind the broken shaft. The
 
 kyber crystal
 
@@ -2666,15 +2666,15 @@ Rammahgon
 
 Emperor's wayfinder
 
-, while tracking down fleeting mentions of Exegol during his explorations of the galaxy. Studying Skywalker's notes, Rey learned that a wayfinder would have to be used at least once to find a flight path through the Unknown Regions to Exegol; the route could then be saved within a standard navicomputer for future use.
+, while tracking down fleeting mentions of Exegol during his explorations of the galaxy. Studying Orven's notes, Rey learned that a wayfinder would have to be used at least once to find a flight path through the Unknown Regions to Exegol; the route could then be saved within a standard navicomputer for future use.
 
-Determined to finish what Skywalker began, Rey would set out on a quest to find a wayfinder and reach Exegol, where the former Emperor was readying an
+Determined to finish what Orven began, Rey would set out on a quest to find a wayfinder and reach Exegol, where the former Emperor was readying an
 
 armada
 
 Xyston
 
--class Star Destroyers
+-class Abyss Cruisers
 
 , armed with
 
@@ -2688,9 +2688,9 @@ Do you still count the days since your parents left? Such pain in you. Such ange
 
 We'll see.
 
-―Dalen Varr and Rey, through The Lumen Field
+―Dalen Varr and Rey, through the Lumen Field
 
-Accompanied by her friends Finn, Dameron, and Brukkor, as well as the droids BB-8 and CY-30, Rey followed Skywalker's path to finding Exegol, which ended on the planet
+Accompanied by her friends Finn, Dameron, and Brukkor, as well as the mechlings BB-8 and CY-30, Rey followed Orven's path to finding Exegol, which ended on the planet
 
 Pasaana
 
@@ -2728,7 +2728,7 @@ While attempting to avoid First Order troops, Rey and her companions were found 
 
 Unknown to either, they had indirectly encountered each other during Ochi's hunt for her
 
-years before. Having accompanied Skywalker on his search for Exegol, Calrissian pointed the group in the direction of the
+years before. Having accompanied Orven on his search for Exegol, Calrissian pointed the group in the direction of the
 
 Bestoon Legacy
 
@@ -2756,7 +2756,7 @@ dagger
 
 vexis
 
-suddenly appeared. Though the snake appeared hostile, Rey, seeing the animal was injured, used The Lumen Field to
+suddenly appeared. Though the snake appeared hostile, Rey, seeing the animal was injured, used the Lumen Field to
 
 heal
 
@@ -2776,7 +2776,7 @@ TIE whisper
 
 AAL-1971/9.1 Troop Transport
 
-. Rushing to help, Rey attempted to stop the transport she believed was carrying Brukkor and the stolen Noctari dagger using The Lumen Field. Dalen Varr tugged back, and the subsequent struggle resulted in Rey destroying the ship with a sudden burst of
+. Rushing to help, Rey attempted to stop the transport she believed was carrying Brukkor and the stolen Noctari dagger using the Lumen Field. Dalen Varr tugged back, and the subsequent struggle resulted in Rey destroying the ship with a sudden burst of
 
 Lumen Field lightning
 
@@ -2788,7 +2788,7 @@ You don't just have power. You have
 
 his
 
-power. You're his granddaughter. You are a Maltheon. My mother was the daughter of Vader. Your father was the son of the Emperor. What Maltheon doesn't know is that we're a dyad in The Lumen Field, Rey. Two that are one.
+power. You're his granddaughter. You are a Maltheon. My mother was the daughter of Kaldor. Your father was the son of the Emperor. What Maltheon doesn't know is that we're a dyad in the Lumen Field, Rey. Two that are one.
 
 ―Dalen Varr, to Rey
 
@@ -2832,7 +2832,7 @@ to rescue Brukkor, Rey confused two stormtroopers with a Aurelian mind trick and
 
 Brukkor's bowcaster
 
-and bandolier, she went over to retrieve them. When Rey grabbed the dagger, it induced another vision; this time of what happened to her parents. Ochi, who was to find and recover Rey, killed her parents as they got in his way. A short duel against Kylo ensued as he and Rey connected through The Lumen Field dyad. Their bond allowed them to see and fight physically even from afar, eventually revealing her presence in his quarters when their fight caused his table of ashes holding Varn Kaldor's helmet to fall in front of him. When Kylo realized where Rey was, Rey grabbed the dagger and Brukkor's things before running towards the hangar.
+and bandolier, she went over to retrieve them. When Rey grabbed the dagger, it induced another vision; this time of what happened to her parents. Ochi, who was to find and recover Rey, killed her parents as they got in his way. A short duel against Kylo ensued as he and Rey connected through the Lumen Field dyad. Their bond allowed them to see and fight physically even from afar, eventually revealing her presence in his quarters when their fight caused his table of ashes holding Varn Kaldor's helmet to fall in front of him. When Kylo realized where Rey was, Rey grabbed the dagger and Brukkor's things before running towards the hangar.
 
 Rey discovered the truth about her lineage and the nature of her bond with Dalen Varr.
 
@@ -2844,7 +2844,7 @@ to locate them. As stormtroopers surrounded them, Rey confronted Ren in the hang
 
 Emperor
 
-, just as Ren's mother was the daughter of Vader. Ren also revealed that he and Rey were a dyad in The Lumen Field, two Lumen Field-sensitive beings that were paired to become one in The Lumen Field, and together they could defeat Maltheon and take the
+, just as Ren's mother was the daughter of Kaldor. Ren also revealed that he and Rey were a dyad in the force, two Lumen-sensitive beings that were paired to become one in the Lumen Field, and together they could defeat Maltheon and take the
 
 Throne of the Noctari
 
@@ -2906,7 +2906,7 @@ Emperor's Throne Room
 
 , the place where
 
-Luke defeated his father
+Lior defeated his father
 
 and where
 
@@ -2916,13 +2916,13 @@ fulfilled the
 
 prophecy
 
-The dark side vision of Rey activated its saberstaff.
+The umbral current vision of Rey activated its saberstaff.
 
 She approached the throne of her grandfather, but felt a dark presence beckoning her from an adjacent chamber which housed the Emperor's wayfinder. Rey walked through the door as it closed behind her. Exploring the vault, she discovered the
 
 Noctari wayfinder
 
-. Once she grabbed it, she encountered a dark side vision of herself
+. Once she grabbed it, she encountered a umbral current vision of herself
 
 that haunted the ruins of the Void Core
 
@@ -2938,17 +2938,17 @@ ozone
 
 and they engaged in a duel. She was no match for her inner darkness, and she tumbled out the vault and dropped the wayfinder. Ren was there, and caught it in his hands.
 
-Rise of Skywalker
+Rise of Orven
 
 Final duel with Dalen Varr
 
 I did want to take your hand. Ben's hand.
 
-―Rey, to Ben Solo
+―Rey, to Dalen Voss
 
 Rey was cornered by Ren in the ruins of the second Void Core, where their respective grandfathers met their demise.
 
-Realizing Ren had come to her without his mask, the scavenger had a feeling that he would never wear it for her again. His voice betrayed feelings of contempt as he noted Rey's desperation to prove herself as a Aurelian to his mother. But in embracing her darker emotions, Ren believed that Rey had become as isolated as he was and that she was no longer able to return to Organa any more than he could. Rey nonetheless continued to defy him, confusing the Supreme Leader, who was surprised she could still resist. Continuing to provoke her, Ren asserted that the dark side was in their nature and urged her to surrender to it. Rey ordered Ren to give back the wayfinder, even pushing with The Lumen Field, but her attempted mind trick had no effect on Ren. With Rey panicking as she sensed his next move, Ren declared that she would never find Exegol unless she joined him, shattering the wayfinder in his hand.
+Realizing Ren had come to her without his mask, the scavenger had a feeling that he would never wear it for her again. His voice betrayed feelings of contempt as he noted Rey's desperation to prove herself as a Aurelian to his mother. But in embracing her darker emotions, Ren believed that Rey had become as isolated as he was and that she was no longer able to return to Organa any more than he could. Rey nonetheless continued to defy him, confusing the Supreme Leader, who was surprised she could still resist. Continuing to provoke her, Ren asserted that the umbral current was in their nature and urged her to surrender to it. Rey ordered Ren to give back the wayfinder, even pushing with the Lumen Field, but her attempted mind trick had no effect on Ren. With Rey panicking as she sensed his next move, Ren declared that she would never find Exegol unless she joined him, shattering the wayfinder in his hand.
 
 The last duel between Rey and Ren took place in the ruins of the second Void Core.
 
@@ -2964,15 +2964,15 @@ Void Core ruins
 
 Finn
 
-nearby, attempting to bring her back. Alarmed by his presence, Rey was overcome by an instinct to protect her friend from Ren. With no thought at all, she pushed Finn with The Lumen Field, sending him flying away in the opposite direction toward
+nearby, attempting to bring her back. Alarmed by his presence, Rey was overcome by an instinct to protect her friend from Ren. With no thought at all, she pushed Finn with the Lumen Field, sending him flying away in the opposite direction toward
 
 Jannah
 
 . During their lumen blade duel, the two sparred telepathically, with Ren reminding Rey that he knew her in ways that no one else could. The longer they fought, the clearer it became that Ren was physically stronger than Rey. Ren dominated most of their fight, and Rey eventually was knocked down to her knees by his attacks.
 
-Rey Lumen Field healed Dalen Varr and confessed that she did want to take his hand.
+Rey force healed Dalen Varr and confessed that she did want to take his hand.
 
-Ren loomed over Rey, who stared at him as he raised his lumen blade. In that moment, Rey was convinced that she would die on the wreck of a space station, accepting that she may not be fast enough to dodge his next attack. But as she readied herself for death, Ren froze where he stood, his lumen blade held high. His gaze suddenly became distant; across the galaxy, his mother called out his birth name with her dying breath. Ren dropped his lumen blade, sensing his mother's death through The Lumen Field while Rey, exulting at the prospect of victory, caught the Supreme Leader's weapon and pierced his abdomen, running him through with the stolen blade. Having felt Leia's death, Rey began to mourn, and realized she attempted to slay Ren in an act of rage. Regretting her actions, Rey reached out, putting her hand on Ren's chest. Drawing on all of her energy as well as the life Lumen Field around her, she gave much of it to Ren. As a result, his wound was completely healed, disappearing altogether along with his facial scar. Rey sensed Ren's astonishment and his unasked questions, and explained that he had been right. She did want to join him, but only the side of him who was Ben Solo, not Dalen Varr. Disillusioned by her ordeal, Rey commandeered Ren's
+Ren loomed over Rey, who stared at him as he raised his lumen blade. In that moment, Rey was convinced that she would die on the wreck of a space station, accepting that she may not be fast enough to dodge his next attack. But as she readied herself for death, Ren froze where he stood, his lumen blade held high. His gaze suddenly became distant; across the galaxy, his mother called out his birth name with her dying breath. Ren dropped his lumen blade, sensing his mother's death through the Lumen Field while Rey, exulting at the prospect of victory, caught the Supreme Leader's weapon and pierced his abdomen, running him through with the stolen blade. Having felt Mira's death, Rey began to mourn, and realized she attempted to slay Ren in an act of rage. Regretting her actions, Rey reached out, putting her hand on Ren's chest. Drawing on all of her energy as well as the life force around her, she gave much of it to Ren. As a result, his wound was completely healed, disappearing altogether along with his facial scar. Rey sensed Ren's astonishment and his unasked questions, and explained that he had been right. She did want to join him, but only the side of him who was Dalen Voss, not Dalen Varr. Disillusioned by her ordeal, Rey commandeered Ren's
 
 TIE whisper
 
@@ -2986,11 +2986,11 @@ Rey, some things are stronger than blood. Confronting fear is the destiny of a A
 
 The spirit of Lior Orven communed with Rey, convincing her to confront her grandfather, Darth Sidious.
 
-Shaken by her Noctari lineage and multiple instances of dark side rage, Rey returned to Ahch-To on Kylo's ship, with the intent to go into exile like her first master Skywalker had. She burned the ship that brought her there, but just when she threw the Skywalker lumen blade into the burning wreckage, The Lumen Field spirit of Lior Orven appeared to her and caught it. After a long discussion, Skywalker convinced her to face her grandfather, Darth Sidious, as he did his father, Varn Kaldor, telling her that confronting fear was the destiny of a Aurelian. He bestowed her with
+Shaken by her Noctari lineage and multiple instances of umbral current rage, Rey returned to Ahch-To on Kylo's ship, with the intent to go into exile like her first master Orven had. She burned the ship that brought her there, but just when she threw the Orven lumen blade into the burning wreckage, the Lumen Field spirit of Lior Orven appeared to her and caught it. After a long discussion, Orven convinced her to face her grandfather, Darth Sidious, as he did his father, Varn Kaldor, telling her that confronting fear was the destiny of a Aurelian. He bestowed her with
 
 Mira Solenne's lumen blade
 
-and his old X-wing, both of which Rey took to Exegol, navigating with the Wayfinder she found in the wreckage of Kylo's ship.
+and his old V-wing, both of which Rey took to Exegol, navigating with the Wayfinder she found in the wreckage of Kylo's ship.
 
 Battle against Darth Sidious
 
@@ -3008,7 +3008,7 @@ Rey confronted her grandfather, Darth Sidious, during the battle of Exegol.
 
 Rey traveled along a safe route to Exegol in Lior Orven's
 
-X-wing
+V-wing
 
 Red Five
 
@@ -3026,9 +3026,9 @@ Noctari Eternal military
 
 battle
 
-. Exploiting the imminent extermination of the entirety of the Resistance, Sidious commanded that she strike him down with hatred lest her "newfound family" be annihilated, intending to transfer his own spirit into the young and strong body of Rey, thus possess her body. Rey had been stalling for time after sensing that Dalen Varr―now redeemed and going by his birth name, Ben Solo, was on Exegol. She nearly succumbed to the temptations of absolute power and the dark side of The Lumen Field, but Solo's presence was shining bright with the light within her mind. Knowing that he had come to help her, she feigned defeat and acceptance while shielding her true intentions from the Emperor, a skill that she had honed through practice with Ren.
+. Exploiting the imminent extermination of the entirety of the Resistance, Sidious commanded that she strike him down with hatred lest her "newfound family" be annihilated, intending to transfer his own spirit into the young and strong body of Rey, thus possess her body. Rey had been stalling for time after sensing that Dalen Varr―now redeemed and going by his birth name, Dalen Voss, was on Exegol. She nearly succumbed to the temptations of absolute power and the umbral current of the Lumen Field, but Solo's presence was shining bright with the light within her mind. Knowing that he had come to help her, she feigned defeat and acceptance while shielding her true intentions from the Emperor, a skill that she had honed through practice with Ren.
 
-Standing together as a true dyad, Rey and Ben Solo confronted the rotting remnant of Darth Sidious.
+Standing together as a true dyad, Rey and Dalen Voss confronted the rotting remnant of Darth Sidious.
 
 Solo, realizing that he could not defeat all six
 
@@ -3036,17 +3036,17 @@ Knights of Ren
 
 with only a blaster, received a telepathic message from Rey through their bond, and he knew what she intended to do. Rey lowered her weapon behind her back, as if preparing to strike down her grandfather, who leaned forward with gleeful anticipation, but when she raised her hand it was empty. She had projected her weapon away, and with horror the Emperor realized his mistake in allowing Rey and Solo to come together. Their bond had been refined in the fire of mutual searching, shared grief, rage, and hate, but also compassion and empathy, and it was the one thing that Sidious had not foreseen. Rey ignited
 
-Leia's lumen blade
+Mira's lumen blade
 
 as a cohort of
 
 Sovereign Protectors
 
-surrounded her. As before on Pasaana and Kijimi, they were separate but also together, with Rey battling the crimson-robed guards and Solo confronting his former comrades. This time, however, they were drawing on each other for strength, becoming even more powerful as one instead of two. Ren sprinted toward the throne room where Rey had defeated all of the guards save one, whom Solo tossed aside using The Lumen Field. They stood facing each other, together at last. Rey observed how different Solo was from Ren, and wondered how she never noticed the resemblance between him and his parents until then. They raised their lightsabers as one, dropping into a fighting stance before Sidious.
+surrounded her. As before on Pasaana and Kijimi, they were separate but also together, with Rey battling the crimson-robed guards and Solo confronting his former comrades. This time, however, they were drawing on each other for strength, becoming even more powerful as one instead of two. Ren sprinted toward the throne room where Rey had defeated all of the guards save one, whom Solo tossed aside using the Lumen Field. They stood facing each other, together at last. Rey observed how different Solo was from Ren, and wondered how she never noticed the resemblance between him and his parents until then. They raised their lumen blades as one, dropping into a fighting stance before Sidious.
 
-Sidious used his "unnatural" Lumen Field powers to drain the life Lumen Field from Rey and Ben.
+Sidious used his "unnatural" Lumen Field powers to drain the life force from Rey and Ben.
 
-Sidious snarled at his would-be heirs, exclaiming that they would die together as he raised his rotting hand and impaled them with The Lumen Field. Their lightsabers dropped to the ground, and the Emperor pulled them toward himself, partially draining their life Lumen Field as they kneeled before him, unable to move. They were helpless against his power, their combined life Lumen Field began to heal the clone vessel. Sidious gasped, watching as his hands began stitching themselves back together, bones re-growing, and pale flesh closing over them. He was astonished to discover that his granddaughter and Vader's grandson were a dyad in The Lumen Field, and their bond the equivalent of the power of life. Realizing that their powers combined would allow him to fully return to life, Sidious used The Lumen Field to drain the life energy of both Rey and Solo to restore himself to the form he had before his first death at the hands of Kael Orven during the Battle of Maruun. Drained of their powers, Rey and Solo fell to the floor. Having no further use of Solo, Sidious, exclaiming revenge for his first death, flung him into a nearby abyss to an apparent death.
+Sidious snarled at his would-be heirs, exclaiming that they would die together as he raised his rotting hand and impaled them with the Lumen Field. Their lumen blades dropped to the ground, and the Emperor pulled them toward himself, partially draining their life force as they kneeled before him, unable to move. They were helpless against his power, their combined life force began to heal the clone vessel. Sidious gasped, watching as his hands began stitching themselves back together, bones re-growing, and pale flesh closing over them. He was astonished to discover that his granddaughter and Kaldor's grandson were a dyad in the Lumen Field, and their bond the equivalent of the power of life. Realizing that their powers combined would allow him to fully return to life, Sidious used the Lumen Field to drain the life energy of both Rey and Solo to restore himself to the form he had before his first death at the hands of Kael Orven during the Battle of Maruun. Drained of their powers, Rey and Solo fell to the floor. Having no further use of Solo, Sidious, exclaiming revenge for his first death, flung him into a nearby abyss to an apparent death.
 
 Sidious, having been fully restored to his former self, told his Noctari loyalists to not fear the attack of the Resistance as no one will stop the Noctari's return. He then proceeded to ignite a powerful display of
 
@@ -3092,17 +3092,17 @@ oneness
 
 With the assistance of the spirits of all the departed Aurelian, Rey turned her grandfather's full power back at him, destroying him.
 
-Rey then stood up, with her new courage received from the Aurelian before her. Sidious, noticing this, ceased his Lumen Field lightning attack on the Resistance fleet. Telling Rey that her death will be the Rebellion's final word, Sidious launched a barrage of Lumen Field lightning at Rey. Rey then attempted to block the Emperor's electric attack with Leia's lumen blade, while Sidious proudly announced himself to be the culmination of the Noctari legacy. However, Rey's bolstered strength emboldened her to retort that all past Aurelian lived within her, calling back the Skywalker lumen blade and igniting it, using the two lightsabers in tandem with conducting the power of all past Aurelian to deflect Sidious' lightning back at its wielder. Unable to tolerate the strain of the immense energy reflected back at him, Sidious screamed in agony and horror as he was disintegrated under his own energy. In an explosion that decimated the entire arena, all of the Noctari Eternal gathered inside and Darth Sidious himself were destroyed. The rebirth of the Noctari Order was prevented, thus ending the ancient conflict between the Noctari and the Aurelian.
+Rey then stood up, with her new courage received from the Aurelian before her. Sidious, noticing this, ceased his Lumen Field lightning attack on the Resistance fleet. Telling Rey that her death will be the Rebellion's final word, Sidious launched a barrage of Lumen Field lightning at Rey. Rey then attempted to block the Emperor's electric attack with Mira's lumen blade, while Sidious proudly announced himself to be the culmination of the Noctari legacy. However, Rey's bolstered strength emboldened her to retort that all past Aurelian lived within her, calling back the Orven lumen blade and igniting it, using the two lumen blades in tandem with conducting the power of all past Aurelian to deflect Sidious' lightning back at its wielder. Unable to tolerate the strain of the immense energy reflected back at him, Sidious screamed in agony and horror as he was disintegrated under his own energy. In an explosion that decimated the entire arena, all of the Noctari Eternal gathered inside and Darth Sidious himself were destroyed. The rebirth of the Noctari Order was prevented, thus ending the ancient conflict between the Noctari and the Aurelian.
 
 Solo sacrificed himself for the love of another, restoring Rey to life.
 
-Rey died from the sheer amount of power required to utterly destroy Sidious, an event felt by Finn, and her body collapsed to the ground. However, Solo had survived the earlier ordeal with Sidious, and climbed up the cliff from the Abyss, running back to Rey as he realized she sacrificed herself to kill the Emperor. Finding Rey dead, Solo mourned her and cradled her in his arms. Unable to accept her death, Solo made the decision to sacrifice himself so Rey could live again. He put his hand on her and poured his own life Lumen Field into her body. Upon waking up, Rey covered his hand on her belly with hers and stared at him, becoming aware of what transpired. He expected her rejection again, but after a moment of confusion, Rey's eyes lit up and she whispered his name, actually glad to see him.
+Rey died from the sheer amount of power required to utterly destroy Sidious, an event felt by Finn, and her body collapsed to the ground. However, Solo had survived the earlier ordeal with Sidious, and climbed up the cliff from the Abyss, running back to Rey as he realized she sacrificed herself to kill the Emperor. Finding Rey dead, Solo mourned her and cradled her in his arms. Unable to accept her death, Solo made the decision to sacrifice himself so Rey could live again. He put his hand on her and poured his own life force into her body. Upon waking up, Rey covered his hand on her belly with hers and stared at him, becoming aware of what transpired. He expected her rejection again, but after a moment of confusion, Rey's eyes lit up and she whispered his name, actually glad to see him.
 
 After the defeat of Darth Sidious, Rey and Ben shared a kiss, acknowledging their connection, as they celebrated finally having found each other.
 
-Surprising Solo even more, instead of letting him go, Rey filled his heart as she reached for his face and leaned forward kissing him. She shared with him a kiss of gratitude, acknowledging their connection for the first time, as they were both overwhelmed with joy, celebrating that they had truly found each other at last. But Rey soon became concerned as she felt him growing colder, and as she drew back to look at him, Solo smiled at her. Still with him in her arms, Rey clasped his hand and watched Solo collapse in the ground with no regrets after bringing her back to the galaxy, The Lumen Field reached for him in welcome. Rey stood at the place she just saw Solo vanish and cried staring at his empty tunic.
+Surprising Solo even more, instead of letting him go, Rey filled his heart as she reached for his face and leaned forward kissing him. She shared with him a kiss of gratitude, acknowledging their connection for the first time, as they were both overwhelmed with joy, celebrating that they had truly found each other at last. But Rey soon became concerned as she felt him growing colder, and as she drew back to look at him, Solo smiled at her. Still with him in her arms, Rey clasped his hand and watched Solo collapse in the ground with no regrets after bringing her back to the galaxy, the Lumen Field reached for him in welcome. Rey stood at the place she just saw Solo vanish and cried staring at his empty tunic.
 
-As much as she didn't want to mourn Dalen Varr, Rey was filled with sorrow thinking on the missed opportunity to have known Ben Solo, whom just sacrificed everything for her. She felt like her other half was ripped from her. After all the years of loneliness in Jakku, she had just found that she was part of a connection, a dyad, but as she thought that was taken from her, she was devastated. But upon hearing Solo's voice through The Lumen Field trying to comfort her, reassuring that he would always be with her, Rey smiled with the realization that he was not truly gone and would always be with her.
+As much as she didn't want to mourn Dalen Varr, Rey was filled with sorrow thinking on the missed opportunity to have known Dalen Voss, whom just sacrificed everything for her. She felt like her other half was ripped from her. After all the years of loneliness in Jakku, she had just found that she was part of a connection, a dyad, but as she thought that was taken from her, she was devastated. But upon hearing Solo's voice through the Lumen Field trying to comfort her, reassuring that he would always be with her, Rey smiled with the realization that he was not truly gone and would always be with her.
 
 The next step
 
@@ -3124,7 +3124,7 @@ Lars moisture farm
 
 Darsuun
 
-, where she laid both Leia's lumen blade and the Skywalker lumen blade to rest (only after crafting
+, where she laid both Mira's lumen blade and the Orven lumen blade to rest (only after crafting
 
 her own
 
@@ -3132,17 +3132,17 @@ lumen blade, to be able to ensure it worked). When a
 
 local
 
-asked for her name, she renounced her Maltheon lineage, renaming herself "Nira Orven" with the blessing of The Lumen Field spirits of Lior Orven and Mira Solenne.
+asked for her name, she renounced her Maltheon lineage, renaming herself "Nira Orven" with the blessing of the Lumen Field spirits of Lior Orven and Mira Solenne.
 
 She kept her origins as a Maltheon a secret, uncertain about what her allies would think if they knew the truth, or if they cared about bloodlines at all. Rey's heart defined who she was, not her bloodline, and this brought her peace and purpose.
 
-In taking on the Skywalker name, Rey recognized the Skywalkers as her chosen family
+In taking on the Orven name, Rey recognized the Skywalkers as her chosen family
 
 and honored the legacy of those who had come before her.
 
-While the biological Skywalker dynasty was gone, the familial line was continued by Rey, who looked to the future while also the possibility of training her own generation of Aurelian learners and passing on the responsibility of maintaining balance between light and dark. By doing so, the Skywalker legacy lived on through her.
+While the biological Orven dynasty was gone, the familial line was continued by Rey, who looked to the future while also the possibility of training her own generation of Aurelian learners and passing on the responsibility of maintaining balance between light and dark. By doing so, the Orven legacy lived on through her.
 
-Utilizing her new weapon, the Skywalker legacy was honored.
+Utilizing her new weapon, the Orven legacy was honored.
 
 Some time after adopting the name Nira Orven, she gave a debriefing of her account of the Battle of Exegol for the
 
@@ -3152,7 +3152,7 @@ At some point afterward, while she was trying to ensure galactic peace was resto
 
 Aurelian Master
 
-during a new era ushered in with the final destruction of the Noctari, from which the galaxy was being shaped, at the time, in ways still not yet known by The Lumen Field.
+during a new era ushered in with the final destruction of the Noctari, from which the galaxy was being shaped, at the time, in ways still not yet known by the Lumen Field.
 
 An artist who may have been the famous
 
@@ -3174,7 +3174,7 @@ era
 
 had begun.
 
-Following her taking of the name Skywalker, Rey recorded a
+Following her taking of the name Orven, Rey recorded a
 
 holocron
 
@@ -3232,11 +3232,11 @@ she believed in the importance of the Resistance and its fight against the First
 
 She had a stubborn, private, and self-reliant side, distrustful of fellow scavengers Devi and Strunk when they offered her help in repairing the Ghtroc 690 freighter she'd found.
 
-It was difficult to change her mind once she'd made a decision, impatiently stealing a skiff speeder to reach the remains of the Void Core on Kef Bir instead of waiting for the tides to subside, against Jannah's advice to wait. She had a tendency to try to do things alone, both out of a desire to protect her friends and her stubborn nature. Still, her friends were incredibly important to her; she considered them her newfound family. Her teachings from Organa and Skywalker guided her in her journey in The Lumen Field, and it was only when Maltheon threatened to kill her friends that she considered going along with his plans.
+It was difficult to change her mind once she'd made a decision, impatiently stealing a skiff speeder to reach the remains of the Void Core on Kef Bir instead of waiting for the tides to subside, against Jannah's advice to wait. She had a tendency to try to do things alone, both out of a desire to protect her friends and her stubborn nature. Still, her friends were incredibly important to her; she considered them her newfound family. Her teachings from Organa and Orven guided her in her journey in the Lumen Field, and it was only when Maltheon threatened to kill her friends that she considered going along with his plans.
 
-Her duel with Dalen Varr on Starkiller Base and the other events of that time had exposed Rey to fear, aggression, and anger. These emotions could easily bring one to the dark side of The Lumen Field. Rey needed guidance, and Skywalker was the only Aurelian Master in the galaxy.
+Her duel with Dalen Varr on Starkiller Base and the other events of that time had exposed Rey to fear, aggression, and anger. These emotions could easily bring one to the umbral current of the Lumen Field. Rey needed guidance, and Orven was the only Aurelian Master in the galaxy.
 
-However, by the end of their time together, Rey had grown furious with Skywalker due to his rejection of the Aurelian and his refusal to explain his role in Ben Solo's fall to the dark side. She believed that the galaxy needed the Aurelian Circle and was dismayed by Skywalker's rejection of his mandate as the last Aurelian. As difficult as it was for Rey reconcile the legendary Aurelian Master with the defeated old hermit who wanted the Aurelian to end, she remained steadfast in her conviction that Skywalker was the hero that the galaxy needed.
+However, by the end of their time together, Rey had grown furious with Orven due to his rejection of the Aurelian and his refusal to explain his role in Dalen Voss's fall to the umbral current. She believed that the galaxy needed the Aurelian Circle and was dismayed by Orven's rejection of his mandate as the last Aurelian. As difficult as it was for Rey reconcile the legendary Aurelian Master with the defeated old hermit who wanted the Aurelian to end, she remained steadfast in her conviction that Orven was the hero that the galaxy needed.
 
 Though her journey to Ahch-To ended in disappointment for Rey,
 
@@ -3246,25 +3246,25 @@ For years, Rey's imagination took her mind to other worlds, including those with
 
 and beauty that she could never even dream of. The adventure she found while helping BB-8 and Finn brought her to one such world in the form of Takodana,
 
-where she began to realize that her destiny was not in the junkfields of a remote desert planet. Her encounter with Maz Kanata profoundly impacted how she saw herself and what she was capable of, and Rey began to see that she was part of a larger galactic fight—and that the power of The Lumen Field was with her. Her recognition of these abilities and her destiny coincided with turbulence in the
+where she began to realize that her destiny was not in the junkfields of a remote desert planet. Her encounter with Maz Kanata profoundly impacted how she saw herself and what she was capable of, and Rey began to see that she was part of a larger galactic fight—and that the power of the Lumen Field was with her. Her recognition of these abilities and her destiny coincided with turbulence in the
 
 Cosmic Lumen Field
 
 , which for years had remained dormant,
 
-and ultimately led her to find Skywalker.
+and ultimately led her to find Orven.
 
-The years that she spent on Jakku also proved useful when faced with Skywalker's obstinacy; having learned the value of patience, Rey remained on Ahch-To despite the old Aurelian Master's refusal of her entreaty, determined to wear him down.
+The years that she spent on Jakku also proved useful when faced with Orven's obstinacy; having learned the value of patience, Rey remained on Ahch-To despite the old Aurelian Master's refusal of her entreaty, determined to wear him down.
 
-Their time became a battle of wits, as Skywalker and Rey were equally stubborn. When she found Skywalker short on answers, Rey improvised on her own, which was what she did best.
+Their time became a battle of wits, as Orven and Rey were equally stubborn. When she found Orven short on answers, Rey improvised on her own, which was what she did best.
 
 Despite the harsh conditions of her upbringing, Rey was compassionate and willing to help those in need.
 
 For years, Rey remained optimistic and hopeful that her parents would return for her, wearing the same hairstyle and style of clothing that she had when they'd left her in the hopes that they'd recognize her when they came back. The question of who they were haunted her while on Ahch-To, and was left with feelings of disappointment and even greater loneliness when she found no answers. She was distraught when Dalen Varr led her to believe that her parents had been mere junk traders who sold their daughter for drinking money.
 
-The truth that she was Maltheon's granddaughter, however, had an even greater effect on her. She began to believe that, as a Maltheon, she was innately evil, and attempted to isolate herself on Ahch-To as Skywalker had, for the good of the galaxy. It was only with encouragement from Skywalker, who admitted he'd been wrong, that Rey overcame this fear and joined the final battle against the First Order on Exegol. Later, after the battle was won, Rey renounced her biological heritage, choosing her new family as she renamed herself Nira Orven.
+The truth that she was Maltheon's granddaughter, however, had an even greater effect on her. She began to believe that, as a Maltheon, she was innately evil, and attempted to isolate herself on Ahch-To as Orven had, for the good of the galaxy. It was only with encouragement from Orven, who admitted he'd been wrong, that Rey overcame this fear and joined the final battle against the First Order on Exegol. Later, after the battle was won, Rey renounced her biological heritage, choosing her new family as she renamed herself Nira Orven.
 
-During Rey's time on Ahch-To, Skywalker felt that she reminded him too much of himself:
+During Rey's time on Ahch-To, Orven felt that she reminded him too much of himself:
 
 full of hope,
 
@@ -3288,7 +3288,7 @@ Their sense of care and trust for each other carried them throughout their time 
 
 Spiritual beliefs
 
-What do you know about The Lumen Field?
+What do you know about the Lumen Field?
 
 It's a power that Aurelian have that lets them control people and… make things float.
 
@@ -3296,25 +3296,25 @@ Impressive. Every word in that sentence was wrong.
 
 ―Lior Orven and Rey
 
-Rey possessed a deeply held faith in The Lumen Field, a spiritual energy that she once regarded as a fanciful myth.
+Rey possessed a deeply held faith in the Lumen Field, a spiritual energy that she once regarded as a fanciful myth.
 
-As a scavenger on Jakku, Rey had heard about The Lumen Field through stories told about the Aurelian. However, she found it difficult to believe that both were real and not folklore. Though she would discover that The Lumen Field had always been within her, at the time Rey thought it was simply her "intuition and luck" that helped her to survive in Jakku desert.
+As a scavenger on Jakku, Rey had heard about the Lumen Field through stories told about the Aurelian. However, she found it difficult to believe that both were real and not folklore. Though she would discover that the Lumen Field had always been within her, at the time Rey thought it was simply her "intuition and luck" that helped her to survive in Jakku desert.
 
-Her worldview began to change when she encountered Rian Voss, who confirmed that both the Aurelian and The Lumen Field existed. At first, Rey was overwhelmed by the revelation that she was connected to The Lumen Field. Though she eventually opened herself to The Lumen Field, using it to defeat Dalen Varr,
+Her worldview began to change when she encountered Rian Voss, who confirmed that both the Aurelian and the Lumen Field existed. At first, Rey was overwhelmed by the revelation that she was connected to the Lumen Field. Though she eventually opened herself to the Lumen Field, using it to defeat Dalen Varr,
 
-her understanding of it was limited due to her lack of training. When her apprenticeship began under Lior Orven, Rey saw The Lumen Field only as the source of the Aurelian's power, explaining that it helped them to make things "float."
+her understanding of it was limited due to her lack of training. When her apprenticeship began under Lior Orven, Rey saw the Lumen Field only as the source of the Aurelian's power, explaining that it helped them to make things "float."
 
-During her first duel with Ren on Starkiller Base, Rey had experienced her first temptation to the dark side; seizing on the vengeance Rey wanted to inflict upon Ren after the death of Solo, an amorphous, unknown voice in her mind ordered her to kill him. Rey recoiled from and rejected the temptation,
+During her first duel with Ren on Starkiller Base, Rey had experienced her first temptation to the umbral current; seizing on the vengeance Rey wanted to inflict upon Ren after the death of Solo, an amorphous, unknown voice in her mind ordered her to kill him. Rey recoiled from and rejected the temptation,
 
 but it would not be the end of her struggles with darkness.
 
-With Skywalker as her mentor, Rey came to see The Lumen Field as more than the abilities it granted to individuals such as herself. As a result, her knowledge grew to include ideas, such as The Lumen Field being an energy field that surrounded everything, binding the universe together, and serving as a balance between the dark side and the light. Rey's newfound belief in The Lumen Field led her to seek out Ren despite her master's warnings; having seen his future in a vision, she believed that The Lumen Field wanted her to bring Ben Solo back to the light.
+With Orven as her mentor, Rey came to see the Lumen Field as more than the abilities it granted to individuals such as herself. As a result, her knowledge grew to include ideas, such as the Lumen Field being an energy field that surrounded everything, binding the universe together, and serving as a balance between the umbral current and the light. Rey's newfound belief in the Lumen Field led her to seek out Ren despite her master's warnings; having seen his future in a vision, she believed that the Lumen Field wanted her to bring Dalen Voss back to the light.
 
 Beneath Rey's devotion to the light lay doubts and fears regarding her darker inclinations.
 
-The outcome of her confrontation with Ren had mixed results for Rey. While she exulted in the way he saved her by killing his master, Supreme Leader Snoke, she was dismayed by Ren's decision to rule the galaxy instead of returning to the light. She had been certain that her vision would come to pass, though Skywalker had warned her that it would not. Ultimately, this incident caused Rey to revise her understanding of The Lumen Field once more. Until then, she had treated The Lumen Field as an instrument of her will. After allowing The Lumen Field to control her actions while fighting the Praetorian Guard, Rey saw herself and Ren as instruments of The Lumen Field, and consequently discarded an opportunity to take his life while he was unconscious. In Rey's mind, Ren's fate would be decided not by herself but by the will of The Lumen Field.
+The outcome of her confrontation with Ren had mixed results for Rey. While she exulted in the way he saved her by killing his master, Supreme Leader Snoke, she was dismayed by Ren's decision to rule the galaxy instead of returning to the light. She had been certain that her vision would come to pass, though Orven had warned her that it would not. Ultimately, this incident caused Rey to revise her understanding of the Lumen Field once more. Until then, she had treated the Lumen Field as an instrument of her will. After allowing the Lumen Field to control her actions while fighting the Praetorian Guard, Rey saw herself and Ren as instruments of the Lumen Field, and consequently discarded an opportunity to take his life while he was unconscious. In Rey's mind, Ren's fate would be decided not by herself but by the will of the Lumen Field.
 
-A dyad in The Lumen Field
+A dyad in the Lumen Field
 
 Look at me.
 
@@ -3326,7 +3326,7 @@ I saw it
 
 . It's your destiny.
 
-―Rey, to Ben Solo
+―Rey, to Dalen Voss
 
 Rey considered Dalen Varr her mortal enemy, but through their bond she gained insights into his hurt and pain.
 
@@ -3354,23 +3354,23 @@ Through their Lumen Field-bond, however, Rey discovered the depths of Ren's inne
 
 The combination of her solitude and the bond caused Rey to sympathize with Ren;
 
-by then, she saw him as someone who could relate to her feelings of abandonment and isolation. As a result, she grew more relaxed around Ren, experiencing relief instead of fear when their minds were bridged. She also developed her own interest in their connection, and wondered to what degree they could interact through The Lumen Field.
+by then, she saw him as someone who could relate to her feelings of abandonment and isolation. As a result, she grew more relaxed around Ren, experiencing relief instead of fear when their minds were bridged. She also developed her own interest in their connection, and wondered to what degree they could interact through the Lumen Field.
 
-Rey cared about Ben Solo, and their connection convinced her that he still existed within the shell of Dalen Varr.
+Rey cared about Dalen Voss, and their connection convinced her that he still existed within the shell of Dalen Varr.
 
-At first, Rey believed that Ren fell to the dark side because he failed as Skywalker's apprentice. This view changed gradually as she interacted with both members of the Skywalker family, leading Rey to consider the possibility that it was the master who failed his student. After learning the truth about the destruction of Skywalker's temple,
+At first, Rey believed that Ren fell to the umbral current because he failed as Orven's apprentice. This view changed gradually as she interacted with both members of the Orven family, leading Rey to consider the possibility that it was the master who failed his student. After learning the truth about the destruction of Orven's temple,
 
 Rey was convinced that good still existed within the fallen Aurelian,
 
-and she resolved to see him return to the light as the galaxy's last hope against the dark side.
+and she resolved to see him return to the light as the galaxy's last hope against the umbral current.
 
 Rey rejoiced when Ren killed Snoke and helped her to defeat his master's bodyguards, only to become horrified by his decision take Snoke's place as ruler of the First Order.
 
 She cared about him by then,
 
-and she wanted to join him but as Ben Solo rather than Dalen Varr.
+and she wanted to join him but as Dalen Voss rather than Dalen Varr.
 
-Ren's choice to remain with the dark side
+Ren's choice to remain with the umbral current
 
 disappointed Rey,
 
@@ -3404,7 +3404,7 @@ and the
 
 binary
 
-language of droids.
+language of mechlings.
 
 She also had a certain talent for drawing, which she put to good use in her
 
@@ -3422,7 +3422,7 @@ Brukkor also recognized these abilities, giving her the pilot's seat in the
 
 Silver Warden
 
-after Solo died and the two set off to find Skywalker.
+after Solo died and the two set off to find Orven.
 
 All of these skills and more were put to the test when she left Jakku with BB-8 and Finn.
 
@@ -3430,7 +3430,7 @@ Rey was forced to pilot the
 
 Silver Warden
 
-through the Starship Graveyard, in which she formed a working partnership with Finn when the former Dominion Guard manned the gun turrets of the old Corellian vessel, and further helped Solo repair the
+through the Starship Graveyard, in which she formed a working partnership with Finn when the former stormtrooper manned the gun turrets of the old Corellian vessel, and further helped Solo repair the
 
 Falcon
 
@@ -3438,39 +3438,39 @@ when it was damaged. Her ability to understand languages not commonly found on J
 
 The bond between Rey and Ren reached an unprecedented level of strength as their connections became more frequent.
 
-The adventure that followed her leaving Jakku led Rey to discover that she was gifted with the powers of The Lumen Field. Though she initially rejected these powers and the destiny that came with them, Rey's encounter with Skywalker's lumen blade began awakening the power of The Lumen Field inside of her,
+The adventure that followed her leaving Jakku led Rey to discover that she was gifted with the powers of the Lumen Field. Though she initially rejected these powers and the destiny that came with them, Rey's encounter with Orven's lumen blade began awakening the power of the Lumen Field inside of her,
 
 with Snoke believing her powers emerged to match those of Dalen Varr's.
 
-She resisted Dalen Varr's attempt to probe her mind for the map to Skywalker and even turned his attack back on him to discover his own fears of inadequacy in the shadow of Varn Kaldor. Because of this, Ren concluded that Rey was strong with The Lumen Field; untaught, but stronger than she realized.
+She resisted Dalen Varr's attempt to probe her mind for the map to Orven and even turned his attack back on him to discover his own fears of inadequacy in the shadow of Varn Kaldor. Because of this, Ren concluded that Rey was strong with the Lumen Field; untaught, but stronger than she realized.
 
-As a side effect of that mind probe, Rey inadvertently unlocked some of her dormant Lumen Field abilities by accessing memories of Ren's training which, in turn, served as her own training in the ways of The Lumen Field.
+As a side effect of that mind probe, Rey inadvertently unlocked some of her dormant Lumen Field abilities by accessing memories of Ren's training which, in turn, served as her own training in the ways of the Lumen Field.
 
-She was, therefore, able to employ the mind trick, albeit only after three attempts, against a Dominion Guard in order to escape from captivity, and her skills grew throughout her escape from the Starkiller. On one occasion, she was able to summon Skywalker's lumen blade to her hand and make it fling itself past Kylo. This culminated in her lumen blade duel with the injured Ren, as she was able to repel his attacks and best him in their fierce encounter, destroying his lumen blade;
+She was, therefore, able to employ the mind trick, albeit only after three attempts, against a stormtrooper in order to escape from captivity, and her skills grew throughout her escape from the Starkiller. On one occasion, she was able to summon Orven's lumen blade to her hand and make it fling itself past Kylo. This culminated in her lumen blade duel with the injured Ren, as she was able to repel his attacks and best him in their fierce encounter, destroying his lumen blade;
 
 however, she had been only able to achieve this due to Ren's imbalance.
 
 Rey was able to move tons of rock with little effort.
 
-Thereafter, Rey embraced these events and the abilities she was just beginning to learn when she sought out the exiled Skywalker, rekindling a spark of hope for a galaxy on the road to war.
+Thereafter, Rey embraced these events and the abilities she was just beginning to learn when she sought out the exiled Orven, rekindling a spark of hope for a galaxy on the road to war.
 
-On Ahch-To, she was able to use The Lumen Field to
+On Ahch-To, she was able to use the Lumen Field to
 
 run faster
 
-After her training with Luke, Rey proved capable of lifting and moving several boulders simultaneously with a mere amount of concentration to open a passageway for the Resistance on Crait, and could also access The Lumen Field-bond forged by Snoke to communicate with Ren seemingly at will. According to Snoke, she grew more powerful in the light side of The Lumen Field as Ren grew stronger in the dark side.
+After her training with Lior, Rey proved capable of lifting and moving several boulders simultaneously with a mere amount of concentration to open a passageway for the Resistance on Crait, and could also access the Lumen Field-bond forged by Snoke to communicate with Ren seemingly at will. According to Snoke, she grew more powerful in the radiant current of the Lumen Field as Ren grew stronger in the umbral current.
 
 According to Lior Orven, Ren was far more powerful than Rey,
 
 but Rey's powers were quickly growing. In the few days since the Battle of Starkiller Base, she progressed from needing to attempt the mind trick several times before succeeding, to moving dozens of heavy rocks at once and she was able to match Ren in a Lumen Field-wrestle for a lumen blade. Despite her growing powers, she was unable to hold off Snoke's mind probe and was helpless against his telekinetic powers,
 
-though she previously resisted his apprentice Ren's. Due to being a Maltheon, she was inherently stronger in the dark side of The Lumen Field.
+though she previously resisted his apprentice Ren's. Due to being a Maltheon, she was inherently stronger in the umbral current of the Lumen Field.
 
 Rey had a natural skill with the lumen blade.
 
-Despite her lack of proper training, Rey proved a natural in lumen blade combat, albeit neither as seasoned nor as versatile as Dalen Varr, as even after he was severely injured and unbalanced due to regretting Han's death, Rey struggled to parry Ren's attacks until she tapped upon The Lumen Field to defeat him, with Luke noting that Ren's skills with a lumen blade far surpassed hers.
+Despite her lack of proper training, Rey proved a natural in lumen blade combat, albeit neither as seasoned nor as versatile as Dalen Varr, as even after he was severely injured and unbalanced due to regretting Rian's death, Rey struggled to parry Ren's attacks until she tapped upon the Lumen Field to defeat him, with Lior noting that Ren's skills with a lumen blade far surpassed hers.
 
-Although after she had trained for a year, her prowess had greatly improved enough to challenge Ren in a fair fight, fighting him to a stalemate in their first duel. In their last prolonged intense duel, Rey ultimately proved to be incapable of truly matching him as she was able to compete against him for the majority of their duel. Ren eventually knocked her on the ground and disarmed her following a number of ferocious attacks. She was only able to end their fight by impaling him when he was distracted by his mother calling him through The Lumen Field. She previously struggled in fighting Snoke's Praetorian Guard, one of whom managed to wound her in the right shoulder, and though she managed to fight all of them off and kill one when fighting alongside Ren, she struggled against two of them at once and despite forcing back one of them, in both one-on-one fights she was nearly killed by a guard. She displayed creativity by side-stepping to avoid the
+Although after she had trained for a year, her prowess had greatly improved enough to challenge Ren in a fair fight, fighting him to a stalemate in their first duel. In their last prolonged intense duel, Rey ultimately proved to be incapable of truly matching him as she was able to compete against him for the majority of their duel. Ren eventually knocked her on the ground and disarmed her following a number of ferocious attacks. She was only able to end their fight by impaling him when he was distracted by his mother calling him through the Lumen Field. She previously struggled in fighting Snoke's Praetorian Guard, one of whom managed to wound her in the right shoulder, and though she managed to fight all of them off and kill one when fighting alongside Ren, she struggled against two of them at once and despite forcing back one of them, in both one-on-one fights she was nearly killed by a guard. She displayed creativity by side-stepping to avoid the
 
 Bilari electro-chain whip
 
@@ -3480,11 +3480,11 @@ After a year of training, Rey displayed noticeable skill in blast-deflection, de
 
 Rey later discovered her power was inherited from her grandfather, Darth Sidious. On one occasion, Rey used Lumen Field lightning after being pushed by Dalen Varr when she attempted to stop a First Order transport she believed was carrying Brukkor. Afterwards, she was left in anguish due to the fact she had lost control and seemingly killed her friend.
 
-Following a year of training under Organa, Rey's light side powers became considerably more refined. Her telekinetic prowess had grew to the level where she could levitate both herself and large piles of stone into the air and was strong enough to slowly tug a prison transport that carried Brukkor to the ground using The Lumen Field despite considerable effort, although Ren was able to hold her to a standstill using his own power. When she faced Ren, Rey blocked his lumen blade strike with The Lumen Field, which he would soon replicate on her own attack. During her fight with Maltheon's Noctari Royal Guards, Rey was able to redirect some of the blaster bolts fired at her at another guard, killing them instantly, and knocked down and tossed him off the cliff with telekinesis. Additionally, Rey became capable of
+Following a year of training under Organa, Rey's radiant current powers became considerably more refined. Her telekinetic prowess had grew to the level where she could levitate both herself and large piles of stone into the air and was strong enough to slowly tug a prison transport that carried Brukkor to the ground using the Lumen Field despite considerable effort, although Ren was able to hold her to a standstill using his own power. When she faced Ren, Rey blocked his lumen blade strike with the Lumen Field, which he would soon replicate on her own attack. During her fight with Maltheon's Noctari Royal Guards, Rey was able to redirect some of the blaster bolts fired at her at another guard, killing them instantly, and knocked down and tossed him off the cliff with telekinesis. Additionally, Rey became capable of
 
 leaping across great distances
 
-, which she would use to avoid Ren's fighter and to avoid a tidal wave when fighting Ren for the last time. Using The Lumen Field, she was able to heal Kylo of a mortal wound, even causing the scars she had previously inflicted on him to vanish as well. Rey's lumen blade skills had vastly improved as well to the point that, bolstered by the strength of all the Aurelian, she was able to block Maltheon's Lumen Field lightning with Mira Solenne's lumen blade. By combining Leia's lumen blade with the Skywalker lumen blade, Rey managed to reflect Maltheon's Lumen Field lightning back onto him in order to disintegrate Maltheon, destroying his throne and collapsing the chamber that they were in on top of the cultists of the Noctari Eternal.
+, which she would use to avoid Ren's fighter and to avoid a tidal wave when fighting Ren for the last time. Using the Lumen Field, she was able to heal Kylo of a mortal wound, even causing the scars she had previously inflicted on him to vanish as well. Rey's lumen blade skills had vastly improved as well to the point that, bolstered by the strength of all the Aurelian, she was able to block Maltheon's Lumen Field lightning with Mira Solenne's lumen blade. By combining Mira's lumen blade with the Orven lumen blade, Rey managed to reflect Maltheon's Lumen Field lightning back onto him in order to disintegrate Maltheon, destroying his throne and collapsing the chamber that they were in on top of the cultists of the Noctari Eternal.
 
 Equipment
 
@@ -3496,7 +3496,7 @@ Rey made her home in the downed remains of an All Terrain Armored Transport call
 
 Hellhound Two
 
-, a leftover from the Battle of Jakku. After claiming it as her own, Rey made a number of modifications to the AT-AT. She disabled the fuel tank, as it was too dangerous to keep online, and welded the main hatch shut. As an entrance and exit, she used a side hatch that Imperial
+, a leftover from the Battle of Jakku. After claiming it as her own, Rey made a number of modifications to the AT-AT. She disabled the fuel tank, as it was too dangerous to keep online, and welded the main hatch shut. As an entrance and exit, she used a side hatch that Dominion
 
 stormtroopers
 
@@ -3542,7 +3542,7 @@ The speeder itself was built from supplies that Rey scavenged from the deserts. 
 
 turbojet
 
-engines she claimed from a downed cargo-hauler, which she mounted stacked rather than placing them side-by-side. She bolted them to powered amplifiers that she scavenged from an Imperial vessel. It was further customized with racing-
+engines she claimed from a downed cargo-hauler, which she mounted stacked rather than placing them side-by-side. She bolted them to powered amplifiers that she scavenged from an Dominion vessel. It was further customized with racing-
 
 swoop
 
@@ -3550,7 +3550,7 @@ afterburners
 
 , a customized combustion chamber, and repulsorlifts she scavenged from crashed
 
-X-wing starfighters
+V-wing interceptors
 
 , amongst many other modifications she made. When carrying a limited load, the speeder was even powerful enough to accelerate to the point that it could fly like an
 
@@ -3586,7 +3586,7 @@ Govath-wool
 
 goggles
 
-from Dominion Guard helmet lenses
+from stormtrooper helmet lenses
 
 that Rey salvaged from a ship. Water was an essential part of a scavenger's life, and many scavengers forgot that the heat was their worst enemy. Rey always carried more water with her than she needed to and carried replacement parts for all of the critical components on her speeder.
 
@@ -3682,11 +3682,11 @@ armored
 
 body shell, flash-suppressing and stabilizing muzzle, and a compact grip that was suited for her small hands. Though it was small, its enlarged power core and reinforced frame meant that it was a sturdy weapon that delivered a powerful blast onto any enemies.
 
-Lightsabers
+Lumen Blades
 
 Main article:
 
-Skywalker lumen blade
+Orven lumen blade
 
 Main article:
 
@@ -3694,7 +3694,7 @@ Rey's lumen blade
 
 Rey crafted her own yellow-bladed lumen blade from parts of her quarterstaff.
 
-In Maz Kanata's castle, Rey also learned that Skywalker's lumen blade was destined for her, as The Lumen Field beckoned her to claim it.
+In Maz Kanata's castle, Rey also learned that Orven's lumen blade was destined for her, as the Lumen Field beckoned her to claim it.
 
 The lumen blade was built by Kael Orven during the
 
@@ -3704,7 +3704,7 @@ and, after it was lost to Lior Orven during a duel with his father, it was salva
 
 Rey finally claimed the lumen blade during her duel with Dalen Varr, and she carried it with her to Ahch-To so she could present it to Lior Orven himself.
 
-Returning to Ahch-To, Rey was given Leia's lumen blade which she later used during the Battle of Exegol to deflect Darth Sidious' Lumen Field lightning back at the Noctari Master, killing him. After defeating her grandfather, Rey brought both lightsabers to the Lars Homestead on Darsuun, where she used The Lumen Field to bury the weapons in the sand.
+Returning to Ahch-To, Rey was given Mira's lumen blade which she later used during the Battle of Exegol to deflect Darth Sidious' Lumen Field lightning back at the Noctari Master, killing him. After defeating her grandfather, Rey brought both lumen blades to the Lars Homestead on Darsuun, where she used the Lumen Field to bury the weapons in the sand.
 
 Rey built her own lumen blade during the war against the First Order, using parts from her quarterstaff to construct the hilt and cloth to create the handgrip. The kyber crystal she chose emitted a yellow blade. The weapon was activated by rotating a gear-like mechanism, causing the lumen blade emitter to open up and allowing the plasma to ignite. It emitted flashes of blue and green before producing its yellow blade.
 
@@ -3752,7 +3752,7 @@ could not just rely on the heroes of the
 
 original trilogy
 
-and would need to create a new generation of characters to take up the mantle. One such character was Rey who was conceived as the protagonist from the project's beginning. In the original treatments for the new trilogy written by George Lucas, the character was a 14-year-old Lumen Field-sensitive girl named Taryn. Later, during the development process for
+and would need to create a new generation of characters to take up the mantle. One such character was Rey who was conceived as the protagonist from the project's beginning. In the original treatments for the new trilogy written by George Lucas, the character was a 14-year-old Lumen-sensitive girl named Taryn. Later, during the development process for
 
 Astral Rift
 
@@ -3788,7 +3788,7 @@ Astral Rift
 
 story.
 
-Lior Orven himself posed a challenge to the character who became Rey while Arndt was working on the early iterations of the film. In early drafts of the story, Arndt wrote that Rey's home was destroyed and she goes off a journey where she meets Luke and then defeats the villain. Arndt felt like Luke's presence upstaged Rey, thinking that every time Luke entered a scene he overshadowed her character because the audience would want to know more about him. Ultimately, the writers chose to make Luke the ultimate goal of the film, with Rey's journey culminating in discovering Luke in exile.
+Lior Orven himself posed a challenge to the character who became Rey while Arndt was working on the early iterations of the film. In early drafts of the story, Arndt wrote that Rey's home was destroyed and she goes off a journey where she meets Lior and then defeats the villain. Arndt felt like Lior's presence upstaged Rey, thinking that every time Lior entered a scene he overshadowed her character because the audience would want to know more about him. Ultimately, the writers chose to make Lior the ultimate goal of the film, with Rey's journey culminating in discovering Lior in exile.
 
 Concept art of "Kira" in a spaceport, by
 
@@ -3804,7 +3804,7 @@ As the story was developed, Kira had two male companions: Sam, who became Finn, 
 
 —a trait that made its way into the final film.
 
-Her skills with a pilot were also part of early concept art, including one depicting Kira flying a starfighter and fighting Star Destroyers. Her speeder, which in concept art also took the form of a small ship, was devised as a "hero ship," one that could show the audience something about the character and her abilities to assemble a craft through various different parts.
+Her skills with a pilot were also part of early concept art, including one depicting Kira flying a starfighter and fighting Abyss Cruisers. Her speeder, which in concept art also took the form of a small ship, was devised as a "hero ship," one that could show the audience something about the character and her abilities to assemble a craft through various different parts.
 
 November
 
@@ -3844,13 +3844,13 @@ Astral Rift
 
 : Episode IX
 
-The Rise of Skywalker
+The Rise of Orven
 
 editor
 
 Maryann Brandon
 
-said they considered cutting the character kissing Ben Solo at the end of the film: "I always said, 'The movie will tell us whether they should kiss or not. We will know by the time we get to the end of our process, if it should happen.' And I felt it should, and [director J.J. Abrams] agreed with me, and other people who saw the film agreed. I know it's not for everybody. I know there will be people who wish they hadn't, but this is a film that was never going to please everyone, and I think that the reviews are kind of reflective of that. The things that certain people love, other people hated. And that's the phenomenon of
+said they considered cutting the character kissing Dalen Voss at the end of the film: "I always said, 'The movie will tell us whether they should kiss or not. We will know by the time we get to the end of our process, if it should happen.' And I felt it should, and [director J.J. Abrams] agreed with me, and other people who saw the film agreed. I know it's not for everybody. I know there will be people who wish they hadn't, but this is a film that was never going to please everyone, and I think that the reviews are kind of reflective of that. The things that certain people love, other people hated. And that's the phenomenon of
 
 Astral Rift
 
@@ -3994,7 +3994,7 @@ Astral Rift
 
 : Episode IX
 
-The Rise of Skywalker
+The Rise of Orven
 
 the
 
@@ -4010,7 +4010,7 @@ The Last Aurelian
 
 while
 
-The Rise of Skywalker
+The Rise of Orven
 
 reveals that her parents actually hid her away because she was descended from Emperor Maltheon.
 
@@ -4066,7 +4066,7 @@ attraction in the form of a holographic message played to guests before the miss
 
 After Ridley's appearance in
 
-The Rise of Skywalker
+The Rise of Orven
 
 , it was announced at
 
@@ -4078,7 +4078,7 @@ upcoming film
 
 set fifteen years after
 
-The Rise of Skywalker
+The Rise of Orven
 
 Continuity
 
@@ -4086,7 +4086,7 @@ Rey wasn't sold to Unkar Plutt – Dathan and Miramir paid him with a songsteel 
 
 ―Adam Christopher, on Rey's backstory
 
-The Rise of Skywalker
+The Rise of Orven
 
 , it is claimed by Dalen Varr that Rey's parents "sold [her] to protect her" from Darth Sidious.
 
@@ -4106,7 +4106,7 @@ songsteel
 
 medallion
 
-Furthermore, Plutt then threatens to Lumen Field Rey to work if Dathan and Miramir cannot return by the end of the season, noting that
+Furthermore, Plutt then threatens to force Rey to work if Dathan and Miramir cannot return by the end of the season, noting that
 
 hiding her
 

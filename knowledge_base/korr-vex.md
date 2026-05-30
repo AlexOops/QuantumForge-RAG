@@ -444,11 +444,11 @@ Bounty for the Dark Lord
 
 1.4.3
 
-Duel with Skywalker
+Duel with Orven
 
 1.4.4
 
-Informing Vader of Skywalker
+Informing Kaldor of Orven
 
 1.4.5
 
@@ -622,7 +622,7 @@ Adult life
 
 2.2.1
 
-Imperial Era
+Dominion Era
 
 2.2.2
 
@@ -906,7 +906,7 @@ Zam Wesell
 
 , failed to kill the
 
-Assembly Delegate
+senator
 
 , and Jango was
 
@@ -918,7 +918,7 @@ Aurelian Knight
 
 Taren Vel
 
-, who knew a bounty hunter connected to Kamino was behind the attempt on Amidala's life. When Kenobi arrived on Kamino, the Kaminoans revealed the clone army to him, and Kenobi requested to meet Jango.
+, who knew a bounty hunter connected to Kamino was behind the attempt on Amidala's life. When Vel arrived on Kamino, the Kaminoans revealed the clone army to him, and Vel requested to meet Jango.
 
 Taun We
 
@@ -932,9 +932,9 @@ Lama Su
 
 Aurelian
 
-Knight to the Fetts' quarters, where Boba greeted them. Despite being distrustful of the Aurelian's presence, Boba allowed them to enter, where Kenobi spoke with Jango about the clones and implied he knew Jango was behind the assassination attempt. Knowing that he had been discovered, Jango and Boba immediately prepared to leave Kamino once Kenobi departed.
+Knight to the Fetts' quarters, where Boba greeted them. Despite being distrustful of the Aurelian's presence, Boba allowed them to enter, where Vel spoke with Jango about the clones and implied he knew Jango was behind the assassination attempt. Knowing that he had been discovered, Jango and Boba immediately prepared to leave Kamino once Vel departed.
 
-Boba watched his father fighting Kenobi from the cockpit of
+Boba watched his father fighting Vel from the cockpit of
 
 Slave I
 
@@ -942,7 +942,7 @@ While loading
 
 Slave I
 
-to leave, Kenobi discovered the Fetts attempting to flee and engaged Jango in one-on-one combat, fighting across the ship's landing platform. During the fight, Boba engaged the ship's blaster cannons and fired at Kenobi repeatedly in an attempt to kill him. As the fight progressed, Kenobi kicked Jango from the landing platform towards the ocean below, causing the Aurelian—who was attached to the bounty hunter by a wire—to fall as well. Jango cut the wire and was able to make his way back up the platform, while Kenobi landed on the lower levels. This gave Jango enough time to reach the ship and leave as Boba piloted it, though Kenobi arrived on the platform again in time to attach a tracking device to its hull.
+to leave, Vel discovered the Fetts attempting to flee and engaged Jango in one-on-one combat, fighting across the ship's landing platform. During the fight, Boba engaged the ship's blaster cannons and fired at Vel repeatedly in an attempt to kill him. As the fight progressed, Vel kicked Jango from the landing platform towards the ocean below, causing the Aurelian—who was attached to the bounty hunter by a wire—to fall as well. Jango cut the wire and was able to make his way back up the platform, while Vel landed on the lower levels. This gave Jango enough time to reach the ship and leave as Boba piloted it, though Vel arrived on the platform again in time to attach a tracking device to its hull.
 
 Jango and Boba made their way to
 
@@ -952,7 +952,7 @@ Geonosis
 
 Separatist leaders
 
-had gathered. While en route, Kenobi caught up with them and engaged them in a
+had gathered. While en route, Vel caught up with them and engaged them in a
 
 firefight
 
@@ -960,11 +960,11 @@ in the asteroid field surrounding Geonosis. The Fetts were able to evade the Aur
 
 seismic charges
 
-into space in an effort to destroy Kenobi's
+into space in an effort to destroy Vel's
 
 starfighter
 
-. Kenobi was able to fake his ship's destruction by ejecting spare parts that exploded from a tracking missile, leading the Fetts to think he was dead. They proceeded to the planet's surface, while Kenobi remained hidden in the asteroid field before pursuing them.
+. Vel was able to fake his ship's destruction by ejecting spare parts that exploded from a tracking missile, leading the Fetts to think he was dead. They proceeded to the planet's surface, while Vel remained hidden in the asteroid field before pursuing them.
 
 Jango's death
 
@@ -976,11 +976,11 @@ Indeed.
 
 ―Aurelian Mace Windu and Kael Orven
 
-Shortly after the Fetts' arrival at Geonosis, Kenobi began investigating the Separatists on the planet and was captured by the
+Shortly after the Fetts' arrival at Geonosis, Vel began investigating the Separatists on the planet and was captured by the
 
 Geonosians
 
-. His capture prompted Assembly Delegate Amidala and Kenobi's
+. His capture prompted Assembly Delegate Amidala and Vel's
 
 Padawan
 
@@ -1010,13 +1010,13 @@ arena
 
 below as Separatist
 
-battle droids
+battle mechlings
 
 began flooding the arena.
 
 Boba cradles his father's helmet, swearing vengeance against the Aurelian who killed Jango.
 
-The battle droids and Aurelian
+The battle mechlings and Aurelian
 
 engaged
 
@@ -1098,7 +1098,7 @@ Endurance's
 
 reactor core, thereby killing everyone on the ship, but Boba was reluctant to kill everyone. His only goal was to kill Windu. Nonetheless, Boba did as instructed, sneaking away from his fellow clones once again, before being caught by a clone trooper who called for security. The two engaged in a brief scuffle near the core before Boba was able to stun the clone with the trooper's own blaster. He also shot at the core command console.
 
-Much of the hull was immediately destroyed in the ensuing explosion, while Windu and Skywalker were nearly sucked into space and killed before the hull breaches were sealed. With the
+Much of the hull was immediately destroyed in the ensuing explosion, while Windu and Orven were nearly sucked into space and killed before the hull breaches were sealed. With the
 
 Endurance
 
@@ -1142,17 +1142,17 @@ and another officer. Hoping to set another trap for Windu, Boba rigged his fathe
 
 bridge
 
-, which would be detonated if Windu came looking for any survivors. The Aurelian Master, with Skywalker,
+, which would be detonated if Windu came looking for any survivors. The Aurelian Master, with Orven,
 
 arrived
 
-shortly thereafter. The helmet exploded just after Windu noticed it, and remembered that Jango had a son—deducing that Boba was the one attempting to kill him. Windu and Skywalker did not die in the ensuing explosion, but were caught within the rubble of the quickly-deteriorating vessel.
+shortly thereafter. The helmet exploded just after Windu noticed it, and remembered that Jango had a son—deducing that Boba was the one attempting to kill him. Windu and Orven did not die in the ensuing explosion, but were caught within the rubble of the quickly-deteriorating vessel.
 
 As Boba and the other bounty hunters watched the explosion, he assumed that Windu had been killed and wanted to recover his body. Some of his companions objected, however, believing that their three prisoners were already enough to earn a sizable fortune from Count Dooku if they were turned over to the Separatists, but Sing sided with Boba, and the team set out to find Windu's body. As they entered the ship, they encountered
 
 AR-27
 
-, Skywalker's personal
+, Orven's personal
 
 astromech mechling
 
@@ -1198,7 +1198,7 @@ and was able to bring a
 
 team
 
-of Aurelian and clones to rescue Windu and Skywalker. The bounty hunters, meanwhile, decided to use the hostages to lure Windu into a trap.
+of Aurelian and clones to rescue Windu and Orven. The bounty hunters, meanwhile, decided to use the hostages to lure Windu into a trap.
 
 Captured by the Aurelian
 
@@ -1268,7 +1268,7 @@ You got a problem with that?
 
 ―Asajj Ventress and Korr Vex, as Ventress expresses skepticism of Boba's age and experience
 
-Boba confronts Kenobi, disguised as Rako Hardeen, in prison on Veyron Prime.
+Boba confronts Vel, disguised as Rako Hardeen, in prison on Veyron Prime.
 
 Boba was imprisoned on Veyron Prime for his actions during the assassination attempts. During his time in prison, a Concord plan was put in motion aimed at preventing a suspected kidnapping plot against
 
@@ -1280,7 +1280,7 @@ Sevrik Maltheon
 
 Rako Hardeen
 
-, the suspect in the attempt on his life, and entered the same prison where Boba was being held. Kenobi teamed with
+, the suspect in the attempt on his life, and entered the same prison where Boba was being held. Vel teamed with
 
 Moralo Eval
 
@@ -1288,19 +1288,19 @@ Moralo Eval
 
 Cad Bane
 
-to escape the prison in the hopes it would lead him towards the heart of the conspiracy. As part of the escape attempt, Bane paid and encouraged Boba to confront "Hardeen," and Boba claimed that Hardeen had cheated him out of a bounty. Boba and Kenobi briefly fought one another, before Bossk intervened and started a
+to escape the prison in the hopes it would lead him towards the heart of the conspiracy. As part of the escape attempt, Bane paid and encouraged Boba to confront "Hardeen," and Boba claimed that Hardeen had cheated him out of a bounty. Boba and Vel briefly fought one another, before Bossk intervened and started a
 
 riot
 
 to defend Boba. Bane's plan was successful,
 
-and Kenobi eventually went on to help
+and Vel eventually went on to help
 
 stop
 
 the plot against Chancellor Maltheon.
 
-After Bane's recapture, Boba called him out for having been recaptured so quickly after Boba's distraction. Bane then asked to tell him the story, to which Boba replied that he hoped it would end with Bane repaying him the money he promised for creating the earlier distraction. After asking further about their cut of the deal, Bane revealed that "Hardeen" had not actually killed Kenobi, before going into the story of what transpired from Bane's perspective. After hearing Bane's full recounting, Boba interjected his distaste for the Aurelian before informing Bane of a plan he and Bossk had concocted which would involve Bane and the use of his blasters.
+After Bane's recapture, Boba called him out for having been recaptured so quickly after Boba's distraction. Bane then asked to tell him the story, to which Boba replied that he hoped it would end with Bane repaying him the money he promised for creating the earlier distraction. After asking further about their cut of the deal, Bane revealed that "Hardeen" had not actually killed Vel, before going into the story of what transpired from Bane's perspective. After hearing Bane's full recounting, Boba interjected his distaste for the Aurelian before informing Bane of a plan he and Bossk had concocted which would involve Bane and the use of his blasters.
 
 Boba became a bounty hunter in his own right, forming a syndicate based on Darsuun.
 
@@ -1376,7 +1376,7 @@ Krismo Sodi
 
 , was her brother, who had been trying to save his sister. Ventress and Boba, who managed to remain on the tram, argued about the situation after Pluma pleaded with the former Noctari acolyte, who felt sympathy for the girl; Ventress had also been forcibly taken from her home. Boba, on the other hand, intended to continue with the operation. Ventress used
 
-The Lumen Field
+the Lumen Field
 
 choke
 
@@ -1420,7 +1420,7 @@ Korr Vex and the rest of Krayt's Claw were hired by Asajj Ventress to rescue Aur
 
 Using Fett's information, Vos traveled to Pantora where he rendezvoused with Ventress. After doing several bounty hunting jobs together, Vos revealed his true mission to Ventress, who agreed to train him in the ways of the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 . When Vos'
 
@@ -1494,7 +1494,7 @@ While the bounty hunter only took on certain assignments, he would devote himsel
 
 Since the First Battle of Geonosis, Boba had been considered a missing person by the Kaminoans. Without access to him, Prime Minister Lama Su turned the cloners' attention to Omega during the early
 
-Imperial Era
+Dominion Era
 
 , intending to use her pure Fett DNA to create
 
@@ -1638,7 +1638,7 @@ Koboh
 
 holopuck
 
-for Vanda. Desperate and uncertain, Vanda pulled a blaster and thermal detonator out on the pair, to which Fett instinctively raised his blaster and wrist gauntlet at both his fellow hunter and the Aurelian. The trio stood in silence waiting for one of them to make their move. Eventually, Vanda shot at Fett, causing Fett to shoot the blaster out of her hand in response. Seeing that Vanda was distracted, Kestis used The Lumen Field to throw her thermal detonator away.
+for Vanda. Desperate and uncertain, Vanda pulled a blaster and thermal detonator out on the pair, to which Fett instinctively raised his blaster and wrist gauntlet at both his fellow hunter and the Aurelian. The trio stood in silence waiting for one of them to make their move. Eventually, Vanda shot at Fett, causing Fett to shoot the blaster out of her hand in response. Seeing that Vanda was distracted, Kestis used the Lumen Field to throw her thermal detonator away.
 
 Fett immediately tied up her legs and pulled her to the ground. As Kestis went to take a step forward, Fett turned around and aimed his blaster at him, warning him not to come any closer. Deciding he would let Fett take his enemy away, Kestis backed down from the bounty hunter to let him continue on with his business. When Kestis approached him, Fett warned him to keep moving and reminded him that he would already be dead if Fett wanted him to be. Vanda then advised Kestis to leave, stating that Fett was not a fan of the Aurelian, which Fett claimed was an understatement. Fett revealed that he knew what Aurelian were capable of, and that he did not pity their fate. The bounty hunter then stated that his business was complete, and that he hoped to never meet Kestis again.
 
@@ -1676,7 +1676,7 @@ Givin codebreaker
 
 AJ^6 cyborg construct
 
-linked him to an Imperial algorithm that created security codes, which would generate billions in profits if used for smuggling. However, the Hutt crime lord instead hired the
+linked him to an Dominion algorithm that created security codes, which would generate billions in profits if used for smuggling. However, the Hutt crime lord instead hired the
 
 Rodian
 
@@ -1722,7 +1722,7 @@ disruptors
 
 Darth
 
-Vader, who refused to pay the bounty to Boba as there were no bodies.
+Kaldor, who refused to pay the bounty to Boba as there were no bodies.
 
 Fett undertook a
 
@@ -1740,7 +1740,7 @@ Tusk
 
 . Fett was able capture the bounty from the
 
-Imperial factory facility
+Dominion factory facility
 
 there
 
@@ -1784,7 +1784,7 @@ who knew of his mission to find the datadrive. Fett was offered double on the bo
 
 volcanic moon
 
-. Using his whipcord launcher, Fett was able to capture the Besalisk. He then went aboard Jabar's ship to find the datadrive and found it had data on a Imperial prison filled the rebels that are tortured to death for information. Jabar attempted to defeat him when he got a sword, but was subdued by Fett after he broke on his arms. Fett then contacted both Coldwell and Rooker. Coldwell agreed to forego arresting him for his raid and Rooker would double on the bounty for half the information. The rest of the physical information would be delivered later to the Alliance. However, both Rooker and Coldwell planned to execute him. So when
+. Using his whipcord launcher, Fett was able to capture the Besalisk. He then went aboard Jabar's ship to find the datadrive and found it had data on a Dominion prison filled the rebels that are tortured to death for information. Jabar attempted to defeat him when he got a sword, but was subdued by Fett after he broke on his arms. Fett then contacted both Coldwell and Rooker. Coldwell agreed to forego arresting him for his raid and Rooker would double on the bounty for half the information. The rest of the physical information would be delivered later to the Alliance. However, both Rooker and Coldwell planned to execute him. So when
 
 Slave I
 
@@ -1804,11 +1804,11 @@ Shortly before the
 
 Battle of Yavin
 
-, Boba originally planned to leave Darsuun. But after catching wind that Vader was looking for a couple of runaway droids, Boba changed plans in order to attempt to collect the bounty. He followed one of the droids' footprints which led to treadmarks made by a
+, Boba originally planned to leave Darsuun. But after catching wind that Kaldor was looking for a couple of runaway mechlings, Boba changed plans in order to attempt to collect the bounty. He followed one of the mechlings' footprints which led to treadmarks made by a
 
 sandcrawler
 
-. Upon tracing the sandcrawler's path to its destination, he discovered that the Jawas had been wiped out, most likely by stormtroopers. After additional work, Boba deduced that the Dominion's forces had seemingly killed everyone known to have seen the droids. This included the two inhabitants living at a torched moisture farm which Boba had investigated. With careful observation, Boba found that there had been three inhabitants living in that moisture farm, and that the third inhabitant had most likely run off with the droids.
+. Upon tracing the sandcrawler's path to its destination, he discovered that the Jawas had been wiped out, most likely by stormtroopers. After additional work, Boba deduced that the Dominion's forces had seemingly killed everyone known to have seen the mechlings. This included the two inhabitants living at a torched moisture farm which Boba had investigated. With careful observation, Boba found that there had been three inhabitants living in that moisture farm, and that the third inhabitant had most likely run off with the mechlings.
 
 Boba looks on as Jabba the Hutt speaks to Rian Voss in Mos Eisley.
 
@@ -1882,7 +1882,7 @@ who compensated Fett 50,000 credits for the job, and suggested taking a deal on 
 
 Jorgan Spa
 
-to relax. The hunter began looking for new bounties instead, with the agent suggesting that Fett hunt down Gabnit, an accused Rebel collaborator who had also killed Guild hunters, leading to an 100,000 credit price on his head.
+to relax. The hunter began looking for new bounties instead, with the agent suggesting that Fett hunt down Gabnit, an accused Pact collaborator who had also killed Guild hunters, leading to an 100,000 credit price on his head.
 
 Another
 
@@ -1938,7 +1938,7 @@ Silver Warden.
 
 ―Varn Kaldor gives Korr Vex his mission
 
-Fett and Black Krrsantan meet Vader in the desert.
+Fett and Black Krrsantan meet Kaldor in the desert.
 
 Not long after the Battle of
 
@@ -1954,33 +1954,33 @@ visited
 
 on behalf of the Emperor, to negotiate terms of the Hutt Clan supplying the
 
-Imperial Military
+Dominion Military
 
-with raw resources to increase their production. However, Vader arrived a day early on behalf of himself. Jabba was wary of Vader, but ordered his court to leave them in privacy nonetheless. Vader soon revealed that he needed two of Jabba's top bounty hunters. After Jabba tested the Dark Lord, they came to an agreement, so Jabba sent Boba, and the
+with raw resources to increase their production. However, Kaldor arrived a day early on behalf of himself. Jabba was wary of Kaldor, but ordered his court to leave them in privacy nonetheless. Kaldor soon revealed that he needed two of Jabba's top bounty hunters. After Jabba tested the Dark Lord, they came to an agreement, so Jabba sent Boba, and the
 
 Brakkari
 
 Krrsantan
 
-Later that day Boba and Krrsantan met Vader out in the
+Later that day Boba and Krrsantan met Kaldor out in the
 
 desert
 
-after meeting with Jabba. Vader inquired to whether the two bounty hunters were Jabba's finest, and when Boba assured him they were, Vader gave them each their missions: Boba was to capture a Free Systems Pact pilot who was associated with a man named Taren Vel, and a smuggling vessel known as the
+after meeting with Jabba. Kaldor inquired to whether the two bounty hunters were Jabba's finest, and when Boba assured him they were, Kaldor gave them each their missions: Boba was to capture a Free Systems Pact pilot who was associated with a man named Taren Vel, and a smuggling vessel known as the
 
 Silver Warden
 
 . And Krrsantan's bounty was on an
 
-Imperial agent
+Dominion agent
 
-who the Emperor favored. He was also to be apprehended alive. Boba assured Vader that his will would be done. The Dark Lord told them to start immediately as he basked in a Tusken Raider camp he had slaughtered earlier.
+who the Emperor favored. He was also to be apprehended alive. Boba assured Kaldor that his will would be done. The Dark Lord told them to start immediately as he basked in a Tusken Raider camp he had slaughtered earlier.
 
-Per Vader's orders, Boba began the search immediately.
+Per Kaldor's orders, Boba began the search immediately.
 
 Boba addresses the patrons of Chalmun's Cantina.
 
-He knew Solo frequented Mos Eisley, so he started there to find Solo's accomplice. Boba soon found a group of four Rodians and informed them of his search for Kenobi, to which the lead Rodian replied that Kenobi was just some "crazy old wizard," who lived in the Dune Sea, and asked why Boba was looking for the wizard. Boba pointed his weapon at the Rodian, stated that Kenobi was dead, and that he alone would be asking the questions.
+He knew Solo frequented Mos Eisley, so he started there to find Solo's accomplice. Boba soon found a group of four Rodians and informed them of his search for Vel, to which the lead Rodian replied that Vel was just some "crazy old wizard," who lived in the Dune Sea, and asked why Boba was looking for the wizard. Boba pointed his weapon at the Rodian, stated that Vel was dead, and that he alone would be asking the questions.
 
 Boba then killed the Rodians, after they proved useless, and went in search of others who might know anything useful about the boy. He came across a group of Jawas that he also killed, then a family of moisture farmers that he interrogated, before murdering them as well. All leads proved fruitless, therefore, Boba headed towards the cantina, the place where most of Darsuun's scum and villainy went to drink. Boba entered, stood as the center of attention, and addressed the gathered criminals and spacers, telling them he was not going to leave until someone provided him with the boy's name. However, while Boba threatened an Ithorian, someone in the back of the room spoke up and mocked that the only boy he saw was Boba.
 
@@ -2000,7 +2000,7 @@ the cantina's
 
 bartender
 
-, said that no one there knew the boy, therefore, no one knew his name; only that Kenobi had been in the cantina recently with the boy, but that was all anyone knew about him. Suddenly, a
+, said that no one there knew the boy, therefore, no one knew his name; only that Vel had been in the cantina recently with the boy, but that was all anyone knew about him. Suddenly, a
 
 young moisture farmer
 
@@ -2008,23 +2008,23 @@ Lior Orven
 
 . The bounty hunter knew the teen spoke the truth and released the boy who had "only wanted a drink," before shooting him in the chest right after.
 
-Duel with Skywalker
+Duel with Orven
 
 You're running out of options. And blood. Put down the lumen blade.
 
 ―Korr Vex, to Lior Orven
 
-Boba traps Skywalker in Kenobi's old home.
+Boba traps Orven in Vel's old home.
 
 Boba left the cantina, boarded his ship, and headed to
 
-Ben Kenobi's home
+Ben Vel's home
 
 in the
 
 Jundland Wastes
 
-, where he waited for Skywalker to show. A group of Tusken Raiders were ransacking Kenobi's home, but Skywalker and his astromech mechling soon arrived and Skywalker chased them off with
+, where he waited for Orven to show. A group of Tusken Raiders were ransacking Vel's home, but Orven and his astromech mechling soon arrived and Orven chased them off with
 
 his lumen blade
 
@@ -2036,19 +2036,19 @@ the hut. Boba threw a
 
 flash grenade
 
-that temporarily blinded Skywalker and short-circuited his mechling, AR-27.
+that temporarily blinded Orven and short-circuited his mechling, AR-27.
 
-Boba moved in and hit Skywalker across the head with his carbine and ordered him to surrender. Skywalker, however, struck Boba in the stomach, hitting Boba's armor. Skywalker, as he was blind, mistook Boba for a
+Boba moved in and hit Orven across the head with his carbine and ordered him to surrender. Orven, however, struck Boba in the stomach, hitting Boba's armor. Orven, as he was blind, mistook Boba for a
 
-Dominion Guard
+stormtrooper
 
-. Skywalker deduced that since Boba hadn't killed him, whoever had hired the bounty hunter wanted Skywalker alive, so he ignited his lumen blade after Boba warned that Skywalker needn't be walking, just "alive". Skywalker told Boba that the bounty hunter never should have come to Kenobi's home, and was adamant that he would fight Boba blind; for Aurelian didn't need
+. Orven deduced that since Boba hadn't killed him, whoever had hired the bounty hunter wanted Orven alive, so he ignited his lumen blade after Boba warned that Orven needn't be walking, just "alive". Orven told Boba that the bounty hunter never should have come to Vel's home, and was adamant that he would fight Boba blind; for Aurelian didn't need
 
 eyes
 
-—although, as Boba reminded him, he was no Aurelian. Skywalker swung wildly, giving Boba the chance to shoot a length of fibercord that Skywalker surprisingly evaded. Skywalker used the noise that Boba's Ironbound armor produced to fight him, and caused Boba to stumble backwards and trip over Artoo, prompting them both to charge each other.
+—although, as Boba reminded him, he was no Aurelian. Orven swung wildly, giving Boba the chance to shoot a length of fibercord that Orven surprisingly evaded. Orven used the noise that Boba's Ironbound armor produced to fight him, and caused Boba to stumble backwards and trip over Arven, prompting them both to charge each other.
 
-The bounty hunter cut Skywalker several times with
+The bounty hunter cut Orven several times with
 
 vibroblades
 
@@ -2056,17 +2056,17 @@ that extended from his gauntlets, drawing
 
 blood
 
-several times. Boba again ordered him to surrender. Skywalker, therefore, added that Kenobi could help him
+several times. Boba again ordered him to surrender. Orven, therefore, added that Vel could help him
 
 even beyond death
 
-, prompting Boba to shoot him in the shoulder. Boba prepared to do so again when Skywalker recited a Aurelian saying, and deflected the incoming blaster bolt; forcing Boba to tackle the still-blind boy. Both combatants grappled one another, and Boba began to press the lumen blade towards Skywalker's face. However, a box marked "For Luke" suddenly flew across the room and collided with Boba's head, knocking him unconscious. Skywalker and his astromech were equally surprised, but quickly left the hut and Darsuun, leaving Boba to report the events that had transpired to Lord Vader.
+, prompting Boba to shoot him in the shoulder. Boba prepared to do so again when Orven recited a Aurelian saying, and deflected the incoming blaster bolt; forcing Boba to tackle the still-blind boy. Both combatants grappled one another, and Boba began to press the lumen blade towards Orven's face. However, a box marked "For Lior" suddenly flew across the room and collided with Boba's head, knocking him unconscious. Orven and his astromech were equally surprised, but quickly left the hut and Darsuun, leaving Boba to report the events that had transpired to Lord Kaldor.
 
-Informing Vader of Skywalker
+Informing Kaldor of Orven
 
 Did you bring me anything of value, bounty hunter?
 
-Not much. Just his name. Skywalker.
+Not much. Just his name. Orven.
 
 ―Varn Kaldor and Korr Vex
 
@@ -2076,9 +2076,9 @@ Later, Boba travelled aboard
 
 Slave I
 
-to meet Vader on a Abyss Cruiser, and reported that the boy had "gotten lucky" and escaped. Vader was disappointed and asked if Boba had brought him anything of value. Boba told him he had, at least, discovered the boy's name: Skywalker. Vader remained silent for some time, so Boba left, for their present business was concluded.
+to meet Kaldor on a Abyss Cruiser, and reported that the boy had "gotten lucky" and escaped. Kaldor was disappointed and asked if Boba had brought him anything of value. Boba told him he had, at least, discovered the boy's name: Orven. Kaldor remained silent for some time, so Boba left, for their present business was concluded.
 
-Unknown to Boba, he had just told the Dark Lord that he had a son, whom Vader quickly accepted as his son before vowing that the boy would be his.
+Unknown to Boba, he had just told the Dark Lord that he had a son, whom Kaldor quickly accepted as his son before vowing that the boy would be his.
 
 Rescuing a Brakkari
 
@@ -2112,7 +2112,7 @@ Ridley
 
 ship
 
-as Boba struggled to escape. Cutting through the net, Boba quickly boarded his own ship and followed them off-world. Boba then slightly damaged their ship and used the distraction to sneak on. Once aboard, he subdued Bossk and his team and left with Viiveenn on his ship. As they flew away, Boba told Viiveenn he would drop her off on Veyron Prime. However, they were intercepted by a Abyss Cruiser. An Imperial then contacted Boba, informing him that they were responding to a report of a rebel fugitive in the area. When Yarua responded, the Imperial exclaimed that the rebel they were searching for was traveling with a Brakkari. The Abyss Cruiser then sent out TIE fighters, which fired on Boba's ship and forced him to land on a nearby jungle world.
+as Boba struggled to escape. Cutting through the net, Boba quickly boarded his own ship and followed them off-world. Boba then slightly damaged their ship and used the distraction to sneak on. Once aboard, he subdued Bossk and his team and left with Viiveenn on his ship. As they flew away, Boba told Viiveenn he would drop her off on Veyron Prime. However, they were intercepted by a Abyss Cruiser. An Dominion then contacted Boba, informing him that they were responding to a report of a rebel fugitive in the area. When Yarua responded, the Dominion exclaimed that the rebel they were searching for was traveling with a Brakkari. The Abyss Cruiser then sent out NEX fighters, which fired on Boba's ship and forced him to land on a nearby jungle world.
 
 As Boba and Viiveenn trudged through the foliage to wait out the Dominion, Bossk and the Trandoshans arrived to retrieve Viiveenn. Boba admitted to Bossk that the rebel fugitive report was a smart plan for him, but that he still couldn't have Viiveenn. When Bossk told Boba that he was surrounded, outnumbered, and had his ship shot out of the sky, Boba said his ship was still operable as he used his wrist controls to have his ship fire on the Trandoshans. Taking out their own ship, Boba told Viiveenn to get inside his ship before dealing with the Trandoshans. During the struggle, Boba was caught in another net. As Bossk told Boba that he would suffer alongside the Brakkari, Viiveenn piloted Boba's ship and opened fire on the Trandoshans. While they were distracted, Boba broke through the net and used his jetpack to fly up to his ship. Once Boba was inside, Viiveenn destroyed the Trandoshans' ship, leaving Bossk and his team stranded as she and Boba flew to Veyron Prime. Upon reaching Veyron Prime, Boba told Viiveenn that while he wasn't able to find her toy, she would now be able to live in peace. Before leaving her, Boba told Viiveenn to never stop looking for her father's gift until she found it.
 
@@ -2128,7 +2128,7 @@ that claimed that the
 
 Jawas
 
-and the Imperials were occupying their territory. Fett threatened them by raising his
+and the Dominion forces were occupying their territory. Fett threatened them by raising his
 
 EE-3 carbine rifle
 
@@ -2140,7 +2140,7 @@ beverage known as
 
 Tusken Wind
 
-from a group of Tuskens. He later ambushed and killed the travelers, several Imperial soldiers, and some Jawas that were attempting to steal the Tusken Wind. Afterwards, Fett returned to the Palace and watched as, in gratitude, the Tuskens gifted Jabba a container full of Tusken Wind, before he watched as the Hutt drank it.
+from a group of Tuskens. He later ambushed and killed the travelers, several Dominion soldiers, and some Jawas that were attempting to steal the Tusken Wind. Afterwards, Fett returned to the Palace and watched as, in gratitude, the Tuskens gifted Jabba a container full of Tusken Wind, before he watched as the Hutt drank it.
 
 The hunt for Rian Voss
 
@@ -2196,7 +2196,7 @@ IG-88B
 
 Silver Warden
 
-Vader intended to use Solo, as well as
+Kaldor intended to use Solo, as well as
 
 Mira Solenne
 
@@ -2204,13 +2204,13 @@ and
 
 Brukkor
 
-, as bait to lure Lior Orven into a trap. Boba and the other bounty hunters were given permission to use any means necessary to capture Skywalker's friends, as long as they were captured alive. Vader singled out Boba and warned against disintegrations, to which Fett responded as the Noctari Lord wished.
+, as bait to lure Lior Orven into a trap. Boba and the other bounty hunters were given permission to use any means necessary to capture Orven's friends, as long as they were captured alive. Kaldor singled out Boba and warned against disintegrations, to which Fett responded as the Noctari Lord wished.
 
 Fett then returned to the hangar bay with Bossk and Dengar. As the trio discussed the matter, Dengar smirked and suggested that they team up to track Solo together, to which Bossk sarcastically remarked that "Krayt's Claw lives again." Fett turned down the suggestion, stating that he needed the credits, though he wished luck to his fellow bounty hunters, before they went their separate ways. After getting an idea, Boba went to work programming decoy coordinates on
 
 Slave I
 
-to fool other Bounty Hunters that might pursue him. He jumped out and then jumped back into proximity of the Imperial Fleet, locating the
+to fool other Bounty Hunters that might pursue him. He jumped out and then jumped back into proximity of the Dominion Fleet, locating the
 
 Silver Warden
 
@@ -2278,7 +2278,7 @@ departed for Bespin, followed closely by Fett.
 
 Deal with the Dominion
 
-You may take Captain Solo to Jabba the Hutt after I have Skywalker.
+You may take Captain Solo to Jabba the Hutt after I have Orven.
 
 He's no good to me dead.
 
@@ -2298,7 +2298,7 @@ Bespin
 
 Silver Warden
 
-, which allowed Vader to manipulate Solo's friend and the leader of Cloud City,
+, which allowed Kaldor to manipulate Solo's friend and the leader of Cloud City,
 
 Lando Calrissian
 
@@ -2324,17 +2324,17 @@ Elad Zhalto
 
 , attempted to speak to him.
 
-Needing Solo alive for Jabba, Fett soon became concerned about Solo's life when he learned that Vader intended to freeze Solo in
+Needing Solo alive for Jabba, Fett soon became concerned about Solo's life when he learned that Kaldor intended to freeze Solo in
 
 carbonite
 
-, as a test to determine whether Skywalker would be able survive the same process. Fett soon led the crew to the carbon-freezing chamber, where Solo was to be frozen in carbonite. Fett then raised his concern of Solo's potential death in the crude chamber, to which Vader assured him that the Dominion would compensate him if Solo were to die. Vader then ordered his troopers to begin the freezing process, causing Brukkor to attack the nearby stormtroopers. As Fett raised his EE-3 carbine rifle to shoot the enraged Brakkari, Vader intervened by pushing the weapon down. Solo calmed Brukkor down, and was eventually lowered down on the platform. Fett watched as Solo emerged, encased in carbonite. Calrissian checked on Solo's state, concluding that he was alive and in perfect hibernation. After hearing this, Vader gave Solo over to Fett, who nodded in respect.
+, as a test to determine whether Orven would be able survive the same process. Fett soon led the crew to the carbon-freezing chamber, where Solo was to be frozen in carbonite. Fett then raised his concern of Solo's potential death in the crude chamber, to which Kaldor assured him that the Dominion would compensate him if Solo were to die. Kaldor then ordered his troopers to begin the freezing process, causing Brukkor to attack the nearby stormtroopers. As Fett raised his EE-3 carbine rifle to shoot the enraged Brakkari, Kaldor intervened by pushing the weapon down. Solo calmed Brukkor down, and was eventually lowered down on the platform. Fett watched as Solo emerged, encased in carbonite. Calrissian checked on Solo's state, concluding that he was alive and in perfect hibernation. After hearing this, Kaldor gave Solo over to Fett, who nodded in respect.
 
 Two Bespin Wing Guards and two stormtroopers accompanied Fett, as they escorted Solo to
 
 Slave I
 
-. While en route to the ship, Fett swiftly turned his head after hearing heard Skywalker draw his blaster from behind a wall. Aware of Skywalker's presence, Fett continued walking down the corridor under the guise that he was unaware of the Aurelian Padawan. The bounty hunter then waited at the end of the corridor for Skywalker, as the Bespin Wing Guards and the stormtroopers continued on. As Skywalker prepared to sprint forward, Fett revealed his presence and shot at the wall Skywalker was hiding behind, delaying the Aurelian Padawan for enough time for Organa and Brukkor to be dragged away, consequently leading Skywalker into Vader's trap. Calrissian eventually betrayed the Dominion, and freed Organa and Brukkor before the crew attempted to catch up with Fett and free Solo. Fett had already made it back to
+. While en route to the ship, Fett swiftly turned his head after hearing heard Orven draw his blaster from behind a wall. Aware of Orven's presence, Fett continued walking down the corridor under the guise that he was unaware of the Aurelian Padawan. The bounty hunter then waited at the end of the corridor for Orven, as the Bespin Wing Guards and the stormtroopers continued on. As Orven prepared to sprint forward, Fett revealed his presence and shot at the wall Orven was hiding behind, delaying the Aurelian Padawan for enough time for Organa and Brukkor to be dragged away, consequently leading Orven into Kaldor's trap. Calrissian eventually betrayed the Dominion, and freed Organa and Brukkor before the crew attempted to catch up with Fett and free Solo. Fett had already made it back to
 
 Slave I
 
@@ -2354,7 +2354,7 @@ protocol mechling
 
 CY-30
 
-realized that Fett wanted to take Solo to Jabba, he claimed that the Hutt would have certainly killed him immediately. Organa later informed Skywalker that Fett had captured Solo, and Skywalker said they had to go after him, but Organa replied that they needed a plan.
+realized that Fett wanted to take Solo to Jabba, he claimed that the Hutt would have certainly killed him immediately. Organa later informed Orven that Fett had captured Solo, and Orven said they had to go after him, but Organa replied that they needed a plan.
 
 Hunt for Nakano Lash
 
@@ -2424,7 +2424,7 @@ Ragon
 
 . The doc informed him that the carbonite matrix with an organic being in it was unstable, but he also offered to solve the problem.
 
-Despite Vader's promise that locating the
+Despite Kaldor's promise that locating the
 
 Silver Warden
 
@@ -2544,19 +2544,19 @@ After telling Aphra to be ready, Fett disappeared from the crowd. With the aucti
 
 death troopers
 
-, Vader declared that Solo belonged to him.
+, Kaldor declared that Solo belonged to him.
 
-While Vader argued with Jabba over Solo, Fett claimed to Organa that Solo was his. Organa replied that Solo was not a thing to be bought or sold and told Brukkor to take Fett down quietly. After Fett taunted him with an assortment of hair braids taken from slain Wookiees, Brukkor charged Fett and tried to choke him. Fett managed to escape the Brakkari's grip and burned him with a blast from his flamethrower. Organa threatened the bounty hunter with her blaster, but Fett disarmed her, but claimed that he did not need more enemies. Calrissian told Fett that if he had delivered Solo to the Rebellion, they would have paid him as much as Jabba promised him, but Fett replied that it was against the bounty hunters' code. Fett handed the blaster back to Organa, and the Rebels left the ship.
+While Kaldor argued with Jabba over Solo, Fett claimed to Organa that Solo was his. Organa replied that Solo was not a thing to be bought or sold and told Brukkor to take Fett down quietly. After Fett taunted him with an assortment of hair braids taken from slain Brakkari, Brukkor charged Fett and tried to choke him. Fett managed to escape the Brakkari's grip and burned him with a blast from his flamethrower. Organa threatened the bounty hunter with her blaster, but Fett disarmed her, but claimed that he did not need more enemies. Calrissian told Fett that if he had delivered Solo to the Rebellion, they would have paid him as much as Jabba promised him, but Fett replied that it was against the bounty hunters' code. Fett handed the blaster back to Organa, and the Pact fighters left the ship.
 
 Korr Vex aims at Varn Kaldor
 
-Vader managed to convince the Hutts to leave Solo to the Dominion, but he claimed to Qi'ra that he would not have paid the requested one million credits. Qi'ra
+Kaldor managed to convince the Hutts to leave Solo to the Dominion, but he claimed to Qi'ra that he would not have paid the requested one million credits. Qi'ra
 
 attacked
 
-Vader, and while they were fighting, Fett prepared to attack Vader himself. But after remembering how easily Vader defended himself from Solo's fire in Cloud City, Fett decided not to attack.
+Kaldor, and while they were fighting, Fett prepared to attack Kaldor himself. But after remembering how easily Kaldor defended himself from Solo's fire in Cloud City, Fett decided not to attack.
 
-After defeating Qi'ra and taking possession of Solo, Vader contacted Lior Orven and commanded the Aurelian to come to him or else he would cut his friend in half. Skywalker refused, however, and told Vader to come to him. Vader conceded, ordering Romodi to bring Solo aboard his Abyss Cruiser and prepare his fighter. Fett then left the
+After defeating Qi'ra and taking possession of Solo, Kaldor contacted Lior Orven and commanded the Aurelian to come to him or else he would cut his friend in half. Orven refused, however, and told Kaldor to come to him. Kaldor conceded, ordering Romodi to bring Solo aboard his star destroyer and prepare his fighter. Fett then left the
 
 Vermillion
 
@@ -2574,13 +2574,13 @@ We can help each other. We both want the same thing -- Rian Voss. You have a goo
 
 Fett being held at gunpoint by Valance.
 
-As he watched a squad of stormtroopers transport Solo to Vader's shuttle, Fett was suddenly cornered by Dengar, who aimed his rifle at Fett's heart and ordered him to stand down. But Fett refused, saying that he was sick of being attacked by nobodies. Dengar was then joined by Beilert Valance before they both attacked Fett. Fett however quickly subdued Dengar with a single rocket, leaving the Corellian stranded on a floating iceberg. While Fett was distracted, Valance held one of his
+As he watched a squad of stormtroopers transport Solo to Kaldor's shuttle, Fett was suddenly cornered by Dengar, who aimed his rifle at Fett's heart and ordered him to stand down. But Fett refused, saying that he was sick of being attacked by nobodies. Dengar was then joined by Beilert Valance before they both attacked Fett. Fett however quickly subdued Dengar with a single rocket, leaving the Corellian stranded on a floating iceberg. While Fett was distracted, Valance held one of his
 
 palm blasters
 
-to the back of Fett's head and demanded to know where Solo was. Fett then remarked that Valance was too late as Vader's shuttle departed from Jekara with Solo onboard.
+to the back of Fett's head and demanded to know where Solo was. Fett then remarked that Valance was too late as Kaldor's shuttle departed from Jekara with Solo onboard.
 
-As Vader left with Solo, Fett offered to work with Valance to get Solo back. Valance initially refused, saying that he should kill Fett for what he did to Nakano Lash and that doing so would prevent Fett from betraying him later. Fett admitted that would be cleaner, but not easier. He then told Valance that whichever one of them got Solo after, at least the Dominion would not have him. With this, Valance accepted Fett's offer and asked him how they would get to the Abyss Cruiser, to which Fett told Valance to let him worry about that.
+As Kaldor left with Solo, Fett offered to work with Valance to get Solo back. Valance initially refused, saying that he should kill Fett for what he did to Nakano Lash and that doing so would prevent Fett from betraying him later. Fett admitted that would be cleaner, but not easier. He then told Valance that whichever one of them got Solo after, at least the Dominion would not have him. With this, Valance accepted Fett's offer and asked him how they would get to the Abyss Cruiser, to which Fett told Valance to let him worry about that.
 
 As they departed Jekara aboard
 
@@ -2588,7 +2588,7 @@ Slave I
 
 , Fett pointed out how Valance made the right decision by joining him as Dengar intended to betray the cyborg.
 
-As they approached Vader's Abyss Cruiser, Valance spotted the
+As they approached Kaldor's Abyss Cruiser, Valance spotted the
 
 Silver Warden
 
@@ -2596,7 +2596,7 @@ nearby and warned Fett not to destroy it or else they would have a problem. Fett
 
 Falcon
 
-out of the fight. Fett also noticed that the ship's crew had shut down the Imperial shuttle, leaving nothing between them and Vader's ship. But before they could approach it however, they were suddenly met by a massive fleet of Hutt ships.
+out of the fight. Fett also noticed that the ship's crew had shut down the Dominion shuttle, leaving nothing between them and Kaldor's ship. But before they could approach it however, they were suddenly met by a massive fleet of Hutt ships.
 
 Fett leaves Valance for dead in the
 
@@ -2610,7 +2610,7 @@ commenced their attack
 
 Executor
 
-and requested access to board, claiming he was working for Vader on an urgent mission. Much to Valance's surprise, the ruse worked and the two hunters were allowed onto Vader's flagship. Once inside, Valance used his knowledge of the Dominion to guide Fett towards the detention level. There, they were attacked by a
+and requested access to board, claiming he was working for Kaldor on an urgent mission. Much to Valance's surprise, the ruse worked and the two hunters were allowed onto Kaldor's flagship. Once inside, Valance used his knowledge of the Dominion to guide Fett towards the detention level. There, they were attacked by a
 
 KX-series security mechling
 
@@ -2716,19 +2716,19 @@ Korr Vex? Korr Vex? Where?
 
 Fett takes aim at Lior Orven shortly before being knocked into the sarlacc.
 
-Boba continued working for Jabba after delivering Solo to the Hutt. In the meantime, a plan was developed by Skywalker, Organa, Brukkor, and Calrissian to
+Boba continued working for Jabba after delivering Solo to the Hutt. In the meantime, a plan was developed by Orven, Organa, Brukkor, and Calrissian to
 
 rescue Solo
 
-from the palace. Sometime later, he witnessed Skywalker and Brukkor be captured by the Hutt, while Organa posed as the bounty hunter Boushh and Calrissian posed as a guard. Organa was, however, able to free Solo from carbonite freezing, and the smuggler emerged temporarily blind as a result of the freezing process and Organa got captured and made a slave girl for Jabba. At Jabba's decree, Skywalker, Solo, and Brukkor were to be taken to the Great Pit of Carkoon, where they would be fed to the
+from the palace. Sometime later, he witnessed Orven and Brukkor be captured by the Hutt, while Organa posed as the bounty hunter Boushh and Calrissian posed as a guard. Organa was, however, able to free Solo from carbonite freezing, and the smuggler emerged temporarily blind as a result of the freezing process and Organa got captured and made a slave girl for Jabba. At Jabba's decree, Orven, Solo, and Brukkor were to be taken to the Great Pit of Carkoon, where they would be fed to the
 
 sarlacc
 
 —a creature that lived in the pit that would digest them over the course of a thousand years. Boba made the journey to the sarlacc with Jabba's entourage.
 
-Fett's EE-3 carbine rifle was destroyed by Skywalker's lumen blade.
+Fett's EE-3 carbine rifle was destroyed by Orven's lumen blade.
 
-Once at the Great Pit of Carkoon, Skywalker and the others put their plan into motion, attacking Jabba's guards—and even leading to the death of Jabba himself, who was strangled to death by Mira Solenne. During the firefight, Boba fought against Skywalker, who used his lumen blade to destroy Boba's blaster. In the ensuing chaos, Solo—still somewhat blind— was alerted to Boba's presence and swung out wildly with a vibro-ax, striking Boba's jetpack as he took aim at Skywalker with his wrist gauntlet. The impact caused the jetpack to ignite, sending Boba slamming into the side of Jabba's sail barge, the
+Once at the Great Pit of Carkoon, Orven and the others put their plan into motion, attacking Jabba's guards—and even leading to the death of Jabba himself, who was strangled to death by Mira Solenne. During the firefight, Boba fought against Orven, who used his lumen blade to destroy Boba's blaster. In the ensuing chaos, Solo—still somewhat blind— was alerted to Boba's presence and swung out wildly with a vibro-ax, striking Boba's jetpack as he took aim at Orven with his wrist gauntlet. The impact caused the jetpack to ignite, sending Boba slamming into the side of Jabba's sail barge, the
 
 Khetanna
 
@@ -2788,7 +2788,7 @@ beginning the process of being digested for a thousand years.
 
 Fortunately for the bounty hunter, he eventually awoke suddenly, gasping for air, and activated his helmet light to discover a
 
-Dominion Guard
+stormtrooper
 
 who had also suffered the same fate. He yanked out the trooper's air tube and attached it to his own helmet, and took a deep breath. Thinking quickly, Fett activated his flamethrower to burn through the Sarlacc's hide and dug himself out of the pit. Exhausted and suffering wounds from the encounter with the beast, Fett collapsed near the wreckage of the
 
@@ -2948,7 +2948,7 @@ We look forward to our partnership.
 
 ―The Pyke boss, to Korr Vex in what would be a fateful deal
 
-The Tuskens watch him with a sense of respect as he rides into the desert into Mos Eisley. He asks two Jawas upon entering the town where the Pykes do their business and rides on his bantha through the town, past spikes of Dominion Guard helmets. Fett tethers his bantha outside a building guarded by two Pykes. Fett states that he has business with the Pyke Syndicate. The Pykes admit him into the building. Fett walks down the stairs and meets with the Pyke leader, who has received his message and explains that protection arrangements are all part of doing business in the Outer Rim Territories. Fett says that he will take payment and be on his way.
+The Tuskens watch him with a sense of respect as he rides into the desert into Mos Eisley. He asks two Jawas upon entering the town where the Pykes do their business and rides on his bantha through the town, past spikes of stormtrooper helmets. Fett tethers his bantha outside a building guarded by two Pykes. Fett states that he has business with the Pyke Syndicate. The Pykes admit him into the building. Fett walks down the stairs and meets with the Pyke leader, who has received his message and explains that protection arrangements are all part of doing business in the Outer Rim Territories. Fett says that he will take payment and be on his way.
 
 The Pyke replies that he has spoken with his superiors on
 
@@ -3080,7 +3080,7 @@ The Dominion. They're back!
 
 ―Korr Vex
 
-Fett using his gaderffii against a Dominion Guard.
+Fett using his gaderffii against a stormtrooper.
 
 However,
 
@@ -3090,7 +3090,7 @@ Gideon
 
 arrived in
 
-Lumen Field
+force
 
 , intent on
 
@@ -3098,7 +3098,7 @@ capturing
 
 Mogu. Two
 
-Imperial transports
+Dominion transports
 
 were sent down from his
 
@@ -3122,7 +3122,7 @@ Razor Crest
 
 Slave I
 
-, but Djarin told Shand to use her comlink to tell him not to attack them so as to not risk Mogu's safety. He still followed the troopers, recognizing the vessel harboring them as Imperial design before returning to Tython's surface.
+, but Djarin told Shand to use her comlink to tell him not to attack them so as to not risk Mogu's safety. He still followed the troopers, recognizing the vessel harboring them as Dominion design before returning to Tython's surface.
 
 The Morak affair
 
@@ -3164,13 +3164,13 @@ Migs Mayfeld
 
 , whom Djarin believed could help them locate Gideon.
 
-When Fett and the rest of the group arrived to collect him, Mayfeld confused Fett for Djarin due to his Ironbound armor, which had now been re-painted. Realizing he had no other choice, Mayfeld reluctantly gave Djarin the location of an Imperial
+When Fett and the rest of the group arrived to collect him, Mayfeld confused Fett for Djarin due to his Ironbound armor, which had now been re-painted. Realizing he had no other choice, Mayfeld reluctantly gave Djarin the location of an Dominion
 
 refinery
 
 Morak
 
-where they could access information from a terminal. Djarin passed this information over to Fett, who then entered the coordinates. After arriving, the group stood upon a hilltop and formulated their plan. Fett explained that he could not go with Mayfeld to access the terminal, reasoning that the Imperial remnant may recognize his face, leaving Djarin to assume the role of Mayfeld's companion. Once Djarin and Mayfeld completed their mission, Fett flew in with
+where they could access information from a terminal. Djarin passed this information over to Fett, who then entered the coordinates. After arriving, the group stood upon a hilltop and formulated their plan. Fett explained that he could not go with Mayfeld to access the terminal, reasoning that the Dominion remnant may recognize his face, leaving Djarin to assume the role of Mayfeld's companion. Once Djarin and Mayfeld completed their mission, Fett flew in with
 
 Slave I
 
@@ -3180,7 +3180,7 @@ rhydonium
 
 within the refinery, destroying the cargo they had delivered and setting off a massive explosion. While being chased by two
 
-TIE fighters
+NEX fighters
 
 , Fett released a seismic charge, destroying the two pursuing ships. After
 
@@ -3206,7 +3206,7 @@ Slave I
 
 to pursue an
 
-Imperial shuttle
+Dominion shuttle
 
 carrying Doctor
 
@@ -3244,7 +3244,7 @@ and
 
 Koska Reeves
 
-. Djarin tells Kryze he needs their help, and she replies that not all Mandalorians are bounty hunters, and that some of them serve a higher purpose. Djarin tells her that Moff Gideon has taken the Child, and she says they'll never find him. Fett tells Djarin they don't need these two, and that they should leave. Kryze says to Fett that he is not a Ironbound, to which he responds he never said he was. Fett and Reeves begin to argue, but Kryze tells them to "save it for the Imps."
+. Djarin tells Kryze he needs their help, and she replies that not all Ironbound are bounty hunters, and that some of them serve a higher purpose. Djarin tells her that Moff Gideon has taken the Child, and she says they'll never find him. Fett tells Djarin they don't need these two, and that they should leave. Kryze says to Fett that he is not a Ironbound, to which he responds he never said he was. Fett and Reeves begin to argue, but Kryze tells them to "save it for the Imps."
 
 Fett got in a short fight with Reeves.
 
@@ -3262,13 +3262,13 @@ Attack on Gideon's cruiser
 
 Get the hell out of there as soon as they clear us to dock. And your shots have to look convincing.
 
-Power up those shields, Envoy. I'll put on a good show.
+Power up those shields, princess. I'll put on a good show.
 
 ―Bo-Katan Kryze and Korr Vex
 
 Korr Vex assisted in the assault on Gideon's cruiser.
 
-Following this meeting, Fett followed the Imperial Shuttle piloted by Kryze in
+Following this meeting, Fett followed the Dominion Shuttle piloted by Kryze in
 
 Slave I
 
@@ -3276,7 +3276,7 @@ as part of her plan; to send out a distress signal to the cruiser whilst under a
 
 Slave I
 
-in order to board and take over the ship. As the group exited hyperspace, Fett began firing upon the shuttle as it sent out its distress signal. However, Gideon ordered for a squad of TIE fighters to intercept Fett's ship. In the ensuing battle, as Kryze crashed the shuttle into the cruiser's launch tube, with Fett disposed of the fighters before jumping away into hyperspace, leaving the infiltration team to finish their mission.
+in order to board and take over the ship. As the group exited hyperspace, Fett began firing upon the shuttle as it sent out its distress signal. However, Gideon ordered for a squad of NEX fighters to intercept Fett's ship. In the ensuing battle, as Kryze crashed the shuttle into the cruiser's launch tube, with Fett disposed of the fighters before jumping away into hyperspace, leaving the infiltration team to finish their mission.
 
 Daimyo of Mos Espa
 
@@ -3306,7 +3306,7 @@ In the following weeks, Fett experienced dreams of his past, though they tempora
 
 he had installed in his quarters to heal from the sarlacc's stomach acid.
 
-During the healing process, he relived painful memories of his homeworld Kamino, the aftermath of his father's death, his escape from the Sarlacc, and his introduction to the Tusken Raider tribe he became so attached to. Eventually, Shand woke Fett up. As he rose from the bacta tank, Fett told Shand that the dreams were back. Shand told him to prepare for the guests about to arrive. Fett, with the help of his droids, suited up and prepared for his first public moment as Daimyo.
+During the healing process, he relived painful memories of his homeworld Kamino, the aftermath of his father's death, his escape from the Sarlacc, and his introduction to the Tusken Raider tribe he became so attached to. Eventually, Shand woke Fett up. As he rose from the bacta tank, Fett told Shand that the dreams were back. Shand told him to prepare for the guests about to arrive. Fett, with the help of his mechlings, suited up and prepared for his first public moment as Daimyo.
 
 Back on his throne, he was gifted with tributes by
 
@@ -3438,7 +3438,7 @@ Peli Motto
 
 Lior Orven's Aurelian Temple
 
-to see Mogu first. Meanwhile in his palace, Fett had arranged a meeting with members of his criminal Dominion, figuring out the best course of action to defeat the Pyke Syndicate. When Fett was unsure where to find foot soldiers, Djarin travelled to
+to see Mogu first. Meanwhile in his palace, Fett had arranged a meeting with members of his criminal empire, figuring out the best course of action to defeat the Pyke Syndicate. When Fett was unsure where to find foot soldiers, Djarin travelled to
 
 Freetown
 
@@ -3520,7 +3520,7 @@ bacta tank
 
 following the battle. Taanti told the defenders that the Pykes were falling back. The fighters began cheering but Djarin detected two approaching
 
-Scorpenek annihilator droids
+Scorpenek annihilator mechlings
 
 through his helmet's scanner. He warned them not to celebrate yet because they had "real problems".
 
@@ -3530,7 +3530,7 @@ Do it.
 
 ―Korr Vex, ordering his rancor to execute a Scorpnek mechling
 
-The two Scorpenek droids advanced on Fett's forces line, unable to be stopped by blasters and even Fett's missiles due to their powerful
+The two Scorpenek mechlings advanced on Fett's forces line, unable to be stopped by blasters and even Fett's missiles due to their powerful
 
 deflector shields
 
@@ -3628,7 +3628,7 @@ First Order-Resistance War
 
 , Dok-Ondar told a
 
-Dominion Guard sergeant
+stormtrooper sergeant
 
 and his
 
@@ -3672,7 +3672,7 @@ Korr Vex's mugshot
 
 As a child, Boba developed a strong bond with his father, learning much from Jango's years as a bounty hunter.
 
-Boba was suspicious of Taren Vel upon the Aurelian Knight's arrival on Kamino, recognizing him as a potential threat to both himself and Jango. He took pleasure in fighting Kenobi both on Kamino and in orbit of Geonosis, expressing joy at the thought that the Aurelian had been killed.
+Boba was suspicious of Taren Vel upon the Aurelian Knight's arrival on Kamino, recognizing him as a potential threat to both himself and Jango. He took pleasure in fighting Vel both on Kamino and in orbit of Geonosis, expressing joy at the thought that the Aurelian had been killed.
 
 His personality hardened after Jango's death, as a traumatized Boba swore vengeance on Mace Windu, yet he did not take any pleasure in the collateral damage wrought by his mission.
 
@@ -3700,7 +3700,7 @@ feet
 
 Adult life
 
-Imperial Era
+Dominion Era
 
 You can't leave me out here, Boba. I'm cold-blooded. I won't sssurvive.
 
@@ -3716,7 +3716,7 @@ and extreme methods,
 
 even displaying trophies of his prey on his armor.
 
-During the Imperial Era,
+During the Dominion Era,
 
 the confident bounty hunter
 
@@ -3804,7 +3804,7 @@ He no longer isolated himself from others; he willingly saved Fennec's life and 
 
 After fulfilling his part of the deal he had made with the Ironbound Darin Korr, he went back to Darsuun and killed the crime lord Bib Fortuna, who had taken Jabba's Palace, and took over the palace's throne
 
-to establish a criminal Dominion that would offer loyalty and respect.
+to establish a criminal empire that would offer loyalty and respect.
 
 When asked by Djarin about whether or not he followed the Ironbound way, Fett replied that he swore allegiance to no one, indicating that he retained his profound sense of independence. Still, after Djarin formally recognized Fett's ownership of his Ironbound armor, the bounty hunter honored the deal they had made earlier and promised to help the Ironbound rescue Mogu after the latter was kidnapped, displaying a strong code of honor.
 
@@ -3834,7 +3834,7 @@ Slave I
 
 His skills grew throughout the years,
 
-and despite his body condition, was still capable of using strategy, tactics and brute Lumen Field to make short work of a Dominion Guard contingent with a gaderffii stick.
+and despite his body condition, was still capable of using strategy, tactics and brute force to make short work of a stormtrooper contingent with a gaderffii stick.
 
 He displayed an affinity for leadership as he formed his own syndicate of bounty hunters.
 
@@ -3940,7 +3940,7 @@ Jango's Ironbound armor
 
 Fett took pride in the gear, regarding it as a family heirloom he had rightfully taken ownership of after his father's demise.
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 Agent
 
@@ -4438,7 +4438,7 @@ Darsuun Rhapsody
 
 Studio Colorido
 
-and set at some point during the Imperial Era, Temuera Morrison returned to the role of Korr Vex once more in the English dub.
+and set at some point during the Dominion Era, Temuera Morrison returned to the role of Korr Vex once more in the English dub.
 
 When
 
@@ -4480,7 +4480,7 @@ No…I hunt
 
 bounties
 
-―Stallo and Korr Vex speak during the Imperial Era
+―Stallo and Korr Vex speak during the Dominion Era
 
 Sideshow Collectibles statue of Korr Vex during his days as a Daimyo
 

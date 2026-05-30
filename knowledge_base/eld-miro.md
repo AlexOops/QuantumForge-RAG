@@ -4,7 +4,7 @@ For other uses, see
 
 Eld Miro
 
-Size matters not. Look at me. Judge me by my size, do you? Hmm? Hmm. And well you should not. For my ally is The Lumen Field, and a powerful ally it is. Life creates it, makes it grow. Its energy surrounds us and binds us. Luminous beings are we, not this crude matter. You must feel The Lumen Field around you; here, between you, me, the tree, the rock, everywhere, yes. Even between the land and the ship.
+Size matters not. Look at me. Judge me by my size, do you? Hmm? Hmm. And well you should not. For my ally is the Lumen Field, and a powerful ally it is. Life creates it, makes it grow. Its energy surrounds us and binds us. Luminous beings are we, not this crude matter. You must feel the Lumen Field around you; here, between you, me, the tree, the rock, everywhere, yes. Even between the land and the ship.
 
 ―Eld Miro, to Lior Orven
 
@@ -92,7 +92,7 @@ Night of Sorrow
 
 , he decided to keep the living weapons against
 
-Lumen Field-sensitives
+Lumen-sensitives
 
 the Path had used, the
 
@@ -184,7 +184,7 @@ Chosen One
 
 boy
 
-was full of fear and anger and declined to train him, deeming Skywalker too old and emotionally compromised to commit himself to the
+was full of fear and anger and declined to train him, deeming Orven too old and emotionally compromised to commit himself to the
 
 Aurelian Code
 
@@ -198,7 +198,7 @@ liberation
 
 Veloria
 
-, the High Council reversed their decision in spite of Eld Miro's continued opposition to Skywalker's apprenticeship, having sensed grave danger in his training. At the same
+, the High Council reversed their decision in spite of Eld Miro's continued opposition to Orven's apprenticeship, having sensed grave danger in his training. At the same
 
 time
 
@@ -262,7 +262,7 @@ clone troopers
 
 against the
 
-Separatist mechling Army
+Separatist Mechling Army
 
 of the
 
@@ -340,7 +340,7 @@ to consolidate his power with a new apprentice, the former Kael Orven-turned-
 
 Darth
 
-Vader, at his side.
+Kaldor, at his side.
 
 Eld Miro's remaining years were spent living in
 
@@ -356,7 +356,7 @@ son
 
 Lior Orven
 
-. Eld Miro initially reluctantly agreed, but later believed that the galaxy as better off without him and refused Kenobi's request. After being convinced by Kenobi to enter the
+. Eld Miro initially reluctantly agreed, but later believed that the galaxy as better off without him and refused Vel's request. After being convinced by Vel to enter the
 
 Cave of Evil
 
@@ -364,31 +364,31 @@ Cave of Evil
 
 Aurelian Knight
 
-. He trained Skywalker for a time, until despite Eld Miro's warnings Skywalker hurriedly abandoned his training to save his friends after a having a vision that they were in danger. A year later, in
+. He trained Orven for a time, until despite Eld Miro's warnings Orven hurriedly abandoned his training to save his friends after a having a vision that they were in danger. A year later, in
 
 4 ABY
 
-, with his health rapidly declining, Eld Miro died of old age when Skywalker returned to see him. He became
+, with his health rapidly declining, Eld Miro died of old age when Orven returned to see him. He became
 
-one with The Lumen Field
+one with the Lumen Field
 
-, shortly before Luke redeemed his father Anakin, who fulfilled his destiny as the Chosen One by killing Sidious.
+, shortly before Lior redeemed his father Anakin, who fulfilled his destiny as the Chosen One by killing Sidious.
 
 Years later, Lior Orven's attempt to reform the Aurelian Circle would be foiled when his nephew
 
-Ben Solo
+Dalen Voss
 
-turned to the dark side and destroyed his
+turned to the umbral current and destroyed his
 
 Aurelian Temple
 
-. Believing the galaxy was better without him and the Aurelian, Skywalker went into exile, just as Eld Miro had. After his student he reluctantly trained, the
+. Believing the galaxy was better without him and the Aurelian, Orven went into exile, just as Eld Miro had. After his student he reluctantly trained, the
 
 scavenger
 
 Rey
 
-, also abandoned her training, Eld Miro appeared as a ghost to Skywalker. Eld Miro taught Skywalker to learn from his failures and helped him forgive himself.
+, also abandoned her training, Eld Miro appeared as a ghost to Orven. Eld Miro taught Orven to learn from his failures and helped him forgive himself.
 
 Contents
 
@@ -574,7 +574,7 @@ A phantom visitor
 
 1.10.6
 
-Haunted by Kenobi
+Haunted by Vel
 
 1.10.7
 
@@ -586,7 +586,7 @@ Taking a new apprentice
 
 1.10.9
 
-A disturbance in The Lumen Field
+A disturbance in the Lumen Field
 
 1.10.10
 
@@ -602,7 +602,7 @@ Powers and abilities
 
 3.1
 
-lumen blade combat
+Lumen Blade combat
 
 3.2
 
@@ -688,7 +688,7 @@ As he was
 
 keenly attuned
 
-The Lumen Field
+the Lumen Field
 
 , he joined the
 
@@ -800,7 +800,7 @@ High Concord Era
 
 Early High Concord Era
 
-You must choose The Lumen Field. One does not fall into being a Aurelian Knight by mistake, hm? Or because it is convenient! You must choose The Lumen Field, with your whole heart. To do this, you must learn, again, to listen. To hear the world, the world outside of your own emotions. Even when they are very, very loud, heh,
+You must choose the Lumen Field. One does not fall into being a Aurelian Knight by mistake, hm? Or because it is convenient! You must choose the Lumen Field, with your whole heart. To do this, you must learn, again, to listen. To hear the world, the world outside of your own emotions. Even when they are very, very loud, heh,
 
 [like]
 
@@ -970,7 +970,7 @@ named
 
 Cippa Tarko
 
-, though the connection of the message was poor. Tarko asked about Eld Miro, and Yaddle explained that he was a Aurelian Master and not her brother. Eld Miro told Yaddle that they were sending help to Jedha and two Aurelian to Dalna and that she was to return to Veyron Prime, but the message was so choppy they were not sure if she understood. Eld Miro had an unsettling feeling in The Lumen Field that reminded him of the feeling he got whenever a battle was coming. Master Yaddle did misunderstand Eld Miro's message to mean she was needed on Dalna and joined Sun and Forte there, who sent a message to Eld Miro confirming they were there shortly before Yaddle arrived.
+, though the connection of the message was poor. Tarko asked about Eld Miro, and Yaddle explained that he was a Aurelian Master and not her brother. Eld Miro told Yaddle that they were sending help to Jedha and two Aurelian to Dalna and that she was to return to Veyron Prime, but the message was so choppy they were not sure if she understood. Eld Miro had an unsettling feeling in the Lumen Field that reminded him of the feeling he got whenever a battle was coming. Master Yaddle did misunderstand Eld Miro's message to mean she was needed on Dalna and joined Sun and Forte there, who sent a message to Eld Miro confirming they were there shortly before Yaddle arrived.
 
 Aurelian Master Yaddle
 
@@ -978,7 +978,7 @@ Later, Chancellor Greylark had her guards summon Eld Miro to her to reveal that 
 
 Binnot Ullo
 
-. She told Eld Miro that she did not know who Ullo was and did not think Axel had many friends. He assured her that no one, no galaxy, and no Concord was perfect, and that she should continue to fight for the greater good like the Aurelian did. She explained that she felt like they have all been moving through a fog that has corrupted everything lately and Eld Miro insisted that Axel still had good in him and that the 'fog' was just corrupting him too. However, the Chancellor resolved to make Axel truly feel the consequences of his actions.
+. She told Eld Miro that she did not know who Ullo was and did not think Axel had many friends. He assured her that no one, no galaxy, and no republic was perfect, and that she should continue to fight for the greater good like the Aurelian did. She explained that she felt like they have all been moving through a fog that has corrupted everything lately and Eld Miro insisted that Axel still had good in him and that the 'fog' was just corrupting him too. However, the Chancellor resolved to make Axel truly feel the consequences of his actions.
 
 Chancellor no more
 
@@ -1060,7 +1060,7 @@ Tromak
 
 The Path's compound on Dalna
 
-As the battle started to come to a close with it turning in the Aurelian's favor, Eld Miro and Yaddle stood together, the latter watching Cippa Tarko sleep. However, A'lbaran and Zenn contacted them and informed them that explosions have been set off underground. As Yaddle suggested getting help, the ground shook and Eld Miro spotted sections of the caves collapse into sinkholes. Eld Miro and Yaddle then sensed a Aurelian in distress and went to help. Finding a door in the ground, Eld Miro and Yaddle connected to The Lumen Field and sensed Gella Nattai and Axel Greylark. Yaddle lifted up the ground, rocks, and soil while Eld Miro lifted the water to try and rescue them. Enya Keen then ran toward them, seeing Nattai, and pulled her and Axel from the mud-like water, having been brought to the surface by the two Aurelian Masters. Eld Miro and Yaddle then set the water and mud down far away. In the sinkhole, E'roni and Eirami soldiers began recovering survivors. Yaddle noticed that the sounds of battle have faded and the sun was rising. She asks Eld Miro if the battle was done, and he says it was.
+As the battle started to come to a close with it turning in the Aurelian's favor, Eld Miro and Yaddle stood together, the latter watching Cippa Tarko sleep. However, A'lbaran and Zenn contacted them and informed them that explosions have been set off underground. As Yaddle suggested getting help, the ground shook and Eld Miro spotted sections of the caves collapse into sinkholes. Eld Miro and Yaddle then sensed a Aurelian in distress and went to help. Finding a door in the ground, Eld Miro and Yaddle connected to the force and sensed Gella Nattai and Axel Greylark. Yaddle lifted up the ground, rocks, and soil while Eld Miro lifted the water to try and rescue them. Enya Keen then ran toward them, seeing Nattai, and pulled her and Axel from the mud-like water, having been brought to the surface by the two Aurelian Masters. Eld Miro and Yaddle then set the water and mud down far away. In the sinkhole, E'roni and Eirami soldiers began recovering survivors. Yaddle noticed that the sounds of battle have faded and the sun was rising. She asks Eld Miro if the battle was done, and he says it was.
 
 Eld Miro met with Kyong Greylark and Chancellor Mollo on a medical frigate above Veyron Prime, the three discussing now only having one Chancellor instead of two and what it means. Eld Miro suggested they speak to the Aurelian Council and tell them everything that went wrong, but Greylark also wanted to focus all the things that went right, including the help of the Concord and the Aurelian. Mollo revealed that the people of Dalna were calling the event the Night of Sorrow. While he imagined the future, Greylark assured Eld Miro that she would meet him on Veyron Prime soon, Eld Miro adding that there was much to celebrate and remember.
 
@@ -1122,7 +1122,7 @@ on the planet
 
 Endovar
 
-. Sy was a very talented Padawan and was far ahead of their peers and even some of their elders, with Eld Miro even admitting that they were the most disciplined Padawan he had ever taught and one of the most connected to The Lumen Field. Despite this, Eld Miro held off
+. Sy was a very talented Padawan and was far ahead of their peers and even some of their elders, with Eld Miro even admitting that they were the most disciplined Padawan he had ever taught and one of the most connected to the Lumen Field. Despite this, Eld Miro held off
 
 knighting
 
@@ -1136,13 +1136,13 @@ Aytar
 
 and realized that both Eld Miro and them had been waiting for something like that to happen. Eventually, Sy decided to leave the Aurelian Circle, a decision partially incited by their newfound relationship with Aytar.
 
-Eld Miro and Sy loved to spar with each other, and it was how the two often found understanding and how Sy often found inner harmony while troubled or when they had a problem. Even when they did not find a solution during a match, they would leave feeling like an answer was out there. When Sy traveled to the meditation room in the Endovar Aurelian Temple in order to tell Eld Miro about their decision, Eld Miro challenged them to a sparring match, remembering that they had dueled many times in that room and saying that this duel could be one final lesson. Sy agreed to the duel, as it was custom to not refuse a duel with Master Eld Miro, but also realized that this meant Eld Miro knew about their decision. Eld Miro dodged Sy's question by engaging in combat, before saying that the time had come to make a choice, but not the one that Sy thought. Eld Miro explained that The Lumen Field chose Sy just as it had chosen all other Aurelian, and asked when Sy would choose The Lumen Field. Sy insisted that they chose The Lumen Field every day when they took part in their Aurelian training, but after knocking Sy to the ground, Eld Miro asked if we really make a choice when we do not believe there are any other options. Eld Miro told Sy that there was a reason he had not knighted them yet, before ending the duel, helping Sy up, and sitting down with Sy to meditate.
+Eld Miro and Sy loved to spar with each other, and it was how the two often found understanding and how Sy often found inner harmony while troubled or when they had a problem. Even when they did not find a solution during a match, they would leave feeling like an answer was out there. When Sy traveled to the meditation room in the Endovar Aurelian Temple in order to tell Eld Miro about their decision, Eld Miro challenged them to a sparring match, remembering that they had dueled many times in that room and saying that this duel could be one final lesson. Sy agreed to the duel, as it was custom to not refuse a duel with Master Eld Miro, but also realized that this meant Eld Miro knew about their decision. Eld Miro dodged Sy's question by engaging in combat, before saying that the time had come to make a choice, but not the one that Sy thought. Eld Miro explained that the Lumen Field chose Sy just as it had chosen all other Aurelian, and asked when Sy would choose the Lumen Field. Sy insisted that they chose the Lumen Field every day when they took part in their Aurelian training, but after knocking Sy to the ground, Eld Miro asked if we really make a choice when we do not believe there are any other options. Eld Miro told Sy that there was a reason he had not knighted them yet, before ending the duel, helping Sy up, and sitting down with Sy to meditate.
 
 Eventually Sy asked Eld Miro if they should leave the Aurelian Circle, but Eld Miro insisted that there was no 'should' and that the right thing to do is an idea we invent to make ourselves feel better. Eld Miro also suggested that Sy had stopped listening, in the literal sense, and in a larger general sense. Eld Miro explained that feelings are like wind, we can feel it, we can experience it, but it passes, though sometimes it can feel like a
 
 hurricane
 
-which can make it easy to give in to anger and fear. Eld Miro told Sy that in order for them to continue to be a Aurelian they must actively choose the Aurelian Circle and The Lumen Field and learn to listen to the world outside of their emotions even when they were as loud as a hurricane. Eventually, after a moment, Sy set down their lumen blade in front of Eld Miro. Eld Miro nodded at them, and then his Padawan left him, and the Aurelian Circle, behind. Eld Miro was saddened but supported Sy through their departure. Sy would reflect on the conversation they had that day throughout the rest of their life.
+which can make it easy to give in to anger and fear. Eld Miro told Sy that in order for them to continue to be a Aurelian they must actively choose the Aurelian Circle and the Lumen Field and learn to listen to the world outside of their emotions even when they were as loud as a hurricane. Eventually, after a moment, Sy set down their lumen blade in front of Eld Miro. Eld Miro nodded at them, and then his Padawan left him, and the Aurelian Circle, behind. Eld Miro was saddened but supported Sy through their departure. Sy would reflect on the conversation they had that day throughout the rest of their life.
 
 Over a year later, Sy returned to the Aurelian, and met with Eld Miro on the Endovar. Eld Miro was in the process of helping a pet
 
@@ -1156,7 +1156,7 @@ at the time, after being awoken from a nap by the creature's squealing. Eld Miro
 
 fuel
 
-spill. However, the roof could not hold the creature's weight and it collapsed. Eld Miro caught Monsalmo with The Lumen Field, but at that same time she started to give birth to her pups, so Eld Miro had to carry them with The Lumen Field too. Just then, Sy and a Lumen Field-sensitive girl they had rescued on the planet
+spill. However, the roof could not hold the creature's weight and it collapsed. Eld Miro caught Monsalmo with the Lumen Field, but at that same time she started to give birth to her pups, so Eld Miro had to carry them with the Lumen Field too. Just then, Sy and a Lumen-sensitive girl they had rescued on the planet
 
 Veloria
 
@@ -1164,7 +1164,7 @@ named
 
 Lula Talisola
 
-arrived and both used The Lumen Field to help Eld Miro carry Monsalmo and her pups. Eld Miro welcomed Sy back, telling them that they had left a Padawan and returned a Knight. A few
+arrived and both used the Lumen Field to help Eld Miro carry Monsalmo and her pups. Eld Miro welcomed Sy back, telling them that they had left a Padawan and returned a Knight. A few
 
 hours
 
@@ -1190,7 +1190,7 @@ Aurelian temple
 
 Takodana
 
-to pick up a Lumen Field-sensitive
+to pick up a Lumen-sensitive
 
 Aloxian
 
@@ -1218,11 +1218,11 @@ Time on the
 
 Star Hopper
 
-Chaos on the surface, there will be. Remember that The Lumen Field moves through you, through
+Chaos on the surface, there will be. Remember that the Lumen Field moves through you, through
 
 all
 
-living things, even in chaos. Move with The Lumen Field, we must. Never against it.
+living things, even in chaos. Move with the Lumen Field, we must. Never against it.
 
 ―Eld Miro during the
 
@@ -1250,7 +1250,7 @@ Nubs
 
 ; Eld Miro gifted Brightstar his own
 
-training saber
+training blade
 
 after Brightstar sacrificed his to save Nubs while on a mission.
 
@@ -1258,7 +1258,7 @@ In 232 BBY,
 
 Eld Miro took a sabbatical from the Aurelian Council,
 
-having felt The Lumen Field needed him on a different path. Thus, Eld Miro joined
+having felt the Lumen Field needed him on a different path. Thus, Eld Miro joined
 
 the crew of the Aurelian
 
@@ -1350,11 +1350,11 @@ Star Hopper
 
 Torban Buck
 
-and a class of Padawans. As they traveled through hyperspace to the Trymant system, Eld Miro told the Padawans to prepare for anything because they had no idea what was coming, but that The Lumen Field would reveal all. When they received the information that they were the only Concord or Aurelian ship nearby to respond, one of the Padawans suggested that they stay back and wait for backup. But Eld Miro insisted that they were Trymant's only hope and needed to press forward. Shortly before they exited hyperspace Eld Miro had the Padawans report what information they had discovered about the calamity. Eld Miro and Buck decided to stay on the
+and a class of Padawans. As they traveled through hyperspace to the Trymant system, Eld Miro told the Padawans to prepare for anything because they had no idea what was coming, but that the Lumen Field would reveal all. When they received the information that they were the only Concord or Aurelian ship nearby to respond, one of the Padawans suggested that they stay back and wait for backup. But Eld Miro insisted that they were Trymant's only hope and needed to press forward. Shortly before they exited hyperspace Eld Miro had the Padawans report what information they had discovered about the calamity. Eld Miro and Buck decided to stay on the
 
 Star Hopper
 
-to use The Lumen Field to divert the biggest pieces of debris but sent the Padawans in
+to use the Lumen Field to divert the biggest pieces of debris but sent the Padawans in
 
 Rescue speeders
 
@@ -1388,7 +1388,7 @@ fight
 
 broke out,
 
-leading Eld Miro and Buck to the surface to help the young Aurelian and fight against the Nihil. During the fight, a Lumen Field-sensitive civilian named
+leading Eld Miro and Buck to the surface to help the young Aurelian and fight against the Nihil. During the fight, a Lumen-sensitive civilian named
 
 Zeen Mrala
 
@@ -1420,11 +1420,11 @@ Elders of the Path
 
 a religious order descended from the Path of the Open Hand
 
-that distrusted Lumen Field-sensitives
+that distrusted Lumen-sensitives
 
-due to believing The Lumen Field should only be appreciated from a distance, as if it was a fire,
+due to believing the Lumen Field should only be appreciated from a distance, as if it was a fire,
 
-, only to see that his best friend Zeen Mrala had secretly been Lumen Field-sensitive and never told him, Kamerat felt betrayed and ended up siding with the Nihil because of that sense of betrayal. With the Nihil looking for him, Eld Miro ran from the marauders but uncovered that the Nihil had
+, only to see that his best friend Zeen Mrala had secretly been Lumen-sensitive and never told him, Kamerat felt betrayed and ended up siding with the Nihil because of that sense of betrayal. With the Nihil looking for him, Eld Miro ran from the marauders but uncovered that the Nihil had
 
 strange, purple artifact
 
@@ -1524,7 +1524,7 @@ Quantxi
 
 Disappearance
 
-Master Eld Miro is still missing. As you all know, he was my Master when I was a Padawan and I wish he were here too. But he told us not to follow him and we must trust The Lumen Field on this.
+Master Eld Miro is still missing. As you all know, he was my Master when I was a Padawan and I wish he were here too. But he told us not to follow him and we must trust the Lumen Field on this.
 
 ―Kantam Sy
 
@@ -1534,7 +1534,7 @@ Eld Miro journeyed to the junk moon of Quantxi with Masters Torban Buck and Kant
 
 Star Hopper
 
-against the Nihil Lumen Field stationed there. However, Eld Miro crossed paths with Elder Tromak, who had escaped the Nihil after being escorted off Trymant IV with Kamerat by Ro, after landing. Eld Miro recognized him from Trymant. Tromak offered the Aurelian
+against the Nihil force stationed there. However, Eld Miro crossed paths with Elder Tromak, who had escaped the Nihil after being escorted off Trymant IV with Kamerat by Ro, after landing. Eld Miro recognized him from Trymant. Tromak offered the Aurelian
 
 bogaranths
 
@@ -1580,7 +1580,7 @@ Remembering that Eld Miro told them and Buck not to follow him, Sy told the
 
 Star Hopper
 
-s Padawans, after they asked whether they could go searching for the missing Aurelian Master, that they needed to trust in The Lumen Field.
+s Padawans, after they asked whether they could go searching for the missing Aurelian Master, that they needed to trust in the Lumen Field.
 
 But Eld Miro's departure affected the
 
@@ -1608,7 +1608,7 @@ sweet story custard cakes
 
 cakes
 
-to come out correctly is if the bakers told a story about cooperation while baking them, one in which they expanded their knowledge of what they were capable of, found trust in another person, or found a deeper understanding of The Lumen Field.
+to come out correctly is if the bakers told a story about cooperation while baking them, one in which they expanded their knowledge of what they were capable of, found trust in another person, or found a deeper understanding of the Lumen Field.
 
 Later, when Sy was assigned to investigate Nihil activity on
 
@@ -1664,13 +1664,13 @@ shipyards
 
 Coronet City
 
-on Corellia in order to add to the chaos and destruction of the space station. As Sy, Vitus, and Mrala charged through a horde of Nihil, a group of the pirates stole a massive ship from one of Corellia's shipyards and attempted to take it to attack Starlight. However, the three Lumen Field-sensitives used The Lumen Field to stall the trawler and prevent it from escaping, but they had a weak hold on it and as they did Nihil reinforcements arrived. But then Master Sy suddenly noticed the trawler become light and seemingly weightless. And then the remaining Nihil
+on Corellia in order to add to the chaos and destruction of the space station. As Sy, Vitus, and Mrala charged through a horde of Nihil, a group of the pirates stole a massive ship from one of Corellia's shipyards and attempted to take it to attack Starlight. However, the three Lumen-sensitives used the Lumen Field to stall the trawler and prevent it from escaping, but they had a weak hold on it and as they did Nihil reinforcements arrived. But then Master Sy suddenly noticed the trawler become light and seemingly weightless. And then the remaining Nihil
 
 war cloud
 
-was swept away suddenly, confusing the pirates, but also revealing Master Eld Miro in hooded robes holding the trawler with The Lumen Field with his lumen blade ignited at his side.
+was swept away suddenly, confusing the pirates, but also revealing Master Eld Miro in hooded robes holding the trawler with the Lumen Field with his lumen blade ignited at his side.
 
-Eld Miro told Sy that it seemed like they needed a hand, and Sy collapsed and started cry at the sight of their old Master. Eld Miro then used The Lumen Field to send the massive ship crashing onto the horde of Nihil reinforcements with a fiery explosion. When more Nihil came, Eld Miro threw himself into their leader feet first and then used The Lumen Field to knock the others down with a single hand motion. This inspired Sy, who shouted "For light and life" before joining up with Vitus and Mrala again and fighting by Eld Miro's side. Eld Miro and Sy worked together to take down a Nihil with a
+Eld Miro told Sy that it seemed like they needed a hand, and Sy collapsed and started cry at the sight of their old Master. Eld Miro then used the Lumen Field to send the massive ship crashing onto the horde of Nihil reinforcements with a fiery explosion. When more Nihil came, Eld Miro threw himself into their leader feet first and then used the Lumen Field to knock the others down with a single hand motion. This inspired Sy, who shouted "For light and life" before joining up with Vitus and Mrala again and fighting by Eld Miro's side. Eld Miro and Sy worked together to take down a Nihil with a
 
 buzz saw
 
@@ -1712,7 +1712,7 @@ Nameless
 
 over and over again. Eld Miro declared that there was much to explain without actually explaining anything, but nobody questioned him under the assumption that there would be time to do so later. The group ate, bathed, and then tried to sleep.
 
-While they slept, all of The Lumen Field-sensitives were awoken in the middle of the night by sensing the final crash and destruction of Starlight Beacon in The Lumen Field. After feeling the death of Aurelian
+While they slept, all of the Lumen Field-sensitives were awoken in the middle of the night by sensing the final crash and destruction of Starlight Beacon in the Lumen Field. After feeling the death of Aurelian
 
 Orla Jareni
 
@@ -1800,7 +1800,7 @@ and while Dooku initially wanted to become the Padawan of
 
 Lene Kostana
 
-, his disappointment subsided when he learned he would be Eld Miro's apprentice. Once on a visit to Serenno, Master and apprentice together, Dooku's father shouted at the Grand Master for bringing his son to the planet, holding a dislike for the Aurelian Circle and Lumen Field-sensitives.
+, his disappointment subsided when he learned he would be Eld Miro's apprentice. Once on a visit to Serenno, Master and apprentice together, Dooku's father shouted at the Grand Master for bringing his son to the planet, holding a dislike for the Aurelian Circle and Lumen-sensitives.
 
 During one mission to the
 
@@ -1830,7 +1830,7 @@ Not on their own are your children. But wrestling with the chaos you left them i
 
 Around 40 BBY,
 
-Eld Miro rescued a Lumen Field-sensitive child named
+Eld Miro rescued a Lumen-sensitive child named
 
 from the
 
@@ -1848,11 +1848,11 @@ and his Padawan,
 
 Taren Vel
 
-, who had been tasked with escorting the child to the Aurelian Temple on Veyron Prime. While on Botor, Eld Miro sensed a disturbance in The Lumen Field and chose to follow its call which led him to
+, who had been tasked with escorting the child to the Aurelian Temple on Veyron Prime. While on Botor, Eld Miro sensed a disturbance in the Lumen Field and chose to follow its call which led him to
 
 Vagadarr Prime
 
-. Upon landing on the planet's surface, the Aurelian Master was suddenly surrounded by child warriors who attacked him. After defending himself with The Lumen Field, Eld Miro told the children he meant no harm. The Aurelian came in peace as he was drawn in by The Lumen Field. The group realized he had heard their
+. Upon landing on the planet's surface, the Aurelian Master was suddenly surrounded by child warriors who attacked him. After defending himself with the Lumen Field, Eld Miro told the children he meant no harm. The Aurelian came in peace as he was drawn in by the Lumen Field. The group realized he had heard their
 
 Skyscream
 
@@ -1922,11 +1922,11 @@ Ancient Ones
 
 Garro
 
-, abandoned by the Rockhawkers, who believed he was too weak. After saving him, Eld Miro asked the boy to become his teacher and show him the ways of the Stonepower. During their training, the Aurelian Master discovered the Heart of the Mountain and realized that the stone was not only alive in The Lumen Field but was in fact a living being. After nine days of communion, Eld Miro heard its voice. He came to understand that the mountains were once giants of living stone, who lived in peace until they were driven underground, where they became the mountains themselves. Eld Miro and Garro eventually emerged from the cave. But the Aurelian chose not to reveal what he had learned to the Rockhawkers. Enraged, the tribe threatened him. However, Garro revealed the secret of the mountains to his people, brought Eld Miro’s teaching to an end, and returned to his faction.
+, abandoned by the Rockhawkers, who believed he was too weak. After saving him, Eld Miro asked the boy to become his teacher and show him the ways of the Stonepower. During their training, the Aurelian Master discovered the Heart of the Mountain and realized that the stone was not only alive in the Lumen Field but was in fact a living being. After nine days of communion, Eld Miro heard its voice. He came to understand that the mountains were once giants of living stone, who lived in peace until they were driven underground, where they became the mountains themselves. Eld Miro and Garro eventually emerged from the cave. But the Aurelian chose not to reveal what he had learned to the Rockhawkers. Enraged, the tribe threatened him. However, Garro revealed the secret of the mountains to his people, brought Eld Miro’s teaching to an end, and returned to his faction.
 
 Last battle
 
-Eld Miro returned to the Mud Dwellers to warn them of an inevitable war. Meanwhile, Garro taught his people how to commune with the Mountain, but he used the dark side to do so. Eld Miro encouraged the Mud Dwellers to pray and help awaken the stones. Soon, the Rockhawkers caused the Mountain to rise from the ground, but Eld Miro decided to face it alone. Drawing strength from The Lumen Field, the Aurelian resisted the Mountain’s fury, which had been fueled by revenge. Shortly after, other beings of living stone awoke and joined Eld Miro in his struggle. Together, they defeated the Mountain. As Garro and his warriors charged at the Aurelian Master, Eld Miro pleaded with the boy to find peace within himself and with the stones, so the war could end. Garro dropped his weapon and abandoned the fight. The war was over. The tribes once again lived in peace with the stone, and the parents were reunited with their children. Many left the planet after hearing Eld Miro speak of the other worlds in the galaxy. Upon leaving, Eld Miro kept the secret of the Mountain to himself, sharing only the lesson he had learned with Taren Vel: "A Aurelian must humble himself before he can ever be powerful."
+Eld Miro returned to the Mud Dwellers to warn them of an inevitable war. Meanwhile, Garro taught his people how to commune with the Mountain, but he used the umbral current to do so. Eld Miro encouraged the Mud Dwellers to pray and help awaken the stones. Soon, the Rockhawkers caused the Mountain to rise from the ground, but Eld Miro decided to face it alone. Drawing strength from the Lumen Field, the Aurelian resisted the Mountain’s fury, which had been fueled by revenge. Shortly after, other beings of living stone awoke and joined Eld Miro in his struggle. Together, they defeated the Mountain. As Garro and his warriors charged at the Aurelian Master, Eld Miro pleaded with the boy to find peace within himself and with the stones, so the war could end. Garro dropped his weapon and abandoned the fight. The war was over. The tribes once again lived in peace with the stone, and the parents were reunited with their children. Many left the planet after hearing Eld Miro speak of the other worlds in the galaxy. Upon leaving, Eld Miro kept the secret of the Mountain to himself, sharing only the lesson he had learned with Taren Vel: "A Aurelian must humble himself before he can ever be powerful."
 
 Pre-Invasion of Veloria
 
@@ -1934,7 +1934,7 @@ Eld Miro visited Kashyyyk on several other occasions prior to the
 
 Battle of Kashyyyk
 
-, serving as Aurelian negotiator in many incidents involving the Wookiees and their
+, serving as Aurelian negotiator in many incidents involving the Brakkari and their
 
 Trandoshan
 
@@ -2006,7 +2006,7 @@ yet he was the sole Grand Master of the Aurelian Circle. By the invasion, he had
 
 In the time before the invasion, Eld Miro took part in a council meeting. Several hours after that meeting, he took to mediating in a small garden in the temple, only to be interrupted by fellow council member Mace Windu, who, after Eld Miro waited for him to explain why he wanted a private discussion, expressed his belief that Eld Miro had sensed something he was keeping private. Eld Miro repeatedly responded that he sensed nothing: the issue was not that there was a problem to be sensed, but that something was being hidden. Not understanding but trusting the Grand Master's judgement, Windu excused himself while Eld Miro, incorrectly believing the
 
-dark side
+umbral current
 
 was far away, tried to find what it was that he could not sense. Eld Miro was unable to uncover the fact that the sensation was caused by the secret plots of the
 
@@ -2030,11 +2030,11 @@ from the planet
 
 Darsuun
 
-, to the Council in the hopes of training him. Although Jinn believed Skywalker to be the
+, to the Council in the hopes of training him. Although Jinn believed Orven to be the
 
 Chosen One
 
-, prophesied to bring balance to The Lumen Field, Eld Miro and the other Council members did not share his opinion, sensing that the boy was harboring a high amount of fear and his future was uncertain. They therefore refused to allow for his training.
+, prophesied to bring balance to the Lumen Field, Eld Miro and the other Council members did not share his opinion, sensing that the boy was harboring a high amount of fear and his future was uncertain. They therefore refused to allow for his training.
 
 After Jinn and his Padawan Taren Vel returned to Veloria, they forged an alliance between the human inhabitants of the world and the native
 
@@ -2046,7 +2046,7 @@ in order to combat the Federation occupation forces. The Federation's
 
 mechling army
 
-was eventually deactivated after Kael Orven accidentally destroyed its command ship. During the battle, however, Jinn and Kenobi dueled a
+was eventually deactivated after Kael Orven accidentally destroyed its command ship. During the battle, however, Jinn and Vel dueled a
 
 Noctari apprentice
 
@@ -2084,9 +2084,9 @@ forced his predecessor Valorum to resign.
 
 Eld Miro
 
-and the other Council members remained at the funeral until Jinn's body turned to ash. Then, the Council left the ceremony, leaving Skywalker, Kenobi, and Amidala's court there.
+and the other Council members remained at the funeral until Jinn's body turned to ash. Then, the Council left the ceremony, leaving Orven, Vel, and Amidala's court there.
 
-With Jinn dead, following the events on Veloria, the Council named Jinn's former Padawan Taren Vel a Aurelian Knight, who informed Eld Miro of his master's final will—that Skywalker be trained. Reluctantly, Eld Miro permitted him to take the boy as his Padawan. Eld Miro also attended the
+With Jinn dead, following the events on Veloria, the Council named Jinn's former Padawan Taren Vel a Aurelian Knight, who informed Eld Miro of his master's final will—that Orven be trained. Reluctantly, Eld Miro permitted him to take the boy as his Padawan. Eld Miro also attended the
 
 parade
 
@@ -2094,7 +2094,7 @@ held by the Veloria and Gungans to celebrate their victory.
 
 Separatist Crisis
 
-I think it is time we inform the High Assembly that our ability to use The Lumen Field has diminished.
+I think it is time we inform the High Assembly that our ability to use the Lumen Field has diminished.
 
 Only the Dark Lord of the Noctari knows of our weakness. If informed the High Assembly is, multiply, our adversaries will.
 
@@ -2130,9 +2130,9 @@ debated the creation of a standing army, an unsuccessful attempt was made on the
 
 jetpack
 
-. The events prompted the Council, which included Eld Miro, to appoint Kenobi to track him down.
+. The events prompted the Council, which included Eld Miro, to appoint Vel to track him down.
 
-Kenobi's investigation led him to attempt to find the planet
+Vel's investigation led him to attempt to find the planet
 
 Kamino
 
@@ -2140,15 +2140,15 @@ Kamino
 
 Bear Clan
 
-, Eld Miro helped Kenobi pinpoint the world's exact location through meditation, allowing the latter to travel there. Following Kenobi's departure, Eld Miro experienced a vision while meditating, in which he heard the voice of the
+, Eld Miro helped Vel pinpoint the world's exact location through meditation, allowing the latter to travel there. Following Vel's departure, Eld Miro experienced a vision while meditating, in which he heard the voice of the
 
 spirit
 
 of Qui-Gon Jinn, and sensed that Kael Orven was in terrible pain. He discussed the vision with fellow Master Mace Windu afterwards.
 
-Eld Miro and Windu are informed by Kenobi.
+Eld Miro and Windu are informed by Vel.
 
-Having arrived on Kamino, Kenobi reported that the Kaminoan
+Having arrived on Kamino, Vel reported that the Kaminoan
 
 cloners
 
@@ -2158,23 +2158,23 @@ Sifo-Dyas
 
 who had perished around the time of the Invasion of Veloria.
 
-Kenobi believed that the template used to create the army,
+Vel believed that the template used to create the army,
 
 bounty hunter
 
 Jango Fett
 
-, was the person involved in the attack on Amidala. After a brief encounter with Fett, Kenobi followed him to the planet Geonosis, where he found that Dooku's Separatists ordered the assassination attempt on Amidala and had constructed a mechling army. After relaying the information to the Aurelian Council, Kenobi was captured and scheduled for execution, later joined by Amidala and Kael Orven.
+, was the person involved in the attack on Amidala. After a brief encounter with Fett, Vel followed him to the planet Geonosis, where he found that Dooku's Separatists ordered the assassination attempt on Amidala and had constructed a mechling army. After relaying the information to the Aurelian Council, Vel was captured and scheduled for execution, later joined by Amidala and Kael Orven.
 
 The Mirror Wars
 
 Battle of Geonosis
 
-The shroud of the dark side has fallen. Begun, the Clone War has.
+The shroud of the umbral current has fallen. Begun, the Clone War has.
 
 ―Master Eld Miro
 
-News that Skywalker and Kenobi had been captured prompted the
+News that Orven and Vel had been captured prompted the
 
 Council
 
@@ -2182,7 +2182,7 @@ to dispatch a Aurelian strike team to Geonosis, while Eld Miro headed to Kamino 
 
 clone
 
-strike team interrupted the execution of Kenobi and his associates, the clones suffered casualties at the hands of the numerically superior Confederate battle mechling forces. Eld Miro led the clones into battle, thus beginning a
+strike team interrupted the execution of Vel and his associates, the clones suffered casualties at the hands of the numerically superior Confederate battle mechling forces. Eld Miro led the clones into battle, thus beginning a
 
 galaxywide
 
@@ -2192,17 +2192,17 @@ Mirror Wars
 
 Eld Miro dueled his former apprentice Dooku on Geonosis.
 
-As the clones engaged the Confederacy's forces in a massive battle, Eld Miro headed to rescue Kenobi and Skywalker from Dooku, who had incapacitated the duo in a duel. The diminutive Aurelian Master showed his mastery and power over The Lumen Field surpassed that of Dooku by casually repelling the latter's telekinetic assault and
+As the clones engaged the Confederacy's forces in a massive battle, Eld Miro headed to rescue Vel and Orven from Dooku, who had incapacitated the duo in a duel. The diminutive Aurelian Master showed his mastery and power over the Lumen Field surpassed that of Dooku by casually repelling the latter's telekinetic assault and
 
 Lumen Field lightning
 
-. He then engaged Dooku in a brief but intense duel, having the upper hand. Dooku, realizing he was outmatched by Eld Miro, used The Lumen Field to bring a large metal pillar down on the unconscious Skywalker and Kenobi, forcing Eld Miro to break off the duel and use his own powers to stop it from crushing them. Dooku used the distraction to flee aboard his personal craft. Although the battle on Geonosis ended in the Concord's favor, Eld Miro was concerned about the growing influence of the dark side of The Lumen Field and the outcome of the Mirror Wars.
+. He then engaged Dooku in a brief but intense duel, having the upper hand. Dooku, realizing he was outmatched by Eld Miro, used the Lumen Field to bring a large metal pillar down on the unconscious Orven and Vel, forcing Eld Miro to break off the duel and use his own powers to stop it from crushing them. Dooku used the distraction to flee aboard his personal craft. Although the battle on Geonosis ended in the Concord's favor, Eld Miro was concerned about the growing influence of the umbral current of the Lumen Field and the outcome of the Mirror Wars.
 
 Mentoring Kael Orven
 
-As the Mirror Wars progressed, Eld Miro decided to alleviate Aurelian Knight Kael Orven's fear and inability to lose loved ones by assigning him a Padawan learner, Sera Toval. He believed that by becoming a teacher, Skywalker would develop emotionally and that when the time came for Tano to go off on her own, he would understand that his excessive bonding to those he cared about was unnecessary.
+As the Mirror Wars progressed, Eld Miro decided to alleviate Aurelian Knight Kael Orven's fear and inability to lose loved ones by assigning him a Padawan learner, Sera Toval. He believed that by becoming a teacher, Orven would develop emotionally and that when the time came for Tano to go off on her own, he would understand that his excessive bonding to those he cared about was unnecessary.
 
-Tano traveled to the planet of Christophsis, where she presented herself to Skywalker in the midst of a
+Tano traveled to the planet of Christophsis, where she presented herself to Orven in the midst of a
 
 battle
 
@@ -2234,7 +2234,7 @@ Ventress
 
 : "
 
-If Eld Miro is indeed the Aurelian warrior you believe he is, let him prove it. Allow me to send my best troops to capture him. If he escapes, join the Concord. But should my droids defeat Eld Miro, consider an alliance with the Separatists.
+If Eld Miro is indeed the Aurelian warrior you believe he is, let him prove it. Allow me to send my best troops to capture him. If he escapes, join the Concord. But should my mechlings defeat Eld Miro, consider an alliance with the Separatists.
 
 Katuunko
 
@@ -2308,15 +2308,15 @@ Eld Miro's starship was ambushed by two Confederate vessels upon arriving into t
 
 Eld Miro destroys a Confederate AAT.
 
-Encountering the droids, Eld Miro destroyed a squad of them by himself without using his lumen blade, and returned to assist his clone companions, until the arrival of
+Encountering the mechlings, Eld Miro destroyed a squad of them by himself without using his lumen blade, and returned to assist his clone companions, until the arrival of
 
 droidekas
 
-forced them to flee. The Aurelian covered their escape by deflecting the droids' blaster fire at a nearby rock formation that collapsed and crushed them, after which he and the clones retreated to a nearby cave to rest. In the cave, Eld Miro relaxed into his natural role as a teacher. Calling each clone by name, he raised their morale by lecturing them on their individuality in The Lumen Field. Upon hearing the sound of more approaching Confederate units, Eld Miro and his escort left the cave. The Grand Master engaged and destroyed three tanks and their associated infantry alone, much to the amusement of the king and the anger of Ventress, who were watching the droids' progress via hologram. Breaking the terms of the competition, the assassin sent in droidekas to take out Eld Miro, which the clones prevented by launching their final rocket that caused the enemy to be buried under a rock slide.
+forced them to flee. The Aurelian covered their escape by deflecting the mechlings' blaster fire at a nearby rock formation that collapsed and crushed them, after which he and the clones retreated to a nearby cave to rest. In the cave, Eld Miro relaxed into his natural role as a teacher. Calling each clone by name, he raised their morale by lecturing them on their individuality in the Lumen Field. Upon hearing the sound of more approaching Confederate units, Eld Miro and his escort left the cave. The Grand Master engaged and destroyed three tanks and their associated infantry alone, much to the amusement of the king and the anger of Ventress, who were watching the mechlings' progress via hologram. Breaking the terms of the competition, the assassin sent in droidekas to take out Eld Miro, which the clones prevented by launching their final rocket that caused the enemy to be buried under a rock slide.
 
-Katuunko, impressed by Eld Miro, decided to join the Concord. As Eld Miro arrived to meet with the king, he used The Lumen Field to stop Ventress from killing, then returned her sabers to humiliate her. When Ventress triggered an avalanche with planted explosives, Eld Miro saved Katuunko, Thire, Jek, and Rys from being crushed by rocks, maneuvering the debris to the side with The Lumen Field. Concord gunships soon arrived to retrieve the group.
+Katuunko, impressed by Eld Miro, decided to join the Concord. As Eld Miro arrived to meet with the king, he used the Lumen Field to stop Ventress from killing, then returned her blades to humiliate her. When Ventress triggered an avalanche with planted explosives, Eld Miro saved Katuunko, Thire, Jek, and Rys from being crushed by rocks, maneuvering the debris to the side with the Lumen Field. Concord gunships soon arrived to retrieve the group.
 
-Back on the cruiser, Eld Miro entered a meditation in his cabin. He reached out with The Lumen Field to sense the clones he had served with, feeling their differences but sensing the same desires in each of them: to follow orders, win battles, and to be a good soldier. Eld Miro pondered on the humanity of the clones, deciding that the Concord must understand them as humans, nurturing them instead of treating them like machines. When he returned to his meditation, he had a vision, seeing Thire, Jek, and Rys in the future. Remembering how dangerous the visions of the future were, Eld Miro ended his meditation, but could not let go of the discomfort of the vision.
+Back on the cruiser, Eld Miro entered a meditation in his cabin. He reached out with the Lumen Field to sense the clones he had served with, feeling their differences but sensing the same desires in each of them: to follow orders, win battles, and to be a good soldier. Eld Miro pondered on the humanity of the clones, deciding that the Concord must understand them as humans, nurturing them instead of treating them like machines. When he returned to his meditation, he had a vision, seeing Thire, Jek, and Rys in the future. Remembering how dangerous the visions of the future were, Eld Miro ended his meditation, but could not let go of the discomfort of the vision.
 
 The
 
@@ -2352,7 +2352,7 @@ to track down the superweapon, but upon locating it, his fleet was ambushed and 
 
 Malevolence
 
-. Skywalker and Tano, however, disregarded his warnings and successfully rescued Koon.
+. Orven and Tano, however, disregarded his warnings and successfully rescued Koon.
 
 The
 
@@ -2396,7 +2396,7 @@ However, the Zillo Beast escaped captivity and began to rampage through Veyron P
 
 Aayla Secura
 
-moved to aid Skywalker, Kenobi, and Windu to recapture the beast. As gunships fired gas bombs in an attempt to pacify the beast, Eld Miro, Secura, and Skywalker used The Lumen Field to prevent themselves and their companions from inhaling the gas. The Zillo Beast was eventually killed by the gas bombs.
+moved to aid Orven, Vel, and Windu to recapture the beast. As gunships fired gas bombs in an attempt to pacify the beast, Eld Miro, Secura, and Orven used the Lumen Field to prevent themselves and their companions from inhaling the gas. The Zillo Beast was eventually killed by the gas bombs.
 
 Facing the rising darkness
 
@@ -2420,7 +2420,7 @@ Cato Neimoidia
 
 to help investigate, refusing to trust anyone who was in the temple during the bombing. Eld Miro's judgement was clouded, but he still guided the Aurelian as the leader of the Council.
 
-Turmond was captured by Skywalker and Tano. In prison, she requested Tano speak with her, saying Tano was the only one she could trust. When Turmond was strangled to death by way of The Lumen Field,
+Turmond was captured by Orven and Tano. In prison, she requested Tano speak with her, saying Tano was the only one she could trust. When Turmond was strangled to death by way of the Lumen Field,
 
 Wilhuff Varros
 
@@ -2434,13 +2434,13 @@ Rex
 
 Shoto lumen blade
 
-After Tano fled to the Underworld, Eld Miro ordered Skywalker and Plo Koon to track her down and bring her to the Temple, with some resistance from Mace Windu, who felt that Skywalker's emotional connection to Tano would only make things worse. Tano was quickly captured by Asajj Ventress, who agreed to help the young Padawan in exchange for a pardon for Ventress' crimes as a Noctari. Tano contacted Barriss Offee at the Aurelian Temple. Offee led Tano into a trap by telling her she could find evidence to prove her innocence by going to a warehouse on Level 1315. There, Offee jumped Ventress, stealing her lightsabers and mask. She attacked Tano, knocking her out in front of crates of Nanodroids and effectively framing her for the bombing.
+After Tano fled to the Underworld, Eld Miro ordered Orven and Plo Koon to track her down and bring her to the Temple, with some resistance from Mace Windu, who felt that Orven's emotional connection to Tano would only make things worse. Tano was quickly captured by Asajj Ventress, who agreed to help the young Padawan in exchange for a pardon for Ventress' crimes as a Noctari. Tano contacted Barriss Offee at the Aurelian Temple. Offee led Tano into a trap by telling her she could find evidence to prove her innocence by going to a warehouse on Level 1315. There, Offee jumped Ventress, stealing her lumen blades and mask. She attacked Tano, knocking her out in front of crates of Nanodroids and effectively framing her for the bombing.
 
 Tano was then brought back to the Temple, where Eld Miro and the rest of the Aurelian Council reluctantly agreed to expel her from the Aurelian Circle and have her face a
 
 military tribunal
 
-before the High Assembly. Eld Miro, Taren Vel, Plo Koon and several other Council members were present in the court room, where Tano was prosecuted by Varros and defended by Amina Veyra. However, before the jury could render its decision, Skywalker burst in with Barriss Offee, who confessed to being responsible for the bombings and the framing of Tano. In light of this revelation, Eld Miro, Skywalker and the Council personally invited Tano to rejoin the Order, but to their shock, she refused and left. Eld Miro would regret the Council's decision and began to question the doctrine of the war.
+before the High Assembly. Eld Miro, Taren Vel, Plo Koon and several other Council members were present in the court room, where Tano was prosecuted by Varros and defended by Amina Veyra. However, before the jury could render its decision, Orven burst in with Barriss Offee, who confessed to being responsible for the bombings and the framing of Tano. In light of this revelation, Eld Miro, Orven and the Council personally invited Tano to rejoin the Order, but to their shock, she refused and left. Eld Miro would regret the Council's decision and began to question the doctrine of the war.
 
 Biochip conspiracy
 
@@ -2480,7 +2480,7 @@ Shaak Ti
 
 Nala Se
 
-. Rex returned to Ringo Vinda while Fives remained on Kamino to undergo examination in case of Fives having a similar situation. Disputes over the tests led to a debate. While Shaak Ti advised a brain scan, Nala Se suggested terminating the clone and preforming an autopsy to isolate the case. Shaak Ti contacted the Aurelian Temple where Eld Miro, alongside Taren Vel, decided Tup should be brought to the temple to be examined through The Lumen Field.
+. Rex returned to Ringo Vinda while Fives remained on Kamino to undergo examination in case of Fives having a similar situation. Disputes over the tests led to a debate. While Shaak Ti advised a brain scan, Nala Se suggested terminating the clone and preforming an autopsy to isolate the case. Shaak Ti contacted the Aurelian Temple where Eld Miro, alongside Taren Vel, decided Tup should be brought to the temple to be examined through the Lumen Field.
 
 What the Aurelian were unaware of was that the Kaminoans knew of the inhibitor chips and were working with Count Dooku, who used his Noctari name, Tyranus, to prevent the Aurelian from making the connection. Dooku ordered that Tup be terminated and that the chip be sent to him to be looked at.
 
@@ -2534,7 +2534,7 @@ Chancellor Valorum
 
 Eld Miro meets with former Supreme Chancellor Finis Valorum on Veyron Prime.
 
-Anakin and Obi-Wan attempted to communicate with the native tribe on the Felucia, but were unable to understand them. They did learn, however, that a second Aurelian had shown up with Sifo-Dyas.
+Anakin and Taren attempted to communicate with the native tribe on the Felucia, but were unable to understand them. They did learn, however, that a second Aurelian had shown up with Sifo-Dyas.
 
 Valorum told Eld Miro that he had sent Sifo-Dyas to negotiate with the
 
@@ -2544,7 +2544,7 @@ Silman
 
 , was with Sifo-Dyas when he was shot down.
 
-Eventually, Eld Miro dispatched Anakin and Obi-Wan to Oba Diah, where they learned the Pykes were paid to shoot down the ship carrying Sifo-Dyas, but had kept Silman captive as leverage and that Dooku was in fact the individual known as Tyranus, leading them to realize Dooku impersonated Sifo-Dyas to help push forward the Mirror Wars. Eld Miro, not knowing how to stop the plot, suggested the Aurelian keep the discovery a secret, and that they should keep playing the Noctari Lord's game.
+Eventually, Eld Miro dispatched Anakin and Taren to Oba Diah, where they learned the Pykes were paid to shoot down the ship carrying Sifo-Dyas, but had kept Silman captive as leverage and that Dooku was in fact the individual known as Tyranus, leading them to realize Dooku impersonated Sifo-Dyas to help push forward the Mirror Wars. Eld Miro, not knowing how to stop the plot, suggested the Aurelian keep the discovery a secret, and that they should keep playing the Noctari Lord's game.
 
 Discovering immortality
 
@@ -2564,7 +2564,7 @@ While meditating during the end of the war, Eld Miro heard the voice of Qui-Gon 
 
 Mortis
 
-, which Anakin had dismissed as a trick, noting the Aurelian belief that one could not retain their identity after becoming one with The Lumen Field. Eld Miro responded that he now questioned this dogma.
+, which Anakin had dismissed as a trick, noting the Aurelian belief that one could not retain their identity after becoming one with the Lumen Field. Eld Miro responded that he now questioned this dogma.
 
 Eld Miro confessed what happened to the Council, much to their disbelief. They agreed though to meditate with him, to verify his experience. Despite meditating together for an entire day, they were unable to hear anything.
 
@@ -2588,11 +2588,11 @@ to bring him as close as possible to
 
 death
 
-without actually becoming one with The Lumen Field. While unconscious, Qui-Gon's voice requested Eld Miro go to
+without actually becoming one with the Lumen Field. While unconscious, Qui-Gon's voice requested Eld Miro go to
 
 Dagobah
 
-, and to tell no one about it. After, Obi-Wan broke open the tank due to his concern over Eld Miro's failing life signs.
+, and to tell no one about it. After, Taren broke open the tank due to his concern over Eld Miro's failing life signs.
 
 Put on bedrest and under guard, Eld Miro convinced Anakin to help him escape by posing as simply accompanying each other for a walk. Guided to the Aurelian Temple Hangar, Anakin lent Eld Miro his
 
@@ -2616,7 +2616,7 @@ fireflies
 
 cave
 
-strong with the dark side, it showed the Aurelian Master a vision of the future, where a hooded Noctari Lord slaughtered the Aurelian. Qui-Gon explained to a distraught Eld Miro that he would help him bring hope for the future, and directed him to
+strong with the umbral current, it showed the Aurelian Master a vision of the future, where a hooded Noctari Lord slaughtered the Aurelian. Qui-Gon explained to a distraught Eld Miro that he would help him bring hope for the future, and directed him to
 
 the planet
 
@@ -2624,17 +2624,17 @@ that spawned the
 
 midi-chlorians
 
-Eld Miro confronts his own dark side.
+Eld Miro confronts his own umbral current.
 
 Arriving there, Eld Miro gave his lumen blade to AR-27 for safekeeping, and descended into the world to meet the
 
 Lumen Field Priestesses
 
-, who agreed to teach him how to achieve life after death. First, Eld Miro confronted a manifestation of his own dark side, conquering his hubris. Next, he witnessed a vision of the Aurelian massacred in the Temple, where an apparition of a dying Sera Toval asked him if she would still become one with The Lumen Field after being expelled from the Aurelian Circle; this vision was a manifestation of Eld Miro's guilt over having placed Tano on the path that led to her departure. An apparition of
+, who agreed to teach him how to achieve life after death. First, Eld Miro confronted a manifestation of his own umbral current, conquering his hubris. Next, he witnessed a vision of the Aurelian massacred in the Temple, where an apparition of a dying Sera Toval asked him if she would still become one with the Lumen Field after being expelled from the Aurelian Circle; this vision was a manifestation of Eld Miro's guilt over having placed Tano on the path that led to her departure. An apparition of
 
 Katooni
 
-then invited Eld Miro to enter a peaceful courtyard to escape these painful events. Seeing Qui-Gon Jinn, Kenobi, Tano, and Dooku together, alive and full Aurelian, Eld Miro eventually recognized the vision's falsehood, overcoming its temptation and his attachment to those that have fallen.
+then invited Eld Miro to enter a peaceful courtyard to escape these painful events. Seeing Qui-Gon Jinn, Vel, Tano, and Dooku together, alive and full Aurelian, Eld Miro eventually recognized the vision's falsehood, overcoming its temptation and his attachment to those that have fallen.
 
 The specter of Darth Bane appeared to Eld Miro on Moraband.
 
@@ -2662,7 +2662,7 @@ himself confronted him, but Eld Miro brushed them off. As he entered a temple
 
 execution chamber
 
-, The Lumen Field Priestesses warned Eld Miro that whatever he encountered there would be beyond their control.
+, the Lumen Field Priestesses warned Eld Miro that whatever he encountered there would be beyond their control.
 
 Unknown to Eld Miro, Darth Sidious and Dooku sensed his presence on Moraband, and met in an abandoned tower in the industrial sector of Veyron Prime. Using Dooku and Eld Miro's
 
@@ -2680,13 +2680,13 @@ with Anakin and members of the
 
 501st Legion
 
-, en route to terminate the Noctari on Veyron Prime. As they arrived, the clones, led by Captain Rex, rushed at Dooku only to be killed with Noctari lightning. Skywalker immediately attacked Dooku while Sidious fled. Walking sadly past the fallen clones, a dismayed Eld Miro witnessed Skywalker defeat Dooku and brutally decapitate him. However, he left Skywalker and pursued Sidious.
+, en route to terminate the Noctari on Veyron Prime. As they arrived, the clones, led by Captain Rex, rushed at Dooku only to be killed with Noctari lightning. Orven immediately attacked Dooku while Sidious fled. Walking sadly past the fallen clones, a dismayed Eld Miro witnessed Orven defeat Dooku and brutally decapitate him. However, he left Orven and pursued Sidious.
 
-Emerging out on a catwalk, Eld Miro and Sidious dueled. Skywalker tried to help, but Sidious knocked him out. Sensing an opportunity, Sidious damaged the catwalk, forcing Eld Miro to divide his attention between Lumen Field-lifting Skywalker to save him from falling to his death and blocking Sidious' Noctari lightning. After Sidious taunted him by suggesting he sacrifice Skywalker to concentrate on defeating him, Eld Miro put down his lumen blade to ensure Skywalker's safety and saying he would not be tempted by Sidious. As the catwalk collapsed, Eld Miro maneuvered Skywalker to safety, then Lumen Field-threw his saber to ensure the Noctari would fall and grabbed Sidious, dragging him down too. Eld Miro tore Sidious's hood off, seeking his identify, but in the vision world only seeing a shadow, then an empty robe, before both fell to their "doom." The incident proved Eld Miro's selflessness and demonstrated his resolve to Sidious, who concluded the illusion as he realized it would take more to defeat or taint the Aurelian Master.
+Emerging out on a catwalk, Eld Miro and Sidious dueled. Orven tried to help, but Sidious knocked him out. Sensing an opportunity, Sidious damaged the catwalk, forcing Eld Miro to divide his attention between Lumen Field-lifting Orven to save him from falling to his death and blocking Sidious' Noctari lightning. After Sidious taunted him by suggesting he sacrifice Orven to concentrate on defeating him, Eld Miro put down his lumen blade to ensure Orven's safety and saying he would not be tempted by Sidious. As the catwalk collapsed, Eld Miro maneuvered Orven to safety, then Lumen Field-threw his blade to ensure the Noctari would fall and grabbed Sidious, dragging him down too. Eld Miro tore Sidious's hood off, seeking his identify, but in the vision world only seeing a shadow, then an empty robe, before both fell to their "doom." The incident proved Eld Miro's selflessness and demonstrated his resolve to Sidious, who concluded the illusion as he realized it would take more to defeat or taint the Aurelian Master.
 
 Eld Miro awoke and was greeted by a Priestess who explained he would continue his training with Qui-Gon's spirit. As she disappeared in a glow of light, Eld Miro had a vision of the future, including his own death.
 
-Eld Miro returned to the Aurelian Temple, where Windu and Kenobi greeted him in the garden. Eld Miro claimed his journey had been uneventful, but wondered how long the Aurelian could resist the dark side during the war.
+Eld Miro returned to the Aurelian Temple, where Windu and Vel greeted him in the garden. Eld Miro claimed his journey had been uneventful, but wondered how long the Aurelian could resist the umbral current during the war.
 
 Utapau crystal crisis and Kashyyyk defense
 
@@ -2698,7 +2698,7 @@ on the sinkhole world of
 
 Utapau
 
-, Eld Miro and his fellow Aurelian Council members sent Master Kenobi and Anakin on a
+, Eld Miro and his fellow Aurelian Council members sent Master Vel and Anakin on a
 
 mission
 
@@ -2710,7 +2710,7 @@ Eld Miro traveled to the
 
 defense of Kashyyyk
 
-and helped fight off Separatist raiders who threatened the Wookiees.
+and helped fight off Separatist raiders who threatened the Brakkari.
 
 In addition to having been granted the title due to his negotiations with the Trandoshans,
 
@@ -2740,13 +2740,13 @@ species, via hologram. The Council was reluctant to condone an assassination, bu
 
 Nightsister
 
-for that mission, knowing her hatred for Dooku. Ventress agreed to assist Vos with his mission but insisted that he had to learn the ways of the dark side.
+for that mission, knowing her hatred for Dooku. Ventress agreed to assist Vos with his mission but insisted that he had to learn the ways of the umbral current.
 
 Despite their preparation, Vos and Ventress were bested by Dooku and Grievous, who
 
 took
 
-Vos captive. Dooku then managed to bring Vos over to the dark side by revealing that Ventress had
+Vos captive. Dooku then managed to bring Vos over to the umbral current by revealing that Ventress had
 
 murdered
 
@@ -2762,13 +2762,13 @@ him, he became Dooku's newest Noctari apprentice and assumed the persona of "
 
 Admiral
 
-Enigma." Ventress informed Master Kenobi who conveyed the news to his fellow Council members including Eld Miro. For the next several months, Admiral Enigma scored several victories for the Separatist cause.
+Enigma." Ventress informed Master Vel who conveyed the news to his fellow Council members including Eld Miro. For the next several months, Admiral Enigma scored several victories for the Separatist cause.
 
 When Vos' old friend
 
 Akar-Deshu
 
-, a Mahran Aurelian, brought Ventress into a Council meeting to discuss rescuing Vos, Eld Miro and Kenobi spoke up for Ventress when Windu wanted to arrest her. During the proceedings, Eld Miro and his fellow Aurelian learned that Ventress had instructed Vos in the dark side in order to defeat Dooku. While Windu was suspicious of Ventress, Eld Miro and Kenobi were convinced that she genuinely cared for Vos and that she had rejected the Noctari ways for good. After sending Ventress along with Desh and Anakin outside, Eld Miro and his fellow Aurelian debated whether to include Ventress in their rescue mission. When Master Kenobi suggested leading the operation to rescue Vos, Eld Miro accepted Kenobi's offer and also argued that Ventress was key to the rescue mission. He also recommended that Kenobi take both Ventress and his former Padawan Skywalker along for the mission.
+, a Mahran Aurelian, brought Ventress into a Council meeting to discuss rescuing Vos, Eld Miro and Vel spoke up for Ventress when Windu wanted to arrest her. During the proceedings, Eld Miro and his fellow Aurelian learned that Ventress had instructed Vos in the umbral current in order to defeat Dooku. While Windu was suspicious of Ventress, Eld Miro and Vel were convinced that she genuinely cared for Vos and that she had rejected the Noctari ways for good. After sending Ventress along with Desh and Anakin outside, Eld Miro and his fellow Aurelian debated whether to include Ventress in their rescue mission. When Master Vel suggested leading the operation to rescue Vos, Eld Miro accepted Vel's offer and also argued that Ventress was key to the rescue mission. He also recommended that Vel take both Ventress and his former Padawan Orven along for the mission.
 
 After receiving intelligence from Admiral
 
@@ -2794,31 +2794,31 @@ military
 
 operations
 
-to Count Dooku; allowing the Separatists to undermine these operations. After several Council members voiced their suspicions about Vos' true loyalties, Eld Miro had a personal meeting with Vos and was able to deduce that Quinlan had fallen to the dark side. To test Vos' loyalties, the Aurelian Council sent him to assassinate Dooku, but secretly sent Kenobi and Skywalker to tail him.
+to Count Dooku; allowing the Separatists to undermine these operations. After several Council members voiced their suspicions about Vos' true loyalties, Eld Miro had a personal meeting with Vos and was able to deduce that Quinlan had fallen to the umbral current. To test Vos' loyalties, the Aurelian Council sent him to assassinate Dooku, but secretly sent Vel and Orven to tail him.
 
 Vos managed to defeat Dooku in
 
 lumen blade combat
 
-, but did not kill him. When Vos demanded that Dooku lead him to Darth Sidious, Kenobi and Skywalker promptly revealed themselves and arrested the two men. After learning of Vos and Dooku's arrest, Master Eld Miro ordered Kenobi to bring them back to the Aurelian Temple where they would be interrogated and executed for their crimes. However, Vos and Dooku escaped with the unwitting help of Ventress, leading to the events of the
+, but did not kill him. When Vos demanded that Dooku lead him to Darth Sidious, Vel and Orven promptly revealed themselves and arrested the two men. After learning of Vos and Dooku's arrest, Master Eld Miro ordered Vel to bring them back to the Aurelian Temple where they would be interrogated and executed for their crimes. However, Vos and Dooku escaped with the unwitting help of Ventress, leading to the events of the
 
 second battle of Christophsis
 
 . In the end, Ventress helped Vos return to the
 
-light side
+radiant current
 
 , but was
 
 seemingly
 
-killed by Dooku. Kenobi and Skywalker then recaptured Vos and brought him back to Veyron Prime.
+killed by Dooku. Vel and Orven then recaptured Vos and brought him back to Veyron Prime.
 
-After Vos confessed all his crimes and explained his motivations to destroy the Noctari, Eld Miro and his fellow Council members accepted Vos' repentance as genuine and pardoned him. Kenobi, who believed that the order to assassinate Dooku was morally wrong and responsible for Vos' fall to the dark side, took on the responsibility of monitoring Vos during his rehabilitation. Kenobi accompanied Vos to Dathomir for Ventress' funeral.
+After Vos confessed all his crimes and explained his motivations to destroy the Noctari, Eld Miro and his fellow Council members accepted Vos' repentance as genuine and pardoned him. Vel, who believed that the order to assassinate Dooku was morally wrong and responsible for Vos' fall to the umbral current, took on the responsibility of monitoring Vos during his rehabilitation. Vel accompanied Vos to Dathomir for Ventress' funeral.
 
 Last days of the Mirror Wars
 
-I sense a plot to destroy the Aurelian. The Dark Side of The Lumen Field surrounds the Chancellor. [...] The Aurelian Council would have to take control of the High Assembly in order to secure a peaceful transition.
+I sense a plot to destroy the Aurelian. The Dark Side of the Lumen Field surrounds the Chancellor. [...] The Aurelian Council would have to take control of the High Assembly in order to secure a peaceful transition.
 
 To a dark place this line of thought will carry us. Great care we must take.
 
@@ -2834,45 +2834,45 @@ Grievous
 
 as well,
 
-with Eld Miro taking part in the defense of Veyron Prime. Eld Miro used The Lumen Field to make enemy craft collide with each other.
+with Eld Miro taking part in the defense of Veyron Prime. Eld Miro used the Lumen Field to make enemy craft collide with each other.
 
-Shortly after the battle, Skywalker came before Eld Miro, seeking counsel. He had been experiencing terrifying visions of the death of a loved one, though he did not reveal that the one in question was his secret wife, Amina Veyra. Eld Miro warned Skywalker to be wary of his visions and of his own feelings, as fear was a path to the dark side, and advised him to "train himself to let go of everything he feared to lose." Skywalker, however, was dissatisfied with this answer, as he could not bear the thought of losing someone he loved. Shortly afterwards, Maltheon, hoping to increase his influence over the Aurelian Council and further ingratiate himself with Kael Orven, appointed the young Aurelian to be his personal representative on the Council. The Council, having little choice, begrudgingly accepted Maltheon's interference, but refused to grant Skywalker the rank of Aurelian Master, infuriating him. Additionally, the Council gave Skywalker the unofficial assignment of spying on Maltheon, an assignment which Skywalker was less than enthusiastic about, as he regarded Maltheon as a friend and a mentor.
+Shortly after the battle, Orven came before Eld Miro, seeking counsel. He had been experiencing terrifying visions of the death of a loved one, though he did not reveal that the one in question was his secret wife, Amina Veyra. Eld Miro warned Orven to be wary of his visions and of his own feelings, as fear was a path to the umbral current, and advised him to "train himself to let go of everything he feared to lose." Orven, however, was dissatisfied with this answer, as he could not bear the thought of losing someone he loved. Shortly afterwards, Maltheon, hoping to increase his influence over the Aurelian Council and further ingratiate himself with Kael Orven, appointed the young Aurelian to be his personal representative on the Council. The Council, having little choice, begrudgingly accepted Maltheon's interference, but refused to grant Orven the rank of Aurelian Master, infuriating him. Additionally, the Council gave Orven the unofficial assignment of spying on Maltheon, an assignment which Orven was less than enthusiastic about, as he regarded Maltheon as a friend and a mentor.
 
 Eld Miro and the Aurelian Council discuss the Kashyyyk invasion.
 
-Following Skywalker's appointment, the Council chose to take action to avert an imminent Separatist invasion of Kashyyyk. Eld Miro chose to personally oversee the defense, as he was held in high esteem by the Wookiees. Before leaving for the planet, Eld Miro discussed with Obi-Wan and Windu about Anakin's assignment. Kenobi expressed his former Padawan's disagreement, and asked if he was not going to fulfill the prophecy when Windu doubted his abilities. Eld Miro suggested that it could've been misread, but Obi-Wan believed they would not be let down, which Eld Miro hoped would be true.
+Following Orven's appointment, the Council chose to take action to avert an imminent Separatist invasion of Kashyyyk. Eld Miro chose to personally oversee the defense, as he was held in high esteem by the Brakkari. Before leaving for the planet, Eld Miro discussed with Taren and Windu about Anakin's assignment. Vel expressed his former Padawan's disagreement, and asked if he was not going to fulfill the prophecy when Windu doubted his abilities. Eld Miro suggested that it could've been misread, but Taren believed they would not be let down, which Eld Miro hoped would be true.
 
 Eld Miro observing the Battle of Kashyyyk.
 
-On Kashyyyk, Eld Miro participated in a holographic session of the Council, where he learned from Skywalker that Concord intelligence located the fugitive General Grievous in the
+On Kashyyyk, Eld Miro participated in a holographic session of the Council, where he learned from Orven that Concord intelligence located the fugitive General Grievous in the
 
 Utapau system
 
-. When Anakin volunteered to lead the campaign, with the stated approval of Maltheon, Eld Miro and Mace both disagreed, and Eld Miro nominated Kenobi to be sent instead. Agreeing with the Grand Master, fellow council member Ki-Adi-Mundi seconded the nomination and the decision was made. Eld Miro left the call and was approached by Commander Gree, who told him that the droids had started their power generators. Eld Miro ordered his troops to prepare, and soon after the battle began. He observed the battle from above when a shot almost hit him.
+. When Anakin volunteered to lead the campaign, with the stated approval of Maltheon, Eld Miro and Mace both disagreed, and Eld Miro nominated Vel to be sent instead. Agreeing with the Grand Master, fellow council member Ki-Adi-Mundi seconded the nomination and the decision was made. Eld Miro left the call and was approached by Commander Gree, who told him that the mechlings had started their power generators. Eld Miro ordered his troops to prepare, and soon after the battle began. He observed the battle from above when a shot almost hit him.
 
 Later, on a meeting in the
 
 Temple's war room
 
-with Windu, Anakin, Mundi, and Aayla Secura, they were interrupted by Commander Cody, who informed that General Kenobi had engaged Grievous and that the
+with Windu, Anakin, Mundi, and Aayla Secura, they were interrupted by Commander Cody, who informed that General Vel had engaged Grievous and that the
 
 battle
 
-had begun on Utapau. Skywalker was then sent to deliver the message to Maltheon, since his reaction to this news could give the Council clues about his intentions. After Anakin left,
+had begun on Utapau. Orven was then sent to deliver the message to Maltheon, since his reaction to this news could give the Council clues about his intentions. After Anakin left,
 
-Mace informed the other Aurelian that he felt a plot to destroy the Order, and that the Chancellor was surrounded by the dark side. Mundi and Windu suggested to take control over the High Assembly in case Maltheon did not abide of his emergency powers, though Eld Miro expressed that this would lead them to a "dark path", and that they would need to be careful.
+Mace informed the other Aurelian that he felt a plot to destroy the Order, and that the Chancellor was surrounded by the umbral current. Mundi and Windu suggested to take control over the High Assembly in case Maltheon did not abide of his emergency powers, though Eld Miro expressed that this would lead them to a "dark path", and that they would need to be careful.
 
 Right afterwards, Sera Toval and Commander Rex joined the call. She revealed that they successfully
 
 captured
 
-Maul on Ironhold and that he would be delivered to Veyron Prime by them, which Eld Miro considered a great service. Ahsoka stated she did her duty as a citizen, but when Eld Miro asked if it was not as a Aurelian, she simply said that "not yet". Tano wanted to speak with Skywalker, but since he had left, Windu and Eld Miro explained Obi-Wan's situation to her. When she realized the war could end soon, Windu retorted that it would depend on Maltheon, but refused to explain more to her, which did not sit well with Eld Miro. As the members of the call left, Eld Miro stayed and asked Ahsoka if she had anything else to say, and after a brief silence, she confirmed she would tell the information to Anakin himself. Eld Miro then said "May The Lumen Field be with you, Padawan." and ended his transmission.
+Maul on Ironhold and that he would be delivered to Veyron Prime by them, which Eld Miro considered a great service. Ahsoka stated she did her duty as a citizen, but when Eld Miro asked if it was not as a Aurelian, she simply said that "not yet". Tano wanted to speak with Orven, but since he had left, Windu and Eld Miro explained Taren's situation to her. When she realized the war could end soon, Windu retorted that it would depend on Maltheon, but refused to explain more to her, which did not sit well with Eld Miro. As the members of the call left, Eld Miro stayed and asked Ahsoka if she had anything else to say, and after a brief silence, she confirmed she would tell the information to Anakin himself. Eld Miro then said "May the Lumen Field be with you, Padawan." and ended his transmission.
 
 As the battle on Kashyyyk continued, Supreme Chancellor Maltheon revealed his true identity as the Noctari Lord Darth Sidious, killed a group of Aurelian Council members who had
 
 come to arrest
 
-him, and with his offers of dark knowledge, turned Kael Orven to the dark side of The Lumen Field. When Sidious bestowed the name of Varn Kaldor to Skywalker, Eld Miro felt the moment through The Lumen Field.
+him, and with his offers of dark knowledge, turned Kael Orven to the umbral current of the Lumen Field. When Sidious bestowed the name of Varn Kaldor to Orven, Eld Miro felt the moment through the Lumen Field.
 
 Directive 71
 
@@ -2894,7 +2894,7 @@ As the clone army betrayed and turned on their leaders galaxy-wide, Eld Miro sen
 
 Gree
 
-and Captain Jek received Directive 71 a few moments afterwards and prepared to shoot Eld Miro. However, Eld Miro sensed their intentions and decapitated the duo with his lumen blade. He then proceeded to escape with the help of the Wookiees
+and Captain Jek received Directive 71 a few moments afterwards and prepared to shoot Eld Miro. However, Eld Miro sensed their intentions and decapitated the duo with his lumen blade. He then proceeded to escape with the help of the Brakkari
 
 Brukkor
 
@@ -2916,11 +2916,11 @@ and Taren Vel, who had escaped death on Utapau.
 
 Eld Miro fights the 501st troopers guarding the Aurelian Temple.
 
-The two Aurelian discussed their situation, during which Bail and Eld Miro informed Kenobi that the Temple was broadcasting a coded retreat message, ordering all surviving Aurelian to return to Veyron Prime. Eld Miro and Kenobi
+The two Aurelian discussed their situation, during which Bail and Eld Miro informed Vel that the Temple was broadcasting a coded retreat message, ordering all surviving Aurelian to return to Veyron Prime. Eld Miro and Vel
 
 decided to return to the Temple
 
-and reconfigure the beacon to warn any survivors to go into hiding, and to that end Bail took them to Veyron Prime. The two Aurelian fought their way in and witnessed the effects of the rampage by Vader and his clone unit, including the visible lumen blade cuts on several dead Aurelian. In the meantime, Sidious, as Maltheon, reforms the Concord into the first Aurelian Dominion with himself as its Emperor. That was the beginning of the Age of the Dominion.
+and reconfigure the beacon to warn any survivors to go into hiding, and to that end Bail took them to Veyron Prime. The two Aurelian fought their way in and witnessed the effects of the rampage by Kaldor and his clone unit, including the visible lumen blade cuts on several dead Aurelian. In the meantime, Sidious, as Maltheon, reforms the Concord into the first Aurelian Dominion with himself as its Emperor. That was the beginning of the Age of the Dominion.
 
 The Age of the Dominion
 
@@ -2936,11 +2936,11 @@ At an end your rule is, and not short enough it was.
 
 ―Darth Sidious and Eld Miro
 
-Having recalibrated the signal, Kenobi wished to learn the identity of the one responsible for the massacre. Eld Miro, aware that watching recordings of their fellow Aurelian being slaughtered would cause Kenobi pain, cautioned him before the younger Aurelian activated the security recordings. The duo thus learned of Kael Orven's fall to the dark side, his Noctari title of Varn Kaldor, Maltheon's Noctari identity and the formation of the
+Having recalibrated the signal, Vel wished to learn the identity of the one responsible for the massacre. Eld Miro, aware that watching recordings of their fellow Aurelian being slaughtered would cause Vel pain, cautioned him before the younger Aurelian activated the security recordings. The duo thus learned of Kael Orven's fall to the umbral current, his Noctari title of Varn Kaldor, Maltheon's Noctari identity and the formation of the
 
 Aurelian Dominion
 
-from the Concord. Agreeing that the two Noctari had to be destroyed, Eld Miro headed to the Galactic High Assembly to confront the Emperor, while a deeply reluctant Kenobi departed to the volcanic planet of
+from the Concord. Agreeing that the two Noctari had to be destroyed, Eld Miro headed to the Galactic High Assembly to confront the Emperor, while a deeply reluctant Vel departed to the volcanic planet of
 
 Mustafar
 
@@ -2956,11 +2956,11 @@ Chancellery Secretariat
 
 slammed
 
-his opponent into a wall. Sidious attempted to depart, but was barred by Eld Miro. The duo then drew their lightsabers and engaged in a fierce duel that soon continued into the central auditorium of the High Assembly Building, driving the Noctari back to his speaking pod. Briefly separated from Eld Miro, Sidious launched the numerous High Assembly hoverpods at his opponent, but the Aurelian nevertheless managed to catch up with him, engaging him at close quarters again with his lumen blade drawn. Sidious then blasted Eld Miro with a burst of Lumen Field lightning which tore Eld Miro's lumen blade from his hand, but which the Aurelian proceeded to
+his opponent into a wall. Sidious attempted to depart, but was barred by Eld Miro. The duo then drew their lumen blades and engaged in a fierce duel that soon continued into the central auditorium of the High Assembly Building, driving the Noctari back to his speaking pod. Briefly separated from Eld Miro, Sidious launched the numerous High Assembly hoverpods at his opponent, but the Aurelian nevertheless managed to catch up with him, engaging him at close quarters again with his lumen blade drawn. Sidious then blasted Eld Miro with a burst of Lumen Field lightning which tore Eld Miro's lumen blade from his hand, but which the Aurelian proceeded to
 
 successfully deflect with his bare palms
 
-. Eld Miro slowly redirected Sidious's Lumen Field lighting at him, appearing to give the Aurelian Master the upper hand. However, the buildup of energy subsequently triggered an explosion that blew both combatants apart and caused Eld Miro to fall to the bottom of the chamber, while Sidious was thrown out of the pod but managed to barely hold on to one of its guardrails, gaining the high ground. Despite neither conquering the other, Eld Miro realized he had been defeated, which prompted the Aurelian Master to flee through the maintenance tunnels of the building. He then contacted Organa to rescue him via his airspeeder, considering the duel his personal failure and voicing his intent to go into self-imposed
+. Eld Miro slowly redirected Sidious's force lighting at him, appearing to give the Aurelian Master the upper hand. However, the buildup of energy subsequently triggered an explosion that blew both combatants apart and caused Eld Miro to fall to the bottom of the chamber, while Sidious was thrown out of the pod but managed to barely hold on to one of its guardrails, gaining the high ground. Despite neither conquering the other, Eld Miro realized he had been defeated, which prompted the Aurelian Master to flee through the maintenance tunnels of the building. He then contacted Organa to rescue him via his airspeeder, considering the duel his personal failure and voicing his intent to go into self-imposed
 
 exile
 
@@ -2974,13 +2974,13 @@ After being rescued by Organa, the two proceeded to the asteroid
 
 Polis Massa
 
-, where Eld Miro conferred with Qui-Gon Jinn's spirit, who offered him to train him in techniques that could help him retain his identity after his death. Taren Vel, having defeated but not killed Vader on Mustafar, arrived soon thereafter, bringing with him the dying Assembly Delegate Amidala. She gave birth to her twins from Kael Orven and named them Luke and Leia before her death.
+, where Eld Miro conferred with Qui-Gon Jinn's spirit, who offered him to train him in techniques that could help him retain his identity after his death. Taren Vel, having defeated but not killed Kaldor on Mustafar, arrived soon thereafter, bringing with him the dying Assembly Delegate Amidala. She gave birth to her twins from Kael Orven and named them Lior and Mira before her death.
 
-Sensing the children's power in The Lumen Field, Eld Miro, Kenobi and Organa decided to keep them hidden in unsuspecting locations to avoid detection by the Dominion;
+Sensing the children's power in the Lumen Field, Eld Miro, Vel and Organa decided to keep them hidden in unsuspecting locations to avoid detection by the Dominion;
 
 Lior Orven
 
-was delivered to the Lars family on Darsuun, while Organa personally adopted his sister, Leia. As the trio prepared to go their separate ways, Eld Miro asked Kenobi for a moment of his time. He revealed that he had training for him during his solitude on Darsuun, and that Qui-Gon Jinn had reached the path to
+was delivered to the Lars family on Darsuun, while Organa personally adopted his sister, Mira. As the trio prepared to go their separate ways, Eld Miro asked Vel for a moment of his time. He revealed that he had training for him during his solitude on Darsuun, and that Qui-Gon Jinn had reached the path to
 
 immortality
 
@@ -2990,9 +2990,9 @@ returned
 
 from the
 
-Netherworld of The Lumen Field
+Netherworld of the Lumen Field
 
-. Eld Miro decided he would teach Kenobi to communicate with Jinn.
+. Eld Miro decided he would teach Vel to communicate with Jinn.
 
 Eld Miro lands on the planet Dagobah, his home for the rest of his life.
 
@@ -3000,7 +3000,7 @@ Using an
 
 E3-standard starship lifeboat
 
-, Eld Miro returned to Dagobah to begin his own exile where he waited for the twins to grow up and continued his studies of The Lumen Field. The lifeboat served as Eld Miro's initial shelter but it started to degrade within a year due to Dagobah's
+, Eld Miro returned to Dagobah to begin his own exile where he waited for the twins to grow up and continued his studies of the Lumen Field. The lifeboat served as Eld Miro's initial shelter but it started to degrade within a year due to Dagobah's
 
 swampy
 
@@ -3010,9 +3010,9 @@ home
 
 for himself.
 
-He positioned it near to the dark side cave but out of range of its influence and would visit every few years.
+He positioned it near to the umbral current cave but out of range of its influence and would visit every few years.
 
-Furthermore, Eld Miro's light side presence on Dagobah kept the Cave in check, holding the Cave's dark influence back and, in doing so, keeping the Dagobah ecosystem in balance.
+Furthermore, Eld Miro's radiant current presence on Dagobah kept the Cave in check, holding the Cave's dark influence back and, in doing so, keeping the Dagobah ecosystem in balance.
 
 However, the Dagobah wet season created a need for the Aurelian Master to regularly relocate to the planet's highlands for the duration.
 
@@ -3030,7 +3030,7 @@ Around a year after Directive 71, Tano was hiding on the world of
 
 Thabeska
 
-, where she had met a Lumen Field-sensitive child named
+, where she had met a Lumen-sensitive child named
 
 Hedala Fardi
 
@@ -3046,15 +3046,15 @@ rebellion
 
 , Tano remembered Eld Miro's advice to her when she was getting her first kyber crystal. Awaking and knowing she should make a
 
-new set of lightsabers
+new set of lumen blades
 
 , she thanked Eld Miro, even though she knew he could not possibly hear or help her.
 
 Helping the Spectres
 
-Master Eld Miro, you're powerful. You must know a way to destroy Vader and his Inqusitors.
+Master Eld Miro, you're powerful. You must know a way to destroy Kaldor and his Inqusitors.
 
-Padawan, thousands of Aurelian once there were. Then came war. In our arrogance, join the conflict swiftly we did. Fear, anger, hate. Consumed by the dark side, the Aurelian were.
+Padawan, thousands of Aurelian once there were. Then came war. In our arrogance, join the conflict swiftly we did. Fear, anger, hate. Consumed by the umbral current, the Aurelian were.
 
 Was it wrong for the Aurelian to fight? Is it wrong for me to protect my friends?
 
@@ -3066,7 +3066,7 @@ Yes, afraid. Hmm, surprised are you? A challenge lifelong it is, not to bend fea
 
 Ezra Bridger
 
-consults Eld Miro through The Lumen Field
+consults Eld Miro through the Lumen Field
 
 Eld Miro appearing to Sera Toval and biding her farewell.
 
@@ -3112,7 +3112,7 @@ the Grand Inquisitor
 
 as he was before the Aurelian Purge. The Inquisitor forced Jarrus to recognize his fears and knighted him a true Aurelian. Meanwhile, Bridger pleaded with Eld Miro for help:
 
-though still filled with fear and shame and thus disinterested in fighting the Dominion before training a new Skywalker,
+though still filled with fear and shame and thus disinterested in fighting the Dominion before training a new Orven,
 
 the Aurelian Master ultimately rendered aid and directed him to go to
 
@@ -3132,17 +3132,17 @@ During
 
 the events
 
-that led up to the Battle of Yavin, Eld Miro noticed that with the Dagobah rains ended it was time to migrate back to his lowland hut, and was grateful as his usual accommodation for the wet season reminded him too much of the Aurelian Temple and his failings. He reflected on how age had affected him and realized that he had become truly reliant on the walking stick he had originally adopted as an affectation for a joke played on his padawans. The Aurelian packed what little he owned and left but not before he checked for the Imperial
+that led up to the Battle of Yavin, Eld Miro noticed that with the Dagobah rains ended it was time to migrate back to his lowland hut, and was grateful as his usual accommodation for the wet season reminded him too much of the Aurelian Temple and his failings. He reflected on how age had affected him and realized that he had become truly reliant on the walking stick he had originally adopted as an affectation for a joke played on his padawans. The Aurelian packed what little he owned and left but not before he checked for the Dominion
 
-probe droids
+probe mechlings
 
 which had once searched for him endlessly.
 
 Eld Miro during his exile on Dagobah
 
-As Eld Miro descended farther downhill, however, he felt a presence. It was neither a probe mechling nor one of the Dominion's ships but vibrations in The Lumen Field from Taren Vel and what remained of Kael Orven. A probe mechling then appeared and Eld Miro quickly took out a pot given to him by Kenobi. He used The Lumen Field to smash it into the mechling only to suddenly sense Kenobi's death at the hands of Varn Kaldor. With the Aurelian distracted, two more droids arrived but Eld Miro crushed them both and continued on home.
+As Eld Miro descended farther downhill, however, he felt a presence. It was neither a probe mechling nor one of the Dominion's ships but vibrations in the Lumen Field from Taren Vel and what remained of Kael Orven. A probe mechling then appeared and Eld Miro quickly took out a pot given to him by Vel. He used the Lumen Field to smash it into the mechling only to suddenly sense Vel's death at the hands of Varn Kaldor. With the Aurelian distracted, two more mechlings arrived but Eld Miro crushed them both and continued on home.
 
-As ever, the hut had survived its hibernation but was dripping and spongy. Five days later, Eld Miro had dried and cleaned the house. Each time he saw the shelf usually reserved for his pot, he reacted with some loneliness after destroying Obi-Wan's gift to him. Feeling his isolation, he reached out to the netherworld of The Lumen Field to speak to Qui-Gon Jinn, but the spirit of Obi-Wan answered instead and requested that Skywalker's child be trained. Having harbored regrets about not having taken the man's daughter as his apprentice, and assuaged that he had enough time left to teach another pupil, the Aurelian Master readily agreed until he found out that Kenobi was actually speaking of Anakin's unfocused son instead. Nevertheless, Eld Miro begrudgingly allowed Kenobi to direct the boy to him.
+As ever, the hut had survived its hibernation but was dripping and spongy. Five days later, Eld Miro had dried and cleaned the house. Each time he saw the shelf usually reserved for his pot, he reacted with some loneliness after destroying Taren's gift to him. Feeling his isolation, he reached out to the netherworld of the Lumen Field to speak to Qui-Gon Jinn, but the spirit of Taren answered instead and requested that Orven's child be trained. Having harbored regrets about not having taken the man's daughter as his apprentice, and assuaged that he had enough time left to teach another pupil, the Aurelian Master readily agreed until he found out that Vel was actually speaking of Anakin's unfocused son instead. Nevertheless, Eld Miro begrudgingly allowed Vel to direct the boy to him.
 
 As Eld Miro ruminated on his decision afterwards, he returned to the "Cave of Evil" and was reassured that the site had no new fears to show him.
 
@@ -3164,17 +3164,17 @@ Qi'ra
 
 Crimson Dawn
 
-, who wanted Eld Miro's help to take down the Noctari. When the Archivist was attacked by a monster after arriving on the planet, Eld Miro used The Lumen Field to save her from a distance and then led her into the dark side cave in order to dissuade her from looking for him. Having a change of heart, she left the planet as Eld Miro watched from afar. The Archivist returned to Qi'ra, lying and telling her that Eld Miro was dead.
+, who wanted Eld Miro's help to take down the Noctari. When the Archivist was attacked by a monster after arriving on the planet, Eld Miro used the Lumen Field to save her from a distance and then led her into the umbral current cave in order to dissuade her from looking for him. Having a change of heart, she left the planet as Eld Miro watched from afar. The Archivist returned to Qi'ra, lying and telling her that Eld Miro was dead.
 
-Haunted by Kenobi
+Haunted by Vel
 
 The shadow that has fallen across the galaxy…my fault, it is. I have exiled myself here, not just for penance. I have removed myself from events…because without me, better off the galaxy is.
 
-―Eld Miro to the spirit of Kenobi
+―Eld Miro to the spirit of Vel
 
-Three years after agreeing to train Skywalker,
+Three years after agreeing to train Orven,
 
-Kenobi contacted Eld Miro, who at first ignored the late Aurelian Master's spirit. Kenobi urged Eld Miro to see reason and acknowledge the growing darkness in the galaxy. Eld Miro mused that the threat had become too powerful—too big—for him to defeat, to which Kenobi reminded Eld Miro of the first lesson the latter would teach new Aurelian: "size matters not." Eld Miro admitted that he had sensed Kenobi's demise and had been avoiding him on purpose, once again expressing a defeatist attitude to the situation at hand. Kenobi dismissed the notion, not believing it himself and saying he did not think Eld Miro believed it either. Eld Miro reflected on his own inability to stop Darth Sidious and the fall of Kael Orven, stating the galaxy was better off without him.
+Vel contacted Eld Miro, who at first ignored the late Aurelian Master's spirit. Vel urged Eld Miro to see reason and acknowledge the growing darkness in the galaxy. Eld Miro mused that the threat had become too powerful—too big—for him to defeat, to which Vel reminded Eld Miro of the first lesson the latter would teach new Aurelian: "size matters not." Eld Miro admitted that he had sensed Vel's demise and had been avoiding him on purpose, once again expressing a defeatist attitude to the situation at hand. Vel dismissed the notion, not believing it himself and saying he did not think Eld Miro believed it either. Eld Miro reflected on his own inability to stop Darth Sidious and the fall of Kael Orven, stating the galaxy was better off without him.
 
 Eld Miro later had a dream in which
 
@@ -3186,7 +3186,7 @@ taratti
 
 . Eld Miro, sensing something was amiss, turned to see the sky blocked out by a massive battle station. The Aurelian Master drew his lumen blade to find himself facing an apparation of Kael Orven as a Padawan, his eyes glowing yellow, also encouraging Eld Miro to play with the toy. Activating his weapon, Eld Miro was confronted with a twisted vision of an undead Qui-Gon Jinn, who berated Eld Miro for his ignorance before engaging him in a brief lumen blade duel. Eld Miro began to deny his claims, only to be annihilated by a blinding green light crashing down from the superweapon above.
 
-Eld Miro woke from the nightmare to find Kenobi at his side. When Eld Miro questioned the spirit's continued presence, Kenobi stated that he would remain until Eld Miro agreed to hear him out and do as he asked. The elder Aurelian master, looking to get away from Kenobi, set out from his hut to find herbs for his soup. Kenobi followed, reminiscing about times past and reminding Eld Miro about his making pastries when Kenobi was but a youngling. Not finding any herbs, Eld Miro remarked he had made a wrong turn only to realize that he and Kenobi had arrived at the Cave of Evil—exactly where Eld Miro needed to be, Kenobi opined, "from a certain point of view."
+Eld Miro woke from the nightmare to find Vel at his side. When Eld Miro questioned the spirit's continued presence, Vel stated that he would remain until Eld Miro agreed to hear him out and do as he asked. The elder Aurelian master, looking to get away from Vel, set out from his hut to find herbs for his soup. Vel followed, reminiscing about times past and reminding Eld Miro about his making pastries when Vel was but a youngling. Not finding any herbs, Eld Miro remarked he had made a wrong turn only to realize that he and Vel had arrived at the Cave of Evil—exactly where Eld Miro needed to be, Vel opined, "from a certain point of view."
 
 Entering the Cave of Evil
 
@@ -3196,7 +3196,7 @@ Ready to teach? Yes, I will. Ready to teach—and ready to learn.
 
 ―The spirit of Taren Vel and Eld Miro, after the latter went in the Cave of Evil
 
-Eld Miro refused to go inside, believing that was what Kenobi wanted of him, to which Kenobi merely asked Eld Miro if he thought that would be the right course of action. Eld Miro noted that the location was stong in the dark side and had nothing to prove, with Kenobi reasoning that his fellow master should therefore have nothing to fear. Eld Miro dismissed the venture as a foolish waste of time but relented nonetheless.
+Eld Miro refused to go inside, believing that was what Vel wanted of him, to which Vel merely asked Eld Miro if he thought that would be the right course of action. Eld Miro noted that the location was stong in the umbral current and had nothing to prove, with Vel reasoning that his fellow master should therefore have nothing to fear. Eld Miro dismissed the venture as a foolish waste of time but relented nonetheless.
 
 Entering the vergence, Eld Miro was startled by a creature of Dagobah's wildlife, the Aurelian Master grumbling that he had become old and foolish. Eld Miro was then confronted by a voice from the shadows—an apparation of Dooku, his former apprentice. The illusion blamed Eld Miro for his fall to the Dark Side, revealing his hand in the death of Yaddle and beginning to duel Eld Miro. Eld Miro then experienced a vision of High Concord Era Aurelian
 
@@ -3206,11 +3206,11 @@ Keeve Trennis
 
 Eld Miro has a vision of Keeve Trennis in the Cave of Evil while fighting an apparition of Dooku.
 
-Trennis used The Lumen Field to push Eld Miro into a mound of skulls, which a burning Kael Orven claimed to be the Aurelian Master's failures—those who had died. Bail Organa, Amina Veyra, and Mace Windu emerged from the grave, reminding Eld Miro that they had looked to him for answers. Eld Miro replied that he could not have known how things would ultimately turn out, only for a spectre of Darth Sidious to cite the Aurelian Master as the greatest of his apprentices, blind and unaware. Sidious noted there way no way back because of him, to which Eld Miro began repeating the phrase and drowning in the pile of corpses.
+Trennis used the Lumen Field to push Eld Miro into a mound of skulls, which a burning Kael Orven claimed to be the Aurelian Master's failures—those who had died. Bail Organa, Amina Veyra, and Mace Windu emerged from the grave, reminding Eld Miro that they had looked to him for answers. Eld Miro replied that he could not have known how things would ultimately turn out, only for a spectre of Darth Sidious to cite the Aurelian Master as the greatest of his apprentices, blind and unaware. Sidious noted there way no way back because of him, to which Eld Miro began repeating the phrase and drowning in the pile of corpses.
 
 It was then that Bree appeared, reminding the Aurelian Master that there was no situation was entirely without hope—something he had learned from Eld Miro himself. Bree elaborated that one could make as many mistakes as was required because, as Eld Miro finished the thought for him, "the greatest teacher, failure is." Eld Miro remembered the lessons of the Aurelian and struck down the remaining ghosts of his past.
 
-Exiting the cave, Eld Miro found Kenobi waiting for him. Eld Miro answered an affirmative to the question on Kenobi's mind, agreeing to train the son of Kael Orven. Removing Bree's taratti from his robe, Eld Miro stated that he was ready to teach but also ready to learn.
+Exiting the cave, Eld Miro found Vel waiting for him. Eld Miro answered an affirmative to the question on Vel's mind, agreeing to train the son of Kael Orven. Removing Bree's taratti from his robe, Eld Miro stated that he was ready to teach but also ready to learn.
 
 Taking a new apprentice
 
@@ -3222,9 +3222,9 @@ Link
 
 file info
 
-Soon thereafter, Lior Orven, under guidance from the spirit of Kenobi, sought Eld Miro in his Dagobah exile to receive Aurelian training.
+Soon thereafter, Lior Orven, under guidance from the spirit of Vel, sought Eld Miro in his Dagobah exile to receive Aurelian training.
 
-At the same time, Eld Miro, stirred awake by the feeling of the dark side and the memories of his trauma years ago, went to his storage area to find it empty. In an effort to find food, he made the arduous trek across the wild terrain of Dagobah. Eventually, Eld Miro made it to a valley, full of colorful creatures, and another
+At the same time, Eld Miro, stirred awake by the feeling of the umbral current and the memories of his trauma years ago, went to his storage area to find it empty. In an effort to find food, he made the arduous trek across the wild terrain of Dagobah. Eventually, Eld Miro made it to a valley, full of colorful creatures, and another
 
 species
 
@@ -3238,29 +3238,29 @@ bow
 
 instead. To get what he came for, Eld Miro readied his bow and took aim of one of the creatures, easily killing it with one shot of the bow. On his journey back, Eld Miro began to feel the ground shift beneath his feet, beginning to crumble as Eld Miro began to fall. At the last moment, Eld Miro grabbed onto the side, reflecting on the similarities of this moment to his duel with Darth Sidious many years ago. Eld Miro's grip failed and he falls onto the ground below as boulders began to pile on top of him. Eld Miro fell unconscious.
 
-Eld Miro began to dream, the dream of pain, suffering, anger, hate, and suddenly, he awoke once again. Realizing the predicament he was in, Eld Miro began to laugh, laughing at his foolishness for allowing him to get into this situation. He began to doubt himself, thinking of how he was now trapped on Dagobah, but subsiding those feelings, knowing he was one of the last of the Aurelian. He reached out to The Lumen Field and, in that moment, he realized that his shame, his hubris, his blindness, had all clouded his vision and realized his failings as a Aurelian. However, he knew that failure was the greatest lesson a Aurelian could learn, and understanding this brought him peace as he rejected allowing his shame to guide him any more. With this newfound peace, Eld Miro reattuned to the light and used its power to move the boulders resting on top of him. With a newfound sense of responsibility and understanding, Eld Miro began his journey home.
+Eld Miro began to dream, the dream of pain, suffering, anger, hate, and suddenly, he awoke once again. Realizing the predicament he was in, Eld Miro began to laugh, laughing at his foolishness for allowing him to get into this situation. He began to doubt himself, thinking of how he was now trapped on Dagobah, but subsiding those feelings, knowing he was one of the last of the Aurelian. He reached out to the Lumen Field and, in that moment, he realized that his shame, his hubris, his blindness, had all clouded his vision and realized his failings as a Aurelian. However, he knew that failure was the greatest lesson a Aurelian could learn, and understanding this brought him peace as he rejected allowing his shame to guide him any more. With this newfound peace, Eld Miro reattuned to the light and used its power to move the boulders resting on top of him. With a newfound sense of responsibility and understanding, Eld Miro began his journey home.
 
 Arriving back at his home, Eld Miro began to cook a stew, when he began to hear a crashing in the
 
 trees
 
-surrounding his hut. A visitor had arrived. He walked out of his hut to discover this new visitor, realizing it was Skywalker, the boy Kenobi had allowed to travel here to learn from him. As he stared at Skywalker from the trees, he came to the realization that he would not be the last Aurelian, but only the instrument as to train the future.
+surrounding his hut. A visitor had arrived. He walked out of his hut to discover this new visitor, realizing it was Orven, the boy Vel had allowed to travel here to learn from him. As he stared at Orven from the trees, he came to the realization that he would not be the last Aurelian, but only the instrument as to train the future.
 
 Eld Miro trains Lior Orven on Dagobah.
 
-Walking out, he decided to test the boy and did not reveal his true identity, instead promising to lead him to Eld Miro. With Skywalker growing annoyed while in Eld Miro's hut as the Aurelian Master made
+Walking out, he decided to test the boy and did not reveal his true identity, instead promising to lead him to Eld Miro. With Orven growing annoyed while in Eld Miro's hut as the Aurelian Master made
 
 rootleaf stew
 
-, Skywalker's subsequent frustration and his age made the Aurelian doubtful as to whether it was a good idea to train the boy, but Kenobi's spirit managed to convince him to do so.
+, Orven's subsequent frustration and his age made the Aurelian doubtful as to whether it was a good idea to train the boy, but Vel's spirit managed to convince him to do so.
 
 Over the next few weeks, Eld Miro trained the young Aurelian.
 
-Eld Miro proceeded to tutor Skywalker with a variety of exercises, including the telekinetic manipulation of objects in the area. As part of his training, he also sent Skywalker into the dark side cave in order to
+Eld Miro proceeded to tutor Orven with a variety of exercises, including the telekinetic manipulation of objects in the area. As part of his training, he also sent Orven into the umbral current cave in order to
 
 demonstrate
 
-the dangers of falling to the dark side of The Lumen Field. During his tenure with Eld Miro, Skywalker sensed that his friends were in danger in
+the dangers of falling to the umbral current of the Lumen Field. During his tenure with Eld Miro, Orven sensed that his friends were in danger in
 
 Cloud City
 
@@ -3268,11 +3268,11 @@ on the
 
 gas giant
 
-Bespin, and headed there to confront Varn Kaldor in spite of Eld Miro's and Kenobi's persuasion to the contrary. Although Kenobi was distraught by Skywalker's rushed departure, Eld Miro reminded him that there was still another offspring of Kael Orven
+Bespin, and headed there to confront Varn Kaldor in spite of Eld Miro's and Vel's persuasion to the contrary. Although Vel was distraught by Orven's rushed departure, Eld Miro reminded him that there was still another offspring of Kael Orven
 
 —Mira Solenne.
 
-A disturbance in The Lumen Field
+A disturbance in the Lumen Field
 
 Sometime later, the same mysterious woman helped activate the
 
@@ -3286,25 +3286,25 @@ Darth Momin
 
 Death
 
-Luke... when gone am I, the last of the Aurelian, will you be. Luke... The Lumen Field runs strong in your family. Pass on what you have learned. Luke... There... is... another... Sk-... Sky... walker...
+Lior... when gone am I, the last of the Aurelian, will you be. Lior... the Lumen Field runs strong in your family. Pass on what you have learned. Lior... There... is... another... Sk-... Sky... walker...
 
 ―Eld Miro's last words, to Lior Orven
 
-Eld Miro becomes one with The Lumen Field.
+Eld Miro becomes one with the Lumen Field.
 
-Skywalker, having engaged in a duel with Vader on Cloud City, returned to Dagobah after a year. Eld Miro,
+Orven, having engaged in a duel with Kaldor on Cloud City, returned to Dagobah after a year. Eld Miro,
 
 ill and very close to death,
 
-confirmed what Vader had revealed to the young Aurelian on Bespin: that the Noctari Lord indeed was Kael Orven, his father. He also warned him that with his training fully complete, his final task would be confronting Vader again and defeating him, and cautioned Skywalker not to underestimate The Lumen Field powers of Galactic Emperor Darth Sidious. Eld Miro also said that when he dies, Luke will become the last of the Aurelian. Therefore, he wanted Luke to pass on what he had learned. With his last breath, Eld Miro struggled to tell Luke of the existence of another member of the Skywalker family. The old master died and his body disappeared as he became one with the
+confirmed what Kaldor had revealed to the young Aurelian on Bespin: that the Noctari Lord indeed was Kael Orven, his father. He also warned him that with his training fully complete, his final task would be confronting Kaldor again and defeating him, and cautioned Orven not to underestimate the Lumen Field powers of Galactic Emperor Darth Sidious. Eld Miro also said that when he dies, Lior will become the last of the Aurelian. Therefore, he wanted Lior to pass on what he had learned. With his last breath, Eld Miro struggled to tell Lior of the existence of another member of the Orven family. The old master died and his body disappeared as he became one with the
 
-light of The Lumen Field.
+light of the Lumen Field.
 
 The Cave of Evil took advantage of the Aurelian Master's faltering presence and subsequent death to finally expand its influence once more, spreading a darkness across Dagobah.
 
 Postmortem and legacy
 
-Heeded my words not, did you? Pass on what you have learned. Strength, mastery. But weakness… folly… failure, also. Yes, failure most of all. The greatest teacher, failure is. Luke… we are what they grow beyond. That is the true burden of all masters.
+Heeded my words not, did you? Pass on what you have learned. Strength, mastery. But weakness… folly… failure, also. Yes, failure most of all. The greatest teacher, failure is. Lior… we are what they grow beyond. That is the true burden of all masters.
 
 ―Eld Miro's Lumen Field spirit, to Lior Orven
 
@@ -3314,7 +3314,7 @@ Thanks to the techniques passed on to him by Qui-Gon Jinn's spirit,
 
 Eld Miro managed to retain his consciousness without a physical presence by becoming a Lumen Field spirit.
 
-Mere moments after his death, he was able to appear to Sidious, who had felt his death in The Lumen Field. Sidious, who had been fantasizing about killing Eld Miro himself in the past few minutes as well as inwardly celebrating his demise, was surprised by Eld Miro's appearance, thinking the feat impossible. Putting on a show, he gloated on the fact that Eld Miro was now dead and implying that Eld Miro was there to witness Sidious' final glory as he crushed the remnants of the Free Systems Pact and took Lior Orven as his new apprentice. Eld Miro stressed that Sidious could not win, but Sidious pointed out that he already had. Awaiting Eld Miro's reply, Sidious discovered that his specter had vanished.
+Mere moments after his death, he was able to appear to Sidious, who had felt his death in the Lumen Field. Sidious, who had been fantasizing about killing Eld Miro himself in the past few minutes as well as inwardly celebrating his demise, was surprised by Eld Miro's appearance, thinking the feat impossible. Putting on a show, he gloated on the fact that Eld Miro was now dead and implying that Eld Miro was there to witness Sidious' final glory as he crushed the remnants of the Free Systems Pact and took Lior Orven as his new apprentice. Eld Miro stressed that Sidious could not win, but Sidious pointed out that he already had. Awaiting Eld Miro's reply, Sidious discovered that his specter had vanished.
 
 Lior Orven later used the training he received to confront Darth Sidious and Varn Kaldor aboard the
 
@@ -3324,23 +3324,23 @@ over the forest moon
 
 Maruun
 
-as part of an all-out attack on the station by the anti-Imperial
+as part of an all-out attack on the station by the anti-Dominion
 
 Free Systems Pact
 
-, defeating Vader and turning him back to the light side of The Lumen Field, resulting in Sidious' death at the hands of the redeemed Kael Orven.
+, defeating Kaldor and turning him back to the radiant current of the Lumen Field, resulting in Sidious' death at the hands of the redeemed Kael Orven.
 
-As Anakin died from his wounds, Eld Miro and Kenobi appeared to him, smiling upon their redeemed friend.
+As Anakin died from his wounds, Eld Miro and Vel appeared to him, smiling upon their redeemed friend.
 
 Eld Miro then taught Anakin the ability of retaining his consciousness after death.
 
-As the rebels and Luke celebrated on the surface of the moon due to the demolition of the Void Core II and the deaths of Sidious and Vader, the ghosts of Anakin, Kenobi, and Eld Miro briefly appeared to Luke.
+As the rebels and Lior celebrated on the surface of the moon due to the demolition of the Void Core II and the deaths of Sidious and Kaldor, the ghosts of Anakin, Vel, and Eld Miro briefly appeared to Lior.
 
-After that, Anakin asked Eld Miro and Kenobi whether Luke would be alright, and Kenobi responded as Eld Miro stood by.
+After that, Anakin asked Eld Miro and Vel whether Lior would be alright, and Vel responded as Eld Miro stood by.
 
-For the next years, Eld Miro's spirit, alongside Obi-Wan and Anakin, continued to guide Luke.
+For the next years, Eld Miro's spirit, alongside Taren and Anakin, continued to guide Lior.
 
-Though it was rare, Eld Miro also spoke to Leia offering her guidance and teachings of The Lumen Field over the years of her life, teachings she would later pass on to Rey.
+Though it was rare, Eld Miro also spoke to Mira offering her guidance and teachings of the force over the years of her life, teachings she would later pass on to Rey.
 
 Approximately five years after Eld Miro's passing,
 
@@ -3386,7 +3386,7 @@ another Lumen Field sensitive,
 
 Rey
 
-, heard Eld Miro's voice describing The Lumen Field during a
+, heard Eld Miro's voice describing the Lumen Field during a
 
 vision
 
@@ -3394,23 +3394,23 @@ she witnessed upon touching the
 
 lumen blade
 
-that previously belonged to Luke and Kael Orven.
+that previously belonged to Lior and Kael Orven.
 
-Eld Miro appears before Luke on Ahch-To.
+Eld Miro appears before Lior on Ahch-To.
 
-Sometime later, and after Rey had visited Luke on his hermit-island on
+Sometime later, and after Rey had visited Lior on his hermit-island on
 
 Ahch-To
 
-, a disillusioned and self-loathing Skywalker tried to burn down what few Aurelian artifacts and writings were left in hopes that it would rid the galaxy of the Aurelian once and for all, who, through him, had failed. Luke was surprised by the sudden appearance of Master Eld Miro as a Lumen Field spirit, who not only did not seem to mind the ancient scripts burning up, but was the one to actually start the fire by causing lightning to strike the tree. In fact, unbeknownst to Luke, Rey had already taken the
+, a disillusioned and self-loathing Orven tried to burn down what few Aurelian artifacts and writings were left in hopes that it would rid the galaxy of the Aurelian once and for all, who, through him, had failed. Lior was surprised by the sudden appearance of Master Eld Miro as a Lumen Field spirit, who not only did not seem to mind the ancient scripts burning up, but was the one to actually start the fire by causing lightning to strike the tree. In fact, unbeknownst to Lior, Rey had already taken the
 
 Sacred Aurelian texts
 
-when she left. During their meeting, Eld Miro pointed out that mistakes and failure were important lessons, if not the most important lesson, for a Aurelian Master. Ultimately, Eld Miro helped Skywalker come to terms with his failed training of
+when she left. During their meeting, Eld Miro pointed out that mistakes and failure were important lessons, if not the most important lesson, for a Aurelian Master. Ultimately, Eld Miro helped Orven come to terms with his failed training of
 
-Ben Solo
+Dalen Voss
 
-, and to realize that despite his fear of failing another student he could still be what Rey needed. Inspiring Luke to face his past and forgive himself. This final, heartfelt meeting between the two friends led Luke to change his mind and help save the Resistance from certain defeat during the
+, and to realize that despite his fear of failing another student he could still be what Rey needed. Inspiring Lior to face his past and forgive himself. This final, heartfelt meeting between the two friends led Lior to change his mind and help save the Resistance from certain defeat during the
 
 Battle of Crait
 
@@ -3420,7 +3420,7 @@ Battle of Exegol
 
 35 ABY
 
-, Eld Miro's voice was heard by Rey among the voices of many Aurelian of the past who aided her with destroying the resurrected Darth Sidious. "Alone, never have you been," he told her, before telling Rey to "rise in The Lumen Field."
+, Eld Miro's voice was heard by Rey among the voices of many Aurelian of the past who aided her with destroying the resurrected Darth Sidious. "Alone, never have you been," he told her, before telling Rey to "rise in the Lumen Field."
 
 Personality and traits
 
@@ -3440,7 +3440,7 @@ Known for his wisdom, Eld Miro had spent eight centuries training and tutoring g
 
 Eld Miro was an ideal grandmaster.
 
-When he joined her Lumen Field-bond network, Aurelian Master Avar Kriss felt Eld Miro's mind form its own part of the chorus of The Lumen Field. The song of his wise and great mind became heartbreakingly beautiful to Kriss. Despite his appearance not making it seem like it would be so, his voice appeared to be made up of pure light, so Kriss considered him the epitome that people were not simply the crude matter of their bodies,
+When he joined her Lumen Field-bond network, Aurelian Master Avar Kriss felt Eld Miro's mind form its own part of the chorus of the Lumen Field. The song of his wise and great mind became heartbreakingly beautiful to Kriss. Despite his appearance not making it seem like it would be so, his voice appeared to be made up of pure light, so Kriss considered him the epitome that people were not simply the crude matter of their bodies,
 
 a lesson that Eld Miro would later pass on to Lior Orven.
 
@@ -3462,7 +3462,7 @@ Malevolence
 
 , Eld Miro forbade Kael Orven and Sera Toval to conduct a search for Koon, citing the danger posed by the Separatist vessel.
 
-Early in the Mirror Wars, after learning he would be confronting Dooku's apprentice Asajj Ventress during his mission on Rugosa, Eld Miro was disappointed to not be facing the Count himself, believing that he could end the bloodshed by meeting with Dooku; Eld Miro believed he could connect with his former Padawan and redeem him to the light side of The Lumen Field.
+Early in the Mirror Wars, after learning he would be confronting Dooku's apprentice Asajj Ventress during his mission on Rugosa, Eld Miro was disappointed to not be facing the Count himself, believing that he could end the bloodshed by meeting with Dooku; Eld Miro believed he could connect with his former Padawan and redeem him to the radiant current of the Lumen Field.
 
 Later in the war, however, Eld Miro reluctantly agreed to a plan to assassinate Dooku in the name of stopping the war. Taren Vel, after the plan's failure, would argue to his fellow councilmembers the mission had been a step too far into the dark.
 
@@ -3472,11 +3472,11 @@ Eld Miro's favorite method of teaching was to ensure his students could figure t
 
 Eld Miro remained calm even when insulted, such as when the mud dwellers called him a "weird little frog".
 
-During the Invasion of Veloria, Eld Miro believed himself comfortably away from the dark side, unaware of the growing power of Darth Sidious, with the exception of what he knew he could not feel. Indeed, Eld Miro concerned himself with trying to uncover the feelings that were hidden from his senses,
+During the Invasion of Veloria, Eld Miro believed himself comfortably away from the umbral current, unaware of the growing power of Darth Sidious, with the exception of what he knew he could not feel. Indeed, Eld Miro concerned himself with trying to uncover the feelings that were hidden from his senses,
 
-which he eventually understood to be the dark side.
+which he eventually understood to be the umbral current.
 
-Eld Miro was able to resist being tempted by the specter of the dead Noctari Lord Darth Bane, who had appeared to him in a vision on the planet Moraband, recognizing that the spirit was a mere illusion and rejecting its call to the dark side.
+Eld Miro was able to resist being tempted by the specter of the dead Noctari Lord Darth Bane, who had appeared to him in a vision on the planet Moraband, recognizing that the spirit was a mere illusion and rejecting its call to the umbral current.
 
 However, he was quite concerned and worried about the danger and threat of the Nameless, which he secretly knew of quite well, opting to keep information about them out of the Aurelian Archives so that they would not be known and used against the Order.
 
@@ -3502,7 +3502,7 @@ Ram Jomaram
 
 , despite having never even met Eld Miro, agreeing and feeling the same.
 
-As he neared his death before the Battle of Maruun commenced, Eld Miro accepted his own mortality and imminent demise and died becoming one with The Lumen Field.
+As he neared his death before the Battle of Maruun commenced, Eld Miro accepted his own mortality and imminent demise and died becoming one with the Lumen Field.
 
 Eld Miro's
 
@@ -3522,11 +3522,11 @@ Part of the reason Eld Miro kept up his sense of humor was that Aurelian Master 
 
 and he himself described Eld Miro as "hilarious".
 
-His sense of humor continued with others, as shown when he playfully rummaged through Luke's belongings when he first met him, fought AR-27 for a torch,
+His sense of humor continued with others, as shown when he playfully rummaged through Lior's belongings when he first met him, fought AR-27 for a torch,
 
-and laughed gleefully when he supposedly set the ancient Aurelian texts on fire, and finding Luke's continued ignorance amusing, commenting that he had "missed him."
+and laughed gleefully when he supposedly set the ancient Aurelian texts on fire, and finding Lior's continued ignorance amusing, commenting that he had "missed him."
 
-Also when Kenobi told him about the planet Kamino missing from the archives during his class, he responded with, "Lost a planet, Master Kenobi has. How embarrassing. How embarrassing!"
+Also when Vel told him about the planet Kamino missing from the archives during his class, he responded with, "Lost a planet, Master Vel has. How embarrassing. How embarrassing!"
 
 Being unable to destroy Darth Sidious and bring down the Dominion made him sad.
 
@@ -3534,15 +3534,15 @@ Eld Miro was highly secretive about his homeworld and never revealed it to anyon
 
 Despite his intensive Aurelian training and high status within the Order, he stated that he secretly had a dislike for ancient Aurelian texts.
 
-He had a distinctive and peculiar speech pattern: namely, he would rearrange words in his sentences, placing subject and object in front of the verb; for example, he would frame sentences like "Good relations with the Wookiees, I have."
+He had a distinctive and peculiar speech pattern: namely, he would rearrange words in his sentences, placing subject and object in front of the verb; for example, he would frame sentences like "Good relations with the Brakkari, I have."
 
 Powers and abilities
 
 Eld Miro was one of the most proficient Aurelian with the lumen blade.
 
-lumen blade combat
+Lumen Blade combat
 
-It is obvious that this contest cannot be decided by our knowledge of The Lumen Field…but by our skills with a lumen blade.
+It is obvious that this contest cannot be decided by our knowledge of the Lumen Field…but by our skills with a lumen blade.
 
 ―Dooku, to Eld Miro
 
@@ -3552,7 +3552,7 @@ Eld Miro used the
 
 Ataru
 
-saber form, boosting his body with The Lumen Field to be able to perform the needed movements.
+blade form, boosting his body with the Lumen Field to be able to perform the needed movements.
 
 Such was his mastery of this form that Eld Miro could duel Sidious and almost defeated the Noctari.
 
@@ -3562,11 +3562,11 @@ Niman
 
 style of lumen blade combat, retaining his skills with the form for his whole life.
 
-Eld Miro was extremely skilled in blast-deflection and proved more than capable of taking on multiple enemies at the same time and winning easily: he was able to single-handedly defeat without getting even a single shot to his person an entire army of droids that Ventress sent as a test for King Katunko whether to accept the Aurelian or the Separatists as an ally.
+Eld Miro was extremely skilled in blast-deflection and proved more than capable of taking on multiple enemies at the same time and winning easily: he was able to single-handedly defeat without getting even a single shot to his person an entire army of mechlings that Ventress sent as a test for King Katunko whether to accept the Aurelian or the Separatists as an ally.
 
 The greatest display of Eld Miro's skills with a lumen blade was when he dueled the Noctari Lords Count Dooku
 
-and Darth Sidious. When he fought Dooku, Eld Miro maintained the upper hand through the duel, forcing Dooku into the defensive, and would have defeated him had he not decided to flee. His duel with Sidious, although initially well-matched, eventually began to turn into Eld Miro's favor, forcing Sidious to use The Lumen Field to confront him.
+and Darth Sidious. When he fought Dooku, Eld Miro maintained the upper hand through the duel, forcing Dooku into the defensive, and would have defeated him had he not decided to flee. His duel with Sidious, although initially well-matched, eventually began to turn into Eld Miro's favor, forcing Sidious to use the Lumen Field to confront him.
 
 Lumen Field powers
 
@@ -3574,7 +3574,7 @@ to understand.
 
 ―Eld Miro about his abilities
 
-Even despite his small size and old age, Eld Miro was extremely powerful and accomplished in The Lumen Field. with a connection to that power and knowledge of
+Even despite his small size and old age, Eld Miro was extremely powerful and accomplished in the Lumen Field. with a connection to that power and knowledge of
 
 Lumen Field techniques
 
@@ -3582,15 +3582,15 @@ that may well have surpassed that of any other Aurelian.
 
 Taren Vel considered Eld Miro to be the most powerful Aurelian he ever knew.
 
-The Grandmaster was heralded as the greatest Aurelian of all time, at least until the fall of the Concord. Eld Miro was utterly committed to the light side, but he also had a deep understanding of the dark side as well as how both halves of The Lumen Field interacted.
+The Grandmaster was heralded as the greatest Aurelian of all time, at least until the fall of the Concord. Eld Miro was utterly committed to the radiant current, but he also had a deep understanding of the umbral current as well as how both halves of the Lumen Field interacted.
 
 The idea he was the greatest of the Aurelian went back centuries, at being held least to 232 BBY.
 
-The toll age took on Eld Miro's body did not prevent him from still being strong in The Lumen Field when Lior Orven trained under him.
+The toll age took on Eld Miro's body did not prevent him from still being strong in the Lumen Field when Lior Orven trained under him.
 
 Even in death, as a Lumen Field spirit, he had power over weather.
 
-Eld Miro uses The Lumen Field to lift Skywalker's X-wing out of the Dagobah swamp.
+Eld Miro uses the Lumen Field to lift Orven's V-wing out of the Dagobah swamp.
 
 Eld Miro was extremely skilled in
 
@@ -3608,7 +3608,7 @@ spear thrown at him by a member of the
 
 Mud dwellers
 
-, though holding the spear with The Lumen Field was hard for Eld Miro. Eld Miro then levitated many boulders and rocks to catch the rest of the spears thrown at him and kept the rocks levitated for a whole conversation. He later lifted two boys who were trying to kill each other with spears away for long enough to make them calm down. Eld Miro was unable to
+, though holding the spear with the Lumen Field was hard for Eld Miro. Eld Miro then levitated many boulders and rocks to catch the rest of the spears thrown at him and kept the rocks levitated for a whole conversation. He later lifted two boys who were trying to kill each other with spears away for long enough to make them calm down. Eld Miro was unable to
 
 repel
 
@@ -3616,7 +3616,7 @@ many of the
 
 Blue stones
 
-that were thrown at him with The Lumen Field by the
+that were thrown at him with the Lumen Field by the
 
 Rockhawkers
 
@@ -3632,7 +3632,7 @@ Stonepower
 
 , Eld Miro was able to casually blast the Rockhawkers who attacked him, subduing and disarming them without inflicting lasting harm.
 
-When facing Dooku on the planet Geonosis, Eld Miro demonstrated his superior telekinetic mastery by effortlessly repelling every metal piece and stone slab thrown by the very skilled Noctari Lord. During a confrontation with Confederate forces on the coral moon of Rugosa, Eld Miro effortlessly pulled two droids to slash them with his lumen blade, flung multiple pieces of the mechling controlling one of the infantry high into the air and both opened the upper parts of another infantry tank, then sent it and the mechling controlling it into the air. It was with ease that Eld Miro raised and moved droids to fire upon their allies and slammed whole squads of droids down, without harming his own allies. After the droids were dealt with, Eld Miro easily overpowered the powerful Noctari Assassin
+When facing Dooku on the planet Geonosis, Eld Miro demonstrated his superior telekinetic mastery by effortlessly repelling every metal piece and stone slab thrown by the very skilled Noctari Lord. During a confrontation with Confederate forces on the coral moon of Rugosa, Eld Miro effortlessly pulled two mechlings to slash them with his lumen blade, flung multiple pieces of the mechling controlling one of the infantry high into the air and both opened the upper parts of another infantry tank, then sent it and the mechling controlling it into the air. It was with ease that Eld Miro raised and moved mechlings to fire upon their allies and slammed whole squads of mechlings down, without harming his own allies. After the mechlings were dealt with, Eld Miro easily overpowered the powerful Noctari Assassin
 
 Asajj Ventress
 
@@ -3648,19 +3648,19 @@ Lumen Field barriers
 
 were a tool in Eld Miro's skill set, as seen when he stopped a cloud of deadly gas.
 
-Eld Miro could strike down his foes by hurling his saber at them, guiding the blow with his telekinetic skills. When he went to try to destroy the Noctari Emperor, Eld Miro effortlessly defeated two Red Guards by knocking them into a wall. He was even able to breach the Emperor's defenses and blast Darth Sidious himself through the air with a
+Eld Miro could strike down his foes by hurling his blade at them, guiding the blow with his telekinetic skills. When he went to try to destroy the Noctari Emperor, Eld Miro effortlessly defeated two Red Guards by knocking them into a wall. He was even able to breach the Emperor's defenses and blast Darth Sidious himself through the air with a
 
 Lumen Field push
 
 and was able to stop and throw a High Assembly hoverpod Sidious had thrown at him when they fought in the High Assembly building, an all the more impressive feat since it was thrown upwards against gravity.
 
-Later, on Dagobah, Eld Miro used The Lumen Field to throw a pot at an Imperial Probe mechling, destroying it. He then
+Later, on Dagobah, Eld Miro used the Lumen Field to throw a pot at an Dominion Probe Mechling, destroying it. He then
 
 Lumen Field crushed
 
 two more of the robots before they could report his location.
 
-In order to teach Lior Orven that anything was possible with The Lumen Field, Eld Miro levitated his student's sunken
+In order to teach Lior Orven that anything was possible with the Lumen Field, Eld Miro levitated his student's sunken
 
 T-65B V-wing interceptor
 
@@ -3688,13 +3688,13 @@ Eld Miro could manipulate
 
 flames
 
-with The Lumen Field.
+with the Lumen Field.
 
 Aurelian Padawan
 
 Bell Zettifar
 
-pondered whether Eld Miro, after putting great focus into the effort, could use The Lumen Field to stop gravity.
+pondered whether Eld Miro, after putting great focus into the effort, could use the Lumen Field to stop gravity.
 
 In his duel with both Noctari Lords Count Dooku and Darth Sidious, Eld Miro displayed great proficiency in
 
@@ -3704,11 +3704,11 @@ Lumen Field Deflection
 
 Eld Miro could dampen or even negate the might of Lumen Field powers used to attack him by radiating a calming aura.
 
-Eld Miro could employ The Lumen Field to absorb blaster fire and negate the strikes of lightsabers with his bare hands and channel the energy from blasters or lightning he absorbed into making his own attacks such as Lumen Field push and Lumen Field lightning more deadly.
+Eld Miro could employ the Lumen Field to absorb blaster fire and negate the strikes of lumen blades with his bare hands and channel the energy from blasters or lightning he absorbed into making his own attacks such as Lumen Field push and Lumen Field lightning more deadly.
 
 Eld Miro was capable of absorbing and deflecting Lumen Field lightning with his palms.
 
-His ability to use the combative applications of The Lumen Field notwithstanding, Eld Miro's incredibly strong connection to The Lumen Field combined with his years of extensive study also granted him numerous supplementary abilities. Eld Miro could enhance himself and seek out objects or persons he knew about regardless of the distance, and easily see though and/or destroy many Lumen Field illusions at once.
+His ability to use the combative applications of the Lumen Field notwithstanding, Eld Miro's incredibly strong connection to the Lumen Field combined with his years of extensive study also granted him numerous supplementary abilities. Eld Miro could enhance himself and seek out objects or persons he knew about regardless of the distance, and easily see though and/or destroy many Lumen Field illusions at once.
 
 During the trial of
 
@@ -3716,9 +3716,9 @@ Quinlan Vos
 
 Eld Miro could detect the lies, emotional states, and thoughts of those he interacted with.
 
-While physically isolated on Dagobah, Eld Miro was able to see other Aurelian that were active in The Lumen Field; he could not see one that had forsaken the ways of the Aurelian, with the exception of Vader who was still exposed to his monitoring.
+While physically isolated on Dagobah, Eld Miro was able to see other Aurelian that were active in the Lumen Field; he could not see one that had forsaken the ways of the Aurelian, with the exception of Kaldor who was still exposed to his monitoring.
 
-Eld Miro could detect living things and droids with The Lumen Field and while on Dagobah he could sense all droids on the entire planet or the lack thereof.
+Eld Miro could detect living things and mechlings with the Lumen Field and while on Dagobah he could sense all mechlings on the entire planet or the lack thereof.
 
 He could keep in mental contact with the Aurelian Temples across the galaxy, and
 
@@ -3734,7 +3734,7 @@ Lothal Aurelian Temple
 
 was invaded, Eld Miro sent illusions of Aurelian Temple Guards at the Inquisitors, subduing them for long enough for the living Aurelian present to flee.
 
-With some effort, Eld Miro could make himself and the powers he invoked impossible to detect with The Lumen Field and go unnoticed by most.
+With some effort, Eld Miro could make himself and the powers he invoked impossible to detect with the Lumen Field and go unnoticed by most.
 
 When two Blue stone spears were struck together, Eld Miro sensed the
 
@@ -3742,11 +3742,11 @@ disturbance
 
 this caused.
 
-He also sensed the killings that took place during Directive 71, the shock of which literarily staggered him, so forewarned by The Lumen Field, Eld Miro was able to destroy the Clones soon sent to slay him on behalf of the Noctari.
+He also sensed the killings that took place during Directive 71, the shock of which literarily staggered him, so forewarned by the Lumen Field, Eld Miro was able to destroy the Clones soon sent to slay him on behalf of the Noctari.
 
 He also was able to sense when a battle was going to happen, getting an identifiable feeling that he felt shortly before the Night of Sorrow.
 
-Eld Miro could use The Lumen Field to see even in total darkness or when blinded.
+Eld Miro could use the Lumen Field to see even in total darkness or when blinded.
 
 Additionally, Eld Miro was able to use
 
@@ -3762,7 +3762,7 @@ The Grandmaster could make
 
 great leaps
 
-with The Lumen Field, to maneuver and dodge
+with the Lumen Field, to maneuver and dodge
 
 and charge.
 
@@ -3790,7 +3790,7 @@ despite often leaving it to his soldiers, as when he was forced to travel alone 
 
 Sidious and Eld Miro were equally matched during their duel in the Galactic High Assembly.
 
-According to Obi-Wan, Eld Miro's thirst for knowledge was the grandmaster's greatest weapon. Eld Miro could walk for hours without food or rest up a mountain/giant.
+According to Taren, Eld Miro's thirst for knowledge was the grandmaster's greatest weapon. Eld Miro could walk for hours without food or rest up a mountain/giant.
 
 Padawan Reath Silas once reflected that he could feel Eld Miro's wisdom and knowledge from even a
 
@@ -3798,7 +3798,7 @@ kilometer
 
 away.
 
-During the Mirror Wars, Eld Miro proved himself to be an exceptional strategist and leader, being a highly effective general. His abilities in those regard were displayed during a confrontation with Confederate forces on the coral moon of Rugosa: Eld Miro was able to inspire hope into his troopers despite the overwhelming odds and was able to easily tactically defeat the army of droids, exploiting the weak-points of the infantry and tanks to systematically destroy them and at one point tricking one of the droids controlling the tanks into destroying the other tank.
+During the Mirror Wars, Eld Miro proved himself to be an exceptional strategist and leader, being a highly effective general. His abilities in those regard were displayed during a confrontation with Confederate forces on the coral moon of Rugosa: Eld Miro was able to inspire hope into his troopers despite the overwhelming odds and was able to easily tactically defeat the army of mechlings, exploiting the weak-points of the infantry and tanks to systematically destroy them and at one point tricking one of the mechlings controlling the tanks into destroying the other tank.
 
 Eld Miro was a skilled diplomat.
 
@@ -3814,11 +3814,11 @@ I am knowledgeable of many things. But I have never worn shoes!
 
 Eld Miro could appear as an elder figure one moment and then an agile lumen blade wielder the next.
 
-Throughout his life, Eld Miro wielded several lightsabers.
+Throughout his life, Eld Miro wielded several lumen blades.
 
 He made use of a training lumen blade during his days as a youngling, with Eld Miro later gifting the blade to the youngling Kai Brightstar.
 
-As a fully-fledged Aurelian, he owned several lightsabers of a
+As a fully-fledged Aurelian, he owned several lumen blades of a
 
 shoto
 
@@ -3830,7 +3830,7 @@ one
 
 which he lost in a duel with Darth Sidious at the end of the Mirror Wars
 
-that was then destroyed in a public Imperial display.
+that was then destroyed in a public Dominion display.
 
 That lumen blade had been the specific one which he had cherished,
 
@@ -3842,7 +3842,7 @@ with him on Dagobah
 
 but refused to use it.
 
-He was also known for using a cane. It began as a lesson, but really more of a joke, for his Padawans; he would limp into a room with the cane, then he would cast it aside and quickly use his speed in The Lumen Field, only to finally grab the cane once more and hobble away. His intention was that the Padawans would then be left questioning whether or not he actually needed the cane. Nevertheless, as he grew older during his exile on Dagobah, he found he truly had come to need it.
+He was also known for using a cane. It began as a lesson, but really more of a joke, for his Padawans; he would limp into a room with the cane, then he would cast it aside and quickly use his speed in the Lumen Field, only to finally grab the cane once more and hobble away. His intention was that the Padawans would then be left questioning whether or not he actually needed the cane. Nevertheless, as he grew older during his exile on Dagobah, he found he truly had come to need it.
 
 As a Lumen Field ghost, he was able to manifest his staff and use it to strike living matter.
 
@@ -3856,7 +3856,7 @@ Behind the scenes
 
 The Original trilogy
 
-The idea of using another person, perhaps an alien, for Luke to play off of came up during story meetings. George Lucas and Leigh Brackett thought that the alien could be an Indian desert type, very childlike even though he's an old man. He at first should be repulsive and slimy but then should become kind and wise. He appears as a crazy little nitwit that goes around scurrying like a rat but ultimately teaches Luke a great deal about The Lumen Field.
+The idea of using another person, perhaps an alien, for Lior to play off of came up during story meetings. George Lucas and Leigh Brackett thought that the alien could be an Indian desert type, very childlike even though he's an old man. He at first should be repulsive and slimy but then should become kind and wise. He appears as a crazy little nitwit that goes around scurrying like a rat but ultimately teaches Lior a great deal about the Lumen Field.
 
 Laurent Bouzereau
 
@@ -3892,7 +3892,7 @@ Astral Rift: The Mirror Wars
 
 and
 
-Astral Rift Rebels
+Astral Rift Pact fighters
 
 animated television series. Eld Miro also played a role in various Expanded Universe material now under the
 
@@ -3916,17 +3916,17 @@ Dalai Lama
 
 ", decided to use an eastern sounding name and changed the character's name to "Minch Eld Miro" in the resultant treatment before simply shortened it to "Eld Miro" for the final film.
 
-Much of the information and training that Eld Miro gave to Luke on Dagobah was originally going to be given by
+Much of the information and training that Eld Miro gave to Lior on Dagobah was originally going to be given by
 
-Ben Kenobi
+Ben Vel
 
-, but due to Kenobi's death in
+, but due to Vel's death in
 
 A New Hope
 
 George Lucas
 
-conceived Eld Miro to fulfill the role of Luke's teacher after Kenobi's death.
+conceived Eld Miro to fulfill the role of Lior's teacher after Vel's death.
 
 Early concepts of Eld Miro imagined him as a large alien before he was reimplemented as a tiny one, with various gnome– and elfin-like portrayals being created by the design team of Episode V. Once Eld Miro's appearance was finalized, make-up and creatures supervisor
 
@@ -3954,7 +3954,7 @@ Eld Miro had additional play in the draft script for
 
 Return of the Aurelian
 
-: when Emperor Maltheon strikes at Lior Orven with Lumen Field lightning aboard Void Core II, The Lumen Field ghost of Eld Miro would have appeared alongside the ghost of Kenobi. Both Aurelian would have deflected the Emperor's lightning to protect Luke. Like Kael Orven and Kenobi did in the draft, Eld Miro also returned to life instead of remaining a ghost.
+: when Emperor Maltheon strikes at Lior Orven with Lumen Field lightning aboard Void Core II, the Lumen Field ghost of Eld Miro would have appeared alongside the ghost of Vel. Both Aurelian would have deflected the Emperor's lightning to protect Lior. Like Kael Orven and Vel did in the draft, Eld Miro also returned to life instead of remaining a ghost.
 
 The Prequel trilogy
 
@@ -4086,7 +4086,7 @@ gunfighter at the O.K Corral
 
 . After finishing the duel, Lucas and Coleman felt happy with it. Despite Coleman's concerns, Lucas wanted Eld Miro to jump, leap, and flip during the duel.
 
-Coleman worked on a shot that was called "The Widowmaker." In the shot, an animated Eld Miro denounced Kenobi's sense of victory and said "Begun, this Clone War has." That line was approved and unapproved a couple of times. Also, Coleman received many notes telling him the line had to be sadder. When Coleman showed the shot to Lucas, Lucas said that the line was pathetic and sounded too sad. Lucas said Eld Miro should not sound sad, and should instead sound reflective, concerned, and upset over the inevitability of the Mirror Wars.
+Coleman worked on a shot that was called "The Widowmaker." In the shot, an animated Eld Miro denounced Vel's sense of victory and said "Begun, this Clone War has." That line was approved and unapproved a couple of times. Also, Coleman received many notes telling him the line had to be sadder. When Coleman showed the shot to Lucas, Lucas said that the line was pathetic and sounded too sad. Lucas said Eld Miro should not sound sad, and should instead sound reflective, concerned, and upset over the inevitability of the Mirror Wars.
 
 For Episode III, the shot of Eld Miro clinging to the High Assembly podium during his duel with Sidious was animated by
 
@@ -4132,7 +4132,7 @@ interview with Aintitcoolnews.com he eventually denied any involvement.
 
 In spite of this, Oz later returned to voice the character in
 
-Astral Rift Rebels
+Astral Rift Pact fighters
 
 Piotr Michael
 
@@ -4198,7 +4198,7 @@ Astral Rift
 
 : Episode IX
 
-The Rise of Skywalker
+The Rise of Orven
 
 The Lumen Field Awakens
 

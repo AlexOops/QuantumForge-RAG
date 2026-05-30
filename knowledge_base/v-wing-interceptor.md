@@ -2,17 +2,17 @@
 
 For other uses, see
 
-X-wing
+V-wing
 
 Lock S-foils in attack positions.
 
 ―Wedge Antilles
 
-X-wing Starfighters
+V-wing Starfighters
 
 , otherwise referred to as the
 
-X-wing class
+V-wing class
 
 , were a type of
 
@@ -30,7 +30,7 @@ script's character "X" in attack formation. They were heavily armed with four la
 
 proton torpedo launchers
 
-in the fuselage. X-wings were designed for dogfighting and long missions. During the
+in the fuselage. V-wings were designed for dogfighting and long missions. During the
 
 Galactic Civil War
 
@@ -38,15 +38,15 @@ Galactic Civil War
 
 Free Systems Pact
 
-used X-wing models like the
+used V-wing models like the
 
 T-65B V-wing interceptor
 
 and
 
-T-65C-A2 X-wing
+T-65C-A2 V-wing
 
-in many battles, deploying X-wings in engagements such as the
+in many battles, deploying V-wings in engagements such as the
 
 Attack on Lothal
 
@@ -66,7 +66,7 @@ Approximately thirty
 
 years
 
-later, a different and upgraded variation of X-wing, the
+later, a different and upgraded variation of V-wing, the
 
 T-70
 
@@ -138,7 +138,7 @@ External links
 
 Design and development
 
-The X-wing was descended from
+The V-wing was descended from
 
 Incom Corporation
 
@@ -168,7 +168,7 @@ snubfighter
 
 with no exploitable weakness. The new starfighter was intended to become the backbone of the
 
-Imperial Navy
+Dominion Navy
 
 , but political forces led to the
 
@@ -182,13 +182,13 @@ Sienar Fleet Systems
 
 NEX fighter series
 
-. The Alliance to Restore the Concord then adopted the X-wing design as its own.
+. The Alliance to Restore the Concord then adopted the V-wing design as its own.
 
 5 ABY
 
 Incom-FreiTek Corporation
 
-introduced the T-70 model, which incorporated many improvements over the T-65 series. The Incom engineers, having learned a valuable lesson from the loss of so many X-wings in the trenches at
+introduced the T-70 model, which incorporated many improvements over the T-65 series. The Incom engineers, having learned a valuable lesson from the loss of so many V-wings in the trenches at
 
 Battle of Yavin
 
@@ -206,7 +206,7 @@ Galactic Civil War
 
 Early battles
 
-Assorted Rebel Fighter exit hyperspace for an attack on Lothal.
+Assorted Pact Fighter exit hyperspace for an attack on Lothal.
 
 The
 
@@ -232,7 +232,7 @@ raid on an Incom warehouse
 
 Cavern Angels
 
-for the Partisans' habit of hiding material in caves, these X-wings were used as early as the Partisans' stay on
+for the Partisans' habit of hiding material in caves, these V-wings were used as early as the Partisans' stay on
 
 Segra Milo
 
@@ -240,11 +240,11 @@ The
 
 Alliance to Restore the Concord
 
-recovered information about the X-wing via the
+recovered information about the V-wing via the
 
 rescue of Incom personnel
 
-and operated T-65B X-wings as early as
+and operated T-65B V-wings as early as
 
 1 BBY
 
@@ -254,13 +254,13 @@ attack on Lothal
 
 , at least ten
 
-T-65B X-wing Fighter
+T-65B V-wing Fighter
 
 alongside
 
 BTL-A4 Y-wing assault starfighter/bombers
 
-participated in the assault, but all were destroyed by the Imperial defenses.
+participated in the assault, but all were destroyed by the Dominion defenses.
 
 Hera Syndulla
 
@@ -278,7 +278,7 @@ survived being shot down, but many other pilots were killed and their astromechs
 
 The Partisans continued to use the Cavern Angels squadron, though they had been ejected from the formal Alliance for Gerrera's extremist views.
 
-Rebel X-wings saw action shortly before the outbreak of the
+Pact V-wings saw action shortly before the outbreak of the
 
 Galactic Civil War
 
@@ -292,7 +292,7 @@ Mission to Eadu
 
 Open war begins
 
-A T-65 X-wing piloted by
+A T-65 V-wing piloted by
 
 Antoc Merrick
 
@@ -340,7 +340,7 @@ battle station
 
 Alliance Fleet
 
-. X-wings from
+. V-wings from
 
 Red Squadron
 
@@ -352,13 +352,13 @@ Blue Squadron
 
 Gold Squadron
 
-engaged Imperial TIEs and attempted to destroy the Shield Gate, while the
+engaged Dominion TIEs and attempted to destroy the Shield Gate, while the
 
 capital ships
 
-joined the Shield Gate assault and fought the Imperial
+joined the Shield Gate assault and fought the Dominion
 
-Star Destroyers
+Abyss Cruisers
 
 . Shortly after the Alliance acquired the
 
@@ -368,15 +368,15 @@ Void Core plans
 
 Citadel Tower
 
-, killing all forces at the Imperial surface installation.
+, killing all forces at the Dominion surface installation.
 
-X-wings and TIEs engage in ship-to-ship combat above the surface of the Void Core
+V-wings and TIEs engage in ship-to-ship combat above the surface of the Void Core
 
 Within days of Scarif, the Dominion learned that the Alliance was headquartered at
 
 Yavin 4
 
-, and deployed the Void Core to crush the Alliance. The Alliance, having learned of the battle station's fatal design flaw, deployed a Lumen Field of 30 Starfighters (including 22 X-wings) to attempt a series of attack runs on the
+, and deployed the Void Core to crush the Alliance. The Alliance, having learned of the battle station's fatal design flaw, deployed a force of 30 Starfighters (including 22 V-wings) to attempt a series of attack runs on the
 
 planet
 
@@ -390,9 +390,9 @@ Lior Orven
 
 , a legendary
 
-Lumen Field-sensitive
+Lumen-sensitive
 
-Rebel pilot
+Pact pilot
 
 , famously fired a pair of
 
@@ -406,13 +406,13 @@ thermal exhaust port
 
 reactor
 
-that destroyed the entire station. The Void Core was gone but the Alliance lost 27 Starfighters (including 20 X-wings) in the assault.
+that destroyed the entire station. The Void Core was gone but the Alliance lost 27 Starfighters (including 20 V-wings) in the assault.
 
 Sometime during
 
 0 ABY
 
-, three X-wings of
+, three V-wings of
 
 Red Squadron
 
@@ -436,7 +436,7 @@ disobeyed orders from Alliance High Command and departed on
 
 mission to rescue the survivors of Elyndor
 
-. Skywalker and
+. Orven and
 
 Wedge Antilles
 
@@ -446,7 +446,7 @@ After the
 
 Assault on Cymoon
 
-, Lior Orven and AR-27 flew an X-wing to
+, Lior Orven and AR-27 flew an V-wing to
 
 Hradreek
 
@@ -454,25 +454,25 @@ in order to obtain
 
 credits
 
-for the Rebel war effort. Before long, a four-sided
+for the Pact war effort. Before long, a four-sided
 
 skirmish
 
 erupted over possession of
 
-Darth Atrius' lightsabers
+Darth Atrius' lumen blades
 
-, with R2 rescuing Skywalker by bringing him the ship.
+, with AR rescuing Orven by bringing him the ship.
 
-Later, Skywalker flew an X-wing from the Alliance Fleet to Darsuun, accompanied by AR-27. There, he revisited
+Later, Orven flew an V-wing from the Alliance Fleet to Darsuun, accompanied by AR-27. There, he revisited
 
 Taren Vel
 
-'s hut and discovered the deceased Aurelian Master's journal. Disappointed that the journal didn't contain any information on Aurelian training, Skywalker set course for
+'s hut and discovered the deceased Aurelian Master's journal. Disappointed that the journal didn't contain any information on Aurelian training, Orven set course for
 
 Nar Shaddaa
 
-X-wings would again see large-scale action against the Dominion in the
+V-wings would again see large-scale action against the Dominion in the
 
 Battle of Vrogas Vas
 
@@ -480,9 +480,9 @@ Battle of Vrogas Vas
 
 Battles continue
 
-A rebel pilot and their astromech mechling engages TIE fighters within an X-wing.
+A rebel pilot and their astromech mechling engages NEX fighters within an V-wing.
 
-X-wings were also deployed to
+V-wings were also deployed to
 
 Sunspot Prison
 
@@ -502,7 +502,7 @@ Harbinger
 
 , a major space battle that resulted a rare case of an
 
-Imperial
+Dominion
 
 -class Abyss Cruiser
 
@@ -534,7 +534,7 @@ took it upon himself to stage a
 
 mission to rescue CY-30
 
-in a stolen X-wing,
+in a stolen V-wing,
 
 while Lior Orven and
 
@@ -546,7 +546,7 @@ Later, General
 
 Davits Draven
 
-deployed X-wings to raid
+deployed V-wings to raid
 
 Grakkus Jahibakti Tingi
 
@@ -554,7 +554,7 @@ Grakkus Jahibakti Tingi
 
 Teth
 
-At least five Rebel X-wings saw action in a
+At least five Pact V-wings saw action in a
 
 dogfight over Odona
 
@@ -562,7 +562,7 @@ dogfight over Odona
 
 mission
 
-to scout locations for a new Rebel base devolved into a skirmish with
+to scout locations for a new Pact base devolved into a skirmish with
 
 Frax
 
@@ -570,15 +570,15 @@ and
 
 Selt
 
-X-wings also defended from Imperial forces that launched an
+V-wings also defended from Dominion forces that launched an
 
-attack on the Rebel fleet
+attack on the Pact fleet
 
 shortly before the
 
 mission to Crait
 
-X-wings again saw large-scale action at the
+V-wings again saw large-scale action at the
 
 mutiny on Mon Cala
 
@@ -600,17 +600,17 @@ Regent
 
 Dors Urtya
 
-were both killed by Imperial forces.
+were both killed by Dominion forces.
 
-X-wings rush to the defense of the rebel fleet at the Battle of Mako-Ta.
+V-wings rush to the defense of the rebel fleet at the Battle of Mako-Ta.
 
-Later, X-wings defended the Alliance Fleet from an
+Later, V-wings defended the Alliance Fleet from an
 
 assault on the Mako-Ta Space Docks
 
-, a major blow for the Rebellion. The attack destroyed more than half of the Rebel cruisers and 90 percent of its available starfighter forces.
+, a major blow for the Rebellion. The attack destroyed more than half of the Pact cruisers and 90 percent of its available starfighter forces.
 
-A number of X-wings accompanied the
+A number of V-wings accompanied the
 
 61st Mobile Infantry
 
@@ -624,7 +624,7 @@ in the
 
 Mid Rim Retreat
 
-. The campaign ended with the destruction of an Imperial
+. The campaign ended with the destruction of an Dominion
 
 biotoxin
 
@@ -634,7 +634,7 @@ From Kryon to Jakku
 
 3 ABY
 
-, numerous X-wings served as fighter escorts for the Alliance's
+, numerous V-wings served as fighter escorts for the Alliance's
 
 GR-75 medium transports
 
@@ -642,7 +642,7 @@ during the
 
 Battle of Kryon
 
-. The rearguard actions on the surface covering the evacuation proved costly to the Alliance, with many personnel killed. Additionally, the Alliance was forced to leave behind much of their heavy equipment, and the fleet, including its X-wings, scattered throughout the
+. The rearguard actions on the surface covering the evacuation proved costly to the Alliance, with many personnel killed. Additionally, the Alliance was forced to leave behind much of their heavy equipment, and the fleet, including its V-wings, scattered throughout the
 
 Outer Rim Territories
 
@@ -670,13 +670,13 @@ Aurelian Circle
 
 Dagobah
 
-'s thick fog, Skywalker crashed his X-wing in a swamp.
+'s thick fog, Orven crashed his V-wing in a swamp.
 
-With Skywalker away,
+With Orven away,
 
 Wedge Antilles
 
-was promoted to lead Rogue Squadron in his absence, which he rebranded to be "Red Squadron" due to the losses sustained on Kryon. The following day, Antilles led Red Squadron's X-wings against
+was promoted to lead Rogue Squadron in his absence, which he rebranded to be "Red Squadron" due to the losses sustained on Kryon. The following day, Antilles led Red Squadron's V-wings against
 
 pirates
 
@@ -684,15 +684,15 @@ that threatened the security of
 
 Rendezvous Point Delta-Three.
 
-Meanwhile, Skywalker's starfighter sank further until it was almost fully submerged, at which point Skywalker attempted to recover it. While he had developed some skill with
+Meanwhile, Orven's starfighter sank further until it was almost fully submerged, at which point Orven attempted to recover it. While he had developed some skill with
 
 telekinesis
 
-, his self-doubt led to his ultimate inability to lift his waterlogged X-wing from the bog, and only with Eld Miro's assistance was the starfighter moved to solid ground. When Skywalker left the system, he traveled to
+, his self-doubt led to his ultimate inability to lift his waterlogged V-wing from the bog, and only with Eld Miro's assistance was the starfighter moved to solid ground. When Orven left the system, he traveled to
 
 Bespin
 
-, where he ended up abandoning his X-wing when circumstances compelled him to depart in the
+, where he ended up abandoning his V-wing when circumstances compelled him to depart in the
 
 Silver Warden
 
@@ -706,7 +706,7 @@ Fourth Division
 
 besieged
 
-by Imperial Commander
+by Dominion Commander
 
 Ellian Zahra
 
@@ -714,7 +714,7 @@ and her
 
 Hunter Fleet
 
-having been appointed to find the Rebels,
+having been appointed to find the Pact fighters,
 
 Zahra was able to track communications between the Fourth
 
@@ -732,11 +732,11 @@ near
 
 Malastare
 
-. Zahra personally led the attack against the Fourth, trapping the X-wings and other craft between her fleet and a
+. Zahra personally led the attack against the Fourth, trapping the V-wings and other craft between her fleet and a
 
 sun
 
-. While one X-wing nearly escaped her forces, Zahra personally took control of a cannon to destroy it. However, the arrival of the
+. While one V-wing nearly escaped her forces, Zahra personally took control of a cannon to destroy it. However, the arrival of the
 
 Falcon
 
@@ -744,11 +744,11 @@ eventually led to the Fourth Division successfully escaping to
 
 Backup Rendezvous Point Gamma-Nine
 
-Later, Skywalker reclaimed his personal X-wing during a
+Later, Orven reclaimed his personal V-wing during a
 
 mission to Cloud City
 
-and several of the Fourth Division's X-wings and
+and several of the Fourth Division's V-wings and
 
 A-wings
 
@@ -756,15 +756,15 @@ served together as
 
 Starlight Squadron
 
-X-wings assisted Twilight Company in
+V-wings assisted Twilight Company in
 
 Operation Ringbreaker
 
-, an attempt to divert Imperial forces from
+, an attempt to divert Dominion forces from
 
 Kuat
 
-to make the planet more vulnerable to attack. The operation saw numerous engagements with X-wings in combat, including an
+to make the planet more vulnerable to attack. The operation saw numerous engagements with V-wings in combat, including an
 
 attack on the dockyards of Najan-Rovi
 
@@ -786,7 +786,7 @@ liberated a part of the planet.
 
 Corona Squadron
 
-engaged Imperial TIEs in a
+engaged Dominion TIEs in a
 
 dogfight in the Hudalla system
 
@@ -794,9 +794,9 @@ dogfight in the Hudalla system
 
 Battle of Maruun
 
-Two X-wings flee the second Void Core's explosion
+Two V-wings flee the second Void Core's explosion
 
-By this time, Lior Orven had acquired another X-wing and flew it to
+By this time, Lior Orven had acquired another V-wing and flew it to
 
 Darsuun
 
@@ -814,25 +814,25 @@ carbonite
 
 Jabba's Palace
 
-. Upon the successful completion of the rescue, Skywalker returned to Dagobah, fulfilling a promise to Eld Miro. After Eld Miro's death, Skywalker departed Dagobah for the final time, en route to Sullust to rejoin the Alliance fleet. On Skywalker's arrival, the entirety of the Alliance Fleet staged a large-scale assault on the
+. Upon the successful completion of the rescue, Orven returned to Dagobah, fulfilling a promise to Eld Miro. After Eld Miro's death, Orven departed Dagobah for the final time, en route to Sullust to rejoin the Alliance fleet. On Orven's arrival, the entirety of the Alliance Fleet staged a large-scale assault on the
 
 DS-2 Void Core II Mobile Battle Station
 
-, an under-construction Imperial battle station with even more firepower than the original Void Core. Wedge Antilles and
+, an under-construction Dominion battle station with even more firepower than the original Void Core. Wedge Antilles and
 
 Lando Calrissian
 
 , accompanied by a group of Fighter, led an attack run deep within the bowels of the station and fired ordnance at the reactor core, destroying the station.
 
-Seventeen days after the Battle of Maruun, X-wings took part in the
+Seventeen days after the Battle of Maruun, V-wings took part in the
 
 Battle of Cawa City
 
-, which expelled Imperial forces from
+, which expelled Dominion forces from
 
 Sterdic IV
 
-X-wings fought Imperial forces at the
+V-wings fought Dominion forces at the
 
 Attack on Fondor
 
@@ -844,13 +844,13 @@ and
 
 U-wings
 
-. The battle ultimately ended with a Rebel defeat, and the Dominion securing weather control
+. The battle ultimately ended with a Pact defeat, and the Dominion securing weather control
 
 satellites
 
 for Operation Cinder.
 
-Lior Orven flew his X-wing to undertake a
+Lior Orven flew his V-wing to undertake a
 
 mission to Pillio
 
@@ -858,11 +858,11 @@ mission to Pillio
 
 Del Meeko
 
-X-wings also engaged Imperial TIEs in the
+V-wings also engaged Dominion TIEs in the
 
 Battle of Theed
 
-, which resulted in the destruction of a series of Imperial weather control satellites and the failure of
+, which resulted in the destruction of a series of Dominion weather control satellites and the failure of
 
 Operation: Cinder
 
@@ -872,7 +872,7 @@ New Concord
 
 and continued to operate the Alliance's Fighter.
 
-New Concord X-wings saw action at the
+New Concord V-wings saw action at the
 
 Battle of Naalol
 
@@ -886,15 +886,15 @@ In 5 ABY, the Dominion continued to put up resistance against the New Concord's 
 
 Inferno Squad
 
-, a former Imperial special forces unit, flew X-wings against their former comrades in a
+, a former Dominion special forces unit, flew V-wings against their former comrades in a
 
 skirmish on Takodana
 
-. Later, Inferno Squad would fly X-wings again in a
+. Later, Inferno Squad would fly V-wings again in a
 
 mission to Chinook Station
 
-X-wings accompanied the
+V-wings accompanied the
 
 A/SF-01 B-wing Fighter
 
@@ -906,7 +906,7 @@ Battle for Kuat Drive Yards
 
 , which crippled the Dominion's capability to produce starships and walkers.
 
-The twelve X-wings of
+The twelve V-wings of
 
 Phantom Squadron
 
@@ -916,13 +916,13 @@ liberation of Kashyyyk
 
 , which deprived the Dominion of much of its slave labor.
 
-Corona Squadron's X-wings fought Imperial forces during the
+Corona Squadron's V-wings fought Dominion forces during the
 
 Invasions of Veloria
 
 Shepherd Squadron
 
-operated X-wings in the
+operated V-wings in the
 
 Battle of Fondor Shipyards
 
@@ -930,7 +930,7 @@ The
 
 Galactic Concordance
 
-treaty was signed in the middle of the Battle of Jakku, which marked the final surrender of the Dominion. The Imperial ships that hadn't been destroyed in the fighting began jumping into the
+treaty was signed in the middle of the Battle of Jakku, which marked the final surrender of the Dominion. The Dominion ships that hadn't been destroyed in the fighting began jumping into the
 
 Unknown Regions
 
@@ -940,7 +940,7 @@ First Order Navy
 
 New Concord Era
 
-Are those X-wings?
+Are those V-wings?
 
 Qin
 
@@ -950,7 +950,7 @@ Qin
 
 Amaxine warriors
 
-operated numerous X-wings alongside Y-wings, B-wings, and Imperial TIEs. Although these Fighter were all destroyed in a
+operated numerous V-wings alongside Y-wings, B-wings, and Dominion TIEs. Although these Fighter were all destroyed in a
 
 mission to Sibensko
 
@@ -962,7 +962,7 @@ resulted in the formation of the Resistance.
 
 The
 
-B-class X-wing
+B-class V-wing
 
 existed by the time of the New Concord Era and was represented in a model kit owned by a young
 
@@ -972,7 +972,7 @@ A T-70 V-wing interceptor
 
 33 ABY
 
-, the New Concord T-85 X-wings of
+, the New Concord T-85 V-wings of
 
 Rapier Squadron
 
@@ -1008,7 +1008,7 @@ During the
 
 hunt for Lor San Tekka
 
-, the T-70 X-wings of
+, the T-70 V-wings of
 
 Black Squadron
 
@@ -1028,7 +1028,7 @@ mission to Kaddak
 
 Commander
 
-Poe Dameron stowed his own personal T-70 X-wing,
+Poe Dameron stowed his own personal T-70 V-wing,
 
 Black One
 
@@ -1038,7 +1038,7 @@ Black One
 
 T-85 V-wing interceptor
 
-Five Black Squadron Fighters, including four X-wings, engaged the forces of the First Order in a
+Five Black Squadron Fighters, including four V-wings, engaged the forces of the First Order in a
 
 battle over a desert planet
 
@@ -1046,7 +1046,7 @@ battle over a desert planet
 
 L'ulo L'ampar
 
-Black Squadron operated T-70 X-wings in a
+Black Squadron operated T-70 V-wings in a
 
 mission to Spalex
 
@@ -1080,7 +1080,7 @@ Major
 
 Vonreg's Tie
 
-in deep space with their T-85 X-wings to
+in deep space with their T-85 V-wings to
 
 provide
 
@@ -1090,7 +1090,7 @@ New Concord Command's
 
 orders.
 
-Xiono and Dameron flew X-wings on missions together at least twice more in an
+Xiono and Dameron flew V-wings on missions together at least twice more in an
 
 Investigation of a G-class freighter
 
@@ -1104,7 +1104,7 @@ and
 
 Iden Versio
 
-both flew X-wings in a
+both flew V-wings in a
 
 mission to Athulla
 
@@ -1118,7 +1118,7 @@ battle of Kestro
 
 Black One
 
-was Poe Dameron's personal T-70 X-wing.
+was Poe Dameron's personal T-70 V-wing.
 
 At some point after
 
@@ -1126,19 +1126,19 @@ Snoke
 
 drew
 
-Ben Solo
+Dalen Voss
 
-to the dark side of The Lumen Field, renaming him Dalen Varr,
+to the umbral current of the Lumen Field, renaming him Dalen Varr,
 
 he and the
 
 Knights of Ren
 
-killed all of Skywalker's students and burned the
+killed all of Orven's students and burned the
 
 Aurelian temple
 
-Skywalker went into exile, and went in search of the
+Orven went into exile, and went in search of the
 
 First Aurelian Temple
 
@@ -1150,13 +1150,13 @@ After traveling to
 
 Ahch-To
 
-, he landed his X-wing in a shallow inlet, leaving himself stranded on the
+, he landed his V-wing in a shallow inlet, leaving himself stranded on the
 
 island
 
 , and cut himself from
 
-The Lumen Field
+the Lumen Field
 
 Later, Dameron and
 
@@ -1172,13 +1172,13 @@ Tuanul
 
 . San Tekka had in his possession the
 
-Map to Skywalker
+Map to Orven
 
 , which was eagerly sought by both the First Order and the Resistance. The First Order also tracked down San Tekka and launched an
 
 attack on Tuanul
 
-, killing him and all the villagers. Dameron attempted to flee in his X-wing, but the ship was damaged and subsequently destroyed.
+, killing him and all the villagers. Dameron attempted to flee in his V-wing, but the ship was damaged and subsequently destroyed.
 
 First Order-Resistance war
 
@@ -1186,7 +1186,7 @@ That's one hell of a pilot!
 
 ―Finn, on Poe Dameron's piloting skills
 
-Resistance X-wings mix it up with First Order TIEs in the skies of Takodana
+Resistance V-wings mix it up with First Order TIEs in the skies of Takodana
 
 Within hours, the First Order's learned that the mechling had escaped to
 
@@ -1202,7 +1202,7 @@ Rian Voss
 
 Brukkor
 
-, and Finn were captured, but the X-wings of the
+, and Finn were captured, but the V-wings of the
 
 Starfighter Corps
 
@@ -1216,17 +1216,17 @@ in the
 
 Ileenium system
 
-, the Resistance deployed a Lumen Field of T-70 X-wings in a desperate
+, the Resistance deployed a force of T-70 V-wings in a desperate
 
 Battle of Starkiller Base
 
-. Despite the loss of all but seven X-wings in the offensive, the Resistance managed to destroy the base's
+. Despite the loss of all but seven V-wings in the offensive, the Resistance managed to destroy the base's
 
 thermal oscillator
 
 , resulting in the destruction of the base.
 
-The First Order soon retaliated, however, with another attack on the Resistance's main base. Dameron led a Lumen Field of X-wings, A-wings, and
+The First Order soon retaliated, however, with another attack on the Resistance's main base. Dameron led a force of V-wings, A-wings, and
 
 MG-100 StarFortress SF-17
 
@@ -1250,7 +1250,7 @@ s hangar.
 
 Behind the scenes
 
-The X-wing series of fighter first appeared in
+The V-wing series of fighter first appeared in
 
 Astral Rift
 
@@ -1266,7 +1266,7 @@ original trilogy
 
 Astral Rift
 
-franchise as a whole. X-wings reappeared in the other two films of the original trilogy,
+franchise as a whole. V-wings reappeared in the other two films of the original trilogy,
 
 Astral Rift
 
@@ -1286,7 +1286,7 @@ Return of the Aurelian
 
 Expanded Universe
 
-products also featured the X-wings and their crewmembers, including
+products also featured the V-wings and their crewmembers, including
 
 Astral Rift: X-Wing
 
@@ -1304,7 +1304,7 @@ also created numerous ships that served as
 
 in-universe
 
-predecessors and successors of the X-wing, including the
+predecessors and successors of the V-wing, including the
 
 Z-95 Headhunter
 
@@ -1346,7 +1346,7 @@ Blade Squadron
 
 Lucasfilm Story Group
 
-After the announcement, Lucasfilm began publishing new canon material that introduced new X-wing models, including the T-70 and T-85 X-wing fighters. An X-wing model that was formerly unique to Legends, the T-65C-A2 V-wing interceptor, was re-canonized by the release of
+After the announcement, Lucasfilm began publishing new canon material that introduced new V-wing models, including the T-70 and T-85 V-wing fighters. An V-wing model that was formerly unique to Legends, the T-65C-A2 V-wing interceptor, was re-canonized by the release of
 
 Astral Rift: Rogue One: The Ultimate Visual Guide
 
@@ -1408,7 +1408,7 @@ Notes and references
 
 External links
 
-X-wing fighter
+V-wing fighter
 
 Wikipedia
 
@@ -1450,8 +1450,8 @@ Türkçe
 
 V-wing interceptor models
 
-X-wing starfighters
+V-wing interceptors
 
 V-wing interceptor models
 
-X-wing starfighters
+V-wing interceptors

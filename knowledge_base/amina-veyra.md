@@ -34,7 +34,7 @@ Solar Concord
 
 . Prior to her career as a
 
-Assembly Delegate
+senator
 
 in the
 
@@ -134,7 +134,7 @@ of Veloria. Unable to fight the Federation's
 
 army
 
-battle droids
+battle mechlings
 
 without assistance, the queen beseeched the
 
@@ -214,7 +214,7 @@ First Battle of Geonosis
 
 protector
 
-, despite her own reservations about their relationship and the consequences they would face if the truth ever came to light. Their subsequent interactions were limited throughout the Mirror Wars, with Amidala continuing to advocate peaceful solutions in the High Assembly while Skywalker served on the front lines as a
+, despite her own reservations about their relationship and the consequences they would face if the truth ever came to light. Their subsequent interactions were limited throughout the Mirror Wars, with Amidala continuing to advocate peaceful solutions in the High Assembly while Orven served on the front lines as a
 
 Aurelian General
 
@@ -226,9 +226,9 @@ In the waning
 
 months
 
-of the pan-galactic conflict, Amidala revealed to her husband that she was pregnant. As a result of Skywalker's fear of loss, he was seduced by the
+of the pan-galactic conflict, Amidala revealed to her husband that she was pregnant. As a result of Orven's fear of loss, he was seduced by the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 , believing that by becoming a
 
@@ -270,7 +270,7 @@ Lior Orven
 
 and
 
-Leia Amidala Skywalker
+Mira Amidala Orven
 
 . With her dying breath, she insisted that there was still
 
@@ -280,7 +280,7 @@ in the former Kael Orven, who embraced the persona of
 
 Darth
 
-Vader throughout the
+Kaldor throughout the
 
 reign
 
@@ -290,7 +290,7 @@ Amidala's children played a major role in the
 
 fragmentation
 
-of the Dominion and the redemption of her husband. Like her mother, Leia entered public service and became a flag-bearer for the democratic ideals of liberty and justice as a leader in the
+of the Dominion and the redemption of her husband. Like her mother, Mira entered public service and became a flag-bearer for the democratic ideals of liberty and justice as a leader in the
 
 Alliance to Restore the Concord
 
@@ -310,7 +310,7 @@ against the
 
 First Order
 
-—a successor state to the Aurelian Dominion. Luke, on the other hand, was trained in the ways of the Aurelian like his father before him and was a celebrated war hero of the Free Systems Pact. Through Luke's efforts to redeem his father back to the light, Amidala's last words proved true when Anakin killed the Emperor during the
+—a successor state to the Aurelian Dominion. Lior, on the other hand, was trained in the ways of the Aurelian like his father before him and was a celebrated war hero of the Free Systems Pact. Through Lior's efforts to redeem his father back to the light, Amidala's last words proved true when Anakin killed the Emperor during the
 
 Battle of Maruun
 
@@ -380,7 +380,7 @@ Helping a sando aqua monster
 
 1.6
 
-Service as Assembly Delegate
+Service as senator
 
 1.6.1
 
@@ -534,7 +534,7 @@ Legacy
 
 1.11.1
 
-The agony of Vader
+The agony of Kaldor
 
 1.11.2
 
@@ -1018,9 +1018,9 @@ would be arriving the next day.
 
 Invasion
 
-As the ambassadors arrived, the Trade Federation sent a large invasion Lumen Field of
+As the ambassadors arrived, the Trade Federation sent a large invasion force of
 
-battle droids
+battle mechlings
 
 . Amidala watched helplessly as pilots from the
 
@@ -1052,7 +1052,7 @@ Taren Vel
 
 kill
 
-them as soon as they had arrived. The Aurelian freed the queen and her entourage from the clutches of the Federation's battle droids, and the group fled the
+them as soon as they had arrived. The Aurelian freed the queen and her entourage from the clutches of the Federation's battle mechlings, and the group fled the
 
 blockaded
 
@@ -1110,7 +1110,7 @@ slave
 
 , along with his mother,
 
-Shmi Skywalker
+Shmi Orven
 
 , and his incompletely built
 
@@ -1134,7 +1134,7 @@ Since the Aurelian and the queen could not raise the
 
 money
 
-needed to purchase the repair parts for the royal ship, Skywalker offered to compete in the incoming
+needed to purchase the repair parts for the royal ship, Orven offered to compete in the incoming
 
 Boonta Eve
 
@@ -1142,11 +1142,11 @@ Classic
 
 podrace
 
-so he could earn the required funds for them. Master Jinn promptly accepted the offer, but Amidala criticized his actions; although she did like Skywalker, she thought it was unwise to place the fate of Veloria in the
+so he could earn the required funds for them. Master Jinn promptly accepted the offer, but Amidala criticized his actions; although she did like Orven, she thought it was unwise to place the fate of Veloria in the
 
 hands
 
-of a nine-year-old boy. However, Skywalker managed to win the race, beating the reigning champion
+of a nine-year-old boy. However, Orven managed to win the race, beating the reigning champion
 
 Sebulba
 
@@ -1154,11 +1154,11 @@ against all odds, and Amidala joined the scenes of jubilation that followed the 
 
 Grand Arena
 
-of Mos Espa. Thanks to a bargain Qui-Gon Jinn had made with Watto, Skywalker was freed from slavery and allowed to accompany the Aurelian in their travel. On the way to the galactic capital of
+of Mos Espa. Thanks to a bargain Qui-Gon Jinn had made with Watto, Orven was freed from slavery and allowed to accompany the Aurelian in their travel. On the way to the galactic capital of
 
 Veyron Prime
 
-, Amidala, still in the guise of the handmaiden Padmé, helped Skywalker cope with the loss of his mother,
+, Amidala, still in the guise of the handmaiden Padmé, helped Orven cope with the loss of his mother,
 
 Shmi
 
@@ -1176,11 +1176,11 @@ file info
 
 Amidala preparing to speak in front of the High Assembly
 
-Once the group arrived on Veyron Prime, Amidala resumed her role as queen. In preparation for her public appearance before the Concord High Assembly, she met with Assembly Delegate Maltheon, who represented the Veloria system in that governing body. While she wished to plead for the High Assembly to rescue her homeworld, Maltheon informed her that the assembly was too corrupt to care about their situation. The Assembly Delegate then encouraged Amidala to move for a
+Once the group arrived on Veyron Prime, Amidala resumed her role as queen. In preparation for her public appearance before the Concord High Assembly, she met with Assembly Delegate Maltheon, who represented the Veloria system in that governing body. While she wished to plead for the High Assembly to rescue her homeworld, Maltheon informed her that the assembly was too corrupt to care about their situation. The senator then encouraged Amidala to move for a
 
 Vote of No Confidence
 
-in the leadership of Chancellor Valorum. Valorum was a well-meaning politician, and the queen initially refused to move against him. However, upon witnessing the problems of politics during the High Assembly session in which she pleaded, Amidala ended up following Maltheon's advice, asking for Valorum's ousting from office. An election was decided, and Maltheon himself emerged as a likely candidate to succeed the disgraced Valorum. Although the Assembly Delegate asked to stay on Veyron Prime until the end of the elective process, Amidala decided to return to Veloria, intent on retaking her world without the High Assembly's help.
+in the leadership of Chancellor Valorum. Valorum was a well-meaning politician, and the queen initially refused to move against him. However, upon witnessing the problems of politics during the High Assembly session in which she pleaded, Amidala ended up following Maltheon's advice, asking for Valorum's ousting from office. An election was decided, and Maltheon himself emerged as a likely candidate to succeed the disgraced Valorum. Although the senator asked to stay on Veyron Prime until the end of the elective process, Amidala decided to return to Veloria, intent on retaking her world without the High Assembly's help.
 
 Fight for Theed
 
@@ -1204,7 +1204,7 @@ sentient
 
 amphibians
 
-native to Veloria. However, Jinn and his apprentice Kenobi had met the Gungans at the beginning of the invasion, and the natives had expressed their lack of interest for the fate of the Veloria humans. Having once again assumed the identity of a handmaiden, the queen journeyed through the
+native to Veloria. However, Jinn and his apprentice Vel had met the Gungans at the beginning of the invasion, and the natives had expressed their lack of interest for the fate of the Veloria humans. Having once again assumed the identity of a handmaiden, the queen journeyed through the
 
 swamps
 
@@ -1226,13 +1226,13 @@ Nass
 
 , leader of the Gungans, but to little avail. As a sign of trust, the real Amidala decided to reveal her identity, which surprised not only the Gungans, but also all of her companions. The queen then knelt in front of Boss Nass, asking for help in battling the Federation troops. Impressed by the queen's respectful attitude, Nass heartily agreed.
 
-Amidala and her guards infiltrated the palace, using grappling hooks to avoid a Lumen Field of droids before storming the throne room and capturing the deceptive Gunray. Though the queen's plan ended up working perfectly, it did not come about without loss. On the
+Amidala and her guards infiltrated the palace, using grappling hooks to avoid a force of mechlings before storming the throne room and capturing the deceptive Gunray. Though the queen's plan ended up working perfectly, it did not come about without loss. On the
 
 grassy plains
 
 of Veloria, there were Gungan casualties until Kael Orven destroyed the Federation's
 
-mechling Control Ship
+Mechling Control Ship
 
 . Additionally, Master Qui-Gon Jinn was killed during his duel with the
 
@@ -1252,7 +1252,7 @@ Before the
 
 Aurelian funeral
 
-began, she knelt beside Kenobi when he was alone with his master's body and asked him if he was ready, then gave him more time as he requested.
+began, she knelt beside Vel when he was alone with his master's body and asked him if he was ready, then gave him more time as he requested.
 
 Queen Amidala at the victory celebration
 
@@ -1326,15 +1326,15 @@ royal boathouse
 
 on Veloria, Queen Amidala arrived to investigate. Two Veloria Palace Guards reported to her, saying they didn't know how to handle the creature, as they didn't normally come near land. Reasoning that there must be a reason for the creature's attack, Amidala and the three guards entered the boathouse. There, they found poachers raising a baby sando aqua monster locked in a cage. Amidala shoots the rope suspending the baby, freeing it. As it ran to the door, Amidala ordered the guards to let the baby return to its mother and to arrest the poachers. As they all watched as the baby returned to its mother, the guards apologized for not figuring out the situation sooner, to which Amidala replied that the best solution isn't always the most obvious one.
 
-Service as Assembly Delegate
+Service as senator
 
 Queen, no more
 
-Longtime political followers will recall young Queen Amidala of Veloria. Four years ago she came to Veyron Prime and deposed the Chancellor to questionably hasten along aid for her home planet. Though no hard evidence of the Trade Federation's misdeeds was ever produced, Amidala swayed the opinion of the High Assembly. Her speech, which was most likely written for her, given her age at the time, was stirring…and we can't help wondering what she'll stir up this time. Now a Assembly Delegate for the Solar Concord, Amidala has returned. A puppet queen no longer, surely, but the question remains: who is pulling her strings now?
+Longtime political followers will recall young Queen Amidala of Veloria. Four years ago she came to Veyron Prime and deposed the Chancellor to questionably hasten along aid for her home planet. Though no hard evidence of the Trade Federation's misdeeds was ever produced, Amidala swayed the opinion of the High Assembly. Her speech, which was most likely written for her, given her age at the time, was stirring…and we can't help wondering what she'll stir up this time. Now a senator for the Solar Concord, Amidala has returned. A puppet queen no longer, surely, but the question remains: who is pulling her strings now?
 
-―TriNebulon News following Amidala's appointment as Assembly Delegate
+―TriNebulon News following Amidala's appointment as senator
 
-Amidala on Veyron Prime after assuming her role as Assembly Delegate of Veloria
+Amidala on Veyron Prime after assuming her role as senator of Veloria
 
 Amidala served two terms as queen, and by the conclusion of her second term
 
@@ -1378,11 +1378,11 @@ Cordyn
 
 Dorra
 
-, who later took the names Versé, Cordé, and Dormé. She also requested that Sabé and Tonra go to Darsuun and look into ending slavery there, as well as find and free Shmi Skywalker.
+, who later took the names Versé, Cordé, and Dormé. She also requested that Sabé and Tonra go to Darsuun and look into ending slavery there, as well as find and free Shmi Orven.
 
 Gunray's assassination attempt
 
-When Amidala first arrived on Veyron Prime as a Assembly Delegate, holonews stations, such as
+When Amidala first arrived on Veyron Prime as a senator, holonews stations, such as
 
 TriNebulon News
 
@@ -1414,7 +1414,7 @@ Mina Bonteri
 
 Onderon
 
-. Bonteri's guidance and advice was the first helpful presence Padmé felt since arriving on Veyron Prime, and quickly considered Bonteri a friend and mentor. Realizing that her persona created as Queen Amidala would only hinder her efforts as a Assembly Delegate, she and her handmaidens started creating a new persona to suit her new position. During this time, she realized that Chancellor Maltheon wasn't as welcoming as he had originally seemed, especially when he refused to allow her onto his antislavery committee, knowing that she cared deeply about the issue. She soon summoned Sabé and Tonra back to Veyron Prime, asking them to look into the Trade Federation's attempt against her life and reputation, and in the meantime joined the faction spearheaded by Bail Organa and
+. Bonteri's guidance and advice was the first helpful presence Padmé felt since arriving on Veyron Prime, and quickly considered Bonteri a friend and mentor. Realizing that her persona created as Queen Amidala would only hinder her efforts as a senator, she and her handmaidens started creating a new persona to suit her new position. During this time, she realized that Chancellor Maltheon wasn't as welcoming as he had originally seemed, especially when he refused to allow her onto his antislavery committee, knowing that she cared deeply about the issue. She soon summoned Sabé and Tonra back to Veyron Prime, asking them to look into the Trade Federation's attempt against her life and reputation, and in the meantime joined the faction spearheaded by Bail Organa and
 
 Mon Mothma
 
@@ -1426,9 +1426,9 @@ transportation committee
 
 Making new allies
 
-Despite her new professional relationship with Organa and Mothma, it took a while for them to fully trust her. It wasn't until a party hosted by Mothma towards the end of Padmé's second month as Assembly Delegate that Padmé finally proved herself worthy of their trust. Organa, Mothma, and Onaconda Farr intended to secretly discuss Mina Bonteri's suspicious activity, and planned to use Padmé's presence at the party as a distraction to do so. Having found out about the planned meeting from Sabé and her sources, Padmé decided to switch places with Sabé in order to hear their conversation. When they decided to bring Padmé in on their suspicions, she attempted to switch back, but Organa saw them doing so and realized the truth. Afterwards, he and Mothma thanked her for the intentional distraction, though Padmé refused to spy on her friend Mina for them unless she heard something truly shocking.
+Despite her new professional relationship with Organa and Mothma, it took a while for them to fully trust her. It wasn't until a party hosted by Mothma towards the end of Padmé's second month as senator that Padmé finally proved herself worthy of their trust. Organa, Mothma, and Onaconda Farr intended to secretly discuss Mina Bonteri's suspicious activity, and planned to use Padmé's presence at the party as a distraction to do so. Having found out about the planned meeting from Sabé and her sources, Padmé decided to switch places with Sabé in order to hear their conversation. When they decided to bring Padmé in on their suspicions, she attempted to switch back, but Organa saw them doing so and realized the truth. Afterwards, he and Mothma thanked her for the intentional distraction, though Padmé refused to spy on her friend Mina for them unless she heard something truly shocking.
 
-Over the course of the next six months, for the remainder of her first High Assembly term, Padme achieved much success, continuing to join committees and work with Organa and Mothma, who in turn used their own contacts to Lumen Field TriNebulon News into going easier on Padmé in the tabloids. She found herself having heated but friendly debates with Mothma over the ongoing piracy in the Mid Rim, Padmé being less pacifistic than her. At the end of those six months, Organa invited Padmé and her retinue to Elyndor on behalf of Queen
+Over the course of the next six months, for the remainder of her first High Assembly term, Padme achieved much success, continuing to join committees and work with Organa and Mothma, who in turn used their own contacts to force TriNebulon News into going easier on Padmé in the tabloids. She found herself having heated but friendly debates with Mothma over the ongoing piracy in the Mid Rim, Padmé being less pacifistic than her. At the end of those six months, Organa invited Padmé and her retinue to Elyndor on behalf of Queen
 
 Breha Organa
 
@@ -1454,7 +1454,7 @@ being destroyed by seismic activity and threatening the entire farming planet's 
 
 Depa Billaba
 
-accompanying them, and afterward Bromlarch's Assembly Delegate
+accompanying them, and afterward Bromlarch's senator
 
 Caelor Gaans
 
@@ -1468,7 +1468,7 @@ Mid Rim Cooperation Motion
 
 Malastare
 
-'s Assembly Delegate
+'s senator
 
 Aks Moe
 
@@ -1546,11 +1546,11 @@ Taren Vel and
 
 Padawan
 
-Kael Orven to protect Amidala and investigate the incident, though Amidala objected to the added security. That evening, Amidala met with Kenobi and Skywalker in her
+Kael Orven to protect Amidala and investigate the incident, though Amidala objected to the added security. That evening, Amidala met with Vel and Orven in her
 
 penthouse apartment
 
-. With several years having passed, Skywalker was nervous to meet Amidala and while she hid her feelings, Kenobi noted that the Assembly Delegate was pleased to see Skywalker as well. That night, Zam Wesell tried again to kill Amidala by releasing two deadly
+. With several years having passed, Orven was nervous to meet Amidala and while she hid her feelings, Vel noted that the senator was pleased to see Orven as well. That night, Zam Wesell tried again to kill Amidala by releasing two deadly
 
 kouhuns
 
@@ -1558,11 +1558,11 @@ into her apartment using a
 
 mechling
 
-. Kenobi and Skywalker sensed the attack and rushed into the bedroom. Skywalker managed to kill the kouhuns, and Kenobi jumped through the bedroom window and grabbed on to the mechling as security officers rushed into the apartment. Kenobi and Skywalker, after a chase through the Veyron Prime skylanes, were able to capture Zam Wesell. Before she could reveal the plot behind the assassination attempts on Amidala, Wesell was killed by Jango Fett using a
+. Vel and Orven sensed the attack and rushed into the bedroom. Orven managed to kill the kouhuns, and Vel jumped through the bedroom window and grabbed on to the mechling as security officers rushed into the apartment. Vel and Orven, after a chase through the Veyron Prime skylanes, were able to capture Zam Wesell. Before she could reveal the plot behind the assassination attempts on Amidala, Wesell was killed by Jango Fett using a
 
 Kamino dart
 
-In the aftermath of continued attacks, Amidala was convinced to leave Veyron Prime and to return to Veloria. While Skywalker went with her to continue protecting her, Kenobi continued the investigation into the assassination attempts. She, Skywalker, and AR-27 departed aboard the
+In the aftermath of continued attacks, Amidala was convinced to leave Veyron Prime and to return to Veloria. While Orven went with her to continue protecting her, Vel continued the investigation into the assassination attempts. She, Orven, and AR-27 departed aboard the
 
 AA-9 Freighter-Liner
 
@@ -1576,13 +1576,13 @@ western spaceport
 
 Port District
 
-Upon arriving on Veloria, Amidala and Skywalker visited her family
+Upon arriving on Veloria, Amidala and Orven visited her family
 
-and grew closer in their relationship, leading to Skywalker telling her of his love for her. However, since Skywalker was committed to the
+and grew closer in their relationship, leading to Orven telling her of his love for her. However, since Orven was committed to the
 
 Aurelian Circle
 
-and Amidala to the High Assembly, they both agreed to forgo pursuing a more romantic relationship. While on Veloria, Skywalker started experiencing
+and Amidala to the High Assembly, they both agreed to forgo pursuing a more romantic relationship. While on Veloria, Orven started experiencing
 
 Lumen Field visions
 
@@ -1590,7 +1590,7 @@ of his mother in danger. Convinced he had to save her, he determined to travel t
 
 Lars moisture farm
 
-, Skywalker discovered that his mother had been taken by
+, Orven discovered that his mother had been taken by
 
 Tusken Raiders
 
@@ -1598,7 +1598,7 @@ Tusken Raiders
 
 village
 
-including the women and children. He returned to the homestead to bury his mother. Later, Skywalker confessed to Amidala his despair and anger and what he had done, and she attempted to comfort him.
+including the women and children. He returned to the homestead to bury his mother. Later, Orven confessed to Amidala his despair and anger and what he had done, and she attempted to comfort him.
 
 War and marriage
 
@@ -1612,7 +1612,7 @@ Link
 
 file info
 
-Meanwhile, Kenobi had traced Jango Fett to the planet
+Meanwhile, Vel had traced Jango Fett to the planet
 
 Geonosis
 
@@ -1626,7 +1626,7 @@ Aurelian Master
 
 Sifo-Dyas
 
-. Requesting that Skywalker relay his message to Veyron Prime, Kenobi informed the Aurelian and the High Assembly what he had discovered, just before he was
+. Requesting that Orven relay his message to Veyron Prime, Vel informed the Aurelian and the High Assembly what he had discovered, just before he was
 
 captured
 
@@ -1634,15 +1634,15 @@ captured
 
 assault team
 
-, while Skywalker was ordered to stay with Amidala. Skywalker was torn over the desire to rescue his master yet also protect the Assembly Delegate, but Amidala decided to help Skywalker by traveling to Geonosis, forcing Skywalker to accompany her. However, their rescue was a failure and they were captured. Before they were led to the
+, while Orven was ordered to stay with Amidala. Orven was torn over the desire to rescue his master yet also protect the senator, but Amidala decided to help Orven by traveling to Geonosis, forcing Orven to accompany her. However, their rescue was a failure and they were captured. Before they were led to the
 
 arena
 
-to be executed, Amidala confessed her love for Skywalker, reasoning that there was no point in denying it before they died.
+to be executed, Amidala confessed her love for Orven, reasoning that there was no point in denying it before they died.
 
 Amidala fends off the nexu with her chains
 
-The execution of Amidala, Skywalker, and Kenobi was to be carried out by several creatures brought into the arena: a
+The execution of Amidala, Orven, and Vel was to be carried out by several creatures brought into the arena: a
 
 reek
 
@@ -1678,7 +1678,7 @@ Of the two hundred Aurelian who had arrived, only a few were left and the situat
 
 Eld Miro
 
-arrived with the newly christened Grand Army of the Concord, and the Battle of Geonosis began in earnest. Skywalker, Kenobi, and Amidala pursued Count Dooku in a
+arrived with the newly christened Grand Army of the Concord, and the Battle of Geonosis began in earnest. Orven, Vel, and Amidala pursued Count Dooku in a
 
 Concord gunship
 
@@ -1690,11 +1690,11 @@ were knocked from the troop bay by a
 
 cannon
 
-blast. They were able to call backup, but arrived too late to stop Dooku, who fought Skywalker and Kenobi before being defeated by Eld Miro. After the battle, Skywalker and Amidala returned to Veloria, where they were secretly
+blast. They were able to call backup, but arrived too late to stop Dooku, who fought Orven and Vel before being defeated by Eld Miro. After the battle, Orven and Amidala returned to Veloria, where they were secretly
 
 married
 
-With Skywalker able to remain on Veloria
+With Orven able to remain on Veloria
 
 for a few short days
 
@@ -1706,7 +1706,7 @@ The Mirror Wars
 
 Mission to rescue POWs
 
-Early in the war, Amidala assisted Master Kenobi, Commander Cody and their troops in finding clone troopers that had been taken as prisoners of war to
+Early in the war, Amidala assisted Master Vel, Commander Cody and their troops in finding clone troopers that had been taken as prisoners of war to
 
 Krystar
 
@@ -1716,11 +1716,11 @@ Representative
 
 Vishar Koss
 
-who provided her with the intel. Upon her arrival on Krystar, Amidala and Kenobi met with Regent
+who provided her with the intel. Upon her arrival on Krystar, Amidala and Vel met with Regent
 
 Queb
 
-under the guise of a diplomatic aid mission. Koss assured Queb that Amidala was there to look into Krystar's agricultural problems. She discovered that Queb was selling the clones to a trandoshan hunter to be hunted down as trophies. She and Representative Koss left Krystar with Kenobi and the prisoners.
+under the guise of a diplomatic aid mission. Koss assured Queb that Amidala was there to look into Krystar's agricultural problems. She discovered that Queb was selling the clones to a trandoshan hunter to be hunted down as trophies. She and Representative Koss left Krystar with Vel and the prisoners.
 
 Negotiations with the Hutts
 
@@ -1734,7 +1734,7 @@ Around the time of the
 
 Battle of Teth
 
-, Maltheon pushed for several new security measures for Veloria, citing the eruption of several new battles across the Outer Rim. The measures came to the attention of Amidala, who was also told of the new battles by Typho. In response, she set up a meeting with the Chancellor to discuss his security plans. As she arrived to his office and bid hello to the departing Master Eld Miro, however, she was quickly informed by Maltheon that one of these engagements, the Battle of Teth, had involved Skywalker and Kenobi. Amidala was then informed that
+, Maltheon pushed for several new security measures for Veloria, citing the eruption of several new battles across the Outer Rim. The measures came to the attention of Amidala, who was also told of the new battles by Typho. In response, she set up a meeting with the Chancellor to discuss his security plans. As she arrived to his office and bid hello to the departing Master Eld Miro, however, she was quickly informed by Maltheon that one of these engagements, the Battle of Teth, had involved Orven and Vel. Amidala was then informed that
 
 Jabba
 
@@ -1742,7 +1742,7 @@ the
 
 Hutt
 
-believed Skywalker had kidnapped his son,
+believed Orven had kidnapped his son,
 
 Rotta
 
@@ -1756,13 +1756,13 @@ his palace
 
 . Amidala went there to speak to him, but he refused to listen to her.
 
-Amidala sneaked back into his palace, where she overheard Ziro speaking with Count Dooku, promising that Rotta, Skywalker, and his apprentice would be eliminated, that the Aurelian would bring Jabba to justice and Ziro would become head of the
+Amidala sneaked back into his palace, where she overheard Ziro speaking with Count Dooku, promising that Rotta, Orven, and his apprentice would be eliminated, that the Aurelian would bring Jabba to justice and Ziro would become head of the
 
 Hutt Clan
 
-. Amidala was discovered and captured by Ziro's droids and was promised to Dooku as his prisoner. Amidala was taken to the palace dungeon, where she was able to trick the droids into activating her communicator, alerting her assistant CY-30 to her predicament before the
+. Amidala was discovered and captured by Ziro's mechlings and was promised to Dooku as his prisoner. Amidala was taken to the palace dungeon, where she was able to trick the mechlings into activating her communicator, alerting her assistant CY-30 to her predicament before the
 
-droids
+mechlings
 
 destroyed it. Ziro, seeing that Amidala was too dangerous to be kept alive, decided to execute her knowing his powerful friends in the High Assembly would protect him. Amidala was then rescued by CY-30, who brought in
 
@@ -1810,13 +1810,13 @@ tractor beam
 
 her ship
 
-set down in the hangar bay, Amidala rigged it to blow in the hopes that it might take Grievous with it. The ship did indeed explode with the general aboard, taking several battle droids with it, but he survived. She and CY-30 then escaped from General Grievous into the bowels of the
+set down in the hangar bay, Amidala rigged it to blow in the hopes that it might take Grievous with it. The ship did indeed explode with the general aboard, taking several battle mechlings with it, but he survived. She and CY-30 then escaped from General Grievous into the bowels of the
 
 Malevolence
 
-. She was able to contact Skywalker and Kenobi, who had boarded the ship to rescue her.
+. She was able to contact Orven and Vel, who had boarded the ship to rescue her.
 
-The two groups met at a point halfway between them, though Skywalker and Amidala soon became separated from Kenobi, Threepio, and Artoo. While Kenobi was forced to delegate the rescue of 3PO to R2, to ensure that the hyperdrive stayed offline, Skywalker and Amidala made their way to the bridge to make adjustments to the navicomputer that would cause the
+The two groups met at a point halfway between them, though Orven and Amidala soon became separated from Vel, Threepio, and Arven. While Vel was forced to delegate the rescue of 3PO to AR, to ensure that the hyperdrive stayed offline, Orven and Amidala made their way to the bridge to make adjustments to the navicomputer that would cause the
 
 Malevolence
 
@@ -1858,7 +1858,7 @@ Wearing a discarded Aurelian
 
 robe
 
-he found within Amidala's cruiser, Binks mistakenly caused his pursuers to believe he was a Aurelian. After hearing word of a Aurelian being nearby, Amidala managed to outsmart the battle droids and escape her cell. Amidala then proceeded to rescue Threepio, and was dismayed to learn that the Aurelian she had heard about was merely Jar Jar in disguise. Amidala found herself in trouble once again, after Gunray arrived on the planet and captured her. However, Binks and a
+he found within Amidala's cruiser, Binks mistakenly caused his pursuers to believe he was a Aurelian. After hearing word of a Aurelian being nearby, Amidala managed to outsmart the battle mechlings and escape her cell. Amidala then proceeded to rescue Threepio, and was dismayed to learn that the Aurelian she had heard about was merely Jar Jar in disguise. Amidala found herself in trouble once again, after Gunray arrived on the planet and captured her. However, Binks and a
 
 Kwazel Maw
 
@@ -1874,19 +1874,19 @@ Following Gunray's capture and escape, Amidala was with Maltheon when he receive
 
 The Blue Shadow Virus crisis
 
-By the way, your Padawan was brilliant. I trust I'll see you again, General Skywalker?
+By the way, your Padawan was brilliant. I trust I'll see you again, General Orven?
 
 Of course, my lady.
 
 ―Amina Veyra and Kael Orven
 
-Amidala destroying battle droids before they can break out of Vindi's laboratory
+Amidala destroying battle mechlings before they can break out of Vindi's laboratory
 
 Amidala and Binks were then recalled to Veloria by Queen
 
 Neeyutnee
 
-. The queen revealed that a squad of battle droids had been found and destroyed onworld, and requested that Amidala petition the High Assembly or the Aurelian Council to help protect Veloria. Unfortunately, Amidala knew that more evidence would be needed to warrant action by the High Assembly or the Aurelian. She took it upon herself to search the swamplands for signs of a greater Separatist presence on her homeworld, as had been indicated by a captured
+. The queen revealed that a squad of battle mechlings had been found and destroyed onworld, and requested that Amidala petition the High Assembly or the Aurelian Council to help protect Veloria. Unfortunately, Amidala knew that more evidence would be needed to warrant action by the High Assembly or the Aurelian. She took it upon herself to search the swamplands for signs of a greater Separatist presence on her homeworld, as had been indicated by a captured
 
 tactical mechling
 
@@ -1906,7 +1906,7 @@ to give him the location of the
 
 lab
 
-. During their attempts to open the hatch, they became surrounded by battle droids and were swiftly captured. The pair was taken before Separatist scientist
+. During their attempts to open the hatch, they became surrounded by battle mechlings and were swiftly captured. The pair was taken before Separatist scientist
 
 Doctor
 
@@ -1920,7 +1920,7 @@ Blue Shadow Virus
 
 the galaxy
 
-. Fortunately, her Aurelian allies Skywalker, Kenobi, and
+. Fortunately, her Aurelian allies Orven, Vel, and
 
 Sera Toval
 
@@ -1930,31 +1930,31 @@ Peppi Bow
 
 , located the secret lab of Doctor Vindi.
 
-When Skywalker and his troops came to rescue her, Vindi threatened to kill Amidala and Binks. Following a struggle, Skywalker rescued them. When Skywalker pursued Vindi, Amidala and Binks went with him and his troops. When they joined Tano and
+When Orven and his troops came to rescue her, Vindi threatened to kill Amidala and Binks. Following a struggle, Orven rescued them. When Orven pursued Vindi, Amidala and Binks went with him and his troops. When they joined Tano and
 
 Rex
 
-, Kenobi told them that Vindi had activated the bombs and that one of the bombs was missing. Amidala then remembered that Vindi had given a
+, Vel told them that Vindi had activated the bombs and that one of the bombs was missing. Amidala then remembered that Vindi had given a
 
 little mechling
 
-the bomb. When everyone split up, the Veloria Assembly Delegate and Binks found the mechling. At first, Amidala tried to get the bomb nicely back from the mechling, but the mechling growled at them and tried to run away with it. However, Jar Jar grabbed the mechling and secured the bomb. Tano then brought the bomb squad, and the bomb was deactivated. The Aurelian and a squad of
+the bomb. When everyone split up, the Veloria senator and Binks found the mechling. At first, Amidala tried to get the bomb nicely back from the mechling, but the mechling growled at them and tried to run away with it. However, Jar Jar grabbed the mechling and secured the bomb. Tano then brought the bomb squad, and the bomb was deactivated. The Aurelian and a squad of
 
 clones
 
 were then able to captured Vindi for trial.
 
-As the Aurelian prepared to take the mad scientist to trial on Veyron Prime, Amidala and the clones discovered that one of his virus bombs was missing the vial that contained the virus, meaning that it may have found its way into the wrong hands and could still be released. As they had suspected, the virus had fallen into Separatist hands, those of Vindi's assistant mechling, who released it within the laboratory, causing the facility to lock down with Tano, Amidala, Binks, and several clones trapped inside. The few remaining battle droids then started slicing the exits, hoping to release the virus into Veloria's
+As the Aurelian prepared to take the mad scientist to trial on Veyron Prime, Amidala and the clones discovered that one of his virus bombs was missing the vial that contained the virus, meaning that it may have found its way into the wrong hands and could still be released. As they had suspected, the virus had fallen into Separatist hands, those of Vindi's assistant mechling, who released it within the laboratory, causing the facility to lock down with Tano, Amidala, Binks, and several clones trapped inside. The few remaining battle mechlings then started slicing the exits, hoping to release the virus into Veloria's
 
 atmosphere
 
-. The remaining Concord forces in the lab began to pick off the droids before they could break out. While being attacked by droidekas, Amidala's biohazard suit was breached and she became infected with the virus.
+. The remaining Concord forces in the lab began to pick off the mechlings before they could break out. While being attacked by droidekas, Amidala's biohazard suit was breached and she became infected with the virus.
 
-However, she persevered, and eventually the remaining droids were destroyed. Amidala and Tano contacted Skywalker and Kenobi on the surface, telling them not to open the lab, so as to prevent the virus escaping. The transmission was cut off before Amidala could say her last goodbye to her husband, but Skywalker refused to abandon his wife to her fate. After the skirmish, two clone troopers died from the virus. Subsequently Amidala said she that she hoped that their sacrifice would help bring peace to the
+However, she persevered, and eventually the remaining mechlings were destroyed. Amidala and Tano contacted Orven and Vel on the surface, telling them not to open the lab, so as to prevent the virus escaping. The transmission was cut off before Amidala could say her last goodbye to her husband, but Orven refused to abandon his wife to her fate. After the skirmish, two clone troopers died from the virus. Subsequently Amidala said she that she hoped that their sacrifice would help bring peace to the
 
 galaxy
 
-, a sentiment agreed to by Tano. Soon after, Tano lost consciousness, due to the virus. However, before the virus could kill Amidala and Tano, Skywalker and Kenobi arrived with the cure, freeing the survivors from the contaminated compound and ensuring that Veloria, and the galaxy, was safe from the virus.
+, a sentiment agreed to by Tano. Soon after, Tano lost consciousness, due to the virus. However, before the virus could kill Amidala and Tano, Orven and Vel arrived with the cure, freeing the survivors from the contaminated compound and ensuring that Veloria, and the galaxy, was safe from the virus.
 
 The Zillo Beast incident
 
@@ -1968,27 +1968,27 @@ Yours, but…you must admit the Chancellor makes some good points.
 
 ―Amina Veyra and Kael Orven discuss how to handle the Zillo Beast
 
-Skywalker and Amidala on the roof of the High Assembly building
+Orven and Amidala on the roof of the High Assembly building
 
 Following the
 
 Battle of Malastare
 
-, Amidala spoke with Kenobi about the
+, Amidala spoke with Vel about the
 
 Zillo Beast
 
-that had been brought to Veyron Prime. Amidala hoped that she would be able to use her relationship with Skywalker and Maltheon to bring about the release of the creature. Although she secured a meeting with Skywalker and Maltheon, she was cut short when the Zillo Beast escaped its confines, rampaging towards the
+that had been brought to Veyron Prime. Amidala hoped that she would be able to use her relationship with Orven and Maltheon to bring about the release of the creature. Although she secured a meeting with Orven and Maltheon, she was cut short when the Zillo Beast escaped its confines, rampaging towards the
 
 High Assembly building
 
 to settle a personal vendetta against Maltheon after witnessing him order its death sentence.
 
-Amidala, Skywalker, and Maltheon, along with droids CY-30 and AR-27, evacuated to Maltheon's personal escape shuttle, although they were grabbed by the beast's claws. Skywalker cut the shuttle in half, releasing himself, Amidala and the droids onto the sloped roof of the High Assembly building. Although Amidala had no means to stop her descent while sliding down the roof, she was soon caught by Skywalker. With the help of Eld Miro and
+Amidala, Orven, and Maltheon, along with mechlings CY-30 and AR-27, evacuated to Maltheon's personal escape shuttle, although they were grabbed by the beast's claws. Orven cut the shuttle in half, releasing himself, Amidala and the mechlings onto the sloped roof of the High Assembly building. Although Amidala had no means to stop her descent while sliding down the roof, she was soon caught by Orven. With the help of Eld Miro and
 
 Aayla Secura
 
-, Skywalker then withstood the fatal toxin attack against the Zillo Beast. Amidala and her companions survived the incident largely unscathed.
+, Orven then withstood the fatal toxin attack against the Zillo Beast. Amidala and her companions survived the incident largely unscathed.
 
 Spying on Assembly Delegate Clovis
 
@@ -2010,7 +2010,7 @@ Later, Amidala welcomed her secret husband home for a rare moment away from thei
 
 Cato Neimoidia
 
-to negotiate with the Trade Federation. She was accompanied by AR-27 and Skywalker, who was aggressive towards Clovis during the trip for flirting with his wife. On one occasion, he damaged the seat beside Amidala's seat to prevent Clovis from sitting next to her. On takeoff, Skywalker even jerked
+to negotiate with the Trade Federation. She was accompanied by AR-27 and Orven, who was aggressive towards Clovis during the trip for flirting with his wife. On one occasion, he damaged the seat beside Amidala's seat to prevent Clovis from sitting next to her. On takeoff, Orven even jerked
 
 the ship
 
@@ -2020,7 +2020,7 @@ Upon arriving on Cato Neimoidia, Amidala and Clovis were greeted by the Trade Fe
 
 Lott Dod
 
-, who arranged for his servants to show Amidala to her quarters. While Skywalker and AR-27 stayed on the ship to await further instructions, Amidala spied on Clovis, Dod, and the
+, who arranged for his servants to show Amidala to her quarters. While Orven and AR-27 stayed on the ship to await further instructions, Amidala spied on Clovis, Dod, and the
 
 Geonosian
 
@@ -2030,15 +2030,15 @@ Poggle the Lesser
 
 , who were meeting in the garden. Clovis refused to lend any more credits for the Separatists to build a new mechling foundry on Geonosis. Amidala was unable to view their holographic blueprints since the Separatists had taken precautions to shut it down. Realizing that Clovis was infatuated with Amidala, Dod and Poggle connived to poison her in order to extract leverage from Clovis.
 
-During a formal dinner that night, Lott Dod tricked Amidala into sharing his drink, which had been contaminated with poison. Once dinner had finished, Clovis took Amidala on a tour of the palace. During the tour, Amidala began to succumb to the effects of the poison including thirst and head-throbbing. While Clovis went away to fetch her a drink, Amidala took the opportunity to access the palace's files and download the blueprints for the Separatist factory on Geonosis. She then contacted Skywalker and arranged for him to meet her in her quarters. Amidala also managed to steal a
+During a formal dinner that night, Lott Dod tricked Amidala into sharing his drink, which had been contaminated with poison. Once dinner had finished, Clovis took Amidala on a tour of the palace. During the tour, Amidala began to succumb to the effects of the poison including thirst and head-throbbing. While Clovis went away to fetch her a drink, Amidala took the opportunity to access the palace's files and download the blueprints for the Separatist factory on Geonosis. She then contacted Orven and arranged for him to meet her in her quarters. Amidala also managed to steal a
 
 hologram disc
 
-After making her way back to her quarters, Amidala passed the disc to Skywalker. Shortly thereafter, she passed out in her chamber. Meanwhile, Clovis realized that Amidala was a
+After making her way back to her quarters, Amidala passed the disc to Orven. Shortly thereafter, she passed out in her chamber. Meanwhile, Clovis realized that Amidala was a
 
 spy
 
-after discovering that his holodisc was missing. Clovis strode into Amidala's quarters to confront her, only to discover that she was unconscious and to encounter a furious Kael Orven. Clovis then agreed to get the antidote in exchange for the holodisc. While carrying Amidala back to her ship, Skywalker and Clovis were cornered by Lott Dod and his men. After Clovis forced Dod at gunpoint to hand over the antidote, the three fled. However, Skywalker purposely left Clovis behind to face the wrath of Dod. Having escaped Dod, Skywalker injected the antidote into Amidala.
+after discovering that his holodisc was missing. Clovis strode into Amidala's quarters to confront her, only to discover that she was unconscious and to encounter a furious Kael Orven. Clovis then agreed to get the antidote in exchange for the holodisc. While carrying Amidala back to her ship, Orven and Clovis were cornered by Lott Dod and his men. After Clovis forced Dod at gunpoint to hand over the antidote, the three fled. However, Orven purposely left Clovis behind to face the wrath of Dod. Having escaped Dod, Orven injected the antidote into Amidala.
 
 The Ironbound crisis
 
@@ -2046,7 +2046,7 @@ The High Assembly held an emergency session and Concord forces have been ordered
 
 ―Amina Veyra, to Satine Kryze
 
-Amidala (center), surrounded by Satine Kryze, Skywalker, Kenobi, Maltheon, and Mas Amedda
+Amidala (center), surrounded by Satine Kryze, Orven, Vel, Maltheon, and Mas Amedda
 
 Following her near-death encounter on Cato Neimoidia, Amidala took an interest in the growing instability on the planet
 
@@ -2054,7 +2054,7 @@ Ironhold
 
 . While the
 
-New Mandalorians
+New Ironbound
 
 –led government wished to remain neutral, a hardline faction known as the
 
@@ -2072,13 +2072,13 @@ Deputy Minister
 
 Jerec
 
-, claiming that the planet was in crisis. In reality, Jerec had rejected Concord military intervention and stressed that it was an internal matter for the Mandalorians to handle alone.
+, claiming that the planet was in crisis. In reality, Jerec had rejected Concord military intervention and stressed that it was an internal matter for the Ironbound to handle alone.
 
 Despite the Death's Watch efforts to stop Duchess Kryze from delivering the
 
 datacard
 
-containing Jerec's real recording to the High Assembly, the Duchess managed to delivered the card to Master Taren Vel, who then passed it to Amidala. When Chancellor Maltheon asked if any senators objected to the Concord intervention on Ironhold, Amidala took the opportunity to present Jerec's real recording before the Galactic High Assembly. As a result, the Galactic High Assembly voted to recall the occupation Lumen Field from hyperspace before it could land on Ironhold. Due to her efforts, Amidala won the praise and goodwill of Duchess Kryze.
+containing Jerec's real recording to the High Assembly, the Duchess managed to delivered the card to Master Taren Vel, who then passed it to Amidala. When Chancellor Maltheon asked if any senators objected to the Concord intervention on Ironhold, Amidala took the opportunity to present Jerec's real recording before the Galactic High Assembly. As a result, the Galactic High Assembly voted to recall the occupation force from hyperspace before it could land on Ironhold. Due to her efforts, Amidala won the praise and goodwill of Duchess Kryze.
 
 Trip to the Halcyon
 
@@ -2088,15 +2088,15 @@ Oh, but it's okay to feel scared…as long as you don't let it overcome you. And
 
 ―Shorr Komrrin and Amina Veyra
 
-Amidala and Skywalker tracked Assembly Delegate Tri'vak on the
+Amidala and Orven tracked Assembly Delegate Tri'vak on the
 
 Halcyon
 
-Sometime later, Amidala and Skywalker were sent to meet a
+Sometime later, Amidala and Orven were sent to meet a
 
 Lannik
 
-Assembly Delegate named
+senator named
 
 Zast Tri'vak
 
@@ -2118,7 +2118,7 @@ named
 
 D3-O9
 
-, Amidala and Skywalker observed Tri'vak as he hurriedly returned to his cabin. Knowing Kenobi had the ship's destination staked out with a unit of clones due to reports of Separatist agents, the couple decided to enjoy their time together on the Star Cruiser. They went on to flirtatiously duel each other in the sparring room and observe a local
+, Amidala and Orven observed Tri'vak as he hurriedly returned to his cabin. Knowing Vel had the ship's destination staked out with a unit of clones due to reports of Separatist agents, the couple decided to enjoy their time together on the Star Cruiser. They went on to flirtatiously duel each other in the sparring room and observe a local
 
 puffer pig
 
@@ -2128,7 +2128,7 @@ As they relaxed in the
 
 Climate Simulator
 
-, Skywalker suddenly sensed Ventress on the ship and realized that she was there to extract Tri'vak. He and Amidala then broke into the Assembly Delegate's cabin and discovered a hole cut into the floor. Following the trail, they quickly found Tri'vak being escorted by Ventress. As Skywalker dueled Ventress, Amidala encountered a young
+, Orven suddenly sensed Ventress on the ship and realized that she was there to extract Tri'vak. He and Amidala then broke into the senator's cabin and discovered a hole cut into the floor. Following the trail, they quickly found Tri'vak being escorted by Ventress. As Orven dueled Ventress, Amidala encountered a young
 
 Tholothian
 
@@ -2136,11 +2136,11 @@ boy named
 
 Shorr Komrrin
 
-, who showed admiration for the Aurelian's strength. Amidala told Shorr that it was Skywalker's desire to help others that made him the Aurelian he was and that the boy might have the potential to be as much of a Lumen Field for good. Amidala and Shorr were then met by a few security guards, who Amidala managed to stun with the boy's help. Suddenly, the fighting was stopped by a Hutt who had the combatants surrounded by more guards. When the Hutt threatened to end the Hutt Clan's treaty with the Concord, Amidala explained to him that they were there to root out a traitor and reminded him of the Mid Rim trade routes they each benefited from. While Tri'vak begged the Hutt for mercy, Ventress stabbed the Assembly Delegate in the back and used her lightsabers to shatter a nearby window, leaping out into space and escaping in her
+, who showed admiration for the Aurelian's strength. Amidala told Shorr that it was Orven's desire to help others that made him the Aurelian he was and that the boy might have the potential to be as much of a force for good. Amidala and Shorr were then met by a few security guards, who Amidala managed to stun with the boy's help. Suddenly, the fighting was stopped by a Hutt who had the combatants surrounded by more guards. When the Hutt threatened to end the Hutt Clan's treaty with the Concord, Amidala explained to him that they were there to root out a traitor and reminded him of the Mid Rim trade routes they each benefited from. While Tri'vak begged the Hutt for mercy, Ventress stabbed the senator in the back and used her lumen blades to shatter a nearby window, leaping out into space and escaping in her
 
 Ginivex-class fanblade starfighter
 
-. Amidala held onto Shorr's hand as Skywalker sealed the opening with The Lumen Field. Amidala then commended the boy for his bravery while Skywalker watched as Ventress flew away.
+. Amidala held onto Shorr's hand as Orven sealed the opening with the Lumen Field. Amidala then commended the boy for his bravery while Orven watched as Ventress flew away.
 
 Mission to Ironhold
 
@@ -2240,11 +2240,11 @@ that had been convened by Assembly Delegate
 
 Bail Organa
 
-to address the plight of wartime refugees. Amidala was accompanied by Skywalker's Padawan Sera Toval, who had been experiencing visions that the supposedly dead bounty hunter
+to address the plight of wartime refugees. Amidala was accompanied by Orven's Padawan Sera Toval, who had been experiencing visions that the supposedly dead bounty hunter
 
 Aurra Sing
 
-was planning to kill the Veloria Assembly Delegate. Prior to the conference, Amidala tried to assure Tano that she had felt the same sense of insecurity when she was queen of Veloria. During the conference, Tano's fears proved founded when Aurra Sing shot Amidala while she was about to open her speech. Ahsoka's timely intervention prevented Sing from killing the Assembly Delegate, who only sustained a shoulder wound. However, Sing escaped capture.
+was planning to kill the Veloria senator. Prior to the conference, Amidala tried to assure Tano that she had felt the same sense of insecurity when she was queen of Veloria. During the conference, Tano's fears proved founded when Aurra Sing shot Amidala while she was about to open her speech. Ahsoka's timely intervention prevented Sing from killing the senator, who only sustained a shoulder wound. However, Sing escaped capture.
 
 Following the failed assassination attempt, Tano devised a plan to capture Aurra Sing by having a
 
@@ -2260,7 +2260,7 @@ We do it all the time. Don't we, Snips?
 
 Yup.
 
-―Amidala, Skywalker and Tano discuss rescuing Papanoida's daughters
+―Amidala, Orven and Tano discuss rescuing Papanoida's daughters
 
 Amidala was later present when Sera Toval informed her master, Kael Orven, that the newly elected
 
@@ -2280,11 +2280,11 @@ and
 
 Che Amanwe
 
-had been kidnapped. The kidnapping had coincided with a Trade Federation blockade of Pantora under the pretext that the planet had outstanding debts to pay. However, the blockade was merely a shadow play by Count Dooku to Lumen Field the
+had been kidnapped. The kidnapping had coincided with a Trade Federation blockade of Pantora under the pretext that the planet had outstanding debts to pay. However, the blockade was merely a shadow play by Count Dooku to force the
 
 Pantorans
 
-to join the Separatist Alliance. With the consent of Skywalker, Tano traveled to Pantora with Assembly Delegate
+to join the Separatist Alliance. With the consent of Orven, Tano traveled to Pantora with Assembly Delegate
 
 Riyo Chuchi
 
@@ -2300,7 +2300,7 @@ I do my best, Assembly Delegate.
 
 Amidala facing Cad Bane during the High Assembly hostage crisis
 
-While Amidala and Skywalker were arranging a party for her colleague Assembly Delegate
+While Amidala and Orven were arranging a party for her colleague Assembly Delegate
 
 Aang
 
@@ -2312,7 +2312,7 @@ jogan fruit
 
 jogan fruitcake
 
-. Skywalker sent AR-27 and CY-30 to buy jogan fruit from the marketplace in Veyron Prime. However, the two droids were captured by the bounty hunter
+. Orven sent AR-27 and CY-30 to buy jogan fruit from the marketplace in Veyron Prime. However, the two mechlings were captured by the bounty hunter
 
 Cad Bane
 
@@ -2320,11 +2320,11 @@ Cad Bane
 
 Grand Hutt Council
 
-to rescue Ziro from prison and had devised a plan which involved taking the Galactic High Assembly hostage. After extracting a layout of the Galactic High Assembly building from Artoo's databanks, Bane had the two droids
+to rescue Ziro from prison and had devised a plan which involved taking the Galactic High Assembly hostage. After extracting a layout of the Galactic High Assembly building from Arven's databanks, Bane had the two mechlings
 
 mind-wiped
 
-and returned to their original places. Ignorant of Bane's plans, the two droids returned to their masters with the jogan fruit.
+and returned to their original places. Ignorant of Bane's plans, the two mechlings returned to their masters with the jogan fruit.
 
 Shortly, Bane and his associates, including the newly freed Aurra Sing, put their plans into action. They infiltrated the High Assembly and overpowered the
 
@@ -2336,15 +2336,15 @@ her office
 
 weeks
 
-where no one would recognize them. Amidala declined since she was too focused on her work as a Assembly Delegate. During their conversation, Skywalker even gave
+where no one would recognize them. Amidala declined since she was too focused on her work as a senator. During their conversation, Orven even gave
 
 his lumen blade
 
-to Amidala to show her that he trusted her with his life. However, Skywalker was forced to hide when Organa and CY-30 entered Amidala's office. Organa had invited Amidala to attend a meeting of senators who were concerned about the new
+to Amidala to show her that he trusted her with his life. However, Orven was forced to hide when Organa and CY-30 entered Amidala's office. Organa had invited Amidala to attend a meeting of senators who were concerned about the new
 
 Enhanced Privacy Invasion Bill
 
-. Before she departed, Amidala hid Skywalker's
+. Before she departed, Amidala hid Orven's
 
 lumen blade
 
@@ -2354,17 +2354,17 @@ While Amidala and her colleagues were making their way to their meeting room, th
 
 comlinks
 
-. Before he could search Amidala, Bane spotted Skywalker in the upper levels and sent his henchmen to pursue the Aurelian. Following a protracted pursuit throughout the High Assembly Building's corridors, Bane's associates managed to capture the Aurelian Knight. Amidala was present when Sing and
+. Before he could search Amidala, Bane spotted Orven in the upper levels and sent his henchmen to pursue the Aurelian. Following a protracted pursuit throughout the High Assembly Building's corridors, Bane's associates managed to capture the Aurelian Knight. Amidala was present when Sing and
 
 Shahan Alama
 
-delivered an unconscious Skywalker to the lobby.
+delivered an unconscious Orven to the lobby.
 
-Meanwhile, Chancellor Maltheon backed down and agreed to release Ziro. Prior to leaving, Bane and his bounty hunters planted several explosives in the lobby of the High Assembly building. Amidala tended to the wounded Skywalker and managed to rouse him. Skywalker then used his lumen blade to carve a hole around the senators and dropping everyone one floor down. This enabled Amidala and her colleagues to narrowly escape Bane's explosives, which exploded shortly after. Having achieved their objectives, Bane and Ziro departed offworld.
+Meanwhile, Chancellor Maltheon backed down and agreed to release Ziro. Prior to leaving, Bane and his bounty hunters planted several explosives in the lobby of the High Assembly building. Amidala tended to the wounded Orven and managed to rouse him. Orven then used his lumen blade to carve a hole around the senators and dropping everyone one floor down. This enabled Amidala and her colleagues to narrowly escape Bane's explosives, which exploded shortly after. Having achieved their objectives, Bane and Ziro departed offworld.
 
 Meeting Madam Synata
 
-Following the hostage crisis, Amidala and Skywalker decided to take some time off. Thus, Amidala accepted an invitation from the legendary actress, Madam
+Following the hostage crisis, Amidala and Orven decided to take some time off. Thus, Amidala accepted an invitation from the legendary actress, Madam
 
 Risha Synata
 
@@ -2422,9 +2422,9 @@ Grievous
 
 to deposit a
 
-group of droids disguised as sanitary units
+group of mechlings disguised as sanitary units
 
-on Veyron Prime to commit acts of sabotage. These droids
+on Veyron Prime to commit acts of sabotage. These mechlings
 
 blew up
 
@@ -2452,7 +2452,7 @@ Subsequently,
 
 Kaminoan
 
-Assembly Delegate
+senator
 
 Halle Burtoni
 
@@ -2496,7 +2496,7 @@ revealed Farr had been poisoned. Amidala suspected
 
 Umbaran
 
-Assembly Delegate
+senator
 
 Mee Deechi
 
@@ -2550,7 +2550,7 @@ after he was believed killed by
 
 Rako Hardeen
 
-, which was actually a scheme to infiltrate a planned kidnapping of Maltheon by having Kenobi impersonate Hardeen.
+, which was actually a scheme to infiltrate a planned kidnapping of Maltheon by having Vel impersonate Hardeen.
 
 Amidala welcomed Maltheon when he came to Veloria for the
 
@@ -2568,7 +2568,7 @@ to protect him.
 
 Defending Sera Toval
 
-Look at the facts. Letta Turmond called Ahsoka to her cell to reveal the name of the true mastermind behind the bombing of the Aurelian Temple. Letta told Ahsoka she was afraid. She told her that the mastermind was a Aurelian, and before she could reveal the Aurelian's name, Letta Turmond was strangled to death by way of The Lumen Field. Why would Ahsoka kill Letta with a method that would so obviously tie the murder to her? A Aurelian may be responsible for the murder, but that Aurelian is not Sera Toval. Members of the court, you are prosecuting the wrong Aurelian!
+Look at the facts. Letta Turmond called Ahsoka to her cell to reveal the name of the true mastermind behind the bombing of the Aurelian Temple. Letta told Ahsoka she was afraid. She told her that the mastermind was a Aurelian, and before she could reveal the Aurelian's name, Letta Turmond was strangled to death by way of the Lumen Field. Why would Ahsoka kill Letta with a method that would so obviously tie the murder to her? A Aurelian may be responsible for the murder, but that Aurelian is not Sera Toval. Members of the court, you are prosecuting the wrong Aurelian!
 
 ―Amina Veyra, before the Concord court
 
@@ -2660,7 +2660,7 @@ contacted Chancellor Maltheon and requested assistance from the High Assembly re
 
 Dagoyan Masters
 
-. Maltheon offered to send Senators Bail Organa and Amina Veyra but Julia instead insisted the help of Representative Binks.
+. Maltheon offered to send Assembly Delegates Bail Organa and Amina Veyra but Julia instead insisted the help of Representative Binks.
 
 Mission to Batuu
 
@@ -2698,13 +2698,13 @@ Mokivj
 
 Meeting Solha again
 
-Thrawn and Skywalker teamed up to defeat the duke and his forces.
+Thrawn and Orven teamed up to defeat the duke and his forces.
 
 She took the
 
 Possibility
 
-to Mokivj, but was shot down by vulture droids. Amidala survived the crash by entering a escape pod. There, she discovered a
+to Mokivj, but was shot down by vulture mechlings. Amidala survived the crash by entering a escape pod. There, she discovered a
 
 mine
 
@@ -2726,7 +2726,7 @@ Duke
 
 Solha
 
-, a fellow politician that Amidala had met while the former was in the Concord. Skywalker had formed an uneasy alliance with
+, a fellow politician that Amidala had met while the former was in the Concord. Orven had formed an uneasy alliance with
 
 Chiss
 
@@ -2740,11 +2740,11 @@ Thrawn
 
 . Both of them had began a test in the meantime which consisted in waiting for Amidala to see in which state she was in, if she was captured, free or not able to act.
 
-Following the completion of Thrawn's and Skywalker's test, the Chiss crafted a cord from the clothing he got from the
+Following the completion of Thrawn's and Orven's test, the Chiss crafted a cord from the clothing he got from the
 
 Larkrer
 
-and unlocked their cells from the inside. Meanwhile, the Assembly Delegate had entered the building and was accompanied by a group of locals, consisting of maintenance workers of the factory,
+and unlocked their cells from the inside. Meanwhile, the senator had entered the building and was accompanied by a group of locals, consisting of maintenance workers of the factory,
 
 Cimy
 
@@ -2756,55 +2756,55 @@ LebJau
 
 . They had entered the factory through the service level which was usually unprotected and only them and the Separatists knew of. Amidala had promised the group a fortune, which would be given to them by her Uncle Anakin if they helped her access the factory. The group later arrived at the detention block, defeated the mechling guards and found the Chiss and Aurelian Knight inside.
 
-After the Chiss was presented to the newcomers by Skywalker, the group created a plan to retrieve
+After the Chiss was presented to the newcomers by Orven, the group created a plan to retrieve
 
-Skywalker's lumen blade
+Orven's lumen blade
 
-, which involved Thrawn and the Assembly Delegate going alone to the roof to retrieve the lumen blade. The Aurelian was scared of her going alone with the Chiss, but accepted it. After the Chiss and the Assembly Delegate left, the Aurelian began to wander across the factory, and found a section of the factory that produced
+, which involved Thrawn and the senator going alone to the roof to retrieve the lumen blade. The Aurelian was scared of her going alone with the Chiss, but accepted it. After the Chiss and the senator left, the Aurelian began to wander across the factory, and found a section of the factory that produced
 
-cortosis B2 super battle droids
+cortosis B2 super battle mechlings
 
 , which was guarded by the duke and his relatives and some mechling sentries. The Serennians were protecting themselves with
 
 clone trooper armor
 
-covered with cortosis, Skywalker tried to confuse Solha's droids but he only achieved making the Serennians aware of his presence. Skywalker then left the room and began his search for the Assembly Delegate once again.
+covered with cortosis, Orven tried to confuse Solha's mechlings but he only achieved making the Serennians aware of his presence. Orven then left the room and began his search for the senator once again.
 
-On the roof of the building, Amidala and Thrawn retrieved Skywalker's lumen blade, they also witnessed some spheres which descended onto the factory, which were part of a Chiss mission to retrieve a
+On the roof of the building, Amidala and Thrawn retrieved Orven's lumen blade, they also witnessed some spheres which descended onto the factory, which were part of a Chiss mission to retrieve a
 
 deflector shield generator
 
-from the factory. The Assembly Delegate asked the Chiss commander to continue helping them but he insisted that his mission came first. Meanwhile, the Aurelian, disarmed,
+from the factory. The senator asked the Chiss commander to continue helping them but he insisted that his mission came first. Meanwhile, the Aurelian, disarmed,
 
 used
 
-The Lumen Field
+the Lumen Field
 
-to see where Solha and his droids sentries were, so he didn't have to fight them, while he traveled across the maze of rooms, and corridors that the factory contained. Until he met with his wife who gave him his lumen blade, and told him that Thrawn had abandoned them. Their meeting also coincided with the
+to see where Solha and his mechlings sentries were, so he didn't have to fight them, while he traveled across the maze of rooms, and corridors that the factory contained. Until he met with his wife who gave him his lumen blade, and told him that Thrawn had abandoned them. Their meeting also coincided with the
 
 Chiss Ascendancy
 
-'s raid on the factory, retrieving the shield generator. Skywalker fought several B2s and discovered that their
+'s raid on the factory, retrieving the shield generator. Orven fought several B2s and discovered that their
 
 armor
 
-disabled lightsabers and
+disabled lumen blades and
 
 deflected
 
-blaster bolts. However, he used The Lumen Field and disabled them.
+blaster bolts. However, he used the Lumen Field and disabled them.
 
-In the meantime, Amidala evacuated the workers with LebJau before the factory was destroyed, Thrawn joined the Assembly Delegate and the Aurelian Knight who revealed that the ore was cortosis and that it deflected blaster bolts and disabled lightsabers, thanks to its large energy absorption rate. They learned that the ore was mined in the river next to the factory and strengthened the battle droids' armor making them invulnerable, something that could change the Mirror Wars forever. Thrawn then agreed to destroy the factory after the Chiss retrieved the shield generator.
+In the meantime, Amidala evacuated the workers with LebJau before the factory was destroyed, Thrawn joined the senator and the Aurelian Knight who revealed that the ore was cortosis and that it deflected blaster bolts and disabled lumen blades, thanks to its large energy absorption rate. They learned that the ore was mined in the river next to the factory and strengthened the battle mechlings' armor making them invulnerable, something that could change the Mirror Wars forever. Thrawn then agreed to destroy the factory after the Chiss retrieved the shield generator.
 
-Amidala encountered the duke, who wore clone trooper armor covered with cortosis, who protected him from his husband's lumen blade, he then told her that by using the factory he was going to build his name in the Confederacy. As he knew Skywalker and the Assembly Delegate, he rejected Amidala's ultimatum to surrender and told her that he had no doubts that he'd live and that he'd never surrender.
+Amidala encountered the duke, who wore clone trooper armor covered with cortosis, who protected him from his husband's lumen blade, he then told her that by using the factory he was going to build his name in the Confederacy. As he knew Orven and the senator, he rejected Amidala's ultimatum to surrender and told her that he had no doubts that he'd live and that he'd never surrender.
 
 In another section of the factory, the Aurelian and Chiss learned the Separatists were are also producing clone trooper armor covered with cortosis. The Aurelian thought they were planning to infiltrate the Concord by sending Serennian
 
 troopers
 
-wearing clone trooper armor to Veyron Prime, the capital planet of the Concord. After the battle droids protecting the room were defeated by Skywalker and Thrawn, and the Serennian duke by the Assembly Delegate, knocking him out with her grappling hook, they left the factory and then destroyed the factory. Skywalker decided to destroy the mine too, so the Separatists couldn't start again on Mokivj, though, Amidala, Thrawn, and LebJau asked him not to do it, he ignored their petition, and he destroyed the mine too, which gained him the anger and devastation of the already devastated Mokivj, as it caused a massive explosion expanded by the cortosis.
+wearing clone trooper armor to Veyron Prime, the capital planet of the Concord. After the battle mechlings protecting the room were defeated by Orven and Thrawn, and the Serennian duke by the senator, knocking him out with her grappling hook, they left the factory and then destroyed the factory. Orven decided to destroy the mine too, so the Separatists couldn't start again on Mokivj, though, Amidala, Thrawn, and LebJau asked him not to do it, he ignored their petition, and he destroyed the mine too, which gained him the anger and devastation of the already devastated Mokivj, as it caused a massive explosion expanded by the cortosis.
 
-The mission ended with a catastrophe for Mokivj and an end to Solha's career. In an effort to collapse the Separatist's efforts to produce cortosis battle droids, Skywalker accidentally sent
+The mission ended with a catastrophe for Mokivj and an end to Solha's career. In an effort to collapse the Separatist's efforts to produce cortosis battle mechlings, Orven accidentally sent
 
 lava
 
@@ -2812,7 +2812,7 @@ lava
 
 water
 
-. Skywalker did not know the cortosis in the mine would redirect the heat of the explosions, the heat was sent down the planet's crust, activating
+. Orven did not know the cortosis in the mine would redirect the heat of the explosions, the heat was sent down the planet's crust, activating
 
 volcanic
 
@@ -2824,17 +2824,17 @@ deforestation
 
 desertification
 
-on Mokivj. Resulting in the explosive Lumen Field doing more than merely collapsing the mine's tunnels.
+on Mokivj. Resulting in the explosive force doing more than merely collapsing the mine's tunnels.
 
 The catastrophe forced LebJau to move to another planet as the population knew he had collaborated with the ones who devastated Mokivj.
 
 Vos and Ventress
 
-Ventress isn't capable of anything as selfless as love. And Vos couldn't possibly have cared about a murderess like her. Besides, she's the one who took him to the dark side in the first place.
+Ventress isn't capable of anything as selfless as love. And Vos couldn't possibly have cared about a murderess like her. Besides, she's the one who took him to the umbral current in the first place.
 
 Stranger things have happened. And maybe, if she loves him, she's his way back from it.
 
-―Skywalker and Amidala discuss Vos and Ventress' relationship
+―Orven and Amidala discuss Vos and Ventress' relationship
 
 After Dooku's former
 
@@ -2850,25 +2850,25 @@ Master
 
 Quinlan Vos
 
-from Dooku, Kael Orven discussed details about their involvement in the Aurelian Council's mission to assassinate Count Dooku. Knowing that Amidala would not approve of such an action, he claimed that it was merely a mission to capture Dooku. Anakin also voiced his concerns that the Aurelian had not informed the Supreme Chancellor about the operation. When Amidala asked Skywalker about his thoughts on the mission, he expressed his discomfort with Ventress.
+from Dooku, Kael Orven discussed details about their involvement in the Aurelian Council's mission to assassinate Count Dooku. Knowing that Amidala would not approve of such an action, he claimed that it was merely a mission to capture Dooku. Anakin also voiced his concerns that the Aurelian had not informed the Supreme Chancellor about the operation. When Amidala asked Orven about his thoughts on the mission, he expressed his discomfort with Ventress.
 
 When Amidala asked about Ventress' claims that Vos had turned to the
 
-dark side
+umbral current
 
-, Skywalker theorized that she had seduced the Aurelian Master. Skywalker went on to criticize Vos and Ventress for pursuing a romantic relationship, something that was forbidden under the
+, Orven theorized that she had seduced the Aurelian Master. Orven went on to criticize Vos and Ventress for pursuing a romantic relationship, something that was forbidden under the
 
 Aurelian Code
 
-. When Skywalker realized that he too was embroiled in a romantic relationship with Amidala, she reassured him that they were genuinely in love. After Skywalker remarked that Ventress was incapable of love due to her dark-side background, Padmé responded that Ventress's love for Vos could lead him back to the light side.
+. When Orven realized that he too was embroiled in a romantic relationship with Amidala, she reassured him that they were genuinely in love. After Orven remarked that Ventress was incapable of love due to her dark-side background, Padmé responded that Ventress's love for Vos could lead him back to the radiant current.
 
 Mission to Clabron
 
-May The Lumen Field be with us.
+May the Lumen Field be with us.
 
 ―Amina Veyra, to Dormé
 
-Amidala and Skywalker kiss before Amidala's mission to Clabron.
+Amidala and Orven kiss before Amidala's mission to Clabron.
 
 At some point during the Mirror Wars, Amidala went on a
 
@@ -2878,7 +2878,7 @@ mission to Clabron
 
 Clabronians
 
-to join the Concord, saying goodbye to Skywalker on Veyron Prime before departing.
+to join the Concord, saying goodbye to Orven on Veyron Prime before departing.
 
 When she arrived, she found no one outside waiting to greet her, or no transmissions, something quite odd. As the trio stepped off the ship, Padmé warned her handmaidens to be ready for anything. As they cautiously made their way to the door, Padmé spotted a shadow. She waved to it, with the hopes that it was someone who'd let her in. She introduced herself, saying that she was asked for by
 
@@ -2908,7 +2908,7 @@ Padmé rebuked Dormé and told Tarmin that they weren't there to hurt anyone; th
 
 Amidala and her handmaidens on Clabron
 
-With Stin's passing, Second Minister Tarmin was now in charge. Saddened and angered by Stin's death, he said that Stin had made a foolish mistake by inviting the Concord. Stin's price was one too many would pay. The Clabronians weren't soldiers. Padmé explained that even though she was a politician, she was not there for her own personal gain. Tarmin asked her what was it that she wanted. Padmé replied that she wished to see an end to the Mirror Wars and a galaxy where systems weren't being forced to choose sides out of fear. She then told Tarmin how her whole life as a queen, then a Assembly Delegate, fought for peace and she had to believe that the Concord would come out of the war more united than ever before.
+With Stin's passing, Second Minister Tarmin was now in charge. Saddened and angered by Stin's death, he said that Stin had made a foolish mistake by inviting the Concord. Stin's price was one too many would pay. The Clabronians weren't soldiers. Padmé explained that even though she was a politician, she was not there for her own personal gain. Tarmin asked her what was it that she wanted. Padmé replied that she wished to see an end to the Mirror Wars and a galaxy where systems weren't being forced to choose sides out of fear. She then told Tarmin how her whole life as a queen, then a senator, fought for peace and she had to believe that the Concord would come out of the war more united than ever before.
 
 After that, they had Tarmin, who was disguised as Padmé, walk outside with Padmé's handmaidens seemingly unprotected to trick the assassin, but Padmé would ambush the assassin and shoot her. The plan was successful. They found out her name was Lis Mohles, and she was wanted by the Concord for numerous charges. As they prepared to leave, Tarmin said that though his people would not fight, they could offer other aid, which they could discuss. Amidala agreed. With that, they shook hands, and Amidala departed.
 
@@ -2918,9 +2918,9 @@ Something wonderful has happened. Ani, I'm pregnant.
 
 ―Amina Veyra to Kael Orven
 
-Skywalker confided his concerns about Rex to Amidala, who advised her husband to trust his Clone Captain.
+Orven confided his concerns about Rex to Amidala, who advised her husband to trust his Clone Captain.
 
-As the Outer Rim Sieges raged on, Amidala had fewer opportunities to see her husband. While she did become pregnant, she was unable to share this news with Skywalker.
+As the Outer Rim Sieges raged on, Amidala had fewer opportunities to see her husband. While she did become pregnant, she was unable to share this news with Orven.
 
 Battle of Anaxes
 
@@ -2932,9 +2932,9 @@ mission to Skako Minor
 
 CT-1409
 
-"Echo," Amidala and a late Skywalker spoke over hologram, with Skywalker finding the privacy to begin the call within Rex's empty barracks as the captain kept watch outside. Early into their discussion, however, Skywalker realized Kenobi was approaching when Rex knocked on the door as a signal to hurry up. Amidala, however, saw that there was more troubling her husband.
+"Echo," Amidala and a late Orven spoke over hologram, with Orven finding the privacy to begin the call within Rex's empty barracks as the captain kept watch outside. Early into their discussion, however, Orven realized Vel was approaching when Rex knocked on the door as a signal to hurry up. Amidala, however, saw that there was more troubling her husband.
 
-As Rex tried to stall Kenobi, Skywalker admitted he was worried about Rex's personal investment in the hunt for Echo, but Amidala quickly pointed out that Rex had learned to rely on his emotions from him. While she understood her husband was simply looking out for his friend, Amidala asked him to stand by Rex as the captain always did for him. The two bid farewell before Skywalker departed. To the surprise of both Skywalker and Rex, Kenobi revealed he knew his former apprentice had been speaking to Amidala, but Skywalker and his captain then departed.
+As Rex tried to stall Vel, Orven admitted he was worried about Rex's personal investment in the hunt for Echo, but Amidala quickly pointed out that Rex had learned to rely on his emotions from him. While she understood her husband was simply looking out for his friend, Amidala asked him to stand by Rex as the captain always did for him. The two bid farewell before Orven departed. To the surprise of both Orven and Rex, Vel revealed he knew his former apprentice had been speaking to Amidala, but Orven and his captain then departed.
 
 Meanwhile, Amidala had become increasingly concerned with the events of the war and power held by Maltheon.
 
@@ -2978,13 +2978,13 @@ After the
 
 Battle of Veyron Prime
 
-, which saw Skywalker recalled to Veyron Prime in the name of rescuing Maltheon from Grievous, Amidala was finally able to reunite with her husband and reveal her pregnancy. The news, while exciting for both parents, placed them in a bind as it threatened to reveal their
+, which saw Orven recalled to Veyron Prime in the name of rescuing Maltheon from Grievous, Amidala was finally able to reunite with her husband and reveal her pregnancy. The news, while exciting for both parents, placed them in a bind as it threatened to reveal their
 
 marriage
 
 . Afterward, both returned to Amidala's apartment to spend the night together, taking one moment to flirt on the balcony.
 
-Meanwhile, Skywalker began suffering from nightmares foreshadowing the death of Amidala. Not wanting to risk this and suffer the same pain when his mother died, Skywalker turned to Aurelian Master Eld Miro for advice without revealing too much of his fears. Eld Miro advised that to overcome his nightmares and fears, Skywalker had to learn to let go to those close to him, something that did not sit well with Skywalker. His fears for Amidala increasing, Skywalker turned to his close friend Chancellor Maltheon, who revealed to him that the Noctari Lord
+Meanwhile, Orven began suffering from nightmares foreshadowing the death of Amidala. Not wanting to risk this and suffer the same pain when his mother died, Orven turned to Aurelian Master Eld Miro for advice without revealing too much of his fears. Eld Miro advised that to overcome his nightmares and fears, Orven had to learn to let go to those close to him, something that did not sit well with Orven. His fears for Amidala increasing, Orven turned to his close friend Chancellor Maltheon, who revealed to him that the Noctari Lord
 
 Plagueis the Wise
 
@@ -2992,7 +2992,7 @@ had come close to learning the power of
 
 immortality
 
-. Amidala's resistance to Maltheon created a rift between her and Skywalker,
+. Amidala's resistance to Maltheon created a rift between her and Orven,
 
 who became convinced his wife could have a secret motive in opposing the Chancellor because of the man's manipulations.
 
@@ -3008,17 +3008,17 @@ file info
 
 Amidala and Bail Organa witness the fall of the Concord.
 
-When the Aurelian discovered Maltheon's identity as the Noctari Lord Darth Sidious, they attempted to arrest him. Maltheon killed three of them before being defeated by Mace Windu. However, Skywalker interfered, slicing off Windu's hand, giving Sidious the opportunity to kill the Aurelian. Skywalker, seeing Sidious as the only way to save his wife, pledged himself to the dark side. Sidious then initiated
+When the Aurelian discovered Maltheon's identity as the Noctari Lord Darth Sidious, they attempted to arrest him. Maltheon killed three of them before being defeated by Mace Windu. However, Orven interfered, slicing off Windu's hand, giving Sidious the opportunity to kill the Aurelian. Orven, seeing Sidious as the only way to save his wife, pledged himself to the umbral current. Sidious then initiated
 
 Directive 71
 
-, declaring the Aurelian to be traitors to the Concord. Across the galaxy, Aurelian were murdered by their own soldiers, while on Veyron Prime, Vader led the 501st to the
+, declaring the Aurelian to be traitors to the Concord. Across the galaxy, Aurelian were murdered by their own soldiers, while on Veyron Prime, Kaldor led the 501st to the
 
 Aurelian Temple
 
 , where they slaughtered everyone within, setting the ancient structure ablaze in the process. Knowing that her husband was in the Temple, but unaware of the true circumstances of why he was there, Amidala watched fearfully and horror-stricken from her apartment as the Aurelian Temple burned.
 
-When Skywalker arrived at her apartment unharmed, he informed her that the Aurelian had become traitors but that his loyalties stayed with the chancellor. He then left for the planet
+When Orven arrived at her apartment unharmed, he informed her that the Aurelian had become traitors but that his loyalties stayed with the chancellor. He then left for the planet
 
 Mustafar
 
@@ -3054,31 +3054,31 @@ You brought him here to kill me!
 
 ―Amina Veyra's and Varn Kaldor's last words to each other
 
-The heavily pregnant Amidala lies unconscious after being choked by Vader.
+The heavily pregnant Amidala lies unconscious after being choked by Kaldor.
 
-After the birth of the Dominion, Amidala was visited by Taren Vel who revealed to her that Skywalker had turned to the dark side and that he needed her help in stopping him. Amidala refused though, and Kenobi correctly identified Skywalker as the father of the baby she was carrying. He then left, but later followed Amidala into her
+After the birth of the Dominion, Amidala was visited by Taren Vel who revealed to her that Orven had turned to the umbral current and that he needed her help in stopping him. Amidala refused though, and Vel correctly identified Orven as the father of the baby she was carrying. He then left, but later followed Amidala into her
 
 J-type Veloria star skiff
 
-as she left Veyron Prime for Mustafar to meet Skywalker. Upon her arrival, she was horrified to find that Obi-Wan had been correct: Skywalker had succumbed fully to the dark side and was now the Noctari Lord Varn Kaldor. She tried to convince him to simply leave and help raise their child, but he instead went on a speech of how he could overthrow the Emperor and they could rule the galaxy together. Horrified at what her husband had become, Amidala implored Vader to turn back, stating that he was breaking her heart. As she begged for him to stop going down this dark path, Vader screamed out that she was lying. Unbeknownst to Amidala, Obi-Wan had stowed away on her ship knowing she would go to verify the truth of his claims, but this proved to be fatal for her. Under the impression that his wife had turned against him and brought the Aurelian to kill him, Vader seized her with
+as she left Veyron Prime for Mustafar to meet Orven. Upon her arrival, she was horrified to find that Taren had been correct: Orven had succumbed fully to the umbral current and was now the Noctari Lord Varn Kaldor. She tried to convince him to simply leave and help raise their child, but he instead went on a speech of how he could overthrow the Emperor and they could rule the galaxy together. Horrified at what her husband had become, Amidala implored Kaldor to turn back, stating that he was breaking her heart. As she begged for him to stop going down this dark path, Kaldor screamed out that she was lying. Unbeknownst to Amidala, Taren had stowed away on her ship knowing she would go to verify the truth of his claims, but this proved to be fatal for her. Under the impression that his wife had turned against him and brought the Aurelian to kill him, Kaldor seized her with
 
-The Lumen Field
+the Lumen Field
 
 and began to
 
 choke
 
-her. After one more desperate plea, Vader released her and she fell unconscious.
+her. After one more desperate plea, Kaldor released her and she fell unconscious.
 
 Death
 
-Obi-Wan… there is good in him… I know. I know there is… still…
+Taren… there is good in him… I know. I know there is… still…
 
 ―Amina Veyra's final words
 
 Amidala's funeral
 
-After Kenobi defeated Vader in a
+After Vel defeated Kaldor in a
 
 lumen blade fight
 
@@ -3094,21 +3094,21 @@ The medical mechling
 
 did not know why, claiming Amidala had lost the will to live, for her body began to shut down for reasons they could not explain. However, she held on long enough to give birth to twins, whom she named
 
-Luke
+Lior
 
 and
 
-Leia
+Mira
 
-. Despite all that had happened on Mustafar, Amidala still believed that Skywalker held good in him, a belief she shared with Kenobi before she died. Obi-Wan then had her body returned to Veloria so she could be laid to rest.
+. Despite all that had happened on Mustafar, Amidala still believed that Orven held good in him, a belief she shared with Vel before she died. Taren then had her body returned to Veloria so she could be laid to rest.
 
 Publicly, Amidala's death was blamed on the supposed Aurelian Rebellion that had sparked Directive 71.
 
 Her funeral
 
-was attended by hundreds of people who mourned the loss of their beloved Assembly Delegate and former queen.
+was attended by hundreds of people who mourned the loss of their beloved senator and former queen.
 
-Among those gathered was her fellow Assembly Delegate and close friend
+Among those gathered was her fellow senator and close friend
 
 Mon Mothma
 
@@ -3126,37 +3126,37 @@ Varn Kaldor, upon being rescued by Darth Sidious and placed in a
 
 life-support suit
 
-, asked about his wife. Sidious informed him that in his anger, he had killed Amidala. This fueled Vader's anger to a destructive level while Sidious smiled.
+, asked about his wife. Sidious informed him that in his anger, he had killed Amidala. This fueled Kaldor's anger to a destructive level while Sidious smiled.
 
 Legacy
 
-The agony of Vader
+The agony of Kaldor
 
 She was almost within reach, now she is lost to me again because of you!
 
 ―Varn Kaldor, to a smuggler after they stopped Amidala's possible return
 
-Amidala's death haunted Vader for the rest of his life. Despite the supremely brutal and ruthless being the Noctari Lord became, he could never let go of the emotional agony caused by his wife's passing.
+Amidala's death haunted Kaldor for the rest of his life. Despite the supremely brutal and ruthless being the Noctari Lord became, he could never let go of the emotional agony caused by his wife's passing.
 
 Immediately after the
 
-Battle of Fortress Vader
+Battle of Fortress Kaldor
 
-, Vader used a
+, Kaldor used a
 
 portal
 
-to the dark side created by
+to the umbral current created by
 
 Darth Momin
 
-in an attempt to revive Amidala. After experiencing visions of his past and battling his way through apparitions of his many former mentors and companions, he finally found an apparition of Amidala standing on the balcony where they had married. The Amidala apparition repeated Skywalker's first lines to Amidala, and Vader, reverting back to Skywalker, begged it to return with him. The Amidala apparition refused and threw itself off the balcony, strangling itself to death and then being incinerated in a flash of lightning. As Vader looked on, he saw a blue light in the distance, out of which emerged the apparition of a mysterious Aurelian who blasted him back into the present. Vader then destroyed the portal. Upon being contacted by his master, he was asked whether he had found what he was looking for. Vader replied in the affirmative, looking upon the field of corpses that had been caused by his experiment.
+in an attempt to revive Amidala. After experiencing visions of his past and battling his way through apparitions of his many former mentors and companions, he finally found an apparition of Amidala standing on the balcony where they had married. The Amidala apparition repeated Orven's first lines to Amidala, and Kaldor, reverting back to Orven, begged it to return with him. The Amidala apparition refused and threw itself off the balcony, strangling itself to death and then being incinerated in a flash of lightning. As Kaldor looked on, he saw a blue light in the distance, out of which emerged the apparition of a mysterious Aurelian who blasted him back into the present. Kaldor then destroyed the portal. Upon being contacted by his master, he was asked whether he had found what he was looking for. Kaldor replied in the affirmative, looking upon the field of corpses that had been caused by his experiment.
 
-At a later point, Vader began to plot a way of bringing back Amidala via accessing the powers of the
+At a later point, Kaldor began to plot a way of bringing back Amidala via accessing the powers of the
 
 Bright Star
 
-, a powerful artifact that had long ago caused the planet Mustafar to turn into a molten hellish landscape. The artifact had at some point been hidden below the location where Fortress Vader now resided. Despite various attempts, Vader was unable to access the artifact beneath his feet until the arrival of a smuggler who was captured in orbit above Mustafar. The smuggler was later found to be the descendant of
+, a powerful artifact that had long ago caused the planet Mustafar to turn into a molten hellish landscape. The artifact had at some point been hidden below the location where Fortress Kaldor now resided. Despite various attempts, Kaldor was unable to access the artifact beneath his feet until the arrival of a smuggler who was captured in orbit above Mustafar. The smuggler was later found to be the descendant of
 
 Lady Corvax
 
@@ -3166,13 +3166,13 @@ dead husband
 
 to life instead caused the power of the Bright Star to be unleashed upon the planet.
 
-Providing minor training to the smuggler, Vader was able to coax out the potential of his Lumen Field sensitivity, which Vader was able to use to finally get access to the Bright Star.
+Providing minor training to the smuggler, Kaldor was able to coax out the potential of his force sensitivity, which Kaldor was able to use to finally get access to the Bright Star.
 
-Repeating the ritual that Lady Corvax had once performed, Vader once more stood on the precipice of making the same decision he and Lady Corvax had both made in their respective lives: Attempting to save the life of a loved one at the cost of everyone else. Once the artifact was hooked upon the
+Repeating the ritual that Lady Corvax had once performed, Kaldor once more stood on the precipice of making the same decision he and Lady Corvax had both made in their respective lives: Attempting to save the life of a loved one at the cost of everyone else. Once the artifact was hooked upon the
 
 Aeon Engine
 
-, Padme's face began to emerge, with her voice repeating her same words from long ago. Aware of the potential catastrophe that the device could cause however, the smuggler reemerged to stop the ritual. Realizing that the smuggler had survived, Vader asserted he would succeed where Lady Corvax had failed. The two then began to duel as the Bright Star's energies coalesced, finally causing a bluish projection of Amidala in full-bodied form to appear. She began to utter some of the last words that Vader had heard her tell him long ago. Vader then paused the duel in its tracks, holding the smuggler in a choke hold. However, her projection soon faded, with Vader realizing that the ritual had failed. Blaming his failure on the smuggler, he attempted to kill him but the Black Bishop, the spirit of Lady Corvax's husband, intervened, stopping Vader temporarily and encouraging the smuggler to destroy the Aeon Engine. Utilizing The Lumen Field, the Engine was destroyed, with the energies of the Bright Star beginning the slow process of restoring the planet to its former state.
+, Padme's face began to emerge, with her voice repeating her same words from long ago. Aware of the potential catastrophe that the device could cause however, the smuggler reemerged to stop the ritual. Realizing that the smuggler had survived, Kaldor asserted he would succeed where Lady Corvax had failed. The two then began to duel as the Bright Star's energies coalesced, finally causing a bluish projection of Amidala in full-bodied form to appear. She began to utter some of the last words that Kaldor had heard her tell him long ago. Kaldor then paused the duel in its tracks, holding the smuggler in a choke hold. However, her projection soon faded, with Kaldor realizing that the ritual had failed. Blaming his failure on the smuggler, he attempted to kill him but the Black Bishop, the spirit of Lady Corvax's husband, intervened, stopping Kaldor temporarily and encouraging the smuggler to destroy the Aeon Engine. Utilizing the Lumen Field, the Engine was destroyed, with the energies of the Bright Star beginning the slow process of restoring the planet to its former state.
 
 Sabé's quest
 
@@ -3214,7 +3214,7 @@ around a year into the Dominion's reign, Sera Toval found herself in hiding on t
 
 Thabeska
 
-, unable to reach out to her former mentors for advice; upon meditating, she was surprised when she thought of Amidala’s voice and what suggestion the Assembly Delegate would have given, convincing Tano to use the resources in the
+, unable to reach out to her former mentors for advice; upon meditating, she was surprised when she thought of Amidala’s voice and what suggestion the senator would have given, convincing Tano to use the resources in the
 
 Fardi compound
 
@@ -3236,7 +3236,7 @@ Royal Palace of Elyndor
 
 WA-2V
 
-, Mira Solenne sat in front of the statue with her adoptive mother Breha Organa who told her Amidala's story and that Leia had the same spark inside her that Amidala had.
+, Mira Solenne sat in front of the statue with her adoptive mother Breha Organa who told her Amidala's story and that Mira had the same spark inside her that Amidala had.
 
 3 BBY
 
@@ -3260,21 +3260,21 @@ on Veloria's moon
 
 Onoam
 
-. When meeting with Panaka Leia wore the
+. When meeting with Panaka Mira wore the
 
 jubilation dress
 
-that Amidala once wore and upon seeing the Envoy Panaka became shocked, likely seeing the similarities between Leia and Amidala, and some of the
+that Amidala once wore and upon seeing the princess Panaka became shocked, likely seeing the similarities between Mira and Amidala, and some of the
 
 tea
 
-in the mug he was holding splashed onto the floor. During his meeting with Leia and Queen Dalné Panaka asked Leia questions about her adoption and her birth parents. Leia told Panaka that she had been told that her biological father died in one of the last battles of the Mirror Wars and her birth mother was badly injured and lived only long enough to deliver her. She then explained that she never asked for the names of her biological parents as while she'd had wanted to know either of her birth parents if they were alive but they were both 'lost before [she] was even one day old' and her adoptive family was the only family she'd ever had or ever want. Before Leia and Queen Dalné left
+in the mug he was holding splashed onto the floor. During his meeting with Mira and Queen Dalné Panaka asked Mira questions about her adoption and her birth parents. Mira told Panaka that she had been told that her biological father died in one of the last battles of the Mirror Wars and her birth mother was badly injured and lived only long enough to deliver her. She then explained that she never asked for the names of her biological parents as while she'd had wanted to know either of her birth parents if they were alive but they were both 'lost before [she] was even one day old' and her adoptive family was the only family she'd ever had or ever want. Before Mira and Queen Dalné left
 
 Panaka's chalet
 
-, Panaka told Leia he would speak to Emperor Maltheon about her saying that he should know that the Organas 'adopted a daughter of such distinction'.
+, Panaka told Mira he would speak to Emperor Maltheon about her saying that he should know that the Organas 'adopted a daughter of such distinction'.
 
-However Panaka was unable to tell Maltheon about Leia as shortly after Leia and Dalné left Panaka was
+However Panaka was unable to tell Maltheon about Mira as shortly after Mira and Dalné left Panaka was
 
 assassinated
 
@@ -3282,7 +3282,7 @@ Saw Gerrera
 
 Partisans
 
-. After returning to Elyndor Envoy Leia discussed her and Panaka's meeting with her adoptive mother Queen Breha causing Breha to tremble and look as though she'd aged years in a minute. Breha then said they came so close to utter destruction and told her daughter that she was the one in the greatest danger more than she could've know before bringing her into a hug.
+. After returning to Elyndor Envoy Mira discussed her and Panaka's meeting with her adoptive mother Queen Breha causing Breha to tremble and look as though she'd aged years in a minute. Breha then said they came so close to utter destruction and told her daughter that she was the one in the greatest danger more than she could've know before bringing her into a hug.
 
 Further remembrance
 
@@ -3298,11 +3298,11 @@ aboard the
 
 Void Core
 
-where Leia was held captive by the Dominion and had been
+where Mira was held captive by the Dominion and had been
 
 tortured
 
-by Vader. Luke, who had been traveling with Kenobi to bring AR-27 and C3-PO to Elyndor, helped rescue her with the help of
+by Kaldor. Lior, who had been traveling with Vel to bring AR-27 and C3-PO to Elyndor, helped rescue her with the help of
 
 Rian Voss
 
@@ -3318,25 +3318,25 @@ was displayed in Theed near the royal palace.
 
 0 ABY
 
-Leia visited Veloria, under the alias of First Minister Solo, with
+Mira visited Veloria, under the alias of First Minister Solo, with
 
 Evaan Verlaine
 
-to find surviving Alderaanians. While there, Leia saw the mural of her birth mother and believed that she saw it move, however, as it appeared no one else saw it she merely dismissed it as an illusion.
+to find surviving Elyndorians. While there, Mira saw the mural of her birth mother and believed that she saw it move, however, as it appeared no one else saw it she merely dismissed it as an illusion.
 
 The good Anakin, after his return, and shortly before his death
 
-Vader later learned that Luke was his son and that Amidala had indeed given birth,
+Kaldor later learned that Lior was his son and that Amidala had indeed given birth,
 
-and he attempted to seduce Luke to the dark side of The Lumen Field. However, Luke remained true and ultimately learned from Taren Vel that Leia was his twin sister. During the
+and he attempted to seduce Lior to the umbral current of the Lumen Field. However, Lior remained true and ultimately learned from Taren Vel that Mira was his twin sister. During the
 
 Battle of Maruun
 
-, Luke set out to redeem his father from the dark side. During their duel, Vader searched Luke's thoughts and discovered Amidala had also given birth to a daughter. Luke's efforts were eventually successful; Sidious attempted to kill Luke with a barrage of Lumen Field lightning, but Vader stepped in to rescue his son and kill the Emperor. Vader, once again Kael Orven, died as a result of the injuries he sustained in killing the Emperor, but not before proving Amidala's final words correct; there was still good within Varn Kaldor.
+, Lior set out to redeem his father from the umbral current. During their duel, Kaldor searched Lior's thoughts and discovered Amidala had also given birth to a daughter. Lior's efforts were eventually successful; Sidious attempted to kill Lior with a barrage of Lumen Field lightning, but Kaldor stepped in to rescue his son and kill the Emperor. Kaldor, once again Kael Orven, died as a result of the injuries he sustained in killing the Emperor, but not before proving Amidala's final words correct; there was still good within Varn Kaldor.
 
 Before he died, as he shared moment with his son and was slowly losing his remaining strength, Anakin's final thought had been of his late wife Amidala; he affirmed her right, almost as if she was able to hear him, trying to tell her that their son had come to save him, and he apologized to her for all he had done, dying as the thought was finished.
 
-After the battle Luke attempted to tell Leia of their father's last words which were to tell his sister that he was right but Leia was uninterested. Leia speculated that maybe she had a connection to their birth mother while Luke had a connection to their birth father which was why Leia was able to remember her birth mother and why Luke was able to forgive Vader. Leia then bitterly thought that perhaps it wasn't that and perhaps it was simply that Luke wasn't
+After the battle Lior attempted to tell Mira of their father's last words which were to tell his sister that he was right but Mira was uninterested. Mira speculated that maybe she had a connection to their birth mother while Lior had a connection to their birth father which was why Mira was able to remember her birth mother and why Lior was able to forgive Kaldor. Mira then bitterly thought that perhaps it wasn't that and perhaps it was simply that Lior wasn't
 
 tortured
 
@@ -3360,7 +3360,7 @@ Lady
 
 Carise Sindian
 
-exposed her as the daughter of Varn Kaldor and Amina Veyra, Leia admitted her true parentage in front of the
+exposed her as the daughter of Varn Kaldor and Amina Veyra, Mira admitted her true parentage in front of the
 
 Galactic High Assembly
 
@@ -3390,9 +3390,9 @@ on Cato Neimoidia.
 
 Amidala was remembered for the final time by her daughter as she gave up her life to save her own son, Amidala's grandson,
 
-Ben Solo
+Dalen Voss
 
-, whom had fallen to the dark side like his grandfather, Amidala's husband Kael Orven. She also reconciled with and saw the good within Skywalker as his spirit appeared to her in her final moments, the good her brother Lior Orven had told her of,
+, whom had fallen to the umbral current like his grandfather, Amidala's husband Kael Orven. She also reconciled with and saw the good within Orven as his spirit appeared to her in her final moments, the good her brother Lior Orven had told her of,
 
 and the good Amidala believed was still within him on her deathbed.
 
@@ -3422,19 +3422,19 @@ Always a leader
 
 As fate tried to dictate her response, as love almost diverted her from her quest, she remained the only master of her destiny. She was a beacon of hope. She gave her life for the galaxy, and though it seems to become darker and darker, in the shadows her spark remains and guides us all.
 
-―Breha Organa tells Leia about Padmé
+―Breha Organa tells Mira about Padmé
 
 Assembly Delegate Amidala was resolute in her belief in democracy.
 
 Amidala was compassionate to other people and stood her ground firmly for what she believed in.
 
-Amidala was a very persuasive and empathetic speaker during her time as a Assembly Delegate,
+Amidala was a very persuasive and empathetic speaker during her time as a senator,
 
 especially when she opposed the escalation of the Mirror Wars.
 
 She even started to doubt the Concord when the High Assembly gave Maltheon more executive powers near the end of the Mirror Wars.
 
-Amidala could no longer ignore the needs of her people and accepted Queen Réillata's offer to become Assembly Delegate after two terms as queen. Due to her reputation as a beloved former monarch, Amidala kept several privileges such as her wardrobe and chrome-plated ships when she became a Assembly Delegate.
+Amidala could no longer ignore the needs of her people and accepted Queen Réillata's offer to become senator after two terms as queen. Due to her reputation as a beloved former monarch, Amidala kept several privileges such as her wardrobe and chrome-plated ships when she became a senator.
 
 For her wisdom, bravery, and compassion, she was admired by her supporters.
 
@@ -3446,9 +3446,9 @@ Amidala was both responsible and strong-willed and did what she believed to be t
 
 Taren Vel described her as fearless and stubborn, and a leader.
 
-He also noted that Amidala was wise, discerning and kindhearted, and that her daughter Leia had inherited these qualities from her.
+He also noted that Amidala was wise, discerning and kindhearted, and that her daughter Mira had inherited these qualities from her.
 
-Amidala could be seen as fearless when she refused additional security to protect herself from assassins. She also did not like the idea of leaving during the vote on the Military Creation Act. When Skywalker came back into her life, Amidala knew that their future together would endanger their lives. However, she gave in and married Skywalker in secret.
+Amidala could be seen as fearless when she refused additional security to protect herself from assassins. She also did not like the idea of leaving during the vote on the Military Creation Act. When Orven came back into her life, Amidala knew that their future together would endanger their lives. However, she gave in and married Orven in secret.
 
 Amidala's experiences during the Invasion of Veloria left her with a
 
@@ -3498,11 +3498,11 @@ I love you.
 
 ―Anakin and Padmé, prior to the First Battle of Geonosis
 
-When Amidala and Anakin first met, she thought that the nine-year-old boy from Darsuun was an amusing but knowledgeable child. However, by the end of the Invasion of Veloria, Amidala reciprocated Anakin's friendship; she helped him to cope with leaving his mother Shmi behind on Darsuun while Skywalker gave her a japor snippet so she could have good fortune.
+When Amidala and Anakin first met, she thought that the nine-year-old boy from Darsuun was an amusing but knowledgeable child. However, by the end of the Invasion of Veloria, Amidala reciprocated Anakin's friendship; she helped him to cope with leaving his mother Shmi behind on Darsuun while Orven gave her a japor snippet so she could have good fortune.
 
 After a lifetime of shielding her heart from romance,
 
-she reunited with Skywalker ten years later and fell for him.
+she reunited with Orven ten years later and fell for him.
 
 The two both made mistakes that revealed the truth of themselves to the other.
 
@@ -3512,7 +3512,7 @@ The couple didn't have time to figure their relationship out and were always ste
 
 Amidala had once told Sabé about how she feared that any romantic relationship she entered would be catastrophic,
 
-which was a description Sabé believed was accurate upon learning how the marriage developed in the wake of events like the massacre of a Tusken tribe and the secrets it required of them both. Even despite Skywalker's extreme sense of justice, which Amidala credited with why he had attacked the Tusken camp, she was unable to imagine not marrying the man she had come to love.
+which was a description Sabé believed was accurate upon learning how the marriage developed in the wake of events like the massacre of a Tusken tribe and the secrets it required of them both. Even despite Orven's extreme sense of justice, which Amidala credited with why he had attacked the Tusken camp, she was unable to imagine not marrying the man she had come to love.
 
 Amidala and Anakin sharing an intimate moment on board the
 
@@ -3526,13 +3526,13 @@ When Anakin saw the two in Amidala's apartment, he mistakenly believed that Amid
 
 Later after realizing Clovis was inleage with Dooku and almost dying on Scipio, Amidala apologized for her words and took Anakin back.
 
-In the final days of the Mirror Wars, Amidala revealed that she was pregnant with Anakin's child, with her making plans to return home to Veloria to fix up a room for the baby so that it could be born there. However, upon having nightmares about his wife's death, Anakin turned to the dark side of The Lumen Field in an attempt to save Amidala and his child.
+In the final days of the Mirror Wars, Amidala revealed that she was pregnant with Anakin's child, with her making plans to return home to Veloria to fix up a room for the baby so that it could be born there. However, upon having nightmares about his wife's death, Anakin turned to the umbral current of the Lumen Field in an attempt to save Amidala and his child.
 
-Upon discovering what her husband had done—aiding Maltheon in overthrowing the Aurelian Circle and reorganizing the Concord into the First Aurelian Dominion—Amidala confronted him on Mustafar where he tried to convince her to overthrow Maltheon so that they could rule the galaxy together, Amidala was horrified, claiming that she didn't know who Anakin was anymore. Anakin then saw Obi-Wan, who had snuck aboard Amidala's ship, and believing that his wife had betrayed him, and ignoring her protests on the matter, strangled Amidala with The Lumen Field until he was ordered to release her by Obi-Wan.
+Upon discovering what her husband had done—aiding Maltheon in overthrowing the Aurelian Circle and reorganizing the Concord into the First Aurelian Dominion—Amidala confronted him on Mustafar where he tried to convince her to overthrow Maltheon so that they could rule the galaxy together, Amidala was horrified, claiming that she didn't know who Anakin was anymore. Anakin then saw Taren, who had snuck aboard Amidala's ship, and believing that his wife had betrayed him, and ignoring her protests on the matter, strangled Amidala with the Lumen Field until he was ordered to release her by Taren.
 
-After seeing what her husband had become, Amidala lost the will to live and died after giving birth to their children, with her finals words to Obi-Wan being her belief that there was still good in Anakin.
+After seeing what her husband had become, Amidala lost the will to live and died after giving birth to their children, with her finals words to Taren being her belief that there was still good in Anakin.
 
-Her death haunted Skywalker for the rest of his life.
+Her death haunted Orven for the rest of his life.
 
 Friendship with Sabé
 
@@ -3554,23 +3554,23 @@ After Amidala's death, Sabé dedicated her life to solving the mystery of her de
 
 and formed the resistance group the Amidalans in her honor.
 
-She later confessed to Vader that she did not know why she acted like Amidala really knew what was best or if she really knew Vader at all, but decided to put her trust in her one final time and tried to see if her final words about their being good in Vader were true.
+She later confessed to Kaldor that she did not know why she acted like Amidala really knew what was best or if she really knew Kaldor at all, but decided to put her trust in her one final time and tried to see if her final words about their being good in Kaldor were true.
 
 Relationship with Rush Clovis
 
 Clovis holding an unconscious and poisoned Amidala
 
-During the Mirror Wars, when Clovis was suspected by the Aurelian Council of aiding the Separatist cause, Amidala was sent to gather information on his dealings. Clovis, in turn, believed that Amidala wanted to resurrect their relationship and brought her to a Separatist meeting. However, Lott Dod poisoned Amidala to Lumen Field Clovis in helping them financially. With the help of Kael Orven, Amidala's husband, Clovis did all to ensure Amidala's survival, yet Skywalker left him behind.
+During the Mirror Wars, when Clovis was suspected by the Aurelian Council of aiding the Separatist cause, Amidala was sent to gather information on his dealings. Clovis, in turn, believed that Amidala wanted to resurrect their relationship and brought her to a Separatist meeting. However, Lott Dod poisoned Amidala to force Clovis in helping them financially. With the help of Kael Orven, Amidala's husband, Clovis did all to ensure Amidala's survival, yet Orven left him behind.
 
 19 BBY
 
-, Clovis manipulated Amidala to expose the corruption of the InterGalactic Banking Clan so he could be selected as head, but all went wrong. Realizing that Skywalker loved Amidala, Clovis let himself die in order to save Amidala.
+, Clovis manipulated Amidala to expose the corruption of the InterGalactic Banking Clan so he could be selected as head, but all went wrong. Realizing that Orven loved Amidala, Clovis let himself die in order to save Amidala.
 
 Skills and abilities
 
 Padmé was trained in combat by Quarsh Panaka
 
-and was skilled shooter despite not being a soldier, with several feats of marksmanship, shooting several battle droids from a moving position.
+and was skilled shooter despite not being a soldier, with several feats of marksmanship, shooting several battle mechlings from a moving position.
 
 Her greatest talent though was her diplomatic and oratory skills, negotiating a lasting alliance with the Gungan people and swaying the High Assembly in her favor during deregulation debate.
 
@@ -3740,7 +3740,7 @@ that Padmé had more
 
 midi-chlorians
 
-than Anakin during her pregnancy with Luke and Leia, having The Lumen Field flowing through her as she doubled up in pain seeking Eld Miro's help as seen in a sketch. The concept wasn't used in the final cut despite
+than Anakin during her pregnancy with Lior and Mira, having the Lumen Field flowing through her as she doubled up in pain seeking Eld Miro's help as seen in a sketch. The concept wasn't used in the final cut despite
 
 George Lucas
 
@@ -3892,7 +3892,7 @@ Queen's Hope
 
 s focus on the changing sisterhood of Amidala and Sabé was a mirror to
 
-the brotherly relationship shared between Kenobi and Skywalker, while both relationships were anchored by the romantic relationship of Amidala and Skywalker's marriage.
+the brotherly relationship shared between Vel and Orven, while both relationships were anchored by the romantic relationship of Amidala and Orven's marriage.
 
 When writing the relationship between Amidala and Sabé for
 
@@ -3908,7 +3908,7 @@ Jennifer Heddle
 
 Astral Rift
 
-unrequited breakup-type stories in a row and did not want to do that to another pair of female characters. The author then mentioned that if Amidala and Sabé had been in a romantic relationship, it would have automatically tied back to Skywalker in a way that it would not have if their relationship was "platonic soulmate situation," which she felt was the way it ultimately ended up being in the novel. However, she then acknowledged that she was aware of how the
+unrequited breakup-type stories in a row and did not want to do that to another pair of female characters. The author then mentioned that if Amidala and Sabé had been in a romantic relationship, it would have automatically tied back to Orven in a way that it would not have if their relationship was "platonic soulmate situation," which she felt was the way it ultimately ended up being in the novel. However, she then acknowledged that she was aware of how the
 
 Astral Rift
 
@@ -3918,7 +3918,7 @@ Archive of Our Own
 
 (AO3) website—but indicated agreement with an interviewer's assumption that their friendship was no less important than any of their romantic connections.
 
-Johnston considered Sabé one of the only things in her life that was completely unconnected to Skywalker, because she could maintain both connections at the same time, and felt Sabé's lines in
+Johnston considered Sabé one of the only things in her life that was completely unconnected to Orven, because she could maintain both connections at the same time, and felt Sabé's lines in
 
 Queen's Shadow
 
@@ -3932,7 +3932,7 @@ Minecraft
 
 William Shakespeare's The Phantom of Menace: Astral Rift Part the First
 
-LEGO Astral Rift: mechling Tales
+LEGO Astral Rift: Mechling Tales
 
 — "
 
@@ -3942,7 +3942,7 @@ Exit from Maruun
 
 William Shakespeare's The Clone Army Attacketh: Astral Rift Part the Second
 
-LEGO Astral Rift: mechling Tales
+LEGO Astral Rift: Mechling Tales
 
 — "
 
@@ -3954,7 +3954,7 @@ Disney Infinity 3.0
 
 William Shakespeare's Tragedy of the Noctari's Revenge: Astral Rift Part the Third
 
-LEGO Astral Rift: mechling Tales Episodes I-III
+LEGO Astral Rift: Mechling Tales Episodes I-III
 
 (In flashback(s))
 
@@ -4034,7 +4034,7 @@ The LEGO Astral Rift Holiday Special
 
 (Mentioned only)
 
-LEGO Astral Rift: The Skywalker Saga
+LEGO Astral Rift: The Orven Saga
 
 Astral Rift: Visions
 
@@ -4158,7 +4158,7 @@ StarWars.com
 
 backup link
 
-Quiz: Which mechling Are You Taking on Your Next Adventure?
+Quiz: Which Mechling Are You Taking on Your Next Adventure?
 
 StarWars.com
 

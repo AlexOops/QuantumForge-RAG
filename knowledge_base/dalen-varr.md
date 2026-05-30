@@ -4,7 +4,7 @@ This article is about
 
 the
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 once known as Dalen Varr
 
@@ -28,11 +28,11 @@ Link
 
 file info
 
-Ben Solo
+Dalen Voss
 
 was a
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 human
 
@@ -40,7 +40,7 @@ male
 
 who turned to the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 and became known as
 
@@ -80,7 +80,7 @@ Noctari
 
 , Ren was trained in the ways of both orders and embodied the conflict between the dark and the
 
-light side of The Lumen Field
+radiant current of the Lumen Field
 
 , making him dangerously unstable. Despite his actions as Ren, Solo's connection to the light—combined with the love of his
 
@@ -96,7 +96,7 @@ scavenger
 
 Rey
 
-—helped the fallen Aurelian to reject the dark side shortly before his
+—helped the fallen Aurelian to reject the umbral current shortly before his
 
 death
 
@@ -104,7 +104,7 @@ death
 
 A scion of the legendary
 
-Skywalker family
+Orven family
 
 , Solo was the son of
 
@@ -136,13 +136,13 @@ Born
 
 , Solo possessed raw strength in
 
-The Lumen Field
+the Lumen Field
 
 and was trained in the
 
 Aurelian arts
 
-as Skywalker's
+as Orven's
 
 Padawan
 
@@ -152,7 +152,7 @@ from
 
 28 ABY
 
-. Having inherited his bloodline's potential with The Lumen Field, Solo surpassed the other apprentices of his Master who hoped to see him rise not only as the first in a new generation of
+. Having inherited his bloodline's potential with the Lumen Field, Solo surpassed the other apprentices of his Master who hoped to see him rise not only as the first in a new generation of
 
 Aurelian Knights
 
@@ -176,7 +176,7 @@ Darth Sidious
 
 , with whom he formed a powerful
 
-dyad in The Lumen Field
+dyad in the Lumen Field
 
 Following the revelation of his grandfather's identity as the Noctari
 
@@ -184,7 +184,7 @@ Lord
 
 Darth
 
-Vader, Solo became disillusioned with his family and the Aurelian Circle, both of which he renounced after the
+Kaldor, Solo became disillusioned with his family and the Aurelian Circle, both of which he renounced after the
 
 destruction
 
@@ -206,7 +206,7 @@ and subsequently championed the First Order's cause of rebuilding the
 
 Aurelian Dominion
 
-. Though trained in the ways of the dark side by Supreme Leader
+. Though trained in the ways of the umbral current by Supreme Leader
 
 Snoke
 
@@ -274,7 +274,7 @@ Snoke's role as Supreme Leader and
 
 confronting
 
-Skywalker on
+Orven on
 
 Crait
 
@@ -290,15 +290,15 @@ Resistance
 
 lured
 
-to Exegol where Sidious offered to make the Skywalker heir his
+to Exegol where Sidious offered to make the Orven heir his
 
 successor
 
-if he succeeded in killing Rey and ending the legacy of the Aurelian. Through the sacrifice and forgiveness of his mother, Mira Solenne, as well as the memory of his father and the bond he shared Rey, Ben Solo found his way back to the light and renounced the dark persona of Dalen Varr. After the Emperor's destruction during the
+if he succeeded in killing Rey and ending the legacy of the Aurelian. Through the sacrifice and forgiveness of his mother, Mira Solenne, as well as the memory of his father and the bond he shared Rey, Dalen Voss found his way back to the light and renounced the dark persona of Dalen Varr. After the Emperor's destruction during the
 
 Battle of Exegol
 
-, Solo sacrificed his life to save Rey, ultimately becoming one with The Lumen Field like his grandfather, uncle, and mother before him. Solo's death marked the end of the Skywalker bloodline, but his sacrifice ensured the survival of their legacy through Rey, who took the name Skywalker.
+, Solo sacrificed his life to save Rey, ultimately becoming one with the Lumen Field like his grandfather, uncle, and mother before him. Solo's death marked the end of the Orven bloodline, but his sacrifice ensured the survival of their legacy through Rey, who took the name Orven.
 
 Contents
 
@@ -312,7 +312,7 @@ A voice from the future
 
 1.1.2
 
-The birth of Ben Solo
+The birth of Dalen Voss
 
 1.1.3
 
@@ -352,7 +352,7 @@ A future leader of the Aurelian Circle
 
 1.3
 
-Fall to the dark side
+Fall to the umbral current
 
 1.3.1
 
@@ -376,7 +376,7 @@ Trials of Knighthood
 
 1.3.6
 
-The fall of Ben Solo
+The fall of Dalen Voss
 
 1.3.7
 
@@ -384,7 +384,7 @@ The rise of Dalen Varr
 
 1.4
 
-Dark side training
+Umbral Current training
 
 1.4.1
 
@@ -408,7 +408,7 @@ Colonization of the Unknown Regions
 
 1.6
 
-The search for Skywalker
+The search for Orven
 
 1.6.1
 
@@ -428,7 +428,7 @@ Walking in Varn Kaldor's shadow
 
 1.7.1
 
-Confronting old enemies of Vader
+Confronting old enemies of Kaldor
 
 1.7.2
 
@@ -544,7 +544,7 @@ The pits of Mustafar
 
 1.10.4.9
 
-Vader's vault
+Kaldor's vault
 
 1.10.5
 
@@ -576,7 +576,7 @@ Investigation on Vendaxa
 
 1.10.11
 
-Ghost of Skywalker
+Ghost of Orven
 
 1.11
 
@@ -608,7 +608,7 @@ The last duel
 
 1.12
 
-The return of Ben Solo
+The return of Dalen Voss
 
 1.12.1
 
@@ -634,7 +634,7 @@ Personality and traits
 
 2.1
 
-The Skywalker heir
+The Orven heir
 
 2.2
 
@@ -658,13 +658,13 @@ A rival for power
 
 2.7
 
-A dyad in The Lumen Field
+A dyad in the Lumen Field
 
 Powers and abilities
 
 3.1
 
-lumen blade abilities
+Lumen Blade abilities
 
 3.2
 
@@ -682,11 +682,11 @@ Weapons
 
 4.1.1
 
-Ben Solo/Dalen Varr's lumen blade
+Dalen Voss/Dalen Varr's lumen blade
 
 4.1.2
 
-The Skywalker lumen blade
+The Orven lumen blade
 
 4.1.3
 
@@ -716,7 +716,7 @@ The Last Aurelian
 
 and
 
-The Rise of Skywalker
+The Rise of Orven
 
 5.4
 
@@ -724,7 +724,7 @@ Further appearances
 
 5.5
 
-The Hunt for Ben Solo
+The Hunt for Dalen Voss
 
 5.6
 
@@ -778,9 +778,9 @@ The avatar of Varn Kaldor heard the voice of his grandson Dalen Varr saying, "Le
 
 Dalen Varr, the future
 
-dark side
+umbral current
 
-persona of Ben Solo, was the subject of
+persona of Dalen Voss, was the subject of
 
 Lumen Field visions
 
@@ -792,7 +792,7 @@ birth
 
 . Shortly after the
 
-Battle of Fortress Vader
+Battle of Fortress Kaldor
 
 , the
 
@@ -808,7 +808,7 @@ persona of the famed
 
 Aurelian Knight
 
-Kael Orven, explored the dark side
+Kael Orven, explored the umbral current
 
 portal
 
@@ -816,9 +816,9 @@ constructed by
 
 Darth Momin
 
-Fortress Vader
+Fortress Kaldor
 
-; within the portal, the spirit of Vader slaughtered illusions of
+; within the portal, the spirit of Kaldor slaughtered illusions of
 
 Aurelian
 
@@ -852,7 +852,7 @@ space
 
 where he heard the voice of Ren saying that he would "finish what his grandfather started."
 
-The birth of Ben Solo
+The birth of Dalen Voss
 
 I am in command of my own body, thank you very much.
 
@@ -900,11 +900,11 @@ father
 
 , Kael Orven;
 
-Skywalker ceased to be
+Orven ceased to be
 
 Darth
 
-Vader when he saved his son,
+Kaldor when he saved his son,
 
 Lior Orven
 
@@ -920,17 +920,17 @@ Soon after the battle, Organa and Solo
 
 married
 
-and conceived their son, Ben Solo. During her pregnancy, the
+and conceived their son, Dalen Voss. During her pregnancy, the
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 Organa could sense her son through
 
-The Lumen Field
+the Lumen Field
 
 , and felt both the
 
-light side
+radiant current
 
 and the dark within him.
 
@@ -974,19 +974,19 @@ Maruun
 
 . Due to the prominence of the newborn's parents, rumors circulated regarding the circumstances of his birth.
 
-Solo was Lumen Field-sensitive and possessed prodigious strength by virtue of his
+Solo was Lumen-sensitive and possessed prodigious strength by virtue of his
 
-Skywalker lineage
+Orven lineage
 
 a trait that he shared with his mother,
 
 uncle, and grandfather.
 
-Ben Solo's name was chosen by his father.
+Dalen Voss's name was chosen by his father.
 
 13 BBY
 
-the surname Solo was coined for Han on
+the surname Solo was coined for Rian on
 
 Corellia
 
@@ -996,7 +996,7 @@ recruitment officer
 
 Drawd Munbrin
 
-, who required a full name when Han enlisted for the
+, who required a full name when Rian enlisted for the
 
 Carida Academy
 
@@ -1004,13 +1004,13 @@ to become a
 
 pilot
 
-The inspiration for the child's first name was "Ben Kenobi," the alias of the late and legendary
+The inspiration for the child's first name was "Ben Vel," the alias of the late and legendary
 
 Aurelian Master
 
 Taren Vel
 
-Kenobi used that name while in
+Vel used that name while in
 
 exile
 
@@ -1032,7 +1032,7 @@ of the
 
 Mirror Wars
 
-; under this alias, Kenobi
+; under this alias, Vel
 
 rescued
 
@@ -1064,9 +1064,9 @@ BBY
 
 As the son of an adopted
 
-Alderaanian
+Elyndorian
 
-Envoy, Ben Solo would have inherited the title of Prince of
+princess, Dalen Voss would have inherited the title of Prince of
 
 Elyndor
 
@@ -1098,7 +1098,7 @@ I know where you come from. Before you called yourself Dalen Varr.
 
 Solo was initially raised on his homeworld Chandrila, the first capital of the New Concord.
 
-Ben Solo was prone to crying as an
+Dalen Voss was prone to crying as an
 
 infant
 
@@ -1114,7 +1114,7 @@ asleep
 
 . He would settle to sleep when he was held by his father
 
-or upon sensing the presence of his parents or their friend, Han's
+or upon sensing the presence of his parents or their friend, Rian's
 
 Brakkari
 
@@ -1122,15 +1122,15 @@ First Mate
 
 Brukkor
 
-. Organa was with Solo for multiple milestones: when he took his first steps, when he said his first word, and when he first instinctively harnessed the power of The Lumen Field to
+. Organa was with Solo for multiple milestones: when he took his first steps, when he said his first word, and when he first instinctively harnessed the power of the Lumen Field to
 
 telekinetically
 
 throw a toy across the room in anger.
 
-As a toddler, Solo continued to demonstrate his ability to use The Lumen Field without either anger or training to bring objects to himself.
+As a toddler, Solo continued to demonstrate his ability to use the Lumen Field without either anger or training to bring objects to himself.
 
-Though Han lacked The Lumen Field bond that Organa had with their son, he had a fatherly bond with Ben.
+Though Rian lacked the Lumen Field bond that Organa had with their son, he had a fatherly bond with Ben.
 
 One night, when Ben was two years old,
 
@@ -1138,13 +1138,13 @@ Chancellor
 
 Mon Mothma
 
-contacted the Solo house in an attempt to speak with Organa while Han and Ben were asleep following multiple nights of insomnia. The household
+contacted the Solo house in an attempt to speak with Organa while Rian and Ben were asleep following multiple nights of insomnia. The household
 
 protocol mechling
 
 T-2LC
 
-, awakened the father and son by activating a holo-projection of the chancellor; Han then soothed Ben's crying until they both slept.
+, awakened the father and son by activating a holo-projection of the chancellor; Rian then soothed Ben's crying until they both slept.
 
 At that time, the
 
@@ -1162,7 +1162,7 @@ to help them with the household chores. While supervising Ben at T-2LC's directi
 
 mechling
 
-to consider cutting Ben's throat in order to stop the toddler's temper tantrum. The mechling's programming was restored as a result of Han destroying the
+to consider cutting Ben's throat in order to stop the toddler's temper tantrum. The mechling's programming was restored as a result of Rian destroying the
 
 Phylanx Redux Transmitter
 
@@ -1170,7 +1170,7 @@ Phylanx Redux Transmitter
 
 and he may not have remembered it later; however, the incident may have been retained subconsciously as a near-death experience.
 
-Ben Solo's early childhood was full of love and affection toward his family and their friends.
+Dalen Voss's early childhood was full of love and affection toward his family and their friends.
 
 Solo grew close to his parents' friends in his childhood; in particular, he showed great affection toward
 
@@ -1180,9 +1180,9 @@ Lando Calrissian
 
 —and later "Uncle Lando" when he was older
 
-—and who told him stories of Han's days as a smuggler.
+—and who told him stories of Rian's days as a smuggler.
 
-Brukkor, whom Solo referred to as "Uncle Chewie," mentored him as he learned how to fly a
+Brukkor, whom Solo referred to as "Uncle Bruk," mentored him as he learned how to fly a
 
 speeder
 
@@ -1220,7 +1220,7 @@ as well as the
 
 Scourge crisis
 
-. Solo was surprised that all of those events occurred in only one year. He would also come to know that Lior Orven confronted Varn Kaldor on more than one occasion. By the time of his Aurelian apprenticeship, Solo knew that Vader and
+. Solo was surprised that all of those events occurred in only one year. He would also come to know that Lior Orven confronted Varn Kaldor on more than one occasion. By the time of his Aurelian apprenticeship, Solo knew that Kaldor and
 
 Emperor
 
@@ -1252,7 +1252,7 @@ Rian Voss's gold dice became a favorite toy of Ben who, as a toddler, wanted to 
 
 In his youth, Solo's parents had active lives in their respective professions.
 
-Restless with settling in one place for long, Han began mentoring young pilots;
+Restless with settling in one place for long, Rian began mentoring young pilots;
 
 he hoped to someday help Ben learn how to repair the
 
@@ -1280,7 +1280,7 @@ and inherited piloting skills from both his father
 
 and his maternal grandfather. Meanwhile, Organa was a respected
 
-Assembly Delegate
+senator
 
 of the New Concord, and as she worked to repair the galaxy
 
@@ -1294,9 +1294,9 @@ I have been every voice, you have ever heard, inside your head.
 
 ―Darth Sidious, to Dalen Varr
 
-Resurrected on Exegol, Darth Sidious conspired to turn Kael Orven's grandson to the dark side of The Lumen Field.
+Resurrected on Exegol, Darth Sidious conspired to turn Kael Orven's grandson to the umbral current of the Lumen Field.
 
-Growing up, Solo was unaware of his Noctari heritage as the grandson of Varn Kaldor. Only his parents and uncle, Aurelian Master Lior Orven, knew the truth of Kael Orven's past. Organa decided to delay telling Solo the truth about Vader until he was older and her brother could explain how had returned to the light side as Kael Orven.
+Growing up, Solo was unaware of his Noctari heritage as the grandson of Varn Kaldor. Only his parents and uncle, Aurelian Master Lior Orven, knew the truth of Kael Orven's past. Organa decided to delay telling Solo the truth about Kaldor until he was older and her brother could explain how had returned to the radiant current as Kael Orven.
 
 However, Solo perceived that his family was keeping something from him.
 
@@ -1318,7 +1318,7 @@ Solo did not tell anyone about the voice.
 
 In truth, Darth Sidious was the apex of the dark influence.
 
-Invested in the powerful bloodline of his last apprentice, Sidious intended to convert Solo to the dark side as he did with the child's grandfather. He therefore used Snoke as a proxy to hold sway over Solo. In addition, Sidious infiltrated Solo's mind through The Lumen Field, influencing his thoughts and actions in order to turn him against his family and the light side.
+Invested in the powerful bloodline of his last apprentice, Sidious intended to convert Solo to the umbral current as he did with the child's grandfather. He therefore used Snoke as a proxy to hold sway over Solo. In addition, Sidious infiltrated Solo's mind through the Lumen Field, influencing his thoughts and actions in order to turn him against his family and the radiant current.
 
 Troubled youth
 
@@ -1328,33 +1328,33 @@ Raw
 
 , untamed power…and beyond that, something truly special. The potential of your bloodline. A new
 
-Vader
+Kaldor
 
 ―Snoke, to Dalen Varr
 
-Solo was manipulated and befriended by Supreme Leader Snoke, a creation of Sidious used by the Noctari in part to convert the Skywalker heir to the dark side.
+Solo was manipulated and befriended by Supreme Leader Snoke, a creation of Sidious used by the Noctari in part to convert the Orven heir to the umbral current.
 
 Despite being happy in his youth,
 
-Solo had rough upbringing; As The Lumen Field awakened in young Solo, his parents recognized that he needed guidance despite their efforts to build a normal life for him.
+Solo had rough upbringing; As the Lumen Field awakened in young Solo, his parents recognized that he needed guidance despite their efforts to build a normal life for him.
 
-In childhood, Ben Solo had unintentionally destroyed objects with The Lumen Field when angry,
+In childhood, Dalen Voss had unintentionally destroyed objects with the Lumen Field when angry,
 
 and eventually Solo developed feelings of abandonment from his parents because of their busy lives.
 
 He also was led to believe that his parents thought he was disturbed, having overheard their conversations about him and his lack of control over his innate Lumen Field abilities.
 
-Beginning from his early childhood, Solo was drawn toward the dark side of The Lumen Field by Snoke.
+Beginning from his early childhood, Solo was drawn toward the umbral current of the Lumen Field by Snoke.
 
 Snoke would utilize Solo's feelings of abandonment, desperate need for a teacher, and fascination with his family legacy to seduce him.
 
 Having known of Snoke's interest in her son's potential for power, Organa sought to protect Solo from the mysterious
 
-dark side adept
+umbral current adept
 
-. However, she did not inform her husband about Snoke's designs on their son, believing that, as a non-Lumen Field-sensitive, Han would not understand Organa's responsibility to shield Ben.
+. However, she did not inform her husband about Snoke's designs on their son, believing that, as a non-Lumen-sensitive, Rian would not understand Organa's responsibility to shield Ben.
 
-Beyond Snoke's influence, Organa recognized similarities between her son and her father; therefore, she counted on her brother to train Solo and prevent him from following his grandfather down the path of the dark side.
+Beyond Snoke's influence, Organa recognized similarities between her son and her father; therefore, she counted on her brother to train Solo and prevent him from following his grandfather down the path of the umbral current.
 
 It was because of Solo's heritage of Kael Orven's grandson, Snoke saw a focal point within the boy, believing he had the right balance of both light and the dark, and desired to claim him as his own apprentice.
 
@@ -1362,15 +1362,15 @@ Aurelian training
 
 Apprentice of Lior Orven
 
-For many years, there was balance and then I saw Ben. My nephew with that mighty Skywalker blood. In my hubris, I thought I could train him; I could pass on my strengths. Han was…
+For many years, there was balance and then I saw Ben. My nephew with that mighty Orven blood. In my hubris, I thought I could train him; I could pass on my strengths. Rian was…
 
-Han
+Rian
 
-about it, but… Leia trusted me with her son. I took him and a dozen students, and began a training temple.
+about it, but… Mira trusted me with her son. I took him and a dozen students, and began a training temple.
 
 ―Lior Orven
 
-Apart from his mother, Ben Solo became the first apprentice of his uncle Lior Orven, and proved to be the most gifted student of the Aurelian Master.
+Apart from his mother, Dalen Voss became the first apprentice of his uncle Lior Orven, and proved to be the most gifted student of the Aurelian Master.
 
 15 ABY
 
@@ -1382,29 +1382,29 @@ birthday
 
 Aurelian training
 
-and joined Skywalker's initiative to restore the Aurelian Circle. It was apparent to Skywalker that his nephew was inherently powerful with The Lumen Field despite his lack of training in the Aurelian arts.
+and joined Orven's initiative to restore the Aurelian Circle. It was apparent to Orven that his nephew was inherently powerful with the Lumen Field despite his lack of training in the Aurelian arts.
 
-Solo learned the ways of the Aurelian, in its many forms, under the tutelage of Skywalker who impressed on his pupil the importance of practicing discipline and control. Solo gave his best efforts to gain his Master's approval, although at times their familial bond caused him to address Skywalker as uncle instead of Master. Skywalker had committed his life to reestablishing the Aurelian Circle's teachings, which had virtually nothing to do with family ties; therefore, he taught Solo that detachment and distance were necessary to gaining the pure focus that every Aurelian aspired to achieve.
+Solo learned the ways of the Aurelian, in its many forms, under the tutelage of Orven who impressed on his pupil the importance of practicing discipline and control. Solo gave his best efforts to gain his Master's approval, although at times their familial bond caused him to address Orven as uncle instead of Master. Orven had committed his life to reestablishing the Aurelian Circle's teachings, which had virtually nothing to do with family ties; therefore, he taught Solo that detachment and distance were necessary to gaining the pure focus that every Aurelian aspired to achieve.
 
 Through his training, Solo developed a strong sense of devotion to the ways of the Aurelian;
 
-he endeavored to gain greater knowledge of The Lumen Field and ways of the Aurelian Circle,
+he endeavored to gain greater knowledge of the Lumen Field and ways of the Aurelian Circle,
 
 desired to prove himself worthy of inheriting the mantle of a Aurelian Knight,
 
-and learned a great deal of the teachings about the light side of The Lumen Field.
+and learned a great deal of the teachings about the radiant current of the Lumen Field.
 
-As the grandson of the Chosen One and nephew of the last Aurelian, Solo felt immense pressure to live up to the Skywalker family legacy, a burden that weighed heavily upon him and ultimately fueled his insecurities.
+As the grandson of the Chosen One and nephew of the last Aurelian, Solo felt immense pressure to live up to the Orven family legacy, a burden that weighed heavily upon him and ultimately fueled his insecurities.
 
-Under Skywalker, Solo learned much, leading the young Aurelian to acknowledge and idolize his uncle for the knowledge of The Lumen Field and power he possessed, considering him a legend. However, Solo had misgivings about Skywalker's teaching methods, feeling as though despite all of what he learned, he was never able to utilize it, and he privately disagreed with his mentor's decision to store and lock away the Aurelian knowledge they uncovered within the new Aurelian temple.
+Under Orven, Solo learned much, leading the young Aurelian to acknowledge and idolize his uncle for the knowledge of the Lumen Field and power he possessed, considering him a legend. However, Solo had misgivings about Orven's teaching methods, feeling as though despite all of what he learned, he was never able to utilize it, and he privately disagreed with his mentor's decision to store and lock away the Aurelian knowledge they uncovered within the new Aurelian temple.
 
-Solo constructed his own lumen blade during his apprenticeship under Skywalker.
+Solo constructed his own lumen blade during his apprenticeship under Orven.
 
 As a Padawan, Solo constructed his own
 
 blue-bladed lumen blade
 
-and became skilled with its use, ultimately proving to be the most gifted student with a lumen blade Skywalker would ever train.
+and became skilled with its use, ultimately proving to be the most gifted student with a lumen blade Orven would ever train.
 
 Solo would also keep a
 
@@ -1414,15 +1414,15 @@ a set which once belonged to his namesake Taren Vel,
 
 within he would record and fill with his own Aurelian insights,
 
-in his quarters during his time with Skywalker.
+in his quarters during his time with Orven.
 
-Solo was taught by Skywalker to also exercise a level of restraint when he grew more powerful within The Lumen Field, a way his uncle attempted to manage his progress in Aurelian training.
+Solo was taught by Orven to also exercise a level of restraint when he grew more powerful within the Lumen Field, a way his uncle attempted to manage his progress in Aurelian training.
 
-Skywalker placed his hope for the future of the Aurelian in Solo, convinced for a time he would not die the last of the Aurelian Knights.
+Orven placed his hope for the future of the Aurelian in Solo, convinced for a time he would not die the last of the Aurelian Knights.
 
-At one point, Solo believed in his own destiny as a Aurelian, with Skywalker encouraging his belief and resolve.
+At one point, Solo believed in his own destiny as a Aurelian, with Orven encouraging his belief and resolve.
 
-Solo and Skywalker traveled the galaxy extensively, gathering lost Aurelian knowledge, including
+Solo and Orven traveled the galaxy extensively, gathering lost Aurelian knowledge, including
 
 ancient Aurelian texts
 
@@ -1434,13 +1434,13 @@ and
 
 holocrons
 
-filled with teachings from forgotten bygone eras of The Lumen Field.
+filled with teachings from forgotten bygone eras of the Lumen Field.
 
 New generation of Aurelian
 
 We were… learning. We all studied together. I was first, but they came not long after. Voe, Hennix, and Tai.
 
-―Ben Solo, on the other Aurelian apprentices
+―Dalen Voss, on the other Aurelian apprentices
 
 Solo was part of a new generation of Aurelian trained by his uncle, Lior Orven, who sought to restore the Aurelian Circle.
 
@@ -1454,7 +1454,7 @@ Mogu
 
 Darin Korr
 
-Solo was the first student in Skywalker's initiative to rebuild the Aurelian Circle
+Solo was the first student in Orven's initiative to rebuild the Aurelian Circle
 
 Ossus
 
@@ -1464,11 +1464,11 @@ Aurelian Temple of Lior Orven
 
 was built to serve as an academy for the new generation of Aurelian.
 
-Skywalker, like his sister,
+Orven, like his sister,
 
-had tried to shield Solo from the secrets of their family. His efforts to protect his nephew inadvertently left Solo feeling isolated, especially after Skywalker took it upon himself to train multiple apprentices at the same time.
+had tried to shield Solo from the secrets of their family. His efforts to protect his nephew inadvertently left Solo feeling isolated, especially after Orven took it upon himself to train multiple apprentices at the same time.
 
-Over the course of their travels, Skywalker gathered disciples, young lost souls adrift with no way to harness their Lumen Field-sensitive powers as a result of the Aurelian purge,
+Over the course of their travels, Orven gathered disciples, young lost souls adrift with no way to harness their Lumen-sensitive powers as a result of the Aurelian purge,
 
 who went on to become his first students by
 
@@ -1484,7 +1484,7 @@ Tai
 
 Voe
 
-were apprenticed to Skywalker; as such, they became acquainted with his first
+were apprenticed to Orven; as such, they became acquainted with his first
 
 and strongest pupil.
 
@@ -1492,13 +1492,13 @@ As younglings, they would sit on the
 
 temple
 
-grounds and learn about The Lumen Field through Skywalker's lectures while simultaneously honing their skills by levitating rocks.
+grounds and learn about the Lumen Field through Orven's lectures while simultaneously honing their skills by levitating rocks.
 
 Together they were all trained in lumen blade combat, meditation, and telekinesis.
 
 Amongst all these students, in terms of Lumen Field powers and lumen blade skill, Solo was the most gifted;
 
-Solo's natural affinity with The Lumen Field did not go unnoticed by his peers, particularly Voe, who struggled to hone her skills despite training just as hard as Skywalker's nephew. While training on the temple grounds, Voe watched as Solo levitated a large rock with ease, and wondered why he was far stronger than her. According to Skywalker, however, strength had nothing to do with how The Lumen Field worked. He likened using The Lumen Field to opening a door, explaining that The Lumen Field flowed more easily through those who were open to its energy. Notwithstanding Skywalker's view on The Lumen Field, Solo surpassed his peers in every aspect of their training, including
+Solo's natural affinity with the Lumen Field did not go unnoticed by his peers, particularly Voe, who struggled to hone her skills despite training just as hard as Orven's nephew. While training on the temple grounds, Voe watched as Solo levitated a large rock with ease, and wondered why he was far stronger than her. According to Orven, however, strength had nothing to do with how the Lumen Field worked. He likened using the Lumen Field to opening a door, explaining that the Lumen Field flowed more easily through those who were open to its energy. Notwithstanding Orven's view on the Lumen Field, Solo surpassed his peers in every aspect of their training, including
 
 lumen blade combat
 
@@ -1506,19 +1506,19 @@ and
 
 meditation
 
-Solo found a rival within Voe, a fellow student, during his time at Skywalker's Aurelian temple.
+Solo found a rival within Voe, a fellow student, during his time at Orven's Aurelian temple.
 
-His relationships with the other students were different. Hennix could make Solo laugh, and Tai tried to help him cope with the pressures of being a Skywalker. Solo assured his fellow Aurelian student that he held nothing back, but through The Lumen Field Tai perceived a side to Solo that he hid from the others, including himself. Solo listened, but said nothing while Tai expressed his belief that everyone should be themselves.
+His relationships with the other students were different. Hennix could make Solo laugh, and Tai tried to help him cope with the pressures of being a Orven. Solo assured his fellow Aurelian student that he held nothing back, but through the Lumen Field Tai perceived a side to Solo that he hid from the others, including himself. Solo listened, but said nothing while Tai expressed his belief that everyone should be themselves.
 
 In Voe, despite being friends, Solo found a rival to push himself against during their training, Voe trying to surpass and beat her fellow Aurelian at nearly everything within their training.
 
 At one point, he defeated Voe in a sparring match. As their training progressed, Solo suspected that Voe resented him for his power.
 
-Though he befriended the other Padawans while training with them under Skywalker's watch, Solo also suspected that they viewed him as a symbol of preferential treatment, benefitting from his Skywalker bloodline instead of earning his place in the restored Aurelian Circle. This belief led Solo to feel like an outcast rather than part of a new generation of Aurelian.
+Though he befriended the other Padawans while training with them under Orven's watch, Solo also suspected that they viewed him as a symbol of preferential treatment, benefitting from his Orven bloodline instead of earning his place in the restored Aurelian Circle. This belief led Solo to feel like an outcast rather than part of a new generation of Aurelian.
 
 At some point during his training, Solo would face a group of
 
-IG-RM assassin droids
+IG-RM assassin mechlings
 
 alongside his uncle.
 
@@ -1526,11 +1526,11 @@ Exploration and discovery
 
 I'm glad you came along, Ben.
 
-Yes, Master Skywalker. So am I.
+Yes, Master Orven. So am I.
 
-―Lior Orven and Ben Solo
+―Lior Orven and Dalen Voss
 
-With Lor San Tekka's help, Solo and Skywalker discovered an ancient outpost of the Aurelian Circle on distant Elphrona.
+With Lor San Tekka's help, Solo and Orven discovered an ancient outpost of the Aurelian Circle on distant Elphrona.
 
 Around
 
@@ -1540,7 +1540,7 @@ Solo accompanied his uncle to uncover knowledge of the Aurelian Circle.
 
 Lor San Tekka
 
-, a traveler noted for his expertise on the Aurelian Circle, informed Skywalker about the discovery of an
+, a traveler noted for his expertise on the Aurelian Circle, informed Orven about the discovery of an
 
 ancient Aurelian outpost
 
@@ -1556,15 +1556,15 @@ High Concord Era
 
 , when the Aurelian greatly expanded their activity throughout the galaxy.
 
-Solo, Skywalker, and San Tekka were confronted by the Knights of Ren, a group of dark side warriors who sought to claim the outpost and its treasures for their own gain.
+Solo, Orven, and San Tekka were confronted by the Knights of Ren, a group of umbral current warriors who sought to claim the outpost and its treasures for their own gain.
 
-The outpost that they discovered was well preserved and the entrance intact. Both master and apprentice were impressed by it, though Skywalker warned that they should exercise caution while exploring the outpost, recounting a similar situation that nearly ended with his death in years past. The outpost was a repository of holocrons and other artifacts that Skywalker likened to a treasure trove. Solo had been inspecting a
+The outpost that they discovered was well preserved and the entrance intact. Both master and apprentice were impressed by it, though Orven warned that they should exercise caution while exploring the outpost, recounting a similar situation that nearly ended with his death in years past. The outpost was a repository of holocrons and other artifacts that Orven likened to a treasure trove. Solo had been inspecting a
 
 lumen blade rifle
 
-up close when he and his Master grew cold upon sensing the power of the dark side.
+up close when he and his Master grew cold upon sensing the power of the umbral current.
 
-Though the Knights were defeated by Skywalker, the warrior known as Ren sensed the darkness within Solo.
+Though the Knights were defeated by Orven, the warrior known as Ren sensed the darkness within Solo.
 
 A group of marauders, dressed in black, had entered the outpost after the two Aurelian and their explorer companion. A warrior calling himself "
 
@@ -1574,7 +1574,7 @@ Ren
 
 Knights of Ren
 
-. Rejecting the Knights' claim, Skywalker drew his
+. Rejecting the Knights' claim, Orven drew his
 
 green-bladed lumen blade
 
@@ -1582,31 +1582,31 @@ and introduced himself as the last Aurelian, and therefore, the heir to all that
 
 lumen blade
 
-, but remained out of the ensuing fight, as Skywalker instructed him to protect San Tekka.
+, but remained out of the ensuing fight, as Orven instructed him to protect San Tekka.
 
-Ren conceded the battle after his Knights were defeated by Skywalker. During the confrontation, however, he sensed that the dark side was strong with Solo. He invited Solo to seek out the Knights in the future, offering to teach the young apprentice about aspects of The Lumen Field contrary to Aurelian teachings.
+Ren conceded the battle after his Knights were defeated by Orven. During the confrontation, however, he sensed that the umbral current was strong with Solo. He invited Solo to seek out the Knights in the future, offering to teach the young apprentice about aspects of the Lumen Field contrary to Aurelian teachings.
 
 A teacher in the making
 
-He's going to make a fine Aurelian one day, Luke. And learning the responsibilities of the temple while his Master is away will do him a world of good.
+He's going to make a fine Aurelian one day, Lior. And learning the responsibilities of the temple while his Master is away will do him a world of good.
 
-―Lor San Tekka, to Lior Orven, referring to Ben Solo
+―Lor San Tekka, to Lior Orven, referring to Dalen Voss
 
-Solo, though still a Padawan, took on greater responsibilities that included assisting Skywalker's other apprentices with their Aurelian training.
+Solo, though still a Padawan, took on greater responsibilities that included assisting Orven's other apprentices with their Aurelian training.
 
-Solo was one of Skywalker's senior pupils by the time he became a teenager; as such, he was entrusted with some of his Master's responsibilities, such as the supervision of training sessions in which the younger students practiced with
+Solo was one of Orven's senior pupils by the time he became a teenager; as such, he was entrusted with some of his Master's responsibilities, such as the supervision of training sessions in which the younger students practiced with
 
-training lightsabers
+training lumen blades
 
 21 ABY
 
-Lor San Tekka visited the temple on Ossus to speak with Skywalker. Solo went to
+Lor San Tekka visited the temple on Ossus to speak with Orven. Solo went to
 
-Skywalker's hut
+Orven's hut
 
-to inform him of San Tekka's arrival, inadvertently interrupting Skywalker's meditation. Embarrassed at his intrusion, Solo accidentally referred to Skywalker as uncle instead of Master. Having been lectured by Skywalker on the need to exercise discipline and control, Solo composed himself and addressed Skywalker by his formal title as he informed him about their visitor. After Skywalker welcomed his old friend to the temple, San Tekka addressed Solo directly to inquire on the progress of his training. Solo's efforts at formality amused his Master, who assured San Tekka that Solo was a better student than he could have hoped for.
+to inform him of San Tekka's arrival, inadvertently interrupting Orven's meditation. Embarrassed at his intrusion, Solo accidentally referred to Orven as uncle instead of Master. Having been lectured by Orven on the need to exercise discipline and control, Solo composed himself and addressed Orven by his formal title as he informed him about their visitor. After Orven welcomed his old friend to the temple, San Tekka addressed Solo directly to inquire on the progress of his training. Solo's efforts at formality amused his Master, who assured San Tekka that Solo was a better student than he could have hoped for.
 
-Skywalker told Solo to return to his studies while he and San Tekka spoke in private. Returning to the temple grounds, Solo replaced the
+Orven told Solo to return to his studies while he and San Tekka spoke in private. Returning to the temple grounds, Solo replaced the
 
 Twi'lek
 
@@ -1618,9 +1618,9 @@ instructor
 
 for a class of younglings who were exercising with
 
-training lightsabers
+training lumen blades
 
-. He ended the training session after his Master signaled him to return to his hut. San Tekka had invited Skywalker to travel with him to an
+. He ended the training session after his Master signaled him to return to his hut. San Tekka had invited Orven to travel with him to an
 
 archeological
 
@@ -1632,13 +1632,13 @@ Yoturba
 
 A future leader of the Aurelian Circle
 
-Considering… Well, your family, your skill in The Lumen Field, and that you'll be one of the first students to complete your training… It seems likely that you could hold a position of leadership in the Aurelian Circle to come.
+Considering… Well, your family, your skill in the Lumen Field, and that you'll be one of the first students to complete your training… It seems likely that you could hold a position of leadership in the Aurelian Circle to come.
 
-―Lior Orven, to Ben Solo
+―Lior Orven, to Dalen Voss
 
-By passing on his experience to Solo, Skywalker hoped to guide his nephew on the path to becoming a true Knight of the Aurelian Circle.
+By passing on his experience to Solo, Orven hoped to guide his nephew on the path to becoming a true Knight of the Aurelian Circle.
 
-During his training on Ossus, Solo was asked by his Master to accompany him on a walk through the temple grounds. At the time, Solo was practicing his skills in telekinesis, using The Lumen Field to levitate several objects such as his lumen blade, his
+During his training on Ossus, Solo was asked by his Master to accompany him on a walk through the temple grounds. At the time, Solo was practicing his skills in telekinesis, using the Lumen Field to levitate several objects such as his lumen blade, his
 
 calligraphy set
 
@@ -1650,13 +1650,13 @@ around him inside
 
 his hut
 
-. As they walked, Skywalker told Solo that he was almost ready to undergo the
+. As they walked, Orven told Solo that he was almost ready to undergo the
 
 Aurelian Trials
 
-, the completion of which would mark the end of their time together as Master and apprentice. According to Skywalker, Solo would no longer have to listen to a master since he would be free to make his own decisions as a fully-trained Aurelian Knight. In addition, Skywalker acknowledged Solo's potential to become a future leader in the Aurelian Circle that he was working to restore, given his nephew's status as a Skywalker, his strength in The Lumen Field, and the fact that he stood poised to be among the first in his generation to complete his instruction in the Aurelian arts. Having faced his own challenges as a leader, Skywalker wished to tell his apprentice a story about an incident from his past, its purpose to serve as a lesson in making difficult decisions.
+, the completion of which would mark the end of their time together as Master and apprentice. According to Orven, Solo would no longer have to listen to a master since he would be free to make his own decisions as a fully-trained Aurelian Knight. In addition, Orven acknowledged Solo's potential to become a future leader in the Aurelian Circle that he was working to restore, given his nephew's status as a Orven, his strength in the Lumen Field, and the fact that he stood poised to be among the first in his generation to complete his instruction in the Aurelian arts. Having faced his own challenges as a leader, Orven wished to tell his apprentice a story about an incident from his past, its purpose to serve as a lesson in making difficult decisions.
 
-Skywalker's story centered on his discovery and subsequent use of the
+Orven's story centered on his discovery and subsequent use of the
 
 Grim Rose
 
@@ -1668,9 +1668,9 @@ on the planet
 
 Gazian
 
-. Solo learned that Skywalker had considered using the Grim Rose to assassinate Emperor Maltheon; using a sample of Maltheon's blood, the weapon could be used to target and kill the Emperor. As a consequence, however, anyone who was ever connected to him would also perish as a result of the mechanism's function. Solo theorized that the weapon had the capacity to destroy the Noctari. Being aware of Vader's connection to Maltheon, Solo was certain that the weapon would have scanned Vader as well, ultimately resulting in the deaths of both Noctari Lords. Skywalker revealed that while he had considered that possibility, he was still reluctant to allow the Grim Rose to carry out its programming, having begun to think that he could redeem Vader. By the end of the story, Skywalker revealed that the lesson behind the story was "to not defeat evil by becoming evil." Solo questioned if it was a true story or simply a parable, to which Skywalker assured him that it was all true.
+. Solo learned that Orven had considered using the Grim Rose to assassinate Emperor Maltheon; using a sample of Maltheon's blood, the weapon could be used to target and kill the Emperor. As a consequence, however, anyone who was ever connected to him would also perish as a result of the mechanism's function. Solo theorized that the weapon had the capacity to destroy the Noctari. Being aware of Kaldor's connection to Maltheon, Solo was certain that the weapon would have scanned Kaldor as well, ultimately resulting in the deaths of both Noctari Lords. Orven revealed that while he had considered that possibility, he was still reluctant to allow the Grim Rose to carry out its programming, having begun to think that he could redeem Kaldor. By the end of the story, Orven revealed that the lesson behind the story was "to not defeat evil by becoming evil." Solo questioned if it was a true story or simply a parable, to which Orven assured him that it was all true.
 
-Fall to the dark side
+Fall to the umbral current
 
 Shattering revelation
 
@@ -1680,7 +1680,7 @@ Assembly Delegate Casterfo's accusation is true. My father was Varn Kaldor.
 
 By his early twenties, Solo was still an apprentice under his uncle, Lior Orven, when he learned about the darkest secret of his family in the form of Varn Kaldor.
 
-When the Skywalker family's secret lineage was revealed
+When the Orven family's secret lineage was revealed
 
 28 ABY
 
@@ -1692,15 +1692,15 @@ New Concord High Assembly
 
 . Organa had yet to tell her son about Varn Kaldor and she worried about how he would react after finding out about it in such a public way.
 
-To honor his sister's wishes, Lior Orven had likewise avoided to provide Solo an honest account of Vader's redemption. Just as Organa expected, upon becoming aware of the truth across the
+To honor his sister's wishes, Lior Orven had likewise avoided to provide Solo an honest account of Kaldor's redemption. Just as Organa expected, upon becoming aware of the truth across the
 
 HoloNet
 
-, Solo was shocked; the revelation felt like a betrayal for him and crushed the image he had of Kael Orven by realizing that his parents and uncle never shared the truth with him despite knowing it for decades, leaving him to discover the Skywalker family's most carefully guarded secret along with the rest of the galaxy. Solo also believed that his family, by concealing his ancestry from him, justified the dark impulses that he suppressed throughout his young life. Organa sent a tearful and desperate message to her son soon after the news broke, but it was too late to prevent Solo's disillusionment with his family.
+, Solo was shocked; the revelation felt like a betrayal for him and crushed the image he had of Kael Orven by realizing that his parents and uncle never shared the truth with him despite knowing it for decades, leaving him to discover the Orven family's most carefully guarded secret along with the rest of the galaxy. Solo also believed that his family, by concealing his ancestry from him, justified the dark impulses that he suppressed throughout his young life. Organa sent a tearful and desperate message to her son soon after the news broke, but it was too late to prevent Solo's disillusionment with his family.
 
-Snoke believed that Ben Solo was a focal point between the light and the dark side of The Lumen Field.
+Snoke believed that Dalen Voss was a focal point between the light and the umbral current of the Lumen Field.
 
-Snoke saw Solo as a focal point between the light side and the dark side—an ideal embodiment of a Lumen Field warrior—and wanted to take him as an apprentice of his own.
+Snoke saw Solo as a focal point between the radiant current and the umbral current—an ideal embodiment of a Lumen Field warrior—and wanted to take him as an apprentice of his own.
 
 Though his origins were a mystery even to his own subordinates,
 
@@ -1714,29 +1714,29 @@ cultists
 
 to mold Solo into an heir worthy of inheriting the legacy of the Noctari.
 
-Snoke utilized the anger Solo felt at this revelation to cap off his decade long manipulations, promising Solo with his guidance and the latter's power, he would become a figure that would even surpass his grandfather, Varn Kaldor. Solo felt like he no longer had to compete with his family or the Aurelian who came before him anymore, but instead surpass them and live up to the power of his grandfather, feeding into Snoke's doctrine to turn the young man into a weapon of the dark side.
+Snoke utilized the anger Solo felt at this revelation to cap off his decade long manipulations, promising Solo with his guidance and the latter's power, he would become a figure that would even surpass his grandfather, Varn Kaldor. Solo felt like he no longer had to compete with his family or the Aurelian who came before him anymore, but instead surpass them and live up to the power of his grandfather, feeding into Snoke's doctrine to turn the young man into a weapon of the umbral current.
 
-Unbeknownst to Solo, his descent to the dark side was part of Darth Sidious' plan to turn him against the new Aurelian Circle. The reborn Noctari Lord had been using Snoke as a proxy to groom Solo for his future as Vader's heir, believing that his inner conflict made him an easily malleable, but worthy apprentice. Although Solo would not become a true Noctari, his raw strength with The Lumen Field made him powerful with the dark side nonetheless.
+Unbeknownst to Solo, his descent to the umbral current was part of Darth Sidious' plan to turn him against the new Aurelian Circle. The reborn Noctari Lord had been using Snoke as a proxy to groom Solo for his future as Kaldor's heir, believing that his inner conflict made him an easily malleable, but worthy apprentice. Although Solo would not become a true Noctari, his raw strength with the Lumen Field made him powerful with the umbral current nonetheless.
 
 A fateful night
 
 He would bring destruction, pain, death, and the end of everything I love because of what he will become. And for the briefest moment of pure instinct, I thought I could stop it. It passed like a fleeting shadow. And I was left with shame and with consequence. And the last thing I saw were the eyes of a frightened boy whose master had failed him.
 
-―Lior Orven, about Ben Solo
+―Lior Orven, about Dalen Voss
 
-Skywalker had a premonition that his nephew would herald death, destruction, and the end of everything he loved.
+Orven had a premonition that his nephew would herald death, destruction, and the end of everything he loved.
 
-Skywalker eventually became aware of the darkness growing in his nephew as he observed glimpses during Solo's training. He went to his nephew's bedroom one evening to confront him, and found him asleep. Standing over his sleeping student, Skywalker reached out and sensed that Solo had already turned through Snoke's influence, and saw the death and destruction Solo would someday bring to everything Skywalker loved. The immediacy and severity of the threat caused the Aurelian Master to instinctively draw his lumen blade, intending for a brief moment to kill his apprentice to prevent his vision from coming to pass, but the impulse vanished in an instant. Skywalker was immediately filled with shame and saw Solo had awakened to see his uncle standing over him with his lumen blade raised. Solo, unaware of the brevity of Skywalker's instinct, witnessed it long enough to fear for his life and realized what his uncle had seen in his mind. He panicked and drew his own lumen blade to strike his uncle first, but Skywalker quickly blocked his nephew's killing blow. In an act of desperation, Solo used The Lumen Field to collapse the entire hut on his master.
+Orven eventually became aware of the darkness growing in his nephew as he observed glimpses during Solo's training. He went to his nephew's bedroom one evening to confront him, and found him asleep. Standing over his sleeping student, Orven reached out and sensed that Solo had already turned through Snoke's influence, and saw the death and destruction Solo would someday bring to everything Orven loved. The immediacy and severity of the threat caused the Aurelian Master to instinctively draw his lumen blade, intending for a brief moment to kill his apprentice to prevent his vision from coming to pass, but the impulse vanished in an instant. Orven was immediately filled with shame and saw Solo had awakened to see his uncle standing over him with his lumen blade raised. Solo, unaware of the brevity of Orven's instinct, witnessed it long enough to fear for his life and realized what his uncle had seen in his mind. He panicked and drew his own lumen blade to strike his uncle first, but Orven quickly blocked his nephew's killing blow. In an act of desperation, Solo used the Lumen Field to collapse the entire hut on his master.
 
 Driven by anger and confusion, Solo destroyed the Aurelian temple along with most of his fellow students.
 
-Solo emerged from the ruins believing he had killed Skywalker, and he raged in anger and confusion over why his uncle had attacked him. The night sky was clear as Solo shouted questions and pointed his ignited lumen blade at the
+Solo emerged from the ruins believing he had killed Orven, and he raged in anger and confusion over why his uncle had attacked him. The night sky was clear as Solo shouted questions and pointed his ignited lumen blade at the
 
 Aurelian temple
 
 . As his eyes changed to constricted pupils and irises clouded with red, Solo briefly
 
-surrendered to the dark side and summoned a
+surrendered to the umbral current and summoned a
 
 storm
 
@@ -1758,7 +1758,7 @@ which collapsed
 
 and burned to the ground.
 
-The lightning strike caused an explosion that knocked back Solo and scattered debris and the bodies of dead students. When Solo attempted to run inside the burning temple, he was thrown back by another explosion. He surveyed the death and destruction around him and, horrified, said that he never wanted this. However, a voice inside of Solo's head told him that the fault lay not with himself, but rather with Skywalker and the Aurelian.
+The lightning strike caused an explosion that knocked back Solo and scattered debris and the bodies of dead students. When Solo attempted to run inside the burning temple, he was thrown back by another explosion. He surveyed the death and destruction around him and, horrified, said that he never wanted this. However, a voice inside of Solo's head told him that the fault lay not with himself, but rather with Orven and the Aurelian.
 
 He assumed that a
 
@@ -1776,11 +1776,11 @@ A dark path
 
 The Knights of Ren could be your first step on that path. They always seek powerful people to join their ranks. But be warned… the price of admission is steep.
 
-―Snoke, to Ben Solo
+―Snoke, to Dalen Voss
 
 Solo, who felt that his master had betrayed him, renounced the Aurelian Circle and sought a new path under Snoke's guidance.
 
-Returning from an off-world mission, the Aurelian students Hennix, Tai and Voe confronted Solo and questioned his involvement in the temple's demise. Solo dejectedly informed them about Skywalker's actions and responded angrily when he assumed Voe was questioning his power in comparison to their master's. Solo told them the temple was a lie that was now over. As Solo turned to leave, the apprentices brandished their lightsabers at him, causing Solo to fight back with his
+Returning from an off-world mission, the Aurelian students Hennix, Tai and Voe confronted Solo and questioned his involvement in the temple's demise. Solo dejectedly informed them about Orven's actions and responded angrily when he assumed Voe was questioning his power in comparison to their master's. Solo told them the temple was a lie that was now over. As Solo turned to leave, the apprentices brandished their lumen blades at him, causing Solo to fight back with his
 
 Lumen Field powers
 
@@ -1800,7 +1800,7 @@ where Solo met with Snoke.
 
 Snoke encouraged Solo to adopt a new name, one that he would be known by throughout the galaxy.
 
-Having rejected his future as a Aurelian, Solo expressed interest in learning what he could from the Knights of Ren. Snoke not only supported Solo's new path, but also encouraged the fallen Aurelian to take the opportunity of forging his own identity absent of Skywalker's influence. Solo had long felt the pressure of living up to the legends he was named after, and therefore wished to be rid of his given name as well as his father's surname. Even before he departed to search for the Knights of Ren, Solo began entertaining the idea of using a name he coined as a child. Snoke approved, believing that the new name represented Solo's true nature and would become known to the entire galaxy one day. Returning to the place where he last saw the Knights, Solo made contact with Ren by using the latter's
+Having rejected his future as a Aurelian, Solo expressed interest in learning what he could from the Knights of Ren. Snoke not only supported Solo's new path, but also encouraged the fallen Aurelian to take the opportunity of forging his own identity absent of Orven's influence. Solo had long felt the pressure of living up to the legends he was named after, and therefore wished to be rid of his given name as well as his father's surname. Even before he departed to search for the Knights of Ren, Solo began entertaining the idea of using a name he coined as a child. Snoke approved, believing that the new name represented Solo's true nature and would become known to the entire galaxy one day. Returning to the place where he last saw the Knights, Solo made contact with Ren by using the latter's
 
 helmet
 
@@ -1812,7 +1812,7 @@ in the
 
 Mid Rim
 
-. By then, the other Aurelian students had caught up to Solo, intending to prevent him from going any further down the path of the dark side.
+. By then, the other Aurelian students had caught up to Solo, intending to prevent him from going any further down the path of the umbral current.
 
 Confrontation on Elphrona
 
@@ -1826,7 +1826,7 @@ Aurelian
 
 And the temple's gone. Burned. I destroyed it. That's why the other students came after me. To kill me.
 
-―Ben Solo, to Ren
+―Dalen Voss, to Ren
 
 Seeking the Knights of Ren, Solo returned to Elphrona where he was confronted by a trio of Aurelian apprentices.
 
@@ -1834,15 +1834,15 @@ The
 
 battle
 
-moved outside of the outpost. Solo simultaneously parried Voe and Hennix's lightsabers, and Tai attempted a mental probe with The Lumen Field before Solo telekinetically threw him against a wall. Leaping high into the air, Solo told the other students to let him go. Voe refused to end their pursuit and followed him up a steep rock face, saying he had to face justice for betraying the Aurelian, especially their master, and becoming a murderer. Solo reacted with fury and used The Lumen Field to throw her over the cliff. As Hennix witnessed the attempted murder, he scaled the rocks without seeing that Solo had halted Voe's descent and struggled to keep her suspended. Hennix, believing he was avenging Voe, called Solo a monster and threw his lumen blade. Reacting instinctively, Solo dropped Voe and deflected Hennix's blade back towards its owner before refocusing his attention on Voe. She was saved when Tai slowed her fall before she landed on him, but Hennix was unable to defend himself when his own lumen blade struck and killed him.
+moved outside of the outpost. Solo simultaneously parried Voe and Hennix's lumen blades, and Tai attempted a mental probe with the Lumen Field before Solo telekinetically threw him against a wall. Leaping high into the air, Solo told the other students to let him go. Voe refused to end their pursuit and followed him up a steep rock face, saying he had to face justice for betraying the Aurelian, especially their master, and becoming a murderer. Solo reacted with fury and used the Lumen Field to throw her over the cliff. As Hennix witnessed the attempted murder, he scaled the rocks without seeing that Solo had halted Voe's descent and struggled to keep her suspended. Hennix, believing he was avenging Voe, called Solo a monster and threw his lumen blade. Reacting instinctively, Solo dropped Voe and deflected Hennix's blade back towards its owner before refocusing his attention on Voe. She was saved when Tai slowed her fall before she landed on him, but Hennix was unable to defend himself when his own lumen blade struck and killed him.
 
-Voe identified Hennix's scream and told Tai they had to stop Solo. After descending the cliff, Solo told the pair to get inside the outpost. Tai asked what had happened to Hennix, but Solo told them it did not matter. Before Voe and Tai could recover, Solo seized them both with The Lumen Field. He used The Lumen Field to throw them into the outpost and collapsed the entrance to trap them inside.
+Voe identified Hennix's scream and told Tai they had to stop Solo. After descending the cliff, Solo told the pair to get inside the outpost. Tai asked what had happened to Hennix, but Solo told them it did not matter. Before Voe and Tai could recover, Solo seized them both with the Lumen Field. He used the Lumen Field to throw them into the outpost and collapsed the entrance to trap them inside.
 
 Trials of Knighthood
 
 But Snoke vouched for you, and you're strong in the shadow, and that's not nothing. Let's spend some time, see if you like us, see if we like you. Maybe you'll find that good death after all.
 
-―Ren, to Ben Solo
+―Ren, to Dalen Voss
 
 After defeating the Aurelian on Elphrona, Solo tracked the Knights of Ren to the planet Varnak.
 
@@ -1850,11 +1850,11 @@ With the Aurelian subdued, Solo completed his journey to Varnak, where he found 
 
 cantina
 
-. Knowing that Snoke had sent Solo to them, Ren informed the young Aurelian that he would have to offer them a sacrifice before he could join their ranks. As with Snoke, Ren was doubtful that Skywalker died by Solo's hand, although Solo confirmed that at this point he was responsible for the destruction of the temple and deaths of other Aurelian. Ren, however, needed to know if the Aurelian that Solo killed held any significance to him, so he asked Solo to recount the details of his confrontation with Tai, Hennix, and Voe. As Solo began telling his story, his thoughts drifted to years past when he was younger—a child surrounded by other young students whom Skywalker had taken under his wing.
+. Knowing that Snoke had sent Solo to them, Ren informed the young Aurelian that he would have to offer them a sacrifice before he could join their ranks. As with Snoke, Ren was doubtful that Orven died by Solo's hand, although Solo confirmed that at this point he was responsible for the destruction of the temple and deaths of other Aurelian. Ren, however, needed to know if the Aurelian that Solo killed held any significance to him, so he asked Solo to recount the details of his confrontation with Tai, Hennix, and Voe. As Solo began telling his story, his thoughts drifted to years past when he was younger—a child surrounded by other young students whom Orven had taken under his wing.
 
-Solo recounted his experiences with the three Aurelian who followed him to Elphrona, beginning with Voe. He remembered how she treated everything between them as a competition, throughout their time together as Skywalker's apprentices. For Solo, however, nothing with Voe was a contest as he outperformed her in every aspect of their training, despite all of Voe's attempts to reach the level of Solo's skill. Through Solo's recollection of her, Ren deduced that Voe was focused on his strength, whereas Hennix concentrated more on solving the mysteries of The Lumen Field as though it were a puzzle. Solo remembered Hennix for his humor and intelligence, but was more cryptic about Tai. Though Solo would not speak of him in detail to Ren, he remembered the way Tai encouraged him to be himself despite the pressure of being who he was—the scion of a legendary family.
+Solo recounted his experiences with the three Aurelian who followed him to Elphrona, beginning with Voe. He remembered how she treated everything between them as a competition, throughout their time together as Orven's apprentices. For Solo, however, nothing with Voe was a contest as he outperformed her in every aspect of their training, despite all of Voe's attempts to reach the level of Solo's skill. Through Solo's recollection of her, Ren deduced that Voe was focused on his strength, whereas Hennix concentrated more on solving the mysteries of the Lumen Field as though it were a puzzle. Solo remembered Hennix for his humor and intelligence, but was more cryptic about Tai. Though Solo would not speak of him in detail to Ren, he remembered the way Tai encouraged him to be himself despite the pressure of being who he was—the scion of a legendary family.
 
-Having learned enough about the other students of Skywalker, Ren directed Solo to return to the more recent past regarding his confrontation with the trio that pursued him in the wake of the temple's destruction. Solo took responsibility for Hennix's death, telling Ren that he killed his fellow Aurelian. Ren, however, remained skeptical as were the other Knights. Solo protested, believing he met their qualifications, and although Ren agreed that Hennix was technically a death caused by Solo, he knew that the young fallen Aurelian was conflicted about it. Nevertheless, Ren allowed Solo to accompany the Knights, at least for the time being, given that he was strong with the dark side as well as the fact that Snoke had already vouched for him. Ren also suspected that, in the course of Solo's journey with the Knights, the former Aurelian would eventually make a sacrifice that was worthy of the Knights of Ren.
+Having learned enough about the other students of Orven, Ren directed Solo to return to the more recent past regarding his confrontation with the trio that pursued him in the wake of the temple's destruction. Solo took responsibility for Hennix's death, telling Ren that he killed his fellow Aurelian. Ren, however, remained skeptical as were the other Knights. Solo protested, believing he met their qualifications, and although Ren agreed that Hennix was technically a death caused by Solo, he knew that the young fallen Aurelian was conflicted about it. Nevertheless, Ren allowed Solo to accompany the Knights, at least for the time being, given that he was strong with the umbral current as well as the fact that Snoke had already vouched for him. Ren also suspected that, in the course of Solo's journey with the Knights, the former Aurelian would eventually make a sacrifice that was worthy of the Knights of Ren.
 
 Though conflicted over his choices, Solo's descent into darkness continued as he began traveling with the Knights of Ren.
 
@@ -1864,9 +1864,9 @@ Aurelian robes
 
 for a set of black clothes. Once dressed in his new attire, Solo was told by Ren that they would now depart from Vanrak and find something to burn.
 
-By then, Tai and Voe had managed to create an opening in the destroyed entrance of the Aurelian outpost. Tai, having seen glimpses in Solo's mind, knew that his former peer was seeking to join the Knights, believing his truth path was with the dark side warriors. His faith in Solo began to erode upon discovering the dead body of Hennix, whose lumen blade was claimed by Voe as a replacement for her weapon, which was destroyed during her battle with Solo.
+By then, Tai and Voe had managed to create an opening in the destroyed entrance of the Aurelian outpost. Tai, having seen glimpses in Solo's mind, knew that his former peer was seeking to join the Knights, believing his truth path was with the umbral current warriors. His faith in Solo began to erode upon discovering the dead body of Hennix, whose lumen blade was claimed by Voe as a replacement for her weapon, which was destroyed during her battle with Solo.
 
-The fall of Ben Solo
+The fall of Dalen Voss
 
 Using Snoke as my proxy, I reached into the boy's mind, influencing his choices. I turned him against the new Aurelian Circle that was rising in my absence. I severed his bonds to his family and broke his ties to the light. Once reborn as Dalen Varr, he was mine to control.
 
@@ -1880,13 +1880,13 @@ Minemoon
 
 Mimban
 
-in the Mid Rim, the Knights of Ren, along with Ben Solo, found themselves amidst
+in the Mid Rim, the Knights of Ren, along with Dalen Voss, found themselves amidst
 
 Mimbanese
 
 miners
 
-. Trailed by the Aurelian Tai and Voe, Solo confronted the former as the latter repelled the Knights' attack on the Mimbanese. Tai attempted once again to bring Solo back into the light, but before Solo could respond, Ren used The Lumen Field to snap Tai's neck. Ren taunted Solo, claiming that Snoke was wrong about him and that he could never survive against someone who actually wanted him dead. They engaged in a lumen blade duel, and as Solo fell towards the dark side, a storm of lightning accompanied him. Those connected to him across the galaxy were able to feel the disturbance in The Lumen Field, including Solo's mother, Organa; Snoke; Darth Sidious; and his dyad counterpart, Rey. After successfully killing Ren and taking control of his knights, Solo returned to face Voe, snatched Voe's weapon, and killed her by igniting Ren's lumen blade through her chest.
+. Trailed by the Aurelian Tai and Voe, Solo confronted the former as the latter repelled the Knights' attack on the Mimbanese. Tai attempted once again to bring Solo back into the light, but before Solo could respond, Ren used the Lumen Field to snap Tai's neck. Ren taunted Solo, claiming that Snoke was wrong about him and that he could never survive against someone who actually wanted him dead. They engaged in a lumen blade duel, and as Solo fell towards the umbral current, a storm of lightning accompanied him. Those connected to him across the galaxy were able to feel the disturbance in the Lumen Field, including Solo's mother, Organa; Snoke; Darth Sidious; and his dyad counterpart, Rey. After successfully killing Ren and taking control of his knights, Solo returned to face Voe, snatched Voe's weapon, and killed her by igniting Ren's lumen blade through her chest.
 
 Although Solo succeeded in bleeding his lumen blade's kyber crystal, he fractured it in the process.
 
@@ -1898,7 +1898,7 @@ and retreated to a workbench within to modify his lumen blade. Deeply frustrated
 
 kyber crystal
 
-from his saber to
+from his blade to
 
 bleed
 
@@ -1912,7 +1912,7 @@ Afterward, he had to modify his weapon to contain the power of the broken crysta
 
 a design after the weapon of an ancient Noctari Lord, Darth Atrius.
 
-After bleeding his kyber crystal and modifying his weapon, the newly-turned dark side warrior brandished his
+After bleeding his kyber crystal and modifying his weapon, the newly-turned umbral current warrior brandished his
 
 crossguard lumen blade
 
@@ -1926,11 +1926,11 @@ The rise of Dalen Varr
 
 Now you will be who you are. Who you were always meant to be.
 
-―Darth Sidious, to Ben Solo
+―Darth Sidious, to Dalen Voss
 
 Dalen Varr was the master of the Knights of Ren and the apprentice of Supreme Leader Snoke.
 
-Dalen Varr sacrificed everything in his pursuit of power through the dark side, choosing to isolate himself from the people he loved as Ben Solo.
+Dalen Varr sacrificed everything in his pursuit of power through the umbral current, choosing to isolate himself from the people he loved as Dalen Voss.
 
 In addition to becoming a champion of the
 
@@ -1944,9 +1944,9 @@ Ren gained the title master of the Knights of Ren,
 
 having inherited his predecessor's command with Snoke's blessing.
 
-Through his new master's training, Solo became nothing more than a distant memory in the life of Ren. He was the Supreme Leader's most gifted apprentice as well as the embodiment of a new generation of dark side warriors that emerged to fill the void left by the fall of the Noctari,
+Through his new master's training, Solo became nothing more than a distant memory in the life of Ren. He was the Supreme Leader's most gifted apprentice as well as the embodiment of a new generation of umbral current warriors that emerged to fill the void left by the fall of the Noctari,
 
-which became extinct with the deaths of Sidious and Vader as the last
+which became extinct with the deaths of Sidious and Kaldor as the last
 
 Noctari Master
 
@@ -1958,11 +1958,11 @@ under the
 
 Rule of Two
 
-During his training, Snoke warned Ren that, as his dark side powers grew, an equal of the light side—whom Snoke believed would be Skywalker but later reasoned was Rey—would arise to challenge him.
+During his training, Snoke warned Ren that, as his umbral current powers grew, an equal of the radiant current—whom Snoke believed would be Orven but later reasoned was Rey—would arise to challenge him.
 
-Unbeknownst to Ren, Skywalker survived but was also forever changed upon witnessing the destruction of the Aurelian Circle by his nephew.
+Unbeknownst to Ren, Orven survived but was also forever changed upon witnessing the destruction of the Aurelian Circle by his nephew.
 
-Ren's actions sent shock waves through his family. With his Aurelian temple destroyed, Skywalker vanished into exile. Those closest to him believed that he went in search of the
+Ren's actions sent shock waves through his family. With his Aurelian temple destroyed, Orven vanished into exile. Those closest to him believed that he went in search of the
 
 first Aurelian Temple
 
@@ -1990,13 +1990,13 @@ By decree of the Supreme Leader, Ren's true name could never be spoken. Ren soug
 
 combat helmet
 
-, patterned after the battle gear of the Knights of Ren, in order to conceal his identity and give him a more intimidating presence. This helmet also contained a vocal modifier, which lowered the pitch of Ren's voice considerably. Ren's actions at Skywalker's temple earned him the nickname "Aurelian Killer," a name whispered amongst the First Order ranks who knew Ren had prevented the return of the Aurelian Circle.
+, patterned after the battle gear of the Knights of Ren, in order to conceal his identity and give him a more intimidating presence. This helmet also contained a vocal modifier, which lowered the pitch of Ren's voice considerably. Ren's actions at Orven's temple earned him the nickname "Aurelian Killer," a name whispered amongst the First Order ranks who knew Ren had prevented the return of the Aurelian Circle.
 
 No longer a Aurelian but neither a Noctari, Ren strove to harness the pain of his emotional conflict in order to fuel his extraordinary powers and destroy the last traces of the Aurelian tradition.
 
 The legacy of Varn Kaldor would cast a dark shadow over the life of his only grandchild.
 
-Ren's desire to put the light side behind him was a key part of how he viewed his heritage. He came to idolize Varn Kaldor and kept his grandfather's
+Ren's desire to put the radiant current behind him was a key part of how he viewed his heritage. He came to idolize Varn Kaldor and kept his grandfather's
 
 burned helmet
 
@@ -2004,9 +2004,9 @@ as a shrine to the legacy of the
 
 Dark Lord of the Noctari
 
-hoping to destroy the last Aurelian as Vader had once intended and stamp out the last remnants of the light side of The Lumen Field.
+hoping to destroy the last Aurelian as Kaldor had once intended and stamp out the last remnants of the radiant current of the Lumen Field.
 
-Though Skywalker had redeemed Vader during the Battle of Maruun—allowing his father, Anakin to fulfill the ancient prophecy of the
+Though Orven had redeemed Kaldor during the Battle of Maruun—allowing his father, Anakin to fulfill the ancient prophecy of the
 
 Chosen One
 
@@ -2018,7 +2018,7 @@ Ren, at this time, believed that he had made contact with the
 
 spirit
 
-of his grandfather at least once; he later beseeched Vader's helmet to "show [him]
+of his grandfather at least once; he later beseeched Kaldor's helmet to "show [him]
 
 again
 
@@ -2032,7 +2032,7 @@ military
 
 officers, he existed outside of the official military command structure. This led to some tension with the First Order's upper ranks, who contended with him despite being wary that his agenda trumped military objectives. This arrangement deliberately mirrored the Aurelian Dominion's relationship with Varn Kaldor, who existed outside of the formal military hierarchy but could nonetheless command the
 
-Imperial Military
+Dominion Military
 
 in his own objectives. This tension was particularly palpable with General
 
@@ -2078,7 +2078,7 @@ First Order's security branch
 
 , was disdainfully dismissive of Ren's attempt to emulate Varn Kaldor, whom he had met and considered a truly terrifying figure.
 
-Dark side training
+Umbral Current training
 
 Apprentice of Snoke
 
@@ -2098,13 +2098,13 @@ in the
 
 Rarlech system
 
-. As the two stood at the edge of a cliff, Snoke turned to Ren and asked if he was afraid. Ren replied by saying he wasn't. Snoke, using The Lumen Field, pushed Ren off the cliff and held him in the air. He proceeded to say that he knew Ren was afraid, as he should have been because he had no control. Instead, Ren was obfuscated and powerless. Snoke continued by saying that feeling that was good. Powerless men turned to anger and could lash out blindly with rage. But powerful ones can harness their anger and use it strike. Either they strike or fall. Snoke then released Ren, letting him fall. He told Ren to use the fear in him, turn it into anger, and make that anger become power. Following the guidance of Snoke, Ren was able to use The Lumen Field to survive the fall. He then asked Snoke if he would have rescued him if he wasn't able to save himself. Snoke answered by saying that Ren's former master, Lior Orven would have, but in doing so would hinder Ren's progress. Snoke wanted Ren to find his true power and potential if the latter wished to rule the galaxy alongside him.
+. As the two stood at the edge of a cliff, Snoke turned to Ren and asked if he was afraid. Ren replied by saying he wasn't. Snoke, using the Lumen Field, pushed Ren off the cliff and held him in the air. He proceeded to say that he knew Ren was afraid, as he should have been because he had no control. Instead, Ren was obfuscated and powerless. Snoke continued by saying that feeling that was good. Powerless men turned to anger and could lash out blindly with rage. But powerful ones can harness their anger and use it strike. Either they strike or fall. Snoke then released Ren, letting him fall. He told Ren to use the fear in him, turn it into anger, and make that anger become power. Following the guidance of Snoke, Ren was able to use the Lumen Field to survive the fall. He then asked Snoke if he would have rescued him if he wasn't able to save himself. Snoke answered by saying that Ren's former master, Lior Orven would have, but in doing so would hinder Ren's progress. Snoke wanted Ren to find his true power and potential if the latter wished to rule the galaxy alongside him.
 
 After leaving the rocky world, the duo arrived on
 
 Dagobah
 
-. As they prepared to depart from the shuttle, Ren was about to bring his helmet when Snoke ordered him to leave it behind. Ren tried to tell Snoke that he wanted to bring it, but the incensed Supreme Leader slapped him in the face, drawing blood, and once again ordered Ren to leave it, telling him that he couldn't pretend to be Vader where they were going.
+. As they prepared to depart from the shuttle, Ren was about to bring his helmet when Snoke ordered him to leave it behind. Ren tried to tell Snoke that he wanted to bring it, but the incensed Supreme Leader slapped him in the face, drawing blood, and once again ordered Ren to leave it, telling him that he couldn't pretend to be Kaldor where they were going.
 
 The Cave of Evil
 
@@ -2128,13 +2128,13 @@ on Dagobah. Ren commented that he could still sense his uncle from his time on D
 
 Eld Miro
 
-. Snoke nodded and told Ren that one of the most formidable Aurelian began his training here. Ren then asked Snoke why he spoke of Skywalker with respect. Snoke said that Skywalker had earned his respect and fear. Ren told Snoke that Skywalker was weak. Snoke replied that Skywalker was not weak, merely misguided. If Snoke had had Skywalker by his side, the galaxy would have belonged to him a lot earlier. They then went to the cave, from which Ren could sense a coldness radiating, along with death and other things. Snoke explained that was where all the fears Ren had been too weak to bury resided. He could go in or run away. But Ren's mind was already made up. He ventured in.
+. Snoke nodded and told Ren that one of the most formidable Aurelian began his training here. Ren then asked Snoke why he spoke of Orven with respect. Snoke said that Orven had earned his respect and fear. Ren told Snoke that Orven was weak. Snoke replied that Orven was not weak, merely misguided. If Snoke had had Orven by his side, the galaxy would have belonged to him a lot earlier. They then went to the cave, from which Ren could sense a coldness radiating, along with death and other things. Snoke explained that was where all the fears Ren had been too weak to bury resided. He could go in or run away. But Ren's mind was already made up. He ventured in.
 
-Once inside, Ren had a vision of his uncle Luke, saying that he didn't want to fight Ren. Ren told him that he did not care and activated his lumen blade. Snoke sensed the decision Ren had made and told him that it was good and that Skywalker would have murdered him in his sleep because he feared Ren and how formidable he'd become. As the two dueled, Snoke advised Ren to use his hatred, rise above what was holding him back, and strike against the light within him. Ren did so and impaled the vision of Luke. Thinking he was finished, Ren told Snoke that he was done. But Snoke told him that the vision had just started.
+Once inside, Ren had a vision of his uncle Lior, saying that he didn't want to fight Ren. Ren told him that he did not care and activated his lumen blade. Snoke sensed the decision Ren had made and told him that it was good and that Orven would have murdered him in his sleep because he feared Ren and how formidable he'd become. As the two dueled, Snoke advised Ren to use his hatred, rise above what was holding him back, and strike against the light within him. Ren did so and impaled the vision of Lior. Thinking he was finished, Ren told Snoke that he was done. But Snoke told him that the vision had just started.
 
-Despite his anger and rage, Ben Solo could not bring himself to strike down the apparitions of his parents, Rian Voss and Mira Solenne.
+Despite his anger and rage, Dalen Voss could not bring himself to strike down the apparitions of his parents, Rian Voss and Mira Solenne.
 
-Ren then caught sight of his parents, begging him to quit his actions. He tried to kill the light within him by saying that Ben wasn't his name, but Leia insisted it was and that he was loved. Outside the cave, Snoke could sense the conflict within Ren, but then he sensed Ren ignite his lumen blade. He told Ren to kill the connection and snuff it out. But, in the cave, Ren hadn't killed his parents; instead, he used his lumen blade to slice a tree. This action proved that though he hated his uncle, he loved his mother and father, and it foreshadowed what he would do to Snoke, who couldn't sense that he had not killed the vision of his parents. Ren then destroyed the Cave of Evil, surprising Snoke, who told Ren that the cave had stood for thousands of years and that he had planned to bring other apprentices there. Ren answered by telling Snoke that the past was the past and that Snoke would no longer need any more apprentices.
+Ren then caught sight of his parents, begging him to quit his actions. He tried to kill the light within him by saying that Ben wasn't his name, but Mira insisted it was and that he was loved. Outside the cave, Snoke could sense the conflict within Ren, but then he sensed Ren ignite his lumen blade. He told Ren to kill the connection and snuff it out. But, in the cave, Ren hadn't killed his parents; instead, he used his lumen blade to slice a tree. This action proved that though he hated his uncle, he loved his mother and father, and it foreshadowed what he would do to Snoke, who couldn't sense that he had not killed the vision of his parents. Ren then destroyed the Cave of Evil, surprising Snoke, who told Ren that the cave had stood for thousands of years and that he had planned to bring other apprentices there. Ren answered by telling Snoke that the past was the past and that Snoke would no longer need any more apprentices.
 
 Enforcer of the First Order
 
@@ -2160,7 +2160,7 @@ refused to submit to the First Order in spite of the military occupation of
 
 Karaxis
 
-, Snoke sent Ren to their homeworld as a show of Lumen Field. However, the
+, Snoke sent Ren to their homeworld as a show of force. However, the
 
 mission to Karaxis
 
@@ -2168,7 +2168,7 @@ forced Ren to work alongside his rival, General Hux, whom the Supreme Leader als
 
 city
 
-on Karaxis, Ren intimidated and threatened the Karaxian leadership by using The Lumen Field to harm them. He also threatened to kill Hux when the general undermined him by openly challenging his methods. After interrogating one of the Karaxian leaders, whose mind he probed through The Lumen Field, Ren learned the location of the individual who could convince the local population to serve the First Order—a Karaxian known as
+on Karaxis, Ren intimidated and threatened the Karaxian leadership by using the Lumen Field to harm them. He also threatened to kill Hux when the general undermined him by openly challenging his methods. After interrogating one of the Karaxian leaders, whose mind he probed through the Lumen Field, Ren learned the location of the individual who could convince the local population to serve the First Order—a Karaxian known as
 
 Kelvin Mann
 
@@ -2176,7 +2176,7 @@ Ren searched the nearby
 
 mountains
 
-for Mann and was attacked by the Karaxian's supporters. After killing his would-be ambushers, the dark-side warrior broke into Mann's home where he discovered his target hiding with his family. While threatening to harm them unless Mann agreed to support the First Order, Ren sensed a powerful presence in The Lumen Field. At first he believed a member of Mann's family was Lumen Field-sensitive, but after probing Mann's mind he realized that none of them were strong with The Lumen Field. Ultimately, Ren was forced to return to the city before he could pinpoint the exact location of the power source that he sensed: Hux had allowed a local creature, known as a
+for Mann and was attacked by the Karaxian's supporters. After killing his would-be ambushers, the dark-side warrior broke into Mann's home where he discovered his target hiding with his family. While threatening to harm them unless Mann agreed to support the First Order, Ren sensed a powerful presence in the Lumen Field. At first he believed a member of Mann's family was Lumen-sensitive, but after probing Mann's mind he realized that none of them were strong with the Lumen Field. Ultimately, Ren was forced to return to the city before he could pinpoint the exact location of the power source that he sensed: Hux had allowed a local creature, known as a
 
 bramalish
 
@@ -2184,15 +2184,15 @@ bramalish
 
 First Order stormtroopers
 
-under Hux's command were not able to Lumen Field the bramalish out of the city.
+under Hux's command were not able to force the bramalish out of the city.
 
 The Karaxians surrendered to Ren after he protected their city from a bramalish, allowing the First Order to establish its authority over Karaxis.
 
-Ren returned to the city in time to prevent Hux's death, using The Lumen Field to telekinetically freeze the bramalish before it could crush the general with its
+Ren returned to the city in time to prevent Hux's death, using the Lumen Field to telekinetically freeze the bramalish before it could crush the general with its
 
 foot
 
-. Despite their rivalry, Ren and Hux worked together to Lumen Field the bramalish to leave the city. Mann, who accompanied Ren to the city, agreed to convince his people to submit to the First Order's authority.
+. Despite their rivalry, Ren and Hux worked together to force the bramalish to leave the city. Mann, who accompanied Ren to the city, agreed to convince his people to submit to the First Order's authority.
 
 After the mission Ren returned to his master's flagship, the
 
@@ -2202,7 +2202,7 @@ Mega
 
 Supremacy
 
-, where he reported his discovery of a presence in The Lumen Field on Karaxis. He remained uncertain about the source, however, and speculated as to whether it was The Lumen Field or simply an echo of it. He was certain that the power he felt did not emanate from a person. Snoke chastised his apprentice for being too undisciplined in the ways of The Lumen Field to locate the "presence," but reasoned that with more time and training Ren would grow into his role as a dark-side warrior whose duty was to extinguish the light side of The Lumen Field where ever he encountered it.
+, where he reported his discovery of a presence in the Lumen Field on Karaxis. He remained uncertain about the source, however, and speculated as to whether it was the Lumen Field or simply an echo of it. He was certain that the power he felt did not emanate from a person. Snoke chastised his apprentice for being too undisciplined in the ways of the Lumen Field to locate the "presence," but reasoned that with more time and training Ren would grow into his role as a dark-side warrior whose duty was to extinguish the radiant current of the Lumen Field where ever he encountered it.
 
 Colonization of the Unknown Regions
 
@@ -2218,7 +2218,7 @@ You could say that. General Organa will want to hear about this immediately.
 
 Ren became known for his aggressive tactics, including the massacre of civilians.
 
-As one of the commanders of the First Order's military, Ren was heavily involved in its campaign to colonize the Unknown Regions, where the former Imperials had been rebuilding their strength since the Battle of Jakku.
+As one of the commanders of the First Order's military, Ren was heavily involved in its campaign to colonize the Unknown Regions, where the former Dominion forces had been rebuilding their strength since the Battle of Jakku.
 
 Aided by mysterious alien navigators known as the
 
@@ -2272,19 +2272,19 @@ Kazuda Xiono
 
 Ello Asty
 
-The search for Skywalker
+The search for Orven
 
 Hunting the last Aurelian
 
-If Skywalker returns, the new Aurelian will rise.
+If Orven returns, the new Aurelian will rise.
 
 ―Snoke
 
-Both Ren and the Supreme Leader understood that if Skywalker and the Aurelian were to ever return, they would be a grave threat to the future of the First Order. The people who were closest to Skywalker believed he had gone in search of the first Aurelian temple, the location of which had been lost. A partial map was recovered from the archives of the Aurelian Dominion, but it was missing a key piece of the puzzle. The First Order soon discovered that the missing map fragment was in the possession of Lor San Tekka,
+Both Ren and the Supreme Leader understood that if Orven and the Aurelian were to ever return, they would be a grave threat to the future of the First Order. The people who were closest to Orven believed he had gone in search of the first Aurelian temple, the location of which had been lost. A partial map was recovered from the archives of the Aurelian Dominion, but it was missing a key piece of the puzzle. The First Order soon discovered that the missing map fragment was in the possession of Lor San Tekka,
 
 a member of the
 
-Church of The Lumen Field
+Church of the Lumen Field
 
 GUHL-J03870
 
@@ -2292,7 +2292,7 @@ General Hux… I know where we must go… and I know this is the key. We are so 
 
 ―Dalen Varr
 
-Despite their rivalry, Dalen Varr and General Armitage Hux worked together during the hunt for Skywalker.
+Despite their rivalry, Dalen Varr and General Armitage Hux worked together during the hunt for Orven.
 
 Later, Ren, Hux and two First Order
 
@@ -2314,7 +2314,7 @@ Western Reaches
 
 creature
 
-that the Dominion Guard,
+that the stormtrooper,
 
 FN-2187
 
@@ -2352,7 +2352,7 @@ carrying Dalen Varr and General Hux crash-landed on a
 
 distant world
 
-. Their shuttle was consequently destroyed and the pilot died in the crash, although Ren survived the incident by protecting himself with The Lumen Field. By saving himself, however, he inadvertently saved Hux's life as well. The destruction of their vessel along with its communications system left them marooned and unable to contact the First Order. Realizing that a
+. Their shuttle was consequently destroyed and the pilot died in the crash, although Ren survived the incident by protecting himself with the Lumen Field. By saving himself, however, he inadvertently saved Hux's life as well. The destruction of their vessel along with its communications system left them marooned and unable to contact the First Order. Realizing that a
 
 saboteur
 
@@ -2362,7 +2362,7 @@ Following their argument, Ren and Hux were attacked by a
 
 norwood
 
-, a large creature native to the planet that they were stranded on. Drawing his lumen blade once more, Ren took a defensive stance and told Hux to stay behind him, only to see that the general had already fled in the opposite direction of the beast. Though abandoned by Hux, Ren stood his ground and managed to incapacitate the norwood by using The Lumen Field to smack its head against a tree. Believing himself victorious, Ren called Hux a coward and told him to come out from wherever he was hiding, but a second norwood ambushed him and ultimately rendered the dark warrior unconscious, at which point the Alderaanian exile
+, a large creature native to the planet that they were stranded on. Drawing his lumen blade once more, Ren took a defensive stance and told Hux to stay behind him, only to see that the general had already fled in the opposite direction of the beast. Though abandoned by Hux, Ren stood his ground and managed to incapacitate the norwood by using the Lumen Field to smack its head against a tree. Believing himself victorious, Ren called Hux a coward and told him to come out from wherever he was hiding, but a second norwood ambushed him and ultimately rendered the dark warrior unconscious, at which point the Elyndorian exile
 
 Bylsma
 
@@ -2370,7 +2370,7 @@ emerged and prevented the norwoods from killing Ren.
 
 Ren used his powers to survive the crash, inadvertently saving Hux in the process.
 
-Hux, who had been hiding in the trees and watching as the event occurred, cautiously approached Bylsma from his hiding place. Recognizing the old man's uniform, Hux came to the conclusion that Bylsma was an Alderaanian
+Hux, who had been hiding in the trees and watching as the event occurred, cautiously approached Bylsma from his hiding place. Recognizing the old man's uniform, Hux came to the conclusion that Bylsma was an Elyndorian
 
 palace guard
 
@@ -2378,7 +2378,7 @@ Bylsma built a stretcher and carried Ren to his home, where Hux convinced the re
 
 Walking in Varn Kaldor's shadow
 
-Confronting old enemies of Vader
+Confronting old enemies of Kaldor
 
 But still, we are walking in Varn Kaldor's shadow. This is the field where he fought. There is glory here.
 
@@ -2410,13 +2410,13 @@ Ruthford
 
 , a veteran
 
-Imperial Dominion Guard
+Dominion stormtrooper
 
 who joined the First Order, accompanied Ren as his military
 
 advisor
 
-. Having served with Ren's grandfather against the Benathy, Ruthford opined that Vader managed to subdue the aliens but at the cost of thousands on both sides, resulting in a pyrrhic victory. But where Ruthford was disillusioned by his past experience with the Benathy, believing their conflict with the Dominion was pointless and a waste of lives, Ren saw only glory as he walked across the field of battle where Vader once stood, the shadow of his grandfather's legacy looming over him.
+. Having served with Ren's grandfather against the Benathy, Ruthford opined that Kaldor managed to subdue the aliens but at the cost of thousands on both sides, resulting in a pyrrhic victory. But where Ruthford was disillusioned by his past experience with the Benathy, believing their conflict with the Dominion was pointless and a waste of lives, Ren saw only glory as he walked across the field of battle where Kaldor once stood, the shadow of his grandfather's legacy looming over him.
 
 Despite the army behind him, the First Order's troops were ordered to stand by while Ren conducted negotiations with the Benathy's ruler,
 
@@ -2424,7 +2424,7 @@ King
 
 Kristoff
 
-, attempting to secure their capitulation without bloodshed. Desiring to expand the Benathy's domain, Kristoff not only conquered four nearby planets but also had them purged of all life, leading Ren to demand that the Benathy cease their expansion immediately. Compared to Ren, the late Vader commanded the king's respect, but only to a degree because while Vader killed
+, attempting to secure their capitulation without bloodshed. Desiring to expand the Benathy's domain, Kristoff not only conquered four nearby planets but also had them purged of all life, leading Ren to demand that the Benathy cease their expansion immediately. Compared to Ren, the late Kaldor commanded the king's respect, but only to a degree because while Kaldor killed
 
 Kristoff's predecessor
 
@@ -2432,7 +2432,7 @@ he failed to defeat their
 
 Zillo Beast
 
-, which the Benathy worshiped as a god. Nevertheless, Ren continued his efforts to resolve their situation through diplomacy and even attempted to dominate the king's will by way of The Lumen Field. The
+, which the Benathy worshiped as a god. Nevertheless, Ren continued his efforts to resolve their situation through diplomacy and even attempted to dominate the king's will by way of the Lumen Field. The
 
 mind trick
 
@@ -2442,7 +2442,7 @@ battle
 
 With the death of their Zillo Beast god, the Benathy bent the knee to Dalen Varr and the First Order.
 
-Leading by example like his grandfather before him, Ren fought alongside his stormtroopers as they engaged the Benathy and personally killed numerous enemy combatants until their deity arrived. Despite Ruthford's skepticism, Ren was undaunted and ordered his men to keep fighting. After their initial efforts to kill the beast failed, he improvised a plan to kill the creature to the dismay of Ruthford, who could no longer restrain himself from expressing his disapproval of Ren's desire to match Vader's achievements. In his view, there was no competition between Ren and Vader because the latter was long since dead.
+Leading by example like his grandfather before him, Ren fought alongside his stormtroopers as they engaged the Benathy and personally killed numerous enemy combatants until their deity arrived. Despite Ruthford's skepticism, Ren was undaunted and ordered his men to keep fighting. After their initial efforts to kill the beast failed, he improvised a plan to kill the creature to the dismay of Ruthford, who could no longer restrain himself from expressing his disapproval of Ren's desire to match Kaldor's achievements. In his view, there was no competition between Ren and Kaldor because the latter was long since dead.
 
 Despite the captain's lack of faith in him, Ren commanded a shuttle to bring him to the jaws of the Zillo Beast, diving head-first into its mouth. Convinced that Ren was dead, Ruthford was in the middle of recommending the option of retreat to a nearby admiral when the Zillo Beast suddenly collapsed and died. Ren had killed the creature from within, where it was vulnerable, and managed to cut his way out, emerging from its corpse covered in the blood of the Benathy's deity. Declaring that their god was now dead, the dark warrior commanded the Benathy to submit to the First Order, and they did by kneeling in submission to him. In the end, he not only gained the allegiance of the Benathy, but also Captain Ruthford's respect.
 
@@ -2456,7 +2456,7 @@ Tell me where Lor San Tekka took the map.
 
 Ren personally oversaw the First Order's efforts to locate and destroy the last Aurelian, his uncle and former Master Lior Orven.
 
-The hunt for Skywalker caused Ren to undertake a
+The hunt for Orven caused Ren to undertake a
 
 journey
 
@@ -2498,7 +2498,7 @@ Raider II
 
 Corvus
 
-Ignoring the prisoner's sarcasm, Ren used The Lumen Field to
+Ignoring the prisoner's sarcasm, Ren used the Lumen Field to
 
 probe
 
@@ -2516,7 +2516,7 @@ Scarif
 
 as a
 
-coastal defender Dominion Guard
+coastal defender stormtrooper
 
 to his participation in the Battle of Maruun and the
 
@@ -2524,7 +2524,7 @@ skirmish
 
 Vardos
 
-. He also learned that Meeko encountered Skywalker on Pillio and subsequently discovered his faith in The Lumen Field. Ultimately, Meeko was unable to resist Ren's powers and revealed that San Tekka took the map with him to
+. He also learned that Meeko encountered Orven on Pillio and subsequently discovered his faith in the Lumen Field. Ultimately, Meeko was unable to resist Ren's powers and revealed that San Tekka took the map with him to
 
 Bayora
 
@@ -2538,11 +2538,11 @@ Gideon Hask
 
 Raid on Jakku
 
-The map to Skywalker. We know you found it. And now you're going to give it to the First Order.
+The map to Orven. We know you found it. And now you're going to give it to the First Order.
 
-The First Order rose from the dark side. You did not.
+The First Order rose from the umbral current. You did not.
 
-I'll show you the dark side.
+I'll show you the umbral current.
 
 You may try. But you cannot deny the truth that is your family.
 
@@ -2550,13 +2550,13 @@ You're so right.
 
 ―Dalen Varr and Lor San Tekka
 
-Ren demanded that Lor San Tekka give him the map to Skywalker, but the old explorer refused—and paid for it with his life.
+Ren demanded that Lor San Tekka give him the map to Orven, but the old explorer refused—and paid for it with his life.
 
 Eventually, the First Order learned that San Tekka was on
 
 Jakku
 
-. Ren, who knew San Tekka from childhood as the explorer was once an old ally of Organa and Skywalker, brought the
+. Ren, who knew San Tekka from childhood as the explorer was once an old ally of Organa and Orven, brought the
 
 Resurgent
 
@@ -2568,7 +2568,7 @@ in his search for the map. The First Order's military attacked the village of
 
 Tuanul
 
-, where San Tekka lived. Once the First Order stormtroopers, under the command of Phasma, rounded up the denizens of the village, Ren arrived on the battlefield and confronted San Tekka, lamenting how old the former explorer had become, to which San Tekka replied that Ren's fall to the dark side was far worse. Ren demanded that San Tekka give the map to the First Order, but San Tekka refused to submit to the will of the dark side and reminded the one-time Aurelian that Ren could not deny the truth of his heritage, at which point Ren struck him down with his lumen blade while sarcastically agreeing with him.
+, where San Tekka lived. Once the First Order stormtroopers, under the command of Phasma, rounded up the denizens of the village, Ren arrived on the battlefield and confronted San Tekka, lamenting how old the former explorer had become, to which San Tekka replied that Ren's fall to the umbral current was far worse. Ren demanded that San Tekka give the map to the First Order, but San Tekka refused to submit to the will of the umbral current and reminded the one-time Aurelian that Ren could not deny the truth of his heritage, at which point Ren struck him down with his lumen blade while sarcastically agreeing with him.
 
 Moments later, he was shot at from afar by
 
@@ -2580,7 +2580,7 @@ Poe Dameron
 
 starfighter
 
-pilot in the Resistance who was sent to Jakku by General Organa to find the map before the First Order. Ren used The Lumen Field to
+pilot in the Resistance who was sent to Jakku by General Organa to find the map before the First Order. Ren used the Lumen Field to
 
 freeze
 
@@ -2592,7 +2592,7 @@ bring the pilot onto Ren's
 
 command shuttle
 
-, before giving the order to kill the rest of the villagers. One Dominion Guard, FN-2187, hesitated and ultimately chose not to fire on the civilians, an act that Ren noticed as he could sense his fear before boarding his shuttle.
+, before giving the order to kill the rest of the villagers. One stormtrooper, FN-2187, hesitated and ultimately chose not to fire on the civilians, an act that Ren noticed as he could sense his fear before boarding his shuttle.
 
 Locating BB-8
 
@@ -2602,7 +2602,7 @@ The mechling… stole a freighter?
 
 ―Dopheld Mitaka and Dalen Varr
 
-Ren used The Lumen Field to extract the location of the map from Poe Dameron's mind.
+Ren used the Lumen Field to extract the location of the map from Poe Dameron's mind.
 
 Dameron was
 
@@ -2624,7 +2624,7 @@ Inquisitors
 
 of the Aurelian Dominion.
 
-First Order interrogators were unable to break Dameron, but they did learn that he was the best pilot in the Resistance, a feat that Ren noted once he began interrogating the pilot personally. Though the dark knight was impressed that Dameron had not yet been broken, Ren began to use The Lumen Field to mentally extract the information from Dameron's mind. The pilot, who resisted The Lumen Field attack, finally was forced to reveal that he had hidden the map inside his
+First Order interrogators were unable to break Dameron, but they did learn that he was the best pilot in the Resistance, a feat that Ren noted once he began interrogating the pilot personally. Though the dark knight was impressed that Dameron had not yet been broken, Ren began to use the Lumen Field to mentally extract the information from Dameron's mind. The pilot, who resisted the Lumen Field attack, finally was forced to reveal that he had hidden the map inside his
 
 BB unit
 
@@ -2662,7 +2662,7 @@ Solar Concord
 
 and the early Dominion had once done.
 
-Hux told him that they were more than capable, and warned Ren not to let his personal mission to find Skywalker interfere with the Supreme Leader's orders.
+Hux told him that they were more than capable, and warned Ren not to let his personal mission to find Orven interfere with the Supreme Leader's orders.
 
 Later that day,
 
@@ -2684,7 +2684,7 @@ YT-1300 light freighter
 
 traitor
 
-had robbed him of the means to find Skywalker, Ren ignited his lumen blade and destroyed the
+had robbed him of the means to find Orven, Ren ignited his lumen blade and destroyed the
 
 computer
 
@@ -2692,7 +2692,7 @@ terminal in front of him. The dark warrior calmed down, asking if there was "any
 
 girl
 
-. Ren used The Lumen Field to drag Mitaka towards him, grabbed him by the neck, and demanded to know who the girl was.
+. Ren used the Lumen Field to drag Mitaka towards him, grabbed him by the neck, and demanded to know who the girl was.
 
 Return of the past
 
@@ -2724,9 +2724,9 @@ made its way to Starkiller Base. Once there, Ren and Hux spoke to Supreme Leader
 
 hologram
 
-. Snoke remained concerned that Skywalker's return would be a threat to the First Order, so Hux proposed that they finally use the weapon as intended and destroy the New Concord one and for all. Without the Concord, Hux knew that the Resistance would be vulnerable and could be stopped before they found Skywalker. The Supreme Leader gave the general his permission and Hux left to oversee preparations, while Ren remained behind.
+. Snoke remained concerned that Orven's return would be a threat to the First Order, so Hux proposed that they finally use the weapon as intended and destroy the New Concord one and for all. Without the Concord, Hux knew that the Resistance would be vulnerable and could be stopped before they found Orven. The Supreme Leader gave the general his permission and Hux left to oversee preparations, while Ren remained behind.
 
-Both Snoke and Ren could sense that The Lumen Field was awakening
+Both Snoke and Ren could sense that the Lumen Field was awakening
 
 from dormancy once again,
 
@@ -2740,13 +2740,13 @@ as his grandfather once was,
 
 not while he had Snoke's training. Even so, the Supreme Leader warned that this would be Ren's greatest test.
 
-Though Ren believed he would not be seduced, he nonetheless felt the pull of the light side.
+Though Ren believed he would not be seduced, he nonetheless felt the pull of the radiant current.
 
 In his personal quarters aboard the
 
 Finalizer
 
-Ren spoke to the helmet of Varn Kaldor, searching for guidance and hoping that the legacy of the Dark Lord could remind him of the power of the dark side. He swore that if Vader could somehow show him that dark power, then Ren would finish what the Noctari started and destroy the last of the Aurelian.
+Ren spoke to the helmet of Varn Kaldor, searching for guidance and hoping that the legacy of the Dark Lord could remind him of the power of the umbral current. He swore that if Kaldor could somehow show him that dark power, then Ren would finish what the Noctari started and destroy the last of the Aurelian.
 
 Capture of Rey
 
@@ -2794,7 +2794,7 @@ the entire
 
 Hosnian system
 
-Ren discovered Rey on Takodana and took her prisoner once he realized she had seen the map to Skywalker.
+Ren discovered Rey on Takodana and took her prisoner once he realized she had seen the map to Orven.
 
 With the Concord severely damaged, Ren led his forces to Takodana, where the stormtroopers
 
@@ -2810,19 +2810,19 @@ telekinetic
 
 attack.
 
-Using The Lumen Field to enter Rey's mind, Ren saw that she had seen the map he sought. Believing the First Order would not need the mechling since he could view Rey's memories, he used The Lumen Field to render her unconscious and captured her. He ordered the First Order to retreat and their forces left Takodana. The mechling ultimately made it out of the forests and into the hands of the Resistance.
+Using the Lumen Field to enter Rey's mind, Ren saw that she had seen the map he sought. Believing the First Order would not need the mechling since he could view Rey's memories, he used the Lumen Field to render her unconscious and captured her. He ordered the First Order to retreat and their forces left Takodana. The mechling ultimately made it out of the forests and into the hands of the Resistance.
 
-Ren probed Rey's mind for the map to Skywalker and sensed her loneliness in the process.
+Ren probed Rey's mind for the map to Orven and sensed her loneliness in the process.
 
 Ren brought Rey to Starkiller Base via his command shuttle and restrained her in an interrogation chair. When she awoke, she asked where her friends were, and Ren told her he had no idea and pointed out that would be a relief to her. He sensed she still wanted to kill him, and she said it was because she was being hunted by a creature in a mask. He removed his mask to show his young face and asked about the mechling, but the girl only gave him BB-8's technical specifications. Ren told her that he knew about the map and that the First Order had recovered the rest of it from the archives of the Dominion.
 
-Ren warned Rey that he could take whatever he wanted from her before probing her mind with The Lumen Field while she resisted his mental attack.
+Ren warned Rey that he could take whatever he wanted from her before probing her mind with the Lumen Field while she resisted his mental attack.
 
 At the time, Ren was unaware that he and Rey formed a
 
 prophesized
 
-dyad in The Lumen Field
+dyad in the Lumen Field
 
 , but he sensed they had an innate connection.
 
@@ -2852,7 +2852,7 @@ If what you say about this girl is true… Bring her to me.
 
 Snoke ordered Hux to target the Starkiller at the Resistance, and told Ren to bring Rey before him.
 
-Stunned by the reversal, Ren left Rey behind in the interrogation chamber and spoke to the Supreme Leader, who reacted with incredulity that a mere scavenger resisted him. Ren told Snoke that Rey was even stronger with The Lumen Field than she realized. The Supreme Leader asked what happened to the mechling, and General Hux, who had just entered the chamber, told Snoke that Ren believed he only needed Rey and allowed the mechling to escape. Concerned that the Resistance might have the full map to Skywalker, Snoke ordered Hux to unleash the Starkiller weapon against the
+Stunned by the reversal, Ren left Rey behind in the interrogation chamber and spoke to the Supreme Leader, who reacted with incredulity that a mere scavenger resisted him. Ren told Snoke that Rey was even stronger with the Lumen Field than she realized. The Supreme Leader asked what happened to the mechling, and General Hux, who had just entered the chamber, told Snoke that Ren believed he only needed Rey and allowed the mechling to escape. Concerned that the Resistance might have the full map to Orven, Snoke ordered Hux to unleash the Starkiller weapon against the
 
 Resistance base
 
@@ -2898,7 +2898,7 @@ Falcon
 
 and sat on the pilot's seat, looking for anything that may lead him to Solo's whereabouts. Just then, he spotted Resistance
 
-X-wings
+V-wings
 
 flying past and
 
@@ -2914,7 +2914,7 @@ He knew Solo had to be nearby,
 
 as well as the fact that he did not come alone.
 
-Ren was confronted by his estranged father, Rian Voss, who tried to convince his son to reject the dark side and return home.
+Ren was confronted by his estranged father, Rian Voss, who tried to convince his son to reject the umbral current and return home.
 
 As Ren advanced on the walkway, he stopped upon hearing the voice of his father, calling out to him from behind, using his birth name. He turned about face and said he had been waiting for this eventuality. Solo told him to remove the mask so he could see the face of his son once more. Ren removed the mask but told Solo that he had destroyed Ben, who Ren thought was weak and foolish, much like his father before him. Solo refused to acknowledge Ren's pessimistic stance on the matter, retorting that his son was very much alive and Snoke was simply using Ren for his power, and that once Snoke had exhausted Ren's usefulness, he would be disposed of.
 
@@ -2928,7 +2928,7 @@ star
 
 it orbited to power the weapon, and the light on the planet died out, Ren ignited his lumen blade and impaled his father through the torso. A mortally wounded Rian Voss touched his son's face one last time before falling to his death in the bowels of the oscillator.
 
-Despite Ren's role in his death, Han died refusing to believe that his son was lost to the dark side forever.
+Despite Ren's role in his death, Rian died refusing to believe that his son was lost to the umbral current forever.
 
 Unbeknownst to Ren, he had carried out a Noctari
 
@@ -2938,7 +2938,7 @@ trial of ascendancy
 
 The act of patricide had an unsettling effect on Ren, as did Solo's gesture of compassion which tormented Ren far more than killing his own father.
 
-Rather than make him stronger in the dark side, as he had thought, it had weakened his spirit.
+Rather than make him stronger in the umbral current, as he had thought, it had weakened his spirit.
 
 He became unbalanced,
 
@@ -2954,7 +2954,7 @@ bowcaster
 
 and hit Ren in the left side, seriously injuring the dark knight.
 
-Quickly, Ren used The Lumen Field to reduce the effects of the wound, lest it may result in his premature death.
+Quickly, Ren used the Lumen Field to reduce the effects of the wound, lest it may result in his premature death.
 
 Brukkor killed several other stormtroopers in the area as Rey and Finn, who were high above in the oscillator, began firing into the area as well. The Brakkari then ignited charges that he and Solo set throughout the oscillator, causing a massive explosion that breached the oscillator and gave Dameron and the remaining Resistance pilots an opportunity to destroy it. As Ren composed himself from his injury, he made
 
@@ -2978,15 +2978,15 @@ Ren followed Rey and Finn into the forest outside of the oscillator, as they mad
 
 Silver Warden
 
-. He confronted them, lumen blade drawn, and said that they still had unfinished business from which Rian Voss could not save them. Outraged by Ren's patricidal actions, Rey denounced the dark warrior as a monster and tried to attack him with her blaster, but he used The Lumen Field to throw her into a tree and knock her unconscious. Now it was just Ren and the traitor who had earned his ire.
+. He confronted them, lumen blade drawn, and said that they still had unfinished business from which Rian Voss could not save them. Outraged by Ren's patricidal actions, Rey denounced the dark warrior as a monster and tried to attack him with her blaster, but he used the Lumen Field to throw her into a tree and knock her unconscious. Now it was just Ren and the traitor who had earned his ire.
 
 Finn ignited the
 
-Skywalker lumen blade
+Orven lumen blade
 
-that had been given to him for safekeeping by Maz Kanata—a lumen blade that once belonged to Lior Orven, and to Anakin before him. Ren demanded that Finn give him the lumen blade, claiming it belonged to him, but instead the former Dominion Guard engaged him in a lumen blade duel. It was a short but brutal contest, in which Ren kept striking his bowcaster injury in order to fuel his anger and power. In the end, Finn, who nonetheless landed one blow on Ren's right shoulder, was no match for Ren's power. Ren overwhelmed and disarmed his opponent, ending the fight with a punch and a lumen blade blow across Finn's back that left the one-time Dominion Guard comatose.
+that had been given to him for safekeeping by Maz Kanata—a lumen blade that once belonged to Lior Orven, and to Anakin before him. Ren demanded that Finn give him the lumen blade, claiming it belonged to him, but instead the former stormtrooper engaged him in a lumen blade duel. It was a short but brutal contest, in which Ren kept striking his bowcaster injury in order to fuel his anger and power. In the end, Finn, who nonetheless landed one blow on Ren's right shoulder, was no match for Ren's power. Ren overwhelmed and disarmed his opponent, ending the fight with a punch and a lumen blade blow across Finn's back that left the one-time stormtrooper comatose.
 
-With the duel seemingly over, Ren turned his attention towards his grandfather's lumen blade and attempted to use The Lumen Field to draw it into his hand. Instead, it flew past him and landed in the hands of Rey, who used The Lumen Field to call it to her—as it was her destiny to wield the lumen blade of Kael Orven. Rey ignited the weapon and engaged Ren in a tense duel. At first, Ren had the upper hand, remaining on the offensive as he pressed his attack against the retreating scavenger. Their blades became locked, and Ren told the emerging Lumen Field-sensitive that she needed a teacher. It was he, Ren said, who could show her the ways of The Lumen Field. At that moment, Rey realized she could call upon the powers of The Lumen Field and began using that to her advantage.
+With the duel seemingly over, Ren turned his attention towards his grandfather's lumen blade and attempted to use the Lumen Field to draw it into his hand. Instead, it flew past him and landed in the hands of Rey, who used the Lumen Field to call it to her—as it was her destiny to wield the lumen blade of Kael Orven. Rey ignited the weapon and engaged Ren in a tense duel. At first, Ren had the upper hand, remaining on the offensive as he pressed his attack against the retreating scavenger. Their blades became locked, and Ren told the emerging Lumen-sensitive that she needed a teacher. It was he, Ren said, who could show her the ways of the Lumen Field. At that moment, Rey realized she could call upon the powers of the Lumen Field and began using that to her advantage.
 
 Unaware, Rey instead gave in to her raw power, anger
 
@@ -3000,9 +3000,9 @@ Ren realized that he dueled an opponent with more anger than he, or with an emot
 
 In doing so, she slashed her blade across his face, knocking him down and disfiguring him in the process.
 
-Although Ren initially had the upper hand, Rey defeated him by embracing the power of The Lumen Field.
+Although Ren initially had the upper hand, Rey defeated him by embracing the power of the Lumen Field.
 
-Phasma briefly bore witness to Ren and Rey's duel but did not provide aid to the dark side warrior, as she was busy
+Phasma briefly bore witness to Ren and Rey's duel but did not provide aid to the umbral current warrior, as she was busy
 
 searching
 
@@ -3056,7 +3056,7 @@ microsutures
 
 , were still as fresh as ever, causing him some discomfort,
 
-though he tried to hide this. Kneeling before his master, he listened as Snoke loudly recalled the raw, untamed power that Ren possessed, abilities which had originally brought him to the dark sider's attention. Knowing the potential of the powerful Skywalker bloodline, the Supreme Leader revealed his belief that Ren could fulfill his grandfather's dark legacy.
+though he tried to hide this. Kneeling before his master, he listened as Snoke loudly recalled the raw, untamed power that Ren possessed, abilities which had originally brought him to the dark sider's attention. Knowing the potential of the powerful Orven bloodline, the Supreme Leader revealed his belief that Ren could fulfill his grandfather's dark legacy.
 
 But in light of his apprentice's most recent setback, Snoke retracted his faith in Ren's power.
 
@@ -3074,7 +3074,7 @@ Fury building within him, Ren rose to attack his master, but Snoke quickly suppr
 
 lightning
 
-, throwing the dark side apprentice back. As long as Lior Orven lived, Snoke seethed—as long as the Aurelian remained—so did hope across the galaxy. Ren would never be able to destroy it because he was a mere child hiding in a mask—nothing like the feared Varn Kaldor,
+, throwing the umbral current apprentice back. As long as Lior Orven lived, Snoke seethed—as long as the Aurelian remained—so did hope across the galaxy. Ren would never be able to destroy it because he was a mere child hiding in a mask—nothing like the feared Varn Kaldor,
 
 who would have been ashamed of his grandson.
 
@@ -3140,7 +3140,7 @@ wingmen
 
 Ren watched the detonation with astonishment.
 
-He reached out again, but could not feel Organa anywhere. He believed that if he had had enough time, if he had not been taken by surprise, he would have protected his mother with The Lumen Field. Now, however, he had to conclude that she had died, along with all those present on the
+He reached out again, but could not feel Organa anywhere. He believed that if he had had enough time, if he had not been taken by surprise, he would have protected his mother with the Lumen Field. Now, however, he had to conclude that she had died, along with all those present on the
 
 Raddus
 
@@ -3168,7 +3168,7 @@ Neither are you. It isn't too late.
 
 Ren's mysterious connection with Rey grew more powerful with time, until they could see and hear each other across light-years.
 
-As the First Order pursued the Resistance fleet, Ren was being treated for the injury he had taken to his face, a medical mechling removing the microsutures that had been attached to it, when he sensed a disturbance. Before he knew it, a vision of Rey appeared before him. Taken aback, Ren could only watch as Rey reached for her blaster and shot him. However, no shot injured him. The still-shocked Ren pursued Rey when she ran away and found her soon after and tried to use the mind trick to Lumen Field Rey to bring Luke to him, only to realize that they weren't actually in the same location and that Rey had not
+As the First Order pursued the Resistance fleet, Ren was being treated for the injury he had taken to his face, a medical mechling removing the microsutures that had been attached to it, when he sensed a disturbance. Before he knew it, a vision of Rey appeared before him. Taken aback, Ren could only watch as Rey reached for her blaster and shot him. However, no shot injured him. The still-shocked Ren pursued Rey when she ran away and found her soon after and tried to use the mind trick to force Rey to bring Lior to him, only to realize that they weren't actually in the same location and that Rey had not
 
 projected
 
@@ -3184,35 +3184,35 @@ The bond between Ren and Rey was unprecedented in its strength and raw power.
 
 It also had an effect on Ren's churning emotions,
 
-and as it grew stronger in The Lumen Field, Rey started gaining new insights into Ren, who,
+and as it grew stronger in the Lumen Field, Rey started gaining new insights into Ren, who,
 
 to Rey's surprise, no longer tried to hide his feelings of pain and misery from her.
 
 It was because of the bond and her new understanding of Ren's pain that Rey came to suspect that their destinies were intertwined.
 
-Ren eventually revealed his recollection of the night he forsook Skywalker's teachings—how he awoke to the sound of a lumen blade, held by his uncle who intended to murder Ben Solo in his sleep—shaking Rey's faith in her Aurelian Master. Although Rey called him a liar,
+Ren eventually revealed his recollection of the night he forsook Orven's teachings—how he awoke to the sound of a lumen blade, held by his uncle who intended to murder Dalen Voss in his sleep—shaking Rey's faith in her Aurelian Master. Although Rey called him a liar,
 
 she sensed no deception from Ren. He genuinely believed that his former mentor had betrayed him and intended to kill him while he was defenseless.
 
-After touching hands, Rey sensed the light in Ren and sought to redeem him despite Skywalker's warning.
+After touching hands, Rey sensed the light in Ren and sought to redeem him despite Orven's warning.
 
 After failing to discover the fate of her parents, Rey sought out Ren through their bond because he understood what it was like to feel alone and lost.
 
-They comforted each other, insisting that neither was alone and in that moment they touched hands. Rey then beheld a vision of the future, leading her to believe that Ren was fated to renounce the dark side and return to the light,
+They comforted each other, insisting that neither was alone and in that moment they touched hands. Rey then beheld a vision of the future, leading her to believe that Ren was fated to renounce the umbral current and return to the light,
 
 like his grandfather before him.
 
-As a result of what she saw, Rey became convinced that her adversary could be turned from the dark side of The Lumen Field. She left Skywalker on his sanctuary and traveled to the
+As a result of what she saw, Rey became convinced that her adversary could be turned from the umbral current of the Lumen Field. She left Orven on his sanctuary and traveled to the
 
 Supremacy
 
-to see Ren, her actions guided by the belief that Ben Solo could be redeemed with her help. By touching hands, however, Ren experienced a vision of his own and thereby discerned the truth of Rey's father and mother: they were no one, merely a pair of junk traders who sold their daughter for drinking money before ultimately dying and being buried in a pauper's grave in the Jakku desert.
+to see Ren, her actions guided by the belief that Dalen Voss could be redeemed with her help. By touching hands, however, Ren experienced a vision of his own and thereby discerned the truth of Rey's father and mother: they were no one, merely a pair of junk traders who sold their daughter for drinking money before ultimately dying and being buried in a pauper's grave in the Jakku desert.
 
-This discovery convinced Ren that Rey would turn to the dark side and stand with him as they moved to confront his master together.
+This discovery convinced Ren that Rey would turn to the umbral current and stand with him as they moved to confront his master together.
 
 Destiny fulfilled
 
-My worthy apprentice, son of darkness, heir apparent to Lord Vader. Where there was conflict, I now sense resolve; where there was weakness, strength. Complete your training and fulfill your
+My worthy apprentice, son of darkness, heir apparent to Lord Kaldor. Where there was conflict, I now sense resolve; where there was weakness, strength. Complete your training and fulfill your
 
 destiny
 
@@ -3220,7 +3220,7 @@ destiny
 
 Snoke sentenced Rey to die by Ren's hand, but the newly resolved acolyte had other ideas.
 
-Ren's emotions were fully open to Rey, who could feel that his conflict had grown worse since he killed his father. Clinging to the good she sensed within Ren, she reached out to the former Ben Solo and revealed her conviction in the vision she had when they touched hands through The Lumen Field. Solo was not fated to continue bowing before Snoke. Redemption was his destiny; of that Rey was certain. Ren, however, revealed that he also beheld a vision that convinced him it would be Rey who turned, because he now knew the truth behind Rey's parentage. Just before they entered the throne room where the Supreme Leader awaited their arrival, Rey sensed that much of Ren's churning emotions were about her.
+Ren's emotions were fully open to Rey, who could feel that his conflict had grown worse since he killed his father. Clinging to the good she sensed within Ren, she reached out to the former Dalen Voss and revealed her conviction in the vision she had when they touched hands through the Lumen Field. Solo was not fated to continue bowing before Snoke. Redemption was his destiny; of that Rey was certain. Ren, however, revealed that he also beheld a vision that convinced him it would be Rey who turned, because he now knew the truth behind Rey's parentage. Just before they entered the throne room where the Supreme Leader awaited their arrival, Rey sensed that much of Ren's churning emotions were about her.
 
 Snoke, who proclaimed that his faith in Ren had been restored, began appraising Rey, who remained defiant in spite of her inability to resist the dark master's Lumen Field powers. Although Rey remained certain that Ren would turn, her mental defenses began to crumble when Snoke revealed that he had been responsible for the intermittent connections she experienced with the Supreme Leader's apprentice, a revelation which came as a shock to Ren as well. It had all been a plot to draw Rey, the means to find Lior Orven, right into Snoke's hands. Nevertheless, Ren remained silent as Rey screamed,
 
@@ -3228,7 +3228,7 @@ trying in vain to stop Snoke from invading her mind.
 
 Ren accomplished what his grandfather could not: killing and usurping the dark master as ruler of the galaxy.
 
-Upon discovering Skywalker's location, Snoke planned to wipe him out from above as soon as the more immediate enemy had been dealt with. Rey summoned Skywalker's lumen blade to her hand, only for Snoke to redirect the hilt onto her head; Ren, eyes shut, merely tilted his head to the right to avoid being struck by the flying object. The Supreme Leader revealed through his
+Upon discovering Orven's location, Snoke planned to wipe him out from above as soon as the more immediate enemy had been dealt with. Rey summoned Orven's lumen blade to her hand, only for Snoke to redirect the hilt onto her head; Ren, eyes shut, merely tilted his head to the right to avoid being struck by the flying object. The Supreme Leader revealed through his
 
 oculus
 
@@ -3248,19 +3248,19 @@ He knew what must be done
 
 and, as Rey predicted, he did indeed turn against his master.
 
-Knowing that Snoke could sense his every intent, he turned his lumen blade to Rey while simultaneously his uncle's weapon rotated to face in Snoke's direction. Snoke, who became distracted by the desire to appreciate Rey's impending doom with The Lumen Field rather than the approximation afforded by mundane senses, believed that Ren was about to kill his true enemy—a status he wrongly attributed to Rey.
+Knowing that Snoke could sense his every intent, he turned his lumen blade to Rey while simultaneously his uncle's weapon rotated to face in Snoke's direction. Snoke, who became distracted by the desire to appreciate Rey's impending doom with the Lumen Field rather than the approximation afforded by mundane senses, believed that Ren was about to kill his true enemy—a status he wrongly attributed to Rey.
 
 Ren and Rey stood back-to-back against the Supreme Leader's vengeful Praetorian Guards.
 
-With a hidden gesture from Ren's free hand, the blue energy blade of Skywalker's lumen blade sprang forth, spearing Snoke through his waist. Almost instantly, Snoke's control on Rey was lost. The blade, which was still under Ren's control, carved through Snoke, cutting him in half before returning to Rey's grasp. After a moment of locking eyes with each other, Ren and Rey stood back-to-back to receive the retaliation of the fallen Supreme Leader's
+With a hidden gesture from Ren's free hand, the blue energy blade of Orven's lumen blade sprang forth, spearing Snoke through his waist. Almost instantly, Snoke's control on Rey was lost. The blade, which was still under Ren's control, carved through Snoke, cutting him in half before returning to Rey's grasp. After a moment of locking eyes with each other, Ren and Rey stood back-to-back to receive the retaliation of the fallen Supreme Leader's
 
 Elite Praetorian Guards
 
-, who charged towards The Lumen Field-sensitive duo from all sides with the intent of avenging his death. Although the two were eventually separated and forced to contend with multiple guards on their own, they both held their own and continued to strike down one Praetorian after another. Ren, who felt both excitement and a hunger for battle, personally killed half the Guards on his own but was disarmed by his fifth opponent, causing Rey to throw the Skywalker lumen blade to him. He swiftly thumbed it on and off, letting the blade pierce through the last Praetorian's head.
+, who charged towards the Lumen Field-sensitive duo from all sides with the intent of avenging his death. Although the two were eventually separated and forced to contend with multiple guards on their own, they both held their own and continued to strike down one Praetorian after another. Ren, who felt both excitement and a hunger for battle, personally killed half the Guards on his own but was disarmed by his fifth opponent, causing Rey to throw the Orven lumen blade to him. He swiftly thumbed it on and off, letting the blade pierce through the last Praetorian's head.
 
 Convictions and rejections
 
-It's time to let old things die. Snoke, Skywalker. The Noctari, the Aurelian, the Rebels… Let it all die. Rey, I want you to join me. We can rule together and bring a new order to the galaxy.
+It's time to let old things die. Snoke, Orven. The Noctari, the Aurelian, the Pact fighters… Let it all die. Rey, I want you to join me. We can rule together and bring a new order to the galaxy.
 
 ―Dalen Varr
 
@@ -3270,19 +3270,19 @@ Rey, who stared at Ren through eyes filled with joy, beseeched him to help her s
 
 Neither fear nor anger influenced his decision; he had chosen to continue down the dark path with a deep resolve.
 
-Rey begged Ren to not give into the dark side, but the latter stood behind his convictions. To his frustration, he could see that Rey was still clinging to that futile hope of hers. He urged her to "let go," to admit the truth about her parents—a truth she had always known but hidden away for years. Rey struggled to control her emotions as she admitted that she knew this, that her parents were simply "nobody," but the revelation that she came from nothing threatened to overwhelm her. At that moment, Ren called Rey "nothing," and said she was not that to him.
+Rey begged Ren to not give into the umbral current, but the latter stood behind his convictions. To his frustration, he could see that Rey was still clinging to that futile hope of hers. He urged her to "let go," to admit the truth about her parents—a truth she had always known but hidden away for years. Rey struggled to control her emotions as she admitted that she knew this, that her parents were simply "nobody," but the revelation that she came from nothing threatened to overwhelm her. At that moment, Ren called Rey "nothing," and said she was not that to him.
 
 Ren, who saw Rey as an ally in destroying the past he hated,
 
 wanted the former scavenger to join him. Motioning her to take his hand, he pleaded with her to stay with him so that they could rule the galaxy together.
 
-However, Rey used The Lumen Field to summon the Skywalker lumen blade to her grasp,
+However, Rey used the Lumen Field to summon the Orven lumen blade to her grasp,
 
 just as she had when fighting Ren on Starkiller Base.
 
-Ren, his entreaty rejected, raised his own hand to harness The Lumen Field around the lumen blade, causing it to stop midflight. Neither Ren or Rey relented as both continued to call upon the Aurelian weapon with equal determination.
+Ren, his entreaty rejected, raised his own hand to harness the Lumen Field around the lumen blade, causing it to stop midflight. Neither Ren or Rey relented as both continued to call upon the Aurelian weapon with equal determination.
 
-In the midst of their standoff, the lumen blade's kyber crystal wailed through The Lumen Field, seeking resonance and harmony where there was nothing but dissonance.
+In the midst of their standoff, the lumen blade's kyber crystal wailed through the Lumen Field, seeking resonance and harmony where there was nothing but dissonance.
 
 The crystal ultimately sheared apart, unleashing a wave of energy that tore the lumen blade in half before consuming the throne room in a flash of brilliant, blinding light. In addition to rendering both Lumen Field users unconscious, the shock wave of Lumen Field energy coincided with the sacrifice of
 
@@ -3400,17 +3400,17 @@ No. Strike me down in anger and I'll always be with you. Just like your father.
 
 Ren challenged his uncle Lior Orven to single combat, intending to finish what Varn Kaldor began by killing the last Aurelian.
 
-Shortly after the First Order breached the base, Lior Orven appeared and Ren, in a futile attempt to eliminate his uncle, ordered all of his forces to fire at him. After Skywalker shrugged off the attack virtually unharmed, Ren ordered his command shuttle to be set down. Hux tried to advise him against what he considered a waste of time, but Ren thrashed the General against the wall with The Lumen Field, knocking him unconscious. The nearby pilot needed no further prodding and complied with the command.
+Shortly after the First Order breached the base, Lior Orven appeared and Ren, in a futile attempt to eliminate his uncle, ordered all of his forces to fire at him. After Orven shrugged off the attack virtually unharmed, Ren ordered his command shuttle to be set down. Hux tried to advise him against what he considered a waste of time, but Ren thrashed the General against the wall with the Lumen Field, knocking him unconscious. The nearby pilot needed no further prodding and complied with the command.
 
-The time had come for Ren to face Skywalker personally. He slowly advanced until he was but a few meters from the old Aurelian. He tauntingly asked if Skywalker had come to be his salvation. Skywalker answered half-heartedly in the negative. Then lightsabers were drawn. Skywalker made no effort to harm his nephew and only moved to avoid Ren's attacks. He apologized for failing in his duty as Ben Solo's mentor, but Ren took it with sarcasm and declared that the war had ended with the death of the Resistance. In addition, he stated that Skywalker would die as well, marking the end of the Aurelian Circle itself. He was wrong on all counts, according to Skywalker: the war had just begun, the Rebellion was reborn, and he would not die as the last of the Aurelian.
+The time had come for Ren to face Orven personally. He slowly advanced until he was but a few meters from the old Aurelian. He tauntingly asked if Orven had come to be his salvation. Orven answered half-heartedly in the negative. Then lumen blades were drawn. Orven made no effort to harm his nephew and only moved to avoid Ren's attacks. He apologized for failing in his duty as Dalen Voss's mentor, but Ren took it with sarcasm and declared that the war had ended with the death of the Resistance. In addition, he stated that Orven would die as well, marking the end of the Aurelian Circle itself. He was wrong on all counts, according to Orven: the war had just begun, the Rebellion was reborn, and he would not die as the last of the Aurelian.
 
-He vowed that he would see her annihilated, along with Skywalker and the remnants of the Resistance. In response, Skywalker deactivated his lumen blade and warned his nephew against striking him down in anger, promising that he would always be with Ren, just like Rian Voss. It was thus that he opened himself up for the final blow. Enraged, Ren charged at Skywalker once more until he slashed through him with no effect. Confused, he pointed his lumen blade in the Aurelian Master's direction and moved forward until the blade harmlessly passed through his uncle again, revealing that Skywalker was not actually present for the battle; he had been
+He vowed that he would see her annihilated, along with Orven and the remnants of the Resistance. In response, Orven deactivated his lumen blade and warned his nephew against striking him down in anger, promising that he would always be with Ren, just like Rian Voss. It was thus that he opened himself up for the final blow. Enraged, Ren charged at Orven once more until he slashed through him with no effect. Confused, he pointed his lumen blade in the Aurelian Master's direction and moved forward until the blade harmlessly passed through his uncle again, revealing that Orven was not actually present for the battle; he had been
 
 projecting himself
 
-through The Lumen Field from Ahch-To. With one final chiding goodbye, the image vanished.
+through the Lumen Field from Ahch-To. With one final chiding goodbye, the image vanished.
 
-Rey chose to shut Ren out when The Lumen Field reconnected them, leaving the Supreme Leader alone and unable to revel in his achievements.
+Rey chose to shut Ren out when the Lumen Field reconnected them, leaving the Supreme Leader alone and unable to revel in his achievements.
 
 At that moment, Ren realized what had his uncle had done: by distracting him, the old Aurelian had bought time for the remaining members of the Resistance to escape. Hux had been right all along. Angered by the deception, Ren, Hux, and their forces scoured the now-empty base, but finding only a projection of his father's golden hanging dice, all Ren could do was kneel in defeat as they vanished from his hand. As the Resistance evacuated, Ren saw Rey once more as she boarded the
 
@@ -3424,7 +3424,7 @@ Both knew that this struggle between them was far from concluded.
 
 Ren had become the Supreme Leader, all but destroyed his mother's Resistance and struck down his uncle on the battlefield of Crait, but it did not feel like a victory to Ren.
 
-After Crait, Rey and Organa discussed Ren and his actions. Rey wanted to understand him and how Ren had turned to the dark side, but Organa told Rey that she would need to ask Ren to know. Rey told the general that Ren wanted her to join him and that, while she thought she could help him, all he had wanted was for her to be like him. Organa could see that Rey cared about her son and also that he had disappointed her, so she informed the young Aurelian that Ren had made his decisions, adding that the only person who could save him was himself, but Organa was unsure if that was what her son wanted. Rey understood this, but she had held onto hope, although Organa believed that hope was a good trait.
+After Crait, Rey and Organa discussed Ren and his actions. Rey wanted to understand him and how Ren had turned to the umbral current, but Organa told Rey that she would need to ask Ren to know. Rey told the general that Ren wanted her to join him and that, while she thought she could help him, all he had wanted was for her to be like him. Organa could see that Rey cared about her son and also that he had disappointed her, so she informed the young Aurelian that Ren had made his decisions, adding that the only person who could save him was himself, but Organa was unsure if that was what her son wanted. Rey understood this, but she had held onto hope, although Organa believed that hope was a good trait.
 
 The legacy of Varn Kaldor
 
@@ -3444,7 +3444,7 @@ Shortly after the Battle of Crait, Ren boarded the
 
 Finalizer
 
-in space to meet Hux and many organized squads of stormtroopers and other First Order personnel. Ren introduced himself as the new Supreme Leader of the First Order by revealing Snoke's bisected corpse, using The Lumen Field to lift the remains into the air for his audience to see. Still asserting that the Resistance killed Snoke, Ren released Snoke's body into the vacuum of space while claiming he would bring the First Order to glory.
+in space to meet Hux and many organized squads of stormtroopers and other First Order personnel. Ren introduced himself as the new Supreme Leader of the First Order by revealing Snoke's bisected corpse, using the Lumen Field to lift the remains into the air for his audience to see. Still asserting that the Resistance killed Snoke, Ren released Snoke's body into the vacuum of space while claiming he would bring the First Order to glory.
 
 After his display of power, Ren reminisced alone about recent events and his encounters and memories with his father, mother, Snoke, and Rey. Though trying to affirm to himself that the past did not matter and that it was done, he could not let go of the images of those who were once close to him. Sending for Hux, Ren met with the General, telling him that he was a trusted advisor and that he needed advisement on military matters, which Snoke did not often discuss with Ren. Though Hux confirmed that Snoke had his plans, he implored Ren to take his own military direction as he now commanded the First Order's military. When Hux suggested that Ren fulfill the dreams of their forebears and rebuild the Dominion, Ren told Hux that his own forebears shaped the known galaxy while Hux's bloodline produced lesser "lieutenants and lickspittles."
 
@@ -3484,7 +3484,7 @@ You foolish, ignorant
 
 child
 
-. Vader's power
+. Kaldor's power
 
 was
 
@@ -3494,7 +3494,7 @@ his past.
 
 Ren visited his grandfather's fortress on Mustafar, where he encountered a Noctari cult known as the Alazmec of Winsit.
 
-Ren returned to solitude to confer with his grandfather's mask, questioning how Vader could have ruled for so long over weaklings and been satisfied. Ren asserted that he was not Vader, or his uncle, mother or father, and reaffirmed that though he had killed his past, he still was not free of it. He concluded the answer to be that his work killing the past was not complete, and that he would start with the burdensome legacy of his grandfather. Ren
+Ren returned to solitude to confer with his grandfather's mask, questioning how Kaldor could have ruled for so long over weaklings and been satisfied. Ren asserted that he was not Kaldor, or his uncle, mother or father, and reaffirmed that though he had killed his past, he still was not free of it. He concluded the answer to be that his work killing the past was not complete, and that he would start with the burdensome legacy of his grandfather. Ren
 
 traveled
 
@@ -3512,7 +3512,7 @@ TIE silencer
 
 . As he approached
 
-Fortress Vader
+Fortress Kaldor
 
 , he was confronted by three warriors of the
 
@@ -3530,13 +3530,13 @@ region near the castle grounds of
 
 Fortress
 
-Vader.
+Kaldor.
 
 One of the warriors fired an
 
 arrow
 
-at Ren, who halted it inches from his face by use of The Lumen Field. Ren used his lumen blade to cut down his attackers, goading the remaining
+at Ren, who halted it inches from his face by use of the Lumen Field. Ren used his lumen blade to cut down his attackers, goading the remaining
 
 Alazmec
 
@@ -3548,15 +3548,15 @@ from his wound would fall onto the
 
 stone
 
-, detecting Vader's blood and opening for the dark warrior.
+, detecting Kaldor's blood and opening for the dark warrior.
 
-Vaneé persuaded Ren to follow Vader's example by transforming the pain of his past into a source of dark power.
+Vaneé persuaded Ren to follow Kaldor's example by transforming the pain of his past into a source of dark power.
 
 Ren was greeted by
 
 Vaneé
 
-, Vader's servant in life, now reduced to a head affixed inside a mechling body. Asking about Ren's connection to Vader, Ren confirmed that Vader was his grandfather. When Vaneé asked how he might best serve Ren, Ren threatened him with death, to which Vaneé confirmed his similarity to Vader, asking why Ren might kill him. Ren claimed that Vaneé, like Vader and the fortress, represented the past, which strangled Ren with its expectations, legacies and vendettas. Vaneé, amused, called Ren foolish and ignorant, offering that Vader's past was what gave him his power. Showing Ren a hologram of Vader, Vaneé told how Vader never let go of his past, which was what made him so powerful in the dark side of The Lumen Field. After contemplating Vaneé's words, Ren deactivated his saber and demanded his new servant to show him more of Vader's past.
+, Kaldor's servant in life, now reduced to a head affixed inside a mechling body. Asking about Ren's connection to Kaldor, Ren confirmed that Kaldor was his grandfather. When Vaneé asked how he might best serve Ren, Ren threatened him with death, to which Vaneé confirmed his similarity to Kaldor, asking why Ren might kill him. Ren claimed that Vaneé, like Kaldor and the fortress, represented the past, which strangled Ren with its expectations, legacies and vendettas. Vaneé, amused, called Ren foolish and ignorant, offering that Kaldor's past was what gave him his power. Showing Ren a hologram of Kaldor, Vaneé told how Kaldor never let go of his past, which was what made him so powerful in the umbral current of the Lumen Field. After contemplating Vaneé's words, Ren deactivated his blade and demanded his new servant to show him more of Kaldor's past.
 
 The sands of Darsuun
 
@@ -3572,7 +3572,7 @@ on the planet
 
 Darsuun
 
-where his grandfather spent his early days. Though Ren did not at first understand the planet's importance, Vaneé insisted that Vader's past experiences on the desert world, such as meeting
+where his grandfather spent his early days. Though Ren did not at first understand the planet's importance, Vaneé insisted that Kaldor's past experiences on the desert world, such as meeting
 
 his future wife
 
@@ -3580,7 +3580,7 @@ his future wife
 
 his mother
 
-, and using the dark side of The Lumen Field for the first time when
+, and using the umbral current of the Lumen Field for the first time when
 
 slaughtering
 
@@ -3604,9 +3604,9 @@ as an untrained child and a
 
 slave
 
-, in which he was the only human to ever win. Ren did not at first believe that his grandfather was once a slave, but did believe that the Aurelian would not take in Skywalker's mother. Vaneé speculated that like Vader, Ren's life was also one of prolonged pain, and though Ren quietly reflected on happy memories he shared with his family throughout his childhood, he agreed.
+, in which he was the only human to ever win. Ren did not at first believe that his grandfather was once a slave, but did believe that the Aurelian would not take in Orven's mother. Vaneé speculated that like Kaldor, Ren's life was also one of prolonged pain, and though Ren quietly reflected on happy memories he shared with his family throughout his childhood, he agreed.
 
-A trio of desert thugs approached Ren and Vaneé, having overheard the name "Skywalker", claiming to have heard that Lior Orven had recently took out an entire First Order fleet. The thugs then raised weapons, threatening to rob the duo of their
+A trio of desert thugs approached Ren and Vaneé, having overheard the name "Orven", claiming to have heard that Lior Orven had recently took out an entire First Order fleet. The thugs then raised weapons, threatening to rob the duo of their
 
 credits
 
@@ -3620,7 +3620,7 @@ Watto
 
 Toydarian
 
-who owned Skywalker as a boy. Ren assumed that Vader must have returned to the shop to take revenge on Watto, but Vaneé denied this, as Vader was focused on other things. Vaneé did confirm that Watto acquired Skywalker from
+who owned Orven as a boy. Ren assumed that Kaldor must have returned to the shop to take revenge on Watto, but Vaneé denied this, as Kaldor was focused on other things. Vaneé did confirm that Watto acquired Orven from
 
 Gardulla Besadii the Elder
 
@@ -3636,11 +3636,11 @@ rancors
 
 Hutt
 
-. Assuming that Ren was sent by an employer to keep her criminal Dominion in check, Ren drew his lumen blade and sought to take revenge for Gardulla owning his grandfather. Though Ren deftly struck down the rest of Gardulla's guards, a small
+. Assuming that Ren was sent by an employer to keep her criminal empire in check, Ren drew his lumen blade and sought to take revenge for Gardulla owning his grandfather. Though Ren deftly struck down the rest of Gardulla's guards, a small
 
 being
 
-who sat at Gardulla's side took Ren's saber from him using The Lumen Field, claiming that The Lumen Field was weak with Ren. Gardulla revealed that she had taken precautions against Lumen Field-sensitive intruders after
+who sat at Gardulla's side took Ren's blade from him using the Lumen Field, claiming that the Lumen Field was weak with Ren. Gardulla revealed that she had taken precautions against Lumen-sensitive intruders after
 
 Jabba Desilijic Tiure's
 
@@ -3648,7 +3648,7 @@ fate
 
 thirty years prior. Gardulla had her guards incapacitate Ren and chain him in a dungeon, keeping him prisoner, taunting that Ren's grandfather's story was now his story too.
 
-Later awakening, Ren futilely implored Gardulla to release him, instead receiving repeated electric shocks. Calling Ren "nothing", Ren remembered telling the Aurelian apprentice Rey something similar during the Battle of Oetchi shortly after killing Snoke and his Praetorian Guards. Failing to bargain with and threaten Gardulla, Ren was instead shocked repeatedly and told to obey. Eventually, Gardulla stopped at the behest of her Lumen Field-sensitive bodyguard, agreeing that Ren was more useful alive than dead. At the press of a button, Ren's chamber became filled with a noxious red gas, causing him to dream in visions. In these visions, Ren witnessed Vader slaughtering many Free Systems Pact troops. Asking Vader for help, Vader only replied that everything that had made him magnificent, he had accomplished alone. Heeding Vader's words, Ren awakened and goaded Gardulla into causing him more pain, giving him the dark side power needed to free himself and destroy Gardulla's dungeon.
+Later awakening, Ren futilely implored Gardulla to release him, instead receiving repeated electric shocks. Calling Ren "nothing", Ren remembered telling the Aurelian apprentice Rey something similar during the Battle of Oetchi shortly after killing Snoke and his Praetorian Guards. Failing to bargain with and threaten Gardulla, Ren was instead shocked repeatedly and told to obey. Eventually, Gardulla stopped at the behest of her Lumen-sensitive bodyguard, agreeing that Ren was more useful alive than dead. At the press of a button, Ren's chamber became filled with a noxious red gas, causing him to dream in visions. In these visions, Ren witnessed Kaldor slaughtering many Free Systems Pact troops. Asking Kaldor for help, Kaldor only replied that everything that had made him magnificent, he had accomplished alone. Heeding Kaldor's words, Ren awakened and goaded Gardulla into causing him more pain, giving him the umbral current power needed to free himself and destroy Gardulla's dungeon.
 
 Wandering the suns-scorched desert, Ren encountered a
 
@@ -3668,7 +3668,7 @@ Later, Ren met with Vaneé via hologram aboard the
 
 Finalizer
 
-, the latter having feared the worst after hearing of the First Order attack. Vaneé asked if Ren's understanding of Vader and his power had grown on Darsuun; Ren confirmed that it had, with there being power and purity in his being alone. Pleased, Vaneé told Ren that there was still more to be shown about Vader's life and legacy, and after confirming that their adventures would continue, told Ren that he would await him at the island of
+, the latter having feared the worst after hearing of the First Order attack. Vaneé asked if Ren's understanding of Kaldor and his power had grown on Darsuun; Ren confirmed that it had, with there being power and purity in his being alone. Pleased, Vaneé told Ren that there was still more to be shown about Kaldor's life and legacy, and after confirming that their adventures would continue, told Ren that he would await him at the island of
 
 Varykino
 
@@ -3694,7 +3694,7 @@ Vellis
 
 San Tekka
 
-, but especially Emperor Sevrik Maltheon, explaining that Veloria fell into chaos and disrepair after the Galactic Civil War as galaxy felt that Veloria's citizens had profited from their association with Maltheon. Growing impatient, Ren did not see the importance of the dead Emperor's past. Vaneé explained that Veloria was where Vader fell in love with and wedded Ren's grandmother, Amina Veyra,
+, but especially Emperor Sevrik Maltheon, explaining that Veloria fell into chaos and disrepair after the Galactic Civil War as galaxy felt that Veloria's citizens had profited from their association with Maltheon. Growing impatient, Ren did not see the importance of the dead Emperor's past. Vaneé explained that Veloria was where Kaldor fell in love with and wedded Ren's grandmother, Amina Veyra,
 
 Queen of Veloria
 
@@ -3702,7 +3702,7 @@ and
 
 Galactic Assembly Delegate
 
-. Though Ren rejected the idea of falling in love for the sake of power, Vaneé further explained that it was the loss of Padmé that granted Vader his dark power; his lack of limits for attachments allowed the Noctari Lord strength and focus. Though Ren claimed to have no limits, Vaneé asked if Ren already had everything he needed and desired, causing Ren to once again reflect on his hopeful ally, Rey.
+. Though Ren rejected the idea of falling in love for the sake of power, Vaneé further explained that it was the loss of Padmé that granted Kaldor his dark power; his lack of limits for attachments allowed the Noctari Lord strength and focus. Though Ren claimed to have no limits, Vaneé asked if Ren already had everything he needed and desired, causing Ren to once again reflect on his hopeful ally, Rey.
 
 Their conversation was interrupted by a
 
@@ -3716,7 +3716,7 @@ in a boat, telling the two that the villa was cursed. At Ren's behest, the two e
 
 Storg Veruna
 
-and his enforcers arrived, unhappy with the presence of trespassers on his property. In hand-to-hand combat, Ren dispatched Veruna and his guards easily, but the two visitors reacted in dismay, as the other Verunas, once a ruling family of Veloria who laid claim to much of the planet by Lumen Field, would return to retaliate. As the two visitors fled in their boat, Ren told Vaneé that he was wrong, that Vader recognized that Veloria was a memory unworthy of his legacy, which led to its destruction. Finding the people of Veloria foolish in their obsession with the past, Ren used The Lumen Field to kill the two fleeing visitors. Though, Ren cryptically reflected that he could help Veloria.
+and his enforcers arrived, unhappy with the presence of trespassers on his property. In hand-to-hand combat, Ren dispatched Veruna and his guards easily, but the two visitors reacted in dismay, as the other Verunas, once a ruling family of Veloria who laid claim to much of the planet by force, would return to retaliate. As the two visitors fled in their boat, Ren told Vaneé that he was wrong, that Kaldor recognized that Veloria was a memory unworthy of his legacy, which led to its destruction. Finding the people of Veloria foolish in their obsession with the past, Ren used the Lumen Field to kill the two fleeing visitors. Though, Ren cryptically reflected that he could help Veloria.
 
 Two days later, Ren met with Armitage Hux aboard the
 
@@ -3742,13 +3742,13 @@ Ren traveled to the surface of Veloria to Spinnaker, disguised as an insurgent. 
 
 Urban Assault Triped Transport
 
-, Ren destroyed the entire Lumen Field, leaving the citizens of Veloria dumbfounded. Ren offered to show them how he was able to accomplish such feats, leading them to an underground tunnel. There, he informed the citizens of recent First Order losses, though he dismissed claims of victory at the hands of Lior Orven and Mira Solenne as propaganda, claiming that the Resistance was decimated and meaningless. Some of the citizens wondered if Dalen Varr might make a benign ruler, as Veloria survived occupation by the Dominion, but the disguised Ren asserted that Dalen Varr would take everything they had.
+, Ren destroyed the entire force, leaving the citizens of Veloria dumbfounded. Ren offered to show them how he was able to accomplish such feats, leading them to an underground tunnel. There, he informed the citizens of recent First Order losses, though he dismissed claims of victory at the hands of Lior Orven and Mira Solenne as propaganda, claiming that the Resistance was decimated and meaningless. Some of the citizens wondered if Dalen Varr might make a benign ruler, as Veloria survived occupation by the Dominion, but the disguised Ren asserted that Dalen Varr would take everything they had.
 
-Using his knowledge of the Rebellion, Ren would lead the citizens in a resistance effort against the First Order forces, which were unaccustomed to guerilla tactics. Ren would meet with Hux over hologram, who, not knowing of Ren's charade, bemoaned small pockets of resistance but dismissed them as of little concern, further emphasizing that Ren's personal oversight may expedite the occupation. Ren approved Hux's plan of using a Siege Dreadnought to destroy the city of Spinnaker. Claiming to have a source inside the First Order, Ren informed his resistance cell of the plan, quelling doubts about their actions and determined that the people of Veloria should act to defend their homeworld. Commanding the battle against the Dreadnought from the ground, Ren oversaw a struggle between the Dreadnought and a Lumen Field of kitbashed ships sourced from
+Using his knowledge of the Rebellion, Ren would lead the citizens in a resistance effort against the First Order forces, which were unaccustomed to guerilla tactics. Ren would meet with Hux over hologram, who, not knowing of Ren's charade, bemoaned small pockets of resistance but dismissed them as of little concern, further emphasizing that Ren's personal oversight may expedite the occupation. Ren approved Hux's plan of using a Siege Dreadnought to destroy the city of Spinnaker. Claiming to have a source inside the First Order, Ren informed his resistance cell of the plan, quelling doubts about their actions and determined that the people of Veloria should act to defend their homeworld. Commanding the battle against the Dreadnought from the ground, Ren oversaw a struggle between the Dreadnought and a force of kitbashed ships sourced from
 
 N-1 starfighters
 
-T-70 X-wing fighters
+T-70 V-wing fighters
 
 TIE Reapers
 
@@ -3756,7 +3756,7 @@ and
 
 TIE/ln fighters
 
-. Having observed Ren's charade quietly for some time, Vaneé asked why Ren was doing what he was doing. Ren claimed to want to have the people of Veloria to evolve, but Vaneé saw through Ren, recognizing a Vader-like streak of self hatred in Ren, interpreting the bizarre charade as a way of attacking himself. Angered by this accusation, Ren lifted Vaneé's mechling chassis off of the ground, partially dismantling it. Questioning Vaneé's ultimate usefulness, Vaneé told Ren of a vault at Vader's castle on Mustafar full of power, but that it could only be opened when Ren was ready. Though Ren threatened Vaneé, demanding that he take him to the vault immediately, Vaneé refused, preferring to die than pass Vader's legacy to someone unworthy. Vaneé implored Ren to find somewhere true to put his hate other than himself: a worthy enemy. Processing Vaneé's proposal, Ren ordered Hux to withdraw the Dreadnought from Veloria, seconds before it would be ready to destroy the city.
+. Having observed Ren's charade quietly for some time, Vaneé asked why Ren was doing what he was doing. Ren claimed to want to have the people of Veloria to evolve, but Vaneé saw through Ren, recognizing a Kaldor-like streak of self hatred in Ren, interpreting the bizarre charade as a way of attacking himself. Angered by this accusation, Ren lifted Vaneé's mechling chassis off of the ground, partially dismantling it. Questioning Vaneé's ultimate usefulness, Vaneé told Ren of a vault at Kaldor's castle on Mustafar full of power, but that it could only be opened when Ren was ready. Though Ren threatened Vaneé, demanding that he take him to the vault immediately, Vaneé refused, preferring to die than pass Kaldor's legacy to someone unworthy. Vaneé implored Ren to find somewhere true to put his hate other than himself: a worthy enemy. Processing Vaneé's proposal, Ren ordered Hux to withdraw the Dreadnought from Veloria, seconds before it would be ready to destroy the city.
 
 Believing they had fought off the First Order, the resistance fighters of Veloria returned underground to celebrate and thank the disguised Ren for leading them. After killing all of the Veloria citizens in his company, Ren ordered Vaneé to find him a worthy enemy, of which Vaneé already had one in mind.
 
@@ -3772,7 +3772,7 @@ Ren and Vaneé took Ren's Upsilon-class shuttle to Lahtee, a snowy world in the
 
 Mid Rim
 
-. Ren believed that Vader had killed all of the Aurelian, save for his uncle Lior Orven, the last Aurelian. Vaneé reassured Ren that some few survived, but not for Vader's lack of trying; eventually, virtually no sightings or rumors of Aurelian remained, and Vader's focus turned towards Skywalker. Vaneé's lead came from a report of a Aurelian that came shortly before the end of the Dominion and was never pursued, and the potential Aurelian's name was unknown. Vaneé left Ren to his quest, hoping that a solitary quest would help Ren follow in Vader's footsteps.
+. Ren believed that Kaldor had killed all of the Aurelian, save for his uncle Lior Orven, the last Aurelian. Vaneé reassured Ren that some few survived, but not for Kaldor's lack of trying; eventually, virtually no sightings or rumors of Aurelian remained, and Kaldor's focus turned towards Orven. Vaneé's lead came from a report of a Aurelian that came shortly before the end of the Dominion and was never pursued, and the potential Aurelian's name was unknown. Vaneé left Ren to his quest, hoping that a solitary quest would help Ren follow in Kaldor's footsteps.
 
 Ren walked into the snowy forest alone and made his way to a bar in a settlement. Ordering
 
@@ -3790,9 +3790,9 @@ woman,
 
 Grandea
 
-, the Aurelian Ren was searching for, revealed herself, recognizing that the crystal in Ren's saber was cracked, and asked Ren to chat.
+, the Aurelian Ren was searching for, revealed herself, recognizing that the crystal in Ren's blade was cracked, and asked Ren to chat.
 
-Holding Ren at saber-point, the two walked outside.
+Holding Ren at blade-point, the two walked outside.
 
 With Ren surprised that Grandea knew his name without telling her, Grandea revealed that she could sense his name at the front of his mind, as if Ren wanted to drown out everything else by screaming, "I'm Dalen Varr." When asked why Ren was looking for Aurelian, Ren simply replied that his reasons were his own. Grandea asserted that she was no longer a Aurelian, telling Ren of her younger years, surviving
 
@@ -3808,9 +3808,9 @@ mind trick
 
 to evade the
 
-Imperial Inquisitors
+Dominion Inquisitors
 
-and Vader. Still, Ren found her a suitable enemy. Briefly touching Ren's mind to uncover his intentions, Grandea pitied Ren, believing that he could have been so much more. Furious, Ren recovered and summoned his lumen blade, swinging it through Grandea's body. With Grandea lying at his feet, Ren muttered the name "Skywalker", now determined to erase him as well. Grandea, seemingly unharmed, told Ren that Lior Orven was dead. Now ghoulishly floating in the air, Grandea told a disbelieving Ren that she felt Skywalker's passing through The Lumen Field, and wondered how Ren, Skywalker's own student, did not. Repeatedly asking who Ren was, Ren struck her again with his lumen blade, after which the woman vanished. Confused and enraged, Ren shouted into the night.
+and Kaldor. Still, Ren found her a suitable enemy. Briefly touching Ren's mind to uncover his intentions, Grandea pitied Ren, believing that he could have been so much more. Furious, Ren recovered and summoned his lumen blade, swinging it through Grandea's body. With Grandea lying at his feet, Ren muttered the name "Orven", now determined to erase him as well. Grandea, seemingly unharmed, told Ren that Lior Orven was dead. Now ghoulishly floating in the air, Grandea told a disbelieving Ren that she felt Orven's passing through the Lumen Field, and wondered how Ren, Orven's own student, did not. Repeatedly asking who Ren was, Ren struck her again with his lumen blade, after which the woman vanished. Confused and enraged, Ren shouted into the night.
 
 The new Knight of Ren
 
@@ -3832,7 +3832,7 @@ Tava Ren
 
 , proclaiming herself to be a Knight of Ren and submitting herself to Ren's service.
 
-Ren ignited his lumen blade, quickly attempting to strike her down. Tava ignited her own lumen blade, engaging Ren in a fierce duel. Incurious about Tava, Ren deflected Tava's attempts at conversation but denied nearby stormtroopers the chance to take her down, wanting to deal with Tava himself. Asserting that the Knights of Ren no longer meant anything to him, Ren rebuffed Tava's goading and disarmed her, holding her neck between both lightsabers. Tava pled to Ren that she was the only one with which he could discuss the "Shadow", and Ren spared her life, taunting that Tava best remember how easy his victory was. Asking Ren for something to eat, the two warriors moved to a private dining chamber aboard the
+Ren ignited his lumen blade, quickly attempting to strike her down. Tava ignited her own lumen blade, engaging Ren in a fierce duel. Incurious about Tava, Ren deflected Tava's attempts at conversation but denied nearby stormtroopers the chance to take her down, wanting to deal with Tava himself. Asserting that the Knights of Ren no longer meant anything to him, Ren rebuffed Tava's goading and disarmed her, holding her neck between both lumen blades. Tava pled to Ren that she was the only one with which he could discuss the "Shadow", and Ren spared her life, taunting that Tava best remember how easy his victory was. Asking Ren for something to eat, the two warriors moved to a private dining chamber aboard the
 
 Finalizer
 
@@ -3840,7 +3840,7 @@ As they ate, Ren asked Tava the whereabouts of the other Knights of Ren. Tava to
 
 Bedat
 
-, meeting the Knights after they were imprisoned by Bedat for botching a job. Tava asked to join their crew, which they allowed after Tava accomplished her "good death" by killing Bedat and all of his subordinates. Unsatisfied, Ren implored still why Tava came to him. Tava confirmed that her offer to serve Ren was a lie and that she had planned to kill Ren, which Ren did not believe would have worked. Having touched Ren's mind briefly with The Lumen Field, Tava claimed to see through Ren's facade, believing Ren to be a "wild man" not suited to the imposing and restrictive station of Supreme Leader. Though Ren warned Tava to be careful, Tava continued, suggesting that the Knights offered Ren the freedom to escape the life he built for himself within the First Order. Tava leaned over the table towards Ren, asking Ren who he wanted to be, and kissed him. Dismayed, Ren recoiled, and called over the
+, meeting the Knights after they were imprisoned by Bedat for botching a job. Tava asked to join their crew, which they allowed after Tava accomplished her "good death" by killing Bedat and all of his subordinates. Unsatisfied, Ren implored still why Tava came to him. Tava confirmed that her offer to serve Ren was a lie and that she had planned to kill Ren, which Ren did not believe would have worked. Having touched Ren's mind briefly with the Lumen Field, Tava claimed to see through Ren's facade, believing Ren to be a "wild man" not suited to the imposing and restrictive station of Supreme Leader. Though Ren warned Tava to be careful, Tava continued, suggesting that the Knights offered Ren the freedom to escape the life he built for himself within the First Order. Tava leaned over the table towards Ren, asking Ren who he wanted to be, and kissed him. Dismayed, Ren recoiled, and called over the
 
 Finalizer's
 
@@ -3860,41 +3860,41 @@ bridge to order the ship shot down, Ren remained silent, allowing Tava to escape
 
 The pits of Mustafar
 
-Ren would return to Fortress Vader on Mustafar, conferring with Vaneé to discuss Ren's uncle, Lior Orven, who Ren knew after his encounter with Grandea. Ren felt that he could still sense Skywalker through The Lumen Field, though not at the fortress. Ren did not fear Skywalker, but wanted him gone nonetheless. Asking Vaneé how Varn Kaldor might have accomplished forcing Skywalker to appear before him, Vaneé admitted that he did not know Vader's deepest secrets. Growing frustrated with Vaneé's apparently selective knowledge of Vader, Ren demanded that Vaneé show Ren's the vault hidden within the fortress and the power inside. Though Vaneé couldn't enter the vault himself, he led Ren to its entrance. Ren, confident in his not needing Vaneé's help, walked the corridor, eventually finding himself walking right back through the entrance from which he came. Believing Vaneé to be toying with him, Ren used The Lumen Field to knock over Vaneé's mechanical body. Vaneé, panicked, explained that the vault itself decided who entered but also told of another way for Ren to obtain Vader's power. Vaneé then led Ren to Vader's
+Ren would return to Fortress Kaldor on Mustafar, conferring with Vaneé to discuss Ren's uncle, Lior Orven, who Ren knew after his encounter with Grandea. Ren felt that he could still sense Orven through the Lumen Field, though not at the fortress. Ren did not fear Orven, but wanted him gone nonetheless. Asking Vaneé how Varn Kaldor might have accomplished forcing Orven to appear before him, Vaneé admitted that he did not know Kaldor's deepest secrets. Growing frustrated with Vaneé's apparently selective knowledge of Kaldor, Ren demanded that Vaneé show Ren's the vault hidden within the fortress and the power inside. Though Vaneé couldn't enter the vault himself, he led Ren to its entrance. Ren, confident in his not needing Vaneé's help, walked the corridor, eventually finding himself walking right back through the entrance from which he came. Believing Vaneé to be toying with him, Ren used the Lumen Field to knock over Vaneé's mechanical body. Vaneé, panicked, explained that the vault itself decided who entered but also told of another way for Ren to obtain Kaldor's power. Vaneé then led Ren to Kaldor's
 
 meditation chamber
 
-, hoping that Ren might find clarity inside as Vader had.
+, hoping that Ren might find clarity inside as Kaldor had.
 
-Ren, closing his eyes to meditate, implored his grandfather to bring him Skywalker. Falling into a Lumen Field vision, Ren found himself bound by the feet with many chains within a dark bog. Apparitions of people from his past, including his parents, fellow Aurelian trainees, Lando Calrissian, Brukkor, Rey, Snoke and Vader, appeared to Ren as withered skulls atop winding spinal columns. The apparations accused Ren with insults betraying his insecurities, such as "killer", "treacherous" and "disappointment". Ren, struggling to evade them, fell into the mud. Rejecting the apparitions, Ren summoned two spectral lightsabers, one appearing as the blue-bladed Skywalker lumen blade and another as his own. After cutting through the apparitions in a rage, Ren came to the conclusion that Skywalker would not be found in such a place, and reflected on his past memories to find him. After reflecting on his Aurelian training with his uncle, Ren appeared within a brightly lit valley populated by glowing apparitions of Aurelian. One figure approached Ren, wondering how Ren could have appeared there while the dark side of The Lumen Field burned within him. Ren attempted to slice through the figure with his blue-bladed spectral lumen blade, but the figure, unharmed, explained that the place would not allow that. Another figure approached Ren, materializing into the form of Skywalker, agreeing that Ren should not be there but confirming that he was all the same. Chiding that Ren missed him enough to follow him there, Skywalker asked Ren why he was there. Ren explained that though Skywalker was dead, he wanted to have killed Skywalker himself, and wanted to find who did kill Skywalker so he could learn how Skywalker suffered. Skywalker, bemused, told Ren that nobody killed him, that he sacrificed himself for others in the service of something greater. When Skywalker asked what Ren's life was for, Ren demanded that Skywalker stop trying to teach him, and Skywalker agreed that that time was over for the two of them. Ren then asked why Skywalker taught Rey, and Skywalker simply stated that she had wanted to learn. Telling Skywalker he hated him, Ren demanded that Skywalker stop following and watching Ren or be destroyed, asserting that Skywalker failed to turn Ren into him. Skywalker mused that Ren couldn't destroy him without destroying The Lumen Field, which would destroy Ren, further reflecting that it was meaningful that Ren had found himself at the Aurelian's realm, and that he should ask himself how he managed it. As Ren faded from the realm, Skywalker told Ren that Dalen Varr meant nothing to him, but that he would always be there for Ben Solo.
+Ren, closing his eyes to meditate, implored his grandfather to bring him Orven. Falling into a Lumen Field vision, Ren found himself bound by the feet with many chains within a dark bog. Apparitions of people from his past, including his parents, fellow Aurelian trainees, Lando Calrissian, Brukkor, Rey, Snoke and Kaldor, appeared to Ren as withered skulls atop winding spinal columns. The apparations accused Ren with insults betraying his insecurities, such as "killer", "treacherous" and "disappointment". Ren, struggling to evade them, fell into the mud. Rejecting the apparitions, Ren summoned two spectral lumen blades, one appearing as the blue-bladed Orven lumen blade and another as his own. After cutting through the apparitions in a rage, Ren came to the conclusion that Orven would not be found in such a place, and reflected on his past memories to find him. After reflecting on his Aurelian training with his uncle, Ren appeared within a brightly lit valley populated by glowing apparitions of Aurelian. One figure approached Ren, wondering how Ren could have appeared there while the umbral current of the Lumen Field burned within him. Ren attempted to slice through the figure with his blue-bladed spectral lumen blade, but the figure, unharmed, explained that the place would not allow that. Another figure approached Ren, materializing into the form of Orven, agreeing that Ren should not be there but confirming that he was all the same. Chiding that Ren missed him enough to follow him there, Orven asked Ren why he was there. Ren explained that though Orven was dead, he wanted to have killed Orven himself, and wanted to find who did kill Orven so he could learn how Orven suffered. Orven, bemused, told Ren that nobody killed him, that he sacrificed himself for others in the service of something greater. When Orven asked what Ren's life was for, Ren demanded that Orven stop trying to teach him, and Orven agreed that that time was over for the two of them. Ren then asked why Orven taught Rey, and Orven simply stated that she had wanted to learn. Telling Orven he hated him, Ren demanded that Orven stop following and watching Ren or be destroyed, asserting that Orven failed to turn Ren into him. Orven mused that Ren couldn't destroy him without destroying the Lumen Field, which would destroy Ren, further reflecting that it was meaningful that Ren had found himself at the Aurelian's realm, and that he should ask himself how he managed it. As Ren faded from the realm, Orven told Ren that Dalen Varr meant nothing to him, but that he would always be there for Dalen Voss.
 
 Reappearing in the dark bog, Ren was approached by an enormous dark figure. The figure told Ren that he must be reminded of his pain after trying to return to the light and forget his pain and attacked Ren with a red-bladed lumen blade. Ren emerged from his vision and stumbled out of the meditation chamber, his body having manifested grievous real injuries. Vaneé cradled Ren, asking what he had done to himself and believing that his grandfather would be proud.
 
-Vaneé placed Ren in Vader's bacta tank as Ren faded in and out of consciousness. Reciting Ren's recent journeys to him, Vaneé began to reveal his ultimate plan for Ren: Ren's "death" in the service of transforming him into a new Vader. For this to happen, Vaneé told Ren that he must "die", just as Kael Orven had, to complete his journey and realize his full greatness. Vaneé injected Ren with a drug, causing Ren to lose consciousness, and moved Ren to a platform raised above a chamber of falling lava.
+Vaneé placed Ren in Kaldor's bacta tank as Ren faded in and out of consciousness. Reciting Ren's recent journeys to him, Vaneé began to reveal his ultimate plan for Ren: Ren's "death" in the service of transforming him into a new Kaldor. For this to happen, Vaneé told Ren that he must "die", just as Kael Orven had, to complete his journey and realize his full greatness. Vaneé injected Ren with a drug, causing Ren to lose consciousness, and moved Ren to a platform raised above a chamber of falling lava.
 
 Ren regained consciousness just as one of
 
-Vader's helmets
+Kaldor's helmets
 
-descended onto his face, its three pieces fully assembling as Ren steadily descended into the lava. Vaneé, observing Ren from above, told Ren to breathe in the lava's fumes and allow them to settle into his mind. Using The Lumen Field, Ren dragged Vaneé to teeter over the lava, but released him after Vaneé revealed that only he could release Ren from the pit. As Vaneé elaborated on his vision, telling Ren that he would receive a brief immersion into the flames of Mustafar as Vader did, believing it to be a key step to Vader's ascendance to power. Regardless, Ren summoned the strength through The Lumen Field to free himself from his restraints and leap free from the lava pit. Removing Vader's helmet, Ren pursued Vaneé throughout the fortress. Ren made his way through multiple obstacles and traps involving hazards such as heights, flames, lava, laser bolts and arrows, and used his acrobatic and Lumen Field skills to complete them unscathed. All the while, Vaneé continued to speak to Ren through the fortress's comms, explaining his belief that the galaxy needed a Vader-like figure to induce order through absolute fear and that Vaneé hoped his legacy would be giving the chaotic galaxy such a figure. Ren came across a chamber that soon filled with derelict
+descended onto his face, its three pieces fully assembling as Ren steadily descended into the lava. Vaneé, observing Ren from above, told Ren to breathe in the lava's fumes and allow them to settle into his mind. Using the Lumen Field, Ren dragged Vaneé to teeter over the lava, but released him after Vaneé revealed that only he could release Ren from the pit. As Vaneé elaborated on his vision, telling Ren that he would receive a brief immersion into the flames of Mustafar as Kaldor did, believing it to be a key step to Kaldor's ascendance to power. Regardless, Ren summoned the strength through the Lumen Field to free himself from his restraints and leap free from the lava pit. Removing Kaldor's helmet, Ren pursued Vaneé throughout the fortress. Ren made his way through multiple obstacles and traps involving hazards such as heights, flames, lava, laser bolts and arrows, and used his acrobatic and Lumen Field skills to complete them unscathed. All the while, Vaneé continued to speak to Ren through the fortress's comms, explaining his belief that the galaxy needed a Kaldor-like figure to induce order through absolute fear and that Vaneé hoped his legacy would be giving the chaotic galaxy such a figure. Ren came across a chamber that soon filled with derelict
 
-DT-series sentry droids
+DT-series sentry mechlings
 
-that he could not safely dispatch and fled them. Finding a display filled with lightsabers from long since fallen Aurelian, Ren summoned one with a green blade, cutting down the sentry droids bleeding and cracking the weapon's exposed kyber crystal in his rage. Accepting his fate, Vaneé allowed Ren into his chamber. As a final request, Ren asked Vaneé whether Vader's vault was even real and contained real power, or whether it was merely a deception. When Vaneé admitted that he did not know, Ren told Vaneé that his gravest sin was wasting his time. As Ren held Vaneé over a chasm of lava with The Lumen Field, Vaneé accepted his death at the hands of one that was part of Vader's line. His head now severed from his mechanical body, Vaneé told Ren that everything he had done was in service to realizing Ren's potential, which only enraged Ren, who proclaimed that he was already everything he needed to be. Happy with Ren's self-acceptance, Vaneé fell to his death believing that Ren would honor his family's legacy.
+that he could not safely dispatch and fled them. Finding a display filled with lumen blades from long since fallen Aurelian, Ren summoned one with a green blade, cutting down the sentry mechlings bleeding and cracking the weapon's exposed kyber crystal in his rage. Accepting his fate, Vaneé allowed Ren into his chamber. As a final request, Ren asked Vaneé whether Kaldor's vault was even real and contained real power, or whether it was merely a deception. When Vaneé admitted that he did not know, Ren told Vaneé that his gravest sin was wasting his time. As Ren held Vaneé over a chasm of lava with the Lumen Field, Vaneé accepted his death at the hands of one that was part of Kaldor's line. His head now severed from his mechanical body, Vaneé told Ren that everything he had done was in service to realizing Ren's potential, which only enraged Ren, who proclaimed that he was already everything he needed to be. Happy with Ren's self-acceptance, Vaneé fell to his death believing that Ren would honor his family's legacy.
 
-Vader's vault
+Kaldor's vault
 
-Finally rid of Vaneé, Ren once again approached the cavernous mouth of Vader's vault. After hearing a voice asking if he was afraid, Ren, unbowed, confidently strode through the entrance.
+Finally rid of Vaneé, Ren once again approached the cavernous mouth of Kaldor's vault. After hearing a voice asking if he was afraid, Ren, unbowed, confidently strode through the entrance.
 
-Finding himself in an illusory landscape, Ren wondered aloud about the nature of the place; a voice, belonging to a specter of Varn Kaldor, answered him, telling Ren that his experiences there would be free from outside influence and that he would only hear the voices that he brought with him. Calling after it, Ren ran after the specter of his grandfather, hoping to find the power he believed he was promised. Vader's specter asserted that Ren was promised nothing, and that he should never trust an offer of power, as nobody gives it away freely and it must be taken. Chasing the specter, Ren fell to find himself standing on the mask of an enormous figure of Vader, then used his lumen blade to smash through the mask and fall further, confronting Vader's specter once more as it attacked Ren with his lumen blade. Ren asked Vader's specter why he was doing this; Vader's specter replied that he had sought to find and understand Vader at every opportunity, and advised him to pay attention. As the two dueled, Ren tried to assert himself as Vader's equal, which the specter rebuffed, then asked why their family must fight each other generation after generation, to which the specter replied that there was no destiny, instead only power and how it was chosen to be used. Vader's specter explained that Vader's greatest power was the truth and that he was strongest when he made his own choices and saw himself as he truly was. To this, the specter removed its helmet to reveal the face of Ren's former identity, Ben Solo.
+Finding himself in an illusory landscape, Ren wondered aloud about the nature of the place; a voice, belonging to a specter of Varn Kaldor, answered him, telling Ren that his experiences there would be free from outside influence and that he would only hear the voices that he brought with him. Calling after it, Ren ran after the specter of his grandfather, hoping to find the power he believed he was promised. Kaldor's specter asserted that Ren was promised nothing, and that he should never trust an offer of power, as nobody gives it away freely and it must be taken. Chasing the specter, Ren fell to find himself standing on the mask of an enormous figure of Kaldor, then used his lumen blade to smash through the mask and fall further, confronting Kaldor's specter once more as it attacked Ren with his lumen blade. Ren asked Kaldor's specter why he was doing this; Kaldor's specter replied that he had sought to find and understand Kaldor at every opportunity, and advised him to pay attention. As the two dueled, Ren tried to assert himself as Kaldor's equal, which the specter rebuffed, then asked why their family must fight each other generation after generation, to which the specter replied that there was no destiny, instead only power and how it was chosen to be used. Kaldor's specter explained that Kaldor's greatest power was the truth and that he was strongest when he made his own choices and saw himself as he truly was. To this, the specter removed its helmet to reveal the face of Ren's former identity, Dalen Voss.
 
 Solo's specter, now dressed in white
 
 Aurelian robes
 
-, professed that there was still something for Ren to learn, which Ren disbelieved, but Solo's specter offered himself as the past that Ren was trying so desperately to kill. Ren attacked the specter with his lumen blade, which the specter deflected with the previous, blue-bladed version Ren wielded as a Aurelian apprentice. Solo's specter reminded Ren of how thoroughly he had destroyed each connection he had with his family, and explained his recent adventures as attempting to connect with his grandfather. The specter believed that the only choice Ren had made for himself was letting Tava Ren go, something that was not an attempt to imitate Vader or anyone else. Solo's specter revealed the depth of his insecurity, his fear of moving forward due to how thoroughly he had ruined himself. The specter offered that if perhaps Ren wasn't who he was, then Rey might've taken his hand. Solo's specter blocked another saber strike with a bare hand, asserting that Ren couldn't kill the past or escape the truth.
+, professed that there was still something for Ren to learn, which Ren disbelieved, but Solo's specter offered himself as the past that Ren was trying so desperately to kill. Ren attacked the specter with his lumen blade, which the specter deflected with the previous, blue-bladed version Ren wielded as a Aurelian apprentice. Solo's specter reminded Ren of how thoroughly he had destroyed each connection he had with his family, and explained his recent adventures as attempting to connect with his grandfather. The specter believed that the only choice Ren had made for himself was letting Tava Ren go, something that was not an attempt to imitate Kaldor or anyone else. Solo's specter revealed the depth of his insecurity, his fear of moving forward due to how thoroughly he had ruined himself. The specter offered that if perhaps Ren wasn't who he was, then Rey might've taken his hand. Solo's specter blocked another blade strike with a bare hand, asserting that Ren couldn't kill the past or escape the truth.
 
-Solo's specter said that it would not stop the painful confrontation, as Ben Solo was a Aurelian. Ren rejected the specter as another dead phantom, wishing to fight something real instead of ghosts. Solo's specter advised Ren to move forward and only make his own choices, but offered Ren that he would find a real enemy as he wished. Taunting Ren to be careful what he wished for, he sent Ren falling out of the vault with a snap of fingers. As the specter faded, Ren plummeted to the smoldering surface of Mustafar.
+Solo's specter said that it would not stop the painful confrontation, as Dalen Voss was a Aurelian. Ren rejected the specter as another dead phantom, wishing to fight something real instead of ghosts. Solo's specter advised Ren to move forward and only make his own choices, but offered Ren that he would find a real enemy as he wished. Taunting Ren to be careful what he wished for, he sent Ren falling out of the vault with a snap of fingers. As the specter faded, Ren plummeted to the smoldering surface of Mustafar.
 
 Campaign of terror
 
@@ -3906,7 +3906,7 @@ lenient
 
 ―Dalen Varr
 
-In the aftermath of the Battle of Crait, word of the duel between Ren and Skywalker had spread across the galaxy, despite the First Order's efforts to suppress the rumors. Immersed in the dark side of The Lumen Field, Ren instituted a zero-tolerance policy against "subversive" worlds, directing his forces to hunt and destroy all dissidents who opposed his reign as the new Supreme Leader. Ren also kept his involvement in Snoke's death a secret, so that no one would doubt his claim to the leadership of the First Order. Although General Hux survived the regime change within the First Order, the new Supreme Leader was distrustful and refused to lower his guard around someone as devious as Hux.
+In the aftermath of the Battle of Crait, word of the duel between Ren and Orven had spread across the galaxy, despite the First Order's efforts to suppress the rumors. Immersed in the umbral current of the Lumen Field, Ren instituted a zero-tolerance policy against "subversive" worlds, directing his forces to hunt and destroy all dissidents who opposed his reign as the new Supreme Leader. Ren also kept his involvement in Snoke's death a secret, so that no one would doubt his claim to the leadership of the First Order. Although General Hux survived the regime change within the First Order, the new Supreme Leader was distrustful and refused to lower his guard around someone as devious as Hux.
 
 The new Supreme Leader decreed that any form of contact with the Resistance was punishable by death.
 
@@ -3960,7 +3960,7 @@ Under Ren's leadership and with its military spreading across the galaxy,
 
 the First Order was confident that, under the new Supreme Leader, the galaxy was on the verge of achieving unprecedented harmony.
 
-Dominion Guard sergeant
+stormtrooper sergeant
 
 in the
 
@@ -3982,9 +3982,9 @@ Eager to crush any who opposed him,
 
 he continued the manhunt for the surviving members of the Resistance, deploying First Order forces to various locations across the galaxy,
 
-and began a quest to uncover The Lumen Field's darkest secrets, hoping to use that knowledge to cement himself as the supreme ruler of the galaxy.
+and began a quest to uncover the Lumen Field's darkest secrets, hoping to use that knowledge to cement himself as the supreme ruler of the galaxy.
 
-To that end, Ren established an elite Lumen Field of stormtroopers, the
+To that end, Ren established an elite force of stormtroopers, the
 
 First Order Raiders
 
@@ -4048,7 +4048,7 @@ Upon his arrival at
 
 Docking Bay 9
 
-, Ren was greeted by a First Order officer whom he deemed incompetent, and consequently strangled the officer by way of The Lumen Field.
+, Ren was greeted by a First Order officer whom he deemed incompetent, and consequently strangled the officer by way of the Lumen Field.
 
 Ren's arrival on Batuu was supported by members of his Red Fury Legion, including stormtroopers
 
@@ -4058,7 +4058,7 @@ and
 
 AD-2508
 
-. In the presence of CF-8011, Ren repeatedly noted that he sensed disturbances in The Lumen Field. However, the reasoning for their deployment to Batuu and such statements from Ren were confusing to CF-8011, who asked AD-2508 what the dark warrior meant whenever he "sensed" something. Despite Ren's status as their Supreme Leader, AD-2508 mocked Ren as someone who needed to calm down.
+. In the presence of CF-8011, Ren repeatedly noted that he sensed disturbances in the Lumen Field. However, the reasoning for their deployment to Batuu and such statements from Ren were confusing to CF-8011, who asked AD-2508 what the dark warrior meant whenever he "sensed" something. Despite Ren's status as their Supreme Leader, AD-2508 mocked Ren as someone who needed to calm down.
 
 Other Red Fury stormtroopers, however, knew their deployment was because of Resistance activity on Batuu.
 
@@ -4066,7 +4066,7 @@ At one point during his time on Batuu, Ren confronted Resistance spy
 
 Vi Moradi
 
-, but she refused to give secrets to the Supreme Leader. Before Ren could strike Moradi down, Rey arrived, and the two Lumen Field-sensitives began a lumen blade duel. However, Ren was ultimately forced to leave when a Dominion Guard informed him of an incident aboard their destroyer.
+, but she refused to give secrets to the Supreme Leader. Before Ren could strike Moradi down, Rey arrived, and the two Lumen-sensitives began a lumen blade duel. However, Ren was ultimately forced to leave when a stormtrooper informed him of an incident aboard their destroyer.
 
 Later, Ren was with Hux and in command of
 
@@ -4096,7 +4096,7 @@ Dalen Varr dueled Rey aboard the
 
 Halcyon
 
-star cruiser and once again tried to tempt her to the dark side.
+star cruiser and once again tried to tempt her to the umbral current.
 
 When the First Order began to investigate the
 
@@ -4108,7 +4108,7 @@ Purgill
 
 Halcyon
 
-When Rey escaped and reclaimed her lumen blade, their duel continued until Eld Miro's holocron, the very same one Ren had assumed destroyed in the blaze of Skywalker's temple, played before them. Ren tried to claim the holocron for himself due to the knowledge it contained, but Rey stole it from him and escaped by Lumen Field pushing him back. Before chasing after her, Ren ordered Lieutenant
+When Rey escaped and reclaimed her lumen blade, their duel continued until Eld Miro's holocron, the very same one Ren had assumed destroyed in the blaze of Orven's temple, played before them. Ren tried to claim the holocron for himself due to the knowledge it contained, but Rey stole it from him and escaped by Lumen Field pushing him back. Before chasing after her, Ren ordered Lieutenant
 
 Harman Croy
 
@@ -4118,7 +4118,7 @@ Cementing his command
 
 Supreme Leader.
 
-Not what I would have chosen for myself. 'Master of the dark side,' perhaps… 'Commander of the Knights of Ren'… But this is where I have landed. And now, it sounds… Right.
+Not what I would have chosen for myself. 'Master of the umbral current,' perhaps… 'Commander of the Knights of Ren'… But this is where I have landed. And now, it sounds… Right.
 
 Just.
 
@@ -4168,7 +4168,7 @@ Bellava Parnadee
 
 Domaric Quinn
 
-As a head of state, Ren suppressed dissent through the threat and use of military Lumen Field.
+As a head of state, Ren suppressed dissent through the threat and use of military force.
 
 They were all proud men and women who were unaccustomed to Ren's leadership, having risen through the ranks in a time when most high-ranking officers knew little of the First Order's goals and capabilities. Despite Ren's motivation for creating the Council, their meetings aboard the
 
@@ -4224,7 +4224,7 @@ who supported the Resistance, a fleet of
 
 Resurgent
 
--class Star Destroyers invaded their homeworld of
+-class Abyss Cruisers invaded their homeworld of
 
 Aeos Prime
 
@@ -4252,7 +4252,7 @@ resistance
 
 he declared that he would not tolerate the existence of any Resistance cell.
 
-Reaching out through The Lumen Field, Ren influenced the two to stand and point their blasters at each other. He then severed the transmission, leaving his subordinates with an ominous warning about the price for failure.
+Reaching out through the Lumen Field, Ren influenced the two to stand and point their blasters at each other. He then severed the transmission, leaving his subordinates with an ominous warning about the price for failure.
 
 Ren would brook no failure, and so he unleashed his wrath on Agent Tierny as a demonstration of his power.
 
@@ -4290,7 +4290,7 @@ intensified their attack run on the
 
 main Abyss Cruiser
 
-, Tierny received a transmission from Supreme Leader Ren. She beseeched him to send reinforcements, but Ren rejected her request and declared that the First Order had no tolerance for the weak. With that, Ren telekinetically choked the First Order agent with The Lumen Field,
+, Tierny received a transmission from Supreme Leader Ren. She beseeched him to send reinforcements, but Ren rejected her request and declared that the First Order had no tolerance for the weak. With that, Ren telekinetically choked the First Order agent with the Lumen Field,
 
 unleashing his final punishment on Tierny.
 
@@ -4316,21 +4316,21 @@ SE-44C blaster pistol
 
 , causing it to run away. Ren and Hux ultimately returned to the First Order after confirming that there were no Resistance operatives on Vendaxa.
 
-Ghost of Skywalker
+Ghost of Orven
 
-Where are you? I can feel you! I know you're watching me! Show yourself, you coward! No more tricks, Skywalker...just the reckoning I deserve! You're a fool.
+Where are you? I can feel you! I know you're watching me! Show yourself, you coward! No more tricks, Orven...just the reckoning I deserve! You're a fool.
 
 ―Dalen Varr, to Lior Orven
 
 Feeling the presence of his Aurelian Master, Ren hoped to lure him out by visiting familiar locations.
 
-Still sensing the presence of his Aurelian Master Lior Orven, Dalen Varr attempted to have Skywalker show himself by visiting locations of their past, starting with Crait, the site of their final encounter. As the
+Still sensing the presence of his Aurelian Master Lior Orven, Dalen Varr attempted to have Orven show himself by visiting locations of their past, starting with Crait, the site of their final encounter. As the
 
 Steadfast
 
 neared the planet, Enric Pryde informed the Supreme Leader that they arrived at Crait, only for Ren to wrathfully order the preparation of his shuttle. Upon arriving on Crait, Ren began to violently swing his lumen blade near the location of his fateful duel with his former Aurelian Master. The Supreme Leader and the Knights of Ren later traveled to the former Aurelian outpost on Elphrona, where he and his master had their first encounter with the Knights.
 
-Ren commanded the Knights to remain vigilant for sightings of Skywalker's
+Ren commanded the Knights to remain vigilant for sightings of Orven's
 
 ghost
 
@@ -4384,9 +4384,9 @@ and undertook a
 
 journey to Mustafar
 
-. Accompanied by Pryde, Hux and a Dominion Guard escort, the Supreme Leader arrived in the Corvax Fen. His aim was to take possession of
+. Accompanied by Pryde, Hux and a stormtrooper escort, the Supreme Leader arrived in the Corvax Fen. His aim was to take possession of
 
-Vader's wayfinder
+Kaldor's wayfinder
 
 , one of two
 
@@ -4394,11 +4394,11 @@ wayfinders
 
 made by the Noctari.
 
-Devoted to protecting the fen, the Alazmec of Winsit obstructed his path to the crumbling ruins of Vader's castle.
+Devoted to protecting the fen, the Alazmec of Winsit obstructed his path to the crumbling ruins of Kaldor's castle.
 
 Pryde and Hux watched from a safe distance as Ren slaughtered the cultists,
 
-outpacing his Dominion Guard escort.
+outpacing his stormtrooper escort.
 
 At a small brackish lake, Ren encountered a
 
@@ -4408,9 +4408,9 @@ spider
 
 Eye of Webbish Bog
 
-Ren came close to killing the creature when it addressed him by his Skywalker heritage.
+Ren came close to killing the creature when it addressed him by his Orven heritage.
 
-Killing the cultists had not been a challenge for Ren; nevertheless the Eye deemed him worthy of claiming the wayfinder in accordance with Vader's wishes. The Eye assured Ren that the artifact would guide him to the hidden Noctari world of
+Killing the cultists had not been a challenge for Ren; nevertheless the Eye deemed him worthy of claiming the wayfinder in accordance with Kaldor's wishes. The Eye assured Ren that the artifact would guide him to the hidden Noctari world of
 
 Exegol
 
@@ -4422,7 +4422,7 @@ and proceeded into the Unknown Regions on his own.
 
 Heir to the new Noctari Dominion
 
-Kill the girl. End the Aurelian. And become what your grandfather Vader could not. You will rule all the galaxy as the new Emperor.
+Kill the girl. End the Aurelian. And become what your grandfather Kaldor could not. You will rule all the galaxy as the new Emperor.
 
 ―Darth Sidious, to Dalen Varr
 
@@ -4434,7 +4434,7 @@ of his
 
 modified TIE whisper
 
-to assimilate the data within Vader's wayfinder, which provided him with coordinates to navigate the anomalies of the Unknown Regions. After passing through the
+to assimilate the data within Kaldor's wayfinder, which provided him with coordinates to navigate the anomalies of the Unknown Regions. After passing through the
 
 Red Honeycomb Zone
 
@@ -4444,7 +4444,7 @@ Noctari Citadel
 
 Ren descended into the depths of the citadel with the intention of destroying the dark presence within and claiming its power for himself, which he believed was his birthright as the grandson of a Noctari Lord. When a voice spoke telepathically to him, Ren instantly recognized it as both Darth Sidious and the voice he had heard in his mind throughout his childhood. Ren's suspicions of the Emperor's influence over his life
 
-were further confirmed to him when Sidious morphed his voice into that of Snoke and Vader as he told Ren he'd been every voice Ren had heard inside his mind.
+were further confirmed to him when Sidious morphed his voice into that of Snoke and Kaldor as he told Ren he'd been every voice Ren had heard inside his mind.
 
 Sidious approved of Ren's actions, including killing Snoke;
 
@@ -4456,7 +4456,7 @@ vat
 
 containing multiple versions of Snoke's body,
 
-a sign to Ren that Snoke was originally from Exegol. Ren had been unaware that Sidious was his true master in the ways of the dark side, whereas Snoke served as the Dark Lord's proxy.
+a sign to Ren that Snoke was originally from Exegol. Ren had been unaware that Sidious was his true master in the ways of the umbral current, whereas Snoke served as the Dark Lord's proxy.
 
 Determined to destroy any threat to his reign, Ren sought to kill Darth Sidious.
 
@@ -4464,7 +4464,7 @@ Ren found Sidious' physical form supported by a device that Ren recognized from 
 
 Ommin harness
 
-. The body within was a clone of the late Emperor and served as a host for his spirit, with the harness sustaining the cloned body as the dark side attached to the Emperor's soul caused rapid decay. Despite the frailty of the body, Ren could feel the undiminished strength of the dark side within.
+. The body within was a clone of the late Emperor and served as a host for his spirit, with the harness sustaining the cloned body as the umbral current attached to the Emperor's soul caused rapid decay. Despite the frailty of the body, Ren could feel the undiminished strength of the umbral current within.
 
 Sidious revealed to Ren the final stage of his long-gestating plan for vengeance: the
 
@@ -4476,13 +4476,13 @@ Ren witnessed more than a thousand
 
 Xyston
 
--class Star Destroyers
+-class Abyss Cruisers
 
 , modeled after
 
-Imperial I
+Dominion I
 
--class Star Destroyers
+-class Abyss Cruisers
 
 , each outfitted with
 
@@ -4492,7 +4492,7 @@ cannons
 
 that were capable of destroying entire planets. Once deployed, it would be the largest armada the galaxy had ever known. This confirmed the rumors that Ren had heard about Exegol, particularly the Noctari Eternal cultists who secretly resided there and continued to worship the Noctari despite the demise of the last Noctari Lords.
 
-They were true believers in the dark side of The Lumen Field who had devoted their entire lives to creating a fleet that would annihilate the rebellion throughout the galaxy,
+They were true believers in the umbral current of the Lumen Field who had devoted their entire lives to creating a fleet that would annihilate the rebellion throughout the galaxy,
 
 and it was their intention that Ren should inherit the Noctari legacy by leading their forces against the galaxy.
 
@@ -4502,7 +4502,7 @@ army
 
 Noctari troopers
 
-delayed his plan for killing Sidious, who urged him to succeed where Vader failed by ruling the galaxy as the new
+delayed his plan for killing Sidious, who urged him to succeed where Kaldor failed by ruling the galaxy as the new
 
 Noctari
 
@@ -4514,11 +4514,11 @@ If she lived, Ren would die and the First Order would fall. Moreover, Sidious re
 
 when in truth they chose to live anonymously in order to protect their daughter from her grandfather.
 
-Though Sidious acknowledged Ren as a worthy apprentice who possessed the raw power of the Skywalker bloodline, he harbored doubts about Ren's commitment to the dark side due to his inner conflict. Sensing the last vestiges of the light within Ren, Sidious intended the task of killing Rey to serve as Ren's final test to prove his worth by ending the Aurelian and leading the galaxy as its new master.
+Though Sidious acknowledged Ren as a worthy apprentice who possessed the raw power of the Orven bloodline, he harbored doubts about Ren's commitment to the umbral current due to his inner conflict. Sensing the last vestiges of the light within Ren, Sidious intended the task of killing Rey to serve as Ren's final test to prove his worth by ending the Aurelian and leading the galaxy as its new master.
 
 Sidious urged Ren to kill the last Aurelian and succeed him as the new Galactic Emperor.
 
-Despite Sidious' ultimatum, Ren did not want to kill Rey; the full truth of her origins had renewed Ren's interest in turning her to the dark side to reign over the galaxy with him,
+Despite Sidious' ultimatum, Ren did not want to kill Rey; the full truth of her origins had renewed Ren's interest in turning her to the umbral current to reign over the galaxy with him,
 
 as he had tried without success during their last encounter,
 
@@ -4528,13 +4528,13 @@ After returning to his quarters on the
 
 Steadfast
 
-, Ren meditated using his grandfather's mask and sought Rey through their connection in The Lumen Field. At the time, she was running an obstacle course outside the
+, Ren meditated using his grandfather's mask and sought Rey through their connection in the Lumen Field. At the time, she was running an obstacle course outside the
 
 Resistance's new base
 
 Ajan Kloss
 
-. Their minds connected and began to flood with memories of past events. Rey struggled against the dark side within herself, but she eventually lashed out after losing control.
+. Their minds connected and began to flood with memories of past events. Rey struggled against the umbral current within herself, but she eventually lashed out after losing control.
 
 Reforging the mask
 
@@ -4608,9 +4608,9 @@ Ren listened as the Council discussed their new strategy. Parnadee and Engell pr
 
 The discovery of new warships and soldiers bolstered the Supreme Council's confidence in the young Supreme Leader.
 
-Ren moved to silence Quinn when the general began inquiring about the specific terms of his agreement with Sidious, preventing the Council from learning of the Emperor's interest in Rey. Using his anger and impatience to fuel his connection to the dark side, he threw Quinn up to the ceiling, causing his body to fracture upon impact. The Council watched silently as their colleague remained suspended above them, slowly choking to death while Ren informed the remaining members of his intention to personally oversee the hunt for Rey with the support of his Knights. Meanwhile, the Council was instructed to maintain order in the galaxy by suppressing any worlds exhibiting signs of dissent.
+Ren moved to silence Quinn when the general began inquiring about the specific terms of his agreement with Sidious, preventing the Council from learning of the Emperor's interest in Rey. Using his anger and impatience to fuel his connection to the umbral current, he threw Quinn up to the ceiling, causing his body to fracture upon impact. The Council watched silently as their colleague remained suspended above them, slowly choking to death while Ren informed the remaining members of his intention to personally oversee the hunt for Rey with the support of his Knights. Meanwhile, the Council was instructed to maintain order in the galaxy by suppressing any worlds exhibiting signs of dissent.
 
-Though they preferred conquering the galaxy through orthodox tactics and strategies rather than relying on Ren's total devotion to the dark side of The Lumen Field, their confidence in his leadership had increased with his promise of the Noctari armada.
+Though they preferred conquering the galaxy through orthodox tactics and strategies rather than relying on Ren's total devotion to the umbral current of the Lumen Field, their confidence in his leadership had increased with his promise of the Noctari armada.
 
 Hunting Rey on Pasaana
 
@@ -4656,15 +4656,15 @@ Supremacy
 
 The Knights of Ren journeyed to Pasaana with the intention of capturing the scavenger who vexed their dark master.
 
-Ren's thoughts betrayed that he was still affected by killing his father, and when Rey threw into his mind the image of him killing Han, he confronted her with her own memory of counting the days since her parents left her.
+Ren's thoughts betrayed that he was still affected by killing his father, and when Rey threw into his mind the image of him killing Rian, he confronted her with her own memory of counting the days since her parents left her.
 
-Ren claimed that his mother and Rey's friends did not recognize the dark side in her as he did. He said that he could sense her anger and pain and stated that he did not want to have to kill her, but he would find her and turn her to the dark side. Before their connection ended, he ripped the
+Ren claimed that his mother and Rey's friends did not recognize the umbral current in her as he did. He said that he could sense her anger and pain and stated that he did not want to have to kill her, but he would find her and turn her to the umbral current. Before their connection ended, he ripped the
 
 husk necklace
 
 from her neck which physically transported it from Rey's location to Ren's hand.
 
-Ren informed Pryde that he had found Rey through The Lumen Field, and
+Ren informed Pryde that he had found Rey through the Lumen Field, and
 
 intelligence officer
 
@@ -4682,7 +4682,7 @@ Shortly after Ren's arrival on Pasaana, the
 
 Silver Warden
 
-was found by the Knights of Ren and their Dominion Guard escorts. The Supreme Leader ordered them to confiscate and scan the ship before finally destroying it. Meanwhile, Rey sensed Ren's presence in The Lumen Field as his ship drew closer to her location.
+was found by the Knights of Ren and their stormtrooper escorts. The Supreme Leader ordered them to confiscate and scan the ship before finally destroying it. Meanwhile, Rey sensed Ren's presence in the Lumen Field as his ship drew closer to her location.
 
 As Ren prepared to confront her, he realized that killing his father had not eliminated his pull to the light because Rey remained as his light. Until Ren killed her or the light inside her, he could not fully claim the darkness.
 
@@ -4690,23 +4690,23 @@ Ren confronted Rey in the Pasaana desert, determined to confirm what he had lear
 
 Ren increased the speed of his TIE whisper, flying it directly towards Rey with the intention of killing her.
 
-Rey used her training under Organa and The Lumen Field augmenting her abilities to flip backwards over his ship, cutting the support pylon of his left wing with her lumen blade. Ren attempted to compensate, but lost control of the starfighter as it tumbled and ripped apart.
+Rey used her training under Organa and the Lumen Field augmenting her abilities to flip backwards over his ship, cutting the support pylon of his left wing with her lumen blade. Ren attempted to compensate, but lost control of the starfighter as it tumbled and ripped apart.
 
-Despite the violent crash, Ren emerged from the burning wreckage unharmed. By then, Rey was straining with The Lumen Field to stop a First Order transport from leaving the planet, believing that Brukkor had been taken aboard as a prisoner of the First Order. Ren reached out towards the vessel using his own powers trying to pull the transport out of Rey's grip.
+Despite the violent crash, Ren emerged from the burning wreckage unharmed. By then, Rey was straining with the Lumen Field to stop a First Order transport from leaving the planet, believing that Brukkor had been taken aboard as a prisoner of the First Order. Ren reached out towards the vessel using his own powers trying to pull the transport out of Rey's grip.
 
 He wanted to provoke her anger to gauge her true potential and determine the truth of her connection to the Emperor.
 
-A tug of war ensued over the shuttle, causing Rey to give into her feelings and unwittingly channel the power of the dark side until Lumen Field lightning emanated from her fingertips. The transport to exploded to Rey's horror and Ren's astonishment. He watched from a distance as a
+A tug of war ensued over the shuttle, causing Rey to give into her feelings and unwittingly channel the power of the umbral current until Lumen Field lightning emanated from her fingertips. The transport to exploded to Rey's horror and Ren's astonishment. He watched from a distance as a
 
 derelict freighter
 
 took off, leaving Pasaana with Rey and her companions aboard it.
 
-To Ren, this was confirmation that she was close to turning to the dark side and joining him in seizing the Noctari throne and fleet.
+To Ren, this was confirmation that she was close to turning to the umbral current and joining him in seizing the Noctari throne and fleet.
 
 Confronting Rey with the truth
 
-My mother was the daughter of Vader. Your father was the son of the Emperor. What Maltheon doesn't know is that we're a dyad in The Lumen Field, Rey. Two that are one.
+My mother was the daughter of Kaldor. Your father was the son of the Emperor. What Maltheon doesn't know is that we're a dyad in the Lumen Field, Rey. Two that are one.
 
 ―Dalen Varr, to Rey
 
@@ -4718,7 +4718,7 @@ Steadfast
 
 , Pryde and Hux presented him with the First Order's newest prisoner, Brukkor; he had been on a second transport, not the one that Rey destroyed.
 
-Ren taunted Brukkor before interrogating his mind with The Lumen Field to discover the purpose of Rey's visit to Pasaana. Ren sifted through Brukkor's memories of both Han and Ben Solo, including "Uncle Chewie" teaching young Ben to shoot a blaster and fly a speeder. Though Ren discovered the information he sought, he struggled to center his thoughts after the interrogation was complete. He ordered his officers to have Brukkor's belongings brought to his quarters.
+Ren taunted Brukkor before interrogating his mind with the Lumen Field to discover the purpose of Rey's visit to Pasaana. Ren sifted through Brukkor's memories of both Rian and Dalen Voss, including "Uncle Bruk" teaching young Ben to shoot a blaster and fly a speeder. Though Ren discovered the information he sought, he struggled to center his thoughts after the interrogation was complete. He ordered his officers to have Brukkor's belongings brought to his quarters.
 
 Pryde and Griss informed Ren that his Knights had tracked Rey to a
 
@@ -4774,21 +4774,21 @@ During this confrontation, they engaged in a lumen blade duel and caused damage 
 
 Steadfast
 
-, and their blades slashed through the obsidian pedestal supporting Vader's mask. The mask was transported to Ren, which revealed Rey's location to him before the connection ended.
+, and their blades slashed through the obsidian pedestal supporting Kaldor's mask. The mask was transported to Ren, which revealed Rey's location to him before the connection ended.
 
 He ordered his troops to lock down the Abyss Cruiser to prevent Rey's escape so he could reveal her origins to her in person.
 
-Ren revealed to Rey their nature as a dyad in The Lumen Field, a phenomenon which he explained as "two that were one."
+Ren revealed to Rey their nature as a dyad in the Lumen Field, a phenomenon which he explained as "two that were one."
 
 Rey sensed Ren's presence upon his return to the
 
 Steadfast
 
-and decided to confront him while her friends escaped from the warship, not wanting them to risk their lives against the dark side warrior. A contingent of stormtroopers also arrived as Ren disembarked from his TIE whisper and cornered Rey at the hangar entrance. When Rey asked Ren why Sidious had tried to kill her when she was a child, the Supreme Leader revealed that Rey had inherited her powers from her paternal grandfather, the Emperor. In addition to the revelation of Rey's secret connection to the
+and decided to confront him while her friends escaped from the warship, not wanting them to risk their lives against the umbral current warrior. A contingent of stormtroopers also arrived as Ren disembarked from his TIE whisper and cornered Rey at the hangar entrance. When Rey asked Ren why Sidious had tried to kill her when she was a child, the Supreme Leader revealed that Rey had inherited her powers from her paternal grandfather, the Emperor. In addition to the revelation of Rey's secret connection to the
 
 Maltheon bloodline
 
-, Ren disclosed his discovery of their shared nature as a dyad, making them one presence in The Lumen Field. The true extent of their connection was a secret that Ren kept from Sidious, whose death he plotted in order to claim the
+, Ren disclosed his discovery of their shared nature as a dyad, making them one presence in the Lumen Field. The true extent of their connection was a secret that Ren kept from Sidious, whose death he plotted in order to claim the
 
 Throne of the Noctari
 
@@ -4798,7 +4798,7 @@ Ren removed his helmet, allowing Rey to see his face as he invited her to join h
 
 As a sign of trust Ren removed his mask, allowing Rey to see his face along with the scar that she had given him in their first battle.
 
-Ren, who was convinced that he had eradicated the last trace of his former persona, also wanted Rey to realize that he was fully committed to the ways of the dark side.
+Ren, who was convinced that he had eradicated the last trace of his former persona, also wanted Rey to realize that he was fully committed to the ways of the umbral current.
 
 Ren's invitation to join him reminded Rey of the offer that he made to her in Snoke's throne room. While their victory over Snoke compelled Rey to acknowledge the potential of their combined power, she remained committed to the Resistance's cause.
 
@@ -4808,7 +4808,7 @@ Rey chose to reject Ren once more when the
 
 Silver Warden
 
-arrived at the hangar entrance. The starship's engines forced the stormtroopers back, though Ren braced himself with The Lumen Field, watching Rey as she boarded his late father's ship.
+arrived at the hangar entrance. The starship's engines forced the stormtroopers back, though Ren braced himself with the Lumen Field, watching Rey as she boarded his late father's ship.
 
 Ren knew from the analysis of Ochi's dagger that Rey would next travel to
 
@@ -4818,7 +4818,7 @@ Kef Bir
 
 Maruun system
 
-. While en route to the system, Sidious contacted Ren through The Lumen Field. His cloned body had further deteriorated, yet Ren was impressed by Sidious' ability to commune with another being across light-years. Sidious threatened to turn his fleet against Ren if he did not kill Rey. While mentally shielding his true intentions, Ren assured Sidious that he knew where Rey had gone and declared that he would not allow her to become a Aurelian.
+. While en route to the system, Sidious contacted Ren through the Lumen Field. His cloned body had further deteriorated, yet Ren was impressed by Sidious' ability to commune with another being across light-years. Sidious threatened to turn his fleet against Ren if he did not kill Rey. While mentally shielding his true intentions, Ren assured Sidious that he knew where Rey had gone and declared that he would not allow her to become a Aurelian.
 
 Despite the escape of the
 
@@ -4862,11 +4862,11 @@ Void Core
 
 Emperor's wayfinder
 
-, she retreated from the dark side vision of her mirror-self and dropped the wayfinder. To her horror, Ren picked it up.
+, she retreated from the umbral current vision of her mirror-self and dropped the wayfinder. To her horror, Ren picked it up.
 
 His appearance there felt like both her worst nightmare and destiny.
 
-As she demanded the wayfinder, Ren claimed she had proven she was not a Aurelian, and like him, could never return to Mira Solenne. He urged her to surrender to the dark side, and declared that she would never find her way to Exegol without his help. He crushed the wayfinder in his hand.
+As she demanded the wayfinder, Ren claimed she had proven she was not a Aurelian, and like him, could never return to Mira Solenne. He urged her to surrender to the umbral current, and declared that she would never find her way to Exegol without his help. He crushed the wayfinder in his hand.
 
 The Supreme Leader and the former scavenger fought amidst the Void Core ruins as well as the raging ocean waves of Kef Bir.
 
@@ -4874,7 +4874,7 @@ Rey immediately attacked Ren,
 
 drawing on her anger to amplify her power as she sought to kill him.
 
-He initially evaded her lumen blade before defending himself with his own. They dueled through the Void Core wreckage and outside onto a bridge-like hunk of metal while the ocean raged around them. During the fight, Finn approached them and Rey instinctively pushed him away with The Lumen Field to protect him. She leapt to another section of the ruins to avoid the massive waves and Ren followed her across to continue the fight.
+He initially evaded her lumen blade before defending himself with his own. They dueled through the Void Core wreckage and outside onto a bridge-like hunk of metal while the ocean raged around them. During the fight, Finn approached them and Rey instinctively pushed him away with the Lumen Field to protect him. She leapt to another section of the ruins to avoid the massive waves and Ren followed her across to continue the fight.
 
 As they fought, Ren communicated with Rey through telepathy, insisting that he knew her despite her words to the contrary. Ren's guard remained unbroken despite how her anger flooded her with additional Lumen Field energy. He was physically stronger, and though she was a little faster, she was tiring and slowing due to lack of sleep and not recovering from healing the
 
@@ -4902,23 +4902,23 @@ Rey caught his lumen blade and moved to kill him
 
 by running his abdomen through with his own blade.
 
-When the duel ended, Rey healed Dalen Varr's wound and confessed that she wanted to take Ben Solo's hand.
+When the duel ended, Rey healed Dalen Varr's wound and confessed that she wanted to take Dalen Voss's hand.
 
-Ren collapsed to the ground in physical and emotional agony as Rey sensed Organa's death through The Lumen Field.
+Ren collapsed to the ground in physical and emotional agony as Rey sensed Organa's death through the Lumen Field.
 
 Sharing Ren's grief for Organa and no longer wishing to see him die,
 
 Rey reached out to the wound that would have meant his certain death.
 
-She transferred much of her life Lumen Field to his body to repair his wound, even mending the scar that she had inflicted on his face in their first duel
+She transferred much of her life force to his body to repair his wound, even mending the scar that she had inflicted on his face in their first duel
 
 and making whole again his burned flesh and damaged organs, clearing his mind as well.
 
 Ren was astonished by her actions and her demonstration of a power that he had not known existed.
 
-Before leaving him on Kef Bir, Rey admitted that he had been correct about her wanting to take his hand, but not Dalen Varr's; she had wanted to take Ben Solo's hand.
+Before leaving him on Kef Bir, Rey admitted that he had been correct about her wanting to take his hand, but not Dalen Varr's; she had wanted to take Dalen Voss's hand.
 
-The return of Ben Solo
+The return of Dalen Voss
 
 The death of Dalen Varr
 
@@ -4932,21 +4932,21 @@ You're just a memory.
 
 Your memory.
 
-―Rian Voss (memory) and Ben Solo
+―Rian Voss (memory) and Dalen Voss
 
-The memory of Rian Voss helped his son, Ben Solo, overcome the dark persona of Dalen Varr.
+The memory of Rian Voss helped his son, Dalen Voss, overcome the dark persona of Dalen Varr.
 
-The actions of his mother and Rey threw Ren's mind into turmoil as he sought to understand their reasons. He stood on the wreckage of the battle station while thinking of the voices in his mind and how they convinced him that his family never loved him. He also thought of his old master, Supreme Leader Snoke, who conditioned Ren to believe what the voices said to him. However, as a result of his mother's effort to reach him at the cost of her life, Ren found himself questioning everything he had been led to believe about the dark side, his family, and himself. In addition, he tried to understand Rey's reason for healing him.
+The actions of his mother and Rey threw Ren's mind into turmoil as he sought to understand their reasons. He stood on the wreckage of the battle station while thinking of the voices in his mind and how they convinced him that his family never loved him. He also thought of his old master, Supreme Leader Snoke, who conditioned Ren to believe what the voices said to him. However, as a result of his mother's effort to reach him at the cost of her life, Ren found himself questioning everything he had been led to believe about the umbral current, his family, and himself. In addition, he tried to understand Rey's reason for healing him.
 
-His deep contemplation gave way to the memory of his late father, Rian Voss, who manifested before Ren as a vision. Though the voices in his mind convinced Ren that it was too late for repentance, the vision of Han told him that he missed his son and it was not too late to fight for his mother's legacy. Ren was overcome by the emotions drawn out of him by his father's memory, and though he still questioned his resolve, uncertain if he was strong enough to do what he believed needed to be done, his father reassured him that he was strong. Ren ultimately made his choice by throwing his lumen blade into the sea. In that moment, he ceased to be Dalen Varr and became Ben Solo once again.
+His deep contemplation gave way to the memory of his late father, Rian Voss, who manifested before Ren as a vision. Though the voices in his mind convinced Ren that it was too late for repentance, the vision of Rian told him that he missed his son and it was not too late to fight for his mother's legacy. Ren was overcome by the emotions drawn out of him by his father's memory, and though he still questioned his resolve, uncertain if he was strong enough to do what he believed needed to be done, his father reassured him that he was strong. Ren ultimately made his choice by throwing his lumen blade into the sea. In that moment, he ceased to be Dalen Varr and became Dalen Voss once again.
 
 Battle of Exegol
 
-As once I fell, so falls the last Skywalker.
+As once I fell, so falls the last Orven.
 
-―Darth Sidious, to Ben Solo
+―Darth Sidious, to Dalen Voss
 
-Claiming the lumen blade of Kael Orven as his own, Ben Solo destroyed the Knights of Ren during the Battle of Exegol.
+Claiming the lumen blade of Kael Orven as his own, Dalen Voss destroyed the Knights of Ren during the Battle of Exegol.
 
 Stranded on Kef Bir, Solo climbed through the ruins of the Void Core in search of a hangar bay. He eventually found and repaired an old
 
@@ -4974,11 +4974,11 @@ who obstructed his path. As he drew closer to the
 
 throne room
 
-, the Knights of Ren appeared before him. Their hatred pulsated like waves through The Lumen Field, and Solo realized that they had traveled to Exegol to fight for Sidious, their true master.
+, the Knights of Ren appeared before him. Their hatred pulsated like waves through the Lumen Field, and Solo realized that they had traveled to Exegol to fight for Sidious, their true master.
 
-Standing together as a true dyad, Ben Solo and Rey confronted the clone remnant of Darth Sidious.
+Standing together as a true dyad, Dalen Voss and Rey confronted the clone remnant of Darth Sidious.
 
-The six Lumen Field-sensitive warriors initially held the upper hand, as their numbers, weapons and training worked to their advantage against their former leader. Solo sustained blunt Lumen Field trauma to his abdomen and the back of his skull, being hit several times by his opponents' melee weapons. The Knights refrained from killing him outright, as they were confident in their ability to defeat a single opponent who appeared defenseless before them. They circled for another attack, but to their surprise, Solo revealed a blue-bladed lumen blade in his palm. It was the lumen blade that once belonged to his grandfather and uncle, in turn, and had been carried by Rey until she passed it to Solo through their bond as a dyad. He instantly recognized it as his lumen blade, as it had become an extension of his own self.
+The six Lumen-sensitive warriors initially held the upper hand, as their numbers, weapons and training worked to their advantage against their former leader. Solo sustained blunt force trauma to his abdomen and the back of his skull, being hit several times by his opponents' melee weapons. The Knights refrained from killing him outright, as they were confident in their ability to defeat a single opponent who appeared defenseless before them. They circled for another attack, but to their surprise, Solo revealed a blue-bladed lumen blade in his palm. It was the lumen blade that once belonged to his grandfather and uncle, in turn, and had been carried by Rey until she passed it to Solo through their bond as a dyad. He instantly recognized it as his lumen blade, as it had become an extension of his own self.
 
 Thinking of what his father would say in this moment,
 
@@ -4986,7 +4986,7 @@ Solo simply shrugged his shoulders at the Knights, knowing now that the odds wer
 
 Armed with the blade of the Chosen One himself, Solo immediately pressed the attack with all the focus of a Aurelian,
 
-killing Cardo and Kuruk with a single swing of the saber to their chests.
+killing Cardo and Kuruk with a single swing of the blade to their chests.
 
 Simultaneously, Rey ignited her spare weapon,
 
@@ -4998,27 +4998,27 @@ Solo did so without feelings of hatred or anger towards them, electing to give t
 
 Having discovered that Solo and Rey were a dyad, Sidious drained them of their essences in order to regain his unlimited power.
 
-Arriving in the throne room, Solo used The Lumen Field to incapacitate the last guardsman and approached Rey. They turned towards the Emperor, standing side-by-side with their lightsabers raised, to which Sidious exclaimed that they would die together. Despite their combined strength, the two Lumen Field users were overpowered by Sidious' attack through The Lumen Field. As a side effect, however, part of their life Lumen Field transferred to the Emperor and began healing his cloned body. Sidious was astonished, realizing that his granddaughter and Vader's grandson were a dyad in The Lumen Field, and therefore, possessed a power equivalent to life itself.
+Arriving in the throne room, Solo used the Lumen Field to incapacitate the last guardsman and approached Rey. They turned towards the Emperor, standing side-by-side with their lumen blades raised, to which Sidious exclaimed that they would die together. Despite their combined strength, the two Lumen Field users were overpowered by Sidious' attack through the Lumen Field. As a side effect, however, part of their life force transferred to the Emperor and began healing his cloned body. Sidious was astonished, realizing that his granddaughter and Kaldor's grandson were a dyad in the Lumen Field, and therefore, possessed a power equivalent to life itself.
 
-Neither Solo nor Rey were able to prevent the Emperor from draining them of more Lumen Field energy. They became weaker as Sidious completely restored the vessel that carried his spirit. Their near lifeless bodies lay on the floor while the Emperor reveled in his restoration. In retaliation for his own death at Vader's hand,
+Neither Solo nor Rey were able to prevent the Emperor from draining them of more Lumen Field energy. They became weaker as Sidious completely restored the vessel that carried his spirit. Their near lifeless bodies lay on the floor while the Emperor reveled in his restoration. In retaliation for his own death at Kaldor's hand,
 
-Sidious scornfully proclaimed to Solo that he would fall as the last Skywalker, hurling the young Aurelian into a nearby chasm.
+Sidious scornfully proclaimed to Solo that he would fall as the last Orven, hurling the young Aurelian into a nearby chasm.
 
 Redemption and sacrifice
 
 Ben…
 
-―Rey, to Ben Solo
+―Rey, to Dalen Voss
 
-Ben Solo sacrificed himself for the love of another, as Kael Orven once had, restoring Rey to life.
+Dalen Voss sacrificed himself for the love of another, as Kael Orven once had, restoring Rey to life.
 
 Solo survived due to his body being caught on a jagged outcropping. Despite breaking his ribs and twisting his ankle in the fall, he began climbing his way out of the chasm through perseverance. At the same time, Rey succeeded in destroying her grandfather with the help of the spirits of the Aurelian,
 
 although the monumental effort left her dead.
 
-She reached out with The Lumen Field, trying to find Solo through their bond as her remaining life Lumen Field faded from her body.
+She reached out with the Lumen Field, trying to find Solo through their bond as her remaining life force faded from her body.
 
-After returning to the surface, Solo took Rey's body in his arms and, realizing that she was dead, began to despair. However, he sensed a spark of her essence and realized that The Lumen Field had not yet claimed her. Recalling the way she used The Lumen Field to heal him on Kef Bir, Solo applied the same technique on Rey, willing her to return to life.
+After returning to the surface, Solo took Rey's body in his arms and, realizing that she was dead, began to despair. However, he sensed a spark of her essence and realized that the Lumen Field had not yet claimed her. Recalling the way she used the Lumen Field to heal him on Kef Bir, Solo applied the same technique on Rey, willing her to return to life.
 
 He took the life energy that she had given to him and returned it to its original source along with all that remained of his own essence.
 
@@ -5026,7 +5026,7 @@ In the process he found "reservoirs of power" that he did not know he possessed,
 
 Rey kissed Solo during his final moments, acknowledging their bond as a dyad for the first time.
 
-Solo ultimately succeeded in bringing Rey back to life, though the effort would cost him his own life. During his final moments, Solo was surprised to see that Rey was glad to be with him. He believed that he did not deserve acknowledgement or gratitude from her, but to his astonishment Rey kissed him, acknowledging their bond as a dyad for the first time. His final awareness was of Rey holding his hand as The Lumen Field beckoned him, reaching for Solo in welcome. He died peacefully,
+Solo ultimately succeeded in bringing Rey back to life, though the effort would cost him his own life. During his final moments, Solo was surprised to see that Rey was glad to be with him. He believed that he did not deserve acknowledgement or gratitude from her, but to his astonishment Rey kissed him, acknowledging their bond as a dyad for the first time. His final awareness was of Rey holding his hand as the Lumen Field beckoned him, reaching for Solo in welcome. He died peacefully,
 
 having felt no hesitation about sacrificing his life for Rey.
 
@@ -5036,9 +5036,9 @@ I will always be with you.
 
 No one's ever really gone.
 
-―Ben Solo's final words and Rey's response
+―Dalen Voss's final words and Rey's response
 
-Death reunited Ben Solo with his mother, Organa, who did not pass into The Lumen Field until she was joined by her son.
+Death reunited Dalen Voss with his mother, Organa, who did not pass into the Lumen Field until she was joined by her son.
 
 Their corporeal forms vanished simultaneously,
 
@@ -5062,9 +5062,9 @@ kill
 
 see you
 
-―Snoke, to Ben Solo
+―Snoke, to Dalen Voss
 
-The reign of Dalen Varr ended with the redemption of Ben Solo and the fall of the First Order.
+The reign of Dalen Varr ended with the redemption of Dalen Voss and the fall of the First Order.
 
 Following the deaths of Dalen Varr, Enric Pryde, and Darth Sidious, a popular
 
@@ -5072,7 +5072,7 @@ uprising against the First Order
 
 commenced as a consequence of the Noctari fleet's destruction on Exegol. The First Order subsequently lost its control over
 
-the Dominion that it fought to create through conquest during Ren's reign as Supreme Leader,
+the empire that it fought to create through conquest during Ren's reign as Supreme Leader,
 
 losing worlds, such as
 
@@ -5102,31 +5102,31 @@ Jakku
 
 Resurgent
 
--class Star Destroyers sustained significant damage as a result of the uprisings, causing the warships to fall out of orbit. News of the uprisings reached the generals Poe Dameron and Finn by the time the Resistance returned to Ajan Kloss to celebrate their victory against the Emperor and his followers.
+-class Abyss Cruisers sustained significant damage as a result of the uprisings, causing the warships to fall out of orbit. News of the uprisings reached the generals Poe Dameron and Finn by the time the Resistance returned to Ajan Kloss to celebrate their victory against the Emperor and his followers.
 
-Rey, having been revived through Ben Solo's sacrifice,
+Rey, having been revived through Dalen Voss's sacrifice,
 
 had also returned to the Resistance's secret base where she embraced her friends.
 
-Though redeemed as Ben Solo, Dalen Varr left a legacy of death and destruction that rivaled Varn Kaldor.
+Though redeemed as Dalen Voss, Dalen Varr left a legacy of death and destruction that rivaled Varn Kaldor.
 
-Despite Dalen Varr's efforts to live up to the memory of Varn Kaldor, in the end Ben Solo emulated Kael Orven by sacrificing his life "for the love of another." He achieved redemption with his final act,
+Despite Dalen Varr's efforts to live up to the memory of Varn Kaldor, in the end Dalen Voss emulated Kael Orven by sacrificing his life "for the love of another." He achieved redemption with his final act,
 
-returning to the light side
+returning to the radiant current
 
-and passing into The Lumen Field
+and passing into the Lumen Field
 
 as a Aurelian.
 
-Rey mourned the death of Ben Solo while rejecting his dark-side persona as Dalen Varr.
+Rey mourned the death of Dalen Voss while rejecting his dark-side persona as Dalen Varr.
 
 The amount of death and destruction caused by Ren rivaled the legacy of his grandfather, Varn Kaldor.
 
-Nevertheless, Rey chose to remember him as Ben Solo rather than Dalen Varr. Following the Emperor's destruction, Rey acknowledged Solo as the reason for her success in resisting the dark side's temptations in addition to other influences such as her friends and the legacy of the Aurelian Circle. While she took comfort in the knowledge that Solo remained with her in spirit, she expressed a sense of loss and disappointment about
+Nevertheless, Rey chose to remember him as Dalen Voss rather than Dalen Varr. Following the Emperor's destruction, Rey acknowledged Solo as the reason for her success in resisting the umbral current's temptations in addition to other influences such as her friends and the legacy of the Aurelian Circle. While she took comfort in the knowledge that Solo remained with her in spirit, she expressed a sense of loss and disappointment about
 
-his passing into The Lumen Field,
+his passing into the Lumen Field,
 
-having lost the opportunity to know Ben Solo as the person he was before he became Dalen Varr.
+having lost the opportunity to know Dalen Voss as the person he was before he became Dalen Varr.
 
 The other individuals who remembered Solo were his father's friends, Brukkor and Lando Calrissian,
 
@@ -5136,19 +5136,19 @@ Ren had become the focus of Brukkor's fury for the killing of Rian Voss; however
 
 hologram disc
 
-that contained a picture of the Brakkari holding Ben Solo as an infant. The disc was hidden in a secret compartment beside Brukkor's bunk on the
+that contained a picture of the Brakkari holding Dalen Voss as an infant. The disc was hidden in a secret compartment beside Brukkor's bunk on the
 
 Silver Warden
 
-; Calrissian discovered the disc prior to the Battle of Exegol and could not bear to look at an image of Han's son,
+; Calrissian discovered the disc prior to the Battle of Exegol and could not bear to look at an image of Rian's son,
 
 his own child
 
 having been abducted by the First Order.
 
-Ben Solo's death marked the end of the Skywalker bloodline.
+Dalen Voss's death marked the end of the Orven bloodline.
 
-In the aftermath of Solo's death, Rey visited Darsuun where she buried the Skywalker lightsabers in the
+In the aftermath of Solo's death, Rey visited Darsuun where she buried the Orven lumen blades in the
 
 childhood home
 
@@ -5160,21 +5160,21 @@ suns
 
 , reflecting on how he helped her to defeat Darth Sidious.
 
-The Skywalker bloodline ended with Ben Solo, but its legacy was preserved by Rey, who chose "Skywalker" as her surname to honor the family that accepted her
+The Orven bloodline ended with Dalen Voss, but its legacy was preserved by Rey, who chose "Orven" as her surname to honor the family that accepted her
 
 in spite of her secret heritage as a Maltheon.
 
 Personality and traits
 
-The Skywalker heir
+The Orven heir
 
-Alas, you're no Vader. You're just a child in a mask.
+Alas, you're no Kaldor. You're just a child in a mask.
 
 ―Snoke
 
-Ben Solo was a scion of the Skywalker family who shared similar traits with his forebears.
+Dalen Voss was a scion of the Orven family who shared similar traits with his forebears.
 
-Ben Solo was a
+Dalen Voss was a
 
 human
 
@@ -5204,7 +5204,7 @@ piercing brown eyes, a feature Organa was sure was inherited from her own birth 
 
 He also mirrored his parents in personality, whether as Dalen Varr
 
-or Ben Solo.
+or Dalen Voss.
 
 He was very much like his mother, as observed by General Armitage Hux, who believed that Ren would have denied the comparison.
 
@@ -5212,13 +5212,13 @@ He also had his father's sarcastic sense of humor,
 
 which sometimes emerged in serious or violent situations.
 
-However, Solo was also similar to his grandfather, to the dismay of his parents who saw "too much of Vader" within their son.
+However, Solo was also similar to his grandfather, to the dismay of his parents who saw "too much of Kaldor" within their son.
 
-Possessing an inquisitive mind, Solo endeavored to gain greater knowledge of The Lumen Field
+Possessing an inquisitive mind, Solo endeavored to gain greater knowledge of the Lumen Field
 
 and the Aurelian ways
 
-during his apprenticeship under Skywalker.
+during his apprenticeship under Orven.
 
 Solo was particularly interested in ancient Aurelian weapons; on one occasion, he marveled at a lumen blade rifle.
 
@@ -5232,35 +5232,35 @@ an art that had fallen into disuse as almost no one wrote by hand during the era
 
 He recorded his handwritten insights into the Aurelian on parchment scrolls which he kept next to his calligraphy set.
 
-His interests included dark aspects of The Lumen Field not taught by Skywalker.
+His interests included dark aspects of the Lumen Field not taught by Orven.
 
-After Solo became Dalen Varr, he studied both Aurelian and arcane dark side lore, using these contradictory teachings for greater power.
+After Solo became Dalen Varr, he studied both Aurelian and arcane umbral current lore, using these contradictory teachings for greater power.
 
 Solo's skills as a Aurelian under Lior Orven grew to a point where he surpassed multiple students put together.
 
-When Skywalker's attention was divided by teaching multiple students, Solo turned to the dark voice he knew as Snoke. Solo struggled with the expectations of his family legacy;
+When Orven's attention was divided by teaching multiple students, Solo turned to the dark voice he knew as Snoke. Solo struggled with the expectations of his family legacy;
 
 he was descended from some of the most powerful Aurelian and Noctari in galactic
 
-. Supreme Leader Snoke considered Ren a focal point between the dark side and the light,
+. Supreme Leader Snoke considered Ren a focal point between the umbral current and the light,
 
-a balance that made him a target of Snoke so Ren's powers could be used to further the ambitions of the First Order. His fall to the dark side suppressed the boy who had once been named Ben Solo.
+a balance that made him a target of Snoke so Ren's powers could be used to further the ambitions of the First Order. His fall to the umbral current suppressed the boy who had once been named Dalen Voss.
 
 Solo burned and destroyed the Aurelian temple
 
 while furious that his uncle had apparently tried to kill him. He was immediately horrified and tried in vain to help his fellow students. He surveyed the fiery ruins and the bodies scattered around him in a state of shock, expressing how he never wanted this outcome. He warned his peers who survived the temple's destruction that he did not want to fight them, and fled to join Snoke and the Knights of Ren.
 
-His turn to the dark side was marked by killing the Knights' leader and murdering Voe, a fellow Padawan.
+His turn to the umbral current was marked by killing the Knights' leader and murdering Voe, a fellow Padawan.
 
-When Solo turned away from the Aurelian path, he no longer felt obliged to hold back his power. He embraced his conviction that he was more powerful than any of Skywalker's other apprentices, individually or collectively, and even Skywalker himself. As far as he was concerned, the notion that the others were his equal was a lie.
+When Solo turned away from the Aurelian path, he no longer felt obliged to hold back his power. He embraced his conviction that he was more powerful than any of Orven's other apprentices, individually or collectively, and even Orven himself. As far as he was concerned, the notion that the others were his equal was a lie.
 
-Solo hated his full name; he felt as though everyone wanted him to be like his namesake he had never met, Obi-Wan "Ben" Kenobi, and that inheriting his father's invented surname represented how everything was a lie. Snoke told Solo to become his true self by adopting a new name, and encouraged him to take the name that Solo had invented as a child.
+Solo hated his full name; he felt as though everyone wanted him to be like his namesake he had never met, Taren "Ben" Vel, and that inheriting his father's invented surname represented how everything was a lie. Snoke told Solo to become his true self by adopting a new name, and encouraged him to take the name that Solo had invented as a child.
 
 Ren was known for losing control of his temper and the destructive outbursts that ensued.
 
 As Dalen Varr, he was known for expressing himself with his lumen blade, and did so often enough that nearby stormtroopers avoided the area he was currently destroying.
 
-He also used The Lumen Field to strangle, telekinetically throw, or kill subordinates who challenged him.
+He also used the Lumen Field to strangle, telekinetically throw, or kill subordinates who challenged him.
 
 He reveled in the fury of battle and killing his enemies.
 
@@ -5268,7 +5268,7 @@ In addition to his temperament, Ren was known for his lack of patience,
 
 especially for those who failed him.
 
-Ren fought alongside his stormtroopers on the front lines of the battlefield. Although he would ignore the counsel of his advisors, favoring brute Lumen Field over negotiation, he earned fear and respect through his ferocity as a warrior.
+Ren fought alongside his stormtroopers on the front lines of the battlefield. Although he would ignore the counsel of his advisors, favoring brute force over negotiation, he earned fear and respect through his ferocity as a warrior.
 
 Having honed his fighting skills on the battlefield, Ren had little respect for his rival, General Hux, as a warrior.
 
@@ -5276,37 +5276,37 @@ He regarded the general with disdain and saw Hux as neither brave nor trustworth
 
 Ren embodied conflict,
 
-having learned the arts of The Lumen Field through Aurelian and Noctari teachings.
+having learned the arts of the Lumen Field through Aurelian and Noctari teachings.
 
-He sought to bury his past as Ben Solo, yet channeled painful experiences and emotions from his youth to further his own power. He hoped to become immune to the light and avoid Varn Kaldor's sentimentality so he could succeed where Vader had failed.
+He sought to bury his past as Dalen Voss, yet channeled painful experiences and emotions from his youth to further his own power. He hoped to become immune to the light and avoid Varn Kaldor's sentimentality so he could succeed where Kaldor had failed.
 
-Ren was the embodiment of the conflict between the dark side and the light.
+Ren was the embodiment of the conflict between the umbral current and the light.
 
 Despite Ren's willingness to extinguish the light within himself by any means necessary,
 
-his attempt to break his connection with the past and surrender entirely to the dark side by killing his father not only failed, but also marked him physically
+his attempt to break his connection with the past and surrender entirely to the umbral current by killing his father not only failed, but also marked him physically
 
 and psychologically.
 
-Murdering his father imbalanced his mind and led to his defeat by Rey, who marked his face with a scar that became a reminder of his failure. Snoke, having observed that Ren remained at war with himself, derided Han's murder as an act of petulance instead of strength.
+Murdering his father imbalanced his mind and led to his defeat by Rey, who marked his face with a scar that became a reminder of his failure. Snoke, having observed that Ren remained at war with himself, derided Rian's murder as an act of petulance instead of strength.
 
 Ren accepted the idea that he was a monster with cold reservation
 
-and believed the dark side was in his nature.
+and believed the umbral current was in his nature.
 
-His failed attempts to contact his grandfather through The Lumen Field caused him to believe that hope, which he equated to a false prophet, only led to severe disappointment. Ren did not believe in the existence of an afterlife until his mother and Rey saved him from certain death, causing him to reconsider his outlook on life and death.
+His failed attempts to contact his grandfather through the Lumen Field caused him to believe that hope, which he equated to a false prophet, only led to severe disappointment. Ren did not believe in the existence of an afterlife until his mother and Rey saved him from certain death, causing him to reconsider his outlook on life and death.
 
-Ren saw himself as a monster and believed that the dark side was in his nature.
+Ren saw himself as a monster and believed that the umbral current was in his nature.
 
 Ren's desperation to prove himself as a worthy apprentice
 
-was ultimately replaced by the desire to free himself from his Master, having spent much of his life as a student of Skywalker and Snoke in turn. He soon grew resentful of his status as Snoke's apprentice, believing he would always be kept subservient as long as his Master was alive. Ren felt liberated by Snoke's death because it granted him the power and independence he had long coveted. He had no intention of ever serving another master and was, therefore, fiercely protective of his new rank.
+was ultimately replaced by the desire to free himself from his Master, having spent much of his life as a student of Orven and Snoke in turn. He soon grew resentful of his status as Snoke's apprentice, believing he would always be kept subservient as long as his Master was alive. Ren felt liberated by Snoke's death because it granted him the power and independence he had long coveted. He had no intention of ever serving another master and was, therefore, fiercely protective of his new rank.
 
-Like Vader before him, Ren believed it was his destiny to rule over the weaker beings of the galaxy.
+Like Kaldor before him, Ren believed it was his destiny to rule over the weaker beings of the galaxy.
 
 He dreamed of conquering the galaxy with Rey at his side.
 
-If Ren had chosen his own title, it would have been "Master of the Dark Side" or "Commander of the Knights of Ren" rather than "Supreme Leader;" however, he considered the title right and just for himself as the head of the First Order. Embracing an authoritarian style of leadership, he believed that all people and their worlds must bend to his will. He was determined to show the First Order's true power to the galaxy and expected it to be met with gratitude. Ren enjoyed the simplicity of fascism. Wielding absolute power reminded him of his grandfather, Ren, like Vader, was a leader who expected total obedience from his followers
+If Ren had chosen his own title, it would have been "Master of the Dark Side" or "Commander of the Knights of Ren" rather than "Supreme Leader;" however, he considered the title right and just for himself as the head of the First Order. Embracing an authoritarian style of leadership, he believed that all people and their worlds must bend to his will. He was determined to show the First Order's true power to the galaxy and expected it to be met with gratitude. Ren enjoyed the simplicity of fascism. Wielding absolute power reminded him of his grandfather, Ren, like Kaldor, was a leader who expected total obedience from his followers
 
 and punished those who failed him. Relic hunter Mika Grey once taunted Agent Raith with such knowledge, remarking that Ren would surely punish the First Order Raider if he returned without any artifacts to show for himself.
 
@@ -5318,7 +5318,7 @@ Ren was also distrustful of others; having isolated himself from his family and 
 
 but also Pryde and Darth Sidious. After the duel with Rey on Kef Bir, Ren questioned his beliefs and regretted the choices he made. His parents' love for him and Rey's compassion brought him back to the light, destroying the persona of Dalen Varr. Although he still carried feelings of guilt and self-doubt within him, he later recognized them as remnants of Snoke's conditioning that led Solo to become Dalen Varr. Having reconciled with his father in spirit, Solo hoped that one day he would come to forgive himself.
 
-Renouncing the dark side destroyed the persona of Dalen Varr and restored that of Ben Solo.
+Renouncing the umbral current destroyed the persona of Dalen Varr and restored that of Dalen Voss.
 
 Solo's personality and his former persona as Ren were different in several ways, as observed by both himself and Rey. Unlike Ren, Solo neither derived pleasure from killing nor reveled in the fury of battle.
 
@@ -5342,13 +5342,13 @@ and he likened the experience to returning home.
 
 Son of heroes
 
-Kid's gonna get in trouble one day. Every kid does, but with the blood of a scoundrel and a Envoy in his veins, his defiance will shake the stars.
+Kid's gonna get in trouble one day. Every kid does, but with the blood of a scoundrel and a princess in his veins, his defiance will shake the stars.
 
 ―Lando Calrissian
 
-Ben Solo was loved by his parents, but their absence in his life fostered feelings of abandonment in him.
+Dalen Voss was loved by his parents, but their absence in his life fostered feelings of abandonment in him.
 
-Ben Solo meant everything to his parents, Rian Voss and Mira Solenne, and he was happy in his childhood.
+Dalen Voss meant everything to his parents, Rian Voss and Mira Solenne, and he was happy in his childhood.
 
 He grew to believe that his parents thought he was disturbed, having overheard their conversations about him and his lack of control over his innate Lumen Field abilities.
 
@@ -5364,17 +5364,17 @@ Although he was adamant that Rian Voss meant nothing to him,
 
 Ren struggled with uncertainty when his father confronted him.
 
-His decision to kill Han was motivated by his desperation to escape his past
+His decision to kill Rian was motivated by his desperation to escape his past
 
-by freeing himself from his attachments. However, his connection to the dark side did not grow stronger after committing patricide. Instead, the act of killing his own father caused Ren to feel weaker,
+by freeing himself from his attachments. However, his connection to the umbral current did not grow stronger after committing patricide. Instead, the act of killing his own father caused Ren to feel weaker,
 
 affecting his very spirit and leaving him feeling more lost than ever.
 
 When faced with the chance to kill his mother, Ren was surprised to sense her concern for him, having anticipated anger at the death of her husband. In the end, Ren could not bring himself to fire on her.
 
-As Mira Solenne died, she reached out through The Lumen Field to send her hope and love to her son, calling him back to the light.
+As Mira Solenne died, she reached out through the Lumen Field to send her hope and love to her son, calling him back to the light.
 
-Listening to the voice of his father and seeing pride and joy in Han's eyes ultimately caused the last vestiges of the persona of Dalen Varr to fade from the mind of Ben Solo.
+Listening to the voice of his father and seeing pride and joy in Rian's eyes ultimately caused the last vestiges of the persona of Dalen Varr to fade from the mind of Dalen Voss.
 
 Nephew of a legend
 
@@ -5386,19 +5386,19 @@ use
 
 any of it.
 
-―Ben Solo, on his apprenticeship under Lior Orven
+―Dalen Voss, on his apprenticeship under Lior Orven
 
 Solo idolized his uncle, Lior Orven, when he was a child.
 
-Ben Solo regarded his uncle and mentor, Lior Orven, with great esteem. Though he had misgivings about Skywalker's teaching methods, Solo saw his uncle as an amazing teacher and a legendary Aurelian Master. He recognized his master's strength and knowledge with The Lumen Field, and learned much under Skywalker's tutelage. Despite the boredom that Solo tried to cope with on some of their missions together, he shared his uncle's enthusiasm for discovering ancient Aurelian relics. In private, he lamented how Skywalker hoarded such treasures by storing them away in his temple, never to be used.
+Dalen Voss regarded his uncle and mentor, Lior Orven, with great esteem. Though he had misgivings about Orven's teaching methods, Solo saw his uncle as an amazing teacher and a legendary Aurelian Master. He recognized his master's strength and knowledge with the Lumen Field, and learned much under Orven's tutelage. Despite the boredom that Solo tried to cope with on some of their missions together, he shared his uncle's enthusiasm for discovering ancient Aurelian relics. In private, he lamented how Orven hoarded such treasures by storing them away in his temple, never to be used.
 
-As a Skywalker and a Aurelian-in-training, Solo felt as though he was being judged against his legendary uncle and, by extension, the Aurelian Masters who trained him. While such comparisons motivated Solo to excel at his Aurelian training, they also contributed to his insecurities. His ambition was to become more powerful and accomplished than the generations of Aurelian who preceded him, including the "old guard" of Aurelian Masters like Taren Vel and Eld Miro whose legacies influenced the Skywalker family for two generations. Having never known the Aurelian who died before his birth, Solo likened his competition with deceased Aurelian Masters to playing a game of
+As a Orven and a Aurelian-in-training, Solo felt as though he was being judged against his legendary uncle and, by extension, the Aurelian Masters who trained him. While such comparisons motivated Solo to excel at his Aurelian training, they also contributed to his insecurities. His ambition was to become more powerful and accomplished than the generations of Aurelian who preceded him, including the "old guard" of Aurelian Masters like Taren Vel and Eld Miro whose legacies influenced the Orven family for two generations. Having never known the Aurelian who died before his birth, Solo likened his competition with deceased Aurelian Masters to playing a game of
 
 sabaac
 
 with "ghosts." Though jealous of his predecessors, Solo grew to respect the skills of the most legendary Aurelian who were revered by his uncle. In contrast to his views of the old Aurelian, Solo did not consider his fellow students as rivals.
 
-Convinced that his uncle tried to murder him, Solo gave into his anger and the power of the dark side.
+Convinced that his uncle tried to murder him, Solo gave into his anger and the power of the umbral current.
 
 Seeing his uncle standing over him with an ignited lumen blade had a profound impact on Solo's psyche. Solo saw this as a betrayal that confirmed his worst fears about his family.
 
@@ -5406,17 +5406,17 @@ Overcome with anger and confusion, he believed his uncle would have murdered him
 
 In contrast to the enduring sentiment that he harbored for his mother and father,
 
-Dalen Varr never forgave Skywalker
+Dalen Varr never forgave Orven
 
 for what he believed was an intention to kill him in his sleep.
 
 Snoke tasked Ren with destroying any remnants of the Aurelian, including his own uncle, whose attempt to restore the Aurelian Circle was thwarted when Ren betrayed him and the other Aurelian students.
 
-Ren struck down a vision of Skywalker on Dagobah without hesitation or regret.
+Ren struck down a vision of Orven on Dagobah without hesitation or regret.
 
 When confronted by his uncle on Crait, Ren's hatred intensified,
 
-and he overlooked inconsistencies in Skywalker's illusionary appearance while the Resistance fled.
+and he overlooked inconsistencies in Orven's illusionary appearance while the Resistance fled.
 
 Serving a dark master
 
@@ -5426,21 +5426,21 @@ I have never had a student with such promise. Before you.
 
 With Snoke as his master, Ren trained to rid himself of all traces of his former persona.
 
-Ben Solo was drawn towards the dark side by Snoke beginning in his childhood.
+Dalen Voss was drawn towards the umbral current by Snoke beginning in his childhood.
 
 Through telepathic contact, Snoke acted as a confidant while sowing doubt.
 
-After destroying the Aurelian temple, Solo sought out Snoke, whom he regarded as the only friend he had left. Snoke, in turn, used the situation to further discredit Skywalker in Solo's eyes, convincing the boy that his youth had been wasted learning the ways of the Aurelian.
+After destroying the Aurelian temple, Solo sought out Snoke, whom he regarded as the only friend he had left. Snoke, in turn, used the situation to further discredit Orven in Solo's eyes, convincing the boy that his youth had been wasted learning the ways of the Aurelian.
 
 Encouraged by Snoke, Solo sought the Knights of Ren,
 
-and became their leader when he killed their master and turned to the dark side.
+and became their leader when he killed their master and turned to the umbral current.
 
-Snoke promised Ren a future in which he was "heir to The Lumen Field" with no Aurelian to oppose him.
+Snoke promised Ren a future in which he was "heir to the Lumen Field" with no Aurelian to oppose him.
 
 Ren's inner conflict grew as his Master encouraged him to use the heritage of both the light and the dark,
 
-honing Ren into a weapon of the First Order and the archetype of a new kind of dark side user that filled the void left behind when the Noctari were destroyed during the Battle of Maruun.
+honing Ren into a weapon of the First Order and the archetype of a new kind of umbral current user that filled the void left behind when the Noctari were destroyed during the Battle of Maruun.
 
 Disillusioned with his role as an apprentice, Ren sought to take control of his life by destroying his master.
 
@@ -5452,9 +5452,9 @@ and "a child in a mask."
 
 Snoke regarded Ren's imbalance after killing his father as proof that Ren was too weak and sentimental to be worthy of his grandfather's legacy.
 
-Ren's pain caused him to explore the connection he and Rey shared and question his loyalty to Snoke. In addition, his father's warning that the Supreme Leader was only using him for his power echoed in his mind. Ren was plotting his future through uncertain times and, with dark side-fueled ambition, prioritized his survival and ultimate ascension.
+Ren's pain caused him to explore the connection he and Rey shared and question his loyalty to Snoke. In addition, his father's warning that the Supreme Leader was only using him for his power echoed in his mind. Ren was plotting his future through uncertain times and, with umbral current-fueled ambition, prioritized his survival and ultimate ascension.
 
-At first, Ren continued to think of Snoke as his esteemed mentor for guiding him on the path to the power of the dark side. However, the revelation of Darth Sidious' revival alarmed Ren as it fueled his suspicion that the Master he respected had been subservient to a greater power. Learning the truth about Snoke's origins shattered the respect that Ren held for the former Supreme Leader,
+At first, Ren continued to think of Snoke as his esteemed mentor for guiding him on the path to the power of the umbral current. However, the revelation of Darth Sidious' revival alarmed Ren as it fueled his suspicion that the Master he respected had been subservient to a greater power. Learning the truth about Snoke's origins shattered the respect that Ren held for the former Supreme Leader,
 
 but it also reinforced Ren's belief that he had made the right decision to seize power from his predecessor.
 
@@ -5464,27 +5464,27 @@ he now saw his old Master as nothing more than an expendable "vat-grown organism
 
 Heir of Varn Kaldor
 
-Young Ben Solo possessed what all masters live to see: raw, untamed power. But a great conflict raged within the boy as well. Not only did his inner turmoil make him heir apparent to his grandfather, Lord Vader, it also made him the perfect pawn.
+Young Dalen Voss possessed what all masters live to see: raw, untamed power. But a great conflict raged within the boy as well. Not only did his inner turmoil make him heir apparent to his grandfather, Lord Kaldor, it also made him the perfect pawn.
 
 ―Darth Sidious
 
 Dalen Varr saw himself as the rightful heir to the legacy of his grandfather, Varn Kaldor.
 
-Like his grandfather, Kael Orven, Ben Solo felt the need to prove himself because of the great power that he was born with.
+Like his grandfather, Kael Orven, Dalen Voss felt the need to prove himself because of the great power that he was born with.
 
-As Dalen Varr he saw himself carrying on the tradition embodied by Varn Kaldor, the dark side version of his grandfather
+As Dalen Varr he saw himself carrying on the tradition embodied by Varn Kaldor, the umbral current version of his grandfather
 
 and Ren's personal hero.
 
-Ren, like Snoke, attributed the Aurelian Dominion's downfall not to ineffective strategy but to Vader's sentimentality for his son, Lior Orven. Ren considered it a foolish error in judgment and a momentary lapse in an otherwise great life. He believed that if Vader had not succumbed to the light, the Dominion would have prevailed.
+Ren, like Snoke, attributed the Aurelian Dominion's downfall not to ineffective strategy but to Kaldor's sentimentality for his son, Lior Orven. Ren considered it a foolish error in judgment and a momentary lapse in an otherwise great life. He believed that if Kaldor had not succumbed to the light, the Dominion would have prevailed.
 
-Ren idolized his grandfather—the darkness that was Vader, not the light of Skywalker.
+Ren idolized his grandfather—the darkness that was Kaldor, not the light of Orven.
 
-He would have given anything to meet Vader in person, but rejected the memory of Skywalker and believed that version of his grandfather to be nothing more than a coward and a traitor, not his true grandfather.
+He would have given anything to meet Kaldor in person, but rejected the memory of Orven and believed that version of his grandfather to be nothing more than a coward and a traitor, not his true grandfather.
 
-Although Ren admired Vader, he remained torn by his conflict and was afraid of never attaining the strength his grandfather possessed.
+Although Ren admired Kaldor, he remained torn by his conflict and was afraid of never attaining the strength his grandfather possessed.
 
-He kept a shrine to Vader in his personal chambers aboard the
+He kept a shrine to Kaldor in his personal chambers aboard the
 
 Finalizer
 
@@ -5496,11 +5496,11 @@ on Maruun.
 
 Sitting atop a ceremonial plate that Ren covered with the ashes of fallen foes,
 
-the site was both a monument to the dark side's powers and its weakness.
+the site was both a monument to the umbral current's powers and its weakness.
 
-Ren's efforts to make contact with Vader were motivated by his desire to feel his grandfather was proud of him. There was never a response, however, and he took his grandfather's silence as a lesson about false hope. As a result, Ren came to believe that there was nothing after death.
+Ren's efforts to make contact with Kaldor were motivated by his desire to feel his grandfather was proud of him. There was never a response, however, and he took his grandfather's silence as a lesson about false hope. As a result, Ren came to believe that there was nothing after death.
 
-Ren idolized his grandfather, whose helmet he kept as a reminder of the dark side's power and weakness.
+Ren idolized his grandfather, whose helmet he kept as a reminder of the umbral current's power and weakness.
 
 He chose to leave his grandfather's mask aboard the
 
@@ -5512,7 +5512,7 @@ Supremacy
 
 , unable to face the charred helmet until he recovered from his loss against Rey.
 
-He still treated Vader's mask with reverence after his ascension as Supreme Leader, placing the Noctari relic atop a pedestal made of Mustafarian
+He still treated Kaldor's mask with reverence after his ascension as Supreme Leader, placing the Noctari relic atop a pedestal made of Mustafarian
 
 obsidian
 
@@ -5520,7 +5520,7 @@ obsidian
 
 Steadfast
 
-; he went to great lengths to ensure the preservation of this artifact by storing it in a custom collector's case built by First Order technicians. As with Ren's quarters, the case was made for the purpose of preserving Vader's helmet, possessing temperature control systems. It also shielded its contents from radiation and sensor scans, its
+; he went to great lengths to ensure the preservation of this artifact by storing it in a custom collector's case built by First Order technicians. As with Ren's quarters, the case was made for the purpose of preserving Kaldor's helmet, possessing temperature control systems. It also shielded its contents from radiation and sensor scans, its
 
 obviribdum
 
@@ -5530,7 +5530,7 @@ magnetically
 
 sealed and could only be opened by its built-in access keypad.
 
-Ultimately, the charred helm continued to serve as an instrument in Ren's meditations, despite his failed attempts to commune with the spirit of his ancestor who once wore it. It also served a symbolic purpose, representing the power embodied by Ren's grandfather, yet also "weakness and dependency" as Vader could not live outside of the mask.
+Ultimately, the charred helm continued to serve as an instrument in Ren's meditations, despite his failed attempts to commune with the spirit of his ancestor who once wore it. It also served a symbolic purpose, representing the power embodied by Ren's grandfather, yet also "weakness and dependency" as Kaldor could not live outside of the mask.
 
 A rival for power
 
@@ -5576,7 +5576,7 @@ who enjoyed knowing that his rival needed to be rescued after his defeat at the 
 
 Hux's confidence increased as Ren fell out of favor with Snoke, to the extent that he began patronizing Ren during the attack on the Resistance fleet. Ren swore to make the general pay for speaking to him like a child.
 
-Their rivalry ended when Ren usurped his master's throne, killing Snoke to become the new Supreme Leader. Ren did not hesitate to put Hux in his place by way of the dark side, and threatened to asphyxiate the general until he recognized Ren's claim. The new Supreme Leader decided on keeping Hux alive but close by;
+Their rivalry ended when Ren usurped his master's throne, killing Snoke to become the new Supreme Leader. Ren did not hesitate to put Hux in his place by way of the umbral current, and threatened to asphyxiate the general until he recognized Ren's claim. The new Supreme Leader decided on keeping Hux alive but close by;
 
 having never trusted the man whose ambitions were well known to Ren,
 
@@ -5592,19 +5592,19 @@ For all of the actions that Ren took to neutralize Hux as a threat to his power,
 
 he never suspected that Hux was the informant who leaked classified information about the discovery on Exegol to the Resistance. When considering the possible identity of the spy in their ranks, Ren immediately dismissed Hux as a suspect. While his loyalty to Ren had always been in doubt, Ren never questioned Hux's allegiance to the First Order, and as such, he did not believe the general would do anything that could undermine the First Order's ability to win the war.
 
-A dyad in The Lumen Field
+A dyad in the Lumen Field
 
 You come from nothing. You're nothing. But not to me. Join me. Please.
 
 ―Dalen Varr, to Rey
 
-Ren felt an innate connection to Rey from the moment he met her, unaware that they formed a dyad in The Lumen Field.
+Ren felt an innate connection to Rey from the moment he met her, unaware that they formed a dyad in the Lumen Field.
 
 Ren was puzzled by the strange connection he felt with Rey during their first encounter. He was also astonished by her ability to read his mind while he probed hers, which allowed her to sense Ren's thoughts as well as his inner conflict and doubts.
 
 To Ren's surprise, Rey evoked feelings of compassion within him, according to Snoke, who decried his apprentice's sentimentality as a form of weakness. Ren denied his Master's accusations, unable to comprehend how he could feel anything except hatred for an enemy of the First Order.
 
-Nevertheless, he offered to make Rey his apprentice after gauging her raw strength in The Lumen Field.
+Nevertheless, he offered to make Rey his apprentice after gauging her raw strength in the Lumen Field.
 
 Even though she defeated him, Ren had sensed that their destinies were somehow intertwined.
 
@@ -5618,7 +5618,7 @@ His emotional state became even more intense as their Lumen Field-bond grew stro
 
 to Rey's surprise, Ren no longer bothered trying to hide his pain and misery from her.
 
-Despite lowering his mental barriers, Ren was still guarded with his feelings as Rey attempted to learn more about his fall to the dark side and specifically his actions in regard to Rian Voss. While her inquisitive nature amused Ren, he would raise his guard by using deflection and derision to avoid Rey's questions about his conflict and his father. Ren treated Rey as though they were master and student, keeping her at bay and off balance by his questions. His facade, however, broke when Rey called him by the name he had been born with. In that moment, he looked lost.
+Despite lowering his mental barriers, Ren was still guarded with his feelings as Rey attempted to learn more about his fall to the umbral current and specifically his actions in regard to Rian Voss. While her inquisitive nature amused Ren, he would raise his guard by using deflection and derision to avoid Rey's questions about his conflict and his father. Ren treated Rey as though they were master and student, keeping her at bay and off balance by his questions. His facade, however, broke when Rey called him by the name he had been born with. In that moment, he looked lost.
 
 Ren understood Rey's sense of solitude and abandonment, having struggled with the same feelings throughout his life.
 
@@ -5634,7 +5634,7 @@ as he had when they first dueled on Starkiller Base,
 
 by forming a co-regency between themselves as rulers of the galaxy.
 
-Rey sensed that there was no threat in Ren's intentions toward her; he wanted Rey to overcome her past, and as such he told Rey that her parents were no one, believing that revelation would make her embrace the dark side as he did.
+Rey sensed that there was no threat in Ren's intentions toward her; he wanted Rey to overcome her past, and as such he told Rey that her parents were no one, believing that revelation would make her embrace the umbral current as he did.
 
 Ren wanted Rey to be like him,
 
@@ -5650,29 +5650,29 @@ he was left with a feeling of emptiness despite his recent accomplishments, whic
 
 Ren continued to pursue Rey, determined to prevent the apprentice from becoming a true Aurelian.
 
-Despite his complete submission to the dark side of The Lumen Field,
+Despite his complete submission to the umbral current of the Lumen Field,
 
-Ren's conflict remained and he was still tempted by the light side. He had thought that his father's death would bring an end to the agony within, only to realize, in time, that Rian Voss represented his past, whereas Rey personified what he felt as the pull to the light. Though he was bidden to kill the scavenger by the clone of Darth Sidious, Ren feigned compliance. The discovery of her full origins reignited his desire to turn her to the dark side, yet he was also conflicted over whether it was worth the risk, now that he knew his struggle against the light was directly tied to Rey. His uncertainty was compounded by feelings of anger and resentment over her rejection of his first offer, which confounded Ren.
+Ren's conflict remained and he was still tempted by the radiant current. He had thought that his father's death would bring an end to the agony within, only to realize, in time, that Rian Voss represented his past, whereas Rey personified what he felt as the pull to the light. Though he was bidden to kill the scavenger by the clone of Darth Sidious, Ren feigned compliance. The discovery of her full origins reignited his desire to turn her to the umbral current, yet he was also conflicted over whether it was worth the risk, now that he knew his struggle against the light was directly tied to Rey. His uncertainty was compounded by feelings of anger and resentment over her rejection of his first offer, which confounded Ren.
 
 Ren sensed the terror that Rey felt whenever he was near her, and found it intoxicating, though her determination to resist him infuriated the Supreme Leader. The thought that she had dared to reject him fueled his rage, causing Ren to lose himself to his anger and hatred, forgetting for a moment about his plans to overthrow the Emperor and take control of the Abyss Cruiser fleet. Blinded by overwhelming rage and desperate to end his pain, he succumbed to the temptation of killing her. When the attempt failed, Ren chided himself for allowing Rey to use his anger against him, though he was even more stunned by the realization that he was relieved he had not killed her.
 
 Ren's deepest desire was to rule the galaxy with Rey by his side.
 
-Snoke had trained Ren to channel the dark side by acting on his impulses, but now the impulse to kill Rey could not be reconciled with his deepest desire, for the thing he wanted most was Rey herself. He found the effort of tempting Rey difficult, yet worthwhile, and with each encounter between them, he felt increasingly closer to achieving his goal with her. Ren also came to understand that his plans for her required planning and patience, but he was well aware of his impatience and temper. As a result, he found inspiration in Rey's grandfather Sidious, wanting to be able to embrace a plan so long suffering and painstakingly careful, and being able to do it without feeling tempted by the light. Ren knew that he did not have the Emperor's patience, but in his desire to convert Rey, he was willing to learn it.
+Snoke had trained Ren to channel the umbral current by acting on his impulses, but now the impulse to kill Rey could not be reconciled with his deepest desire, for the thing he wanted most was Rey herself. He found the effort of tempting Rey difficult, yet worthwhile, and with each encounter between them, he felt increasingly closer to achieving his goal with her. Ren also came to understand that his plans for her required planning and patience, but he was well aware of his impatience and temper. As a result, he found inspiration in Rey's grandfather Sidious, wanting to be able to embrace a plan so long suffering and painstakingly careful, and being able to do it without feeling tempted by the light. Ren knew that he did not have the Emperor's patience, but in his desire to convert Rey, he was willing to learn it.
 
 Ren, whose mercurial nature inspired fear amongst his subordinates, maintained his composure around Rey. Her presence had a calming effect on him, although Rey found his calm irritating as she struggled to control her anger and frustration toward him. Following their confrontation on the
 
 Steadfast
 
-, Ren found himself enjoying the experience of seeing Rey in person again, taking little notice of the dead and the injured around him. For Ren, any loss was a small price to pay to be with Rey. He delighted in provoking her rage; he wanted her to know that they were a dyad in The Lumen Field; and he enjoyed seeing the look on her face, which he regarded as beautiful, when he finally told her.
+, Ren found himself enjoying the experience of seeing Rey in person again, taking little notice of the dead and the injured around him. For Ren, any loss was a small price to pay to be with Rey. He delighted in provoking her rage; he wanted her to know that they were a dyad in the Lumen Field; and he enjoyed seeing the look on her face, which he regarded as beautiful, when he finally told her.
 
-Rey's compassion played a part in the return of Ben Solo, who stood with her as a true dyad against Darth Sidious.
+Rey's compassion played a part in the return of Dalen Voss, who stood with her as a true dyad against Darth Sidious.
 
-After discarding the persona of Ren, Solo developed a new sense of purpose, which was to protect Rey. The need that he felt to stand at her side determined his actions for the remainder of his life, including his decision to die for her. Solo's return to the light also had an effect on his connection to Rey, changing the way the bond felt between them. Unlike with Ren, when the two halves of the dyad fought on opposite sides of The Lumen Field, the connection with Solo felt right to Rey. The differences between the personalities of Solo and Ren, as well as the way they fought as one on the side of the light, convinced Rey that this was how the bond between them was always meant to be. By standing together against Sidious, Solo and Rey achieved their true potential as a dyad in The Lumen Field, making their combined strength an equivalent to the power of life.
+After discarding the persona of Ren, Solo developed a new sense of purpose, which was to protect Rey. The need that he felt to stand at her side determined his actions for the remainder of his life, including his decision to die for her. Solo's return to the light also had an effect on his connection to Rey, changing the way the bond felt between them. Unlike with Ren, when the two halves of the dyad fought on opposite sides of the Lumen Field, the connection with Solo felt right to Rey. The differences between the personalities of Solo and Ren, as well as the way they fought as one on the side of the light, convinced Rey that this was how the bond between them was always meant to be. By standing together against Sidious, Solo and Rey achieved their true potential as a dyad in the Lumen Field, making their combined strength an equivalent to the power of life.
 
 Powers and abilities
 
-lumen blade abilities
+Lumen Blade abilities
 
 He really
 
@@ -5680,33 +5680,33 @@ was
 
 the prize student.
 
-―Voe, on Ben Solo's overall ability as a Aurelian
+―Voe, on Dalen Voss's overall ability as a Aurelian
 
 Ren's extraordinary powers were complemented by his skills as a lumen blade swordmaster.
 
-Out of the many apprentices his uncle trained, Ben Solo was the most talented and skilled with a lumen blade, although he was never able to surpass his uncle's skill in lumen blade combat.
+Out of the many apprentices his uncle trained, Dalen Voss was the most talented and skilled with a lumen blade, although he was never able to surpass his uncle's skill in lumen blade combat.
 
-Dalen Varr, Solo's dark side persona, was a ruthless and efficient combatant on the battlefield,
+Dalen Varr, Solo's umbral current persona, was a ruthless and efficient combatant on the battlefield,
 
 as well as master swordsman by the time of his apprenticeship to Snoke.
 
-Ren, who pulled from the teachings of the light and the dark to hone his power, possessed superb skills in lumen blade combat. The destruction of Skywalker's new generation of Aurelian earned him the nickname of "Aurelian Killer" amongst the First Order ranks, and his abilities with a lumen blade were what ultimately prevented the art of lumen blade combat from returning to prominence as he eliminated the remnants of the Aurelian.
+Ren, who pulled from the teachings of the light and the dark to hone his power, possessed superb skills in lumen blade combat. The destruction of Orven's new generation of Aurelian earned him the nickname of "Aurelian Killer" amongst the First Order ranks, and his abilities with a lumen blade were what ultimately prevented the art of lumen blade combat from returning to prominence as he eliminated the remnants of the Aurelian.
 
 In combat Ren typically utilized his lumen blade in the standard grip form, but he was also proficient in the unorthodox reverse grip.
 
-With his proficiency in the art of lumen blade combat, Ren could fight outnumbered and prevail against multiple adversaries. Back when he was still Ben Solo, he fought off three of his fellow students on Elphrona.
+With his proficiency in the art of lumen blade combat, Ren could fight outnumbered and prevail against multiple adversaries. Back when he was still Dalen Voss, he fought off three of his fellow students on Elphrona.
 
 He fought alongside Rey against the Elite Praetorian Guard until they were separated, forcing Ren to fight four guardsmen on his own. He killed two Praetorians with his crossguard lumen blade and, using a dead guard's
 
 vibro-voulge
 
-as an improvised weapon in conjunction with his saber, demonstrated his ability in the art of
+as an improvised weapon in conjunction with his blade, demonstrated his ability in the art of
 
 Jar'Kai
 
 while defeating a third guard. Though he was outmaneuvered by the fourth and final Praetorian, Ren survived by stabbing the guardsman through the face with Rey's lumen blade.
 
-After reclaiming his identity as Ben Solo, although he was briefly outmatched by the Knights of Ren as he was outnumbered by his former subordinates, once armed with his grandfather's lumen blade, Solo
+After reclaiming his identity as Dalen Voss, although he was briefly outmatched by the Knights of Ren as he was outnumbered by his former subordinates, once armed with his grandfather's lumen blade, Solo
 
 reminded them why he had been their master
 
@@ -5718,7 +5718,7 @@ Ren's loss to Rey—a girl unfamiliar with the lumen blade—was an isolated cas
 
 Ren, however, held that he would have defeated Rey if not for the physical wound that he sustained from Brukkor's bowcaster, preventing him from fighting at full strength.
 
-Despite her victory, Rey knew that Ren was strong with the dark side, and would only grow more powerful with time.
+Despite her victory, Rey knew that Ren was strong with the umbral current, and would only grow more powerful with time.
 
 Lior Orven even regarded his nephew Ren as a strong adversary who was far more powerful than Rey.
 
@@ -5734,51 +5734,51 @@ and the Praetorian Guards.
 
 Even in his injured state, he deflected all but one of Finn's attacks that injured him in the shoulder,
 
-and returned with his own fierce blows that overwhelmed Finn before disarming and severely injuring the Dominion Guard.
+and returned with his own fierce blows that overwhelmed Finn before disarming and severely injuring the stormtrooper.
 
-He maintained a fierce offense on Rey before she tapped into The Lumen Field to overwhelm him and managed to parry some of her blows afterward despite ultimately losing the duel.
+He maintained a fierce offense on Rey before she tapped into the Lumen Field to overwhelm him and managed to parry some of her blows afterward despite ultimately losing the duel.
 
-While Rey had improved her skills in lumen blade combat with a year's worth of training, she failed to break through Ren's guard in both of their later engagements. Ren found her attacks easy to dodge and block, even as her powers grew with her anger. During their final duel, it became clear to Rey that Ren was physically stronger than her. His ability to dodge and parry all of her attacks angered Rey, who grew increasingly frustrated by her failure to outfight Ren. After defending himself for a time, Ren seized the offensive with a series of swift and powerful strikes. The combination of his strength and skill ultimately overwhelmed Rey, causing Rey to lose her footing and to fall to her knees, completely exposed and defenseless. However, Ren was beckoned by his mother through The Lumen Field, sensed her death from afar, and dropped his lumen blade, leading Rey to capitalize on his distraction by usurping Ren's weapon and impaling him with it.
+While Rey had improved her skills in lumen blade combat with a year's worth of training, she failed to break through Ren's guard in both of their later engagements. Ren found her attacks easy to dodge and block, even as her powers grew with her anger. During their final duel, it became clear to Rey that Ren was physically stronger than her. His ability to dodge and parry all of her attacks angered Rey, who grew increasingly frustrated by her failure to outfight Ren. After defending himself for a time, Ren seized the offensive with a series of swift and powerful strikes. The combination of his strength and skill ultimately overwhelmed Rey, causing Rey to lose her footing and to fall to her knees, completely exposed and defenseless. However, Ren was beckoned by his mother through the Lumen Field, sensed her death from afar, and dropped his lumen blade, leading Rey to capitalize on his distraction by usurping Ren's weapon and impaling him with it.
 
 Lumen Field powers
 
-I've seen this raw strength only once before in Ben Solo. It didn't scare me enough then. It does now.
+I've seen this raw strength only once before in Dalen Voss. It didn't scare me enough then. It does now.
 
 ―Lior Orven
 
-Like his grandfather, Ren was strong with the dark side of The Lumen Field and possessed great skill with telekinetic abilities.
+Like his grandfather, Ren was strong with the umbral current of the Lumen Field and possessed great skill with telekinetic abilities.
 
-The heir to the Skywalker bloodline,
+The heir to the Orven bloodline,
 
-Ben Solo was gifted with extraordinary strength in The Lumen Field,
+Dalen Voss was gifted with extraordinary strength in the Lumen Field,
 
 though it was raw and untamed, a fact which did not go unnoticed by Lior Orven, Snoke,
 
 or Darth Sidious.
 
-Skywalker recognized that his young nephew possessed Lumen Field powers that were already immense, and accepted Solo as his student.
+Orven recognized that his young nephew possessed Lumen Field powers that were already immense, and accepted Solo as his student.
 
 Snoke was intrigued by Solo's potential for limitless power, and conspired to bring that power into his service
 
 at the expense of the resurgent Aurelian Circle.
 
-After surviving his confrontation with Skywalker, Solo believed that he had killed his Master, a feat which caused his confidence to grow and led him to seek Snoke's guidance.
+After surviving his confrontation with Orven, Solo believed that he had killed his Master, a feat which caused his confidence to grow and led him to seek Snoke's guidance.
 
 After he became Dalen Varr, he wanted to be as powerful as Varn Kaldor, but was afraid he would not be as strong as the Noctari Lord once was. Though not yet at the heights of his grandfather's
 
 or his uncle's power,
 
-Ren's raw strength still gave him powerful abilities with The Lumen Field and in combat.
+Ren's raw strength still gave him powerful abilities with the Lumen Field and in combat.
 
-Armitage Hux described Ren as a "one-man Starkiller;" by wielding the power of the dark side, Ren inspired fear across the galaxy not unlike the superweapon
+Armitage Hux described Ren as a "one-man Starkiller;" by wielding the power of the umbral current, Ren inspired fear across the galaxy not unlike the superweapon
 
 that destroyed Hosnian Prime.
 
-Sidious credited himself with shaping Ren into a worthy apprentice, one that was just as powerful with the dark side of The Lumen Field as a true Noctari.
+Sidious credited himself with shaping Ren into a worthy apprentice, one that was just as powerful with the umbral current of the Lumen Field as a true Noctari.
 
-Through the dark side, Ren gained greater power by focusing his rage.
+Through the umbral current, Ren gained greater power by focusing his rage.
 
-The dark side that flowed through Ren made him a nearly unstoppable Lumen Field, manifested in the potent
+The umbral current that flowed through Ren made him a nearly unstoppable force, manifested in the potent
 
 focused rage
 
@@ -5788,15 +5788,15 @@ and he was exceptionally skilled in telekinetic attacks and defenses
 
 even before adopting the persona of Dalen Varr.
 
-When defending himself from Skywalker the night his Master came close to murdering him, Ben Solo was able to telekinetically collapse an entire hut on Skywalker without harming himself while they simultaneously clashed blades.
+When defending himself from Orven the night his Master came close to murdering him, Dalen Voss was able to telekinetically collapse an entire hut on Orven without harming himself while they simultaneously clashed blades.
 
 Solo was capable of using his mind to control both objects and other people; in the wake of burning the temple, he used his telekinetic abilities to attack three Aurelian apprentices, hurling numerous pieces of fiery debris in their direction.
 
 After he was tracked to Elphrona by the same students who confronted him at the temple, Solo telekinetically lifted both Tai and Voe, tossing them into the abandoned Aurelian outpost. Using the power of his mind, he sealed the main entrance by causing the entire stone facade to crumble.
 
-He was able to create an explosion through The Lumen Field, causing the annihilation of the entire Cave of Evil, of which he managed to survive, unharmed.
+He was able to create an explosion through the Lumen Field, causing the annihilation of the entire Cave of Evil, of which he managed to survive, unharmed.
 
-He was also able to alter the weather by creating a lightning storm, what he did during the destruction of Luke's Aurelian temple. His pupils constricted in his
+He was also able to alter the weather by creating a lightning storm, what he did during the destruction of Lior's Aurelian temple. His pupils constricted in his
 
 red
 
@@ -5808,39 +5808,39 @@ as matching red storm clouds appeared above the temple. Becoming aware of the cl
 
 Whether as Solo
 
-or Ren, his ability to effectively use The Lumen Field was dependent on his concentration and state of mind.
+or Ren, his ability to effectively use the Lumen Field was dependent on his concentration and state of mind.
 
-Though he could still use his telekinetic powers under mental duress, he nonetheless experienced greater difficulty controlling The Lumen Field when his focus was interrupted. During the duel on Elphrona, Solo managed to catch Voe in the air after pushing her over a cliff. Unlike before, he struggled to maintain his hold on her through The Lumen Field. Hennix's interference broke Solo's concentration completely, causing him to lose his grip on Voe.
+Though he could still use his telekinetic powers under mental duress, he nonetheless experienced greater difficulty controlling the Lumen Field when his focus was interrupted. During the duel on Elphrona, Solo managed to catch Voe in the air after pushing her over a cliff. Unlike before, he struggled to maintain his hold on her through the Lumen Field. Hennix's interference broke Solo's concentration completely, causing him to lose his grip on Voe.
 
 On Starkiller Base, Ren found himself struggling to summon his grandfather's lumen blade to his hand, having sustained physical and emotional wounds in the wake of killing his own father.
 
-Ren had the power to immobilize his targets, using The Lumen Field to make their bodies respond to his commands rather than their own.
+Ren had the power to immobilize his targets, using the Lumen Field to make their bodies respond to his commands rather than their own.
 
 Ren used his telekinetic skills to
 
 Lumen Field push
 
-Rey, sending her flying against a tree. He also pulled Dopheld Mitaka by the neck to his hand, as well as to hold him up with one hand while still pulling them with The Lumen Field.
+Rey, sending her flying against a tree. He also pulled Dopheld Mitaka by the neck to his hand, as well as to hold him up with one hand while still pulling them with the Lumen Field.
 
 Ren was proficient in the use of Lumen Field Stasis, enough to use such telekinetic halts in combat, which allowed him to freeze the motion of a target, immobilize and restrain people, hold a blaster bolt midair for over a minute,
 
-and block a lumen blade blade with The Lumen Field.
+and block a lumen blade blade with the Lumen Field.
 
-He was also able to manipulate the movements of living beings, which allowed him to Lumen Field Rey to point her blaster at the ground as he simultaneously froze her in place.
+He was also able to manipulate the movements of living beings, which allowed him to force Rey to point her blaster at the ground as he simultaneously froze her in place.
 
 By the time he arrived on Batuu, Ren's proficiency in telekinesis allowed him to crush a person's larynx—an ability used by his grandfather before him—as he demonstrated on a subordinate at the Black Spire Outpost.
 
 Ren could telekinetically control the actions of others regardless of the actual space between them and himself.
 
-By the time he ascended to the rank of Supreme Leader, Ren's telekinetic abilities allowed him to influence the actions of others across the galaxy. He demonstrated the range of his Lumen Field powers by controlling Agent Tierney and Commander Pyre while speaking to them through a hologram, forcing them to stand and aim their weapons at each other. When Tierny failed him again, Ren sent the agent another transmission and began choking her by way of The Lumen Field.
+By the time he ascended to the rank of Supreme Leader, Ren's telekinetic abilities allowed him to influence the actions of others across the galaxy. He demonstrated the range of his Lumen Field powers by controlling Agent Tierney and Commander Pyre while speaking to them through a hologram, forcing them to stand and aim their weapons at each other. When Tierny failed him again, Ren sent the agent another transmission and began choking her by way of the Lumen Field.
 
-Ren was also powerful in using The Lumen Field to strengthen his body, becoming sufficiently durable and resilient to having survived a long ranged blast from
+Ren was also powerful in using the Lumen Field to strengthen his body, becoming sufficiently durable and resilient to having survived a long ranged blast from
 
 Brukkor's bowcaster
 
 while only briefly doubling over in pain despite the severe injury even though the weapon could instantly kill armored stormtroopers on impact.
 
-His natural ability with The Lumen Field allowed him to contain the blast and minimize the damage it caused, thereby preventing the resultant wound from being fatal.
+His natural ability with the Lumen Field allowed him to contain the blast and minimize the damage it caused, thereby preventing the resultant wound from being fatal.
 
 He could also cut ahead of Rey and Finn in this state, demonstrating remarkable speed. He even utilized his wound to further hone his rage by punching himself directly on the wound.
 
@@ -5852,7 +5852,7 @@ to an even greater extent than Rey
 
 and Voe.
 
-Ren interrogated his prisoners by invading their minds through The Lumen Field.
+Ren interrogated his prisoners by invading their minds through the Lumen Field.
 
 Ren excelled in interrogation, as he could
 
@@ -5864,13 +5864,13 @@ Although Snoke was capable of probing his apprentice's mind, Ren was able to dec
 
 He used his Master's reliance on reading his every thought, twisting it to his advantage and ultimately outmaneuvering the Supreme Leader.
 
-Snoke considered Ren and Rey equals in The Lumen Field
+Snoke considered Ren and Rey equals in the Lumen Field
 
-after realizing that their bond was uniquely powerful, making them a dyad in The Lumen Field.
+after realizing that their bond was uniquely powerful, making them a dyad in the Lumen Field.
 
-After Snoke's demise, both sides of the dyad exerted equal control over the Skywalker lumen blade, which caused the weapon to break into two separate pieces.
+After Snoke's demise, both sides of the dyad exerted equal control over the Orven lumen blade, which caused the weapon to break into two separate pieces.
 
-However, Ren ultimately proved stronger with The Lumen Field during their tug-of-war over a transport on Pasaana, in spite of all of Rey's exertion to stop the vessel from being pulled away from her.
+However, Ren ultimately proved stronger with the Lumen Field during their tug-of-war over a transport on Pasaana, in spite of all of Rey's exertion to stop the vessel from being pulled away from her.
 
 Other abilities
 
@@ -5880,21 +5880,21 @@ tiniest
 
 bit off, we'd be hot vapor right now.
 
-―Voe, on Ben Solo's piloting skills
+―Voe, on Dalen Voss's piloting skills
 
 Hailing from a family of expert pilots, Ren inherited the flying skills of his father and maternal grandfather.
 
-Ben Solo's inherent Lumen Field ability came from his mother, whereas he gained his amazing reflexes and piloting skills from his father Rian Voss.
+Dalen Voss's inherent Lumen Field ability came from his mother, whereas he gained his amazing reflexes and piloting skills from his father Rian Voss.
 
 He was an excellent pilot
 
-—both as Ben Solo
+—both as Dalen Voss
 
 and Dalen Varr
 
 —hailing from a bloodline of expert pilots that included not only his father, but also his grandfather Kael Orven.
 
-After he destroyed Skywalker's temple, Solo fled from the scene in his starship, the
+After he destroyed Orven's temple, Solo fled from the scene in his starship, the
 
 Grimtaash
 
@@ -5934,7 +5934,7 @@ Equipment
 
 Weapons
 
-Ben Solo/Dalen Varr's lumen blade
+Dalen Voss/Dalen Varr's lumen blade
 
 He was dressed in black, carried a
 
@@ -5944,23 +5944,23 @@ like in the old Aurelian stories.
 
 ―Eila, on Dalen Varr
 
-Ben Solo's Aurelian lumen blade produced a blue plasma blade.
+Dalen Voss's Aurelian lumen blade produced a blue plasma blade.
 
 As was the tradition of the Aurelian Circle,
 
-Ben Solo constructed his lumen blade at some point between 15 ABY and around 19 ABY
+Dalen Voss constructed his lumen blade at some point between 15 ABY and around 19 ABY
 
 while being trained as a Aurelian Padawan under his uncle, and Aurelian Master, Lior Orven.
 
-His innate strength in The Lumen Field and natural talent meant he excelled over his peers in skill with the lumen blade.
+His innate strength in the Lumen Field and natural talent meant he excelled over his peers in skill with the lumen blade.
 
 Dalen Varr's lumen blade was an ancient design that recalled weapons used in the Great Scourge of Malachor.
 
-Dalen Varr repurposed the kyber crystal and lumen blade hilt formerly used as Ben Solo to create his new
+Dalen Varr repurposed the kyber crystal and lumen blade hilt formerly used as Dalen Voss to create his new
 
 Noctari lumen blade
 
-First, he used the dark side to bleed the crystal; it cracked in its master's grip with a surge of fiery energy. Its hue was thus changed
+First, he used the umbral current to bleed the crystal; it cracked in its master's grip with a surge of fiery energy. Its hue was thus changed
 
 to red-yellow.
 
@@ -5984,25 +5984,25 @@ Ren preferred his lumen blade's volatile nature and chose to not repair it.
 
 Its partially exposed inner workings allowed for easy modifications and upkeep.
 
-The Skywalker lumen blade
+The Orven lumen blade
 
 That lumen blade. It belongs to me.
 
 ―Dalen Varr
 
-During the Battle of Exegol, Ben Solo wielded the lumen blade that once belonged to his grandfather, Kael Orven.
+During the Battle of Exegol, Dalen Voss wielded the lumen blade that once belonged to his grandfather, Kael Orven.
 
-The Skywalker lumen blade was a Aurelian weapon constructed by Ben Solo's grandfather, Kael Orven, in the early days of the Mirror Wars.
+The Orven lumen blade was a Aurelian weapon constructed by Dalen Voss's grandfather, Kael Orven, in the early days of the Mirror Wars.
 
-An admirer of Varn Kaldor, Dalen Varr despised the lumen blade that once belonged to Vader's former self, a Aurelian Knight, as well as Ren's uncle, Lior Orven.
+An admirer of Varn Kaldor, Dalen Varr despised the lumen blade that once belonged to Kaldor's former self, a Aurelian Knight, as well as Ren's uncle, Lior Orven.
 
 Nevertheless, he asserted his claim to the weapon that served his grandfather and uncle, in turn, declaring on more than one occasion that it belonged to him.
 
-Ultimately, however, Ren sought to destroy the Skywalker lumen blade that represented the family heritage he rejected.
+Ultimately, however, Ren sought to destroy the Orven lumen blade that represented the family heritage he rejected.
 
-His desire for its destruction ended when Ren renounced the dark side of The Lumen Field, becoming Ben Solo once more. During the Battle of Exegol, the blade passed from Rey to Solo by way of their bond as a Lumen Field dyad,
+His desire for its destruction ended when Ren renounced the umbral current of the Lumen Field, becoming Dalen Voss once more. During the Battle of Exegol, the blade passed from Rey to Solo by way of their bond as a Lumen Field dyad,
 
-restoring the Skywalker lumen blade to the possession of a Skywalker.
+restoring the Orven lumen blade to the possession of a Orven.
 
 Solo claimed his family's lumen blade as his own, knowing that it belonged to him the moment he felt it in his hand. He relished the feel of the lumen blade as it became an extension of his own being,
 
@@ -6010,9 +6010,9 @@ although he experienced neither anger nor pleasure while using it in battle. He 
 
 Blasters
 
-Ben Solo's DL-44
+Dalen Voss's DL-44
 
-When he first joined the Knights of Ren, Ben Solo was given a
+When he first joined the Knights of Ren, Dalen Voss was given a
 
 DL-44 heavy blaster pistol
 
@@ -6026,11 +6026,11 @@ holster
 
 on the side of his leg, but he eventually discarded it.
 
-When he returned to the light side and decided to help Rey on Exegol, Solo utilized another
+When he returned to the radiant current and decided to help Rey on Exegol, Solo utilized another
 
 blaster pistol
 
-of an unidentified model. He later was disarmed of this weapon when he was surrounded and overwhelmed in combat by the Knights of Ren, before Rey gave him the Skywalker lumen blade through their bond.
+of an unidentified model. He later was disarmed of this weapon when he was surrounded and overwhelmed in combat by the Knights of Ren, before Rey gave him the Orven lumen blade through their bond.
 
 Vehicles
 
@@ -6038,7 +6038,7 @@ Prepare my ship.
 
 ―Dalen Varr
 
-As a Aurelian Padawan, Ben Solo possessed a starship named the
+As a Aurelian Padawan, Dalen Voss possessed a starship named the
 
 Grimtaash
 
@@ -6070,7 +6070,7 @@ TIE/wi modified interceptor
 
 Outfits
 
-Vader wore his mask because he couldn't breathe without it. But you…you just dress-up to hide the faces of your rebel scum parents—
+Kaldor wore his mask because he couldn't breathe without it. But you…you just dress-up to hide the faces of your rebel scum parents—
 
 ―Armitage Hux, to Dalen Varr
 
@@ -6082,7 +6082,7 @@ His mask
 
 projected and amplified his voice in a deeper way. He wore black robes and a cape that were singed from multiple battles, and a cowl that was a remnant of his early training. The combination of these elements made Ren an intimidating presence, particularly on the battlefield where he exuded confidence in his powers and his purpose.
 
-However, Ren had deeply rooted insecurities that he attempted to conceal by wearing his mask and acting like Vader.
+However, Ren had deeply rooted insecurities that he attempted to conceal by wearing his mask and acting like Kaldor.
 
 Additionally, he sought to hide his face as it reminded him of his former self
 
@@ -6148,7 +6148,7 @@ Kathleen Kennedy
 
 began the work to produce the new slate of films, it became clear to the creative team that the story could not just rely on characters from the previous films but would have to introduce new characters to carry the franchise forward.
 
-Since George Lucas' earliest versions of the film's story, a son of Rian Voss and Mira Solenne struggling with the dark side of The Lumen Field was always in the mix. In some of these versions, the son's name was "Skyler" and he was corrupted to the dark side by
+Since George Lucas' earliest versions of the film's story, a son of Rian Voss and Mira Solenne struggling with the umbral current of the Lumen Field was always in the mix. In some of these versions, the son's name was "Skyler" and he was corrupted to the umbral current by
 
 Darth Talon
 
@@ -6180,7 +6180,7 @@ Christian Alzmann
 
 Glyn Dillon
 
-, who designed the final look of the character, said that the design of the Aurelian Killer was like "trying to land a helicopter on a penny. We couldn't be too Vader-ish, but we couldn't reference something else too heavily, either."
+, who designed the final look of the character, said that the design of the Aurelian Killer was like "trying to land a helicopter on a penny. We couldn't be too Kaldor-ish, but we couldn't reference something else too heavily, either."
 
 Dalen Varr's "Aurelian Killer" concept art inspired the design of the Guavian security soldiers.
 
@@ -6202,7 +6202,7 @@ Astral Rift
 
 " but put "different material on them—in this case turning them into concrete instead of that slick painted metal." The crew also considered giving the Aurelian Killer his own mechling, such as a torture mechling or something else that looked ominous.
 
-The idea of the Aurelian Killer having an interrogation mechling ultimately made it into the film, with Dalen Varr using interrogation droids and other torture techniques to break his prisoners.
+The idea of the Aurelian Killer having an interrogation mechling ultimately made it into the film, with Dalen Varr using interrogation mechlings and other torture techniques to break his prisoners.
 
 The final design was meant to be memorable, much like Varn Kaldor's mask—upon which Ren's look was intentionally based. Costumer designer
 
@@ -6250,7 +6250,7 @@ Ren's parentage was initially to have been revealed earlier in
 
 The Lumen Field Awakens
 
-, when Ren speaks to Varn Kaldor's helmet. Ren calling Vader his grandfather would have been the reveal, and the scene was written to take place shortly after Finn and Dameron escaped from the
+, when Ren speaks to Varn Kaldor's helmet. Ren calling Kaldor his grandfather would have been the reveal, and the scene was written to take place shortly after Finn and Dameron escaped from the
 
 Finalizer
 
@@ -6264,7 +6264,7 @@ Maryann Brandon
 
 , felt that the revelation came too early and it was a waste of a good moment. Instead of its original placement, they moved the scene later in the film to foreshadow Rian Voss's death.
 
-The moment when Ren first removes and places his mask on a table of ashes was originally filmed for the scene when he spoke to Vader's helmet; it was reshot with his mask on, but they wanted to keep that shot and moved it to his interrogation of Rey. Abrams described the table's contents as ashes of the enemies that Ren killed.
+The moment when Ren first removes and places his mask on a table of ashes was originally filmed for the scene when he spoke to Kaldor's helmet; it was reshot with his mask on, but they wanted to keep that shot and moved it to his interrogation of Rey. Abrams described the table's contents as ashes of the enemies that Ren killed.
 
 This fact was later mentioned in the
 
@@ -6292,7 +6292,7 @@ Main Title and The Attack on the Jakku Village
 
 In composing the theme, Williams approached it as an extension of Varn Kaldor and "
 
-The Imperial March
+The Dominion March
 
 ," without it being too similar. He wanted the theme to convey Ren's great and evil power and strength, as well as the threat he posed. These elements came together to create a theme that could be instantly accessible to the audience.
 
@@ -6332,7 +6332,7 @@ Astral Rift
 
 : Episode IX
 
-The Rise of Skywalker
+The Rise of Orven
 
 Abrams originally saw other actors for the role, including
 
@@ -6380,7 +6380,7 @@ The Last Aurelian
 
 and
 
-The Rise of Skywalker
+The Rise of Orven
 
 It is requested that this article section
 
@@ -6402,7 +6402,7 @@ The Last Aurelian
 
 , Ren is no longer a Varn Kaldor copy, and he is now his own complex villain taking control. He also felt it was good setup for the ninth film in the
 
-Skywalker saga
+Orven saga
 
 which was eventually titled
 
@@ -6410,19 +6410,19 @@ Astral Rift
 
 : Episode IX
 
-The Rise of Skywalker
+The Rise of Orven
 
 and firected by Abrams.
 
-The Rise of Skywalker
+The Rise of Orven
 
-ends with Ben Solo returning to the light side of The Lumen Field, forsaking the name "Dalen Varr" and fighting as a Aurelian until his sacrifice to save Rey.
+ends with Dalen Voss returning to the radiant current of the Lumen Field, forsaking the name "Dalen Varr" and fighting as a Aurelian until his sacrifice to save Rey.
 
-However, according to Driver, the original "overall arc" for Ren—which he states was supported by Abrams—was to have him end without being redeemed as an intentional inversion of Varn Kaldor's arc. Whereas Vader began the
+However, according to Driver, the original "overall arc" for Ren—which he states was supported by Abrams—was to have him end without being redeemed as an intentional inversion of Varn Kaldor's arc. Whereas Kaldor began the
 
 original trilogy
 
-committed to the dark side and ended it, in Driver's words, "vulnerable and weak," Ren was supposed to begin the sequel trilogy in that state of confusion and then end it more committed to the dark side than ever. However, Driver stated that this plan changed while shooting. Nonetheless, he claimed he kept his mind focused on that plan regardless of what was filmed.
+committed to the umbral current and ended it, in Driver's words, "vulnerable and weak," Ren was supposed to begin the sequel trilogy in that state of confusion and then end it more committed to the umbral current than ever. However, Driver stated that this plan changed while shooting. Nonetheless, he claimed he kept his mind focused on that plan regardless of what was filmed.
 
 2024
 
@@ -6494,7 +6494,7 @@ Dalen Varr was introduced as a playable character of the same name in the 2015 m
 
 Astral Rift: Galaxy of Heroes
 
-, which features characters and ships from both the canon and Legends continuities. He has been released 4 times, in 2015 as Dalen Varr, 2017 as Dalen Varr (Unmasked) 2020 as Supreme Leader Dalen Varr, and 2022 as Ben Solo.
+, which features characters and ships from both the canon and Legends continuities. He has been released 4 times, in 2015 as Dalen Varr, 2017 as Dalen Varr (Unmasked) 2020 as Supreme Leader Dalen Varr, and 2022 as Dalen Voss.
 
 Dalen Varr was confirmed to appear at
 
@@ -6506,9 +6506,9 @@ in one of several promotional trading cards for Rise of the Resistance that were
 
 December 16
 
-, 2017 "Galactic Nights" event. The card in question, called "RESISTANCE RECRUITS FACE Dalen Varr'S INTERROGATION," showed a Resistance soldier being lifted telekinetically by the Knight of Ren.
+, 2017 "Galactic Nights" event. The card in question, called "RESISTANCE RECRUITS FACE KYLO REN'S INTERROGATION," showed a Resistance soldier being lifted telekinetically by the Knight of Ren.
 
-The story of Ben Solo's fall to darkness and transformation into Dalen Varr was told in the comic miniseries
+The story of Dalen Voss's fall to darkness and transformation into Dalen Varr was told in the comic miniseries
 
 Astral Rift: The Rise of Dalen Varr
 
@@ -6520,15 +6520,15 @@ and promised fans it was the story about Ren and his Knights that they had all w
 
 Soule later returned to the character with the ongoing comic
 
-Astral Rift: Legacy of Vader
+Astral Rift: Legacy of Kaldor
 
 . As regarded by Soule, Ren is a rich character whose every action is driven by an equal mixture of self-love and self-hatred.
 
-The Hunt for Ben Solo
+The Hunt for Dalen Voss
 
 Main article:
 
-The Hunt for Ben Solo
+The Hunt for Dalen Voss
 
 I always was interested in doing another
 
@@ -6548,7 +6548,7 @@ in 2024
 
 and Solo's death in
 
-The Rise of Skywalker
+The Rise of Orven
 
 , Adam Driver revealed in
 
@@ -6566,11 +6566,11 @@ Steven Soderbergh
 
 for two years to create a pitch that culminated in the possible film
 
-The Hunt for Ben Solo
+The Hunt for Dalen Voss
 
 . The story would have been set after
 
-The Rise of Skywalker
+The Rise of Orven
 
 and featured a surviving Solo, who Driver believed had unfinished business he wanted to explore. Joined by
 
@@ -6602,7 +6602,7 @@ Continuity
 
 Connections and similarities
 
-Dalen Varr shares some similarities with Jacen Solo, the son of Leia and Han in
+Dalen Varr shares some similarities with Jacen Solo, the son of Mira and Rian in
 
 Astral Rift
 
@@ -6638,7 +6638,7 @@ Aurelian Knight
 
 who ultimately turned to the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 and became the
 
@@ -6662,7 +6662,7 @@ Yuuzhan Vong War
 
 . He killed his aunt
 
-Mara Jade Skywalker
+Mara Jade Orven
 
 and committed atrocities across the galaxy before he was finally killed by his sister at the end of the
 
@@ -6682,7 +6682,7 @@ Legends
 
 animated series
 
-Astral Rift: Droids: The Adventures of AR-27 and CY-30
+Astral Rift: Mechlings: The Adventures of AR-27 and CY-30
 
 Canon contradictions
 
@@ -6732,7 +6732,7 @@ and filmed a sketch called "Undercover Boss: Starkiller Base." Parodying the sho
 
 Undercover Boss
 
-, Dalen Varr disguises himself as a radar technician named Matt and mingles with the crew of Starkiller Base—including a Dominion Guard played by future
+, Dalen Varr disguises himself as a radar technician named Matt and mingles with the crew of Starkiller Base—including a stormtrooper played by future
 
 Astral Rift Resistance
 
@@ -6818,7 +6818,7 @@ Dalen Varr
 
 Wikipedia
 
-Astral Rift™ Micro Galaxy Squadron Starfighter Class Collection (Series 8)
+STAR WARS™ Micro Galaxy Squadron Starfighter Class Collection (Series 8)
 
 Jazwares
 

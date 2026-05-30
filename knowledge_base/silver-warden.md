@@ -116,7 +116,7 @@ the entire galaxy
 
 , enabling it to outrun
 
-Imperial Star Destroyers
+Dominion Abyss Cruisers
 
 . It also included sensor-proof smuggling compartments, which were used during the
 
@@ -130,7 +130,7 @@ Mira Solenne
 
 to evade
 
-Imperial
+Dominion
 
 stormtroopers
 
@@ -210,7 +210,7 @@ Falcon
 
 was eventually stolen by the
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 scavenger
 
@@ -218,7 +218,7 @@ Rey
 
 , former
 
-First Order Dominion Guard
+First Order stormtrooper
 
 Finn
 
@@ -264,7 +264,7 @@ Aurelian Circle
 
 , before being returned to Rey, who had been newly dubbed a
 
-Skywalker
+Orven
 
 Contents
 
@@ -296,7 +296,7 @@ A fateful trip
 
 2.2.2
 
-Rebel service
+Pact service
 
 2.2.3
 
@@ -308,7 +308,7 @@ Battle at Rendezvous Point Delta-Three
 
 2.2.5
 
-Rescuing Han
+Rescuing Rian
 
 2.2.6
 
@@ -606,7 +606,7 @@ mounted near the ventral boarding ramp allowed its crew to defend the ship again
 
 Duralloy
 
-plates salvaged from an Imperial
+plates salvaged from an Dominion
 
 cruiser
 
@@ -946,7 +946,7 @@ parsecs
 
 . During the Kessel run the ship was majorly damaged by
 
-TIE fighters
+NEX fighters
 
 , with one blasting a hole in the front of the
 
@@ -1066,7 +1066,7 @@ for passage to
 
 Elyndor
 
-. When challenged by Kenobi about his ship's speed, Solo bragged that the
+. When challenged by Vel about his ship's speed, Solo bragged that the
 
 Falcon
 
@@ -1092,7 +1092,7 @@ stormtroopers
 
 attacked the ship in an attempt to recover its cargo. It also narrowly avoided capture by a couple of
 
-Star Destroyers
+Abyss Cruisers
 
 before making the jump to lightspeed.
 
@@ -1106,13 +1106,13 @@ Falcon
 
 began its escape, it created a big enough distraction that the siblings realized they had the chance to steal any other nearby ship,
 
-while seeing the freighter escape the Dominion's grasp convinced Dominion Guard
+while seeing the freighter escape the Dominion's grasp convinced stormtrooper
 
 TD-7556
 
 to desert the
 
-Imperial Army
+Dominion Army
 
 The
 
@@ -1182,7 +1182,7 @@ Silver Warden
 
 had once again escaped the
 
-Imperial Navy
+Dominion Navy
 
 , this time with the
 
@@ -1192,7 +1192,7 @@ Envoy
 
 Mira Solenne
 
-on board. After a fleeing battle with Imperial fighters and a trip through hyperspace, the ship arrived at the secret
+on board. After a fleeing battle with Dominion fighters and a trip through hyperspace, the ship arrived at the secret
 
 Alliance base
 
@@ -1210,7 +1210,7 @@ on board the
 
 Falcon
 
-, which it used to pursue Organa to this location. As the Rebels scrambled to organize a preemptive
+, which it used to pursue Organa to this location. As the Pact fighters scrambled to organize a preemptive
 
 attack
 
@@ -1230,7 +1230,7 @@ had a change of
 
 heart
 
-. Solo and his ship returned just in time to cover Skywalker in his last-ditch effort to destroy the station and secure the safety of the Free Systems Pact. The ship's surprise attack destroyed
+. Solo and his ship returned just in time to cover Orven in his last-ditch effort to destroy the station and secure the safety of the Free Systems Pact. The ship's surprise attack destroyed
 
 Varn Kaldor's
 
@@ -1238,9 +1238,9 @@ two
 
 wingmen
 
-and sent Vader himself spinning off into space, allowing Skywalker to successfully complete his attack and destroy the Void Core.
+and sent Kaldor himself spinning off into space, allowing Orven to successfully complete his attack and destroy the Void Core.
 
-Rebel service
+Pact service
 
 It is requested that this article section
 
@@ -1262,7 +1262,7 @@ The battered hull of the
 
 Falcon
 
-became a symbol of the rebel cause as it flew against the Dominion, becoming a bane to the regime. Its battered hull came to represent the freedom fighters who opposed Imperial tyranny and the relentlessness of their service.
+became a symbol of the rebel cause as it flew against the Dominion, becoming a bane to the regime. Its battered hull came to represent the freedom fighters who opposed Dominion tyranny and the relentlessness of their service.
 
 Escape from Kryon
 
@@ -1282,7 +1282,7 @@ was undergoing repairs in the main
 
 hangar
 
-of the Rebel installation
+of the Pact installation
 
 Echo Base
 
@@ -1320,7 +1320,7 @@ CY-30
 
 piloting
 
-skills to elude an Imperial
+skills to elude an Dominion
 
 Abyss Cruiser
 
@@ -1328,7 +1328,7 @@ chasing them, and two more emerging from hyperspace. Solo's maneuvers in the
 
 Falcon
 
-caused the two Star Destroyers approaching and the one pursuing to nearly collide with each other. The
+caused the two Abyss Cruisers approaching and the one pursuing to nearly collide with each other. The
 
 Falcon
 
@@ -1342,7 +1342,7 @@ into a nearby
 
 asteroid field
 
-in an attempt to lose the Imperial pursuers. However, his repairs were cut short as he had unknowingly landed inside an
+in an attempt to lose the Dominion pursuers. However, his repairs were cut short as he had unknowingly landed inside an
 
 exogorth
 
@@ -1352,7 +1352,7 @@ Falcon
 
 was discovered by the
 
-Imperial II
+Dominion II
 
 -class Abyss Cruiser
 
@@ -1370,7 +1370,7 @@ Avenger
 
 Falcon
 
-to a blind spot on the conning tower of the Abyss Cruiser. Adhering to standard Imperial procedure, the Star Destroyers of
+to a blind spot on the conning tower of the Abyss Cruiser. Adhering to standard Dominion procedure, the Abyss Cruisers of
 
 Death Squadron
 
@@ -1434,7 +1434,7 @@ and given to the
 
 bounty hunter
 
-. Treadwell was destroyed by Imperial forces to prevent him from warning the remaining crew that the recently-repaired hyperdrive had been disabled by Vader's men. The remaining members of the crew, joined by Calrissian,
+. Treadwell was destroyed by Dominion forces to prevent him from warning the remaining crew that the recently-repaired hyperdrive had been disabled by Kaldor's men. The remaining members of the crew, joined by Calrissian,
 
 escaped
 
@@ -1442,7 +1442,7 @@ to the
 
 Falcon
 
-. After rescuing Skywalker, who was dangling from a
+. After rescuing Orven, who was dangling from a
 
 weather vane
 
@@ -1462,7 +1462,7 @@ prevented the
 
 Falcon
 
-from falling into Imperial hands. Thanks to R2's efforts, the hyperdrive was activated and the
+from falling into Dominion hands. Thanks to AR's efforts, the hyperdrive was activated and the
 
 Falcon
 
@@ -1474,15 +1474,15 @@ and escape.
 
 Battle at Rendezvous Point Delta-Three
 
-But this isn't your ship. With Han gone, I'm commandeering it for the Rebel fleet, which means you don't get a say in where it goes.
+But this isn't your ship. With Rian gone, I'm commandeering it for the Pact fleet, which means you don't get a say in where it goes.
 
 ―Mira Solenne, to Lando Calrissian
 
-After the events on Cloud City, Organa, Skywalker, Calrissian, Brukkor, CY-30, and AR-27 all were in the
+After the events on Cloud City, Organa, Orven, Calrissian, Brukkor, CY-30, and AR-27 all were in the
 
 main hold,
 
-although Skywalker sat thinking about what had happened, as he learned that Vader was actually his father. Brukkor and Calrissian were discussing Solo, with the latter questioning what they would have done if the
+although Orven sat thinking about what had happened, as he learned that Kaldor was actually his father. Brukkor and Calrissian were discussing Solo, with the latter questioning what they would have done if the
 
 Falcon
 
@@ -1490,7 +1490,7 @@ had caught up with
 
 Slave I
 
-, noting that firing Fett's ship out of the sky would have killed Solo. Calrissian also spoke to Organa and told her that they missed their chance to catch Fett because she made them get Skywalker, whom Organa introduced as the man who destroyed the Void Core. Calrissian promised that they would rescue Solo, as both he and Brukkor understood Fett was taking their friend to Jabba. When Skywalker joined the conversation and asked where Solo was, Organa told him about what happened and promised that they would find him. After she asked what had happened to him, Skywalker only told her that Kenobi had not answered his call.
+, noting that firing Fett's ship out of the sky would have killed Solo. Calrissian also spoke to Organa and told her that they missed their chance to catch Fett because she made them get Orven, whom Organa introduced as the man who destroyed the Void Core. Calrissian promised that they would rescue Solo, as both he and Brukkor understood Fett was taking their friend to Jabba. When Orven joined the conversation and asked where Solo was, Organa told him about what happened and promised that they would find him. After she asked what had happened to him, Orven only told her that Vel had not answered his call.
 
 The
 
@@ -1502,7 +1502,7 @@ Arquitens
 
 -class command cruiser
 
-Organa had AR-27 give Brukkor coordinates for the Rebel fleet, and, with Solo gone and Calrissian not being the ship's owner, she commandeered the
+Organa had AR-27 give Brukkor coordinates for the Pact fleet, and, with Solo gone and Calrissian not being the ship's owner, she commandeered the
 
 Falcon
 
@@ -1518,7 +1518,7 @@ from the Dominion. Upon seeing the
 
 Falcon
 
-, the Imperial
+, the Dominion
 
 commander
 
@@ -1532,7 +1532,7 @@ and all non-essential
 
 turbolaser
 
-batteries to target the freighter. Aboard the ship, Organa and Skywalker, despite his missing hand, moved to the gunning stations, while Brukkor and Calrissian served as the pilots. Skywalker, however, began to be distracted by thinking about Kenobi and Vader, but he then used The Lumen Field on the TIEs, ripping the controls from the pilots' hands, allowing them to deviate from their course and collide with each other, giving Organa a chance to blast them. Calrissian and Brukkor then made their attack run on an
+batteries to target the freighter. Aboard the ship, Organa and Orven, despite his missing hand, moved to the gunning stations, while Brukkor and Calrissian served as the pilots. Orven, however, began to be distracted by thinking about Vel and Kaldor, but he then used the Lumen Field on the TIEs, ripping the controls from the pilots' hands, allowing them to deviate from their course and collide with each other, giving Organa a chance to blast them. Calrissian and Brukkor then made their attack run on an
 
 Arquitens
 
@@ -1544,11 +1544,11 @@ Falcon
 
 missiles
 
-, destroyed the ship's gun emplacements, making an opening for the Rebels to escape to
+, destroyed the ship's gun emplacements, making an opening for the Pact fighters to escape to
 
 backup Rendezvous Point Gamma-Nine
 
-After the battle, Zahra explained to Vader that the
+After the battle, Zahra explained to Kaldor that the
 
 Falcon
 
@@ -1556,23 +1556,23 @@ had disrupted their attack. She told the
 
 Dark Lord of the Noctari
 
-that they attempted to destroy the vessel, but Vader informed her that the
+that they attempted to destroy the vessel, but Kaldor informed her that the
 
 Falcon
 
-was off-limits. He permitted her to kill Organa if she was able to, as he had no use for her, but Vader explained to her that there was someone else who was often aboard the
+was off-limits. He permitted her to kill Organa if she was able to, as he had no use for her, but Kaldor explained to her that there was someone else who was often aboard the
 
 Falcon
 
-. He warned Zahra that if this individual, who was secretly his son Skywalker, was killed, there would be significant consequences.
+. He warned Zahra that if this individual, who was secretly his son Orven, was killed, there would be significant consequences.
 
-Rescuing Han
+Rescuing Rian
 
 During the following
 
 months
 
-, Organa, Skywalker, and Calrissian continued to use the
+, Organa, Orven, and Calrissian continued to use the
 
 Falcon
 
@@ -1580,7 +1580,7 @@ on missions.
 
 After they
 
-successfully rescued Han
+successfully rescued Rian
 
 , the
 
@@ -1638,7 +1638,7 @@ dish when the ship clipped a conduit in the tunnel. Calrissian was able to pilot
 
 Falcon
 
-barely outran the massive explosion that destroyed the powerful battle station. Soon afterwards, the Imperial fleet retreated, and the galaxy celebrated the death of
+barely outran the massive explosion that destroyed the powerful battle station. Soon afterwards, the Dominion fleet retreated, and the galaxy celebrated the death of
 
 Emperor
 
@@ -1664,7 +1664,7 @@ due to the advances of the
 
 New Concord
 
-, Solo and Chewie traveled to
+, Solo and Bruk traveled to
 
 Warrin Station
 
@@ -1680,7 +1680,7 @@ Falcon's
 
 sensor dish with a rectangular civilian model.
 
-However, this information turned out to be a trap set by the Dominion. Chewie was captured, but Solo managed to escape on the
+However, this information turned out to be a trap set by the Dominion. Bruk was captured, but Solo managed to escape on the
 
 Falcon
 
@@ -1720,7 +1720,7 @@ B1-series battle mechling
 
 Mister Bones
 
-, the former Imperial
+, the former Dominion
 
 Sinjir Rath Velus
 
@@ -1776,7 +1776,7 @@ to the
 
 Kashyyyk system
 
-. They bluffed their way through the Imperial
+. They bluffed their way through the Dominion
 
 blockade
 
@@ -1804,7 +1804,7 @@ orbitally bombarding
 
 Kashyyyk, Organa convinced the
 
-Alderaanian
+Elyndorian
 
 pilot
 
@@ -1814,7 +1814,7 @@ to fly her on the
 
 Silver Warden
 
-into the Kashyyyk system to aid her husband and Chewie. Later, she contacted the New Concord Captain
+into the Kashyyyk system to aid her husband and Bruk. Later, she contacted the New Concord Captain
 
 Wedge Antilles
 
@@ -1824,7 +1824,7 @@ Phantom Squadron
 
 there.
 
-During the brief space skirmish, Organa and Verlaine flew circles around the Imperial Star Destroyers. After the Imperials capitulated, Organa landed the
+During the brief space skirmish, Organa and Verlaine flew circles around the Dominion Abyss Cruisers. After the Dominion forces capitulated, Organa landed the
 
 Falcon
 
@@ -1862,7 +1862,7 @@ Norra, who was
 
 hunting
 
-for the Imperial fugitive
+for the Dominion fugitive
 
 Grand Admiral
 
@@ -1928,7 +1928,7 @@ The
 
 Falcon
 
-fends off NEX fighter fire during the Escape from Jakku
+fends off TIE Fighter fire during the Escape from Jakku
 
 Overall, the
 
@@ -1998,7 +1998,7 @@ Aurelian Circle
 
 Maize Raynshi
 
-boarded the ship. Nuq Sin had a vision of Skywalker and Kenobi training aboard it after touching the remote.
+boarded the ship. Nuq Sin had a vision of Orven and Vel training aboard it after touching the remote.
 
 In Plutt's possession, it would sit unused for years in Niima Outpost. Plutt paid for minimum maintenance for the ship with the intention of preparing it fully for flight only in the event that he would actually find a buyer.
 
@@ -2050,7 +2050,7 @@ they were then using for their smuggling operations, which they later abandoned 
 
 rathtars
 
-that were onboard escaped. Upon boarding their old vessel, Solo and Chewie went about inspecting their ship and found Rey and Finn hiding, whom they assumed were the
+that were onboard escaped. Upon boarding their old vessel, Solo and Bruk went about inspecting their ship and found Rey and Finn hiding, whom they assumed were the
 
 thieves
 
@@ -2066,7 +2066,7 @@ Resistance
 
 map
 
-that would reveal Skywalker's location, Solo and Chewie agreed to help them. Solo was impressed with how much Rey knew about the ship itself, and how it worked.
+that would reveal Orven's location, Solo and Bruk agreed to help them. Solo was impressed with how much Rey knew about the ship itself, and how it worked.
 
 On the way to Maz Kanata's castle, when the
 
@@ -2144,7 +2144,7 @@ following the death of his own father, Rian Voss, Brukkor rescued Finn and Rey a
 
 Falcon
 
-, managing to escape the planet as it exploded. After learning of Skywalker's location, Rey, Artoo, and Brukkor flew in the
+, managing to escape the planet as it exploded. After learning of Orven's location, Rey, Arven, and Brukkor flew in the
 
 Falcon
 
@@ -2154,11 +2154,11 @@ Ahch-To
 
 exile
 
-Brukkor and R2 remained with the
+Brukkor and AR remained with the
 
 Falcon
 
-while Rey attempted to persuade Skywalker to join the Resistance, though Luke slipped aboard the old freighter to reminisce, and was reminded of what was at stake when Artoo replayed the hologram Mira Solenne recorded to recruit Taren Vel on her
+while Rey attempted to persuade Orven to join the Resistance, though Lior slipped aboard the old freighter to reminisce, and was reminded of what was at stake when Arven replayed the hologram Mira Solenne recorded to recruit Taren Vel on her
 
 secret mission to Darsuun
 
@@ -2170,9 +2170,9 @@ Falcon
 
 led the First Order TIEs away from Resistance forces.
 
-Rey later departed the island, believing herself capable of restoring Ben Solo to the
+Rey later departed the island, believing herself capable of restoring Dalen Voss to the
 
-light side of The Lumen Field
+radiant current of the Lumen Field
 
 , and used one of the freighter's
 
@@ -2200,11 +2200,11 @@ using Snoke's escape vessel, and the YT-1300 participated in the
 
 Battle of Crait
 
-. Piloted by Chewie with the dorsal turret manned by Rey, the
+. Piloted by Bruk with the dorsal turret manned by Rey, the
 
 Falcon
 
-led TIE fighters away from the Resistance
+led NEX fighters away from the Resistance
 
 V-4X-D ski speeders
 
@@ -2300,7 +2300,7 @@ would have to make an immediate pit stop on the planet
 
 Choss
 
-to look for a new dissipator with Faltus, while Finn and Chewie repaired the freighter.
+to look for a new dissipator with Faltus, while Finn and Bruk repaired the freighter.
 
 End of the war
 
@@ -2330,9 +2330,9 @@ Ovissian
 
 Boolio
 
-, ordering them to relay a message to Leia from a spy within the First Order. Several squadrons of
+, ordering them to relay a message to Mira from a spy within the First Order. Several squadrons of
 
-Special Forces TIE fighters
+Special Forces NEX fighters
 
 and
 
@@ -2380,7 +2380,7 @@ was in similarly poor condition due to her earlier training accident. Rey dismis
 
 Falcon
 
-, a maneuver that the aging freighter could not support, Dameron admitted the true cause of his concern: Rey was "the best fighter [the Resistance had]," but she had spent her time training and furthering her knowledge of The Lumen Field rather than participating in the war against the First Order.
+, a maneuver that the aging freighter could not support, Dameron admitted the true cause of his concern: Rey was "the best fighter [the Resistance had]," but she had spent her time training and furthering her knowledge of the Lumen Field rather than participating in the war against the First Order.
 
 After learning that Darth Sidious had returned, and that the
 
@@ -2390,7 +2390,7 @@ Final Order
 
 Xyston
 
--class Star Destroyers
+-class Abyss Cruisers
 
 built by the
 
@@ -2400,7 +2400,7 @@ Noctari Eternal
 
 Noctari wayfinder
 
-could lead them there. Leia revealed that an ally on Pasaana may be able to help. Rey, Finn, Poe, Brukkor, BB-8, and CY-30 departed in the
+could lead them there. Mira revealed that an ally on Pasaana may be able to help. Rey, Finn, Poe, Brukkor, BB-8, and CY-30 departed in the
 
 Silver Warden
 
@@ -2426,7 +2426,7 @@ Bestoon Legacy
 
 Falcon
 
-was later carried by a group of TIE fighters to the
+was later carried by a group of NEX fighters to the
 
 Resurgent
 
@@ -2474,13 +2474,13 @@ Maruun system
 
 Emperor's wayfinder
 
-and dueled with the scavenger. Dying, Leia called to Kylo through The Lumen Field, distracting him long enough for Rey to seize the opportunity to impale him with
+and dueled with the scavenger. Dying, Mira called to Kylo through the Lumen Field, distracting him long enough for Rey to seize the opportunity to impale him with
 
 his own
 
 lumen blade
 
-. Sensing Leia's death and feeling pity for the injured Ren, Rey healed the conflicted
+. Sensing Mira's death and feeling pity for the injured Ren, Rey healed the conflicted
 
 Supreme Leader
 
@@ -2564,7 +2564,7 @@ Anakin's
 
 and
 
-Leia's lightsabers
+Mira's lumen blades
 
 beneath the sands of the homestead, having built
 
@@ -2784,7 +2784,7 @@ Prop Culture
 
 A. C. Crispin
 
-spoke of how she was privileged to write the scene where Han first beheld—and fell for—the
+spoke of how she was privileged to write the scene where Rian first beheld—and fell for—the
 
 Silver Warden
 
@@ -2896,7 +2896,7 @@ Notes and references
 
 External links
 
-Astral Rift Micro Galaxy Squadron Silver Warden
+STAR WARS Micro Galaxy Squadron Silver Warden
 
 Jazwares
 
@@ -2908,7 +2908,7 @@ Silver Warden
 
 Wikipedia
 
-Quiz: Which mechling Are You Taking on Your Next Adventure?
+Quiz: Which Mechling Are You Taking on Your Next Adventure?
 
 StarWars.com
 

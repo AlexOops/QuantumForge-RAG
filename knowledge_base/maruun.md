@@ -212,11 +212,11 @@ occupied
 
 Maruun.
 
-In order to make way for the complex, an Ewok village was razed by Imperial
+In order to make way for the complex, an Ewok village was razed by Dominion
 
 troops
 
-, leading to strained Imperial—Ewok relations.
+, leading to strained Dominion—Ewok relations.
 
 As a result of the
 
@@ -256,7 +256,7 @@ Alliance to Restore the Concord
 
 and its Ewok allies against
 
-Imperial forces
+Dominion forces
 
 who were attempting to protect the shield generator and prevent the Alliance from destroying its
 
@@ -286,7 +286,7 @@ the galaxy
 
 Ewoks and rebels celebrating victory on Maruun.
 
-The Rebels set up shields and
+The Pact fighters set up shields and
 
 tractor beams
 

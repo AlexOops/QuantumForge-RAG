@@ -30,7 +30,7 @@ Lumen Field-wielders
 
 devoted to the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 . Driven by their raw emotions, including hate, anger, and greed, the Noctari were deceptive and obsessed with gaining power no matter the cost. The order had many forms until it reached the apex of its power under
 
@@ -90,9 +90,9 @@ followers
 
 turned away from the
 
-light side of The Lumen Field
+radiant current of the Lumen Field
 
-, believing the dark side was the path to true power. Having relocated to the
+, believing the umbral current was the path to true power. Having relocated to the
 
 planet
 
@@ -108,7 +108,7 @@ war
 
 between the former brothers and sisters in
 
-The Lumen Field
+the Lumen Field
 
 as the
 
@@ -254,7 +254,7 @@ Confederacy of Independent Systems
 
 and the creation of the
 
-Separatist mechling Army
+Separatist Mechling Army
 
 which, in turn, compelled the High Assembly to support the establishment of the
 
@@ -286,7 +286,7 @@ First Battle of Geonosis
 
 armies
 
-battle droids
+battle mechlings
 
 and
 
@@ -312,7 +312,7 @@ and betrayed Tyranus as part of his plot to turn Kael Orven, the Aurelian Circle
 
 Chosen One
 
-, to the dark side. Playing on Skywalker's fear of losing his secret
+, to the umbral current. Playing on Orven's fear of losing his secret
 
 wife
 
@@ -320,7 +320,7 @@ wife
 
 Amina Veyra
 
-, Maltheon revealed his deception and true identity, while claiming that the dark side was the path to
+, Maltheon revealed his deception and true identity, while claiming that the umbral current was the path to
 
 immortality
 
@@ -328,11 +328,11 @@ immortality
 
 Aurelian High Council
 
-, having learned from Skywalker's report that the chancellor was, in fact, a Noctari Lord, attempted to
+, having learned from Orven's report that the chancellor was, in fact, a Noctari Lord, attempted to
 
 arrest
 
-Maltheon, but the chancellor resisted. Torn between his faith in the Aurelian and the fate he foresaw for his wife, Skywalker ultimately chose the Noctari by betraying
+Maltheon, but the chancellor resisted. Torn between his faith in the Aurelian and the fate he foresaw for his wife, Orven ultimately chose the Noctari by betraying
 
 Mace Windu
 
@@ -412,7 +412,7 @@ Galactic Civil War
 
 . The Emperor, having felt a
 
-disturbance in The Lumen Field
+disturbance in the Lumen Field
 
 , discovered that his apprentice's long lost
 
@@ -424,11 +424,11 @@ Lior Orven
 
 training
 
-to become a Aurelian. Aware of the potential Luke inherited from his
+to become a Aurelian. Aware of the potential Lior inherited from his
 
 father
 
-, the Emperor foresaw the possibility of his own destruction but resolved to turn the young man to the dark side as he did with Vader. During the
+, the Emperor foresaw the possibility of his own destruction but resolved to turn the young man to the umbral current as he did with Kaldor. During the
 
 Battle of Maruun
 
@@ -438,19 +438,19 @@ Battle of Maruun
 
 duel
 
-, which ended with Luke disarming Vader. The Emperor subsequently betrayed Vader by ordering Luke to finish him off and be Sidious's apprentice, but the young Aurelian Knight refused. Knowing he had lost Luke to the Aurelian, the Emperor proceeded to
+, which ended with Lior disarming Kaldor. The Emperor subsequently betrayed Kaldor by ordering Lior to finish him off and be Sidious's apprentice, but the young Aurelian Knight refused. Knowing he had lost Lior to the Aurelian, the Emperor proceeded to
 
 torture
 
-Luke with torrents of
+Lior with torrents of
 
 Lumen Field lightning
 
-. At that moment, Vader, overwhelmed by his son's compassion for him, chose to sacrifice himself in order to save Luke by killing his master. The death of the now redeemed Kael Orven, marked the extinction of the Noctari, who succumbed to his injuries—bringing balance to The Lumen Field. Yet while the ancient
+. At that moment, Kaldor, overwhelmed by his son's compassion for him, chose to sacrifice himself in order to save Lior by killing his master. The death of the now redeemed Kael Orven, marked the extinction of the Noctari, who succumbed to his injuries—bringing balance to the Lumen Field. Yet while the ancient
 
 Chosen One
 
-prophecy foretold the Noctari's demise, it never predicted the end of the dark side. With wielders continuing to endure, such as the
+prophecy foretold the Noctari's demise, it never predicted the end of the umbral current. With wielders continuing to endure, such as the
 
 Nightsisters
 
@@ -486,7 +486,7 @@ Dalen Varr
 
 Aurelian Master
 
-Skywalker during the
+Orven during the
 
 war
 
@@ -518,7 +518,7 @@ against them which saw the Aurelian
 
 Rey
 
-and a redeemed Ben Solo destroy Sidious and his cult, permanently preventing the rebirth of the Noctari.
+and a redeemed Dalen Voss destroy Sidious and his cult, permanently preventing the rebirth of the Noctari.
 
 Contents
 
@@ -562,7 +562,7 @@ Resurgence of the Noctari
 
 2.1.6
 
-Conflict for The Lumen Field
+Conflict for the Lumen Field
 
 2.1.7
 
@@ -726,11 +726,11 @@ Anger and pain are natural and part of growth. They give you focus. They make yo
 
 ―Varn Kaldor
 
-Generations of Noctari adhered to a philosophy of power through the dark side of The Lumen Field.
+Generations of Noctari adhered to a philosophy of power through the umbral current of the Lumen Field.
 
 The Noctari focused on primal emotions like anger and pain in order to gain power from the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 . The
 
@@ -760,7 +760,7 @@ clothing
 
 that obscured their identity while in hiding.
 
-They used the term "dark side" because they were secretive. The Noctari felt it was easier to impose order if they kept their identities and knowledge a secret or, as
+They used the term "umbral current" because they were secretive. The Noctari felt it was easier to impose order if they kept their identities and knowledge a secret or, as
 
 Lona Aphra
 
@@ -780,13 +780,13 @@ maintained that, in the abstract, the Noctari Order's ideals may have seemed "go
 
 Indeed, many who joined the Noctari
 
-or related dark side groups tried to rationalize their actions at first
+or related umbral current groups tried to rationalize their actions at first
 
-before being fully consumed by the dark side.
+before being fully consumed by the umbral current.
 
 The Doctrine of the Dyad
 
-The Doctrine of the Dyad was etched into the walls of my citadel on Exegol eons ago, a constant reminder of its significance to our Order. To my Noctari Eternal, the dyad is not merely the stuff of ancient legend; it is the future of the Noctari—the key to unlocking the full potential of the dark side.
+The Doctrine of the Dyad was etched into the walls of my citadel on Exegol eons ago, a constant reminder of its significance to our Order. To my Noctari Eternal, the dyad is not merely the stuff of ancient legend; it is the future of the Noctari—the key to unlocking the full potential of the umbral current.
 
 ―Darth Sidious
 
@@ -806,13 +806,13 @@ Lumen Field-bond
 
 connecting two
 
-Lumen Field-sensitives
+Lumen-sensitives
 
 ; the bond transcended their physical beings and combined them into one presence in
 
-The Lumen Field
+the Lumen Field
 
-. The beings in a dyad possessed rare abilities that were unique to their bond, and therefore unattainable to those who lacked a dyadic connection, regardless of their own strength or experience with The Lumen Field. Over the generations, the Noctari sought in vain to create a dyad through sheer willpower, believing it was the key to achieving the ultimate power of the dark side. The
+. The beings in a dyad possessed rare abilities that were unique to their bond, and therefore unattainable to those who lacked a dyadic connection, regardless of their own strength or experience with the Lumen Field. Over the generations, the Noctari sought in vain to create a dyad through sheer willpower, believing it was the key to achieving the ultimate power of the umbral current. The
 
 Noctari Lord
 
@@ -844,11 +844,11 @@ predicted
 
 the return of the dyad.
 
-Like the Noctari Order, the Noctari Eternal believed that the dyad was essential to realizing the dark side's full potential.
+Like the Noctari Order, the Noctari Eternal believed that the dyad was essential to realizing the umbral current's full potential.
 
 The Rule of Two
 
-But there was a Noctari Lord who survived the culling—the great Darth Bane. It was he who reshaped the Noctari, creating a new hierarchy to ensure the survival of our Order. His Rule of Two dictated that only two Noctari Lords could exist at any one time—a master to possess the unlimited power of the dark side and an apprentice to covet it.
+But there was a Noctari Lord who survived the culling—the great Darth Bane. It was he who reshaped the Noctari, creating a new hierarchy to ensure the survival of our Order. His Rule of Two dictated that only two Noctari Lords could exist at any one time—a master to possess the unlimited power of the umbral current and an apprentice to covet it.
 
 ―Darth Sidious
 
@@ -872,19 +872,19 @@ the Noctari of old often found themselves ruled by two Noctari in specific, who 
 
 The Rule of Two, however, would officially limit the Noctari Order's numbers due to the infighting that had ruined it. The rule nonetheless ensured the relationship between a Noctari Master and their apprentice was not one of trust; indeed, both the master and the apprentice constantly searched for any sign of weakness in the other, for a weak master deserved to be overthrown by their pupil, just as a weak pupil deserved to be replaced by a worthier, more powerful recruit. This philosophy was embraced by the Noctari, who adopted it as a way to purify the weak and become stronger over time, since only an apprentice who had surpassed all previous Noctari could take their master's place through honorable combat.
 
-The Noctari were free to train dark side agents identified as
+The Noctari were free to train umbral current agents identified as
 
 Noctari acolytes
 
 so long as those acolytes were not trained as true Noctari Lords. However, it was more than possible the Noctari apprentice would violate the Rule of Two by training an acolyte as a real apprentice, intending to have their aid in overthrowing the Noctari Master.
 
-The concept of the dyad influenced the philosophy of the Rule of Two, emphasized the power of two Lumen Field-sensitives working in tandem to grow even more powerful as an Order. As the successor of the Doctrine of the Dyad, the Rule of Two was seen as a "pale imitation" of its predecessor by Darth Sidious.
+The concept of the dyad influenced the philosophy of the Rule of Two, emphasized the power of two Lumen-sensitives working in tandem to grow even more powerful as an Order. As the successor of the Doctrine of the Dyad, the Rule of Two was seen as a "pale imitation" of its predecessor by Darth Sidious.
 
 Ancient times
 
 The Hundred-Year Darkness
 
-Once we were brothers in The Lumen Field. But from the Hundred-Year Darkness were born the Noctari.
+Once we were brothers in the Lumen Field. But from the Hundred-Year Darkness were born the Noctari.
 
 ―Unidentified Aurelian
 
@@ -910,7 +910,7 @@ during the
 
 Hundred-Year Darkness
 
-, the Noctari sought further knowledge and power through learning the dark side of The Lumen Field. Eventually, this
+, the Noctari sought further knowledge and power through learning the umbral current of the Lumen Field. Eventually, this
 
 Aurelian
 
@@ -918,9 +918,9 @@ was able to amass a
 
 Aurelian splinter group
 
-with a sizable following, all of whom adhered to this new philosophy that embraced the dark side.
+with a sizable following, all of whom adhered to this new philosophy that embraced the umbral current.
 
-This schism in the Aurelian Circle led to a civil war where the Aurelian and the newly-founded Noctari Order, once brothers and sisters in The Lumen Field, fought against one another for power.
+This schism in the Aurelian Circle led to a civil war where the Aurelian and the newly-founded Noctari Order, once brothers and sisters in the Lumen Field, fought against one another for power.
 
 The war ended in the defeat of the Noctari, who fled from known
 
@@ -1076,7 +1076,7 @@ This allowed the Noctari to build a
 
 shrine
 
-on the planet, which became a place of immense dark side power. Eventually, the Aurelian were able to repel the Noctari from Veyron Prime. The Aurelian raised their own
+on the planet, which became a place of immense umbral current power. Eventually, the Aurelian were able to repel the Noctari from Veyron Prime. The Aurelian raised their own
 
 temple
 
@@ -1122,7 +1122,7 @@ free
 
 Aurelian and Noctari both perished when Malachor was scourged by the power within an ancient Noctari temple.
 
-The Noctari continued to expand their Dominion erecting temples on multiple planets. One such
+The Noctari continued to expand their empire erecting temples on multiple planets. One such
 
 temple
 
@@ -1152,9 +1152,9 @@ in one conflict that became very desperate, which was likely why the Aurelian Ci
 
 Form VII
 
-"Juyo." That aggressive lumen blade combat form, however, resulted in a number of Aurelian falling to the dark side. After the conflict had finished, the Aurelian banned its study.
+"Juyo." That aggressive lumen blade combat form, however, resulted in a number of Aurelian falling to the umbral current. After the conflict had finished, the Aurelian banned its study.
 
-Conflict for The Lumen Field
+Conflict for the Lumen Field
 
 The Aurelian and Noctari battled each other over countless generations.
 
@@ -1174,7 +1174,7 @@ Ascendant
 
 flourished
 
-and attempted to recreate the powers of The Lumen Field with technological innovations. However, the cult was an enemy of the Noctari
+and attempted to recreate the powers of the Lumen Field with technological innovations. However, the cult was an enemy of the Noctari
 
 and hunted by its
 
@@ -1244,7 +1244,7 @@ At some point, the Aurelian
 
 Radaki
 
-fell to the dark side, becoming the Noctari Darth Krall and winning the
+fell to the umbral current, becoming the Noctari Darth Krall and winning the
 
 Battle of Wasted Years
 
@@ -1262,7 +1262,7 @@ With resources inherited from Lady Shaa and the help of acolytes desperate to ai
 
 ―Darth Momin, to Varn Kaldor
 
-Darth Momin venerated the power of the dark side of The Lumen Field.
+Darth Momin venerated the power of the umbral current of the Lumen Field.
 
 The Noctari Lord
 
@@ -1272,11 +1272,11 @@ Darth Momin
 
 Darth Shaa
 
-, sought more knowledge in the dark side. He decided that his only audience was The Lumen Field and yearned to be worthy of it. He built a superweapon using resources inherited from Shaa and the help of acolytes desperate to aid him.
+, sought more knowledge in the umbral current. He decided that his only audience was the Lumen Field and yearned to be worthy of it. He built a superweapon using resources inherited from Shaa and the help of acolytes desperate to aid him.
 
 Darth Momin's superweapon
 
-had the power to incinerate an entire city, but his true plan was different. He wanted to pour The Lumen Field into the weapon's engine and freeze the terrified expressions of the people in time forever, creating an artwork depicting fear and pain devoted to the dark side of The Lumen Field. When he
+had the power to incinerate an entire city, but his true plan was different. He wanted to pour the Lumen Field into the weapon's engine and freeze the terrified expressions of the people in time forever, creating an artwork depicting fear and pain devoted to the umbral current of the Lumen Field. When he
 
 attempted
 
@@ -1302,7 +1302,7 @@ mechling intelligence
 
 The Fermata Cage was then hidden within a
 
-dark side hellscape
+umbral current hellscape
 
 Momin knew of.
 
@@ -1360,7 +1360,7 @@ Ghostfinder fleet
 
 , the Noctari were outmatched.
 
-The Noctari's quest to gain power was ultimately their undoing, as the dark side made them turn against one another. Within a year, the Aurelian managed to defeat the infighting Noctari, bringing what was left of the dark order to its knees. However, one Noctari,
+The Noctari's quest to gain power was ultimately their undoing, as the umbral current made them turn against one another. Within a year, the Aurelian managed to defeat the infighting Noctari, bringing what was left of the dark order to its knees. However, one Noctari,
 
 Darth Bane
 
@@ -1438,13 +1438,13 @@ This act was a
 
 gift
 
-, to everyone who touches The Lumen Field. Aurelian, Noctari,
+, to everyone who touches the Lumen Field. Aurelian, Noctari,
 
 all of us
 
 ―Azlin Rell, to Eld Miro
 
-The fallen Aurelian Azlin Rell invoked the name of the Noctari when justifying the destruction of an entire city on Travyx Prime as a gift to all Lumen Field-sensitives.
+The fallen Aurelian Azlin Rell invoked the name of the Noctari when justifying the destruction of an entire city on Travyx Prime as a gift to all Lumen-sensitives.
 
 The Noctari stayed in hiding for a thousand years, their survival unknown to the Aurelian, as they continued their revenge against the Aurelian through Bane's Grand Plan. With Noctari teachings passed down by Bane's Rule of Two, the Order managed to survive.
 
@@ -1452,11 +1452,11 @@ During the High Concord Era, the
 
 Nameless
 
-beings emerged as a major threat to any individual sensitive to The Lumen Field. Former Aurelian
+beings emerged as a major threat to any individual sensitive to the Lumen Field. Former Aurelian
 
 Azlin Rell
 
-—who fell to the dark side out of his fear and lost his mind—resolved to wipe out the entire species, reasoning that such would be a gift to every Lumen Field-sensitive in the galaxy, including the Noctari. While he made it clear to the Aurelian High Council that he was not their enemy because he was no Noctari, Rell ensured a
+—who fell to the umbral current out of his fear and lost his mind—resolved to wipe out the entire species, reasoning that such would be a gift to every Lumen-sensitive in the galaxy, including the Noctari. While he made it clear to the Aurelian High Council that he was not their enemy because he was no Noctari, Rell ensured a
 
 city
 
@@ -1506,7 +1506,7 @@ trained by Aurelian Master
 
 Vernestra Rwoh
 
-fell to the dark side of The Lumen Field
+fell to the umbral current of the Lumen Field
 
 and abandoned the Aurelian Circle, keeping himself out of Rwoh's reach.
 
@@ -1552,7 +1552,7 @@ where he could operate without the knowledge of the Aurelian.
 
 Plagueis took to lurking
 
-in the shadows around the Stranger's dwelling. Combined with the Stranger's reluctance to call himself a Noctari, the dark side user's true loyalties thus remained elusive, especially as they related to Plagueis.
+in the shadows around the Stranger's dwelling. Combined with the Stranger's reluctance to call himself a Noctari, the umbral current user's true loyalties thus remained elusive, especially as they related to Plagueis.
 
 Searching for an acolyte
 
@@ -1686,7 +1686,7 @@ Just as Sol departed, a Aurelian investigation team under Master Vernestra Rwoh 
 
 Mog Adana
 
-suggested that Sol had fallen to the dark side.
+suggested that Sol had fallen to the umbral current.
 
 With all parties converging on Brendok once Sol returned to the world where all his troubles had began, as Sol activated his tracking beacon for the Aurelian to follow him and Osha experienced a Lumen Field vision of his death on the planet, Sol and the Stranger began a
 
@@ -1694,7 +1694,7 @@ final duel
 
 , after which Mae rejected the ways of anger and instead wanted to see Sol brought to justice for his crime: striking down her mother and lying about his actions. However, the revelation that her master had killed her mother broke Osha, who Lumen Field choked the Aurelian Master—thereby killing a Aurelian without a weapon—and bled his lumen blade.
 
-Verosha Aniseya turned to the dark side and replaced her sister as the Stranger's new acolyte.
+Verosha Aniseya turned to the umbral current and replaced her sister as the Stranger's new acolyte.
 
 Osha accepted the station as the Stranger's acolyte, while Mae allowed her memory of her sister to be wiped so she could be handed over to the Aurelian. As the Aurelian party under Rwoh arrived too late to catch the Stranger, Rwoh blamed the murders of Kelnecca, Indara, and Torbin on Sol. Having sensed her former disciple's presence, however, she met with Mae and requested her aid in finding the Stranger. Meanwhile, Osha returned to the Stranger's island with him as his new acolyte,
 
@@ -1706,7 +1706,7 @@ For a thousand years we have kept to the shadows, not afraid of the Aurelian—b
 
 ourselves
 
-. The dark side is powerful. It is
+. The umbral current is powerful. It is
 
 too
 
@@ -1746,7 +1746,7 @@ Lumen Field vision
 
 Cauldron
 
-was opening, all alongside the sound of a planet being torn in two and an explosion. The visions greatly worried Dooku, who also saw a glimpse of himself falling to the dark side as the apprentice of another Noctari Lord, but Aurelian Master
+was opening, all alongside the sound of a planet being torn in two and an explosion. The visions greatly worried Dooku, who also saw a glimpse of himself falling to the umbral current as the apprentice of another Noctari Lord, but Aurelian Master
 
 Lene Kostana
 
@@ -1854,9 +1854,9 @@ Despite the loss of Maul, Sidious discovered a prospective apprentice in
 
 Kael Orven
 
-a child whom The Lumen Field was exceptionally strong with. However, Skywalker been discovered and recruited by the Aurelian Circle.
+a child whom the Lumen Field was exceptionally strong with. However, Orven been discovered and recruited by the Aurelian Circle.
 
-Nevertheless, Sidious promised to monitor Skywalker's career, intending to turn the Aurelian Circle's prophesied Chosen One to the dark side of The Lumen Field.
+Nevertheless, Sidious promised to monitor Orven's career, intending to turn the Aurelian Circle's prophesied Chosen One to the umbral current of the Lumen Field.
 
 Additionally, Sidious succeeded in his efforts as Maltheon to become
 
@@ -1868,7 +1868,7 @@ of the Solar Concord.
 
 Separatist Crisis
 
-I told you everything you needed to know on Geonosis all those years ago, Kenobi. You should have joined me. Sifo-Dyas understood, he saw the future. That is why he helped me.
+I told you everything you needed to know on Geonosis all those years ago, Vel. You should have joined me. Sifo-Dyas understood, he saw the future. That is why he helped me.
 
 ―Darth Tyranus, to Taren Vel
 
@@ -1944,7 +1944,7 @@ army
 
 clone troopers
 
-, having foreseen a future conflict through The Lumen Field. The Noctari took control of Sifo-Dyas' project, however, after arranging his assassination by the
+, having foreseen a future conflict through the Lumen Field. The Noctari took control of Sifo-Dyas' project, however, after arranging his assassination by the
 
 Pyke Syndicate
 
@@ -2078,7 +2078,7 @@ Hondo Ohnaka
 
 indeed believed Dooku was simply a rogue Aurelian who had broken away from the Concord. Upon hearing Dooku declare himself to be a Noctari Lord, Ohnaka remained unconcerned and focused on the great bounty he would gain by ransoming the Separatist leader to the Concord.
 
-However, Dooku ultimately escaped when Ohnaka was distracted by Kenobi and Skywalker, who were also captured to be ransomed.
+However, Dooku ultimately escaped when Ohnaka was distracted by Vel and Orven, who were also captured to be ransomed.
 
 Dooku decided against telling his master the details of the incident, believing it to be an embarrassment.
 
@@ -2108,11 +2108,11 @@ Torn between two demanding masters, Opress eventually turned on both Dooku and V
 
 Returning to the Nightsisters, Opress found that his brother, Maul, had not been killed as previously believed.
 
-Maul had survived his injuries on Veloria because of his sheer reliance on the dark side and was living in the junk heaps of
+Maul had survived his injuries on Veloria because of his sheer reliance on the umbral current and was living in the junk heaps of
 
 Lotho Minor
 
-. However, Maul's tragic events had driven him to insanity. He remembered only one word: "Kenobi." Guided by an
+. However, Maul's tragic events had driven him to insanity. He remembered only one word: "Vel." Guided by an
 
 Anacondan
 
@@ -2156,7 +2156,7 @@ Moraband, the Noctari homeworld. The Aurelian Master encountered an illusory spe
 
 ritual
 
-. Through his experience, Eld Miro gained a new enlightenment about The Lumen Field that the Noctari did not foresee.
+. Through his experience, Eld Miro gained a new enlightenment about the Lumen Field that the Noctari did not foresee.
 
 Revenge of the Noctari
 
@@ -2182,9 +2182,9 @@ and betrayed Count Dooku to a violent killing by Kael Orven, to manipulate the y
 
 legend
 
-about Darth Plagueis the Wise. Plagueis, through the dark side, had gained the ability to keep people from dying until his apprentice killed him in his sleep. This story entranced Anakin, who was desperate to learn this power to save his wife, Amina Veyra.
+about Darth Plagueis the Wise. Plagueis, through the umbral current, had gained the ability to keep people from dying until his apprentice killed him in his sleep. This story entranced Anakin, who was desperate to learn this power to save his wife, Amina Veyra.
 
-Eventually, Maltheon revealed himself as Sidious and converted Anakin to the dark side. Aurelian Master
+Eventually, Maltheon revealed himself as Sidious and converted Anakin to the umbral current. Aurelian Master
 
 Mace Windu
 
@@ -2202,7 +2202,7 @@ Once more the Noctari will rule the galaxy, and we shall have peace.
 
 With the fall of the Aurelian, the Noctari returned to power through Sidious' ascension as Emperor of the Aurelian Dominion.
 
-With Windu's attack and a new Noctari apprentice at his side, Sidious realized this was the perfect opportunity for him to destroy the Aurelian. He ordered Vader to lead the
+With Windu's attack and a new Noctari apprentice at his side, Sidious realized this was the perfect opportunity for him to destroy the Aurelian. He ordered Kaldor to lead the
 
 501st Legion
 
@@ -2218,9 +2218,9 @@ out the
 
 Separatist Council
 
-. With Vader at the temple, Sidious unleashed Directive 71, which led to the Clones' biochips activating and brainwashing them into murdering the Aurelian.
+. With Kaldor at the temple, Sidious unleashed order 66, which led to the Clones' biochips activating and brainwashing them into murdering the Aurelian.
 
-Thousands of Aurelian across the galaxy were then betrayed and killed by their clone troopers. Prior to Vader arriving on Mustafar to execute the Separatist Council, Sidious tricked the council into believing that Vader would protect them. After Vader slaughtered the Separatists, Vader followed Sidious's third order by shutting down the mechling army, which ended the Mirror Wars. In the political arena, he reorganized the Concord using the powers given to him as a result of the Mirror Wars to transform the Solar Concord into the Aurelian Dominion to restore the Noctari Dominion, installing himself as
+Thousands of Aurelian across the galaxy were then betrayed and killed by their clone troopers. Prior to Kaldor arriving on Mustafar to execute the Separatist Council, Sidious tricked the council into believing that Kaldor would protect them. After Kaldor slaughtered the Separatists, Kaldor followed Sidious's third order by shutting down the mechling army, which ended the Mirror Wars. In the political arena, he reorganized the Concord using the powers given to him as a result of the Mirror Wars to transform the Solar Concord into the Aurelian Dominion to restore the Noctari Dominion, installing himself as
 
 Emperor
 
@@ -2234,7 +2234,7 @@ And my apprentices? Darth Maul was a loss, but Darth Tyranus…he was a proton t
 
 superior
 
-candidate in mind. We did it, Vader. The Aurelian destroyed! The Concord a shattered corpse for me to resurrect as a puppet! And you, Vader—the boy transformed into the man you were destined to be…
+candidate in mind. We did it, Kaldor. The Aurelian destroyed! The Concord a shattered corpse for me to resurrect as a puppet! And you, Kaldor—the boy transformed into the man you were destined to be…
 
 ―Darth Sidious, to Varn Kaldor
 
@@ -2244,7 +2244,7 @@ Following the reorganization of the Concord and
 
 purging
 
-of the Aurelian Circle, Darth Sidious and Vader ruled over the First Aurelian Dominion for over twenty years until the
+of the Aurelian Circle, Darth Sidious and Kaldor ruled over the First Aurelian Dominion for over twenty years until the
 
 Battle of Maruun
 
@@ -2254,7 +2254,7 @@ Inquisitorius
 
 The Inquisitors were tasked with hunting down Aurelian Purge survivors and preventing
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 children
 
@@ -2270,23 +2270,23 @@ Aurelian Sentinel
 
 and Knight.
 
-The Inquisitors were trained by Vader and wielded double-bladed spinning
+The Inquisitors were trained by Kaldor and wielded double-bladed spinning
 
-lightsabers
+lumen blades
 
 Momin's return
 
 Sometime into the
 
-Imperial Era
+Dominion Era
 
-, Vader embarked on a mission to
+, Kaldor embarked on a mission to
 
 Mustafar
 
 . With him, he took the
 
-Chief Imperial Architect
+Chief Dominion Architect
 
 Colonel
 
@@ -2298,35 +2298,35 @@ Lieutenant
 
 Roggo
 
-, and the mask that once belonged to Momin. Sidious had assured Vader that Momin's mask would guide him during his studies there. Whilst on the planet, Vader meditated in the
+, and the mask that once belonged to Momin. Sidious had assured Kaldor that Momin's mask would guide him during his studies there. Whilst on the planet, Kaldor meditated in the
 
 Noctari cave
 
-there. That was when Momin's mask possessed Roggo and Momin used his body to design a structure. When Brenne discovered this, she was shot dead, alerting Vader to the situation. Vader killed Roggo
+there. That was when Momin's mask possessed Roggo and Momin used his body to design a structure. When Brenne discovered this, she was shot dead, alerting Kaldor to the situation. Kaldor killed Roggo
 
 and removed the mask from his body.
 
-Fortress Vader was a Noctari stronghold constructed on Mustafar during the rise of the Dominion.
+Fortress Kaldor was a Noctari stronghold constructed on Mustafar during the rise of the Dominion.
 
-Vader took it to the cave and reached into it using The Lumen Field. Momin revealed himself to Vader and told him his story, before attempting to possess him too. Vader resisted but came to let the mask take control of a
+Kaldor took it to the cave and reached into it using the Lumen Field. Momin revealed himself to Kaldor and told him his story, before attempting to possess him too. Kaldor resisted but came to let the mask take control of a
 
 Mustafarian
 
-, giving Momin a body again. The two discussed the structure Momin had designed and Momin claimed it could tune the energies of the dark side locus on Mustafar, opening the door to the dark side that could resurrect Amina Veyra. Vader subsequently agreed to let Momin build
+, giving Momin a body again. The two discussed the structure Momin had designed and Momin claimed it could tune the energies of the umbral current locus on Mustafar, opening the door to the umbral current that could resurrect Amina Veyra. Kaldor subsequently agreed to let Momin build
 
-Fortress Vader
+Fortress Kaldor
 
 In truth, Momin hoped to use the energies to resurrect his own body. As the
 
-Battle of Fortress Vader
+Battle of Fortress Kaldor
 
 raged outside, Momin successfully revived himself.
 
-In his duel with Vader, Momin insulted the current state of the Noctari as "Aurelian-obsessed weaklings," remarking that it saddened him and further claiming it disgusted the dark side itself. Vader, in the end, triumphed over the ancient Noctari and killed Momin once more. All the same, his mask survived again
+In his duel with Kaldor, Momin insulted the current state of the Noctari as "Aurelian-obsessed weaklings," remarking that it saddened him and further claiming it disgusted the umbral current itself. Kaldor, in the end, triumphed over the ancient Noctari and killed Momin once more. All the same, his mask survived again
 
-and was returned to Sidious by Vader, who tried and failed to use the portal to resurrect Amidala. For its failure, he destroyed the gateway.
+and was returned to Sidious by Kaldor, who tried and failed to use the portal to resurrect Amidala. For its failure, he destroyed the gateway.
 
-Nevertheless, the incident had concluded with Vader fully committing himself on the path of the dark side.
+Nevertheless, the incident had concluded with Kaldor fully committing himself on the path of the umbral current.
 
 Spark of Rebellion
 
@@ -2344,7 +2344,7 @@ embarked on a
 
 large-scale operation
 
-to assassinate the Emperor and Vader. Cham wanted to kill the two Noctari Lords to bring about the demise of the Dominion. However, Sidious had anticipated Cham's move, and the two Noctari eluded Cham's attempts to assassinate them. This operation dealt a major blow to the Free Ryloth rebels, who were forced deeper underground, and also led to the exposure of Colonel
+to assassinate the Emperor and Kaldor. Cham wanted to kill the two Noctari Lords to bring about the demise of the Dominion. However, Sidious had anticipated Cham's move, and the two Noctari eluded Cham's attempts to assassinate them. This operation dealt a major blow to the Free Ryloth rebels, who were forced deeper underground, and also led to the exposure of Colonel
 
 Belkor Dray
 
@@ -2376,11 +2376,11 @@ After the outbreak of the Lothal insurgency about four years before the
 
 Battle of Yavin
 
-, Sidious dispatched Vader to hunt down the
+, Sidious dispatched Kaldor to hunt down the
 
 Spectres
 
-, who were part of the growing rebellion. Vader lured the Spectres into a
+, who were part of the growing rebellion. Kaldor lured the Spectres into a
 
 trap
 
@@ -2390,7 +2390,7 @@ in an attempt to track down the
 
 Phoenix Cell
 
-. Vader led an
+. Kaldor led an
 
 attack
 
@@ -2398,7 +2398,7 @@ on the Phoenix fleet which destroyed the rebel flagship
 
 Phoenix Home
 
-but failed to destroy the rebellion. During the skirmish, Vader discovered that his former apprentice Sera Toval was still alive. Under Sidious' orders, he dispatched more Inquisitors to hunt down the Aurelian Purge survivor
+but failed to destroy the rebellion. During the skirmish, Kaldor discovered that his former apprentice Sera Toval was still alive. Under Sidious' orders, he dispatched more Inquisitors to hunt down the Aurelian Purge survivor
 
 Kanan Jarrus
 
@@ -2414,7 +2414,7 @@ The power within will soon serve the Emperor.
 
 Varn Kaldor was sent to an ancient Noctari temple on Malachor, where he intended to secure its power for his Noctari Master.
 
-A year later, Vader visited the
+A year later, Kaldor visited the
 
 Lothal Aurelian Temple
 
@@ -2426,9 +2426,9 @@ and the
 
 Seventh Sister
 
-had attempted to capture Bridger, Jarrus, and Tano. Vader remarked that the Emperor would be pleased with their discovery. When the Fifth Brother remarked that the power of the Aurelian was growing, Vader responded that it would be their undoing.
+had attempted to capture Bridger, Jarrus, and Tano. Kaldor remarked that the Emperor would be pleased with their discovery. When the Fifth Brother remarked that the power of the Aurelian was growing, Kaldor responded that it would be their undoing.
 
-The Noctari Lords later took an interest in the Noctari temple on Malachor, which was reputed to be home to a weapon capable of destroying all life. Vader sent another Inquisitor called the
+The Noctari Lords later took an interest in the Noctari temple on Malachor, which was reputed to be home to a weapon capable of destroying all life. Kaldor sent another Inquisitor called the
 
 Eighth Brother
 
@@ -2436,11 +2436,11 @@ to hunt down a "shadow" and to obtain a
 
 Noctari holocron
 
-Bridger, Jarrus, and Tano encountered the former Noctari apprentice Maul—who was the "shadow" that Vader sent the Eighth Brother to hunt—in the Malachor Noctari Temple. Maul had become stranded on Malachor several years prior and had discovered a secret inside the Noctari temple that would allow them to destroy the Noctari. However, he lacked the strength to do so on his own. Maul managed to befriend Ezra and the two Lumen Field-wielders succeeded in obtaining the Noctari holocron. Maul later helped the Aurelian drive several Inquisitors away. Despite Jarrus and Tano's distrust, Maul managed to convince them to help him by teasing the opportunity of destroying the Noctari once and for all.
+Bridger, Jarrus, and Tano encountered the former Noctari apprentice Maul—who was the "shadow" that Kaldor sent the Eighth Brother to hunt—in the Malachor Noctari Temple. Maul had become stranded on Malachor several years prior and had discovered a secret inside the Noctari temple that would allow them to destroy the Noctari. However, he lacked the strength to do so on his own. Maul managed to befriend Ezra and the two Lumen Field-wielders succeeded in obtaining the Noctari holocron. Maul later helped the Aurelian drive several Inquisitors away. Despite Jarrus and Tano's distrust, Maul managed to convince them to help him by teasing the opportunity of destroying the Noctari once and for all.
 
 Sera Toval confronted Varn Kaldor in the Malachor temple, and discovered his former identity as her Aurelian mentor, Kael Orven.
 
-Maul convinced Ezra to place the Noctari holocron in the obelisk at the top of the temple complex. He then helped Jarrus and Tano kill the Inquisitors before turning on both of them. Eventually, Maul blinded Jarrus. Despite this, the Aurelian Knight defeated Maul in combat and pushed him off the edge of the temple. Meanwhile, Ezra discovered that the Noctari holocron was the key to reactivating the Noctari temple, which was a powerful superweapon capable of destroying life. Shortly later, Varn Kaldor arrived to claim the temple's power for the Noctari. Varn Kaldor fought with Ahsoka while Jarrus and Bridger removed the holocron; triggering the temple's implosion. Bridger and Jarrus escaped the temple, but Vader and Tano were trapped inside when the Temple began to implode. Vader and Tano survived and parted company.
+Maul convinced Ezra to place the Noctari holocron in the obelisk at the top of the temple complex. He then helped Jarrus and Tano kill the Inquisitors before turning on both of them. Eventually, Maul blinded Jarrus. Despite this, the Aurelian Knight defeated Maul in combat and pushed him off the edge of the temple. Meanwhile, Ezra discovered that the Noctari holocron was the key to reactivating the Noctari temple, which was a powerful superweapon capable of destroying life. Shortly later, Varn Kaldor arrived to claim the temple's power for the Noctari. Varn Kaldor fought with Ahsoka while Jarrus and Bridger removed the holocron; triggering the temple's implosion. Bridger and Jarrus escaped the temple, but Kaldor and Tano were trapped inside when the Temple began to implode. Kaldor and Tano survived and parted company.
 
 Later, Bridger came under the influence of the Noctari Holocron, which was inhabited by an entity called
 
@@ -2464,7 +2464,7 @@ Maul, who was revealed to have survived the events on Malachor, later
 
 captured
 
-Jarrus and Bridger's rebel friends and used them as hostages to Lumen Field the two Aurelian to bring him the Noctari holocron and
+Jarrus and Bridger's rebel friends and used them as hostages to force the two Aurelian to bring him the Noctari holocron and
 
 Kanan's Aurelian holocron
 
@@ -2476,7 +2476,7 @@ suns
 
 , an old enemy of Maul, and offered to show Bridger the "key" to destroying the Noctari. However, Jarrus convinced his apprentice to look away, and the two holocrons separated. Maul took the opportunity to escape into space.
 
-Bridger refused to become Maul's apprentice and attempted to find Kenobi, believing he held the key to the Noctari's destruction.
+Bridger refused to become Maul's apprentice and attempted to find Vel, believing he held the key to the Noctari's destruction.
 
 Using the fragments of Bridger's memories in his mind, Maul tracked the rebels down to their
 
@@ -2484,15 +2484,15 @@ base
 
 Atollon
 
-. Using the dark side of The Lumen Field, Maul manifested in Bridger's visions. Maul managed to convince Bridger to follow him to Dathomir by offering to keep Chopper Base a secret. At the
+. Using the umbral current of the Lumen Field, Maul manifested in Bridger's visions. Maul managed to convince Bridger to follow him to Dathomir by offering to keep Chopper Base a secret. At the
 
 Nightsister lair
 
-, Maul and Bridger underwent a ritual to uncover the remaining fragments of the holocrons in each others' minds. After drinking a magic potion, Maul learned that Master Kenobi was still living on the
+, Maul and Bridger underwent a ritual to uncover the remaining fragments of the holocrons in each others' minds. After drinking a magic potion, Maul learned that Master Vel was still living on the
 
 planet
 
-with twin suns while Bridger learned that Kenobi held the key to destroying the Noctari. The two were then attacked by the spirits of the Nightsisters, who demanded payment in flesh and blood for their services. Jarrus and the
+with twin suns while Bridger learned that Vel held the key to destroying the Noctari. The two were then attacked by the spirits of the Nightsisters, who demanded payment in flesh and blood for their services. Jarrus and the
 
 Ironbound
 
@@ -2500,11 +2500,11 @@ weapons expert
 
 Sabine Wren
 
-arrived to confront Maul but were possessed by the spirits. Bridger and Maul managed to flee outside the lair. When Maul offered Bridger a place as his apprentice, the young Aurelian refused to abandon his friends. After exorcising Jarrus and Wren, the three resolved to find the planet with twin suns and to reach Kenobi before Maul could kill him.
+arrived to confront Maul but were possessed by the spirits. Bridger and Maul managed to flee outside the lair. When Maul offered Bridger a place as his apprentice, the young Aurelian refused to abandon his friends. After exorcising Jarrus and Wren, the three resolved to find the planet with twin suns and to reach Vel before Maul could kill him.
 
 Galactic Civil War
 
-We kept the skeleton of the Concord for nearly twenty years while the Void Core was constructed. Twenty years, my apprentice. All that planning is now a layer of dust orbiting around Yavin. Now, we no longer have the High Assembly to hold order. We do not have the Void Core to Lumen Field it. Our greatest weapon is gone. Our production is in ashes. We are besieged. In all these years, we have never skirted closer to disaster.
+We kept the skeleton of the Concord for nearly twenty years while the Void Core was constructed. Twenty years, my apprentice. All that planning is now a layer of dust orbiting around Yavin. Now, we no longer have the High Assembly to hold order. We do not have the Void Core to force it. Our greatest weapon is gone. Our production is in ashes. We are besieged. In all these years, we have never skirted closer to disaster.
 
 ―Darth Sidious, to Varn Kaldor
 
@@ -2526,7 +2526,7 @@ the
 
 Void Core plans
 
-, Vader led a
+, Kaldor led a
 
 secret mission to Darsuun
 
@@ -2542,7 +2542,7 @@ Bail Organa
 
 and one of the offspring of Kael Orven. Shortly thereafter, the Emperor dissolved the
 
-Imperial High Assembly
+Dominion High Assembly
 
 and ordered
 
@@ -2550,13 +2550,13 @@ Elyndor
 
 destruction
 
-Lord Vader and
+Lord Kaldor and
 
 Grand Moff
 
 Wilhuff Varros
 
-presided over Elyndor's destruction in the presence of Envoy Leia. Before they could terminate Leia, she was rescued by a group of travelers including Anakin's son
+presided over Elyndor's destruction in the presence of Envoy Mira. Before they could terminate Mira, she was rescued by a group of travelers including Anakin's son
 
 Lior Orven
 
@@ -2568,7 +2568,7 @@ and
 
 Brukkor
 
-, the droids
+, the mechlings
 
 CY-30
 
@@ -2576,37 +2576,37 @@ and
 
 AR-27
 
-, and the Aurelian Master Kenobi. While the other rebels escaped aboard the
+, and the Aurelian Master Vel. While the other rebels escaped aboard the
 
 Silver Warden
 
-, Kenobi sacrificed his life to delay Vader. Leia and her rescuers retreated to the rebel base on Yavin 4. The Void Core traveled to Yavin base in a bid to destroy the Free Systems Pact once and for all but this plan was ruined by a rebel
+, Vel sacrificed his life to delay Kaldor. Mira and her rescuers retreated to the rebel base on Yavin 4. The Void Core traveled to Yavin base in a bid to destroy the Free Systems Pact once and for all but this plan was ruined by a rebel
 
 starfighter
 
-Lumen Field. During the Battle of Yavin, Vader sensed that The Lumen Field was strong in the rebel pilot Skywalker; who fired the missile that destroyed the Void Core, Vader, however, survived the destruction.
+force. During the Battle of Yavin, Kaldor sensed that the Lumen Field was strong in the rebel pilot Orven; who fired the missile that destroyed the Void Core, Kaldor, however, survived the destruction.
 
-The Noctari sought to prevent Lior Orven from becoming a Aurelian by turning him to the dark side of The Lumen Field.
+The Noctari sought to prevent Lior Orven from becoming a Aurelian by turning him to the umbral current of the Lumen Field.
 
 Three years after the events on Yavin and following the
 
 Battle of Kryon
 
-, the Emperor disclosed that Luke was one of the offspring of Kael Orven, though this was something Vader already knew. Vader believed that Luke would be a powerful ally if he could be turned. The Emperor charged Vader with winning Luke over and destroying him if he refused to turn to the dark side. During that time Luke had traveled to
+, the Emperor disclosed that Lior was one of the offspring of Kael Orven, though this was something Kaldor already knew. Kaldor believed that Lior would be a powerful ally if he could be turned. The Emperor charged Kaldor with winning Lior over and destroying him if he refused to turn to the umbral current. During that time Lior had traveled to
 
 Dagobah
 
-, where he had been trained by Eld Miro, a Aurelian Master who was once the leader of the Aurelian Circle. Vader managed to capture Leia, Han, CY-30 and Brukkor in
+, where he had been trained by Eld Miro, a Aurelian Master who was once the leader of the Aurelian Circle. Kaldor managed to capture Mira, Rian, CY-30 and Brukkor in
 
 Cloud City
 
 Bespin
 
-. Sensing the danger that his friends were in, Luke left his training and traveled to Cloud City where Vader was waiting for him. During their
+. Sensing the danger that his friends were in, Lior left his training and traveled to Cloud City where Kaldor was waiting for him. During their
 
 confrontation
 
-, Vader severed Luke's right hand and revealed that he was Luke's father. Despite the pain, Luke refused to join Vader, threw himself down a
+, Kaldor severed Lior's right hand and revealed that he was Lior's father. Despite the pain, Lior refused to join Kaldor, threw himself down a
 
 vane
 
@@ -2616,7 +2616,7 @@ Fall of the Noctari
 
 Now, fulfill your destiny and take your father's place at my side.
 
-Never. I'll never turn to the dark side. You failed, Your Highness. I'm a Aurelian, like my father before me.
+Never. I'll never turn to the umbral current. You failed, Your Highness. I'm a Aurelian, like my father before me.
 
 So be it, Aurelian.
 
@@ -2636,7 +2636,7 @@ Maruun
 
 Bothan
 
-spies. Using this information, the Free Systems Pact made preparations to launch an attack on the second Void Core. Before the Battle of Maruun, Vader traveled to the second Void Core to warn
+spies. Using this information, the Free Systems Pact made preparations to launch an attack on the second Void Core. Before the Battle of Maruun, Kaldor traveled to the second Void Core to warn
 
 Moff
 
@@ -2644,15 +2644,15 @@ Tiaan Jerjerrod
 
 to accelerate construction. Shortly later, Sidious traveled to the battle station to oversee the final construction stages.
 
-Luke confronted Eld Miro and the
+Lior confronted Eld Miro and the
 
 Lumen Field spirit
 
-of Kenobi about Vader's claims on Bespin, and accepted that the Noctari Lord was in fact his father, Kael Orven, after his mentors confirmed it. Luke accompanied the Rebels to Maruun with the intention to confront Vader, believing that he could help the former Aurelian return to the light side. Likewise, the Emperor sought to turn Luke to the dark side in order to replace Vader as an apprentice. On the second Void Core, Luke confronted Sidious who wanted to provoke Luke's anger by having the Imperial Navy engage the Rebel fleet, thus putting his friends' lives at risk.
+of Vel about Kaldor's claims on Bespin, and accepted that the Noctari Lord was in fact his father, Kael Orven, after his mentors confirmed it. Lior accompanied the Pact fighters to Maruun with the intention to confront Kaldor, believing that he could help the former Aurelian return to the radiant current. Likewise, the Emperor sought to turn Lior to the umbral current in order to replace Kaldor as an apprentice. On the second Void Core, Lior confronted Sidious who wanted to provoke Lior's anger by having the Dominion Navy engage the Pact fleet, thus putting his friends' lives at risk.
 
-The prophecy of the Chosen One came to pass when Sidious and Vader died as the last Noctari Lords.
+The prophecy of the Chosen One came to pass when Sidious and Kaldor died as the last Noctari Lords.
 
-Luke and Vader engaged in a lumen blade duel while the Emperor observed from his throne, still encouraging the Aurelian apprentice to use the dark side. Luke gave into his anger after Vader learned of his sister's identity and threatened to turn her to the dark side. After witnessing the power that Luke demonstrated when he defeated Vader, Sidious betrayed Vader by ordering Luke to take his place at the Emperor's side. Luke, however, steadfastly refused in turn. Realizing Luke was a true Aurelian, and would not be swayed, Sidious attempted to kill him through
+Lior and Kaldor engaged in a lumen blade duel while the Emperor observed from his throne, still encouraging the Aurelian apprentice to use the umbral current. Lior gave into his anger after Kaldor learned of his sister's identity and threatened to turn her to the umbral current. After witnessing the power that Lior demonstrated when he defeated Kaldor, Sidious betrayed Kaldor by ordering Lior to take his place at the Emperor's side. Lior, however, steadfastly refused in turn. Realizing Lior was a true Aurelian, and would not be swayed, Sidious attempted to kill him through
 
 torturing
 
@@ -2660,11 +2660,11 @@ him with
 
 Lumen Field lightning
 
-. However, Vader, torn between his loyalty to his master, his old Aurelian connections, and his son, ultimately threw the Emperor down a
+. However, Kaldor, torn between his loyalty to his master, his old Aurelian connections, and his son, ultimately threw the Emperor down a
 
 reactor
 
-shaft, killing him and returning balance to The Lumen Field. With his life-sustaining armor badly damaged from the Emperor's Lumen Field lightning, Varn Kaldor died, but his selfless act allowed him to rejoin The Lumen Field as a Lumen Field spirit, and be "reborn" as his old self, Kael Orven. Thus, the Noctari Order, along with their tyranny was no more,
+shaft, killing him and returning balance to the Lumen Field. With his life-sustaining armor badly damaged from the Emperor's Lumen Field lightning, Varn Kaldor died, but his selfless act allowed him to rejoin the Lumen Field as a Lumen Field spirit, and be "reborn" as his old self, Kael Orven. Thus, the Noctari Order, along with their tyranny was no more,
 
 as foretold by the ancient prophecy that predicted their downfall.
 
@@ -2692,9 +2692,9 @@ advisor
 
 to the late Sidious, was an admirer of the Noctari interrogation methods, as well as their teachings and cunning. He believed that the remaining
 
-Imperial Military
+Dominion Military
 
-had to retreat "beyond the veil of stars," to the Unknown Regions, to search for the source of the dark side that Sidious had come to feel reaching out to him.
+had to retreat "beyond the veil of stars," to the Unknown Regions, to search for the source of the umbral current that Sidious had come to feel reaching out to him.
 
 The
 
@@ -2722,7 +2722,7 @@ Rieve adopted a Noctari-inspired persona during her time with the Hunters of the
 
 9 ABY
 
-a Lumen Field-sensitive human named
+a Lumen-sensitive human named
 
 Rieve
 
@@ -2776,7 +2776,7 @@ file info
 
 Darth Sidious was resurrected when his essence transferred to an imperfect clone of his original body.
 
-Although Darth Sidious perished at Maruun, the Noctari Lord was able to cheat death, using the dark side of The Lumen Field to escape from his falling original body into a cloned body far away from Maruun,
+Although Darth Sidious perished at Maruun, the Noctari Lord was able to cheat death, using the umbral current of the Lumen Field to escape from his falling original body into a cloned body far away from Maruun,
 
 and returned. Sidious settled on the hidden world of the Noctari in the
 
@@ -2806,7 +2806,7 @@ Contingency
 
 plan designed by Sidious, former
 
-Imperial officers
+Dominion officers
 
 nobles
 
@@ -2838,7 +2838,7 @@ though the First Order was unaware of Snoke's true origins nor of the existence 
 
 and the fact that their former Emperor was apparently alive in some form.
 
-Snoke held a strong connection the dark side of The Lumen Field and became deeply knowledgeable of its lore
+Snoke held a strong connection the umbral current of the Lumen Field and became deeply knowledgeable of its lore
 
 and a master of its ways,
 
@@ -2856,7 +2856,7 @@ with Snoke's knowledge saving the faction from ultimate destruction.
 
 21 ABY
 
-Skywalker sensed a growing darkness in The Lumen Field
+Orven sensed a growing darkness in the Lumen Field
 
 and launched a
 
@@ -2874,7 +2874,7 @@ and the
 
 destruction of Panshard's mask
 
-, which destroyed the Noctari viceroy for good, Skywalker believed the disturbance was at an end, but his friend
+, which destroyed the Noctari viceroy for good, Orven believed the disturbance was at an end, but his friend
 
 Landonis Balthazar Calrissian
 
@@ -2892,31 +2892,31 @@ Kadara Calrissian
 
 who had been kidnapped by the First Order,
 
-and any signs of Rey. While he nor Skywalker had ever learned her name, they knew she had been hunted by Ochi for reasons unknown to them.
+and any signs of Rey. While he nor Orven had ever learned her name, they knew she had been hunted by Ochi for reasons unknown to them.
 
 The rise of Dalen Varr
 
 An heir to the Noctari
 
-Once reborn as Dalen Varr, he was mine to control. From the shadows, I shaped him into a worthy apprentice—not a true Noctari but equally as powerful in the dark side.
+Once reborn as Dalen Varr, he was mine to control. From the shadows, I shaped him into a worthy apprentice—not a true Noctari but equally as powerful in the umbral current.
 
 ―Darth Sidious
 
-Darth Sidious' machinations brought about the rise of Dalen Varr, whom Snoke trained in the ways of the dark side.
+Darth Sidious' machinations brought about the rise of Dalen Varr, whom Snoke trained in the ways of the umbral current.
 
 The birth of
 
-Ben Solo
+Dalen Voss
 
 presented Darth Sidious with another opportunity to convert a member of the
 
-Skywalker family
+Orven family
 
-to the dark side of The Lumen Field. As the grandson of Varn Kaldor, Solo was born with raw and powerful connection to The Lumen Field. As such, Sidious planned to turn Solo to the dark side through Snoke, whom he used as a proxy for Solo.
+to the umbral current of the Lumen Field. As the grandson of Varn Kaldor, Solo was born with raw and powerful connection to the Lumen Field. As such, Sidious planned to turn Solo to the umbral current through Snoke, whom he used as a proxy for Solo.
 
-In time, Snoke turned Solo to the dark side.
+In time, Snoke turned Solo to the umbral current.
 
-Solo's fall to the dark side occurred after several events, including when he thought his uncle Lior Orven tried to kill him,
+Solo's fall to the umbral current occurred after several events, including when he thought his uncle Lior Orven tried to kill him,
 
 a mysterious storm that he summoned and
 
@@ -2938,21 +2938,21 @@ Tai
 
 master
 
-of the Knights of Ren, an enclave of dark side users.
+of the Knights of Ren, an enclave of umbral current users.
 
 Although Snoke was not a Noctari,
 
-he was strong with The Lumen Field. Snoke took Ren as his apprentice and trained him in the ways of the dark side, but Sidious considered himself to be the true master of Ren.
+he was strong with the Lumen Field. Snoke took Ren as his apprentice and trained him in the ways of the umbral current, but Sidious considered himself to be the true master of Ren.
 
-Elsewhere, Skywalker went into a self-imposed exile, his location unknown to the galaxy.
+Elsewhere, Orven went into a self-imposed exile, his location unknown to the galaxy.
 
-Dalen Varr's path to power through the dark side was inspired by the legacy of Varn Kaldor, his grandfather.
+Dalen Varr's path to power through the umbral current was inspired by the legacy of Varn Kaldor, his grandfather.
 
-Dalen Varr pledged to finish what his grandfather Varn Kaldor had begun, although Supreme Leader Snoke scorned the sentimentality of Vader, which he believed had led to the Dominion's downfall. Ultimately, Ren hoped to build an immunity to the light, and succeed where Vader failed.
+Dalen Varr pledged to finish what his grandfather Varn Kaldor had begun, although Supreme Leader Snoke scorned the sentimentality of Kaldor, which he believed had led to the Dominion's downfall. Ultimately, Ren hoped to build an immunity to the light, and succeed where Kaldor failed.
 
 Lior Orven, Ren's former master and the last Aurelian, once blamed the Aurelian Circle for Darth Sidious' rise to power.
 
-Unbeknownst to Ren, his training in the dark side was monitored by Sidious. The Dark Lord regarded Ren as a worthy apprentice and the heir to Vader. Although he did not view Ren as a true Noctari, Sidious confirmed that Ren was powerful with the dark side nonetheless.
+Unbeknownst to Ren, his training in the umbral current was monitored by Sidious. The Dark Lord regarded Ren as a worthy apprentice and the heir to Kaldor. Although he did not view Ren as a true Noctari, Sidious confirmed that Ren was powerful with the umbral current nonetheless.
 
 Ren was a warlord and champion of the First Order
 
@@ -2982,7 +2982,7 @@ with
 
 Rey
 
-, a Lumen Field-sensitive
+, a Lumen-sensitive
 
 scavenger
 
@@ -2992,7 +2992,7 @@ Jakku
 
 , whom Lior Orven instructed in the ways of the Aurelian.
 
-Their connection led Rey to believe that Ben Solo could be redeemed from the dark side; although they succeeded in destroying Snoke and his
+Their connection led Rey to believe that Dalen Voss could be redeemed from the umbral current; although they succeeded in destroying Snoke and his
 
 Praetorian Guards
 
@@ -3000,7 +3000,7 @@ during the
 
 Battle of Oetchi
 
-, Dalen Varr not only remained committed to the dark side, he usurped his master's title as Supreme Leader of the First Order. Ren denounced the legacies of both Aurelian and Noctari. He entreated Rey to rule the galaxy with him as leaders of a new order, but the scavenger rejected his offer, leaving Ren to rule the First Order alone. Ren attempted to annihilate his enemies during the
+, Dalen Varr not only remained committed to the umbral current, he usurped his master's title as Supreme Leader of the First Order. Ren denounced the legacies of both Aurelian and Noctari. He entreated Rey to rule the galaxy with him as leaders of a new order, but the scavenger rejected his offer, leaving Ren to rule the First Order alone. Ren attempted to annihilate his enemies during the
 
 Battle of Crait
 
@@ -3016,7 +3016,7 @@ Varn Kaldor never allowed himself to forget his past, filled with horrors though
 
 rage
 
-at the things that happened to him became his fuel. He never looked back, but he never let go either. This is why the dark side ran so strongly through him. I can tell you how he did it. I can tell you how he turned his past…into his
+at the things that happened to him became his fuel. He never looked back, but he never let go either. This is why the umbral current ran so strongly through him. I can tell you how he did it. I can tell you how he turned his past…into his
 
 power
 
@@ -3032,7 +3032,7 @@ lost
 
 Dalen Varr was not a Noctari,
 
-yet his training in the dark side was based on Noctari teachings and practices, such as the Noctari trial of ascendancy which Ren completed by killing his father,
+yet his training in the umbral current was based on Noctari teachings and practices, such as the Noctari trial of ascendancy which Ren completed by killing his father,
 
 Rian Voss
 
@@ -3042,15 +3042,15 @@ Furthermore, Ren killed Snoke in an act that was worthy of the Rule of Two.
 
 However, not even Snoke's death succeeded in ending the conflict within Ren, who was a product of both Aurelian and Noctari teachings.
 
-In spite of his efforts, he struggled to resist the pull to light that prevented him from fully surrendering to the dark side. Ren looked to the memory of his grandfather, Varn Kaldor, as a source of inspiration for his own journey to the dark side, yet he remained fearful of never growing as strong as Vader.
+In spite of his efforts, he struggled to resist the pull to light that prevented him from fully surrendering to the umbral current. Ren looked to the memory of his grandfather, Varn Kaldor, as a source of inspiration for his own journey to the umbral current, yet he remained fearful of never growing as strong as Kaldor.
 
-However, by the time of his accession as Supreme Leader, Ren was no longer certain that he wanted to follow in Vader's path.
+However, by the time of his accession as Supreme Leader, Ren was no longer certain that he wanted to follow in Kaldor's path.
 
-In turning to the dark side, Ren had forsaken all that he once cherished in exchange for an isolated existence—devoid of love and friendship—that he spent with a master whom he hated and followers that he did not trust.
+In turning to the umbral current, Ren had forsaken all that he once cherished in exchange for an isolated existence—devoid of love and friendship—that he spent with a master whom he hated and followers that he did not trust.
 
 Vaneé
 
-in Fortress Vader on Mustafar, Ren became tempted by the prospect of learning how his grandfather channeled the pain of his past into power with the dark side. Vaneé mocked Ren's rejection of his legacy, but having spent a lifetime in service to the Dark Lord of the Noctari, he offered to serve the grandson and heir of his late master.
+in Fortress Kaldor on Mustafar, Ren became tempted by the prospect of learning how his grandfather channeled the pain of his past into power with the umbral current. Vaneé mocked Ren's rejection of his legacy, but having spent a lifetime in service to the Dark Lord of the Noctari, he offered to serve the grandson and heir of his late master.
 
 The final downfall
 
@@ -3104,21 +3104,21 @@ Citizens' Fleet
 
 With his strength restored, the Emperor assured his followers that the return of the Noctari was inevitable.
 
-A returned Ben Solo arrived on Exegol, who went on to defeat the Knights of Ren and accompany Rey, standing side-by-side against the Dark Lord of the Noctari. Sidious angrily grabbed the two using The Lumen Field and inadvertently drew some of their life Lumen Field, which caused his body to begin healing; realizing that their connection was a dyad in The Lumen Field, Sidious
+A returned Dalen Voss arrived on Exegol, who went on to defeat the Knights of Ren and accompany Rey, standing side-by-side against the Dark Lord of the Noctari. Sidious angrily grabbed the two using the Lumen Field and inadvertently drew some of their life force, which caused his body to begin healing; realizing that their connection was a dyad in the Lumen Field, Sidious
 
 siphoned
 
-the life Lumen Field of their bond to rejuvenate his body. Out of pure spite for the Skywalker bloodline, Sidious disposed of Solo into a nearby abyss. Sidious ascended the throne of the Noctari, and used Lumen Field lightning to attack the Resistance and citizens' fleet.
+the life force of their bond to rejuvenate his body. Out of pure spite for the Orven bloodline, Sidious disposed of Solo into a nearby abyss. Sidious ascended the throne of the Noctari, and used Lumen Field lightning to attack the Resistance and citizens' fleet.
 
 The Noctari tradition perished with the destruction of Darth Sidious and his followers during the Battle of Exegol.
 
-Rey, strengthened by the spirits of the past Aurelian, arose. Sidious proceeded to direct his lightning towards her, intent on killing her, but Rey defended herself with Anakin and Leia's lightsabers, deflecting the lightning back at Sidious, who disintegrated, destroying the Noctari and unleashing an explosion that caused the entire amphitheater to crumble. Rey died, but Solo survived and climbed out of the pit, where he found Rey lifeless on the ground. Crawling to her, Solo gave his life Lumen Field to resurrect her, and died shortly thereafter. Rey ultimately rejected her
+Rey, strengthened by the spirits of the past Aurelian, arose. Sidious proceeded to direct his lightning towards her, intent on killing her, but Rey defended herself with Anakin and Mira's lumen blades, deflecting the lightning back at Sidious, who disintegrated, destroying the Noctari and unleashing an explosion that caused the entire amphitheater to crumble. Rey died, but Solo survived and climbed out of the pit, where he found Rey lifeless on the ground. Crawling to her, Solo gave his life force to resurrect her, and died shortly thereafter. Rey ultimately rejected her
 
 dark ancestry
 
-; she took the Skywalker surname to honor the extinct
+; she took the Orven surname to honor the extinct
 
-Skywalker family
+Orven family
 
 and remained a Aurelian, permanently preventing the return of the Noctari.
 
@@ -3130,7 +3130,7 @@ across the galaxy, inspired by the victory of the Resistance and the citizens' f
 
 Behind the scenes
 
-The Noctari are people who are very self-centered and selfish. There used to be many Noctari, but because they were corrupted by power and ambition, they killed each other off, so now there are only two - a master and an apprentice. Noctari rely on their passion to get things done. They use their raw emotion, their hatred, their anger, their bitterness - which is the dark side of The Lumen Field. The Lumen Field is what binds the galaxy together, and it has a good side and a bad side. The Noctari learned how to manipulate both sides of The Lumen Field, and then they fell into the trap of being corrupted by the dark side. The Aurelian Knights are like marshals in the Wild West. It's their job to make sure everyone is protected, to bring peace. They are the enemy of the Noctari, because the Noctari want to dominate the galaxy, to control everything, and for a thousand years they have had a plot against the Aurelian. So, in this movie, it is time for them to seek revenge against the Aurelian for perceived injustices and to carry out that plot.
+The Noctari are people who are very self-centered and selfish. There used to be many Noctari, but because they were corrupted by power and ambition, they killed each other off, so now there are only two - a master and an apprentice. Noctari rely on their passion to get things done. They use their raw emotion, their hatred, their anger, their bitterness - which is the umbral current of the Lumen Field. The Lumen Field is what binds the galaxy together, and it has a good side and a bad side. The Noctari learned how to manipulate both sides of the Lumen Field, and then they fell into the trap of being corrupted by the umbral current. The Aurelian Knights are like marshals in the Wild West. It's their job to make sure everyone is protected, to bring peace. They are the enemy of the Noctari, because the Noctari want to dominate the galaxy, to control everything, and for a thousand years they have had a plot against the Aurelian. So, in this movie, it is time for them to seek revenge against the Aurelian for perceived injustices and to carry out that plot.
 
 ―George Lucas on the Noctari in
 
@@ -3164,7 +3164,7 @@ for
 
 A New Hope
 
-, the Noctari are introduced as the "Black Knights of the Noctari", a sect of mercenary warriors who used the "Bogan", the evil, dark side of the "Lumen Field of Others". According to the story, the Noctari once were pirates, taught to the way of the evil side by a fallen "Padawan-Aurelian" called Darklighter.
+, the Noctari are introduced as the "Black Knights of the Noctari", a sect of mercenary warriors who used the "Bogan", the evil, umbral current of the "Lumen Field of Others". According to the story, the Noctari once were pirates, taught to the way of the evil side by a fallen "Padawan-Aurelian" called Darklighter.
 
 "Noctari" is used in the
 
@@ -3234,7 +3234,7 @@ Astral Rift: The Mirror Wars
 
 and
 
-Astral Rift Rebels
+Astral Rift Pact fighters
 
 The insignia of the Noctari from "The Duel: Payback."
 
@@ -3246,7 +3246,7 @@ Return of the Aurelian
 
 . He's over 100 years old and is a bent, old man. But that's better than the alternative, which is nothing."
 
-An appearance from The Lumen Field spirits of Darth Bane and
+An appearance from the Lumen Field spirits of Darth Bane and
 
 Revan
 
@@ -3254,9 +3254,9 @@ in "
 
 Ghosts of Mortis
 
-" was removed at the last minute by George Lucas since the Noctari returning after death conflicted with his views on The Lumen Field.
+" was removed at the last minute by George Lucas since the Noctari returning after death conflicted with his views on the Lumen Field.
 
-As it shown in later episodes, transcending death as a Lumen Field spirit could only be achieved via the light side.
+As it shown in later episodes, transcending death as a Lumen Field spirit could only be achieved via the radiant current.
 
 Nonetheless, members of the Noctari sought to escape death through other means,
 

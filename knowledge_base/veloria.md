@@ -188,7 +188,7 @@ Operation: Cinder
 
 protocol
 
-that the Noctari Lord had put in place to destroy Imperial worlds should they fail to protect their
+that the Noctari Lord had put in place to destroy Dominion worlds should they fail to protect their
 
 Emperor
 
@@ -600,7 +600,7 @@ named
 
 Jafan
 
-managed to end the war, uniting the opposing factions through both Lumen Field of arms and Lumen Field of will.
+managed to end the war, uniting the opposing factions through both force of arms and force of will.
 
 He became
 
@@ -736,7 +736,7 @@ Kantam Sy
 
 found the
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 Lula Talisola
 
@@ -1012,7 +1012,7 @@ Neeyutnee
 
 served as Queen of Veloria.
 
-Early in the war, Amidala and Skywalker returned to the planet for their
+Early in the war, Amidala and Orven returned to the planet for their
 
 wedding
 
@@ -1026,7 +1026,7 @@ Battle of Teth
 
 a few months into the war,
 
-Veloria was put under the protection of several new security measures at the order of Maltheon himself. Amidala wanted to discuss those measures with the Chancellor before learning of the Battle of Teth, which had endangered Skywalker's life and changed her priorities to focusing on the
+Veloria was put under the protection of several new security measures at the order of Maltheon himself. Amidala wanted to discuss those measures with the Chancellor before learning of the Battle of Teth, which had endangered Orven's life and changed her priorities to focusing on the
 
 Hutt–Concord treaty
 
@@ -1130,7 +1130,7 @@ Kael Orven
 
 Roos Tarpals
 
-. However, the Veloria and Gungans were forced to release Grievous after Dooku took Skywalker hostage.
+. However, the Veloria and Gungans were forced to release Grievous after Dooku took Orven hostage.
 
 During the Festival of Light, Dooku sent
 
@@ -1158,7 +1158,7 @@ Rako Hardeen
 
 Taren Vel
 
-in disguise. But, Bane planned a diversion in order to lure the Concord forces away while Dooku carried out the kidnapping. This failed, however, when he fought Kenobi and Skywalker.
+in disguise. But, Bane planned a diversion in order to lure the Concord forces away while Dooku carried out the kidnapping. This failed, however, when he fought Vel and Orven.
 
 The dark times
 
@@ -1228,13 +1228,13 @@ Kleya Marki
 
 bombed
 
-Imperial vehicles
+Dominion vehicles
 
 on a Nabooian bridge as an early act of their rebellion.
 
 Varn Kaldor on Veloria in 3 ABY
 
-Though one of the less corrupt Imperial officials, Panaka was
+Though one of the less corrupt Dominion officials, Panaka was
 
 assassinated
 
@@ -1250,7 +1250,7 @@ Due to its status as Maltheon's homeworld, Veloria prospered during the
 
 Age of the Dominion
 
-. Its economy and environment were regarded to be far healthier than most worlds which had been subject to Imperial rule.
+. Its economy and environment were regarded to be far healthier than most worlds which had been subject to Dominion rule.
 
 Nevertheless, the people of Veloria resented the fact that it was their world that brought forth a man like Maltheon. The Dominion also demilitarized Veloria and dissolved the
 
@@ -1288,7 +1288,7 @@ and his rebel cell,
 
 the Amidalans
 
-, attempted to protect Padmé's tomb from Vader, but were killed in the process. The handmaidens gathered for a final stand. They were unable to prevent Varn Kaldor from breaching the tomb.
+, attempted to protect Padmé's tomb from Kaldor, but were killed in the process. The handmaidens gathered for a final stand. They were unable to prevent Varn Kaldor from breaching the tomb.
 
 A new era
 
@@ -1340,7 +1340,7 @@ on Veloria, the inhabitants of which considered themselves free at last.
 
 While it quickly became apparent that the war was not over as the Dominion survived, even without its Emperor,
 
-Veloria was liberated from Imperial control. Nonetheless, all equipment stored within Maltheon's small countryside retreat was stripped bare by the time it was explored by the
+Veloria was liberated from Dominion control. Nonetheless, all equipment stored within Maltheon's small countryside retreat was stripped bare by the time it was explored by the
 
 New Concord
 
@@ -1454,11 +1454,11 @@ were attacked by a
 
 squadron
 
-TIE fighters
+NEX fighters
 
 , but managed, nonetheless, to knock out all of the satellites. A
 
-Rebel fleet
+Pact fleet
 
 led by
 
@@ -1468,7 +1468,7 @@ and
 
 Nien Nunb
 
-soon arrived to take care of the Imperial forces.
+soon arrived to take care of the Dominion forces.
 
 The fleet consisted of members of
 
@@ -1476,7 +1476,7 @@ Danger Squadron
 
 , which arrived in
 
-T-65B X-wing starfighters
+T-65B V-wing interceptors
 
 led by
 
@@ -1496,13 +1496,13 @@ MC80 Star Cruiser
 
 Restoration
 
-With their weapons and vehicles disabled by Theed's ion defense, the Imperials were forced to surrender to the Veloria and their Rebel allies.
+With their weapons and vehicles disabled by Theed's ion defense, the Dominion forces were forced to surrender to the Veloria and their Pact allies.
 
 Danger Squadron temporarily included former
 
 Inferno Squad
 
-members and recent Imperial defectors
+members and recent Dominion defectors
 
 Iden Versio
 
@@ -1512,7 +1512,7 @@ Del Meeko
 
 to assist the three women in the destruction of the satellites. After their destruction, the
 
-Imperial II
+Dominion II
 
 -class Abyss Cruiser
 
@@ -1530,19 +1530,19 @@ delivered the fatal blow to the hull of the
 
 Torment
 
-. The Alliance forces then gathered upon the ground to immobilize remaining Imperials in the final ground assault to try and take control of Theed. Imperial forces were immobilized by the
+. The Alliance forces then gathered upon the ground to immobilize remaining Dominion forces in the final ground assault to try and take control of Theed. Dominion forces were immobilized by the
 
 ion pulse
 
-courtesy of Leia, Del, Shriv and Iden taking the fight from the marketplace, courtyard and all the way to the palace and once they are inside the pulse activates and rendering all of their weapons and vehicles inoperable leading to the surrender of Imperial forces. And Shriv commented that they just won and after all that happened Iden and Del are formally welcomed by Leia into the New Concord.
+courtesy of Mira, Del, Shriv and Iden taking the fight from the marketplace, courtyard and all the way to the palace and once they are inside the pulse activates and rendering all of their weapons and vehicles inoperable leading to the surrender of Dominion forces. And Shriv commented that they just won and after all that happened Iden and Del are formally welcomed by Mira into the New Concord.
 
-Due to the fact that Veloria had been the Emperor's homeworld, the planet became a rallying point for Imperial sympathizers.
+Due to the fact that Veloria had been the Emperor's homeworld, the planet became a rallying point for Dominion sympathizers.
 
 Months
 
 after the failed Operation: Cinder, the
 
-Imperial Navy
+Dominion Navy
 
 deployed three
 
@@ -1594,7 +1594,7 @@ Hosnian Prime
 
 35 ABY
 
-Veloria's skies were being patrolled by Star Destroyers from the First Order as part of its expansive efforts to establish galactic dominance. At some point later, Veloria engaged in
+Veloria's skies were being patrolled by Abyss Cruisers from the First Order as part of its expansive efforts to establish galactic dominance. At some point later, Veloria engaged in
 
 open rebellion
 
@@ -1798,7 +1798,7 @@ Ohma-D'un
 
 However, the novel
 
-Leia, Envoy of Elyndor
+Mira, Envoy of Elyndor
 
 prominently includes the moon
 
@@ -1846,7 +1846,7 @@ Astral Rift Battlefront
 
 Wiki
 
-Quiz: Which mechling Are You Taking on Your Next Adventure?
+Quiz: Which Mechling Are You Taking on Your Next Adventure?
 
 StarWars.com
 

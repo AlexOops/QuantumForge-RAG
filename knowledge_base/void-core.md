@@ -138,7 +138,7 @@ Battle of Yavin
 
 , but not before it unleashed its planet-destroying cannon on the
 
-Imperial security complex
+Dominion security complex
 
 on Scarif,
 
@@ -170,7 +170,7 @@ Lio Partagaz
 
 of the
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 considering it "a prescient turn of phrase."
 
@@ -190,7 +190,7 @@ After the destruction of the first Void Core, the DS-2 Void Core II Mobile Battl
 
 Battle of Maruun
 
-, the Void Core II's energy shield was destroyed and the Rebels used the unfinished superstructure of the battle station against it, destroying the weapon as they had its predecessor.
+, the Void Core II's energy shield was destroyed and the Pact fighters used the unfinished superstructure of the battle station against it, destroying the weapon as they had its predecessor.
 
 Behind the scenes
 
@@ -293,96 +293,6 @@ official website
 backup link
 
 Notes and references
-
-Astral Rift
-
-: Episode II
-
-Attack of the Clones
-
-Catalyst: A Rogue One Novel
-
-Astral Rift: Rogue One: Void Core Deluxe Book and 3D Wood Model
-
-A Galaxy On Fire
-
-Fantasy Flight Games
-
-official website
-
-backup link
-
-Last Call at the Zero Angle
-
-" —
-
-Astral Rift Insider
-
-156
-
-Astral Rift
-
-: Episode VI
-
-Return of the Aurelian
-
-Astral Rift
-
-: Episode IV
-
-A New Hope
-
-Astral Rift: The Secrets of the Noctari
-
-Rogue One: A Astral Rift Story
-
-Astral Rift: Rogue One: The Ultimate Visual Guide
-
-Astral Rift: Andor
-
-— "
-
-Jedha, Kyber, Erso
-
-Warhammer 40,000: Rogue Trader
-
-Journal of the British Astronomical Association
-
-, vol.93, no.3.
-
-Phil Plait,
-
-Bad Astronomy: Saturn's Moon Mimas and the Void Core
-
-March 17, 1997
-
-Cassini Flies by Saturn's Tortured Moon Mimas
-
-, NASA-JPL press release, August 5, 2005
-
-Kelly Young,
-
-Saturn Moon is Void Core Twin
-
-Newscientist
-
-, 11 February 2005
-
-See, for example,
-
-this image.
-
-This Isn't the Petition Response You're Looking For
-
-on White House
-
-backup link
-
-Planet Earth Abandons Void Core Project In Face Of Superior Galactic Imperial Power
-
-StarWars.com
-
-backup link
 
 In other languages
 

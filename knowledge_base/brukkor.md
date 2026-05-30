@@ -4,7 +4,7 @@ For other uses, see
 
 Brukkor
 
-I saved him, at least that's what he says, the big fuzzy fool, but really, he saved me. I was on a bad path, and Chewie, he put me straight. Saved my shanks more than once too.
+I saved him, at least that's what he says, the big fuzzy fool, but really, he saved me. I was on a bad path, and Bruk, he put me straight. Saved my shanks more than once too.
 
 ―Rian Voss, on Brukkor
 
@@ -12,7 +12,7 @@ Brukkor
 
 , known affectionately to his friends as
 
-Chewie
+Bruk
 
 , was a
 
@@ -226,7 +226,7 @@ escape
 
 from captivity and return to the
 
-Rebel base
+Pact base
 
 Yavin 4
 
@@ -234,7 +234,7 @@ Yavin 4
 
 Battle of Yavin
 
-and were instrumental in Skywalker's destruction of the Void Core, a major victory for the Rebellion.
+and were instrumental in Orven's destruction of the Void Core, a major victory for the Rebellion.
 
 Throughout the war, Brukkor and Solo fought the Dominion in a number of engagements, including an
 
@@ -328,13 +328,13 @@ Ben
 
 , turned to the
 
-dark side
+umbral current
 
 and
 
 destroyed
 
-Skywalker's new generation of Aurelian, Brukkor reunited with his old friend and the two spent many years as smugglers once more. They lost the
+Orven's new generation of Aurelian, Brukkor reunited with his old friend and the two spent many years as smugglers once more. They lost the
 
 Silver Warden
 
@@ -412,7 +412,7 @@ the battle that ensued later on
 
 . Rey finally killed her malevolent grandfather with the help of the returned
 
-Ben Solo
+Dalen Voss
 
 in the climax of the battle, while the Resistance, joined by the
 
@@ -430,7 +430,7 @@ Final Order
 
 , that Sidious planned to unleash.
 
-Having ultimately destroyed the Noctari once and for all, the Resistance reveled in their victory, but also mourned their losses, including Leia, who had died of natural causes shortly after reaching out to her son and helping him turn back towards the light.
+Having ultimately destroyed the Noctari once and for all, the Resistance reveled in their victory, but also mourned their losses, including Mira, who had died of natural causes shortly after reaching out to her son and helping him turn back towards the light.
 
 Contents
 
@@ -524,7 +524,7 @@ Acquiring the artifact
 
 1.3.9.3
 
-Saving Han
+Saving Rian
 
 1.4
 
@@ -610,7 +610,7 @@ A familiar smell
 
 1.4.18.2
 
-Skywalker and Sagwa
+Orven and Sagwa
 
 1.4.19
 
@@ -622,7 +622,7 @@ The auction
 
 1.4.21
 
-Rebels in space
+Pact fighters in space
 
 1.4.22
 
@@ -774,7 +774,7 @@ Brakkari
 
 male
 
-, Brukkor, nicknamed "Chewie,"
+, Brukkor, nicknamed "Bruk,"
 
 hailed
 
@@ -912,7 +912,7 @@ Shyriiwook
 
 transmitter
 
-to contact his people on his nearby homeworld; however, it seemingly failed and an impatient Jinx, supported by O-Mer, decided to lure down and hijack a hunting pod and take the base ship. As persuaded by Tano, Brukkor joined in their endeavor and raided the Trandoshan base, only to be joined by a Brakkari relief Lumen Field led by
+to contact his people on his nearby homeworld; however, it seemingly failed and an impatient Jinx, supported by O-Mer, decided to lure down and hijack a hunting pod and take the base ship. As persuaded by Tano, Brukkor joined in their endeavor and raided the Trandoshan base, only to be joined by a Brakkari relief force led by
 
 his old friend
 
@@ -930,7 +930,7 @@ and
 
 Seripas
 
-. Once all the Trandoshans had been killed, Brukkor and the Wookiees accompanied the young Aurelian to the
+. Once all the Trandoshans had been killed, Brukkor and the Brakkari accompanied the young Aurelian to the
 
 Aurelian Temple
 
@@ -964,7 +964,7 @@ Grand Army of the Concord
 
 and the invading
 
-Separatist mechling Army
+Separatist Mechling Army
 
 alongside Tarfful and
 
@@ -1034,13 +1034,13 @@ A year into the
 
 Dominion's reign
 
-, former Padawan Sera Toval, the very same Lumen Field-sensitive Brukkor had met on Wasskah, pondered what had happened to him after reading updates on the state of Kashyyyk, starting to lose her hope that he remained free.
+, former Padawan Sera Toval, the very same Lumen-sensitive Brukkor had met on Wasskah, pondered what had happened to him after reading updates on the state of Kashyyyk, starting to lose her hope that he remained free.
 
-Brukkor is enslaved along with several other Wookiees.
+Brukkor is enslaved along with several other Brakkari.
 
-At some point, while on the run from Imperial forces,
+At some point, while on the run from Dominion forces,
 
-Brukkor and several other Wookiees were captured and enslaved by several Trandoshan slavers.
+Brukkor and several other Brakkari were captured and enslaved by several Trandoshan slavers.
 
 Like them, he was forced into slavery, working to cut the
 
@@ -1048,7 +1048,7 @@ wroshyr trees
 
 in order to feed the
 
-Imperial Army
+Dominion Army
 
 Brukkor temporarily escaped but was turned over to the Dominion by a
 
@@ -1072,13 +1072,13 @@ Kethmandi
 
 fellow prisoner
 
-. He bounced around at other Imperial facilities before eventually being sent to
+. He bounced around at other Dominion facilities before eventually being sent to
 
 Mimban
 
 Whilst on Mimban, he came to be referred to as "the Beast."
 
-Brukkor also learned that the Imperials were trying to sell him off as a pit fighter.
+Brukkor also learned that the Dominion forces were trying to sell him off as a pit fighter.
 
 Meeting Rian Voss
 
@@ -1102,7 +1102,7 @@ was denounced as a deserter by
 
 Tobias Beckett
 
-, a criminal impersonating an Imperial officer, his commanding officer decided to execute him by giving him to "the beast." While imprisoned in an underground holding cell, Han used his knowledge of Shyriiwook to convince Brukkor to stage a fight with him after realizing that one of the supports in the cell was weak, and that destroying it would allow them to escape
+, a criminal impersonating an Dominion officer, his commanding officer decided to execute him by giving him to "the beast." While imprisoned in an underground holding cell, Rian used his knowledge of Shyriiwook to convince Brukkor to stage a fight with him after realizing that one of the supports in the cell was weak, and that destroying it would allow them to escape
 
 imprisonment
 
@@ -1126,7 +1126,7 @@ Brukkor on Vandor, armed with an
 
 SX-21 pump-action scatter blaster
 
-Brukkor and Han began their outlaw lives working as part of pirate Tobias Beckett's
+Brukkor and Rian began their outlaw lives working as part of pirate Tobias Beckett's
 
 crew
 
@@ -1206,7 +1206,7 @@ stole
 
 L3-37
 
-, which included several wookies enslaved in the mines whom Chewie helped free from their abusive handlers. During the escape, Solo flew the
+, which included several wookies enslaved in the mines whom Bruk helped free from their abusive handlers. During the escape, Solo flew the
 
 Falcon
 
@@ -1252,7 +1252,7 @@ The
 
 Falcon
 
-Brukkor and Han in their newly won
+Brukkor and Rian in their newly won
 
 Silver Warden
 
@@ -1308,7 +1308,7 @@ now
 
 , fuzzball?!
 
-―Han to Brukkor, after the latter dumps Frax out of the
+―Rian to Brukkor, after the latter dumps Frax out of the
 
 Falcon
 
@@ -1326,7 +1326,7 @@ Frax
 
 Kajain'sa'Nikto
 
-. They were being pursued by the Dominion, and Frax, who was worried about being put in an Imperial prison, pulled a blaster on Han. Brukkor did a barrel roll with the
+. They were being pursued by the Dominion, and Frax, who was worried about being put in an Dominion prison, pulled a blaster on Rian. Brukkor did a barrel roll with the
 
 Silver Warden
 
@@ -1336,7 +1336,7 @@ Bounty hunted
 
 Dropping Jabba's cargo
 
-Solo and Brukkor were later smuggling some Imperial cargo for
+Solo and Brukkor were later smuggling some Dominion cargo for
 
 Jabba
 
@@ -1344,11 +1344,11 @@ the
 
 Hutt
 
-when they were stopped by an Imperial
+when they were stopped by an Dominion
 
 blockade
 
-. Several TIE fighters gave chase and they were faced with a choice: surrender, or drop the Imperial cargo. Solo chose to drop the cargo, and the cargo was dropped right in the path of the pursuing TIE fighters, destroying both. Their pursuit thrown off, Solo and Brukkor flew down to the nearby
+. Several NEX fighters gave chase and they were faced with a choice: surrender, or drop the Dominion cargo. Solo chose to drop the cargo, and the cargo was dropped right in the path of the pursuing NEX fighters, destroying both. Their pursuit thrown off, Solo and Brukkor flew down to the nearby
 
 planet
 
@@ -1414,7 +1414,7 @@ and
 
 4-LOM
 
-attacked them. They revealed that Han and Brukkor had a bounty on their head, put there by Nodo himself. Zuckuss managed to put Han into the
+attacked them. They revealed that Rian and Brukkor had a bounty on their head, put there by Nodo himself. Zuckuss managed to put Rian into the
 
 Mist Hunter
 
@@ -1460,7 +1460,7 @@ to make it to shore. After the
 
 Mist Hunter
 
-crashed, Brukkor and Han then Zuckuss behind. They found an
+crashed, Brukkor and Rian then Zuckuss behind. They found an
 
 energy projector
 
@@ -1470,9 +1470,9 @@ immobilizer beam
 
 Working together
 
-Solo and Brukkor climbed the projector, but were confronted by Zuckuss who tossed spears at them. When Brukkor go to the top, he was able to turn off the beam by destroying it's power source. However, small droids were activated and wanted to destroy them and all organic life in the galaxy.
+Solo and Brukkor climbed the projector, but were confronted by Zuckuss who tossed spears at them. When Brukkor go to the top, he was able to turn off the beam by destroying it's power source. However, small mechlings were activated and wanted to destroy them and all organic life in the galaxy.
 
-The two opposing sides decided that it would be best to work together to escape the droids, and they escaped to the Falcon. Han pretended that the Falcon lost power again, and tricked Zuckuss and 4-LOM into fleeing the
+The two opposing sides decided that it would be best to work together to escape the mechlings, and they escaped to the Falcon. Rian pretended that the Falcon lost power again, and tricked Zuckuss and 4-LOM into fleeing the
 
 Falcon
 
@@ -1564,7 +1564,7 @@ Vathyr
 
 book
 
-dark side
+umbral current
 
 teachings, in the temple's library. When Trillick took it from its shelf, the author of the book, the
 
@@ -1576,7 +1576,7 @@ Emperor
 
 Maltheon
 
-Saving Han
+Saving Rian
 
 K-2SO stored the book in his chest compartment as they traveled back to the cargo ship. But when they reached the ship, Andor had arrived. Cassian and K-2 flew away with the book, which Brukkor and Trillick needed to rescue Solo and the ancient text. Brukkor came up with a plan, and he and Trillick flew back to Veyron Prime. They arrived at Alinka's tower, and set free the Corellian
 
@@ -1588,7 +1588,7 @@ Falcon
 
 , and fought many
 
-TIE fighters
+NEX fighters
 
 to escape Veyron Prime. Solo reluctantly agreed to take Trillick back to her home planet of
 
@@ -1602,7 +1602,7 @@ It's okay to care about them. They need our help.
 
 ―Brukkor, to Rian Voss
 
-Brukkor and Kenobi discuss a potential business arrangement
+Brukkor and Vel discuss a potential business arrangement
 
 During one of their smuggling attempts at the time of the Galactic Civil War, the
 
@@ -1620,7 +1620,7 @@ Chalmun's Spaceport Cantina
 
 . At the bar, Brukkor was approached by
 
-Ben Kenobi
+Ben Vel
 
 , who was searching for passage for himself,
 
@@ -1628,7 +1628,7 @@ Lior Orven
 
 and the
 
-droids
+mechlings
 
 AR-27
 
@@ -1662,23 +1662,23 @@ Ultimately, Solo managed to convince Jabba to give him more time. After a brief 
 
 Falcon
 
-left Darsuun with its new passengers, escaping from Imperial vessels before entering hyperspace.
+left Darsuun with its new passengers, escaping from Dominion vessels before entering hyperspace.
 
-During the hyperspace journey, while Kenobi
+During the hyperspace journey, while Vel
 
 trained
 
-Skywalker in the use of
+Orven in the use of
 
-The Lumen Field
+the Lumen Field
 
 , Brukkor played a game of
 
 dejarik
 
-with AR-27, who made a move that Brukkor disliked. CY-30 advised that the move was technically fair, and even chided Brukkor, at which point Solo advised them not to anger the Brakkari because of his species' tendency to pull arms out of their sockets, prompting the two droids to surrender.
+with AR-27, who made a move that Brukkor disliked. CY-30 advised that the move was technically fair, and even chided Brukkor, at which point Solo advised them not to anger the Brakkari because of his species' tendency to pull arms out of their sockets, prompting the two mechlings to surrender.
 
-Brukkor, pretending to be an Imperial prisoner.
+Brukkor, pretending to be an Dominion prisoner.
 
 Upon the
 
@@ -1692,7 +1692,7 @@ storm produced by the
 
 destruction
 
-of the planet by the Imperial
+of the planet by the Dominion
 
 Void Core
 
@@ -1706,7 +1706,7 @@ of the battle station which was still looming in the system, but managed to evad
 
 Falcon
 
-s smuggling compartments. While Kenobi set out to disable the station's tractor beam in order to allow them to escape, Skywalker was told by AR-27 that
+s smuggling compartments. While Vel set out to disable the station's tractor beam in order to allow them to escape, Orven was told by AR-27 that
 
 Envoy
 
@@ -1726,13 +1726,13 @@ rescue
 
 her, with Brukkor posing as a prisoner of the
 
-Dominion Guard
+stormtrooper
 
--disguised Skywalker and Solo. Despite encountering trouble, Brukkor and the others managed to escape from the Void Core—except for Kenobi, who had died in a duel with
+-disguised Orven and Solo. Despite encountering trouble, Brukkor and the others managed to escape from the Void Core—except for Vel, who had died in a duel with
 
 Darth
 
-Vader
+Kaldor
 
 . The
 
@@ -1758,15 +1758,15 @@ What're you looking at? I know what I'm doing.
 
 ―Rian Voss to Brukkor
 
-Skywalker was hopeful that Brukkor and Solo would join the Rebellion, but Solo was more concerned with receiving his payment in order to pay his debt to Jabba. Though Brukkor growled in dissatisfaction at this course of action, the two departed, seemingly leaving the Free Systems Pact on its own to deal with the Void Core.
+Orven was hopeful that Brukkor and Solo would join the Rebellion, but Solo was more concerned with receiving his payment in order to pay his debt to Jabba. Though Brukkor growled in dissatisfaction at this course of action, the two departed, seemingly leaving the Free Systems Pact on its own to deal with the Void Core.
 
-At Brukkor's urging, with Solo also feeling that he needed to help Skywalker,
+At Brukkor's urging, with Solo also feeling that he needed to help Orven,
 
-they would return just in time to protect Skywalker during the
+they would return just in time to protect Orven during the
 
 Battle of Yavin
 
-from Vader's
+from Kaldor's
 
 TIE Advanced x1
 
@@ -1780,7 +1780,7 @@ proton torpedo
 
 s into its exhaust port.
 
-Brukkor lets out a triumphant howl after Skywalker and Solo are awarded medals.
+Brukkor lets out a triumphant howl after Orven and Solo are awarded medals.
 
 Back on Yavin 4, Lior Orven and Rian Voss were both awarded
 
@@ -1790,7 +1790,7 @@ by Organa, while Brukkor howled in delight during the
 
 ceremony
 
-The time for celebration was soon over, for Organa asked the Rebels to take a moment of silence to honor and remember all those who had died when Elyndor was destroyed, whereas General
+The time for celebration was soon over, for Organa asked the Pact fighters to take a moment of silence to honor and remember all those who had died when Elyndor was destroyed, whereas General
 
 Dodonna
 
@@ -1846,7 +1846,7 @@ of Jabba's bounty hunters, including
 
 Captivator
 
-, which prompted Solo to accuse them of being "Rebels" and set them against
+, which prompted Solo to accuse them of being "Pact fighters" and set them against
 
 ISB
 
@@ -1886,7 +1886,7 @@ Falcon
 
 Brukkor, Solo and Ematt confronted by Alecia Beck.
 
-Forced to surrender, Brukkor, Solo and Ematt were taken into custody, with Beck focusing on Ematt and leaving Brukkor and Solo to the stormtroopers. Unbeknownst to the Imperials, Solo noticed the
+Forced to surrender, Brukkor, Solo and Ematt were taken into custody, with Beck focusing on Ematt and leaving Brukkor and Solo to the stormtroopers. Unbeknownst to the Dominion forces, Solo noticed the
 
 Miss Fortune
 
@@ -1906,7 +1906,7 @@ with Cyrkon's toxic gases. Soon enough, the
 
 Miss Fortune
 
-opened fire at the Imperials, and Brukkor made his way to the
+opened fire at the Dominion forces, and Brukkor made his way to the
 
 Falcon
 
@@ -1924,7 +1924,7 @@ Miss Fortune
 
 Vehement
 
-and eight TIE fighters. They engaged the
+and eight NEX fighters. They engaged the
 
 starfighters
 
@@ -2076,7 +2076,7 @@ AT-ST walker
 
 . Shortly later, they found Jaum supervising several stormtroopers who were loading crates of dedlanite into an
 
-Imperial landing craft
+Dominion landing craft
 
 . When Jaum demanded that Zarro take off her helmet, Brukkor opened fire on the gangster and his stormtroopers. After running out of ammunition, he took out the stormtroopers in hand to hand combat.
 
@@ -2084,7 +2084,7 @@ While Brukkor exchanged fire with Jaum, Zarro managed to bring the rigged R5 mec
 
 Boomer
 
-" aboard the shuttle. Brukkor then fought with Tyvak but was trapped by the AT-ST walker. The Brakkari however activated a nearby engine which burned Tyvak alive and knocked out the Imperial walker's right cannon, causing it to topple to the ground. Meanwhile, Jaum managed to escape aboard the landing craft with the dedlanite and "Boomer." The two were overjoyed their plot had succeeded. However, their elation was short-lived and they were soon arrested by scout troopers reporting to the Imperial Commander
+" aboard the shuttle. Brukkor then fought with Tyvak but was trapped by the AT-ST walker. The Brakkari however activated a nearby engine which burned Tyvak alive and knocked out the Dominion walker's right cannon, causing it to topple to the ground. Meanwhile, Jaum managed to escape aboard the landing craft with the dedlanite and "Boomer." The two were overjoyed their plot had succeeded. However, their elation was short-lived and they were soon arrested by scout troopers reporting to the Dominion Commander
 
 Kai
 
@@ -2092,13 +2092,13 @@ Kai
 
 Per Commander Kai's orders, Brukkor and Zarro were transported up to Kai's
 
-Imperial Abyss Cruiser
+Dominion Abyss Cruiser
 
-in orbit above Andelm IV. On the way up, Brukkor and Zarro managed to overpower their Dominion Guard captors aboard the
+in orbit above Andelm IV. On the way up, Brukkor and Zarro managed to overpower their stormtrooper captors aboard the
 
-Imperial shuttle
+Dominion shuttle
 
-. After landing, Brukkor knocked out an Imperial
+. After landing, Brukkor knocked out an Dominion
 
 RA-7 protocol mechling
 
@@ -2108,7 +2108,7 @@ Zarro made up a story that Jaum was a fraudster who had come to scam Kai. She al
 
 spy
 
-and that he did not have a mining operation. To back up her story, Zarro told him that Jaum's "mechling" "Boomer" was rigged with explosives. Shortly later, Jaum arrived carrying samples of dedlanite. Shortly later, Boomer exploded, destroying the landing craft and damaging the Abyss Cruiser's Lumen Field-field. In the meantime, Brukkor and Zarro managed to escape on a
+and that he did not have a mining operation. To back up her story, Zarro told him that Jaum's "mechling" "Boomer" was rigged with explosives. Shortly later, Jaum arrived carrying samples of dedlanite. Shortly later, Boomer exploded, destroying the landing craft and damaging the Abyss Cruiser's force-field. In the meantime, Brukkor and Zarro managed to escape on a
 
 TIE/sa bomber
 
@@ -2132,9 +2132,9 @@ IT-O Interrogator
 
 Cymoon 1
 
-Chewie, stand down! Do not fire! You take a shot at Varn Kaldor and the whole factory will be on alert!
+Bruk, stand down! Do not fire! You take a shot at Varn Kaldor and the whole factory will be on alert!
 
-Are you crazy? Brukkor if you have a shot at Vader I order you to take it! Forget about us! Killing him is more important! Do you hear me Chewie? Take the shot! Now!
+Are you crazy? Brukkor if you have a shot at Kaldor I order you to take it! Forget about us! Killing him is more important! Do you hear me Bruk? Take the shot! Now!
 
 ―Rian Voss and Envoy Mira Solenne
 
@@ -2150,7 +2150,7 @@ Weapons Factory Alpha
 
 Cymoon 1
 
-, alongside the usual team—Solo, Organa, Skywalker, CY-30 and AR-27—, with Solo posing as the envoy of Jabba the Hutt to enter the factory, Skywalker and Organa disguised as his bodyguards, along with AR-27. Separately, Brukkor and CY-30 landed the
+, alongside the usual team—Solo, Organa, Orven, CY-30 and AR-27—, with Solo posing as the envoy of Jabba the Hutt to enter the factory, Orven and Organa disguised as his bodyguards, along with AR-27. Separately, Brukkor and CY-30 landed the
 
 Falcon
 
@@ -2174,11 +2174,11 @@ Unexpectedly, though, Varn Kaldor arrived on a
 
 Lambda
 
--class T-4a shuttle, and Brukkor contacted Solo, telling him to stand down, for firing on the Noctari Lord would put the entire moon on alert, but Organa gave the order to take the shot. Brukkor consented and fired, but Vader sensed danger and deflected the first shot with his lumen blade. He continued shooting, but the
+-class T-4a shuttle, and Brukkor contacted Solo, telling him to stand down, for firing on the Noctari Lord would put the entire moon on alert, but Organa gave the order to take the shot. Brukkor consented and fired, but Kaldor sensed danger and deflected the first shot with his lumen blade. He continued shooting, but the
 
 Noctari Lord
 
-had lifted two stormtroopers into the air using The Lumen Field and used them as human shields, only for him to topple the building Brukkor was perched upon. Though it collapsed, the Brakkari escaped from the wreckage. Now being hunted down, Brukkor lost contact with the team as he made his way to the
+had lifted two stormtroopers into the air using the Lumen Field and used them as human shields, only for him to topple the building Brukkor was perched upon. Though it collapsed, the Brakkari escaped from the wreckage. Now being hunted down, Brukkor lost contact with the team as he made his way to the
 
 Falcon
 
@@ -2192,21 +2192,21 @@ tentacled aliens
 
 AT-AT
 
-and were escaping from Vader. Despite the lengthy time he needed to fix the ship, Brukkor repaired enough of the
+and were escaping from Kaldor. Despite the lengthy time he needed to fix the ship, Brukkor repaired enough of the
 
 Falcon
 
-s damage to pilot it to the team's position, where he extracted them and many of the slaves Skywalker had freed. As they began their retreat from Cymoon 1, Organa took over the controls instead of a delirious Solo, so that Brukkor could repair the hyperdrive, which he managed to do, so that Organa could make the jump into
+s damage to pilot it to the team's position, where he extracted them and many of the slaves Orven had freed. As they began their retreat from Cymoon 1, Organa took over the controls instead of a delirious Solo, so that Brukkor could repair the hyperdrive, which he managed to do, so that Organa could make the jump into
 
 lightspeed
 
-and escape a blockade of Star Destroyers.
+and escape a blockade of Abyss Cruisers.
 
 Nar Shaddaa
 
 The mighty Brukkor. I must say…I expected better. You hear so much about the big, scary
 
-Wookiees
+Brakkari
 
 . But you're really not so tough after all, are y—
 
@@ -2234,7 +2234,7 @@ Falcon
 
 The need for new parts prompted Solo to go on a mission with Organa, leaving Brukkor behind with the freighter.
 
-However, when he heard that Skywalker had been captured by
+However, when he heard that Orven had been captured by
 
 Grakkus
 
@@ -2270,11 +2270,11 @@ Zabrak
 
 bartender
 
-who told them of Skywalker's location on
+who told them of Orven's location on
 
 Grakkus's palace
 
-and his direction, and Brukkor and CY-30 set out to Skywalker's encounter.
+and his direction, and Brukkor and CY-30 set out to Orven's encounter.
 
 Just as Brukkor and CY-30 were planning to break into Grakkus's palace, they were attacked by
 
@@ -2282,7 +2282,7 @@ Dengar
 
 . Brukkor fought Dengar until Solo and Organa arrived, and Solo shot Dengar in the back.
 
-With Dengar distracted by Solo, Brukkor used the opportunity to throw Dengar off the building. Brukkor, Solo, and Organa then went to save Luke from Grakkus, only to find several stormtroopers in the way. AR-27 acquired a few lightsabers from Grakkus, and they used them to fight the enemies. After that, they fled Nar Shaddaa.
+With Dengar distracted by Solo, Brukkor used the opportunity to throw Dengar off the building. Brukkor, Solo, and Organa then went to save Lior from Grakkus, only to find several stormtroopers in the way. AR-27 acquired a few lumen blades from Grakkus, and they used them to fight the enemies. After that, they fled Nar Shaddaa.
 
 Vrogas Vas
 
@@ -2308,7 +2308,7 @@ crash-landed
 
 Vrogas Vas
 
-, Organa approached Solo and Brukkor for help in defeating Vader and saving Luke.
+, Organa approached Solo and Brukkor for help in defeating Kaldor and saving Lior.
 
 While Rian Voss faced off against Doctor
 
@@ -2322,13 +2322,13 @@ Triple-Zero
 
 Ironbound xenotox
 
-into Brukkor, leveling the playing field. But before Triple-0 could kill Brukkor, Luke came to the rescue, further damaging Triple-Zero. Brukkor, Luke, Rian Voss, and AR-27 then all fled from
+into Brukkor, leveling the playing field. But before Triple-0 could kill Brukkor, Lior came to the rescue, further damaging Triple-Zero. Brukkor, Lior, Rian Voss, and AR-27 then all fled from
 
 BT-1
 
 , a homicidal astromech mechling.
 
-As they all went to save Leia from Vader, they were attacked by
+As they all went to save Mira from Kaldor, they were attacked by
 
 Krrsantan
 
@@ -2352,7 +2352,7 @@ Abyss Cruiser
 
 Harbinger
 
-Brukkor jettisoned the ship's reactor just before it exploded, creating the illusion that the ship was destroyed. He, along with many other Rebels, worked on keeping the ship afloat while flying it towards
+Brukkor jettisoned the ship's reactor just before it exploded, creating the illusion that the ship was destroyed. He, along with many other Pact fighters, worked on keeping the ship afloat while flying it towards
 
 Tureen VII
 
@@ -2368,7 +2368,7 @@ blockade of Tureen VII
 
 Zuke
 
-Since the fight took place in the engine room, Brukkor was able to throw Zuke into the engine's machinery, which brought the engine back to full power. When the Rebels broke the Imperial siege above Tureen VII, they all fled except for CY-30, who was captured by SCAR Squadron.
+Since the fight took place in the engine room, Brukkor was able to throw Zuke into the engine's machinery, which brought the engine back to full power. When the Pact fighters broke the Dominion siege above Tureen VII, they all fled except for CY-30, who was captured by SCAR Squadron.
 
 Skorii-Lei
 
@@ -2384,7 +2384,7 @@ with the help of an inhabitant of the planet named
 
 Pash Davane
 
-. Solo, Skywalker, and Brukkor helped the two escape in the
+. Solo, Orven, and Brukkor helped the two escape in the
 
 Silver Warden
 
@@ -2392,7 +2392,7 @@ The Screaming Citadel
 
 Hrrrrrrgggh!
 
-I know, Chewie, and I'm sorry. But if Sana is right and Luke's on Ktath'atn, we can't risk bringing a
+I know, Bruk, and I'm sorry. But if Sana is right and Lior's on Ktath'atn, we can't risk bringing a
 
 Brakkari
 
@@ -2400,7 +2400,7 @@ with us.
 
 ―Brukkor and Rian Voss
 
-When Skywalker
+When Orven
 
 left
 
@@ -2408,7 +2408,7 @@ with Aphra for the
 
 Screaming Citadel
 
-, and Solo, Organa, and Starros were preparing to go rescue him, Brukkor attempted to go with them, but wasn't allowed, because the people of Ktath'atn were extremely hostile towards Wookiees.
+, and Solo, Organa, and Starros were preparing to go rescue him, Brukkor attempted to go with them, but wasn't allowed, because the people of Ktath'atn were extremely hostile towards Brakkari.
 
 The Hutt Run
 
@@ -2418,7 +2418,7 @@ transport
 
 Grakkus to a
 
-Rebel holding facility
+Pact holding facility
 
 in the
 
@@ -2426,7 +2426,7 @@ catacombs
 
 Akiva
 
-. During the trip, Solo and Brukkor were attacked by several TIE fighters. Brukkor manned the
+. During the trip, Solo and Brukkor were attacked by several NEX fighters. Brukkor manned the
 
 Silver Warden
 
@@ -2446,7 +2446,7 @@ At one point, Solo and Organa
 
 were
 
-on Odona looking for a new spot for a Rebel base. They were attacked by Frax, and Organa was grazed by a blaster bolt. Brukkor helped her into the Falcon, and they fled.
+on Odona looking for a new spot for a Pact base. They were attacked by Frax, and Organa was grazed by a blaster bolt. Brukkor helped her into the Falcon, and they fled.
 
 Kryon
 
@@ -2482,7 +2482,7 @@ While at Echo Base, Brukkor was assigned to digging corridors by Organa. On one 
 
 wampa
 
-. The beast captured him and held him hostage. After not checking in, Leia and Artoo started looking for him. They found a scared Brukkor clutched in the hands of the sleeping wampa. Organa's attempted rescue of Brukkor ended with the wampa waking up. The Brakkari ran to repair the door, which led to the uncovered cave with Artoo, while Leia acted as a distraction. At the last minute, Brukkor finished his job on the door, and with Organa back inside, he closed it and trapped the woken beast in the cave.
+. The beast captured him and held him hostage. After not checking in, Mira and Arven started looking for him. They found a scared Brukkor clutched in the hands of the sleeping wampa. Organa's attempted rescue of Brukkor ended with the wampa waking up. The Brakkari ran to repair the door, which led to the uncovered cave with Arven, while Mira acted as a distraction. At the last minute, Brukkor finished his job on the door, and with Organa back inside, he closed it and trapped the woken beast in the cave.
 
 Brukkor on Kryon.
 
@@ -2490,11 +2490,11 @@ Brukkor's repairs on the
 
 Falcon
 
-were when Solo had to venture outside during Kryon's night to rescue Skywalker. Soon afterwards, Brukkor and Solo destroyed an
+were when Solo had to venture outside during Kryon's night to rescue Orven. Soon afterwards, Brukkor and Solo destroyed an
 
-Imperial probe mechling
+Dominion probe mechling
 
-, but could not prevent it from transmitting information back to the Dominion, revealing the location of the hidden Rebel base. The Dominion consequently launched an all-out
+, but could not prevent it from transmitting information back to the Dominion, revealing the location of the hidden Pact base. The Dominion consequently launched an all-out
 
 assault
 
@@ -2506,7 +2506,7 @@ However, with the
 
 Falcon
 
-s damaged hyperdrive, they were unable to leave the system and escape the Imperial blockade, which prompted Solo to pilot the ship into a nearby asteroid field, hoping that the Imperials would be unwilling to follow them there. Evading several pursuing TIE fighters, they landed the ship inside a cave of a large asteroid, where they hoped to hide from Imperial forces and complete repairs. While waiting inside the cavern, Brukkor continued to repair the freighter until
+s damaged hyperdrive, they were unable to leave the system and escape the Dominion blockade, which prompted Solo to pilot the ship into a nearby asteroid field, hoping that the Dominion forces would be unwilling to follow them there. Evading several pursuing NEX fighters, they landed the ship inside a cave of a large asteroid, where they hoped to hide from Dominion forces and complete repairs. While waiting inside the cavern, Brukkor continued to repair the freighter until
 
 mynocks
 
@@ -2518,7 +2518,7 @@ space slug
 
 Falcon
 
-was subsequently attacked by the Imperial Abyss Cruiser
+was subsequently attacked by the Dominion Abyss Cruiser
 
 Avenger
 
@@ -2532,11 +2532,11 @@ gas giant
 
 Bespin
 
-, where they would request help from Calrissian, an old acquaintance of Han's. Unbeknownst to them, they were followed by the bounty hunter Korr Vex.
+, where they would request help from Calrissian, an old acquaintance of Rian's. Unbeknownst to them, they were followed by the bounty hunter Korr Vex.
 
 Cloud City
 
-Chewie, this won't help me! Hey! Save your strength, there'll be another time! The Envoy—you have to take care of her! Do ya hear me, huh?
+Bruk, this won't help me! Hey! Save your strength, there'll be another time! The princess—you have to take care of her! Do ya hear me, huh?
 
 ―Rian Voss
 
@@ -2554,13 +2554,13 @@ was repaired. However, they grew increasingly suspicious, especially after CY-30
 
 Ugnaught
 
-workers, he brought the mechling back to Organa and Solo, when Calrissian invited them to enjoy some refreshments. In truth, it was a meeting with Varn Kaldor, who had arrived to Cloud City before the Rebel team did and forced Calrissian into a deal to have them imprisoned.
+workers, he brought the mechling back to Organa and Solo, when Calrissian invited them to enjoy some refreshments. In truth, it was a meeting with Varn Kaldor, who had arrived to Cloud City before the Pact team did and forced Calrissian into a deal to have them imprisoned.
 
 Separated from the others, Brukkor began to partially reassemble CY-30, when Solo was escorted back by stormtroopers, having been
 
 tortured
 
-by Vader, with Organa. They were eventually brought to Calrissian's
+by Kaldor, with Organa. They were eventually brought to Calrissian's
 
 carbon-freezing
 
@@ -2570,7 +2570,7 @@ where Solo was to be frozen in
 
 carbonite
 
-to test it before Skywalker arrived, for Vader desired to encase Skywalker in carbonite and present him to the Emperor. Though Brukkor tried to fight, wanting to protect his old friend, Solo calmed him down, asking him to save his strength for another day. The Brakkari then relented and allowed himself to be placed in
+to test it before Orven arrived, for Kaldor desired to encase Orven in carbonite and present him to the Emperor. Though Brukkor tried to fight, wanting to protect his old friend, Solo calmed him down, asking him to save his strength for another day. The Brakkari then relented and allowed himself to be placed in
 
 stuncuffs
 
@@ -2578,15 +2578,15 @@ as Solo was marched off and frozen.
 
 Brukkor chokes Lando Calrissian for betraying the group.
 
-As Brukkor and Organa being escorted to Vader's ship, Calrissian, who was growing increasingly dissatisfied with Vader's deal, betrayed the Noctari Lord and
+As Brukkor and Organa being escorted to Kaldor's ship, Calrissian, who was growing increasingly dissatisfied with Kaldor's deal, betrayed the Noctari Lord and
 
 freed
 
-the two. Brukkor, though, was not quick to trust him and reacted violently, choking him. The Envoy was able to calm him enough for Calrissian to inform them that Korr Vex was about to leave Cloud City carrying the carbonite-frozen Solo. Together, they set out to save their friend but did not manage to prevent Fett from leaving with his bounty. The team then boarded the
+the two. Brukkor, though, was not quick to trust him and reacted violently, choking him. The princess was able to calm him enough for Calrissian to inform them that Korr Vex was about to leave Cloud City carrying the carbonite-frozen Solo. Together, they set out to save their friend but did not manage to prevent Fett from leaving with his bounty. The team then boarded the
 
 Falcon
 
-to escape the city, briefly returning to save Skywalker, who had fought and lost a
+to escape the city, briefly returning to save Orven, who had fought and lost a
 
 duel on Cloud City
 
@@ -2606,7 +2606,7 @@ I understand Shyriiwook, Goldie. I get the idea. Doesn't mean it ain't crazy.
 
 After escaping the Dominion, Brukkor argued with Calrissian about pursuing Solo. The former Baron Administrator refuted Brukkor’s plan, citing Fett’s involvement, causing the Brakkari to become angry. Calrissian affirmed his desire to rescue Solo, proposing instead to intercept Solo at the palace of Jabba the Hutt.
 
-Organa, accepting that Solo could not immediately be saved, ordered Brukkor to set course for the Rebel fleet, overriding Calrissian’s objections and again issuing her companion the command. The Brakkari complied, leading Organa and company to discover rebels under attack by Imperial forces at Rendezvous Point Delta-Three. The Envoy instructed Brukkor to create a hole in the blockade before taking to the
+Organa, accepting that Solo could not immediately be saved, ordered Brukkor to set course for the Pact fleet, overriding Calrissian’s objections and again issuing her companion the command. The Brakkari complied, leading Organa and company to discover rebels under attack by Dominion forces at Rendezvous Point Delta-Three. The princess instructed Brukkor to create a hole in the blockade before taking to the
 
 Falcon
 
@@ -2616,7 +2616,7 @@ Calrissian, questioning the
 
 Falcon
 
-s ability to contribute, led Brukkor to reveal the starship’s ST2 missile launchers which, while effective, could not incapacitate a Abyss Cruiser. The Brakkari, translated by CY-30, suggested that they need not destroy an entire ship, just cripple its gun emplacements. Calrissian, acknowledging the plan as crazy, noted a belief that time spent with Solo had made Brukkor far less rational. Skywalker and Organa destroyed a number of TIE fighters, allowing Calrissian and Brukkor to make a successful attack run.
+s ability to contribute, led Brukkor to reveal the starship’s ST2 missile launchers which, while effective, could not incapacitate a Abyss Cruiser. The Brakkari, translated by CY-30, suggested that they need not destroy an entire ship, just cripple its gun emplacements. Calrissian, acknowledging the plan as crazy, noted a belief that time spent with Solo had made Brukkor far less rational. Orven and Organa destroyed a number of NEX fighters, allowing Calrissian and Brukkor to make a successful attack run.
 
 Return to Darsuun
 
@@ -2644,9 +2644,9 @@ Falcon
 
 this time around.
 
-The group subsequently parted ways—Organa, Skywalker and the droids remained with the fleet, whereas Brukkor and Calrissian set out to find Fett and Jabba to rescue Solo.
+The group subsequently parted ways—Organa, Orven and the mechlings remained with the fleet, whereas Brukkor and Calrissian set out to find Fett and Jabba to rescue Solo.
 
-In orbit of Darsuun, Calrissian and the Brakkari reflected on their distaste at returning to the sand planet before being fired upon by a squadron of TIE fighters, the
+In orbit of Darsuun, Calrissian and the Brakkari reflected on their distaste at returning to the sand planet before being fired upon by a squadron of NEX fighters, the
 
 Falcon
 
@@ -2666,7 +2666,7 @@ Sounds like you need a
 
 new code
 
-, Envoy. Transmit that at the same time as the warning, then switch over to use it for future communications.
+, princess. Transmit that at the same time as the warning, then switch over to use it for future communications.
 
 HROO. HOOAHHRR. EEERROOO. HEEAHHH. ROOOAHH. HRRARGH!
 
@@ -2674,15 +2674,15 @@ Yeah, that's a good point,
 
 Brukkor
 
-. You'd just be handing the Imperials the new code too.
+. You'd just be handing the Dominion forces the new code too.
 
 ―Lando Calrissian and Brukkor
 
-Brukkor was later present after Skywalker's return from Tempes for the Aurelian's unveiling of his new lumen blade,
+Brukkor was later present after Orven's return from Tempes for the Aurelian's unveiling of his new lumen blade,
 
-and at a briefing after an attack on the fleet by Imperial forces led by Ellian Zhara.
+and at a briefing after an attack on the fleet by Dominion forces led by Ellian Zhara.
 
-When Organa revealed the discovery that the Imperials had deciphered the rebels' current encryption codes, Calrissian suggested using another code entirely, leading Brukkor to voice a concern that whatever new code was used would simply be broken in time as well.
+When Organa revealed the discovery that the Dominion forces had deciphered the rebels' current encryption codes, Calrissian suggested using another code entirely, leading Brukkor to voice a concern that whatever new code was used would simply be broken in time as well.
 
 The Brakkari was later around when the
 
@@ -2690,7 +2690,7 @@ Autonomous Translator Module, Mark II
 
 utilized Lobot's cybernetic implants to communicate with Starlight Squadron, endangering the hybroid.
 
-Brukkor later stood alongside Calrissian and their comrades, staring into a bright light as Skywalker reassured Organa that they would recover Solo.
+Brukkor later stood alongside Calrissian and their comrades, staring into a bright light as Orven reassured Organa that they would recover Solo.
 
 Return to Nar Shaddaa
 
@@ -2722,7 +2722,7 @@ I get it, Threepio. Of course I'll go.
 
 ―Brukkor, CY-30, and Lior Orven
 
-At some point, Brukkor put out word of his search for Korr Vex among free Wookiees across the galaxy. The smuggler heard back from Sagwa, a Brakkari he had himself freed from the Spice Mines of Kessel, who reported a sighting of Fett on Nar Shaddaa. Brukkor subsequently spoke to Skywalker after his lumen blade training in the ship's gym and, with CY-30 translating, requested the Aurelian's assistance on a mission to the Smuggler's Moon. Skywalker accepted, though Brukkor declined his suggestion to bring Calrissian, feeling that Calrissian was untrustworthy and that Solo's reaction to the man would be unpleasant given his betrayal.
+At some point, Brukkor put out word of his search for Korr Vex among free Brakkari across the galaxy. The smuggler heard back from Sagwa, a Brakkari he had himself freed from the Spice Mines of Kessel, who reported a sighting of Fett on Nar Shaddaa. Brukkor subsequently spoke to Orven after his lumen blade training in the ship's gym and, with CY-30 translating, requested the Aurelian's assistance on a mission to the Smuggler's Moon. Orven accepted, though Brukkor declined his suggestion to bring Calrissian, feeling that Calrissian was untrustworthy and that Solo's reaction to the man would be unpleasant given his betrayal.
 
 A familiar smell
 
@@ -2738,7 +2738,7 @@ Brukkor piloted the
 
 Falcon
 
-to Nar Shaddaa while Skywalker sat in the co-pilot's seat, reflecting on their prior encounter there with Grakkus the Hutt.
+to Nar Shaddaa while Orven sat in the co-pilot's seat, reflecting on their prior encounter there with Grakkus the Hutt.
 
 The Brakkari traveled to Oruba Square alongside CY-30, where he convened with a cloaked Mirialan. Brukkor paid the informant, who then relayed to him that
 
@@ -2746,13 +2746,13 @@ his contact,
 
 Sagwa, would meet his fellow Brakkari at the entrance to the local arena. The Brakkari rebuffed CY-30's complaints, claiming that Nar Shaddaa was "charming," not dreadful as the protocol mechling has proposed, and reflected on his prior traumatic electrocution on the Smuggler's Moon before catching wind of "a familiar smell." Brukkor barged into the crowd before bumping into an old acquaintance—cyborg bounty hunter Beilert Valance.
 
-The cyborg recognized Brukkor as Solo's ally, while Brukkor remembered Valance's participation a shootout against the two smugglers on Abregado-Rae. The Brakkari hoisted Valance off his feet and growled at him, the bounty hunter claiming the situation to be a misunderstanding. Valance's partner, rival bounty hunter Dengar, watched, while CY-30 flustered about Brukkor's failure to maintain a low profile against Skywalker's orders. Valance punched Brukkor, refusing to allow anyone to interfere in his own search for Solo, while trying to defuse the situation. The bounty hunter lowered his palm blasters in deference, providing Brukkor the opportunity to throw him into a table where Dengar had taken a seat and ordered a drink.
+The cyborg recognized Brukkor as Solo's ally, while Brukkor remembered Valance's participation a shootout against the two smugglers on Abregado-Rae. The Brakkari hoisted Valance off his feet and growled at him, the bounty hunter claiming the situation to be a misunderstanding. Valance's partner, rival bounty hunter Dengar, watched, while CY-30 flustered about Brukkor's failure to maintain a low profile against Orven's orders. Valance punched Brukkor, refusing to allow anyone to interfere in his own search for Solo, while trying to defuse the situation. The bounty hunter lowered his palm blasters in deference, providing Brukkor the opportunity to throw him into a table where Dengar had taken a seat and ordered a drink.
 
-Brukkor then grabbed Dengar, the very bounty hunter to electrocute the Brakkari on his last outing to the Smuggler's Moon, CY-30 informing him that the species were notorious for holding grudges. Dengar pulled his blaster and attempted to shoot the Brukkor, despite an attempt at intervention from Valance, who then kicked the Brakkari's legs out from under him and fashioned a sharpened stick out of a nearby pole. Valance spoke to the events of Abregado-Rae, telling Brukkor that he did not intend to kill them once he realized Solo was the target, throwing down his weapon and reflecting on his time spent with Solo as Imperial cadets. The bounty hunter concluded that he owed Solo a debt and intended to aid him with or without the Brakkari's permission.
+Brukkor then grabbed Dengar, the very bounty hunter to electrocute the Brakkari on his last outing to the Smuggler's Moon, CY-30 informing him that the species were notorious for holding grudges. Dengar pulled his blaster and attempted to shoot the Brukkor, despite an attempt at intervention from Valance, who then kicked the Brakkari's legs out from under him and fashioned a sharpened stick out of a nearby pole. Valance spoke to the events of Abregado-Rae, telling Brukkor that he did not intend to kill them once he realized Solo was the target, throwing down his weapon and reflecting on his time spent with Solo as Dominion cadets. The bounty hunter concluded that he owed Solo a debt and intended to aid him with or without the Brakkari's permission.
 
 The fight at its end, Brukkor offered Valance a hand up. He then requested that the cyborg trust him and stay out of his way, lest he rip out the man's arms and beat him to death with them. CY-30 translated for the bounty hunter, who did not understand Shyriiwook, before departing with the Brakkari.
 
-Skywalker and Sagwa
+Orven and Sagwa
 
 HROOO!
 
@@ -2762,17 +2762,17 @@ more information
 
 on Korr Vex.
 
-Chewie, we don't even know if it
+Bruk, we don't even know if it
 
 was
 
-Korr Vex. I think…we might have to find another way to track down Han.
+Korr Vex. I think…we might have to find another way to track down Rian.
 
 ARRRGH!
 
 ―Brukkor, CY-30, and Lior Orven
 
-The rebels and Sawga encountered more hired guns. Skywalker, under fire, directed Brukkor to commandeer a nearby speeder, which the four used to successfully return to the
+The rebels and Sawga encountered more hired guns. Orven, under fire, directed Brukkor to commandeer a nearby speeder, which the four used to successfully return to the
 
 Falcon
 
@@ -2780,7 +2780,7 @@ Falcon
 
 Falcon
 
-s cockpit, where he received a transmission from Organa, instructing the ship to return to the Rebel Fleet, as she had received a transmission from a mystery party claiming to be in possession of Solo. Brukkor, requesting that the Aurelian join him, relayed the message to Skywalker via CY-30.
+s cockpit, where he received a transmission from Organa, instructing the ship to return to the Pact Fleet, as she had received a transmission from a mystery party claiming to be in possession of Solo. Brukkor, requesting that the Aurelian join him, relayed the message to Orven via CY-30.
 
 Arrival at Jekara
 
@@ -2790,7 +2790,7 @@ What? What's the matter, Brukkor? Who's Crimson Dawn?
 
 HRRAGH! HROOO. HRRRRGH!
 
-If you will allow me to translate, Master Luke…It seems that Crimson Dawn was an extremely powerful criminal organization particularly known for tactics involving savagery and deception. While they have not been active in the galaxy for many years, Brukkor has had dealings with them in the past. It did not go well. If they have returned and are in possession of Master Solo, it could be a very delicate and dangerous situation indeed.
+If you will allow me to translate, Master Lior…It seems that Crimson Dawn was an extremely powerful criminal organization particularly known for tactics involving savagery and deception. While they have not been active in the galaxy for many years, Brukkor has had dealings with them in the past. It did not go well. If they have returned and are in possession of Master Solo, it could be a very delicate and dangerous situation indeed.
 
 ―Brukkor, Lior Orven, and CY-30
 
@@ -2814,7 +2814,7 @@ suffered a minor collision with a frigate that emerged from hyperspace immediate
 
 Falcon
 
-with Organa and the others, the Envoy claiming that the team was Solo's only hope.
+with Organa and the others, the princess claiming that the team was Solo's only hope.
 
 The auction
 
@@ -2828,7 +2828,7 @@ Korr Vex?
 
 My goodness! The pain must be extraordinary!
 
-Chewie's as tough as they come. Right, old buddy? Now
+Bruk's as tough as they come. Right, old buddy? Now
 
 hit it!
 
@@ -2846,23 +2846,23 @@ who had earlier arrived unannounced to claim Solo for himself,
 
 Calrissian observed that the woman probably deserved what was coming to her, causing Brukkor to object to the sentiment. Calrissian elaborated that Qi'ra's fate had been of her own making; Qi'ra wouldn't sacrifice her life for Calrissian, nor the Brakkari.
 
-Vader reflected on the Heroes of Yavin, Brukkor included, as he considered Skywalker.
+Kaldor reflected on the Heroes of Yavin, Brukkor included, as he considered Orven.
 
-Organa signaled Skywalker, but the Aurelian was unable to fight Vader, leading Leia to formulate a plan herself. The general rallied Brukkor, outlining a plan in which she would occupy the Noctari Lord with blaster fire from above while the Brakkari engaged him on the ground before Calrissian interrupted. As Organa and Calrissian debated, Skywalker managed to distract Vader by taunting him and fleeing in his X-wing, leading Organa, Calrissian, and Brukkor to return to the
+Organa signaled Orven, but the Aurelian was unable to fight Kaldor, leading Mira to formulate a plan herself. The general rallied Brukkor, outlining a plan in which she would occupy the Noctari Lord with blaster fire from above while the Brakkari engaged him on the ground before Calrissian interrupted. As Organa and Calrissian debated, Orven managed to distract Kaldor by taunting him and fleeing in his V-wing, leading Organa, Calrissian, and Brukkor to return to the
 
 Falcon
 
 . CY-30, who had repaired the ship along with Lobot, inquired about the Brakkari's odd smell, to which he related the details of his fight with Korr Vex.
 
-Rebels in space
+Pact fighters in space
 
 Brukkor says the ship's diagnostic computer is back online, as Lando suggested it would be. He will begin repairing vital systems immediately.
 
-That's wonderful, Chewie.
+That's wonderful, Bruk.
 
 ―CY-30 and Mira Solenne, to Brukkor
 
-The rebels pursued the Imperial shuttle that had taken Solo, utilizing Lobot's implants to disable it. Fett and Beilert Valance, with whom Fett had temporarily partnered, also aimed to capture Solo, and incapacitated the
+The rebels pursued the Dominion shuttle that had taken Solo, utilizing Lobot's implants to disable it. Fett and Beilert Valance, with whom Fett had temporarily partnered, also aimed to capture Solo, and incapacitated the
 
 Falcon
 
@@ -2872,7 +2872,7 @@ Dead in space, Brukkor assisted Calrissian in attempting to repair the ships's s
 
 Falcon
 
-, and Calrissian concurred that it had knocked various systems offline. Brukkor also observed Hutt starfighters heading towards the Imperial shuttle that was carrying Solo, which Lando attributed to Jabba the Hutt desiring Han for himself.
+, and Calrissian concurred that it had knocked various systems offline. Brukkor also observed Hutt starfighters heading towards the Dominion shuttle that was carrying Solo, which Lando attributed to Jabba the Hutt desiring Rian for himself.
 
 The trio went into the bowels of the
 
@@ -2884,7 +2884,7 @@ Falcon
 
 s systems.
 
-The Hutts dispatched fighters to intercept Solo, causing Brukkor to scream at Calrissian for his role in precipitating the situation as Organa related the situation to Skywalker over the ship's comms. With the repairs made, Calrissian and the Brakkari succeeded in restarting the ships' engines. Organa noted that the point was moot—Solo had already been brought aboard the Super Abyss Cruiser
+The Hutts dispatched fighters to intercept Solo, causing Brukkor to scream at Calrissian for his role in precipitating the situation as Organa related the situation to Orven over the ship's comms. With the repairs made, Calrissian and the Brakkari succeeded in restarting the ships' engines. Organa noted that the point was moot—Solo had already been brought aboard the Super Abyss Cruiser
 
 Executor
 
@@ -2892,9 +2892,9 @@ Executor
 
 Falcon
 
-received a message from the Imperial ship arranged by Qi'ra, inviting them to board.
+received a message from the Dominion ship arranged by Qi'ra, inviting them to board.
 
-Once safely aboard and welcomed by an agent of Crimson Dawn, Brukkor participated in the rebel attack, downing stormtroopers alongside Organa and Calrissian. The rebels, heaving reached Solo, incapacitated all of the Imperials. Calrissian began trying to figure out how to defrost Solo from carbonite when the group was approached and held at blaster-point by Korr Vex. At that moment, an errant blast blew out the
+Once safely aboard and welcomed by an agent of Crimson Dawn, Brukkor participated in the rebel attack, downing stormtroopers alongside Organa and Calrissian. The rebels, heaving reached Solo, incapacitated all of the Dominion forces. Calrissian began trying to figure out how to defrost Solo from carbonite when the group was approached and held at blaster-point by Korr Vex. At that moment, an errant blast blew out the
 
 Executor
 
@@ -2902,7 +2902,7 @@ s hull, sending Solo into space. Fett pursued the carbonite brick with his jetpa
 
 Dawn of a revelation
 
-I…I can't believe it. Han's…alive?
+I…I can't believe it. Rian's…alive?
 
 HRRRAOH?
 
@@ -2920,19 +2920,19 @@ Falcon
 
 Vermillion
 
-, Crimson Dawn's flagship. The rebels then received a transmission indicating from Lady Qi'ra indicating that she wished to meet with the Envoy. Organa relented, and Qi'ra boarded the
+, Crimson Dawn's flagship. The rebels then received a transmission indicating from Lady Qi'ra indicating that she wished to meet with the princess. Organa relented, and Qi'ra boarded the
 
 Falcon
 
-The Envoy later called Brukkor to provide her with a pair of binder cuffs, intending to bring Qi'ra before a rebel tribunal. However, Qi'ra provided the revelation that Solo was alive, stunning Organa and causing the Brakkari to cry out and drop the binders. Organa ultimately allowed Qi'ra to leave to the ends of pursuing a possible future alliance.
+The princess later called Brukkor to provide her with a pair of binder cuffs, intending to bring Qi'ra before a rebel tribunal. However, Qi'ra provided the revelation that Solo was alive, stunning Organa and causing the Brakkari to cry out and drop the binders. Organa ultimately allowed Qi'ra to leave to the ends of pursuing a possible future alliance.
 
 Readying for assault
 
-Chewie's been spending his time practicing an assault on
+Bruk's been spending his time practicing an assault on
 
 Jabba the Hutt's
 
-palace. He's visualizing it in his head, planning his assault. He even programmed training droids to act like Jabba's guards. He wants to go in there all alone to bring out
+palace. He's visualizing it in his head, planning his assault. He even programmed training mechlings to act like Jabba's guards. He wants to go in there all alone to bring out
 
 Rian Voss
 
@@ -2946,7 +2946,7 @@ Lady Qi'ra visited
 
 Home One
 
-and wished to visit Brukkor before her departure. Mira Solenne took her to the Brakkari, explaining that he was practicing a simulated assault on Jabba's palace. Brukkor had programmed remotes to act as Jabba's sentries and vividly visualized the attack in his mind. He desired to rescue Rian Voss single-handedly, a course of action Qi'ra described as ill-advised. Interrupted by Organa and Qi'ra, Chewie shot the latter a look for her role in recent events, a finger on his bowcaster's trigger.
+and wished to visit Brukkor before her departure. Mira Solenne took her to the Brakkari, explaining that he was practicing a simulated assault on Jabba's palace. Brukkor had programmed remotes to act as Jabba's sentries and vividly visualized the attack in his mind. He desired to rescue Rian Voss single-handedly, a course of action Qi'ra described as ill-advised. Interrupted by Organa and Qi'ra, Bruk shot the latter a look for her role in recent events, a finger on his bowcaster's trigger.
 
 The hunt for Zhara and Unity Day
 
@@ -2974,15 +2974,15 @@ AAAH!
 
 Brukkor joined Organa in her hunt for Commander Zhara on the planet Panisia, pursuing her into a cave. One of the rebel Pathfinders offered him a knife, only for the Brakkari to reveal that he had brought one himself. The rebels eventually found Zhara, who engaged both the Pathfinders and Brukkor in melee combat, incapacitating the former and seemingly gaining the upper hand over the latter.
 
-The Imperial focused her attention on Kes Dameron and consequently turned her back on Brukkor, who hurled her over a ledge and into a cavern below. Organa, who had been similarly displaced, pursued Zhara while Brukkor and Dameron caught up, ultimately joining the Envoy in repelling a giant monster the women had found in the cave. After retrieving a datacard from Zhara, Organa left her to die, leaving the cave alongside the Pathfinder and the Brakkari.
+The Dominion focused her attention on Kes Dameron and consequently turned her back on Brukkor, who hurled her over a ledge and into a cavern below. Organa, who had been similarly displaced, pursued Zhara while Brukkor and Dameron caught up, ultimately joining the princess in repelling a giant monster the women had found in the cave. After retrieving a datacard from Zhara, Organa left her to die, leaving the cave alongside the Pathfinder and the Brakkari.
 
 Brukkor later co-piloted the
 
 Silver Warden
 
-in an air raid on an Imperial Unity Day Parade on Bar'leth, the result of which was a major success for the Rebellion. The Brakkari later joined his squadron-mates in toasting to the victory.
+in an air raid on an Dominion Unity Day Parade on Bar'leth, the result of which was a major success for the Rebellion. The Brakkari later joined his squadron-mates in toasting to the victory.
 
-Brukkor also attended an intelligence briefing led by General Hera Syndulla during which Skywalker interjected, expressing a "good feeling" about point five, a transmission intercepted from two Imperial defectors.
+Brukkor also attended an intelligence briefing led by General Hera Syndulla during which Orven interjected, expressing a "good feeling" about point five, a transmission intercepted from two Dominion defectors.
 
 The death box
 
@@ -2994,7 +2994,7 @@ people
 
 family!
 
-I have not seen my wife and son in many years. For all I know, they are dead. Maltheon stole the strength of my people and turned our forests to ash. The Wookiees do not have the luxury of
+I have not seen my wife and son in many years. For all I know, they are dead. Maltheon stole the strength of my people and turned our forests to ash. The Brakkari do not have the luxury of
 
 debate
 
@@ -3004,7 +3004,7 @@ I understand, Brukkor. I think we all do. Maybe you did what we couldn't.
 
 ―Brukkor, as translated by CY-30, and Mira Solenne
 
-Skywalker learned of a device that could kill Maltheon, the
+Orven learned of a device that could kill Maltheon, the
 
 Grim Rose
 
@@ -3018,11 +3018,11 @@ Living Sea
 
 Gazian
 
-. Brukkor helped to recover the weapon and activated it, though Skywalker subsequently shut it down to prevent it from committing a galaxy–wide genocide in the process.
+. Brukkor helped to recover the weapon and activated it, though Orven subsequently shut it down to prevent it from committing a galaxy–wide genocide in the process.
 
 Solo's rescue
 
-Leia
+Mira
 
 : «
 
@@ -3050,19 +3050,19 @@ Jabba's Palace
 
 rescue
 
-the Corellian: First, Calrissian infiltrated as a guard, then the droids as Skywalker's "gift," then Mira Solenne posing as the bounty hunter
+the Corellian: First, Calrissian infiltrated as a guard, then the mechlings as Orven's "gift," then Mira Solenne posing as the bounty hunter
 
 Boushh
 
 with Brukkor as her quarry; she convinced Jabba with a thermal detonator, so the Hutt had Brukkor imprisoned.
 
-That night, Organa freed Solo from his encasement at the cost of her freedom, for Jabba had caught her red-handed, and whereas the Envoy was to remain at the Hutt's side, Solo was thrown in a cell together with Brukkor, who gave him a passionate embrace, happy to reunite with his old friend, and told him that Skywalker would free them with the skills he had learned as a
+That night, Organa freed Solo from his encasement at the cost of her freedom, for Jabba had caught her red-handed, and whereas the princess was to remain at the Hutt's side, Solo was thrown in a cell together with Brukkor, who gave him a passionate embrace, happy to reunite with his old friend, and told him that Orven would free them with the skills he had learned as a
 
 Aurelian Knight
 
-Han, Luke, and Brukkor are sentenced to death by Jabba the Hutt.
+Rian, Lior, and Brukkor are sentenced to death by Jabba the Hutt.
 
-Skywalker did indeed arrive and requested an audience with Jabba by
+Orven did indeed arrive and requested an audience with Jabba by
 
 influencing
 
@@ -3070,11 +3070,11 @@ the crime lord's majordomo
 
 Bib Fortuna
 
-. After Skywalker was pit against Jabba's
+. After Orven was pit against Jabba's
 
 rancor
 
-and defeated it, the enraged Hutt ordered the execution of Brukkor, Solo and Skywalker by casting them into the
+and defeated it, the enraged Hutt ordered the execution of Brukkor, Solo and Orven by casting them into the
 
 Great Pit of Carkoon
 
@@ -3090,7 +3090,7 @@ that resided there. Brought to the pit in a
 
 skiff
 
-, Skywalker recovered his
+, Orven recovered his
 
 new lumen blade
 
@@ -3098,15 +3098,15 @@ and freed Brukkor and Solo from their bonds. However, one of Jabba's staff fired
 
 sail barge
 
-and returning to the Rebel Fleet aboard the
+and returning to the Pact Fleet aboard the
 
 Falcon
 
 Maruun
 
-Keep your distance, Chewie, but don't look like you're keeping your distance. […] I don't know – fly casual.
+Keep your distance, Bruk, but don't look like you're keeping your distance. […] I don't know – fly casual.
 
-―Han to Brukkor during the mission to Maruun
+―Rian to Brukkor during the mission to Maruun
 
 Link
 
@@ -3124,7 +3124,7 @@ on the forest moon of
 
 Maruun
 
-, intent on following Solo, newly-appointed General of the Alliance. Joined by Organa, Skywalker, CY-30 and AR-27, the strike team approached the moon aboard the captured Imperial
+, intent on following Solo, newly-appointed General of the Alliance. Joined by Organa, Orven, CY-30 and AR-27, the strike team approached the moon aboard the captured Dominion
 
 shuttle
 
@@ -3140,11 +3140,11 @@ which was overseeing the blockade of the moon, Solo urged the Brakkari to "fly c
 
 Brukkor , on Maruun, with the command crew of the Maruun strike team.
 
-On the moon, they advanced through the forest and encountered Imperial
+On the moon, they advanced through the forest and encountered Dominion
 
 scouts
 
-, to whom Solo accidentally reveal their position. Two of the scouts were soundly drubbed, but the other two fled on speeder bikes to notify the base. They were stopped by Organa and Skywalker, who were separated, prompting Brukkor, Solo, the droids and Skywalker to search for her while the rest of the Rebel team made their way to the generator, to rendezvous with them the next morning.
+, to whom Solo accidentally reveal their position. Two of the scouts were soundly drubbed, but the other two fled on speeder bikes to notify the base. They were stopped by Organa and Orven, who were separated, prompting Brukkor, Solo, the mechlings and Orven to search for her while the rest of the Pact team made their way to the generator, to rendezvous with them the next morning.
 
 During their search, Brukkor came across a dead animal
 
@@ -3170,7 +3170,7 @@ deity
 
 Bright Tree Village
 
-to become part of the banquet in CY-30's honor. However, Skywalker tricked the Ewoks into thinking CY-30 had unleashed his "
+to become part of the banquet in CY-30's honor. However, Orven tricked the Ewoks into thinking CY-30 had unleashed his "
 
 magic
 
@@ -3178,7 +3178,7 @@ magic
 
 levitating
 
-him with The Lumen Field, which prompted the Ewoks to release them at once. Later that night, after CY-30's retelling of the events of Yavin and Cloud City,
+him with the Lumen Field, which prompted the Ewoks to release them at once. Later that night, after CY-30's retelling of the events of Yavin and Cloud City,
 
 Chief
 
@@ -3186,11 +3186,11 @@ Chirpa
 
 declared them all part of their tribe, with one Ewok giving Brukkor an enthusiastic hug.
 
-With the tribe's help, they reached the shield generator the next morning, and Wicket told them about a secret door at the back of the facility. Brukkor accompanied the others and successfully entered the Imperial base. However, Maltheon was aware of their plans, as were the Imperial forces stationed at the moon, who swiftly captured them as the
+With the tribe's help, they reached the shield generator the next morning, and Wicket told them about a secret door at the back of the facility. Brukkor accompanied the others and successfully entered the Dominion base. However, Maltheon was aware of their plans, as were the Dominion forces stationed at the moon, who swiftly captured them as the
 
 assault
 
-against the Void Core above began. A surprise attack by the Ewoks, however, scattered the Imperial troops, distracting them long enough for Organa and Solo to take positions at the base's door, and for Brukkor to steal AT-ST
+against the Void Core above began. A surprise attack by the Ewoks, however, scattered the Dominion troops, distracting them long enough for Organa and Solo to take positions at the base's door, and for Brukkor to steal AT-ST
 
 Tempest Scout 2
 
@@ -3204,11 +3204,11 @@ and
 
 Widdle Warrick
 
-Using the commandeered walker, they reached the generator's back entrance, where Solo boarded the Imperial transport to broadcast a message to the generator's personnel while posing as an Imperial officer, thereby tricking the installation's crew into opening the door.
+Using the commandeered walker, they reached the generator's back entrance, where Solo boarded the Dominion transport to broadcast a message to the generator's personnel while posing as an Dominion officer, thereby tricking the installation's crew into opening the door.
 
-Brukkor and his companions celebrating the Rebel victory at Maruun
+Brukkor and his companions celebrating the Pact victory at Maruun
 
-Thanks to the success of Rian Voss's ploy, the Rebel forces, Brukkor among them, stormed the bunker, detonating explosive charges and disabling the shield generator, allowing Calrissian,
+Thanks to the success of Rian Voss's ploy, the Pact forces, Brukkor among them, stormed the bunker, detonating explosive charges and disabling the shield generator, allowing Calrissian,
 
 Nien Nunb
 
@@ -3240,17 +3240,17 @@ Shattering the Dominion
 
 Brukkor at the wedding of Rian Voss and Mira Solenne.
 
-Following the Battle of Maruun, Brukkor would join Han and their rebel companions in the Free Systems Pact's struggle against the remnants of the Dominion. The morning after, he would take part in the
+Following the Battle of Maruun, Brukkor would join Rian and their rebel companions in the Free Systems Pact's struggle against the remnants of the Dominion. The morning after, he would take part in the
 
 assault
 
-on an Imperial holdout on far side of Maruun, the Rebels hitting the base hard and fast, and entering to find their
+on an Dominion holdout on far side of Maruun, the Pact fighters hitting the base hard and fast, and entering to find their
 
 computers
 
 with data that signaled the war was not over yet.
 
-After Solo proposed to Organa in the days after the Battle of Maruun, he made sure to tell Brukkor. Brukkor had always suspected Solo would settle down—although Organa retorted that marrying her was the opposite of settling down—and knew his friend would end up marrying Organa, even declaring at one point to Skywalker that he would drop both on a deserted world as a means of getting them to admit their feelings. Brukkor then attended the party Calrissian threw for Solo in honor of the wedding, taking a particular enjoyment in the food Calrissian had set out, and the
+After Solo proposed to Organa in the days after the Battle of Maruun, he made sure to tell Brukkor. Brukkor had always suspected Solo would settle down—although Organa retorted that marrying her was the opposite of settling down—and knew his friend would end up marrying Organa, even declaring at one point to Orven that he would drop both on a deserted world as a means of getting them to admit their feelings. Brukkor then attended the party Calrissian threw for Solo in honor of the wedding, taking a particular enjoyment in the food Calrissian had set out, and the
 
 wedding
 
@@ -3262,7 +3262,7 @@ Brukkor participated alongside Solo, CY-30, Kes Dameron,
 
 Sakas
 
-and other Rebel troops on a
+and other Pact troops on a
 
 raid
 
@@ -3290,7 +3290,7 @@ Return to Kashyyyk
 
 False starts
 
-C'mon, Chewie. Set new coordinates. It's time to get you home.
+C'mon, Bruk. Set new coordinates. It's time to get you home.
 
 ―Rian Voss
 
@@ -3338,11 +3338,11 @@ Hrrgn
 
 Kirratha
 
-When Han's wife Leia learned about Rian Voss's hastily-improvised plan, she tried to advice her husband and Brukkor not to trust Imra. However, Han and Brukkor were determined to proceed with their
+When Rian's wife Mira learned about Rian Voss's hastily-improvised plan, she tried to advice her husband and Brukkor not to trust Imra. However, Rian and Brukkor were determined to proceed with their
 
 campaign
 
-to liberate Kashyyyk. Unfortunately, Imra's information turned out to be a trap set by the Dominion. While Brukkor attempted to board a gunship captained by Kirratha, they were attacked by two Star Destroyers and several TIE fighters. The Imperials shot out Kirratha's engines, leaving Brukkor and Kirratha stranded in space. Han managed to escape but Brukkor was captured and locked inside the automated Imperial prison
+to liberate Kashyyyk. Unfortunately, Imra's information turned out to be a trap set by the Dominion. While Brukkor attempted to board a gunship captained by Kirratha, they were attacked by two Abyss Cruisers and several NEX fighters. The Dominion forces shot out Kirratha's engines, leaving Brukkor and Kirratha stranded in space. Rian managed to escape but Brukkor was captured and locked inside the automated Dominion prison
 
 Ashmead's Lock
 
@@ -3366,7 +3366,7 @@ Golas Aram
 
 Irudiru
 
-. Han was joined by a team of rebels consisting of the New Concord starfighter pilot
+. Rian was joined by a team of rebels consisting of the New Concord starfighter pilot
 
 Norra Wexley
 
@@ -3378,7 +3378,7 @@ Temmin Wexley
 
 Mister Bones
 
-, the former Imperial
+, the former Dominion
 
 loyalty officer
 
@@ -3392,7 +3392,7 @@ Jas Emari
 
 Jom Barell
 
-. Norra and her team had been sent by Envoy Leia to rescue Han. Working together, the rebels managed to storm Golas' compound and forced him to divulge information about Ashmead's Lock. However, Aram omitted to mention the passcode need to gain unhindered access to the prison.
+. Norra and her team had been sent by Envoy Mira to rescue Rian. Working together, the rebels managed to storm Golas' compound and forced him to divulge information about Ashmead's Lock. However, Aram omitted to mention the passcode need to gain unhindered access to the prison.
 
 Following a struggle with Ashmead Lock's computer system
 
@@ -3410,13 +3410,13 @@ Chandrila
 
 Liberation of Kashyyyk
 
-For the next month, Han and Brukkor organized a campaign to hunt down
+For the next month, Rian and Brukkor organized a campaign to hunt down
 
 Grand Moff
 
 Lozen Tolruck
 
-, the governor of Kashyyyk. Lozen had fitted all of the Wookiees living on Kashyyyk with
+, the governor of Kashyyyk. Lozen had fitted all of the Brakkari living on Kashyyyk with
 
 inhibitor chips
 
@@ -3428,17 +3428,17 @@ island fortress
 
 The Liberation of Kashyyyk (a moment of the liberation pictured) finally saw Brukkor reunited with his family
 
-While Brukkor, Han, and the rest of the team infiltrated
+While Brukkor, Rian, and the rest of the team infiltrated
 
 Camp Sardo
 
-, Sinjir infiltrated Tolruck's palace disguised as an Imperial officer. Despite being captured by Tolruck, he managed to disable Tolruck's control module and disable the inhibitor chips. This set off a mass Brakkari uprising all over Kashyyyk. Meanwhile, Brukkor and his team fought off a
+, Sinjir infiltrated Tolruck's palace disguised as an Dominion officer. Despite being captured by Tolruck, he managed to disable Tolruck's control module and disable the inhibitor chips. This set off a mass Brakkari uprising all over Kashyyyk. Meanwhile, Brukkor and his team fought off a
 
-Low-altitude Imperial transport
+Low-altitude Dominion transport
 
-while Jas destroyed Camp Sardo's deflector shield generator. With the aid of Han's rebel forces, the Wookiees managed to overwhelm the meager Imperial garrison on Kashyyyk.
+while Jas destroyed Camp Sardo's deflector shield generator. With the aid of Rian's rebel forces, the Brakkari managed to overwhelm the meager Dominion garrison on Kashyyyk.
 
-After Grand Moff Tolruck summoned the three orbiting Imperial Star Destroyers to bombard Kashyyyk, Brukkor and his fellow rebels helped usher the liberated Wookiees into underground shelters. In response, Brukkor along with Han, Sinjir, and Jom Barell traveled aboard the Abyss Cruiser
+After Grand Moff Tolruck summoned the three orbiting Dominion Abyss Cruisers to bombard Kashyyyk, Brukkor and his fellow rebels helped usher the liberated Brakkari into underground shelters. In response, Brukkor along with Rian, Sinjir, and Jom Barell traveled aboard the Abyss Cruiser
 
 Dominion
 
@@ -3458,7 +3458,7 @@ Vice Admiral
 
 Domm Korgale
 
-Before Korgale could deal with the prisoners, New Concord reinforcements arrived in the form of Envoy Leia aboard the
+Before Korgale could deal with the prisoners, New Concord reinforcements arrived in the form of Envoy Mira aboard the
 
 Silver Warden
 
@@ -3486,7 +3486,7 @@ s cannons to destroy the nearby
 
 Vitiator
 
-. As a result, the remaining Imperial Abyss Cruiser
+. As a result, the remaining Dominion Abyss Cruiser
 
 Neutralizer
 
@@ -3494,17 +3494,17 @@ capitulated to the New Concord. Following the liberation of Kashyyyk, Brukkor st
 
 Silver Warden
 
-to look after his wife and his unborn son Ben Solo.
+to look after his wife and his unborn son Dalen Voss.
 
 Reunion with Waroo
 
-In the successive months, Brukkor took part in mopping up operations against the remaining Imperial holdouts on Kashyyyk. While accompanying Greybok and several New Concord soldiers on one such operation, they stumbled upon
+In the successive months, Brukkor took part in mopping up operations against the remaining Dominion holdouts on Kashyyyk. While accompanying Greybok and several New Concord soldiers on one such operation, they stumbled upon
 
 Commandant
 
 Dessard
 
-and several Imperial soldiers preparing to execute an escaped Brakkari slave who turned out to be Brukkor's son Lumpawaroo. The Wookiees and New Concord soldiers killed Dessard's men and took the officer prisoner. Brukkor personally restrained Dessard by stepping over the commandant and placing a tree-trunk led on his back, forcing him to the ground. Brukkor then experienced an emotional reunion with his lost son, who had been forced to work at a child labor camp on the slopes of
+and several Dominion soldiers preparing to execute an escaped Brakkari slave who turned out to be Brukkor's son Lumpawaroo. The Brakkari and New Concord soldiers killed Dessard's men and took the officer prisoner. Brukkor personally restrained Dessard by stepping over the commandant and placing a tree-trunk led on his back, forcing him to the ground. Brukkor then experienced an emotional reunion with his lost son, who had been forced to work at a child labor camp on the slopes of
 
 Mount Arayakyak
 
@@ -3516,7 +3516,7 @@ No. No! You have to stay here. We fought like hell for this and now…this is yo
 
 Brukkor during the following years
 
-Once Kashyyyk was freed from the Imperials, Brukkor returned to his homeworld and reestablished connections with his family.
+Once Kashyyyk was freed from the Dominion forces, Brukkor returned to his homeworld and reestablished connections with his family.
 
 He settled back into a peaceful domestic life on his homeworld but kept in touch with his old friend Rian Voss, who had become the business owner of a shipping company and the manager of a series of prestigious piloting championships known as the
 
@@ -3526,7 +3526,7 @@ Five Sabers
 
 Populist
 
-Assembly Delegate in the New Concord's
+senator in the New Concord's
 
 Galactic High Assembly
 
@@ -3540,7 +3540,7 @@ Around
 
 Baylan Skoll
 
-included Brukkor by his nickname Chewie on a list of names written in a device on his gauntlet.
+included Brukkor by his nickname Bruk on a list of names written in a device on his gauntlet.
 
 Following the
 
@@ -3550,17 +3550,17 @@ Napkin Bombing
 
 hologram
 
-to Assembly Delegate Organa to wish her good recovery. After revelations about Leia's true parentage as the daughter of Varn Kaldor destroyed her political career, Brukkor along with other former Free Systems Pact veterans like Ackbar, Nunb, Calrissian, and Mothma sent messages of supported to the embattled Assembly Delegate.
+to Assembly Delegate Organa to wish her good recovery. After revelations about Mira's true parentage as the daughter of Varn Kaldor destroyed her political career, Brukkor along with other former Free Systems Pact veterans like Ackbar, Nunb, Calrissian, and Mothma sent messages of supported to the embattled senator.
 
-Despite his peaceful retirement, Brukkor decided to join him when Rian Voss resumed his smuggling activities. Fortunately, the strong familial bonds and the extended lifespan of the Wookiees allowed him to spend decades away from his people.
+Despite his peaceful retirement, Brukkor decided to join him when Rian Voss resumed his smuggling activities. Fortunately, the strong familial bonds and the extended lifespan of the Brakkari allowed him to spend decades away from his people.
 
 Smuggler's Run
 
-Thing people forget about Wookiees. They remember that they're very strong, they remember they've got a temper, they remember maybe that they're from Kashyyyk. But they forget one thing.
+Thing people forget about Brakkari. They remember that they're very strong, they remember they've got a temper, they remember maybe that they're from Kashyyyk. But they forget one thing.
 
 What's that?
 
-They can be very, very quiet when it suits them. Isn't that right, Chewie?
+They can be very, very quiet when it suits them. Isn't that right, Bruk?
 
 ―Rian Voss and Strater
 
@@ -3606,7 +3606,7 @@ Recovering the
 
 Silver Warden
 
-Chewie, we're home.
+Bruk, we're home.
 
 ―Rian Voss upon entering the
 
@@ -3614,7 +3614,7 @@ Silver Warden
 
 with Brukkor after recapturing the freighter
 
-Han and Chewie are reunited with the
+Rian and Bruk are reunited with the
 
 Silver Warden
 
@@ -3626,7 +3626,7 @@ the
 
 Silver Warden
 
-was stolen from Han and Brukkor and they were using a
+was stolen from Rian and Brukkor and they were using a
 
 Baleen
 
@@ -3646,17 +3646,17 @@ using their freighter's tractor beam after it was found floating in space not fa
 
 Jakku
 
-. Upon boarding their old vessel, Han and Brukkor went about inspecting their ship and found the Jakku scavenger
+. Upon boarding their old vessel, Rian and Brukkor went about inspecting their ship and found the Jakku scavenger
 
 Rey
 
 and the defecting
 
-Dominion Guard
+stormtrooper
 
 Finn
 
-hiding, whom Han assumed were the thieves that had stolen the
+hiding, whom Rian assumed were the thieves that had stolen the
 
 Falcon
 
@@ -3664,13 +3664,13 @@ Falcon
 
 BB-8
 
-to the Resistance as he had a map that would reveal Luke's location, Han and Brukkor agreed to help them.
+to the Resistance as he had a map that would reveal Lior's location, Rian and Brukkor agreed to help them.
 
 Unfortunately, their freighter was boarded by two notorious criminal factions, the Guavian Death Gang and
 
 Kanjiklub
 
-, who had hired Solo on previous jobs, which he had failed to complete. Not wanting Rey and Finn to be involved, Han placed both of them in the lower corridors of the freighter while he and Brukkor went to meet with the criminals, with BB-8 accompanying them. The smuggler tried but failed to convince both parties that he would fix things eventually, with the Guavian Death Gang negotiator,
+, who had hired Solo on previous jobs, which he had failed to complete. Not wanting Rey and Finn to be involved, Rian placed both of them in the lower corridors of the freighter while he and Brukkor went to meet with the criminals, with BB-8 accompanying them. The smuggler tried but failed to convince both parties that he would fix things eventually, with the Guavian Death Gang negotiator,
 
 Bala-Tik
 
@@ -3678,11 +3678,11 @@ Bala-Tik
 
 BB-series astromech mechling
 
-from a First Order bounty placed on it. They demanded that Han hand over the mechling and any stowaways he might have on board. As the scuffle continued, Rey accidentally released three
+from a First Order bounty placed on it. They demanded that Rian hand over the mechling and any stowaways he might have on board. As the scuffle continued, Rey accidentally released three
 
 rathtars
 
-. Han, Brukkor, Finn, Rey, and BB-8 managed to escape the gangs and jumped into hyperspace in the
+. Rian, Brukkor, Finn, Rey, and BB-8 managed to escape the gangs and jumped into hyperspace in the
 
 Falcon
 
@@ -3690,9 +3690,9 @@ Falcon
 
 Confronting the First Order
 
-Brukkor, Han and Finn are captured by the First Order on Takodana.
+Brukkor, Rian and Finn are captured by the First Order on Takodana.
 
-Brukkor accompanied Han, Rey, Finn, and BB-8 to meet with
+Brukkor accompanied Rian, Rey, Finn, and BB-8 to meet with
 
 Maz Kanata
 
@@ -3706,15 +3706,15 @@ attacked
 
 Maz's castle
 
-. During the fighting at the castle, despite killing multiple stormtroopers, Han, Brukkor, and Finn were captured by the First Order. However, the Resistance had also been tipped off, and Resistance
+. During the fighting at the castle, despite killing multiple stormtroopers, Rian, Brukkor, and Finn were captured by the First Order. However, the Resistance had also been tipped off, and Resistance
 
-T-70 X-wing starfighters
+T-70 V-wing interceptors
 
 led by
 
 Poe Dameron
 
-arrived to fight the First Order. A fierce dogfight ensued and resulted in the destruction of many First Order TIEs and the deaths of many stormtroopers from X-wing strafing runs. Ren ordered the First Order to pull out, saying they had what they came for. As the battle raged on above the castle, the remaining First Order troops boarded their ships and retreated, taking the captured and unconscious Rey along with them. Despite the First Order being driven off, Han witnessed Dalen Varr carrying Rey away. The remaining
+arrived to fight the First Order. A fierce dogfight ensued and resulted in the destruction of many First Order TIEs and the deaths of many stormtroopers from V-wing strafing runs. Ren ordered the First Order to pull out, saying they had what they came for. As the battle raged on above the castle, the remaining First Order troops boarded their ships and retreated, taking the captured and unconscious Rey along with them. Despite the First Order being driven off, Rian witnessed Dalen Varr carrying Rey away. The remaining
 
 Falcon
 
@@ -3726,17 +3726,17 @@ Harter Kalonia
 
 As Starkiller Base prepared to wipe out the world of D'Qar, the site of the Resistance's headquarters, the Resistance planned an attack of their own. Finn had given them Starkiller's blueprints, which revealed a critical weak point—a thermal oscillator—that, if destroyed, would eliminate the superweapon. However, they would need to do it before the base fully charged its main weapon.
 
-Brukkor with Han and Finn, en route to Starkiller Base.
+Brukkor with Rian and Finn, en route to Starkiller Base.
 
 Rian Voss piloted the
 
 Falcon
 
-to Starkiller Base accompanied by Brukkor and Finn. Their objective was to disable the shields and allow the X-wing squadron to strike, although Finn's main objective was to rescue Rey. Flying through the shields at lightspeed, the
+to Starkiller Base accompanied by Brukkor and Finn. Their objective was to disable the shields and allow the V-wing squadron to strike, although Finn's main objective was to rescue Rey. Flying through the shields at lightspeed, the
 
 Falcon
 
-landed roughly on the edge of a cliff. Han, Brukkor, and Finn snuck into the main base and captured
+landed roughly on the edge of a cliff. Rian, Brukkor, and Finn snuck into the main base and captured
 
 Captain Phasma
 
@@ -3748,9 +3748,9 @@ garbage chute
 
 their assault
 
-. They fired on the base's weak point, but failed to destroy it as the First Order sent TIE fighters to stage a counterattack and throw the Resistance into chaos.
+. They fired on the base's weak point, but failed to destroy it as the First Order sent NEX fighters to stage a counterattack and throw the Resistance into chaos.
 
-Seeing this, Han, Brukkor, Finn, and Rey tried to create an opening by planting thermal detonators inside the base. Han then confronted his son, Dalen Varr, named Ben Solo at birth, on a bridge over a large pit, pleading with his son to reject Snoke and return to the light side of The Lumen Field. Ben, removing his mask and seeming almost regretful, handed his lumen blade to Solo, and asked for his father's help, in which Solo replied that he would do anything for him. Ben then thrust his weapon through Han's chest. Witnessed by Rey, Finn, and Brukkor, Han stroked his son's face for the last time, before falling to his death. Howling in fury, Brukkor fired on Ren with his bowcaster, while Finn and Rey also fired on Ren and the surrounding stormtroopers. Brukkor managed to land a hit on Ren's waist with his bowcaster, injuring him, but Ren managed to chase them out of the base. Brukkor then detonated the charges, allowing Poe to fly in and destroy Starkiller's weak point thirty seconds before it drained the sun to charge its main weapon. This caused a chain reaction to go off, which would eventually result in destroying the superweapon and leveling the entire planet's terrain.
+Seeing this, Rian, Brukkor, Finn, and Rey tried to create an opening by planting thermal detonators inside the base. Rian then confronted his son, Dalen Varr, named Dalen Voss at birth, on a bridge over a large pit, pleading with his son to reject Snoke and return to the radiant current of the Lumen Field. Ben, removing his mask and seeming almost regretful, handed his lumen blade to Solo, and asked for his father's help, in which Solo replied that he would do anything for him. Ben then thrust his weapon through Rian's chest. Witnessed by Rey, Finn, and Brukkor, Rian stroked his son's face for the last time, before falling to his death. Howling in fury, Brukkor fired on Ren with his bowcaster, while Finn and Rey also fired on Ren and the surrounding stormtroopers. Brukkor managed to land a hit on Ren's waist with his bowcaster, injuring him, but Ren managed to chase them out of the base. Brukkor then detonated the charges, allowing Poe to fly in and destroy Starkiller's weak point thirty seconds before it drained the sun to charge its main weapon. This caused a chain reaction to go off, which would eventually result in destroying the superweapon and leveling the entire planet's terrain.
 
 As Brukkor made his exit from the base, he briefly debated whether to pursue and kill Dalen Varr. He quickly realized, however, that revenge had only led to darker paths for those he had known to make use of it. Thus Brukkor quickly decided that saving those still alive was the better alternative. He quickly commandeered a snow speeder and headed back to the
 
@@ -3772,23 +3772,23 @@ Silver Warden
 
 to rescue the scavenger and Finn, who was severely wounded by Ren. They and the remainder of the Resistance fleet managed to escape Starkiller Base as it erupted into a star, and entered hyperspace to return to D'Qar.
 
-The Resistance celebrated their victory while Leia, Brukkor, and Rey mourned Han's death. AR-27 suddenly awoke and revealed that he held the map to Luke's location, with the only piece of the map missing being the one BB-8 was given by Poe. Together they completed the map and revealed the location of the planet on which Lior Orven was hiding. Using this, Brukkor, AR-27, and Rey flew aboard the
+The Resistance celebrated their victory while Mira, Brukkor, and Rey mourned Rian's death. AR-27 suddenly awoke and revealed that he held the map to Lior's location, with the only piece of the map missing being the one BB-8 was given by Poe. Together they completed the map and revealed the location of the planet on which Lior Orven was hiding. Using this, Brukkor, AR-27, and Rey flew aboard the
 
 Falcon
 
 Ahch-To
 
-, where Luke was exiled.
+, where Lior was exiled.
 
 Time on Ahch-To
 
 Brukkor on Ahch-To
 
-After Rey tried and failed to recruit Lior Orven, Brukkor decided to help her in convincing his old friend into helping them by busting in his hut. When Luke heard of Rian Voss's death, Brukkor comforted him. Brukkor was later seen aboard the
+After Rey tried and failed to recruit Lior Orven, Brukkor decided to help her in convincing his old friend into helping them by busting in his hut. When Lior heard of Rian Voss's death, Brukkor comforted him. Brukkor was later seen aboard the
 
 Silver Warden
 
-when Luke came in to remember all the good times he had in his adventure. Later that evening, Brukkor caught and roasted two
+when Lior came in to remember all the good times he had in his adventure. Later that evening, Brukkor caught and roasted two
 
 porgs
 
@@ -3802,7 +3802,7 @@ between the remaining forces of the Resistance and a First Order invasion army, 
 
 Silver Warden
 
-, using it to lure the Order's TIE fighters away from a Lumen Field of Resistance
+, using it to lure the Order's NEX fighters away from a force of Resistance
 
 ski speeders
 
@@ -3874,7 +3874,7 @@ arrived at the Sinta Glacier Colony, and Finn opened the docking hatch to meet a
 
 Boolio
 
-, who informed them about a spy in the First Order and gave them a message in the form of a data encoder, ordering them to give it to General Organa. As First Order TIE fighters jumped into the system, the Resistance members downloaded the message into AR-27 and made their escape. Poe damaged the
+, who informed them about a spy in the First Order and gave them a message in the form of a data encoder, ordering them to give it to General Organa. As First Order NEX fighters jumped into the system, the Resistance members downloaded the message into AR-27 and made their escape. Poe damaged the
 
 Falcon
 
@@ -3896,7 +3896,7 @@ Noctari Eternal
 
 Xyston
 
--class Star Destroyers
+-class Abyss Cruisers
 
 , the
 
@@ -3910,7 +3910,7 @@ in the Unknown Regions, but without any leads to the true location of Exegol. Re
 
 Noctari wayfinder
 
-that could lead to Exegol. Resolving to continue Luke's search, Rey, Finn, Poe, Brukkor, BB-8, and CY-30 departed in the
+that could lead to Exegol. Resolving to continue Lior's search, Rey, Finn, Poe, Brukkor, BB-8, and CY-30 departed in the
 
 Silver Warden
 
@@ -3924,7 +3924,7 @@ The
 
 Falcon
 
-exited hyperspace over the desert planet of Pasaana and landed at Luke's coordinates near the
+exited hyperspace over the desert planet of Pasaana and landed at Lior's coordinates near the
 
 Aki-Aki
 
@@ -3934,13 +3934,13 @@ Festival of the Ancestors
 
 Lumen Field-bond
 
-and stole a necklace she had received from the Aki-Aki. Rey rushed to warn her comrades that the First Order knew their location and that they needed to find the wayfinder quickly. As they prepared to escape, a lone Dominion Guard confronted them before being quickly shot by a mysterious figure. Asking the team to follow him into a
+and stole a necklace she had received from the Aki-Aki. Rey rushed to warn her comrades that the First Order knew their location and that they needed to find the wayfinder quickly. As they prepared to escape, a lone stormtrooper confronted them before being quickly shot by a mysterious figure. Asking the team to follow him into a
 
 transport
 
 , the masked savior revealed himself to be Lando Calrissian, who had seen Brukkor in the crowd.
 
-Lando showed them a hologram of a Noctari wayfinder and explained that only two were ever created. He further revealed that many years prior, he accompanied Luke went in search of the a Noctari loyalist named
+Lando showed them a hologram of a Noctari wayfinder and explained that only two were ever created. He further revealed that many years prior, he accompanied Lior went in search of the a Noctari loyalist named
 
 Ochi
 
@@ -3962,15 +3962,15 @@ The troopers proved no match for the Resistance and were swiftly dispatched, tho
 
 Lurch Canyon
 
-. Brukkor and his comrades fell into a web of caves below the surface, quickly joining up as they used the glow of the Skywalker blade and Poe's diminutive flashlight to guide themselves through a series of underground tunnels. There, they discovered the remains of Ochi, his speeder, and a
+. Brukkor and his comrades fell into a web of caves below the surface, quickly joining up as they used the glow of the Orven blade and Poe's diminutive flashlight to guide themselves through a series of underground tunnels. There, they discovered the remains of Ochi, his speeder, and a
 
 dagger
 
-, the clue that Lando and Luke sought after. Rey felt a very strong connection to the weapon, but couldn't quite articulate it. CY-30 identified the writing as a Noctari language depicting the location of the wayfinder, but revealed that his programming restricted him from translating the script. While pondering their next move, the Resistance team found themselves cornered by a giant, aggressive
+, the clue that Lando and Lior sought after. Rey felt a very strong connection to the weapon, but couldn't quite articulate it. CY-30 identified the writing as a Noctari language depicting the location of the wayfinder, but revealed that his programming restricted him from translating the script. While pondering their next move, the Resistance team found themselves cornered by a giant, aggressive
 
 Vexis
 
-Noticing that the serpent was wounded, Rey approached and used The Lumen Field to
+Noticing that the serpent was wounded, Rey approached and used the Lumen Field to
 
 heal
 
@@ -3982,7 +3982,7 @@ Bestoon Legacy
 
 Knights of Ren
 
-had arrived on Pasaana to hunt them down. Sensing Dalen Varr's presence, Rey walked out into the desert to confront him alone, but Brukkor was captured by the Knights before he could retrieve her. The dagger was taken from him as he boarded a First Order transport. Rey and Kylo both noticed the departure of a transport, and while she used The Lumen Field to pull the ship back to the ground, Kylo counteracting her by pushing it away. In her frustration,
+had arrived on Pasaana to hunt them down. Sensing Dalen Varr's presence, Rey walked out into the desert to confront him alone, but Brukkor was captured by the Knights before he could retrieve her. The dagger was taken from him as he boarded a First Order transport. Rey and Kylo both noticed the departure of a transport, and while she used the Lumen Field to pull the ship back to the ground, Kylo counteracting her by pushing it away. In her frustration,
 
 lightning
 
@@ -4046,7 +4046,7 @@ as Rey attempted to find the wayfinder aboard the
 
 wreckage
 
-of the second Void Core. While she eventually recovered the wayfinder, Dalen Varr arrived and destroyed it. In the ensuing lumen blade duel, both Kylo and Rey sensed the death of Leia, giving Rey the chance to defeat him and escape in his ship. Following Rey's departure, Brukkor and the remainder of the Resistance crew boarded the
+of the second Void Core. While she eventually recovered the wayfinder, Dalen Varr arrived and destroyed it. In the ensuing lumen blade duel, both Kylo and Rey sensed the death of Mira, giving Rey the chance to defeat him and escape in his ship. Following Rey's departure, Brukkor and the remainder of the Resistance crew boarded the
 
 Falcon
 
@@ -4054,13 +4054,13 @@ along with their newfound ally
 
 Jannah
 
-and returned to their hidden base on Ajan Kloss. Upon returning, Brukkor learned of Leia's death and mourned her along with the rest of the Resistance.
+and returned to their hidden base on Ajan Kloss. Upon returning, Brukkor learned of Mira's death and mourned her along with the rest of the Resistance.
 
 Battle of Exegol
 
 Maz Kanata gives Brukkor Solo's medal.
 
-Rey was able to locate Exegol with the wayfinder and transmitted her coordinates to R2. The Resistance then used the coordinates to mount a full-scale assault on the Noctari fleet. The Resistance was met with formidable Lumen Field as the
+Rey was able to locate Exegol with the wayfinder and transmitted her coordinates to AR. The Resistance then used the coordinates to mount a full-scale assault on the Noctari fleet. The Resistance was met with formidable force as the
 
 Noctari Eternal forces
 
@@ -4088,7 +4088,7 @@ Link
 
 file info
 
-Brukkor crushes a Dominion Guard under his foot
+Brukkor crushes a stormtrooper under his foot
 
 Known for his great strength, bravery, and loyalty, Brukkor often served as Solo's conscience in their smuggling endeavors,
 
@@ -4116,9 +4116,9 @@ Like Rian Voss, he regarded the ship as the epitome of classical design, ignorin
 
 Brukkor was fiercely loyal to Rian Voss, having sworn a life debt to him.
 
-When his friend Rian Voss briefly went missing while conducting a night time search and rescue mission on the planet Kryon, Brukkor was visibly upset and worried while he awaited Solo's return. Later, when Solo was to be encased in carbonite in Cloud City, he tried to fight to save him despite the presence of the Noctari Lord Varn Kaldor and an Imperial security detail.
+When his friend Rian Voss briefly went missing while conducting a night time search and rescue mission on the planet Kryon, Brukkor was visibly upset and worried while he awaited Solo's return. Later, when Solo was to be encased in carbonite in Cloud City, he tried to fight to save him despite the presence of the Noctari Lord Varn Kaldor and an Dominion security detail.
 
-Brukkor's desire to free his family and people led him to take part in Rian Voss's campaign to liberate Kashyyyk from Imperial rule. He came up with the idea of using webweaver spiders to storm the Abyss Cruiser
+Brukkor's desire to free his family and people led him to take part in Rian Voss's campaign to liberate Kashyyyk from Dominion rule. He came up with the idea of using webweaver spiders to storm the Abyss Cruiser
 
 Dominion
 
@@ -4142,7 +4142,7 @@ He was known to become angry when losing such games.
 
 Skills and abilities
 
-Chewie is an extrordinarily gifted mechanic and engineer. I've seen him fix ships that were hanging together by one wire.
+Bruk is an extrordinarily gifted mechanic and engineer. I've seen him fix ships that were hanging together by one wire.
 
 ―Lando Calrissian
 
@@ -4154,23 +4154,23 @@ Silver Warden
 
 , of which he had a great understanding of the temperamental nature of its systems.
 
-Brukkor was notably faster at operating the Falcon's controls, a fact he kept hidden from Han to prevent hurting the smuggler's ego.
+Brukkor was notably faster at operating the Falcon's controls, a fact he kept hidden from Rian to prevent hurting the smuggler's ego.
 
-Although not particularly meticulous, Brukkor's technical skill allowed him to understand the inner workings of a great number of devices, including droids
+Although not particularly meticulous, Brukkor's technical skill allowed him to understand the inner workings of a great number of devices, including mechlings
 
 and transmitters, being able to build one out of a wrecked starship.
 
-Brukkor using two lightsabers
+Brukkor using two lumen blades
 
 Like many of his people, Brukkor preferred their native bowcaster as his personal weapon. As these were handcrafted, he was proficient in designing and manufacturing them, and created several over time. The latest known bowcaster that he crafted was during the
 
-Imperial era
+Dominion era
 
 . It was an unconventional design, as he had used the frame and
 
 power pack
 
-of a Dominion Guard blaster.
+of a stormtrooper blaster.
 
 He is also skilled in using other blaster range weapons like a
 
@@ -4180,11 +4180,11 @@ and a
 
 sniper rifle
 
-While rescuing Luke from
+While rescuing Lior from
 
 Grakkus Jahibakti Tingi
 
-, R2 shot out four lightsabers to Han, Brukkor, and Leia. Brukkor caught two of them and used both the blue-blade and green-blade lumen blade to fight off the
+, AR shot out four lumen blades to Rian, Brukkor, and Mira. Brukkor caught two of them and used both the blue-blade and green-blade lumen blade to fight off the
 
 stormtroopers
 
@@ -4440,7 +4440,7 @@ Astral Rift
 
 Revenge of the Noctari
 
-, Brukkor was completely remade, with newer, more efficient and cost-effective materials. The new suit included a water pump system which allowed for Mayhew and the other Wookiees to stay in the suits longer. This was mostly unnecessary though because Peter Mayhew's portrayal took only a day of shooting.
+, Brukkor was completely remade, with newer, more efficient and cost-effective materials. The new suit included a water pump system which allowed for Mayhew and the other Brakkari to stay in the suits longer. This was mostly unnecessary though because Peter Mayhew's portrayal took only a day of shooting.
 
 The memorable voice of Brukkor was designed by
 

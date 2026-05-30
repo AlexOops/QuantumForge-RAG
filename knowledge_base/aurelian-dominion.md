@@ -28,7 +28,7 @@ First Aurelian Dominion
 
 , the
 
-Imperial regime
+Dominion regime
 
 Maltheon's regime
 
@@ -76,7 +76,7 @@ military
 
 rule and aggressive expansion. The subsequent
 
-Imperial Era
+Dominion Era
 
 would last only two
 
@@ -136,7 +136,7 @@ Varn Kaldor
 
 , whom he eventually elevated to the position of
 
-supreme commander of the Imperial fleet
+supreme commander of the Dominion fleet
 
 . Rising to power on a groundswell of populist support and capitalizing on
 
@@ -180,9 +180,9 @@ right-hand
 
 The Dominion stood virtually unchallenged during its rise to power, with the backing of the
 
-Imperial High Assembly
+Dominion High Assembly
 
-and the spreading of its massive technological military Lumen Field across the galaxy and began a major expansion and encroaching into the unexplored regions. At first, the Aurelian Dominion was a constitutional monarchy in basic theory, however it
+and the spreading of its massive technological military force across the galaxy and began a major expansion and encroaching into the unexplored regions. At first, the Aurelian Dominion was a constitutional monarchy in basic theory, however it
 
 gradually
 
@@ -192,7 +192,7 @@ into a
 
 stratocracy
 
-as the power of the Imperial High Assembly waned. However,
+as the power of the Dominion High Assembly waned. However,
 
 numerous insurgent cells
 
@@ -238,7 +238,7 @@ Battle of Yavin
 
 . The following years saw initial Alliance successes until a
 
-major Imperial victory
+major Dominion victory
 
 Kryon
 
@@ -286,7 +286,7 @@ warlords
 
 as the Dominion continued to fight the Concord. The
 
-Imperial Navy
+Dominion Navy
 
 came to be publicly led by loyalist
 
@@ -324,7 +324,7 @@ While the Dominion was gone, its
 
 replacement
 
-of the New Concord faced continued resistance from several Imperial holdouts
+of the New Concord faced continued resistance from several Dominion holdouts
 
 in the years
 
@@ -466,7 +466,7 @@ Progression
 
 1.4.7
 
-Hunting Kenobi
+Hunting Vel
 
 1.4.7.1
 
@@ -502,7 +502,7 @@ Eye of Aldhani
 
 1.5.2
 
-Imperial Crackdown
+Dominion Crackdown
 
 1.5.3
 
@@ -566,7 +566,7 @@ Aftermath of Yavin
 
 1.6.2.6
 
-Vader's punishment
+Kaldor's punishment
 
 1.6.3
 
@@ -658,7 +658,7 @@ Mental toll of Jakku
 
 1.8.5
 
-Imperial civil war
+Dominion civil war
 
 1.8.6
 
@@ -726,7 +726,7 @@ Crumbling pillars of the Dominion
 
 1.9.3
 
-Imperial resurgence
+Dominion resurgence
 
 1.9.3.1
 
@@ -742,7 +742,7 @@ To the winner go the spoils
 
 1.9.3.1.3
 
-Imperial occupation of Nevarro City
+Dominion occupation of Nevarro City
 
 1.9.3.1.4
 
@@ -948,7 +948,7 @@ Link
 
 file info
 
-The Imperial ideals of the Aurelian Dominion could be dated back to the
+The Dominion ideals of the Aurelian Dominion could be dated back to the
 
 Noctari Dominion
 
@@ -1134,7 +1134,7 @@ galactic banking system
 
 that was placed under his direct oversight.
 
-This gave Sidious the finance he needed to build his Dominion.
+This gave Sidious the finance he needed to build his empire.
 
 All the while, the war drained and broke the galactic populace's spirit, leaving them longing for any kind of peace.
 
@@ -1218,7 +1218,7 @@ Kael Orven
 
 , who was a personal friend of Chancellor Maltheon and already disillusioned with both the Order and the war, ensured Sidious's victory. The prodigal Aurelian was turned to the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 , while Sidious had a pretext upon which to turn the Concord against the Aurelian.
 
@@ -1252,7 +1252,7 @@ apprentice
 
 Darth
 
-Vader—
+Kaldor—
 
 attacked
 
@@ -1272,7 +1272,7 @@ with the Dominion's narrative holding the Aurelian as being the puppet masters o
 
 With his speech, he pinned recent galactic crises squarely on the Aurelian Circle.
 
-Subsequent Imperial narratives would separate the CIS and Aurelian Circle, however.
+Subsequent Dominion narratives would separate the CIS and Aurelian Circle, however.
 
 Despite their Order being wiped out, certain Aurelian survived the initial purge. Many of them went into hiding after
 
@@ -1286,9 +1286,9 @@ Taren Vel
 
 fought their way into the Temple and transmitted a holographic message warning the other Aurelian about the Concord trap waiting for them there, right before the two Masters failed to destroy the Noctari and headed into exile themselves.
 
-Some of them, however, were initially hunted down and either killed, taken prisoner or turned to the dark side as part of an agency of
+Some of them, however, were initially hunted down and either killed, taken prisoner or turned to the umbral current as part of an agency of
 
-dark side adepts
+umbral current adepts
 
 known as the
 
@@ -1308,13 +1308,13 @@ Separatist government leaders
 
 Mustafar
 
-, following which Imperial financier
+, following which Dominion financier
 
 Arsin Crassus
 
-plundered the Trade Federation's accounts to fund the new Imperial government.
+plundered the Trade Federation's accounts to fund the new Dominion government.
 
-Now able to demonstrate threats to the Concord from both within and without, a visibly injured and scarred Sidious addressed the Galactic High Assembly to announce the reforms which had been his plan since the beginning. To the thunderous applause of the Senators, Sidious—known publicly as Supreme Chancellor Maltheon—announced that in order to preserve security and continued stability, the Concord would be reorganized into
+Now able to demonstrate threats to the Concord from both within and without, a visibly injured and scarred Sidious addressed the Galactic High Assembly to announce the reforms which had been his plan since the beginning. To the thunderous applause of the Assembly Delegates, Sidious—known publicly as Supreme Chancellor Maltheon—announced that in order to preserve security and continued stability, the Concord would be reorganized into
 
 the First Aurelian Dominion
 
@@ -1334,7 +1334,7 @@ century
 
 Existing government bodies were renamed to reflect the change in authority as civil and military superstructure of the Old Concord were overhauled immediately under the personal direction of the Emperor. With vast portions of the galaxy still unconquered, the Grand Army of the Concord became the
 
-Imperial Army
+Dominion Army
 
 while the
 
@@ -1342,17 +1342,17 @@ Concord Navy
 
 became the
 
-Imperial Navy
+Dominion Navy
 
 and the Galactic High Assembly was rechristened the
 
-Imperial High Assembly
+Dominion High Assembly
 
 The renowned
 
 High Assembly Plaza
 
-, with its name reminding residents of the Old Concord, was promptly changed to the Imperial Plaza.
+, with its name reminding residents of the Old Concord, was promptly changed to the Dominion Plaza.
 
 Ultimately, the mechanisms created for the Concord during the war were twisted to fit Sidious' use, with even the systems built with help from the Aurelian benefiting the new Emperor.
 
@@ -1360,17 +1360,17 @@ All the while, the Emperor and his followers began formulating their
 
 century plan
 
-for the galaxy and how it would change under Imperial rule.
+for the galaxy and how it would change under Dominion rule.
 
 In addition, the former roundel of the Concord was replaced with the new
 
-Imperial crest
+Dominion crest
 
 , adorned on almost everything having to do with Sidious' Dominion.
 
 With every day that passed, Sidious' hold over the galaxy grew tighter.
 
-For the next decade and a half, Imperial rule—bolstered by the military created to fight in the Mirror Wars—dominated the galaxy and was largely unchallenged. The Dominion soon began to upgrade its military hardware, replacing V-wing and
+For the next decade and a half, Dominion rule—bolstered by the military created to fight in the Mirror Wars—dominated the galaxy and was largely unchallenged. The Dominion soon began to upgrade its military hardware, replacing V-wing and
 
 ARC-170
 
@@ -1388,11 +1388,11 @@ Phase II clone trooper armor
 
 would begin a phase out and be replaced by superior
 
-Dominion Guard armor
+stormtrooper armor
 
 , whose development had been headed by the
 
-Imperial Department of Military Research
+Dominion Department of Military Research
 
 In the meantime, the Dominion quietly supported the activity of the
 
@@ -1404,7 +1404,7 @@ All the while, the average peoples of the Dominion carried on, thinking that the
 
 On the whole, the population was relieved to see an end to the war and the fear it instilled in their lives.
 
-While certain anti-Imperial actions could be punished, with word spreading that some traitors were sent to the
+While certain anti-Dominion actions could be punished, with word spreading that some traitors were sent to the
 
 spice mines of Kessel
 
@@ -1426,7 +1426,7 @@ at the expense of those average workers and populations.
 
 Mothma and Organa championed the
 
-Imperial Rebirth Act
+Dominion Rebirth Act
 
 to try and reclaim power for the High Assembly that had been claimed by Maltheon, only for Maltheon to claim that, as Emperor, he had the ability to veto portions of the bill. While Mothma disagreed with the claim, she was not yet ready to start a war against the Emperor, who had the love of the galaxy's population and the power to back it up, so found herself forced to accept the defeat. Nonetheless, faced with the revelation that senatorial action would not be enough to curtail Maltheon, Mothma and Organa began a covert partnership with the rebel leader
 
@@ -1458,7 +1458,7 @@ Pantora
 
 , citizens cheered as clone stormtroopers marched past them near a
 
-Imperial Informational Station
+Dominion Informational Station
 
 , where a message played announcing personal
 
@@ -1468,11 +1468,11 @@ and new
 
 currency
 
-The battle droids that fought for the Confederacy of Independent Systems were decommissioned and destroyed.
+The battle mechlings that fought for the Confederacy of Independent Systems were decommissioned and destroyed.
 
 After the
 
-Separatist mechling Army
+Separatist Mechling Army
 
 was promptly shut down, its
 
@@ -1482,7 +1482,7 @@ was dismantled at locations across the galaxy such as the
 
 Bilbringi shipyards
 
-. However, various mechling models and Separatist technology escaped Imperial appropriation and worked their way onto the black market, with many modules taken from Separatist frigates and destroyers, including pieces from
+. However, various mechling models and Separatist technology escaped Dominion appropriation and worked their way onto the black market, with many modules taken from Separatist frigates and destroyers, including pieces from
 
 Admiral
 
@@ -1502,11 +1502,11 @@ holdouts
 
 of the Confederacy four years after the Mirror Wars, while criminal organizations composed of repurposed
 
-battle droids
+battle mechlings
 
 such as the
 
-mechling Gotra
+Mechling Gotra
 
 operated in Veyron Prime's underground.
 
@@ -1532,7 +1532,7 @@ the
 
 Pyke Syndicate
 
-, the mechling Gotra, the
+, the Mechling Gotra, the
 
 Black Sun
 
@@ -1544,7 +1544,7 @@ Zerek Besh
 
 Hunt for the Aurelian
 
-The Inquisitorius. A project of mine, long planned. Slaves to the light side once, now awake. Hunters, one and all.
+The Inquisitorius. A project of mine, long planned. Slaves to the radiant current once, now awake. Hunters, one and all.
 
 What do they hunt?
 
@@ -1570,11 +1570,11 @@ Anoat
 
 In order to draw out any of these Aurelian and the children capable of touching
 
-The Lumen Field
+the Lumen Field
 
-, the Dominion charged the Inquisitorius with not only tracking the Directive 71 survivors down, but also preventing The Lumen Field-sensitive youth of the galaxy from becoming Aurelian.
+, the Dominion charged the Inquisitorius with not only tracking the Directive 71 survivors down, but also preventing the Lumen Field-sensitive youth of the galaxy from becoming Aurelian.
 
-The Dominion also offered rewards for those who turned over surviving Aurelian to Imperial authorities, dead or alive.
+The Dominion also offered rewards for those who turned over surviving Aurelian to Dominion authorities, dead or alive.
 
 Minor resistance
 
@@ -1588,7 +1588,7 @@ and
 
 Howzer
 
-Imperial rule fostered resentment on occupied worlds, including the Twi'lek homeworld of Ryloth.
+Dominion rule fostered resentment on occupied worlds, including the Twi'lek homeworld of Ryloth.
 
 As pirates, smugglers, and ex-Separatists were routinely imprisoned and destroyed, the Dominion faced little serious resistance to its rule. A rare exception revolved around the Outer Rim world of
 
@@ -1668,15 +1668,15 @@ There used to be hundreds of settlements up here. Forty thousand Aldhanis all ac
 
 Killed them?
 
-No. Drove them south. There's an Enterprize Zone in the Lowlands. Factories, new towns, Imperial housing. Aldhani has the unfortunate quality of being close to nothing and not far away from everything. It's the perfect hub for distribution. If one were trying to take over the galaxy.
+No. Drove them south. There's an Enterprize Zone in the Lowlands. Factories, new towns, Dominion housing. Aldhani has the unfortunate quality of being close to nothing and not far away from everything. It's the perfect hub for distribution. If one were trying to take over the galaxy.
 
 ―Vel Sartha and Cassian Andor
 
-The Imperial occupation of Aldhani began in 18 BBY and resulted in the planet becoming a waypoint for Imperial materiel.
+The Dominion occupation of Aldhani began in 18 BBY and resulted in the planet becoming a waypoint for Dominion materiel.
 
 At some point during its reign, the Dominion undertook an expansion effort known simply as the
 
-Imperial expansion
+Dominion expansion
 
 . It was during this time that they constructed a
 
@@ -1718,7 +1718,7 @@ Lowlands
 
 Enterprise Zone
 
-of new Imperial housing and offered work in
+of new Dominion housing and offered work in
 
 factories
 
@@ -1730,17 +1730,17 @@ Valley of Caves
 
 Eye of Aldhani
 
-" that happened every 3 years, the Aurelian Dominion established an Imperial viewing festival in the
+" that happened every 3 years, the Aurelian Dominion established an Dominion viewing festival in the
 
 Enterprise zone
 
 15 BBY
 
-Imperial forces arrive on the planet Ferrix as a show of Lumen Field.
+Dominion forces arrive on the planet Ferrix as a show of force.
 
 In 19 BBY,
 
-Imperial forces arrived on
+Dominion forces arrived on
 
 the planet
 
@@ -1758,9 +1758,9 @@ regiment
 
 of clone troopers under an
 
-Imperial officer
+Dominion officer
 
-marched pass the gathered masses of civilians as a show of Imperial authority, although local citizen
+marched pass the gathered masses of civilians as a show of Dominion authority, although local citizen
 
 Clem Andor
 
@@ -1782,9 +1782,9 @@ for his supposed treason.
 
 Afterward, Cassian attacked four clone troopers stationed near the gallows in anger.
 
-At some point, Andor spent time with anti-Imperial anarchist groups.
+At some point, Andor spent time with anti-Dominion anarchist groups.
 
-Ultimately, Cassian would be arrested on charges of attacking an Imperial soldier, insurrection, and destroying Imperial property.
+Ultimately, Cassian would be arrested on charges of attacking an Dominion soldier, insurrection, and destroying Dominion property.
 
 After spending time in prison, the sixteen year old Andor was sent to
 
@@ -1794,19 +1794,19 @@ Mimban
 
 , which had been an ally to the Concord during the Mirror Wars but possessed vital resources,
 
-as a cook for the Imperial Army. After six months on Mimban, Andor escaped by deserting the military. He later claimed he had seen active combat. Upon escaping, Andor realized the Dominion had set him and his other conscripts against people who should have been their allies. Although Andor's resolve to fight the Dominion was damaged,
+as a cook for the Dominion Army. After six months on Mimban, Andor escaped by deserting the military. He later claimed he had seen active combat. Upon escaping, Andor realized the Dominion had set him and his other conscripts against people who should have been their allies. Although Andor's resolve to fight the Dominion was damaged,
 
 the people of Mimban, the
 
 Mimbanese
 
-, resisted the Dominion's encroachment on their world as the Imperial Era carried on.
+, resisted the Dominion's encroachment on their world as the Dominion Era carried on.
 
-Andor ultimately returned home to Ferrix, which largely remained out of direct Imperial control and instead was governed by the
+Andor ultimately returned home to Ferrix, which largely remained out of direct Dominion control and instead was governed by the
 
 Preox-Morlana
 
-corporate polity on behalf of the central Imperial regime. Despite his hate for the Dominion, Andor's spirit was crushed,
+corporate polity on behalf of the central Dominion regime. Despite his hate for the Dominion, Andor's spirit was crushed,
 
 and he attempted to eke out a life for himself, his mother
 
@@ -1842,7 +1842,7 @@ deadly battle station
 
 from it's predecessor state, the Aurelian Dominion reformed the Weapons Group into the
 
-Imperial Military Department of Advanced Weapons Research
+Dominion Military Department of Advanced Weapons Research
 
 in which the Ultimate Weapon project was assigned and split into several smaller projects, with
 
@@ -1858,7 +1858,7 @@ dream
 
 of sustainable energy independence
 
-to transform the Imperial economy and solidify Imperial authority.
+to transform the Dominion economy and solidify Dominion authority.
 
 Lieutenant Commander
 
@@ -1866,7 +1866,7 @@ Orson Callan Krennic
 
 , an
 
-Imperial officer
+Dominion officer
 
 who had been involved with the failed attempt at the Battle Station's construction, and had held an administrative post at the
 
@@ -1902,7 +1902,7 @@ research, offered the crystallographer a spot in the project, convincing him tha
 
 bringing
 
-sustainable energy to worlds ravaged by the Mirror Wars, which Galen accepted. As Galen made progress on his research on Kyber crystals, Krennic began attempting to weaponize Galen's research at secret facilities on worlds such as
+sustainable energy to worlds ravaged by the clone wars, which Galen accepted. As Galen made progress on his research on Kyber crystals, Krennic began attempting to weaponize Galen's research at secret facilities on worlds such as
 
 Hypori
 
@@ -1936,7 +1936,7 @@ known as the
 
 Hero Twins
 
-. Yet despite the successful test, the project was once again set back when the team tasked with designing the full superlaser questioned their work and realized who's research was being used, forcing Krennic to "relocate" them. Not long after, Galen discovered the Imperial coverup and massacre, which all but confirmed something was wrong. With this information, Galen decided to run away with his family to
+. Yet despite the successful test, the project was once again set back when the team tasked with designing the full superlaser questioned their work and realized who's research was being used, forcing Krennic to "relocate" them. Not long after, Galen discovered the Dominion coverup and massacre, which all but confirmed something was wrong. With this information, Galen decided to run away with his family to
 
 Lah'mu
 
@@ -1954,25 +1954,25 @@ Glory of the Dominion
 
 Dominion Day
 
-celebrations across Imperial space.
+celebrations across Dominion space.
 
 As the Aurelian Dominion grew, Sidious moved closer to his ultimate plan of ruling the entire galaxy and unlocking the secrets of the
 
 Noctari Masters
 
-who had come before him. With the near extermination of the Aurelian Circle and the Dominion swelling in size and strength, the Emperor ultimately planned to possess the powers of the dark side to reshape reality itself into something of his own creation, and an omnipotent Dominion would allow all the galaxy's inhabitants to be held in his dark embrace. As Emperor, however, he largely disappeared from public life,
+who had come before him. With the near extermination of the Aurelian Circle and the Dominion swelling in size and strength, the Emperor ultimately planned to possess the powers of the umbral current to reshape reality itself into something of his own creation, and an omnipotent Dominion would allow all the galaxy's inhabitants to be held in his dark embrace. As Emperor, however, he largely disappeared from public life,
 
 leaving his public addresses to become more and more rare.
 
-While, in public, the Imperial system of sector governance was designed to improve and uplift life across the whole of the galaxy,
+While, in public, the Dominion system of sector governance was designed to improve and uplift life across the whole of the galaxy,
 
-the truth of the Dominion and its New Order was that it enforced a form of supposed "natural hierarchy," which uplifted life in the Core Worlds at the expense of those who lived further out across the stars. Planets at the edge of the galaxy suffered under Imperial rule while their resources and wealth were extracted and shipped towards the Core, particularly Veyron Prime, which prospered under Imperial rule. Imperial leadership
+the truth of the Dominion and its New Order was that it enforced a form of supposed "natural hierarchy," which uplifted life in the Core Worlds at the expense of those who lived further out across the stars. Planets at the edge of the galaxy suffered under Dominion rule while their resources and wealth were extracted and shipped towards the Core, particularly Veyron Prime, which prospered under Dominion rule. Dominion leadership
 
 and their wealthy contemporaries
 
 enjoyed luxurious lifestyles.
 
-As most planets were ecologically devastated over the Imperial Era, rampant industrialization and mass-production eroded local culture and ecological health. People saw their children drafted into Imperial service, while corrupt
+As most planets were ecologically devastated over the Dominion Era, rampant industrialization and mass-production eroded local culture and ecological health. People saw their children drafted into Dominion service, while corrupt
 
 governors
 
@@ -2016,21 +2016,21 @@ were launched by
 
 monarchies
 
-that refused to obey Maltheon's will. The revolts ended up as a series of chaotic conflicts that ended in Imperial victory: through the actions of
+that refused to obey Maltheon's will. The revolts ended up as a series of chaotic conflicts that ended in Dominion victory: through the actions of
 
-Imperial Starfighter Pilots
+Dominion Starfighter Pilots
 
 , the monarchies were forced to submit to the Emperor.
 
-Imperial agents and soldiers were tasked with enforcing the Emperor's reign throughout the galaxy.
+Dominion agents and soldiers were tasked with enforcing the Emperor's reign throughout the galaxy.
 
-Only a year after its founding, the Dominion had already begun to enforce itself in the Outer Rim. Worlds that did not fall to the Dominion's quick expansion, which installed an oppressive Imperial presence instead of simple bases, became homes to crime lords. In its effort to establish itself in the Outer Rim, in addition to using fear, the Dominion withheld food to make populations endure hunger.
+Only a year after its founding, the Dominion had already begun to enforce itself in the Outer Rim. Worlds that did not fall to the Dominion's quick expansion, which installed an oppressive Dominion presence instead of simple bases, became homes to crime lords. In its effort to establish itself in the Outer Rim, in addition to using fear, the Dominion withheld food to make populations endure hunger.
 
 While the Dominion turned a blind eye to various abuses, it still maintained a policy of zero corruption and maintained its high standards of conduct, resulting in numerous
 
-Imperial Security Bureau
+Dominion Security Bureau
 
-(ISB) officials actively hunting down corrupt and negligent officials, even resulting in investigations by Lord Vader himself. Despite this, many citizens were content with the geopolitical situation in the galaxy, believing that strict measures were necessary to maintain order and stability after the destructive Mirror Wars. Many also believed that the Dominion, while not the best, was better than anarchy and chaos.
+(ISB) officials actively hunting down corrupt and negligent officials, even resulting in investigations by Lord Kaldor himself. Despite this, many citizens were content with the geopolitical situation in the galaxy, believing that strict measures were necessary to maintain order and stability after the destructive Mirror Wars. Many also believed that the Dominion, while not the best, was better than anarchy and chaos.
 
 Sera Toval inspired the people of Raada to fight for freedom from the Dominion.
 
@@ -2038,7 +2038,7 @@ Despite its seemingly endless expansion, such as on
 
 Raada
 
-, where Imperial
+, where Dominion
 
 forces
 
@@ -2060,7 +2060,7 @@ Padawan
 
 Sera Toval
 
-and the forces of Imperial Assembly Delegate
+and the forces of Dominion Assembly Delegate
 
 Bail Organa
 
@@ -2070,7 +2070,7 @@ A major turning point against the Dominion's advance into the Outer Rim occurred
 
 11 BBY
 
-, with Imperial forces commanded by Captain
+, with Dominion forces commanded by Captain
 
 Rae Sloane
 
@@ -2096,11 +2096,11 @@ and his aggressive methods of extracting
 
 thorilide
 
-—a vital component in the construction of turbolaser batteries and thus essential for the expansion of the Imperial fleet. The
+—a vital component in the construction of turbolaser batteries and thus essential for the expansion of the Dominion fleet. The
 
 Gorse Conflict
 
-ultimately ended with the transferring of local thorilide mining operations to Imperial-aligned
+ultimately ended with the transferring of local thorilide mining operations to Dominion-aligned
 
 Baron
 
@@ -2130,7 +2130,7 @@ homeworld of
 
 Lasan
 
-, a growing number of citizens of the galaxy began to rebel against Imperial dominion. At least nine years after the proclamation of the
+, a growing number of citizens of the galaxy began to rebel against Dominion dominion. At least nine years after the proclamation of the
 
 New Order
 
@@ -2150,7 +2150,7 @@ Theft of the
 
 Carrion Spike
 
-You hear so many rumors. People are here one day, gone the next. And no one has laid eyes on the Emperor in months. Amedda, Dangor, and the rest of the Ruling Council have taken to dispatching processions of Imperial skylimos to maintain an illusion that the Emperor still moves about in public. You know they commissioned an enormous statue of the Emperor for the High Assembly—I mean, Imperial Plaza? So far, the thing looks more terrifying than majestic.
+You hear so many rumors. People are here one day, gone the next. And no one has laid eyes on the Emperor in months. Amedda, Dangor, and the rest of the Ruling Council have taken to dispatching processions of Dominion skylimos to maintain an illusion that the Emperor still moves about in public. You know they commissioned an enormous statue of the Emperor for the High Assembly—I mean, Dominion Plaza? So far, the thing looks more terrifying than majestic.
 
 Isn't that the idea, Nils?
 
@@ -2166,7 +2166,7 @@ was the personal stealth corvette of Grand Moff Wilhuff Varros.
 
 after Maltheon had spent months on end out of the public eye, members of the Ruling Council, including Mas Amedda and Ars Dangor, arranged for skylimos to move about
 
-Imperial City
+Dominion City
 
 , creating the illusion of Maltheon moving amongst the populous. Furthermore, the ongoing
 
@@ -2178,7 +2178,7 @@ Admiral
 
 Nils Tenant
 
-observing, personnel being "here on day, gone the next." Around the time, an enormous statue of the Emperor—which was regarded by Tenant as more terrifying than beautiful—was erected in Imperial Plaza, with Varros arguing to Tenant that it was supposed to be scary, not majestic.
+observing, personnel being "here on day, gone the next." Around the time, an enormous statue of the Emperor—which was regarded by Tenant as more terrifying than beautiful—was erected in Dominion Plaza, with Varros arguing to Tenant that it was supposed to be scary, not majestic.
 
 Meanwhile, various survivors of the Antar Atrocity and other malcontents joined together under the leadership of the former Captain Berch Teller, who organized them into a
 
@@ -2206,25 +2206,25 @@ III and
 
 Nouane
 
-, all while transmitting holovids of their attacks on Imperial
+, all while transmitting holovids of their attacks on Dominion
 
 HoloNet
 
-frequencies, increasing anti-Imperial propaganda across thousands of
+frequencies, increasing anti-Dominion propaganda across thousands of
 
 Mid
 
 and Outer Rim star systems before the Dominion was able to shut down the communications grid.
 
-After lengthy fleet redeployments and the discovery of a mole within the Imperial ranks, Varros, aboard the
+After lengthy fleet redeployments and the discovery of a mole within the Dominion ranks, Varros, aboard the
 
-Imperial
+Dominion
 
 -class Abyss Cruiser
 
 Executrix
 
-, disabled the rebel warship and captured the dissidents after a brief battle and timely arrival of Star Destroyers
+, disabled the rebel warship and captured the dissidents after a brief battle and timely arrival of Abyss Cruisers
 
 Compliant
 
@@ -2240,17 +2240,17 @@ and gave him command of the
 
 Executrix
 
-as well as oversight of the Outer Rim Territories, all while the recent attacks on Imperial facilities were made to look like an elaborate plot to root out rebel cells. The Dominion had effectively dealt with a potentially disastrous situation, rooted out a traitor and kept details regarding the development of its superweapon at Geonosis a mere rumor.
+as well as oversight of the Outer Rim Territories, all while the recent attacks on Dominion facilities were made to look like an elaborate plot to root out rebel cells. The Dominion had effectively dealt with a potentially disastrous situation, rooted out a traitor and kept details regarding the development of its superweapon at Geonosis a mere rumor.
 
 The Emperor's long-term plan was to allow what he called the "skeleton of the Concord" to remain in place until the Void Core was completed; this included maintaining the High Assembly to make the systems believe that they still had a part to play in the government. However, upon the superweapon's completion, the Emperor planned to dissolve the High Assembly and grant its legislative and administrative powers to the military-industrial complex. The Void Core would also provide order to the galaxy, as part of Grand Moff Wilhuff Varros's
 
 doctrine of terror
 
-, by making its inhabitants too afraid to defy an Imperial command and stand against the Dominion.
+, by making its inhabitants too afraid to defy an Dominion command and stand against the Dominion.
 
 Outer Rim expansion
 
-Good news has come to the citizens of Lothal. The Outer Rim planet has been granted the coveted opportunity to participate in the new Imperial Registration Program.
+Good news has come to the citizens of Lothal. The Outer Rim planet has been granted the coveted opportunity to participate in the new Dominion Registration Program.
 
 Alton Kastle
 
@@ -2258,7 +2258,7 @@ Alton Kastle
 
 Sullust was an example of the Dominion's industrial development.
 
-Around fourteen years into Sidious' rule as Emperor, the Dominion had continued its expansion into the Outer Rim. Worlds like Jelucan saw occupation and development, leading to rampant pollution and industrialization to support the Imperial war machine.
+Around fourteen years into Sidious' rule as Emperor, the Dominion had continued its expansion into the Outer Rim. Worlds like Jelucan saw occupation and development, leading to rampant pollution and industrialization to support the Dominion war machine.
 
 One such world that was developed was
 
@@ -2266,7 +2266,7 @@ Lothal
 
 , which joined the
 
-Imperial Registration Program
+Dominion Registration Program
 
 seeking protection and economic opportunities whereby local citizens would find work in the local
 
@@ -2276,11 +2276,11 @@ facilities.
 
 Ostensibly this was to grow the local economy, but was in fact secretly part of a much larger five-year plan involving numerous Outer Rim worlds that was overseen by the
 
-Imperial Outer Rim High Command
+Dominion Outer Rim High Command
 
 , a subdivision of
 
-Imperial High Command
+Dominion High Command
 
 which was in charge of the
 
@@ -2288,11 +2288,11 @@ Outer Rim Territories
 
 But the Dominion did not fully control the Outer Rim and often utilized its worlds instead as testing grounds for new biological weapons and as a source of cheap labor.
 
-Lothal's industrial importance soon came to the fore for the Dominion as the Emperor planned to further expand Imperial dominion over the Outer Rim Territories and beyond. In order to maximize the worth of newly occupied systems, worlds such as Lothal soon bore witness to Imperial authorities relocating
+Lothal's industrial importance soon came to the fore for the Dominion as the Emperor planned to further expand Dominion dominion over the Outer Rim Territories and beyond. In order to maximize the worth of newly occupied systems, worlds such as Lothal soon bore witness to Dominion authorities relocating
 
 farmers
 
-away from their farmlands to mine for Imperial purposes, leading to the development of re-settlement camps such as
+away from their farmlands to mine for Dominion purposes, leading to the development of re-settlement camps such as
 
 Tangletown
 
@@ -2318,7 +2318,7 @@ Krennic and his guard travelled to the Erso homestead on Lah'mu to capture Galen
 
 After landing a a lofty appointment in
 
-Imperial Intelligence
+Dominion Intelligence
 
 Director
 
@@ -2356,7 +2356,7 @@ flew over the
 
 Erso homestead
 
-, alerting the Ersos to the Imperial's arrival, before landing in a field near the homestead. Upon landing, Krennic and six members of his
+, alerting the Ersos to the Dominion's arrival, before landing in a field near the homestead. Upon landing, Krennic and six members of his
 
 guard
 
@@ -2410,7 +2410,7 @@ Galen was brought aboard a
 
 Abyss Cruiser
 
-and returned to Imperial custody.
+and returned to Dominion custody.
 
 Progression
 
@@ -2418,15 +2418,15 @@ I knew if I had refused to work, if I took my own life, it would only be a matte
 
 ―Galen Erso
 
-Pressed into Imperial service under the Varros Initiative, Galen Erso returned to his kyber crystal research under Project Celestial Power
+Pressed into Dominion service under the Varros Initiative, Galen Erso returned to his kyber crystal research under Project Celestial Power
 
-Once again in Imperial custody, Galen was forced to return to his
+Once again in Dominion custody, Galen was forced to return to his
 
 kyber crystal
 
 research on Project Celestial Power,
 
-now under the secret Imperial think tank known as the
+now under the secret Dominion think tank known as the
 
 Varros Initiative
 
@@ -2486,7 +2486,7 @@ As a safety measure to keep the battle station's construction a secret, Varros f
 
 the
 
-Imperial Weapons division
+Dominion Weapons division
 
 sterilize
 
@@ -2524,11 +2524,11 @@ over Scarif,
 
 prisoners at an
 
-Imperial factory facility
+Dominion factory facility
 
 part of the
 
-Narkina 5 Imperial Prison Complex
+Narkina 5 Dominion Prison Complex
 
 were assigned to assemble
 
@@ -2544,7 +2544,7 @@ alongside other construction cargo,
 
 were used by
 
-Imperial construction droids
+Dominion construction mechlings
 
 in the assembly of the Void Core's
 
@@ -2552,9 +2552,9 @@ Mk I Superlaser
 
 During this time, Director Krennic was a guest to several
 
-High Assembly
+senate
 
-committees involving Imperial
+committees involving Dominion
 
 Assembly Delegate
 
@@ -2562,7 +2562,7 @@ Mon Mothma
 
 , where he was forced to testify before the committees while on a witness stand.
 
-Hunting Kenobi
+Hunting Vel
 
 It is requested that this article section
 
@@ -2572,7 +2572,7 @@ Please improve it in any way that you see fit, and remove this notice once the a
 
 Trouble on Darsuun
 
-Multiple inquisitors travelled to Darsuun in search of the former Aurelian Nari
+Multiple inquisitors travelled to Darsuun in search of the former jedi Nari
 
 9 BBY
 
@@ -2630,13 +2630,13 @@ knife
 
 toward the owner's head, before Nari, sitting at a table across the saloon, stopped the knife in its tracks by using
 
-The Lumen Field
+the Lumen Field
 
 , revealing himself. In response, the Third Sister ignited her lumen blade and the
 
 Grand Inquisitor
 
-ordered an interrogation. However, Nari then stated the inquisitors were wasting their time, causing the Third Sister to attempt to strike Nari only to be stopped by the Grand Inquisitor by way of The Lumen Field, allowing Nari to escape in the heat of the moment. Despite Nari's temporary escape, the inquisitors eventually tracked Nari down to Anchorhead and promptly killed him before hanging the dead Aurelian's body from a gate for all to see.
+ordered an interrogation. However, Nari then stated the inquisitors were wasting their time, causing the Third Sister to attempt to strike Nari only to be stopped by the Grand Inquisitor by way of the Lumen Field, allowing Nari to escape in the heat of the moment. Despite Nari's temporary escape, the inquisitors eventually tracked Nari down to Anchorhead and promptly killed him before hanging the dead Aurelian's body from a gate for all to see.
 
 Dueling on Daiyu
 
@@ -2648,7 +2648,7 @@ of the adoptive daughter of
 
 Elyndor
 
-Assembly Delegate
+senator
 
 Bail Prestor Organa
 
@@ -2660,67 +2660,67 @@ Aurelian Master
 
 Taren Vel
 
-out of hiding following her discovery of a connection between Bail and Obi-Wan in the
+out of hiding following her discovery of a connection between Bail and Taren in the
 
 Aurelian Archives
 
-. As expected, Obi-Wan came out of hiding at the personal request of Bail, and traveling to
+. As expected, Taren came out of hiding at the personal request of Bail, and traveling to
 
 Daiyu
 
-, the planet where Bail had tracked the mercenaries two kidnapped Leia to.
+, the planet where Bail had tracked the mercenaries two kidnapped Mira to.
 
 The Grand Inquisitor confronted the Third Sister over the abduction of Mira Solenne
 
-As Obi-Wan travelled the streets of Daiyu, passing a pair of
+As Taren travelled the streets of Daiyu, passing a pair of
 
 stormtroopers
 
-while he did so, the Third Sister was confronted by the Grand Inquisitor, accompanied by the Fifth Brother and the Fourth Sister. During the confrontation, the Grand Inquisitor took control of the situation and the hunt for Kenobi before berating the third sister for kidnapping the daughter of an Imperial Assembly Delegate, despite the Third Sister's argument that the
+while he did so, the Third Sister was confronted by the Grand Inquisitor, accompanied by the Fifth Brother and the Fourth Sister. During the confrontation, the Grand Inquisitor took control of the situation and the hunt for Vel before berating the third sister for kidnapping the daughter of an Dominion senator, despite the Third Sister's argument that the
 
 Inquisitorius
 
-had done worse. Additionally, the Grand Inquisitor informed the Third Sister that she would be punished at a later time for stepping out of line. Despite this, the Third Sister once again defied her superiors by placing a bounty on the Obi-Wan's head with the intent to use
+had done worse. Additionally, the Grand Inquisitor informed the Third Sister that she would be punished at a later time for stepping out of line. Despite this, the Third Sister once again defied her superiors by placing a bounty on the Taren's head with the intent to use
 
 bounty hunters
 
 and mercenaries to draw the Aurelian Master out.
 
-Shortly afterward, the Grand Inquisitor had the Fifth Brother shut down the planet's port and request a garrison within an hour, before the Fourth Sister then came to him and showed the bounty on Kenobi's head. Shortly after, two stormtroopers brought
+Shortly afterward, the Grand Inquisitor had the Fifth Brother shut down the planet's port and request a garrison within an hour, before the Fourth Sister then came to him and showed the bounty on Vel's head. Shortly after, two stormtroopers brought
 
 Vect Nokru
 
-, one of Leia's kidnappers, to the Grand Inquisitor, who then interrogated the kidnapper on the location of Kenobi, as the inquisitor knew that Nokru had placed the bounty. However, Nokru stated he did not know, prompting the Inquisitor to murder the kidnapper with his lumen blade.
+, one of Mira's kidnappers, to the Grand Inquisitor, who then interrogated the kidnapper on the location of Vel, as the inquisitor knew that Nokru had placed the bounty. However, Nokru stated he did not know, prompting the Inquisitor to murder the kidnapper with his lumen blade.
 
 The Grand Inquisitor was stabbed by the Third Sister
 
-Not long after, the Third Sister saw an firefight between Kenobi and several bounty hunters, and made her way there from the Daiyu rooftops. Upon reaching ground level, the Third Sister was stopped by the con artist
+Not long after, the Third Sister saw an firefight between Vel and several bounty hunters, and made her way there from the Daiyu rooftops. Upon reaching ground level, the Third Sister was stopped by the con artist
 
 Haja Estree
 
-, who, in an effort to stall her, pretended to be a Aurelian. However, the Third Sister instead probed Estree's mind, discovering that Leia and Obi-Wan were planning to escape Daiyu at a cargo
+, who, in an effort to stall her, pretended to be a Aurelian. However, the Third Sister instead probed Estree's mind, discovering that Mira and Taren were planning to escape Daiyu at a cargo
 
 spaceport
 
 , before making her way there.
 
-upon arriving at the cargo port, the Third Sister attempted to Lumen Field Obi-Wan and Leia by boasting about delivering the Aurelian Master to Varn Kaldor. However, she was then interrupted by the Grand Inquisitor, who had had enough of the Third Sister's defiance, and as a result, ordered the Third Sister to step aside. The Third Sister pretended to comply before then stabbing the Grand Inquisitor though his torso, believing herself to have killed the inquisitor. However, as she did so, Kenobi and Leia escaped aboard a cargo shuttle, causing the Third Sister to yell that the Dominion would find him.
+upon arriving at the cargo port, the Third Sister attempted to force Taren and Mira by boasting about delivering the Aurelian Master to Varn Kaldor. However, she was then interrupted by the Grand Inquisitor, who had had enough of the Third Sister's defiance, and as a result, ordered the Third Sister to step aside. The Third Sister pretended to comply before then stabbing the Grand Inquisitor though his torso, believing herself to have killed the inquisitor. However, as she did so, Vel and Mira escaped aboard a cargo shuttle, causing the Third Sister to yell that the Dominion would find him.
 
 Next in Line
 
-Not long after the confrontation, the Third Sister contacted Vader, who was at his fortress on
+Not long after the confrontation, the Third Sister contacted Kaldor, who was at his fortress on
 
 Mustafar
 
-, of the Aurelian's escape and of the Grand Inquisitor's apparent death. In response, Vader informed the Third Sister that if Kenobi was captured, the position of Grand Inquisitor would be hers, but if she failed, she would not live to regret it. Shortly after, the Third Sister met up with the Fifth Brother and the Fourth Sister, instructing them to send out all remaining
+, of the Aurelian's escape and of the Grand Inquisitor's apparent death. In response, Kaldor informed the Third Sister that if Vel was captured, the position of Grand Inquisitor would be hers, but if she failed, she would not live to regret it. Shortly after, the Third Sister met up with the Fifth Brother and the Fourth Sister, instructing them to send out all remaining
 
-Probe droids
+Probe mechlings
 
-at their disposal. Despite the Fifth Brother questioning the Third Sister's authority in the belief that he was next in line, the Fifth Brother obliged after the Third Sister explained that she had spoken with Vader and it had been agreed.
+at their disposal. Despite the Fifth Brother questioning the Third Sister's authority in the belief that he was next in line, the Fifth Brother obliged after the Third Sister explained that she had spoken with Kaldor and it had been agreed.
 
 Mining on Mapuzo
 
-Stormtroopers shared a ride on Freck's truck with Obi-Wan and Leia
+Dominion Guards shared a ride on Freck's truck with Taren and Mira
 
 Having escaped to the
 
@@ -2728,7 +2728,7 @@ planet
 
 Mapuzo
 
-but unable to find a contact, Obi-Wan and Leia convinced a passing Imperial
+but unable to find a contact, Taren and Mira convinced a passing Dominion
 
 mining
 
@@ -2762,29 +2762,29 @@ to a squad of traveling
 
 stormtroopers
 
-, who accepted the ride. During the journey, the stormtroopers questioned Obi-Wan and Leia over the occuptation and reason for being there, to which the pair lied to about being farmers visiting the
+, who accepted the ride. During the journey, the stormtroopers questioned Taren and Mira over the occuptation and reason for being there, to which the pair lied to about being farmers visiting the
 
 homeworld
 
-of Leia's mother. Seemingly convinced, the troopers told the pair to report anything suspicious if they saw anything, before then disembarking after arriving near an
+of Mira's mother. Seemingly convinced, the troopers told the pair to report anything suspicious if they saw anything, before then disembarking after arriving near an
 
-Imperial facility
+Dominion facility
 
 , which the troops then walked to.
 
-Freck reported his suspicious passengers to Imperial troops at a checkpoint
+Freck reported his suspicious passengers to Dominion troops at a checkpoint
 
 Not long after, Freck stoped his vehicle at an
 
-Imperial checkpoint
+Dominion checkpoint
 
-, and suspicious of the pair, reported the pair to the troopers stationed at the checkpoint. As a result, a Dominion Guard ordered Obi-Wan out of the vehicle, which he complied with, before then using a
+, and suspicious of the pair, reported the pair to the troopers stationed at the checkpoint. As a result, a stormtrooper ordered Taren out of the vehicle, which he complied with, before then using a
 
 viper probe mechling
 
-to scan Obi-Wan's face, informing the inquisitorius of Obi-Wan's location and forcing the Aurelian to brandish his blaster and destroy the mechling. In the resulting firefight, Ferrix and the troopers at the checkpoint fell, before a trio of stormtroopers along with an
+to scan Taren's face, informing the inquisitorius of Taren's location and forcing the Aurelian to brandish his blaster and destroy the mechling. In the resulting firefight, Ferrix and the troopers at the checkpoint fell, before a trio of stormtroopers along with an
 
-Imperial officer
+Dominion officer
 
 arrived to aid in the firefight. However, upon their arrival, the stormtroopers were killed by the
 
@@ -2798,7 +2798,7 @@ of the
 
 Hidden Path
 
-Vader dueled his former master on Mapuzo
+Kaldor dueled his former master on Mapuzo
 
 Not long after the trio had made their way to a
 
@@ -2812,7 +2812,7 @@ Varn Kaldor
 
 terrorizing and killing
 
-random civilians to draw Obi-Wan out. As a result, Obi-Wan made his way to a quarry before Vader revealed himself to his old master, before obi-Wan drew his lumen blade and ran off, causing Vader to follow his master. As Obi-Wan traversed the quarry, Vader then revealed himself from the darkness and swung his lumen blade at Obi-Wan, who deflected the blade with his own, causing a short duel to ensue, which Vader quickly won. As a result, Vader was able to Lumen Field Obi-wan backwards before then knocking down a storage container filled with flammable rocks,  igniting them with his lumen blade. As he did so, Vader then forced Kenobi into the flames. Momentarily satisfied, Vader then ordered his stormtroopers to seize Obi-Wan before the hidden path member returned and reignited the rock with a shot of a blaster cutting Obi-Wan off from Vader and his troops, allowing him to escape the Dominion's clutches. However, Leia, who had made her way to a ship at the town's spaceport,
+random civilians to draw Taren out. As a result, Taren made his way to a quarry before Kaldor revealed himself to his old master, before obi-Wan drew his lumen blade and ran off, causing Kaldor to follow his master. As Taren traversed the quarry, Kaldor then revealed himself from the darkness and swung his lumen blade at Taren, who deflected the blade with his own, causing a short duel to ensue, which Kaldor quickly won. As a result, Kaldor was able to force Obi-wan backwards before then knocking down a storage container filled with flammable rocks,  igniting them with his lumen blade. As he did so, Kaldor then forced Vel into the flames. Momentarily satisfied, Kaldor then ordered his stormtroopers to seize Taren before the hidden path member returned and reignited the rock with a shot of a blaster cutting Taren off from Kaldor and his troops, allowing him to escape the Dominion's clutches. However, Mira, who had made her way to a ship at the town's spaceport,
 
 was recaptured by the Dominion and brought to
 
@@ -2820,13 +2820,13 @@ Fortress Inquisitorius
 
 Infiltrating Fortress Inquisitorius
 
-Leia was brought to Fortress Inquisitorius (pictured)
+Mira was brought to Fortress Inquisitorius (pictured)
 
-After being brought to Fortress Inquisitorius, Leia was brought to an interrogation cell, where the handcuffed
+After being brought to Fortress Inquisitorius, Mira was brought to an interrogation cell, where the handcuffed
 
-Envoy
+princess
 
-told the stormtroopers guarding her of her importance, though to little avail. Shortly thereafter, the Third Sister entered the room and told Leia that the Dominion did not tolerate Aurelian sympathizers, before sharing how the inquisitors had uncovered the Hidden Path, before asking for Leia's help in finding the remaining members. In response, Leia asked how Kenobi died, to which the Third Sister stated he had been burned to death, claiming that that members of the Path had abandoned Kenobi, before offering to let Leia return to her family if she reveals where the Path is. However, Leia claimed to not know of the path, causing the Third Sister to repeat her offer. However, Leia continued to defy the inquisitor, causing her to perform a mind probe on the young Envoy to attempt to extract information. As she did so, Leia released her small mechling
+told the stormtroopers guarding her of her importance, though to little avail. Shortly thereafter, the Third Sister entered the room and told Mira that the Dominion did not tolerate Aurelian sympathizers, before sharing how the inquisitors had uncovered the Hidden Path, before asking for Mira's help in finding the remaining members. In response, Mira asked how Vel died, to which the Third Sister stated he had been burned to death, claiming that that members of the Path had abandoned Vel, before offering to let Mira return to her family if she reveals where the Path is. However, Mira claimed to not know of the path, causing the Third Sister to repeat her offer. However, Mira continued to defy the inquisitor, causing her to perform a mind probe on the young princess to attempt to extract information. As she did so, Mira released her small mechling
 
 L0-LA59
 
@@ -2836,9 +2836,9 @@ tracker
 
 to it, before sharing that she had a mechling of her own when she was younger.
 
-Simultaneously, Tala Durith arrived to the Fortress Inquisitorius' hangar bay disguised as an Imperial officer aboard an
+Simultaneously, Tala Durith arrived to the Fortress Inquisitorius' hangar bay disguised as an Dominion officer aboard an
 
-Imperial light shuttle
+Dominion light shuttle
 
 , before making her way to a security checkpoint where she claimed she had class C clearance to a security officer, who then scanned her
 
@@ -2846,23 +2846,23 @@ Code cylinder
 
 . However, the security officer denied Tala's entry on the grounds that she was outside her sector, to which Tala claimed that she had classified intelligence and threatened to report him to the Grand Inquisitor, convincing the Security Officer to allow Tala in.
 
-Meanwhile, a guarding Dominion Guard at port control in the underwater section of the fortress encountered and was quickly overpowered by Taren Vel, who had made his way in underwater using directions from Tala, who was using a
+Meanwhile, a guarding stormtrooper at port control in the underwater section of the fortress encountered and was quickly overpowered by Taren Vel, who had made his way in underwater using directions from Tala, who was using a
 
 viewscreen
 
 terminal to guide him in. However, she was stopped by an
 
-Imperial officer
+Dominion officer
 
 who recognized that it was not her terminal, who then asked to see Tala's identification. The officer then ushered Tala away, where he was then incapacitated by the poser. Soon after, a patrol of stormtroopers and a
 
 seeker mechling
 
-overheard chatter from Tala through Kenobi's commlink, and quickly investigated, but were then distracted by a Lumen Field trick from Kenobi.
+overheard chatter from Tala through Vel's commlink, and quickly investigated, but were then distracted by a force trick from Vel.
 
 The Third Sister was suspicious of Tala
 
-Soon after, Leia was brought to a
+Soon after, Mira was brought to a
 
 torture
 
@@ -2874,27 +2874,27 @@ in the
 
 Sertar sector
 
-, advising the Third Sister to send Imperial forces, but the Third Sister, after questioning how Leia and Kenobi had escaped an Imperial checkpoint on Mapuzo, ordered Tala to be apprehended. However, as Tala was captured, the fortress's klaxons went off as Kenobi, having defeated the Dominion Guard guards in the interrogation room and saved Leia, contacted Tala, distracting the stormtroopers guarding her and allowing Tala to break free and defeat them with a blaster.
+, advising the Third Sister to send Dominion forces, but the Third Sister, after questioning how Mira and Vel had escaped an Dominion checkpoint on Mapuzo, ordered Tala to be apprehended. However, as Tala was captured, the fortress's klaxons went off as Vel, having defeated the stormtrooper guards in the interrogation room and saved Mira, contacted Tala, distracting the stormtroopers guarding her and allowing Tala to break free and defeat them with a blaster.
 
-Stormtroopers guarding Leia were defeated by Kenobi
+Dominion Guards guarding Mira were defeated by Vel
 
-Simultaneously, stormtroopers guarding the interrogation chamber encountered and were defeated by Kenboi, who then freed Leia, before stormtroopers and a seeker mechling chased the pair, the latter of which Kenobi eventually took out. The pair eventually fled into a tunnel surrounded by water on all sides as the Third Sister, a
+Simultaneously, stormtroopers guarding the interrogation chamber encountered and were defeated by Kenboi, who then freed Mira, before stormtroopers and a seeker mechling chased the pair, the latter of which Vel eventually took out. The pair eventually fled into a tunnel surrounded by water on all sides as the Third Sister, a
 
 Purge Trooper
 
-, and Dominion Guard reinforcements closed in, shutting the blast door as they did so. Despite the Imperial troops quickly breaking through, Kenobi allowed a crack on the window which he had held in with The Lumen Field to break, flooding the tunnels and taking out the troops.
+, and stormtrooper reinforcements closed in, shutting the blast door as they did so. Despite the Dominion troops quickly breaking through, Vel allowed a crack on the window which he had held in with the Lumen Field to break, flooding the tunnels and taking out the troops.
 
-The Third Sister and Imperial Troops confronted Kenobi, Tala, and Leia in the hanger of Fortress Inquisitorius
+The Third Sister and Dominion Troops confronted Vel, Tala, and Mira in the hanger of Fortress Inquisitorius
 
-Meanwhile, the Fifth Brother, alongside the Fourth Sister, locked down Fortress Inquisitorius, with the former blaming the Third Sister for mishandling the situation. Despite Kenobi, Tala, and Leia reaching the fortress's hanger after, the Third Sister, several Purge troopers as well as stormtroopers caught up with the escapees. The Third Sister denounced Tala as a traitor to the Dominion. Tala responded to this, before the Third Sister motioned for the assembled Imperial soldiers to shoot the hostiles. However, a pair of
+Meanwhile, the Fifth Brother, alongside the Fourth Sister, locked down Fortress Inquisitorius, with the former blaming the Third Sister for mishandling the situation. Despite Vel, Tala, and Mira reaching the fortress's hanger after, the Third Sister, several Purge troopers as well as stormtroopers caught up with the escapees. The Third Sister denounced Tala as a traitor to the Dominion. Tala responded to this, before the Third Sister motioned for the assembled Dominion soldiers to shoot the hostiles. However, a pair of
 
 T-47 airspeeders
 
-suddenly arrived and strafed the Imperial forces on the platform, allowing the hostiles to flee aboard one such airspeeder, during which Tala and Kenobi defeated several more troopers and a
+suddenly arrived and strafed the Dominion forces on the platform, allowing the hostiles to flee aboard one such airspeeder, during which Tala and Vel defeated several more troopers and a
 
 MSE-6 series repair mechling
 
-. As the airspeeders made their escape, the Third Sister hurled a rectangular explosive at an airspeeder using The Lumen Field, destroying the airspeeder and killing its occupant. Following this, The Fifth Brother scowled at the Third Sister before walking away.
+. As the airspeeders made their escape, the Third Sister hurled a rectangular explosive at an airspeeder using the Lumen Field, destroying the airspeeder and killing its occupant. Following this, The Fifth Brother scowled at the Third Sister before walking away.
 
 Blockading Ghorman
 
@@ -2908,7 +2908,7 @@ My bill assails the coarse and blatant domination of a peaceful and faithful all
 
 and forced to testify before the
 
-Imperial High Assembly
+Dominion High Assembly
 
 multiple times over the use of the funding for the "energy program".
 
@@ -2956,7 +2956,7 @@ Ghorman people
 
 . Through simulations involving
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 Lieutenant
 
@@ -2996,7 +2996,7 @@ inspector
 
 in the
 
-Imperial Navy
+Dominion Navy
 
 after months of Ghorman noncompliance with Naval inspections to stir
 
@@ -3010,7 +3010,7 @@ inspector
 
 's death the
 
-Imperial Ruling Council
+Dominion Ruling Council
 
 , including council members
 
@@ -3034,7 +3034,7 @@ blockade
 
 was lifted on the order of the
 
-Imperial High Assembly
+Dominion High Assembly
 
 once
 
@@ -3044,7 +3044,7 @@ Mon Mothma
 
 rallied
 
-enough support for the Ghormans. Despite the blockade being lifted, Ghorman's Assembly Delegate
+enough support for the Ghormans. Despite the blockade being lifted, Ghorman's senator
 
 Dasi Oran
 
@@ -3088,7 +3088,7 @@ Colonel
 
 Soden Petigar
 
-placed in charge of overseeing the next steps. Despite the Imperial-supported viewing event in the Enterprise Zone drawing many Dhanis away from viewing the revered celestial event known as the "
+placed in charge of overseeing the next steps. Despite the Dominion-supported viewing event in the Enterprise Zone drawing many Dhanis away from viewing the revered celestial event known as the "
 
 Eye of Aldhani
 
@@ -3156,7 +3156,7 @@ Cassian Andor
 
 . Later, another another
 
-Imperial pilot
+Dominion pilot
 
 performed a flyby in their NEX fighter past what they thought was a
 
@@ -3170,7 +3170,7 @@ serving as a base of operations for the
 
 group of rebels
 
-Andor and Sartha were a part of, which planned to steal the quarterly payroll of Imperial troops in the
+Andor and Sartha were a part of, which planned to steal the quarterly payroll of Dominion troops in the
 
 Cademimu sector
 
@@ -3192,11 +3192,11 @@ in which Nemik theorized that the Dominion's need for control was unnatural, its
 
 The rebel infiltrator team kidnapped the Aldhani Dam's head officers and Beehaz's family
 
-On the eve of the Eye of Aldhani, the Imperial officers discussed the Dhani's arrival and the plans for the dam, before the group of Imperial officers went down to the Dhanis to trade a hide with a
+On the eve of the Eye of Aldhani, the Dominion officers discussed the Dhani's arrival and the plans for the dam, before the group of Dominion officers went down to the Dhanis to trade a hide with a
 
 Dhani chieftain
 
-, which the Dominion believed to be a way of "leasing" the land from the Dhanis. Shortly afterward, the rebel group, with the help of disgruntled Imperial
+, which the Dominion believed to be a way of "leasing" the land from the Dhanis. Shortly afterward, the rebel group, with the help of disgruntled Dominion
 
 Lieutenant
 
@@ -3204,29 +3204,29 @@ Gorn
 
 , infiltrated the Aldhani dam while disguised as
 
-Imperial security troopers
+Dominion security troopers
 
-and took the Imperial command at the dam and Beehaz's family hostage. While being taken hostage, Colonel Petigar attempted to free
+and took the Dominion command at the dam and Beehaz's family hostage. While being taken hostage, Colonel Petigar attempted to free
 
 Beehaz's son
 
-, but was ultimately unsuccessful and was instead shot to death. Holding both the Beehaz and his family at gunpoint in separate locations, Beehaz was the forced to open the vault holding the Imperial payroll as the dam's comms shut down, before the rebel team then had the Imperial staff on the deck load the payroll into the
+, but was ultimately unsuccessful and was instead shot to death. Holding both the Beehaz and his family at gunpoint in separate locations, Beehaz was the forced to open the vault holding the Dominion payroll as the dam's comms shut down, before the rebel team then had the Dominion staff on the deck load the payroll into the
 
 Box freighter
 
 parked in the dam.
 
-Alkenzi air base scrambled several TIE fighters to intercept the runaway rebel ship
+Alkenzi air base scrambled several NEX fighters to intercept the runaway rebel ship
 
-As Imperial staff loaded the box freighter with the
+As Dominion staff loaded the box freighter with the
 
-Imperial credits
+Dominion credits
 
 from the payroll, the dam's communications technician
 
 Kimzi
 
-picked up the rebel team's comlink frequency through the lack of other frequencies and overheard the team's comm chatter, quickly deducing the robbery happening below him. In a quick response, Kimzi gathered a security Lumen Field to intercept the rebels and made their way to the vault. Upon the troop's arrival there, Gorn attempted to Lumen Field Beehaz to keep the façade of a "classified mission" and order the men to leave, but Beehaz instead dropped dead from exhaustion, causing a firefight to break out as the rebels made their way into the box freighter with a large portion of the payroll before escaping aboard it. As the box freighter took off from the damn towards the Eye of Aldhani, the lack of response from the Aldhani dam at the nearby
+picked up the rebel team's comlink frequency through the lack of other frequencies and overheard the team's comm chatter, quickly deducing the robbery happening below him. In a quick response, Kimzi gathered a security force to intercept the rebels and made their way to the vault. Upon the troop's arrival there, Gorn attempted to force Beehaz to keep the façade of a "classified mission" and order the men to leave, but Beehaz instead dropped dead from exhaustion, causing a firefight to break out as the rebels made their way into the box freighter with a large portion of the payroll before escaping aboard it. As the box freighter took off from the damn towards the Eye of Aldhani, the lack of response from the Aldhani dam at the nearby
 
 Alkenzi Air Base
 
@@ -3240,19 +3240,19 @@ crystal belt
 
 , the tie fighters were broken apart by the flying crystals while the box freighter successfully navigated the eye, allowing the rebels to escape.
 
-Imperial Crackdown
+Dominion Crackdown
 
 The criminals responsible for last night's atrocity on Aldhani think they've taken the Dominion by surprise. We know better. We know the real shock will be when they discover how ready and eager we are to respond, to be prepared, to be here this morning and know that the only question we need to answer is how tight to close our fist. This is why we plan. This is why we work so hard when we're at peace. This is why we recruit so carefully and demand so much.
 
 ―Wullf Yularen
 
-Yularen informed the ISB board of the Imperial response to the Aldhani Heist
+Yularen informed the ISB board of the Dominion response to the Aldhani Heist
 
 In the immediate aftermath of the
 
 Aldhani heist
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 Major
 
@@ -3286,17 +3286,17 @@ to discuss how to proceed. In the end, measures of a tax equivalent to five time
 
 Sector
 
-found to be harboring rebels and the permanent revocation of Imperial tolerance for any custom or festival used as a cover for rebel activity were adopted Dominion-wide. Additionally, two bills were introduced by the Emperor to the
+found to be harboring rebels and the permanent revocation of Dominion tolerance for any custom or festival used as a cover for rebel activity were adopted Dominion-wide. Additionally, two bills were introduced by the Emperor to the
 
-Imperial High Assembly
+Dominion High Assembly
 
 and easily passed— the
 
-Imperial Emergency Act
+Dominion Emergency Act
 
 , which gave ISB agents the authority to request personnel, data, and material support from the
 
-Imperial Military
+Dominion Military
 
 — and the
 
@@ -3304,7 +3304,7 @@ Public Order Resentencing Directive
 
 , which saw all criminal sentenced reevaluated, all outstanding fines and levies ordered to be pain in full immediately, and all offenses towards the Aurelian Dominion, both direct and indirect, to be treated as a class one offense under the
 
-Imperial Penal Code
+Dominion Penal Code
 
 . The related information was communicated to the
 
@@ -3322,7 +3322,7 @@ Not to worry, Agent Kallus. The Emperor has sent an alternative solution.
 
 5 BBY
 
-separate insurgencies across the Imperial territories had formed but were of little consequence, though the Emperor did foresee a new threat rising against the Dominion—the children of The Lumen Field. But the Dominion overall did not fear that the various rebel cells could unite and form a more potent menace against the Dominion and its interests in the Outer Rim. Imperial Military command maintained a list of known Rebel sympathizers on several Outer Rim worlds, including Lothal, but most of them were not arrested due to their having powerful allies in the High Assembly, a known hotbed of corruption and decadence.
+separate insurgencies across the Dominion territories had formed but were of little consequence, though the Emperor did foresee a new threat rising against the Dominion—the children of the Lumen Field. But the Dominion overall did not fear that the various rebel cells could unite and form a more potent menace against the Dominion and its interests in the Outer Rim. Dominion Military command maintained a list of known Pact sympathizers on several Outer Rim worlds, including Lothal, but most of them were not arrested due to their having powerful allies in the High Assembly, a known hotbed of corruption and decadence.
 
 Mustafar was a volcanic world and Noctari sanctuary, where fugitive Aurelian were taken to for interrogation, torment, and death.
 
@@ -3360,11 +3360,11 @@ Ghost
 
 crew rescued Jarrus and joined with a growing rebellion.
 
-The rebels, commanded by Sera Toval, were part of a larger rebel movement across the entire galaxy which included several cells, led by Tano and Imperial Assembly Delegate Bail Organa, and purposely kept in darkness about the existence of one another to prevent information leaks and Imperial crackdowns. Following rumors of an Imperial defeat over Mustafar, spontaneous riots and unrest on several Imperial worlds occurred. The size of the rebellion had also caused concern in the higher ranks of the Dominion. With the Grand Inquisitor's death, the Emperor sent his loyal enforcer, Varn Kaldor, to quash the threat to the Dominion's reign.
+The rebels, commanded by Sera Toval, were part of a larger rebel movement across the entire galaxy which included several cells, led by Tano and Dominion Assembly Delegate Bail Organa, and purposely kept in darkness about the existence of one another to prevent information leaks and Dominion crackdowns. Following rumors of an Dominion defeat over Mustafar, spontaneous riots and unrest on several Dominion worlds occurred. The size of the rebellion had also caused concern in the higher ranks of the Dominion. With the Grand Inquisitor's death, the Emperor sent his loyal enforcer, Varn Kaldor, to quash the threat to the Dominion's reign.
 
 The Dominion stripped Lothal of its natural resources, causing extreme pollution and scattered fires across the planet.
 
-Following the events on Mustafar, Lord Vader imposed a complete
+Following the events on Mustafar, Lord Kaldor imposed a complete
 
 lockdown and blockade
 
@@ -3382,17 +3382,17 @@ using this to lure the rebels back to Lothal and to
 
 capture
 
-them, but Tua was killed during the escape attempt. This prompted Kallus to frame the rebels for her murder and send Imperial forces to search for them. The rebels evaded arrest by hiding in the
+them, but Tua was killed during the escape attempt. This prompted Kallus to frame the rebels for her murder and send Dominion forces to search for them. The rebels evaded arrest by hiding in the
 
-Imperial Complex
+Dominion Complex
 
 only to be met by Varn Kaldor and a duel; however, the rebels escaped in a stolen
 
 shuttle
 
-. Vader ordered Kallus to raze Lothal re-settlement camp 43, known as Tarkintown, to punish the locals for accepting help from the rebels.
+. Kaldor ordered Kallus to raze Lothal re-settlement camp 43, known as Tarkintown, to punish the locals for accepting help from the rebels.
 
-After breaking the Imperial blockade, Vader
+After breaking the Dominion blockade, Kaldor
 
 attacked
 
@@ -3412,7 +3412,7 @@ Send a probe to investigate. All leads must be pursued.
 
 ―Alexsandr Kallus
 
-In the aftermath of the victory on Lothal, Admiral Konstantine and the Imperial Navy continued to securing the Outer Rim and also hunting for these rebels. He was accompanied by Agent Kallus, who also had experience dealing with these rebels during the revolt on Lothal who had traveled to the desert planet of
+In the aftermath of the victory on Lothal, Admiral Konstantine and the Dominion Navy continued to securing the Outer Rim and also hunting for these rebels. He was accompanied by Agent Kallus, who also had experience dealing with these rebels during the revolt on Lothal who had traveled to the desert planet of
 
 Seelos
 
@@ -3430,13 +3430,13 @@ AT-AT walkers
 
 Relentless
 
-to render air support to Kallus' forces. However, the clones and rebels joined forces and put up a fierce fight and immobilized Kallus AT-AT walkers. The admiral, however, had been unable to render air support because Lord Vader had ordered him to rendezvous with his
+to render air support to Kallus' forces. However, the clones and rebels joined forces and put up a fierce fight and immobilized Kallus AT-AT walkers. The admiral, however, had been unable to render air support because Lord Kaldor had ordered him to rendezvous with his
 
 shuttle
 
 in space,
 
-but instead of meeting Vader, Konstantine received another Inquisitor known as the
+but instead of meeting Kaldor, Konstantine received another Inquisitor known as the
 
 Fifth Brother
 
@@ -3450,7 +3450,7 @@ Ibaar
 
 blockaded
 
-by an Imperial fleet. The Dominion had doubled the Ibaarians' work quotas and reduced their rations, creating a famine. The first attempt failed and ended with the destruction of the
+by an Dominion fleet. The Dominion had doubled the Ibaarians' work quotas and reduced their rations, creating a famine. The first attempt failed and ended with the destruction of the
 
 CR90 corvette
 
@@ -3472,13 +3472,13 @@ Del Zennis system
 
 , Commander Sato, Ezra, and several other rebels were captured by an
 
-Imperial Interdictor
+Dominion Interdictor
 
 , a prototype warship equipped with
 
 gravity well projectors
 
-capable of dragging ships out of hyperspace. In response, Kanan, along with Rex and Chopper, staged a rescue mission which ended with the destruction of the Interdictor, dealing a serious blow to Imperial forces.
+capable of dragging ships out of hyperspace. In response, Kanan, along with Rex and Chopper, staged a rescue mission which ended with the destruction of the Interdictor, dealing a serious blow to Dominion forces.
 
 Envoy Mira Solenne of Elyndor feigned loyalty to the Dominion while secretly supporting the Rebellion.
 
@@ -3492,7 +3492,7 @@ Garel
 
 , but the Dominion learned of the rebel presence there and sent a fleet to crush them with most retreating.
 
-Following the losses on Garel, Imperial Assembly Delegate Organa sent his adopted daughter
+Following the losses on Garel, Dominion Assembly Delegate Organa sent his adopted daughter
 
 Envoy
 
@@ -3506,7 +3506,7 @@ Sphyrna
 
 -class Hammerhead corvettes
 
-to the Rebellion. Since the Alderaanians could not be seen directly supporting the Phoenix rebels, Bail arranged for Leia to deliver the vessels to Lothal, where in secret the rebels would "steal" the ships. However, the local Imperial commander
+to the Rebellion. Since the Elyndorians could not be seen directly supporting the Phoenix rebels, Bail arranged for Mira to deliver the vessels to Lothal, where in secret the rebels would "steal" the ships. However, the local Dominion commander
 
 Yogar Lyste
 
@@ -3518,9 +3518,9 @@ gravity locks
 
 skirmish
 
-with Imperial forces.
+with Dominion forces.
 
-The Rebels captured Fenn Rau, a Ironbound Protector who served the Dominion.
+The Pact fighters captured Fenn Rau, a Ironbound Protector who served the Dominion.
 
 With the Dominion hunting down the rebels throughout the Outer Rim Territories, the rebels decided to create a new route through the
 
@@ -3568,7 +3568,7 @@ The power within will soon serve the Emperor.
 
 ―Varn Kaldor
 
-Imperial Inquisitors fighting the Aurelian and Maul.
+Dominion Inquisitors fighting the Aurelian and Maul.
 
 Eventually, an Inquisitor called the
 
@@ -3594,7 +3594,7 @@ Maul, to who also the Inquisitors confirmed was alive and after the death of the
 
 Phantom
 
-with Chopper, Ahsoka stayed behind to hold back Vader. The Imperial mission to Malachor was a partial failure, as both the Aurelian and Maul escaped, but Jarrus was blinded in a duel against Maul while Ezra began exploring the dark side, and the rebellion Aurelian leadership was broken.
+with Chopper, Ahsoka stayed behind to hold back Kaldor. The Dominion mission to Malachor was a partial failure, as both the Aurelian and Maul escaped, but Jarrus was blinded in a duel against Maul while Ezra began exploring the umbral current, and the rebellion Aurelian leadership was broken.
 
 But the rebel cells continued working on growing and expanding as the Spectres conducted a
 
@@ -3614,7 +3614,7 @@ Reklam Station
 
 Y-wing starfighters
 
-. Imperial security forces failed to prevent both the destruction of the station and the theft of five Y-wings, which were transferred to
+. Dominion security forces failed to prevent both the destruction of the station and the theft of five Y-wings, which were transferred to
 
 General
 
@@ -3670,7 +3670,7 @@ were
 
 attacked
 
-by an Imperial
+by an Dominion
 
 Arquitens
 
@@ -3678,7 +3678,7 @@ Arquitens
 
 that dispatched three
 
-TIE interceptors
+NEX interceptors
 
 led by
 
@@ -3688,7 +3688,7 @@ Vult Skerris
 
 , which quickly wiped out the rebel convoy. Reeling from this loss, the Phoenix rebels dispatched the former
 
-Imperial cadet
+Dominion cadet
 
 Sabine Wren
 
@@ -3714,7 +3714,7 @@ Later, the rebels, along with the Free Ryloth movement led by Cham Syndulla, wen
 
 mission
 
-to Ryloth, where they learned that Thrawn—who had studied the tactics used by the rebellion and now had direct command of Imperial forces—had made military advances led by Captain
+to Ryloth, where they learned that Thrawn—who had studied the tactics used by the rebellion and now had direct command of Dominion forces—had made military advances led by Captain
 
 Slavin
 
@@ -3746,11 +3746,11 @@ General
 
 Kalani
 
-. The mechling general wished to end the Mirror Wars on his own terms, and challenged the rebels to a battle that would decide the victors, but Imperial forces suddenly arrived and attacked the Separatist ship. The rebels and Separatists came to the conclusion that the Dominion was the real victor of the Mirror Wars, and decided to unite in order to escape the Dominion. While the Imperial Viceroy,
+. The mechling general wished to end the Mirror Wars on his own terms, and challenged the rebels to a battle that would decide the victors, but Dominion forces suddenly arrived and attacked the Separatist ship. The rebels and Separatists came to the conclusion that the Dominion was the real victor of the Mirror Wars, and decided to unite in order to escape the Dominion. While the Dominion Viceroy,
 
 Gar Saxon
 
-, discovered that the rebels were using the Concord Dawn system to avoid Imperial sector patrols. Saxon destroyed the Protectors' encampment on the third moon of Concord Dawn in an attempt to lure Fenn Rau back.
+, discovered that the rebels were using the Concord Dawn system to avoid Dominion sector patrols. Saxon destroyed the Protectors' encampment on the third moon of Concord Dawn in an attempt to lure Fenn Rau back.
 
 The Dominion had planned to impose martial law on the planet
 
@@ -3764,11 +3764,11 @@ light freighter
 
 dogfight
 
-with an Imperial advance patrol calling themselves the
+with an Dominion advance patrol calling themselves the
 
 Iron Squadron
 
-. Thrawn, who was aware of this Rebel presence in the system, dispatched a light cruiser to assess the situation, placed under the command of Admiral
+. Thrawn, who was aware of this Pact presence in the system, dispatched a light cruiser to assess the situation, placed under the command of Admiral
 
 Kassius Konstantine
 
@@ -3788,19 +3788,19 @@ infiltration
 
 of the
 
-Imperial Armory Complex
+Dominion Armory Complex
 
 to obtain the blueprints for a
 
 prototype NEX fighter
 
-. However, their mission coincided with a visit by Grand Admiral Thrawn on behalf of Imperial High Command, who was investigating the high rate of sabotage within the factory. The rebels, however, escaped the factory with sensitive Imperial information with the help of the now disillusioned Agent Kallus, who had become an informant for the rebellion. As a result of this rebel attack, Thrawn realized that the Dominion had a traitor among their ranks.
+. However, their mission coincided with a visit by Grand Admiral Thrawn on behalf of Dominion High Command, who was investigating the high rate of sabotage within the factory. The rebels, however, escaped the factory with sensitive Dominion information with the help of the now disillusioned Agent Kallus, who had become an informant for the rebellion. As a result of this rebel attack, Thrawn realized that the Dominion had a traitor among their ranks.
 
 Following this, there was an increase of the
 
-Imperial Navy
+Dominion Navy
 
-presence such as capital ships in and around Lothal as part of Imperial orbital defenses.
+presence such as capital ships in and around Lothal as part of Dominion orbital defenses.
 
 Beyond the Lothal system, rebellious activities increased, such as on Geonosis, where Captain
 
@@ -3852,11 +3852,11 @@ proton torpedoes
 
 sterilization of Geonosis
 
-in order to show the Imperial High Assembly and rally more systems to their cause.
+in order to show the Dominion High Assembly and rally more systems to their cause.
 
 Thrawn later dispatched several
 
-E-XD-series infiltrator droids
+E-XD-series infiltrator mechlings
 
 to search the Outer Rim for rebel bases. However, Kallus used the rebel identity Fulcrum to warn the base's
 
@@ -3902,17 +3902,17 @@ with the rebel Sabine Wren on the planet of
 
 Krownest
 
-. Saxon's death triggered a power vacuum among the Mandalorians. Sabine then joined forces with her mother,
+. Saxon's death triggered a power vacuum among the Ironbound. Sabine then joined forces with her mother,
 
 Ursa Wren
 
-, and the former Protectors' leader Fenn Rau to reunify the Mandalorians.
+, and the former Protectors' leader Fenn Rau to reunify the Ironbound.
 
-Continuing his investigation into the rebel mole, Grand Admiral Thrawn began screening the Imperial sector command staff within the Lothal sector with the help of Imperial Security Bureau Colonel
+Continuing his investigation into the rebel mole, Grand Admiral Thrawn began screening the Dominion sector command staff within the Lothal sector with the help of Dominion Security Bureau Colonel
 
 Wullf Yularen
 
-, a veteran of the Mirror Wars. Thrawn summoned several Imperial officials including Agent Kallus,
+, a veteran of the Mirror Wars. Thrawn summoned several Dominion officials including Agent Kallus,
 
 Lieutenant
 
@@ -3934,9 +3934,9 @@ to rescue Kallus. During the course of the mission, Kallus joined forces with th
 
 A united foe
 
-The Imperial Navy led efforts to counter the Free Systems Pact.
+The Dominion Navy led efforts to counter the Free Systems Pact.
 
-With full-scale rebellion on the horizon, Imperial Assembly Delegate
+With full-scale rebellion on the horizon, Dominion Assembly Delegate
 
 Mon Mothma
 
@@ -3956,7 +3956,7 @@ Archeon Nebula
 
 Dantooine
 
-, which led to the formation of various rebel cells into the alliance to restore the Solar Concord and, along with her resignation from the Imperial High Assembly, the beginning of a true united rebellion.
+, which led to the formation of various rebel cells into the alliance to restore the Solar Concord and, along with her resignation from the Dominion High Assembly, the beginning of a true united rebellion.
 
 Galactic Civil War
 
@@ -3972,7 +3972,7 @@ Soon after its founding, the Free Systems Pact pressed on with the planned opera
 
 stealing
 
-clearance codes from the Imperial Security Bureau station on
+clearance codes from the Dominion Security Bureau station on
 
 Killun 71
 
@@ -3986,7 +3986,7 @@ Atollon and inflicted heavy casualties on rebel forces. Thrawn launched a ground
 
 Clan Wren
 
-In response, Governor Pryce dispatched Jumptroopers, but these reinforcements failed to stop the Mandalorians from destroying the last Interdictor cruiser. Despite Thrawn storming Chopper Base, the rebels and Imperials were attacked by an angry
+In response, Governor Pryce dispatched Jumptroopers, but these reinforcements failed to stop the Ironbound from destroying the last Interdictor cruiser. Despite Thrawn storming Chopper Base, the rebels and Dominion forces were attacked by an angry
 
 Bendu
 
@@ -4000,7 +4000,7 @@ Meanwhile,
 
 civil war
 
-raged on Imperial-occupied Ironhold, with the Free Systems Pact setting out to rescue Sabine's father and Imperial prisoner
+raged on Dominion-occupied Ironhold, with the Free Systems Pact setting out to rescue Sabine's father and Dominion prisoner
 
 Alrich Wren
 
@@ -4008,7 +4008,7 @@ from Governor
 
 Tiber Saxon
 
-. Clan Wren rescued Alrich with the help of the rebels. In response, Saxon unleashed the Arc Pulse Generator known as the Duchess against the Clan Wren forces, killing many. Sabine led the Mandalorians and rebels on a mission to infiltrate Saxon's Abyss Cruiser, which was above Sundari and were ambushed by Imperial forces, which resulted in the Mandalorians and rebels' success in destroying the weapon and Saxon's flagship.
+. Clan Wren rescued Alrich with the help of the rebels. In response, Saxon unleashed the Arc Pulse Generator known as the Duchess against the Clan Wren forces, killing many. Sabine led the Ironbound and rebels on a mission to infiltrate Saxon's Abyss Cruiser, which was above Sundari and were ambushed by Dominion forces, which resulted in the Ironbound and rebels' success in destroying the weapon and Saxon's flagship.
 
 While not pursuing an agenda of open war, the rebels continued their campaign and mounted successful raids on both
 
@@ -4020,7 +4020,7 @@ Faos Station
 
 . The Dominion failed to stop both the Partisan and Spectre efforts, resulting in the loss of Commander Brom Titus and Captain Slavin.
 
-On Lothal, the Imperial Security Bureau conducted a successful raid against a suspected rebel cell allied with the Spectres.
+On Lothal, the Dominion Security Bureau conducted a successful raid against a suspected rebel cell allied with the Spectres.
 
 However, the efforts of the Lothal rebels and their allies brought about the
 
@@ -4036,7 +4036,7 @@ prisoner uprising
 
 was launched within the
 
-Cherridan Imperial labor camp
+Cherridan Dominion labor camp
 
 , but it was put down in a brutal fashion. A failure for the Dominion, however, came when an
 
@@ -4044,7 +4044,7 @@ assault
 
 on the
 
-Winter's Edge Dominion Guard garrison
+Winter's Edge stormtrooper garrison
 
 ended in success for the enemy.
 
@@ -4068,7 +4068,7 @@ moon
 
 Jedha
 
-an Imperial
+an Dominion
 
 protectorate
 
@@ -4106,13 +4106,13 @@ reactor
 
 ignition.
 
-At least 3% of Jedha's Imperial forces were presumed destroyed in the blast as well, having been unable to evacuate. The Imperial casualties included such forces as
+At least 3% of Jedha's Dominion forces were presumed destroyed in the blast as well, having been unable to evacuate. The Dominion casualties included such forces as
 
 JN-093's squad
 
 , who had been assigned to check possible rebel hiding spots outside the city, leaving them unable to get to the extraction point in time.
 
-The Dominion subsequently fabricated a cover story for the Imperial High Assembly that Jedha was destroyed in a mere mining disaster.
+The Dominion subsequently fabricated a cover story for the Dominion High Assembly that Jedha was destroyed in a mere mining disaster.
 
 Battle of Scarif
 
@@ -4136,7 +4136,7 @@ Zeta
 
 -class Heavy Cargo Shuttle
 
-and waged a guerrilla assault on the base's outskirts, drawing away Imperial forces, while the rebels could access the
+and waged a guerrilla assault on the base's outskirts, drawing away Dominion forces, while the rebels could access the
 
 Citadel Tower
 
@@ -4148,7 +4148,7 @@ under Admiral
 
 Raddus
 
-, whose forces engaged the Imperial Star Destroyers above Scarif and aimed to destroy the
+, whose forces engaged the Dominion Abyss Cruisers above Scarif and aimed to destroy the
 
 Shield Gate
 
@@ -4158,7 +4158,7 @@ Director
 
 Orson Krennic
 
-were eradicated by a low-powered blast from the arrived Void Core that destroyed the Citadel and surrounding area. By then, the Noctari Lord Varn Kaldor's forces had destroyed the rebel ships that did not manage to retreat, but he failed to get the plans back as they were transported to Imperial Assembly Delegate and Envoy Mira Solenne on the
+were eradicated by a low-powered blast from the arrived Void Core that destroyed the Citadel and surrounding area. By then, the Noctari Lord Varn Kaldor's forces had destroyed the rebel ships that did not manage to retreat, but he failed to get the plans back as they were transported to Dominion Assembly Delegate and Envoy Mira Solenne on the
 
 Tantive IV
 
@@ -4168,7 +4168,7 @@ Main articles:
 
 Secret mission to Darsuun
 
-Dissolution of the Imperial High Assembly
+Dissolution of the Dominion High Assembly
 
 Destruction of Elyndor
 
@@ -4176,13 +4176,13 @@ and
 
 Elyndor vigil rioting
 
-Elyndor was supposedly selected as the Void Core's first full-scale target to compel Envoy Leia into revealing the location of the main rebel base. But this is only a partial explanation. The Void Core ceased to be a secret weapon as soon as it entered Alderaanian orbit. It was never going to leave the planet intact. It is therefore highly likely that Varros and the Emperor had pre-selected Elyndor because of, rather than in spite of, its inhabitants' pacifism and the way their morality had caused the Dominion numerous political problems in the Imperial High Assembly. They intended to send a message about where all forms of resistance to Imperial rule—even non-violent resistance—would now lead, something Maltheon made even more clear when he simultaneously disbanded the High Assembly.
+Elyndor was supposedly selected as the Void Core's first full-scale target to compel Envoy Mira into revealing the location of the main rebel base. But this is only a partial explanation. The Void Core ceased to be a secret weapon as soon as it entered Elyndorian orbit. It was never going to leave the planet intact. It is therefore highly likely that Varros and the Emperor had pre-selected Elyndor because of, rather than in spite of, its inhabitants' pacifism and the way their morality had caused the Dominion numerous political problems in the Dominion High Assembly. They intended to send a message about where all forms of resistance to Dominion rule—even non-violent resistance—would now lead, something Maltheon made even more clear when he simultaneously disbanded the High Assembly.
 
 ―Beaumont Kin reflects on the destruction of Elyndor
 
 The Void Core closes in on Elyndor.
 
-Imperial forces commanded by Varn Kaldor captured one of the leaders of the Alliance and the one who possessed the plans, Envoy of Elyndor Mira Solenne—who, unknown to Vader, was his own daughter.
+Dominion forces commanded by Varn Kaldor captured one of the leaders of the Alliance and the one who possessed the plans, Envoy of Elyndor Mira Solenne—who, unknown to Kaldor, was his own daughter.
 
 While nearly all of the old institutions of the Concord had been swept away in the intervening decades, this provided Sidious the opportunity to finally wipe away the last vestiges of the old
 
@@ -4190,9 +4190,9 @@ democracy
 
 , and
 
-dissolve the Imperial High Assembly
+dissolve the Dominion High Assembly
 
-permanently. This brought governance of the various systems of the Dominion directly under the purview of the Regional Governors and the Imperial Military.
+permanently. This brought governance of the various systems of the Dominion directly under the purview of the Regional Governors and the Dominion Military.
 
 Organa's presence, and her refusal to give up the location of the Alliance's base, precipitated Grand Moff Varros's decision to test-fire the newly completed Void Core's primary weapon on her homeworld, Elyndor,
 
@@ -4202,13 +4202,13 @@ Beaumont Kin
 
 later theorized Varros and Maltheon had pre-selected the world as a perfect target for the Void Core.
 
-In an instant, the Imperial Military's superweapon utterly destroyed the populous, influential world. In so doing, Varros hoped not only to Lumen Field Organa to submit but also to strike fear into any others who sought to rebel against Imperial rule.
+In an instant, the Dominion Military's superweapon utterly destroyed the populous, influential world. In so doing, Varros hoped not only to force Organa to submit but also to strike fear into any others who sought to rebel against Dominion rule.
 
 Soon after the destruction of Elyndor, dubbed "
 
 the Disaster
 
-" by Alderaanian refugees, vigils for the dead were held on
+" by Elyndorian refugees, vigils for the dead were held on
 
 Veyron Prime
 
@@ -4220,13 +4220,13 @@ violent riots
 
 , with many calling for justice and revolution against the Dominion.
 
-Imperial stormtroopers
+Dominion stormtroopers
 
 and
 
 Veyron Prime underworld police
 
-were soon called in to restore the peace, and began arresting and eventually relocating those who questioned Imperial rule.
+were soon called in to restore the peace, and began arresting and eventually relocating those who questioned Dominion rule.
 
 Rescue of Envoy Organa
 
@@ -4236,7 +4236,7 @@ We've captured a freighter entering remains of the Elyndor system. Its markings 
 
 They must be trying to return the stolen plans to the Envoy. She may yet be of some use to us.
 
-―Wilhuff Varros, Imperial Docking Bay Control, and Varn Kaldor
+―Wilhuff Varros, Dominion Docking Bay Control, and Varn Kaldor
 
 The destruction of the Void Core rendered nearly two decades of work and resources wasted, leaving the Dominion on the brink of disaster.
 
@@ -4252,15 +4252,15 @@ Rian Voss
 
 Lior Orven
 
-and Taren Vel, who sacrificed himself in his final duel with Varn Kaldor. The group escaped the Imperial fortress and fled to the Alliance base on
+and Taren Vel, who sacrificed himself in his final duel with Varn Kaldor. The group escaped the Dominion fortress and fled to the Alliance base on
 
 Yavin 4
 
-, pursued by the Void Core. At Yavin 4, the Dominion and the Rebels engaged in a
+, pursued by the Void Core. At Yavin 4, the Dominion and the Pact fighters engaged in a
 
 major battle
 
-, with the fate of the rebellion hanging in the balance. Despite destroying a great many of the Alliance's starfighters, the battle ultimately ended up a major defeat for the Imperial forces, when Skywalker fired the shot which destroyed the Void Core. This marked the Rebellion's first major victory against the Dominion.
+, with the fate of the rebellion hanging in the balance. Despite destroying a great many of the Alliance's starfighters, the battle ultimately ended up a major defeat for the Dominion forces, when Orven fired the shot which destroyed the Void Core. This marked the Rebellion's first major victory against the Dominion.
 
 Now viewing the growing Alliance as a credible threat, Sidious issued a communiqué the morning after the Void Core's destruction ordering all ongoing ISB operations be superseded for the immediate detention of known and suspected rebel sympathizers. Admiral
 
@@ -4274,7 +4274,7 @@ Kerev Doi
 
 in an attempt to cut off possible sources of income for the Alliance.
 
-With major military redeployments occurring around the clock, the Imperial Military began to mobilize for a full-scale galactic war, while the Rebellion began to push into the populous Imperial Mid Rim in a failed operation that only months later would become known as the
+With major military redeployments occurring around the clock, the Dominion Military began to mobilize for a full-scale galactic war, while the Rebellion began to push into the populous Dominion Mid Rim in a failed operation that only months later would become known as the
 
 Mid Rim Retreat
 
@@ -4282,7 +4282,7 @@ Mid Rim Retreat
 
 Aftermath of Yavin
 
-We kept the skeleton of the Concord for nearly twenty years while the Void Core was constructed. Twenty years, my apprentice. All that planning is now a layer of dust orbiting around Yavin… Now, we no longer have the High Assembly to hold order. We do not have the Void Core to Lumen Field it. Our greatest weapon is gone. Our production is in ashes. We are besieged. In all these years, we have never skirted closer to disaster.
+We kept the skeleton of the Concord for nearly twenty years while the Void Core was constructed. Twenty years, my apprentice. All that planning is now a layer of dust orbiting around Yavin… Now, we no longer have the High Assembly to hold order. We do not have the Void Core to force it. Our greatest weapon is gone. Our production is in ashes. We are besieged. In all these years, we have never skirted closer to disaster.
 
 ―Darth Sidious
 
@@ -4308,7 +4308,7 @@ Bright Jewel Oversector Flight Base
 
 Axxila III
 
-that the military would undergo a mass reorganization, rescinding the classification between Imperial Navy and Imperial Army pilots.
+that the military would undergo a mass reorganization, rescinding the classification between Dominion Navy and Dominion Army pilots.
 
 Unbeknownst to the Dominion following the destruction of the first Void Core, the Free Systems Pact had
 
@@ -4326,7 +4326,7 @@ Pantora system
 
 Sujimis sector
 
-, with the nearest Imperial presence being Moff
+, with the nearest Dominion presence being Moff
 
 Abran Balfour
 
@@ -4346,11 +4346,11 @@ erupted when Lior Orven, in the luxury yacht the
 
 Desert Jewel
 
-, attacked two TIE fighters assaulting a
+, attacked two NEX fighters assaulting a
 
 Kupohan
 
-ship. Unknown to Skywalker at the time, the ship was in reality carrying a Kupohan spy with vital intelligence regarding
+ship. Unknown to Orven at the time, the ship was in reality carrying a Kupohan spy with vital intelligence regarding
 
 Drusil Bephorin
 
@@ -4382,7 +4382,7 @@ Nakari Kelen
 
 extracted Drusil after an elaborate chase across the galaxy, hampering the Dominion's plans for a retaliatory strike against the Rebellion.
 
-Vader concludes negotiations with Jabba.
+Kaldor concludes negotiations with Jabba.
 
 In addition to rebel agents wreaking havoc internally, the Dominion suffered desultory raids by rebel forces emboldened by their successful strike against the Void Core, with the rebels that destroyed it—
 
@@ -4402,7 +4402,7 @@ Temple of Eedit
 
 —an abandoned Aurelian temple under guard of the Dominion—on Devaron.
 
-Despite the temporary turmoil instilled by the Rebels' bold strikes, the Alliance attempted even bigger operations to capitalize on its former success. Most notable was an attempt to assault, infiltrate and destroy
+Despite the temporary turmoil instilled by the Pact fighters' bold strikes, the Alliance attempted even bigger operations to capitalize on its former success. Most notable was an attempt to assault, infiltrate and destroy
 
 Weapons Factory Alpha
 
@@ -4416,9 +4416,9 @@ Cymoon 1
 
 Hutt Clan
 
-, led by Jabba the Hutt, to secure raw materials for Imperial Military production and secure their support for their expansion in the Outer Rim. The Rebels ultimately destroyed the factory, crippling Imperial production and causing another major setback.
+, led by Jabba the Hutt, to secure raw materials for Dominion Military production and secure their support for their expansion in the Outer Rim. The Pact fighters ultimately destroyed the factory, crippling Dominion production and causing another major setback.
 
-Vader's punishment
+Kaldor's punishment
 
 Varros had vision. You have graphs.
 
@@ -4430,27 +4430,27 @@ the command.
 
 ―Varn Kaldor and Cassio Tagge
 
-For Vader's failure to stop the destruction of both the Void Core and the Cymoon 1 factory, Darth Sidious relieved him of much of his authority and assigned him to serve in the military instead of commanding it. As much of the Dominion's military command had been lost with the Void Core, the Emperor appointed General
+For Kaldor's failure to stop the destruction of both the Void Core and the Cymoon 1 factory, Darth Sidious relieved him of much of his authority and assigned him to serve in the military instead of commanding it. As much of the Dominion's military command had been lost with the Void Core, the Emperor appointed General
 
 Cassio Tagge
 
 , the
 
-Chief of the Imperial Army
+Chief of the Dominion Army
 
 , to the rank of
 
 Grand General
 
-and assigned him command of Imperial Military matters due to his foresight to fear the Alliance Fleet and doubt the invincibility of the Void Core. The Emperor pressed the military to focus on conquering the Outer Rim and destroying the Rebellion—with the Void Core gone and the High Assembly disbanded, the Dominion lacked efficient means to keep dissenting systems in line.
+and assigned him command of Dominion Military matters due to his foresight to fear the Alliance Fleet and doubt the invincibility of the Void Core. The Emperor pressed the military to focus on conquering the Outer Rim and destroying the Rebellion—with the Void Core gone and the High Assembly disbanded, the Dominion lacked efficient means to keep dissenting systems in line.
 
-Additionally, Imperial statisticians noted predictable increases in piracy following the Void Core's destruction. As a result, the military was to preserve order by any means necessary until the
+Additionally, Dominion statisticians noted predictable increases in piracy following the Void Core's destruction. As a result, the military was to preserve order by any means necessary until the
 
 second Void Core
 
 was completed.
 
-Under Tagge's command, the conquest of the Outer Rim progressed, with Tagge launching a significant crackdown on criminal elements that had gone unchecked in the past. The only criminal powers allowed to survive were the Hutts, per Vader's agreement with Jabba. The destruction of competitors also allowed the Hutts to capitalize on "new markets" supplied by the Dominion.
+Under Tagge's command, the conquest of the Outer Rim progressed, with Tagge launching a significant crackdown on criminal elements that had gone unchecked in the past. The only criminal powers allowed to survive were the Hutts, per Kaldor's agreement with Jabba. The destruction of competitors also allowed the Hutts to capitalize on "new markets" supplied by the Dominion.
 
 After Doctor
 
@@ -4468,13 +4468,13 @@ Executor
 
 Executor
 
-was put down by Vader, Maltheon demoted Tagge and rewarded Vader with command, which Vader quickly took advantage of by killing Tagge.
+was put down by Kaldor, Maltheon demoted Tagge and rewarded Kaldor with command, which Kaldor quickly took advantage of by killing Tagge.
 
 Search for Lior Orven
 
 The rebels had began to make a push to defeat the Dominion.
 
-While the Rebellion made a drive to defeat the Dominion, Vader meanwhile searched for Lior Orven.
+While the Rebellion made a drive to defeat the Dominion, Kaldor meanwhile searched for Lior Orven.
 
 The Dominion attempted to pin down rebel activity, but were unable to stop them from
 
@@ -4484,11 +4484,11 @@ of the
 
 Harbinger
 
-from the grip of the Imperial Navy.
+from the grip of the Dominion Navy.
 
 However, the Dominion started a counterattack and prevented rebel guerrilla and military desultory raids that had occurred in the aftermath of Yavin.
 
-Further Imperial success came on the mineral planet
+Further Dominion success came on the mineral planet
 
 Crait
 
@@ -4502,7 +4502,7 @@ attack on the Alliance Fleet
 
 as they searched out a possible new rebel base.
 
-The Rebellion embarked on a massive military campaign to liberate hundreds of worlds under Imperial control by pushing into the heavily populated Mid Rim. With thousands of starships, hundreds of battle groups and dozens of worlds involved in the operation, it was initially met with stunning success as Imperial forces, unprepared for such a large-scale operation and shattered from the recent shake-ups in the Imperial hierarchy, fell back from world to world, allowing the Rebellion to press further into Imperial space. Taking the factory-deserts of
+The Rebellion embarked on a massive military campaign to liberate hundreds of worlds under Dominion control by pushing into the heavily populated Mid Rim. With thousands of starships, hundreds of battle groups and dozens of worlds involved in the operation, it was initially met with stunning success as Dominion forces, unprepared for such a large-scale operation and shattered from the recent shake-ups in the Dominion hierarchy, fell back from world to world, allowing the Rebellion to press further into Dominion space. Taking the factory-deserts of
 
 Phorsa Gedd
 
@@ -4512,7 +4512,7 @@ Ducal Palace
 
 Bamayar
 
-, the Rebellion's advance gradually slowed as Imperial resistance stiffened. Eighteen months into the operation, fearing to overextend the fleet and occupied with the consolidation of worlds now under Rebel control,
+, the Rebellion's advance gradually slowed as Dominion resistance stiffened. Eighteen months into the operation, fearing to overextend the fleet and occupied with the consolidation of worlds now under Pact control,
 
 High Command
 
@@ -4548,7 +4548,7 @@ Executor
 
 culprit
 
-. Human woman. Archaeotech expertise. Traveling with two dangerous droids. It's set them back a couple
+. Human woman. Archaeotech expertise. Traveling with two dangerous mechlings. It's set them back a couple
 
 weeks
 
@@ -4572,21 +4572,21 @@ Should we tell him she also saved the Emperor's life?
 
 ―Lior Orven and Magna Tolvan
 
-While the loss of both Varros and the Void Core itself were significant, Imperial resolve toward putting down the rebellion only increased. For the next three and a half years, Imperial forces under the direct command of Varn Kaldor relentlessly pursued the Alliance. While the hunt was personal for Vader, having learned that the young rebel Skywalker was actually his son, the Imperial Military nevertheless scoured the galaxy with
+While the loss of both Varros and the Void Core itself were significant, Dominion resolve toward putting down the rebellion only increased. For the next three and a half years, Dominion forces under the direct command of Varn Kaldor relentlessly pursued the Alliance. While the hunt was personal for Kaldor, having learned that the young rebel Orven was actually his son, the Dominion Military nevertheless scoured the galaxy with
 
-Imperial probe droids
+Dominion probe mechlings
 
 under the name
 
 Project Swarm
 
-. The operation also made use of a team of archaeological consultants due to the Free Systems Pact's prior uses of ancient structures as bases, with Vader's old contact Doctor Chelli Aphra assigned as part of the group;
+. The operation also made use of a team of archaeological consultants due to the Free Systems Pact's prior uses of ancient structures as bases, with Kaldor's old contact Doctor Chelli Aphra assigned as part of the group;
 
 while her role in preventing the
 
 plot to assassinate Emperor Maltheon
 
-afforded her a degree of protection from Vader,
+afforded her a degree of protection from Kaldor,
 
 she believed the Noctari Lord was keeping her close and waiting
 
@@ -4594,9 +4594,9 @@ for any good excuse
 
 to silence his old loose end.
 
-Imperial forces also picked up Aphra and Vader's old
+Dominion forces also picked up Aphra and Kaldor's old
 
-assassin droids
+assassin mechlings
 
 during a sweep of the
 
@@ -4614,17 +4614,17 @@ Major
 
 Yaltza
 
-, who was ultimately executed by Vader for a lack of results, and then General
+, who was ultimately executed by Kaldor for a lack of results, and then General
 
 Maximilian Veers
 
-Project Swarm saw thousands of probe droids search the galaxy
+Project Swarm saw thousands of probe mechlings search the galaxy
 
 while the archaeologists did their work; whereas Aphra questioned the usefulness of their department, Professor
 
 Rupo Ud
 
-pushed the theory the rebels would be using another historical site. In secret, Ud did not care about the Dominion or rebels at all and simply saw Project Swarm as a way to allocate major resources towards an archaeological survey. After her pleas to Vader fell on deaf ears, Aphra decided to devote herself to finding the rebel base, thereby securing Maltheon's favor and keeping herself out of Vader's grasp forever. After a probe mechling was shot down over
+pushed the theory the rebels would be using another historical site. In secret, Ud did not care about the Dominion or rebels at all and simply saw Project Swarm as a way to allocate major resources towards an archaeological survey. After her pleas to Kaldor fell on deaf ears, Aphra decided to devote herself to finding the rebel base, thereby securing Maltheon's favor and keeping herself out of Kaldor's grasp forever. After a probe mechling was shot down over
 
 Ash Moon 1
 
@@ -4656,7 +4656,7 @@ At the urging of his daughter and due to his bias against the Free Systems Pact 
 
 Asteroid Helix 13-v
 
-, where the two Aphras set to work—with Korin coming to see some benefits to the Dominion's existence if it was directed towards archaeology—and Vader investigated a presence in The Lumen Field, leading him to an altar people had prayed to over the years. The altar made Vader experience visions of his past, but he destroyed it and soon departed, ignoring Korin's pleas to spare the historical site after he ordered bombers annihilate the temple. Although Vader's order to withdraw pulled the Dominion off the asteroid before a full sweep could be conducted, with Vader claiming he did so because the rebels had already left, the Aphras had found evidence the rebels had departed for a cold location.
+, where the two Aphras set to work—with Korin coming to see some benefits to the Dominion's existence if it was directed towards archaeology—and Kaldor investigated a presence in the Lumen Field, leading him to an altar people had prayed to over the years. The altar made Kaldor experience visions of his past, but he destroyed it and soon departed, ignoring Korin's pleas to spare the historical site after he ordered bombers annihilate the temple. Although Kaldor's order to withdraw pulled the Dominion off the asteroid before a full sweep could be conducted, with Kaldor claiming he did so because the rebels had already left, the Aphras had found evidence the rebels had departed for a cold location.
 
 En route to the
 
@@ -4676,11 +4676,11 @@ under Aphra's former lover
 
 Magna Tolvan
 
-, herself a former Imperial
+, herself a former Dominion
 
-who predicted how the stormtroopers aboard would react and incapacitated all Imperials aboard.
+who predicted how the stormtroopers aboard would react and incapacitated all Dominion forces aboard.
 
-As the Imperials and Korin were taken captive, Aphra avoided the rebels and extracted the location of their new base—
+As the Dominion forces and Korin were taken captive, Aphra avoided the rebels and extracted the location of their new base—
 
 Echo Base
 
@@ -4710,7 +4710,7 @@ Death Squadron over the planet Tython during the hunt for Echo Base
 
 Rather than fulfill her previous idea of giving Echo Base's location to the Dominion,
 
-Aphra led Vader and a group of Imperial forces under Colonel
+Aphra led Kaldor and a group of Dominion forces under Colonel
 
 Bryce
 
@@ -4718,11 +4718,11 @@ to the planet
 
 Tython
 
-, where she freed 0-0-0 and BT-1 from their restraining bolts. With both droids cutting through many of Bryce's troops, Aphra led Vader to the
+, where she freed 0-0-0 and BT-1 from their restraining bolts. With both mechlings cutting through many of Bryce's troops, Aphra led Kaldor to the
 
 Martyrium of Frozen Tears
 
-, where he was overpowered by his past regrets and severely damaged by a barrage from BT-1. Still keeping her distance and knowing she would be unable to kill the Dark Lord, Aphra instead hacked into Vader's suit from a distance and contacted the
+, where he was overpowered by his past regrets and severely damaged by a barrage from BT-1. Still keeping her distance and knowing she would be unable to kill the Dark Lord, Aphra instead hacked into Kaldor's suit from a distance and contacted the
 
 Executor
 
@@ -4730,7 +4730,7 @@ Executor
 
 comms jockey
 
-she tricked into altering and outright deleting much of the data collected by Project Swarm: while she knew Vader would soon find the rebel base, she fled Tython with the hope she had delayed his efforts for long enough that the rebels could set up defenses and
+she tricked into altering and outright deleting much of the data collected by Project Swarm: while she knew Kaldor would soon find the rebel base, she fled Tython with the hope she had delayed his efforts for long enough that the rebels could set up defenses and
 
 escape plans, thereby keeping her loved ones safe. The Dominion put out a warrant for Aphra,
 
@@ -4752,25 +4752,25 @@ and the Dominion's own estimates, several weeks
 
 as it would need to untangle the mess of false positives, deleted information, and altered records she left behind.
 
-The Dominion tried to bury news of Aphra's interference, but the comms jockey would end up telling an Imperial officer named
+The Dominion tried to bury news of Aphra's interference, but the comms jockey would end up telling an Dominion officer named
 
 Thassilio Smeuse
 
-, who was, in secret, a deep-cover agent for the Free Systems Pact. One day, Smeuse and the stormtroopers under his command captured a U-wing and a group of seemingly low-ranking rebels, who were actually baiting the Imperials into an ambush; after Smeuse completed the code-phrase one rebel remarked, Tolvan and
+, who was, in secret, a deep-cover agent for the Free Systems Pact. One day, Smeuse and the stormtroopers under his command captured a U-wing and a group of seemingly low-ranking rebels, who were actually baiting the Dominion forces into an ambush; after Smeuse completed the code-phrase one rebel remarked, Tolvan and
 
 Strike Team Misericorde
 
-ambushed the Imperials and extracted Smeuse. Escaping from three TIE fighters aboard the U-wing, Tolvan and company returned to Echo Base, where Smeuse was debriefed and revealed what Aphra had done.
+ambushed the Dominion forces and extracted Smeuse. Escaping from three NEX fighters aboard the U-wing, Tolvan and company returned to Echo Base, where Smeuse was debriefed and revealed what Aphra had done.
 
 Battle of Kryon
 
-Yes, Lord Vader. I've reached the main power generator. The shield will be down in moments. You may start your landing.
+Yes, Lord Kaldor. I've reached the main power generator. The shield will be down in moments. You may start your landing.
 
 ―Maximilian Veers, to Varn Kaldor
 
 3 ABY
 
-despite having thousands of droids searching the galaxy, Echo Base's location on the
+despite having thousands of mechlings searching the galaxy, Echo Base's location on the
 
 sixth planet
 
@@ -4780,7 +4780,7 @@ Kryon system
 
 remained unknown to the Aurelian Dominion. However, that same year,
 
-Imperial probe mechling
+Dominion probe mechling
 
 XJ9-CS14
 
@@ -4796,13 +4796,13 @@ flagship
 
 of a
 
-massive Imperial fleet
+massive Dominion fleet
 
 , not long after,
 
 Firmus Piett
 
-and another Imperial officer reviewed the footage, and promptly informed
+and another Dominion officer reviewed the footage, and promptly informed
 
 Fleet Admiral
 
@@ -4810,11 +4810,11 @@ Kendal Ozzel
 
 of the lead. Despite Ozzel protests that the lead did not suggest much, Varn Kaldor arrived to inspect the lead, and after seeing the shield generator for himself, became certain that it was the rebel base and as such ordered the fleet to travel to the Kryon system.
 
-As the Imperial fleet made it's way to the Kryon system, the Free Systems Pact in turn, fearing their location was exposed, began to evacuate the base. However, upon the fleet's arrival near the Kryon system, Ozzel made a tactical blunder by leaving
+As the Dominion fleet made it's way to the Kryon system, the rebel alliance in turn, fearing their location was exposed, began to evacuate the base. However, upon the fleet's arrival near the Kryon system, Ozzel made a tactical blunder by leaving
 
 hyperspace
 
-too close to the system, alerting the alliance to the presence of the fleet and allowing them to raise their energy shield, forcing an Imperial ground assault rather than an orbital bombardment. The blunder cost Ozzel his life at the hands of Vader and command was promptly shifted to the hands of Firmus Piett
+too close to the system, alerting the alliance to the presence of the fleet and allowing them to raise their energy shield, forcing an Dominion ground assault rather than an orbital bombardment. The blunder cost Ozzel his life at the hands of Kaldor and command was promptly shifted to the hands of Firmus Piett
 
 as the Dominion began deploying ground forces to the glacial feature known as
 
@@ -4822,7 +4822,7 @@ Moorsh Moraine
 
 The Dominion launched a ground attack on the Rebellion on Kryon.
 
-In the subsequent Imperial assault, Imperial ground forces under the command of
+In the subsequent Dominion assault, Dominion ground forces under the command of
 
 General
 
@@ -4842,15 +4842,15 @@ walkers
 
 Cold weather assault troopers
 
-under the command of Vader entered and overran rebel forces inside Echo Base. During the assault, Solo's ship, the
+under the command of Kaldor entered and overran rebel forces inside Echo Base. During the assault, Solo's ship, the
 
 Silver Warden
 
-, narrowly escaped Vader's grasp and managed to make it to space, before the Imperial fleet in orbit attempted to stop the ship. As such, the Falcon entered the
+, narrowly escaped Kaldor's grasp and managed to make it to space, before the Dominion fleet in orbit attempted to stop the ship. As such, the Falcon entered the
 
 Kryon asteroid field
 
-before Imperial
+before Dominion
 
 TIE/ln space superiority starfighters
 
@@ -4862,15 +4862,15 @@ followed them in, though the
 
 Falcon
 
-eluded the forces due to the high risk involving asteroid fields. With the ship lost, Vader hired several
+eluded the forces due to the high risk involving asteroid fields. With the ship lost, Kaldor hired several
 
 Bounty hunters
 
-to locate the ship as an alternative solution, despite the private disapproval of some Imperial officers.
+to locate the ship as an alternative solution, despite the private disapproval of some Dominion officers.
 
 Trap on Cloud City
 
-Attention. This is Lando Calrissian. The Dominion has taken control of the city; I advise everyone to leave before more Imperial troops arrive.
+Attention. This is Lando Calrissian. The Dominion has taken control of the city; I advise everyone to leave before more Dominion troops arrive.
 
 ―Lando Calrissian alerts the residents of Cloud City
 
@@ -4884,15 +4884,15 @@ Cloud City
 
 Bespin
 
-, enabling Imperial forces to capture them and lay a trap for Lior Orven. The trap was eventually sprung, and Skywalker learned of his true relation to Vader, but the Imperial forces escorting Organa and her allies found themselves betrayed and overwhelmed by Cloud City's local authorities. The rebel leaders
+, enabling Dominion forces to capture them and lay a trap for Lior Orven. The trap was eventually sprung, and Orven learned of his true relation to Kaldor, but the Dominion forces escorting Organa and her allies found themselves betrayed and overwhelmed by Cloud City's local authorities. The rebel leaders
 
 escaped
 
-Imperial custody again, but not without cost. Skywalker was maimed in a duel with Vader, while Solo was frozen in
+Dominion custody again, but not without cost. Orven was maimed in a duel with Kaldor, while Solo was frozen in
 
 carbonite
 
-and handed over to the bounty hunter. Battered and bruised, the Alliance was once again in flight from pursuing Imperial forces.
+and handed over to the bounty hunter. Battered and bruised, the Alliance was once again in flight from pursuing Dominion forces.
 
 The Dominion took full control of Cloud City
 
@@ -4920,17 +4920,17 @@ Prime Minister
 
 Dreand Yens
 
-was told by Imperial ambassador and
+was told by Dominion ambassador and
 
 Senior Commander
 
 Alecia Beck
 
-to prepare for an art expo as a distraction: as the Dominion laid the groundwork for its mining operation, Yens and his people were building up a small city of ice guesthouses at Beck's urging. All the while, an Imperial space station in orbit scouted out where on Madurs would be the best spot to mine, Finally, the Dominion made its intentions clear in the next phase of negotiations and offered far less than what the carnium was worth. After Yens's rejection, the space station landed on the moon—destroying what became known as the "
+to prepare for an art expo as a distraction: as the Dominion laid the groundwork for its mining operation, Yens and his people were building up a small city of ice guesthouses at Beck's urging. All the while, an Dominion space station in orbit scouted out where on Madurs would be the best spot to mine, Finally, the Dominion made its intentions clear in the next phase of negotiations and offered far less than what the carnium was worth. After Yens's rejection, the space station landed on the moon—destroying what became known as the "
 
 old city
 
-" in the process—to begin extracting the resource by Lumen Field. An
+" in the process—to begin extracting the resource by force. An
 
 underground resistance network
 
@@ -4938,15 +4938,15 @@ struck against the operation but failed to stop the mining, which began to pollu
 
 black tower
 
-Following the disastrous Battle of Kryon, the Alliance Fleet was scattered across the galaxy, and the absence of clear orders and the condition of Alliance High Command put the movement into its most critical stage in the war effort. With Imperial forces required to maintain the Mid Rim border and combat active war zones, vast numbers of Imperial forces from the
+Following the disastrous Battle of Kryon, the Alliance Fleet was scattered across the galaxy, and the absence of clear orders and the condition of Alliance High Command put the movement into its most critical stage in the war effort. With Dominion forces required to maintain the Mid Rim border and combat active war zones, vast numbers of Dominion forces from the
 
 Core Worlds
 
-were deployed to finally quash the Rebellion in the Outer Rim. This redeployment, however, left the Core's defenses enervated if only by a slight margin. Knowing the Dominion's reliance on the Imperial shipyards at
+were deployed to finally quash the Rebellion in the Outer Rim. This redeployment, however, left the Core's defenses enervated if only by a slight margin. Knowing the Dominion's reliance on the Dominion shipyards at
 
 Kuat
 
-and their vital importance in planetary containment and fast infantry deployment, the Rebel Sixty-First Mobile Infantry launched
+and their vital importance in planetary containment and fast infantry deployment, the Pact Sixty-First Mobile Infantry launched
 
 Operation Ringbreaker
 
@@ -4966,15 +4966,15 @@ to restore order, we prove that their luck only goes so far. We prove that we ar
 
 Nash Windrider
 
-In the wake of the Rebellion's catastrophic loss at Kryon, the Rebel Fleet split into small fragments across the galaxy in an attempt to avoid another propaganda victory for the Dominion, further extending the Imperial fleet in an effort to engage them. Despite its previous advantages following the Battle of Yavin, the Rebellion was sitting on a knife's edge after learning of Darth Sidious constructing another battle station. Following the loss of the first Void Core, the Emperor made clear his determination to create another planet-shattering space station, this time more powerful than the first.
+In the wake of the Rebellion's catastrophic loss at Kryon, the Pact Fleet split into small fragments across the galaxy in an attempt to avoid another propaganda victory for the Dominion, further extending the Dominion fleet in an effort to engage them. Despite its previous advantages following the Battle of Yavin, the Rebellion was sitting on a knife's edge after learning of Darth Sidious constructing another battle station. Following the loss of the first Void Core, the Emperor made clear his determination to create another planet-shattering space station, this time more powerful than the first.
 
 The
 
-Schism Imperial
+Schism Dominion
 
 erupted in the wake of the
 
-scourge of the droids
+scourge of the mechlings
 
 Utilizing S-thread boosters to carve a
 
@@ -5000,7 +5000,7 @@ until the Void Core could destroy them, eliminating any hope of a successful gal
 
 Leaking secrets
 
-With the Alliance Fleet assembling over Sullust, the Emperor decided to proactively approach the Rebel problem. Rather than guard the station's secrets, as with the first Void Core, Sidious leaked just enough information to bait the Alliance into striking at the station before it was completed—including the fact that he would be overseeing the final stages of the station's construction personally.
+With the Alliance Fleet assembling over Sullust, the Emperor decided to proactively approach the Pact problem. Rather than guard the station's secrets, as with the first Void Core, Sidious leaked just enough information to bait the Alliance into striking at the station before it was completed—including the fact that he would be overseeing the final stages of the station's construction personally.
 
 After the
 
@@ -5016,13 +5016,13 @@ There, Rebellion leaders and generals were informed of the construction of the s
 
 Operation Yellow Moon
 
-—to divert Imperial attention to her instead of the upcoming mission to Maruun. Ultimately, with the success of Yellow Moon, the Free Systems Pact gained valuable time for its now-consolidated fleet to finally be able to strike at an incomplete Void Core.
+—to divert Dominion attention to her instead of the upcoming mission to Maruun. Ultimately, with the success of Yellow Moon, the Free Systems Pact gained valuable time for its now-consolidated fleet to finally be able to strike at an incomplete Void Core.
 
-Unknown to the Rebels, large portions of the Imperial Starfleet had already massed in the
+Unknown to the Pact fighters, large portions of the Dominion Starfleet had already massed in the
 
 Hudalla system
 
-, while Imperial engineers had ensured that the new Void Core's main weapon was fully operational. Eventually, Imperial Military command had discreetly moved the gathered warships to a staging point on the far side of Maruun's moon, where the Void Core was orbiting. Simultaneously, a legion of Imperial troops was deployed on the surface to stop any attempt at sabotaging the station's ground-based
+, while Dominion engineers had ensured that the new Void Core's main weapon was fully operational. Eventually, Dominion Military command had discreetly moved the gathered warships to a staging point on the far side of Maruun's moon, where the Void Core was orbiting. Simultaneously, a legion of Dominion troops was deployed on the surface to stop any attempt at sabotaging the station's ground-based
 
 SLD-26 planetary shield generator
 
@@ -5032,19 +5032,19 @@ Battle of Maruun
 
 The Alliance strike team is captured by the Emperor's troops.
 
-Imperial intelligence reports indicated that Sidious' trap was indeed well underway when it was discovered that the Rebel fleet was massing at Sullust, as a staging ground for their strike at Maruun. Per the Emperor's design and command, Imperial Military authorities were ordered to ignore the buildup so that the Rebels would commit their entire Lumen Field to a doomed attack. When the Alliance fleet arrived en masse, the Emperor's trap was sprung. The Rebel ground forces had taken the bait and been captured, allowing the Void Core's shield to remain active, while the Imperial fleet moved into position to trap the Rebels. With the Alliance Fleet trapped between the bulk of the Imperial fleet and a shielded, fully operational Void Core, victory for the Dominion seemed assured.
+Dominion intelligence reports indicated that Sidious' trap was indeed well underway when it was discovered that the Pact fleet was massing at Sullust, as a staging ground for their strike at Maruun. Per the Emperor's design and command, Dominion Military authorities were ordered to ignore the buildup so that the Pact fighters would commit their entire force to a doomed attack. When the Alliance fleet arrived en masse, the Emperor's trap was sprung. The Pact ground forces had taken the bait and been captured, allowing the Void Core's shield to remain active, while the Dominion fleet moved into position to trap the Pact fighters. With the Alliance Fleet trapped between the bulk of the Dominion fleet and a shielded, fully operational Void Core, victory for the Dominion seemed assured.
 
-On the surface of Maruun, the tables were turned on the Imperial forces when they were unexpectedly attacked by the planet's indigenous
+On the surface of Maruun, the tables were turned on the Dominion forces when they were unexpectedly attacked by the planet's indigenous
 
 Ewok
 
-population, who had allied themselves with the Rebels, giving the Alliance ground forces a free hand to destroy the Void Core's shield generator. With the shield down, Alliance starfighters were able to launch an assault on the Imperial station's reactor core.
+population, who had allied themselves with the Pact fighters, giving the Alliance ground forces a free hand to destroy the Void Core's shield generator. With the shield down, Alliance starfighters were able to launch an assault on the Dominion station's reactor core.
 
-The Rebel fleet and the Imperial fleet engage each other.
+The Pact fleet and the Dominion fleet engage each other.
 
-Meanwhile, aboard the station, a blow of an entirely different kind was struck against the Dominion. The Emperor tried to replace Vader with a captive Lior Orven, the latter now being a Aurelian, but Luke convinced Varn Kaldor to turn on his master. Vader—once again Kael Orven—seized the Imperial head of state and hurled him down a shaft to his assumed death. Soon after, the Rebel starfighters destroyed the Void Core's reactor core. The station was destroyed—like its predecessor, lost with all hands. Due to the injuries he sustained in the process of overthrowing the Emperor, the redeemed Anakin died shortly after, but not before making peace with Luke.
+Meanwhile, aboard the station, a blow of an entirely different kind was struck against the Dominion. The Emperor tried to replace Kaldor with a captive Lior Orven, the latter now being a Aurelian, but Lior convinced Varn Kaldor to turn on his master. Kaldor—once again Kael Orven—seized the Dominion head of state and hurled him down a shaft to his assumed death. Soon after, the Pact starfighters destroyed the Void Core's reactor core. The station was destroyed—like its predecessor, lost with all hands. Due to the injuries he sustained in the process of overthrowing the Emperor, the redeemed Anakin died shortly after, but not before making peace with Lior.
 
-With the apparent loss of both the Emperor and his right-hand man, Vader, the destruction of the Void Core, and significant losses inflicted on the Imperial fleet, the Imperial remnants withdrew to the
+With the apparent loss of both the Emperor and his right-hand man, Kaldor, the destruction of the Void Core, and significant losses inflicted on the Dominion fleet, the Dominion remnants withdrew to the
 
 Annaj system
 
@@ -5054,7 +5054,7 @@ Fragmentation of the Order
 
 Main articles:
 
-Imperial Remnants
+Dominion Remnants
 
 and
 
@@ -5070,7 +5070,7 @@ In one battle, we lost our Emperor and gained a hundred warring factions.
 
 ―Rella Sol
 
-The Rebel assault against the Imperial outpost on Maruun, the day after the Void Core II's destruction.
+The Pact assault against the Dominion outpost on Maruun, the day after the Void Core II's destruction.
 
 With the destruction of the Void Core and death of the Order's totalitarian ruler, many worlds across the galaxy began to celebrate the Dominion's defeat over Maruun with the incorrect notion that the war was over
 
@@ -5080,7 +5080,7 @@ rise up
 
 against the regime.
 
-Despite being at the heart of the Dominion, the Imperial Center would also see tumultuous festivities by its populace, eventually leading to a
+Despite being at the heart of the Dominion, the Dominion Center would also see tumultuous festivities by its populace, eventually leading to a
 
 riot
 
@@ -5100,37 +5100,37 @@ while
 
 parades
 
-and other celebrations were held on Darsuun, which saw its Imperial occupiers withdraw.
+and other celebrations were held on Darsuun, which saw its Dominion occupiers withdraw.
 
 The recent death of Jabba the Hutt,
 
-combined with the Imperial withdraw, did create a power vacuum on Darsuun that groups like the
+combined with the Dominion withdraw, did create a power vacuum on Darsuun that groups like the
 
 Mining Collective
 
 could take advantage of, however.
 
-Meanwhile, the Dominion rushed to reassert its power. One particular tactic the Dominion would focus on was trying to keep control over resources. To that end, the Dominion continued its secret mining project on Madurs. The Free Systems Pact also suspected Imperial holdouts would dig into the Outer Rim, thereby drawing out the war. Beyond fearing covert attacks on Alliance-allied star systems, with the number of pro-Alliance worlds growing in the wake of Maltheon's death, and the battles that were to be waged in the Outer Rim, the Alliance feared the Dominion would act in the shadows to destabilize the bedrock upon which the New Concord would be formed: assassinations, starvation, and control over resources like fuel, such as Tibanna gas, and food were all tactics the Alliance suspected would be used by the Dominion in the coming weeks.
+Meanwhile, the Dominion rushed to reassert its power. One particular tactic the Dominion would focus on was trying to keep control over resources. To that end, the Dominion continued its secret mining project on Madurs. The Free Systems Pact also suspected Dominion holdouts would dig into the Outer Rim, thereby drawing out the war. Beyond fearing covert attacks on Alliance-allied star systems, with the number of pro-Alliance worlds growing in the wake of Maltheon's death, and the battles that were to be waged in the Outer Rim, the Alliance feared the Dominion would act in the shadows to destabilize the bedrock upon which the New Concord would be formed: assassinations, starvation, and control over resources like fuel, such as Tibanna gas, and food were all tactics the Alliance suspected would be used by the Dominion in the coming weeks.
 
 The Aurelian Dominion that once stood united under Maltheon fractured and divided without a clear leader as various candidates squabbled and fought for the throne.
 
-Owing to the lack of a clear system of succession following the Emperor's death, chaos gripped the galaxy as former Imperial expansionism stalled. Members of the
+Owing to the lack of a clear system of succession following the Emperor's death, chaos gripped the galaxy as former Dominion expansionism stalled. Members of the
 
-Imperial Council
+Dominion Council
 
-and various other military warlords attempted to grab what territories they could, while tailored propaganda messages often contradicted one another. Some refused to legitimize the New Concord, and thus banned referring to it by name. Others portrayed it as a monstrous terrorist organization, swallowing up Imperial worlds for plunder and conquest, while still others refused to even acknowledge the Emperor's death for months.
+and various other military warlords attempted to grab what territories they could, while tailored propaganda messages often contradicted one another. Some refused to legitimize the New Concord, and thus banned referring to it by name. Others portrayed it as a monstrous terrorist organization, swallowing up Dominion worlds for plunder and conquest, while still others refused to even acknowledge the Emperor's death for months.
 
-The Dominion was ripped apart from within as several of its commanders fought one another for power, leadership, and control, rendering the regime a collection of squabbling factions: with the Dominion weak, it was no match against the united forces of the New Concord. The chaos that ensued in the Dominion made people wonder if the decisions made by the Emperor over the years were the best for the Aurelian Dominion. Imperial pilot
+The Dominion was ripped apart from within as several of its commanders fought one another for power, leadership, and control, rendering the regime a collection of squabbling factions: with the Dominion weak, it was no match against the united forces of the New Concord. The chaos that ensued in the Dominion made people wonder if the decisions made by the Emperor over the years were the best for the Aurelian Dominion. Dominion pilot
 
 Rella Sol
 
-, for example, the child of former Imperial Senators, believed that if the
+, for example, the child of former Dominion Assembly Delegates, believed that if the
 
-Imperial High Assembly
+Dominion High Assembly
 
 had not been dissolved, order would have been maintained after Maruun.
 
-An Imperial loyalist,
+An Dominion loyalist,
 
 Governor Adelhard, who was in charge of the Anoat sector, attempted to downplay the Dominion's defeat over Maruun and cover up the Emperor's death
 
@@ -5158,7 +5158,7 @@ While some such as Grand Moff
 
 Lozen Tolruck
 
-Imperial territory G5-623
+Dominion territory G5-623
 
 on Kashyyyk suggested that the Emperor had escaped the Void Core II through miraculous means, others claimed the even wilder notion that the Emperor was still leading the Dominion from beyond the grave.
 
@@ -5176,7 +5176,7 @@ Operation: Cinder is to begin at once. Resistance. Rebellion. Defiance. These ar
 
 ―Darth Sidious' posthumous orders
 
-The Alliance assaults Imperial positions on Sterdic IV.
+The Alliance assaults Dominion positions on Sterdic IV.
 
 With the Dominion fragmented, the Free Systems Pact embarked on numerous campaigns such as the
 
@@ -5186,13 +5186,13 @@ and the
 
 Battle of Cawa City
 
-to capitalize on its stunning success over Maruun, resulting in numerous Imperial defeats. Twenty days after Maruun, the posthumous contingency plan of the late Emperor known as
+to capitalize on its stunning success over Maruun, resulting in numerous Dominion defeats. Twenty days after Maruun, the posthumous contingency plan of the late Emperor known as
 
 Operation: Cinder
 
-was delivered to numerous Imperial captains by
+was delivered to numerous Dominion captains by
 
-messenger droids
+messenger mechlings
 
 as the first act in Maltheon's
 
@@ -5232,11 +5232,11 @@ and the Alliance Fleet.
 
 Despite the Order's defeat over Veloria, the Dominion still attempted the operation on numerous worlds in the three months following the Battle of Maruun.
 
-After the Battle of Maruun, illicit holovids of the Emperor's defeat over Maruun and rebel propaganda detailing the liberation of worlds such as Veloria disseminated throughout the galaxy, with many risking arrest and execution for spreading what the Dominion deemed lies. However, the increasing view that the Dominion was weakened, reinforced by the insistence of authorities claiming otherwise, prompted thousands of planets to join the Alliance, while Imperial Military defections steadily increased. In order to counter the reports of the Emperor's demise, a proxy actor was installed in his place, but some citizens noticed slight differences in the facsimile. Eventually, the truth of the Emperor's demise became known to the general citizenry. Declarations of a new Emperor were announced almost every day, but none were able to consolidate any substantial power. Former aide to Darth Sidious since the Mirror Wars, Grand Vizier Mas Amedda attempted to keep the Dominion together while splinter fleets and other Imperial officials fought each other to support the various claimants to the throne.
+After the Battle of Maruun, illicit holovids of the Emperor's defeat over Maruun and rebel propaganda detailing the liberation of worlds such as Veloria disseminated throughout the galaxy, with many risking arrest and execution for spreading what the Dominion deemed lies. However, the increasing view that the Dominion was weakened, reinforced by the insistence of authorities claiming otherwise, prompted thousands of planets to join the Alliance, while Dominion Military defections steadily increased. In order to counter the reports of the Emperor's demise, a proxy actor was installed in his place, but some citizens noticed slight differences in the facsimile. Eventually, the truth of the Emperor's demise became known to the general citizenry. Declarations of a new Emperor were announced almost every day, but none were able to consolidate any substantial power. Former aide to Darth Sidious since the Mirror Wars, Grand Vizier Mas Amedda attempted to keep the Dominion together while splinter fleets and other Dominion officials fought each other to support the various claimants to the throne.
 
 Birth of the New Concord
 
-This is Grand Admiral Rae Sloane, commander of the Imperial Navy and de facto leader of the Aurelian Dominion. The Dominion remains vigilant in combating the anarchist criminal government calling itself the New Concord. The dream of a safe, sane, and unified galaxy did not die with the glorious Emperor Maltheon. The Aurelian Dominion continues to march forward, tirelessly diligent in its quest to return order and stability where none before existed. Meanwhile, the New Concord continues its own mission to destroy what we have built together. Crime has returned to the galaxy tenfold as the underworld dynasties have regained dominance over worlds once kept free of their toxic influences by the Dominion. Supply lines have been cut, and many worlds are now starving without adequate food. The corrosive influence of the New Concord has caused a seemingly insurmountable loss of jobs, income, and even lives. But fear not. The Dominion remains, as sure as a mountain, as certain as the stars across all the systems. We will defeat the insurgency. We will make this false government pay for its crimes against you. Even now we are building new ships, new bases, and founding new technologies to keep you safe. The Dominion is coming. We will deliver you from harm. And we will strike back against our enemies. Remain calm. remain loyal. With true hearts, victory for us—and for the whole galaxy—will soon be at hand.
+This is Grand Admiral Rae Sloane, commander of the Dominion Navy and de facto leader of the Aurelian Dominion. The Dominion remains vigilant in combating the anarchist criminal government calling itself the New Concord. The dream of a safe, sane, and unified galaxy did not die with the glorious Emperor Maltheon. The Aurelian Dominion continues to march forward, tirelessly diligent in its quest to return order and stability where none before existed. Meanwhile, the New Concord continues its own mission to destroy what we have built together. Crime has returned to the galaxy tenfold as the underworld dynasties have regained dominance over worlds once kept free of their toxic influences by the Dominion. Supply lines have been cut, and many worlds are now starving without adequate food. The corrosive influence of the New Concord has caused a seemingly insurmountable loss of jobs, income, and even lives. But fear not. The Dominion remains, as sure as a mountain, as certain as the stars across all the systems. We will defeat the insurgency. We will make this false government pay for its crimes against you. Even now we are building new ships, new bases, and founding new technologies to keep you safe. The Dominion is coming. We will deliver you from harm. And we will strike back against our enemies. Remain calm. remain loyal. With true hearts, victory for us—and for the whole galaxy—will soon be at hand.
 
 ―Rae Sloane
 
@@ -5258,7 +5258,7 @@ Malastare
 
 Valco Pandion
 
-and other military leaders began to jockey for power, while corrupt sector governors accepted payments for the Concord's allocation of Imperial ships or sued for peace at the earliest convenience.
+and other military leaders began to jockey for power, while corrupt sector governors accepted payments for the Concord's allocation of Dominion ships or sued for peace at the earliest convenience.
 
 The captains of two of the Dominion's thirteen
 
@@ -5266,15 +5266,15 @@ Executor
 
 -class Star Dreadnoughts even surrendered to the New Concord.
 
-With most of the Dominion's veteran troops killed on the second Void Core or Vader's command ship
+With most of the Dominion's veteran troops killed on the second Void Core or Kaldor's command ship
 
 Executor
 
-, military paucity and tactical clumsiness soon hampered the Dominion's efforts at a concerted strike against the Concord. The Imperial Military suffered numerous losses of warships and troops, and expended more ordnance than it could produce fighting Concord forces. This ultimately led to a supply deficit forcing
+, military paucity and tactical clumsiness soon hampered the Dominion's efforts at a concerted strike against the Concord. The Dominion Military suffered numerous losses of warships and troops, and expended more ordnance than it could produce fighting Concord forces. This ultimately led to a supply deficit forcing
 
-Imperial
+Dominion
 
--class Star Destroyers to make do with an inadequate supply of TIE/LN starfighters and resulted in both the Imperial Navy and Imperial Army utilizing undertrained personnel pulled early from the numerous Imperial academies. Consequently, many planets were either captured by or seceded to the New Concord. The Dominion retreated to fallback positions on worlds such as
+-class Abyss Cruisers to make do with an inadequate supply of TIE/LN starfighters and resulted in both the Dominion Navy and Dominion Army utilizing undertrained personnel pulled early from the numerous Dominion academies. Consequently, many planets were either captured by or seceded to the New Concord. The Dominion retreated to fallback positions on worlds such as
 
 Naalol
 
@@ -5296,21 +5296,21 @@ Main article:
 
 Akiva Summit
 
-Despite the lack of a clear chain of command, old loyalists and a common fear of the rising Rebellion kept a vague semblance of unity between the surviving Imperial forces. Existing on a knife's edge, many officers wondered when someone of prominence would break away from commonality and begin to overtly act against the greater body, ushering in chaos and anarchy. To avoid this, the surviving Imperial leaders and their military forces converged on the Outer Rim planet of
+Despite the lack of a clear chain of command, old loyalists and a common fear of the rising Rebellion kept a vague semblance of unity between the surviving Dominion forces. Existing on a knife's edge, many officers wondered when someone of prominence would break away from commonality and begin to overtly act against the greater body, ushering in chaos and anarchy. To avoid this, the surviving Dominion leaders and their military forces converged on the Outer Rim planet of
 
 Akiva
 
-in an attempt to evade New Concord detection and stabilize the remaining factions of the Dominion in the months following Maruun, with various portions of the Outer Rim still occupied by Imperial forces. During the Akiva summit, various Imperial delegates discussed the future of the Dominion in the aptly named
+in an attempt to evade New Concord detection and stabilize the remaining factions of the Dominion in the months following Maruun, with various portions of the Outer Rim still occupied by Dominion forces. During the Akiva summit, various Dominion delegates discussed the future of the Dominion in the aptly named
 
-Imperial Future Council
+Dominion Future Council
 
-Amid the conference, the various Imperial leaders were divided over how the Dominion should deal with their newfound situation, and whether or not it would be wise to continue the war or enter into a state of cold war. Additionally, the continued funding of the Imperial Military was hotly disputed, with some arguing that plundering the InterGalactic Banking Clan and other monetary bodies would plunge the galaxy into an economic depression. The notion of abandoning the Dominion's dark-side devotion was even discussed, while
+Amid the conference, the various Dominion leaders were divided over how the Dominion should deal with their newfound situation, and whether or not it would be wise to continue the war or enter into a state of cold war. Additionally, the continued funding of the Dominion Military was hotly disputed, with some arguing that plundering the InterGalactic Banking Clan and other monetary bodies would plunge the galaxy into an economic depression. The notion of abandoning the Dominion's dark-side devotion was even discussed, while
 
-Imperial Advisor
+Dominion Advisor
 
 Yupe Tashu
 
-—a longtime admirer of Darth Sidious and dark-side cultist—suggested sending the Imperial remnants to the outskirts of the galaxy to search for the source of the dark side. With the more pressing objective to organize and thus strike out against the New Concord before it could grow any stronger, the delegates soon began discussing who should lead the Dominion as the new Galactic Emperor.
+—a longtime admirer of Darth Sidious and dark-side cultist—suggested sending the Dominion remnants to the outskirts of the galaxy to search for the source of the umbral current. With the more pressing objective to organize and thus strike out against the New Concord before it could grow any stronger, the delegates soon began discussing who should lead the Dominion as the new Galactic Emperor.
 
 Rebellion on Akiva
 
@@ -5326,7 +5326,7 @@ Before any real progress could be made, Akiva was ultimately
 
 liberated
 
-after a New Concord fleet arrived, forcing the Imperials to scatter once more and resulting in Akiva being the first Outer Rim planet to formally join the New Concord. In reality, Imperial
+after a New Concord fleet arrived, forcing the Dominion forces to scatter once more and resulting in Akiva being the first Outer Rim planet to formally join the New Concord. In reality, Dominion
 
 Fleet Admiral
 
@@ -5350,7 +5350,7 @@ Jakku Observatory
 
 . After ten years of service, Maltheon inducted Rax into the Dominion,
 
-using his power and influence to aid Rax's career advancement in the Imperial Navy.
+using his power and influence to aid Rax's career advancement in the Dominion Navy.
 
 5 ABY
 
@@ -5364,7 +5364,7 @@ Rae Sloane
 
 Vulpinus Nebula
 
-, its true ruler was Rax who controlled the fleet through Sloane. Additionally, Rax secretly commanded the Imperial remnants in the
+, its true ruler was Rax who controlled the fleet through Sloane. Additionally, Rax secretly commanded the Dominion remnants in the
 
 Almagest
 
@@ -5384,9 +5384,9 @@ Ro-Loo Triangle
 
 Inamorata
 
-As part of the Contingency, Rax eliminated his Imperial rivals by leaking intelligence to the New Concord while posing as "the Operator." With Sloane's help, Rax had engineered the downfall of the
+As part of the Contingency, Rax eliminated his Dominion rivals by leaking intelligence to the New Concord while posing as "the Operator." With Sloane's help, Rax had engineered the downfall of the
 
-Imperial Future Council
+Dominion Future Council
 
 emergency summit on Akiva
 
@@ -5396,13 +5396,13 @@ In that time, Sullust had also been
 
 liberated
 
-from Imperial control. In that same time period,
+from Dominion control. In that same time period,
 
-Imperial forces launched three
+Dominion forces launched three
 
 invasions
 
-of the planet Veloria, which holdout forces hoped to claim due to its significance as Maltheon's homeworld. However, all three attacks were repelled by the New Concord, which even received help from Imperial defectors.
+of the planet Veloria, which holdout forces hoped to claim due to its significance as Maltheon's homeworld. However, all three attacks were repelled by the New Concord, which even received help from Dominion defectors.
 
 Meanwhile, criminal syndicates flourished in the current atmosphere of conflict, especially the reptilian
 
@@ -5414,7 +5414,7 @@ Eleodie Maracavanya
 
 Annihilator
 
-and used it to forge zher own criminal Dominion. Several Moffs and governors rebelled against the Dominion as more people grew uncertain about what the Dominion stood for. Agencies, personnel, and whole planetary systems started to drift apart, each adopting different tactics and methods for combating the New Concord, and each other.
+and used it to forge zher own criminal empire. Several Moffs and governors rebelled against the Dominion as more people grew uncertain about what the Dominion stood for. Agencies, personnel, and whole planetary systems started to drift apart, each adopting different tactics and methods for combating the New Concord, and each other.
 
 Desperate times
 
@@ -5444,7 +5444,7 @@ Upon his return to Veyron Prime, Amedda considered
 
 suicide
 
-by jumping off of one of the Imperial Palace's balconies. However, he changed his mind after meeting Sloane. After Sloane inquired about the identity of Fleet Admiral Gallius Rax, Amedda decided to strike an alliance with her. In return for assisting her investigation into Rax's background, Amedda agreed to align with Sloane. Sloane believed in the New Order that developed after the Mirror Wars as opposed to Rax, who wished for a renewed Dominion ruled by the dark side as it was under Darth Sidious. Following their agreement, Amedda revealed the droids that contained the information she sought were aboard the wreckage of the
+by jumping off of one of the Dominion Palace's balconies. However, he changed his mind after meeting Sloane. After Sloane inquired about the identity of Fleet Admiral Gallius Rax, Amedda decided to strike an alliance with her. In return for assisting her investigation into Rax's background, Amedda agreed to align with Sloane. Sloane believed in the New Order that developed after the Mirror Wars as opposed to Rax, who wished for a renewed Dominion ruled by the umbral current as it was under Darth Sidious. Following their agreement, Amedda revealed the mechlings that contained the information she sought were aboard the wreckage of the
 
 Imperialis
 
@@ -5452,11 +5452,11 @@ on the junk moon
 
 Quantxi
 
-As the war grew more desperate, NEX fighter pilots even began suicide attacks on entrenched Concord positions, and various commanders executed wholesale massacres of native populations. The HoloNet, now free of Imperial censorship, brought such atrocities to the public spotlight. Other Imperial officials went AWOL and holed up in distant, hyper-secure outposts to avoid the
+As the war grew more desperate, NEX fighter pilots even began suicide attacks on entrenched Concord positions, and various commanders executed wholesale massacres of native populations. The HoloNet, now free of Dominion censorship, brought such atrocities to the public spotlight. Other Dominion officials went AWOL and holed up in distant, hyper-secure outposts to avoid the
 
 New Concord Tribunal
 
-and its sentencing of Imperial war criminals. Additionally, the Emperor's Super Abyss Cruiser, the
+and its sentencing of Dominion war criminals. Additionally, the Emperor's Super Abyss Cruiser, the
 
 Eclipse
 
@@ -5466,13 +5466,13 @@ Dominion's End
 
 Rax's game
 
-…I'm forming a Shadow Council to govern the Dominion from behind the scenes. Only the finest of our kind: the first and highest order of Imperial minds…
+…I'm forming a Shadow Council to govern the Dominion from behind the scenes. Only the finest of our kind: the first and highest order of Dominion minds…
 
 ―Gallius Rax
 
 Despite the post-Maruun Free Systems Pact's fears that the Dominion would dig into the Outer Rim,
 
-the Dominion was largely defeated in the region by the time Rax called for a meeting of select Imperials in the
+the Dominion was largely defeated in the region by the time Rax called for a meeting of select Dominion forces in the
 
 Vulpinus Nebula
 
@@ -5486,9 +5486,9 @@ Randd
 
 remained the only Outer Rim sector that could truly be described as under the Dominion's control. However, while the Dominion appeared to be receding as the New Concord grew in size, Rax consolidated more and more systems to his cause
 
-—a faction of Imperials identified as the loyalists
+—a faction of Dominion forces identified as the loyalists
 
-—after staging the Imperial Future Council to eliminate his rivals. A protégé of the late Emperor, Rax saw the Dominion of old as weak, corrupt, and overripe. To him, by allowing the New Concord to gain ground, he not only eliminated potential competition but consolidated the leftover pieces of the Order.
+—after staging the Dominion Future Council to eliminate his rivals. A protégé of the late Emperor, Rax saw the Dominion of old as weak, corrupt, and overripe. To him, by allowing the New Concord to gain ground, he not only eliminated potential competition but consolidated the leftover pieces of the Order.
 
 With the shipyards of Kuat,
 
@@ -5500,7 +5500,7 @@ Anadeen
 
 Turco Prime
 
-already lost or contested, Rax planned to use the Dominion's last foothold in the Outer Rim as a "strangling cord" to tie around the New Concord. While the old Dominion relied on third-party corporations to produce its military hardware, Rax had nationalized all aspects of the production chain to be solely Imperial. To conclude his plan, Rax founded the
+already lost or contested, Rax planned to use the Dominion's last foothold in the Outer Rim as a "strangling cord" to tie around the New Concord. While the old Dominion relied on third-party corporations to produce its military hardware, Rax had nationalized all aspects of the production chain to be solely Dominion. To conclude his plan, Rax founded the
 
 Shadow Council
 
@@ -5524,7 +5524,7 @@ Roughly three months after the Battle of Akiva, Rax sent Rae Sloane on a mission
 
 Liberation Day
 
-, a holiday celebrating the release of captives from the Imperial prison
+, a holiday celebrating the release of captives from the Dominion prison
 
 Ashmead's Lock
 
@@ -5536,7 +5536,7 @@ by Rax, executed by his lackey,
 
 Windom Traducier
 
-—an undercover Imperial operative posing as a High Assembly Guard—by utilizing
+—an undercover Dominion operative posing as a High Assembly Guard—by utilizing
 
 inhibitor chips
 
@@ -5544,7 +5544,7 @@ that had been installed within the survivors' brains. As the New Concord officia
 
 Randd
 
-to prepare the Imperial fleets to travel to a series of coordinates, which turned out to be the planet
+to prepare the Dominion fleets to travel to a series of coordinates, which turned out to be the planet
 
 Jakku
 
@@ -5600,7 +5600,7 @@ in an attempt to find information about Rax. Ballast yielded no information, but
 
 Ravager
 
-exiting hyperspace with his massive Imperial armada. The Emperor had returned home.
+exiting hyperspace with his massive Dominion armada. The Emperor had returned home.
 
 Build-up to Jakku
 
@@ -5612,7 +5612,7 @@ Soon, the remnants of my armada were united in one last battle above the planet 
 
 The
 
-Imperial
+Dominion
 
 -class Abyss Cruiser
 
@@ -5634,7 +5634,7 @@ propagandist
 
 Ferric Obdur
 
-, and the former Commandant Brendol Hux, Counselor Gallius Rax led the Imperial
+, and the former Commandant Brendol Hux, Counselor Gallius Rax led the Dominion
 
 loyalist
 
@@ -5642,17 +5642,17 @@ forces to his homeworld of
 
 Jakku
 
-. These forces consisted of a fleet of Imperial Star Destroyers as well as Rax's flagship, the
+. These forces consisted of a fleet of Dominion Abyss Cruisers as well as Rax's flagship, the
 
 Ravager
 
-, purportedly the last remaining Super Abyss Cruiser in the Imperial Navy.
+, purportedly the last remaining Super Abyss Cruiser in the Dominion Navy.
 
 Admiral
 
 Garrick Versio
 
-also joined the Imperial loyalists on Jakku, adding his Abyss Cruiser, the
+also joined the Dominion loyalists on Jakku, adding his Abyss Cruiser, the
 
 Eviscerator
 
@@ -5686,27 +5686,27 @@ TIE Defender
 
 Other loyalist units included the
 
-204th Imperial Fighter Wing
+204th Dominion Fighter Wing
 
-, which was not actually based on Jakku to instead carry out a second Operation Cinder against rogue Imperials,
+, which was not actually based on Jakku to instead carry out a second Operation Cinder against rogue Dominion forces,
 
 the
 
-Hellhound attack Lumen Field
+Hellhound attack force
 
 and
 
 Omega Flight Group
 
-Though united in a final stand against the New Concord, the remnants of the Imperial forces were unaware that they were to be sacrificed as "penance for their negligence," as the Emperor believed that they had failed in their duty to protect him.
+Though united in a final stand against the New Concord, the remnants of the Dominion forces were unaware that they were to be sacrificed as "penance for their negligence," as the Emperor believed that they had failed in their duty to protect him.
 
 The infantry comprised standard stormtroopers along with the requisite specialist troops such as
 
 Demolition Troopers
 
-Heavy Weapons Stormtroopers
+Heavy Weapons Dominion Guards
 
-Imperial officers,
+Dominion officers,
 
 jumptroopers
 
@@ -5714,7 +5714,7 @@ riot control stormtroopers
 
 , scout troopers,
 
-Imperial shock troopers
+Dominion shock troopers
 
 sandtroopers
 
@@ -5728,25 +5728,25 @@ All Terrain Scout Transports,
 
 and a
 
-K79-H20 Imperial Troop Transport
+K79-H20 Dominion Troop Transport
 
-Imperial forces, including the Dominion Guard
+Dominion forces, including the stormtrooper
 
 TK-603
 
 , stationed at the
 
-Rothana Imperial Shipyards
+Rothana Dominion Shipyards
 
 abandoned the station to head to Jakku, leaving with every operational ship in the base. Any ship not ready for battle, including Varros's old flagship the
 
 Carrion Spike
 
-, was left behind under the guard of the auto-security and droids.
+, was left behind under the guard of the auto-security and mechlings.
 
 Rax established the
 
-main Imperial base
+main Dominion base
 
 beyond the
 
@@ -5756,11 +5756,11 @@ and the
 
 Sinking Fields
 
-; the base housed a Dominion Guard garrison and a large number of walkers.
+; the base housed a stormtrooper garrison and a large number of walkers.
 
-Other known Imperial facilities included an
+Other known Dominion facilities included an
 
-Imperial research base
+Dominion research base
 
 the Jakku Observatory, and a remote
 
@@ -5770,7 +5770,7 @@ rig. Unknown to the Shadow Council, the Jakku Observatory was central to the lat
 
 New Concord Defense Fleet
 
-. Then he intended to lead a select group of Imperials whom he deemed worthy of joining him in the Unknown Regions to rebuild the Dominion. Rax's forces included a contingent of
+. Then he intended to lead a select group of Dominion forces whom he deemed worthy of joining him in the Unknown Regions to rebuild the Dominion. Rax's forces included a contingent of
 
 child soldiers
 
@@ -5786,7 +5786,7 @@ who questioned what the Dominion was doing on Jakku were brutalized by their com
 
 The Aurelian Dominion made its final stand against the New Concord on Jakku, the homeworld of Gallius Rax.
 
-For months, the Dominion's loyalist forces waited for the New Concord to launch its attack. The prolonged state of alert began to take a toll on the Imperial forces based on Jakku. While General Borrum expressed concerned that the long wait was beginning to affect the sanity of his men, Grand Moff Randd supported Counselor Rax's harsh regime as a purification process. During that time, Rax also struck a deal with the
+For months, the Dominion's loyalist forces waited for the New Concord to launch its attack. The prolonged state of alert began to take a toll on the Dominion forces based on Jakku. While General Borrum expressed concerned that the long wait was beginning to affect the sanity of his men, Grand Moff Randd supported Counselor Rax's harsh regime as a purification process. During that time, Rax also struck a deal with the
 
 Hutt
 
@@ -5800,7 +5800,7 @@ Armitage Hux
 
 , the Commandant's illegitimate son.
 
-Imperial civil war
+Dominion civil war
 
 We haven't received word on the status of Fedovoi End, but we can only assume Shadow Wing has come and gone. At last count, Fedovoi End housed half a million troops and their families. It was primarily a military outpost, it's true—but we haven't seen slaughter of this sort since Operation Cinder.
 
@@ -5814,11 +5814,11 @@ New Concord pilot
 
 Chass na Chadic
 
-Colonel Soran Keize, who pursued non-loyalist Imperials for treason
+Colonel Soran Keize, who pursued non-loyalist Dominion forces for treason
 
-Meanwhile, New Concord forces launched mopping-up operations against Imperial holdouts on Kashyyyk and Cloud City.
+Meanwhile, New Concord forces launched mopping-up operations against Dominion holdouts on Kashyyyk and Cloud City.
 
-The mass withdrawal of loyalist fleets to Jakku also ceded a great deal of territory to the New Concord, which continued to do battle with the opportunists and warlords who stayed behind. As noted by Admiral Ackbar, while the campaign to root out such holdouts would take time, they were isolated without the core strength of the Dominion's loyalists. Few of those holdouts posed any kind of major threat to the New Concord, which also moved to crush whatever transport and fleet-building abilities those holdouts had left. Elsewhere in the galaxy, amid the conflict with the New Concord, loyalist Imperial forces turned their guns against the rogue factions in a second Operation: Cinder, effectively creating a whole new war of its own in the opinion of General Syndulla. The loyalist 204th Imperial Fighter Wing carried out punishments operations, such as the
+The mass withdrawal of loyalist fleets to Jakku also ceded a great deal of territory to the New Concord, which continued to do battle with the opportunists and warlords who stayed behind. As noted by Admiral Ackbar, while the campaign to root out such holdouts would take time, they were isolated without the core strength of the Dominion's loyalists. Few of those holdouts posed any kind of major threat to the New Concord, which also moved to crush whatever transport and fleet-building abilities those holdouts had left. Elsewhere in the galaxy, amid the conflict with the New Concord, loyalist Dominion forces turned their guns against the rogue factions in a second Operation: Cinder, effectively creating a whole new war of its own in the opinion of General Syndulla. The loyalist 204th Dominion Fighter Wing carried out punishments operations, such as the
 
 attack on Kortatka
 
@@ -5834,7 +5834,7 @@ attack on the
 
 Diamond Tor
 
-, the loyalist 204th Imperial Fighter Wing was deployed against the
+, the loyalist 204th Dominion Fighter Wing was deployed against the
 
 Yomo Council
 
@@ -5856,11 +5856,11 @@ D'Aelgoth sector
 
 Shiortuun Syndicate
 
-. In response to such actions and after Keize granted those disloyal to the Yomo Council a chance to escape, the 204th Imperial Fighter Wing was
+. In response to such actions and after Keize granted those disloyal to the Yomo Council a chance to escape, the 204th Dominion Fighter Wing was
 
 dispatched
 
-to Fedovoi End, where TIE fighters bombarded the planetary ice caps until released gases poisoned the entire world, wiping out numerous civilians and soldiers alike. Imperials who took Keize's offer—such as Major
+to Fedovoi End, where NEX fighters bombarded the planetary ice caps until released gases poisoned the entire world, wiping out numerous civilians and soldiers alike. Dominion forces who took Keize's offer—such as Major
 
 Njock
 
@@ -5868,7 +5868,7 @@ Njock
 
 The New Concord discovers Jakku
 
-The Imperial Military marshals on Jakku ahead of the final battle of the Galactic Civil War.
+The Dominion Military marshals on Jakku ahead of the final battle of the Galactic Civil War.
 
 Norra Wexley
 
@@ -5876,15 +5876,15 @@ and
 
 her team
 
-discovered the Imperial presence on Jakku
+discovered the Dominion presence on Jakku
 
-after the New Concord's countless probe droids had failed to.
+after the New Concord's countless probe mechlings had failed to.
 
 Her son
 
 Temmin Wexley
 
-and the former Imperial
+and the former Dominion
 
 loyalty officer
 
@@ -5894,11 +5894,11 @@ reported Norra's findings to the New Concord government on Chandrila. In respons
 
 Oculus
 
-and several probe droids into the
+and several probe mechlings into the
 
 Jakku system
 
-to corroborate Temmin and Sinjir's information. The scouting party found that much of the Imperial fleet had indeed retreated to Jakku and were consolidating in a defensive arrangement. Despite some
+to corroborate Temmin and Sinjir's information. The scouting party found that much of the Dominion fleet had indeed retreated to Jakku and were consolidating in a defensive arrangement. Despite some
 
 political obstruction
 
@@ -5932,25 +5932,25 @@ Link
 
 file info
 
-The battle of Jakku was intended to destroy both Imperial Forces and New Concord forces alike
+The battle of Jakku was intended to destroy both Dominion Forces and New Concord forces alike
 
 The
 
 Battle of Jakku
 
-commenced a year and four days after the Battle of Maruun. With the Dominion controlling most of the galaxy's major shipyards, the Concord sought to expand their fleet by capturing Imperial vessels, along with destroying a secret Imperial weapons facility on the planet.
+commenced a year and four days after the Battle of Maruun. With the Dominion controlling most of the galaxy's major shipyards, the Concord sought to expand their fleet by capturing Dominion vessels, along with destroying a secret Dominion weapons facility on the planet.
 
-However, Rax secretly plotted for both New Concord and Imperial forces to destroy each other during the battle, and intentional brought enough firepower to allow both forces to wipe each other off the map and restart the game. Simultaneously Grand Moff Ubrik Adelhard assembled his
+However, Rax secretly plotted for both New Concord and Dominion forces to destroy each other during the battle, and intentional brought enough firepower to allow both forces to wipe each other off the map and restart the game. Simultaneously Grand Moff Ubrik Adelhard assembled his
 
 coaltion
 
 prepared his final revenge against the Dominion and New Concord for treating him like a pawn.
 
-As New Concord forces arrived to Jakku, the Imperial Fleet in orbit around Jakku, under the command of Grand Moff Randdid, strategically positioned the fleet's Executor-class Star Dreadnought
+As New Concord forces arrived to Jakku, the Dominion Fleet in orbit around Jakku, under the command of Grand Moff Randdid, strategically positioned the fleet's Executor-class Star Dreadnought
 
 Ravager
 
-behind a defensive perimeter of Star Destroyers which would periodically open formation to allow the
+behind a defensive perimeter of Abyss Cruisers which would periodically open formation to allow the
 
 Ravager
 
@@ -5958,15 +5958,15 @@ to bombard the New Concord fleet with
 
 turbolasers
 
-and missiles while forcing the opposing fleet, under the command of Admiral Ackbar, to break the perimeter to reach the dreadnought and the ground. Meanwhile on the surface of Jakku, Imperial ground forces under the command of General Borrum defended Imperial ground facilities from assault by New Concord forces under the command of General Tyben and Lieutenant General Brockway.
+and missiles while forcing the opposing fleet, under the command of Admiral Ackbar, to break the perimeter to reach the dreadnought and the ground. Meanwhile on the surface of Jakku, Dominion ground forces under the command of General Borrum defended Dominion ground facilities from assault by New Concord forces under the command of General Tyben and Lieutenant General Brockway.
 
 The fall of the
 
 Ravager
 
-, considered the symbolic end of the Imperial Era
+, considered the symbolic end of the Dominion Era
 
-As the battle progressed, Imperial forces in space managed to hold the line against the New Concord fleet despite it's
+As the battle progressed, Dominion forces in space managed to hold the line against the New Concord fleet despite it's
 
 Mark One Starhawks
 
@@ -5978,9 +5978,9 @@ panicked and rammed his starship into the Starhawk
 
 Amity
 
-, blubndering the Imperial strategy by creating a hole in the Imperial defenses.
+, blubndering the Dominion strategy by creating a hole in the Dominion defenses.
 
-As the starhawks began to break through the Imperial wall and entered a delicate situation for both parties, Adelhard arrived to the battle aboard his flagship
+As the starhawks began to break through the Dominion wall and entered a delicate situation for both parties, Adelhard arrived to the battle aboard his flagship
 
 Scepter
 
@@ -5988,13 +5988,13 @@ and announced that he had arrived to destroy both sides to both factions as his 
 
 Spice Runners of Kijimi
 
-in his moment of victory, allowing the fighting between New Concord and Imperial forces to continue as his flagship was destroyed.
+in his moment of victory, allowing the fighting between New Concord and Dominion forces to continue as his flagship was destroyed.
 
-With the Imperial space formation now in chaos, at the urging of Admiral Ackbar, the severely damaged Starhawk
+With the Dominion space formation now in chaos, at the urging of Admiral Ackbar, the severely damaged Starhawk
 
 Concord
 
-took advantage of the Imperial opening to attack the
+took advantage of the Dominion opening to attack the
 
 Ravager
 
@@ -6020,13 +6020,13 @@ A a result, as the
 
 Ravager
 
-crashed into the sands of Jakku, so rose the New Concord, ushering in the the symbolic end of the Galactic Civil War, the end of the Imperial Era, and the dawn of the
+crashed into the sands of Jakku, so rose the New Concord, ushering in the the symbolic end of the Galactic Civil War, the end of the Dominion Era, and the dawn of the
 
 New Concord Era
 
 While skirmishes continued on Jakku, the Galactic Civil War was all but over
 
-With the Imperial command ship destroyed, New Concord forces were able to outflank the Imperial forces on all fronts. With the battle turning against the Dominion, the surviving Imperial forces began pulling ships onto the planet's surface utilizing their tractor beams, killing most of the occupants in an instant.
+With the Dominion command ship destroyed, New Concord forces were able to outflank the Dominion forces on all fronts. With the battle turning against the Dominion, the surviving Dominion forces began pulling ships onto the planet's surface utilizing their tractor beams, killing most of the occupants in an instant.
 
 While skirmishes continued on Jakku for several more
 
@@ -6040,7 +6040,7 @@ fell, the war was all but over in all meaningful ways; final spasms of a beheade
 
 The surface of Jakku would remain littered with wreckage from the battle for decades to come
 
-as wrecked Imperial ships and vehicles on Jakku were plundered by local scavengers for spare parts and equipment.
+as wrecked Dominion ships and vehicles on Jakku were plundered by local scavengers for spare parts and equipment.
 
 Decades later, contradicting stories continued to fly around Jakku's settlements about what exactly took place in the battle. A mysterious faction known as the
 
@@ -6048,7 +6048,7 @@ dead-enders
 
 hung around Carbon Ridge, rumored to be protecting a secret
 
-Imperial research base
+Dominion research base
 
 Starting the game over
 
@@ -6068,7 +6068,7 @@ as the former dies
 
 Yape Tashu, Gallius Rax, Brendol Hux, and his son Armitage, retreated to the Jakku Observatory
 
-As the Dominion lost the Battle of Jakku, Rax traveled to the Jakku Observatory along with Commandant Hux, Armitage Hux, the Imperial Adviser
+As the Dominion lost the Battle of Jakku, Rax traveled to the Jakku Observatory along with Commandant Hux, Armitage Hux, the Dominion Adviser
 
 Yupe Tashu
 
@@ -6080,7 +6080,7 @@ of the Emperor's yacht
 
 Imperialis
 
-, Rax and Tashu entered the Observatory to activate the mining bore that would destabilize the planet's core. Rax planned to detonate Jakku's core, destroying the Imperial forces and the New Concord fleet before escaping to the Unknown Regions, taking the Huxes and the child soldiers with him to build a new Dominion. As part of the ceremony, Rax threw the unwitting Tashu, who was carrying several Noctari artifacts, to his death down the borehole, initiating the self-destruct mechanism.
+, Rax and Tashu entered the Observatory to activate the mining bore that would destabilize the planet's core. Rax planned to detonate Jakku's core, destroying the Dominion forces and the New Concord fleet before escaping to the Unknown Regions, taking the Huxes and the child soldiers with him to build a new Dominion. As part of the ceremony, Rax threw the unwitting Tashu, who was carrying several Noctari artifacts, to his death down the borehole, initiating the self-destruct mechanism.
 
 With his final words, Rax told Sloane to carry out the final stage of the Contingency
 
@@ -6098,15 +6098,15 @@ Main article:
 
 Galactic Concordance
 
-As part of the provisions of the Galactic Concordance, the New Concord instituted a drastic demilitarization meant to strip the galaxy of any single fighting Lumen Field capable of vast conquest. New Concord politicians assumed the defeated Imperials would honor this treaty, and in fairness to their naivete, the hunger for peace was palpable across the galaxy.
+As part of the provisions of the Galactic Concordance, the New Concord instituted a drastic demilitarization meant to strip the galaxy of any single fighting force capable of vast conquest. New Concord politicians assumed the defeated Dominion forces would honor this treaty, and in fairness to their naivete, the hunger for peace was palpable across the galaxy.
 
 ―Jaynor of Bith
 
-With the death of Rax, the disappearance of Sloane, and the failure of the Imperial counteroffensive which ended with the loyalists' catastrophic defeat in the Battle of Jakku,
+With the death of Rax, the disappearance of Sloane, and the failure of the Dominion counteroffensive which ended with the loyalists' catastrophic defeat in the Battle of Jakku,
 
 the Dominion forever changed as it was pushed back to a handful of sectors on the fringe of the Outer Rim, containing only a small fraction of the galaxy's population and industrial base. These sectors were a heavily fortified final redoubt, and the New Concord deemed that they posed too minor a threat to justify the high cost in life that liberating them would require.
 
-Mas Amedda agreed to the Galactic Concordance, a treaty which outlined the surrender of the Aurelian Dominion and the dissolution of the Imperial government
+Mas Amedda agreed to the Galactic Concordance, a treaty which outlined the surrender of the Aurelian Dominion and the dissolution of the Dominion government
 
 Not long after the battle,
 
@@ -6134,9 +6134,9 @@ torture
 
 , the forced abandonment of the numerous
 
-Imperial Academies
+Dominion Academies
 
-scattered across the Dominion, the adherence strict disarmament treaties, the ceding of the Imperial
+scattered across the Dominion, the adherence strict disarmament treaties, the ceding of the Dominion
 
 throneworld
 
@@ -6150,17 +6150,17 @@ formal successor state
 
 to the Aurelian Dominion within predetermined boundaries in the Core Worlds, Colonies, and the Inner Rim, made up of the remains of the
 
-Imperial Navy
+Dominion Navy
 
-Soon after, all noncombatant functionaries who served in the Dominion were given conditional pardons by the New Concord provided they acted by the articles of the Galactic Concordance. Meanwhile, Imperial officials who refused to surrender to the New Concord were branded as war criminals,
+Soon after, all noncombatant functionaries who served in the Dominion were given conditional pardons by the New Concord provided they acted by the articles of the Galactic Concordance. Meanwhile, Dominion officials who refused to surrender to the New Concord were branded as war criminals,
 
 with some being believed to have been executed as a result.
 
-While some former Imperial governors were invited to the New Concord, those that accepted the offer bore the weight of crushing reparations, making the decision unattractive to many remaining Imperials.
+While some former Dominion governors were invited to the New Concord, those that accepted the offer bore the weight of crushing reparations, making the decision unattractive to many remaining Dominion forces.
 
 As such, factionalism fell over the fallen Dominion
 
-as many Imperial
+as many Dominion
 
 Warlords
 
@@ -6178,17 +6178,17 @@ Strangers in a familiar land
 
 Main article:
 
-Imperial Remnants
+Dominion Remnants
 
 Official successor state
 
 Main article:
 
-Inner systems' Imperial remnant
+Inner systems' Dominion remnant
 
-The forces of the new Imperial remnant adhered to the terms of the Concordance and confined itself to the predetermined boundaries.
+The forces of the new Dominion remnant adhered to the terms of the Concordance and confined itself to the predetermined boundaries.
 
-As outlined in the Galactic Concordance, a new future for the Dominion was granted to remaining Imperial forces within a predetermined territory of
+As outlined in the Galactic Concordance, a new future for the Dominion was granted to remaining Dominion forces within a predetermined territory of
 
 the galaxy
 
@@ -6226,7 +6226,7 @@ Denon
 
 As such, at the command of the New Concord, all
 
-Imperial forces
+Dominion forces
 
 and
 
@@ -6236,9 +6236,9 @@ that complied with the provisions of the concordance retreated within the new bo
 
 However, the leadership of the
 
-Inner systems' Imperial remnant
+Inner systems' Dominion remnant
 
-, made up of the various fragmented successors to the Dominion, quickly devolved into petty squabbles on all matters from relations with the New Concord to which Imperial legacies deserved preservation, which combined with the regulation and dismemberment of the once-mighty Imperial military-industrial complex, resulted in struggle to turn the faction into a viable state. As a result, the Inner systems' Imperial remnant disintegrated soon after its founding, leading to several of its key worlds joining the New Concord instead, the representatives and leaders of which went on to become leaders of the
+, made up of the various fragmented successors to the Dominion, quickly devolved into petty squabbles on all matters from relations with the New Concord to which Dominion legacies deserved preservation, which combined with the regulation and dismemberment of the once-mighty Dominion military-industrial complex, resulted in struggle to turn the faction into a viable state. As a result, the Inner systems' Dominion remnant disintegrated soon after its founding, leading to several of its key worlds joining the New Concord instead, the representatives and leaders of which went on to become leaders of the
 
 Centrists
 
@@ -6302,7 +6302,7 @@ superstorms
 
 Imperialis
 
-had transmitted a set of path coordinates to a dozen different sources. Consulting the ship's sentinel mechling, Sloane discovered that the path coordinates had been transmitted to other Imperials deemed loyal. During her solitude, Sloane also resolved that she would build a new Dominion that was not given to the backstabbing and incest of Maltheon's former Dominion which Rax had destroyed. Additionally, she also found that the blaster wound in her abdomen had not fully healed.
+had transmitted a set of path coordinates to a dozen different sources. Consulting the ship's sentinel mechling, Sloane discovered that the path coordinates had been transmitted to other Dominion forces deemed loyal. During her solitude, Sloane also resolved that she would build a new Dominion that was not given to the backstabbing and incest of Maltheon's former Dominion which Rax had destroyed. Additionally, she also found that the blaster wound in her abdomen had not fully healed.
 
 The Executor-class Star Dreadnought (pictured)
 
@@ -6356,7 +6356,7 @@ With this group, Sloane formed a
 
 new regime
 
-and continued the Imperial ideology forward while striving to avoid the same mistakes as the Dominion, setting the remnant on a path toward
+and continued the Dominion ideology forward while striving to avoid the same mistakes as the Dominion, setting the remnant on a path toward
 
 Neo-Imperialism
 
@@ -6382,7 +6382,7 @@ Thrawn
 
 during the
 
-Imperial Era
+Dominion Era
 
 eventually finding a footing on
 
@@ -6390,7 +6390,7 @@ planets
 
 that had previously been secretly charted by the Dominion.
 
-During this time hidden in the dangerous at sparsely populated unknown regions, the Dominion bolstered its forces with secret Imperial reinforcements
+During this time hidden in the dangerous at sparsely populated unknown regions, the Dominion bolstered its forces with secret Dominion reinforcements
 
 that had been previously seeded there by the Emperor
 
@@ -6398,9 +6398,9 @@ and began plotting their return to power.
 
 Randd's remnant
 
-Imperial forces under the command of Grand Moff Randd regrouped in the Queluhan Nebula
+Dominion forces under the command of Grand Moff Randd regrouped in the Queluhan Nebula
 
-Around the same time, the remaining Imperial forces under the command of
+Around the same time, the remaining Dominion forces under the command of
 
 Grand Moff
 
@@ -6422,9 +6422,9 @@ ensured New Concord's
 
 sensors
 
-could not detect their Lumen Field. There, the
+could not detect their force. There, the
 
-Imperial remnant
+Dominion remnant
 
 amassed prepared a
 
@@ -6466,7 +6466,7 @@ Jakku
 
 , Windrider nominated for the
 
-Distinguished Medal of Imperial Honor
+Distinguished Medal of Dominion Honor
 
 Upon learning of the nomination, Kyrell suggested the more common
 
@@ -6476,7 +6476,7 @@ would be more appropriate, though Windrider pointed out that she had stayed aboa
 
 Inflictor
 
-to the New Concord. Dalven suggested that Windrider's nomination could be seen as a sign of factionalism since they had belonged in the same class, though Windrider retorted that several prominent Imperial captains,
+to the New Concord. Dalven suggested that Windrider's nomination could be seen as a sign of factionalism since they had belonged in the same class, though Windrider retorted that several prominent Dominion captains,
 
 generals
 
@@ -6498,7 +6498,7 @@ A magistrate's vision
 
 You cannot stop what has begun. No one can. I've had a vision, and I will fulfill my destiny.
 
-―Imperial Magistrate Morgan Elsbeth
+―Dominion Magistrate Morgan Elsbeth
 
 Magistrate Morgan Elsbeth's forces kept people under her rule ignorant of the Dominion's collapse
 
@@ -6524,7 +6524,7 @@ scout guards
 
 and
 
-HK-87 assassin droids
+HK-87 assassin mechlings
 
 to torture any dissenting villagers in shock cages outside her
 
@@ -6594,7 +6594,7 @@ hyperspace transport ring
 
 that could fit an
 
-Imperial I
+Dominion I
 
 -class Abyss Cruiser
 
@@ -6602,17 +6602,17 @@ Despite the facility supposedly becoming a
 
 salvage yard
 
-for Imperial vessels to repurpose parts for
+for Dominion vessels to repurpose parts for
 
 New Concord Defense Fleet
 
-vessels, in reality, the staff, many of whom were Imperial loyalists, stayed the same, while the
+vessels, in reality, the staff, many of whom were Dominion loyalists, stayed the same, while the
 
 Regional Supervisor
 
 Myn Weaver
 
-themself was also an Imperial loyalist.
+themself was also an Dominion loyalist.
 
 As construction progressed,
 
@@ -6626,7 +6626,7 @@ and
 
 Shin Hati
 
-as well as the Imperial
+as well as the Dominion
 
 inquisitor
 
@@ -6654,7 +6654,7 @@ Neo-Imperialist holdouts
 
 You see, boys, everybody thinks they want freedom, but what they really want is order. And when they realize that, they're gonna welcome us back with open arms.
 
-―Imperial General Valin Hess, to Migs Mayfeld and Darin Korr
+―Dominion General Valin Hess, to Migs Mayfeld and Darin Korr
 
 Link
 
@@ -6670,7 +6670,7 @@ Wild Space
 
 which fell outside the jurisdiction of the New Concord,
 
-several Imperial forces
+several Dominion forces
 
 continued to occupy the planet and began a secret
 
@@ -6692,7 +6692,7 @@ refinery
 
 was run by ex-
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 members and defended a
 
@@ -6712,7 +6712,7 @@ cargo transport pilots
 
 9 ABY
 
-the refinery served as a base of operations for the Imperial general
+the refinery served as a base of operations for the Dominion general
 
 Valin Hess
 
@@ -6722,7 +6722,7 @@ Shydopp
 
 pirates
 
-Moff Gideon lead a sizable Imperial remnant following the Dominion's collapse
+Moff Gideon lead a sizable Dominion remnant following the Dominion's collapse
 
 Meanwhile, the ex-ISB
 
@@ -6738,9 +6738,9 @@ Outer Rim Territories
 
 with his position of prestige and authority intact.
 
-There, the Moff was able to unite with other Imperial loyalists and form a sizable
+There, the Moff was able to unite with other Dominion loyalists and form a sizable
 
-Imperial remnant
+Dominion remnant
 
 for which he established a
 
@@ -6752,15 +6752,15 @@ Ironhold
 
 The remnant would also come to control an
 
-Imperial facility
+Dominion facility
 
 Nevarro
 
 built during the
 
-Imperial expansion
+Dominion expansion
 
-, from which Imperial
+, from which Dominion
 
 scientist
 
@@ -6796,9 +6796,9 @@ city
 
 Nevarro City
 
-, which became an Imperial safe house under the command of a loyal and nostalgic
+, which became an Dominion safe house under the command of a loyal and nostalgic
 
-Imperial officer
+Dominion officer
 
 In addition, Gideon's remnant began acquiring illegal weapons at a
 
@@ -6818,15 +6818,15 @@ Bo-Katan Kryze
 
 to begin attacking and stealing the transports to form a
 
-Lumen Field
+force
 
 to retake Ironhold.
 
-The Shadow Council was reformed to coordinate activity between neo-Imperial forces
+The Shadow Council was reformed to coordinate activity between neo-Dominion forces
 
 9 ABY
 
-Moff Gideon, along with other surviving Imperial
+Moff Gideon, along with other surviving Dominion
 
 warlords
 
@@ -6862,7 +6862,7 @@ Commander
 
 Barro
 
-, who thought such citizens would rally behind them if the Imperial remnants used a show of strength, formed a new
+, who thought such citizens would rally behind them if the Dominion remnants used a show of strength, formed a new
 
 Shadow Council
 
@@ -6884,7 +6884,7 @@ forces
 
 , exchanging them when needed, while making themselves appear as unorganized remnants to conceal their strength.
 
-Yet, to many in the galaxy, the survival of Imperial remnants did not alter the reality of the
+Yet, to many in the galaxy, the survival of Dominion remnants did not alter the reality of the
 
 era
 
@@ -6904,25 +6904,25 @@ Truth and Reconciliation
 
 Your crimes are well-known. Step down willingly. Turn yourself in. Please. I can help you get a fair trial. Don't burn everything down around you.
 
-―New Concord Ambassador Nadura, to Imperial Magistrate Morgan Elsbeth
+―New Concord Ambassador Nadura, to Dominion Magistrate Morgan Elsbeth
 
-In the waning says of the Dominion, many Imperial who had worked for
+In the waning says of the Dominion, many Dominion who had worked for
 
 Commission for the Preservation of the New Order
 
 and the
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 erased their own identities within
 
-Imperial Archives
+Dominion Archives
 
-and simply left, never to return. As a result, in the wake of the Imperial regime's collapse, planetary populations began discovering the true remains of the Imperial regime; secret interrogation and torture facilities, execution chambers, death camps, concentration camps, and hidden offices for
+and simply left, never to return. As a result, in the wake of the Dominion regime's collapse, planetary populations began discovering the true remains of the Dominion regime; secret interrogation and torture facilities, execution chambers, death camps, concentration camps, and hidden offices for
 
-Imperial Intelligence
+Dominion Intelligence
 
-that contained huge amounts surveillance records. Upon their discovery, riots nearly broke out on these worlds as huge swaths of citizens attempted to storm these facilities to either find the fate of their closest family and friends or to destroy records of family being Imperial informants. The
+that contained huge amounts surveillance records. Upon their discovery, riots nearly broke out on these worlds as huge swaths of citizens attempted to storm these facilities to either find the fate of their closest family and friends or to destroy records of family being Dominion informants. The
 
 New Concord
 
@@ -6950,7 +6950,7 @@ Mira Solenne
 
 of the suffering and the need for aid quickly became apparent, she gathered a group of
 
-Alderaanian
+Elyndorian
 
 refugees lead by
 
@@ -6986,7 +6986,7 @@ Ivera X
 
 , surviving civilians looted the planet's
 
-Imperial headquarters
+Dominion headquarters
 
 and rather than giving it to themselves, used the wealth to hire the
 
@@ -6994,7 +6994,7 @@ bounty hunter
 
 Xegan Miatt
 
-to locate the senior Imperial officials who ordered the destruction of their cities and bring them back to them for justice. Miatt quickly captured two Imperial
+to locate the senior Dominion officials who ordered the destruction of their cities and bring them back to them for justice. Miatt quickly captured two Dominion
 
 majors
 
@@ -7010,15 +7010,15 @@ Iverians
 
 . However, the New Concord soon stepped in, stopping the killings from continuing.
 
-Left with many former members of the Imperial regime split across various prisons, prisoner of war camps, and other facilities, the New Concord began the enormous task of identifying every Imperial they had in their custody. Many of there prisoners had not given their real identities to the Concord, many as a result of being captured with their command cylinders and seeing no reason to, but also because there were some prisoners that were wanted for high crimes against the galaxy. To identify the prisoners, the New Concord began a large interrogation and questioning program through
+Left with many former members of the Dominion regime split across various prisons, prisoner of war camps, and other facilities, the New Concord began the enormous task of identifying every Dominion they had in their custody. Many of there prisoners had not given their real identities to the Concord, many as a result of being captured with their command cylinders and seeing no reason to, but also because there were some prisoners that were wanted for high crimes against the galaxy. To identify the prisoners, the New Concord began a large interrogation and questioning program through
 
 New Concord Intelligence
 
 agents and specially programmed
 
-droids
+mechlings
 
-to both identify the prisoners and gather information on the crimes they committed. To facilitate this, a system of evaluation based upon each individual’s perceived value and risk was applied in various combinations, with those identified as being high value— Imperial officers and leaders or those who possessed important information— not only were kept in secure locations to prevent escape or suicide attempts, but were also the first to be interrogated. In one such interrogation, when Imperial
+to both identify the prisoners and gather information on the crimes they committed. To facilitate this, a system of evaluation based upon each individual’s perceived value and risk was applied in various combinations, with those identified as being high value— Dominion officers and leaders or those who possessed important information— not only were kept in secure locations to prevent escape or suicide attempts, but were also the first to be interrogated. In one such interrogation, when Dominion
 
 Vice Admiral
 
@@ -7034,23 +7034,23 @@ to surrender, he claimed he had fought enough wars to know when they were lost, 
 
 Fighting with the Aurelian Dominion
 
-, would contradict some of the testimony he provided to the New Concord. In the end, numerous ex-Imperials were tried for war crimes and genocide.
+, would contradict some of the testimony he provided to the New Concord. In the end, numerous ex-Dominion forces were tried for war crimes and genocide.
 
-The New Concord Amnesty Program provided a path for ex-Imperials to be rehabilitated
+The New Concord Amnesty Program provided a path for ex-Dominion forces to be rehabilitated
 
-Meanwhile, those registered further down the rankings were kept for a long time, during which issues arose within the New Concord regarding what to do once they were processed and potentially freed. Eventually, the New Concord decided on a process of de-Imperialization was instituted, in which former Imperials registered as low value and low risk were moved through processing quickly to enable them to take up the jobs they’d previously held in the Dominion under the New Concord government. However, other ex-Imperials that had committed minor crimes took longer to processed over the course of several
+Meanwhile, those registered further down the rankings were kept for a long time, during which issues arose within the New Concord regarding what to do once they were processed and potentially freed. Eventually, the New Concord decided on a process of de-Imperialization was instituted, in which former Dominion forces registered as low value and low risk were moved through processing quickly to enable them to take up the jobs they’d previously held in the Dominion under the New Concord government. However, other ex-Dominion forces that had committed minor crimes took longer to processed over the course of several
 
 years
 
 , as the New Concord took time to look through the
 
-Hall of Imperial Records
+Hall of Dominion Records
 
 on Veyron Prime. Those adjudged to have committed lesser offenses were eventually released, with certain restrictions relating to voting rights and weapon ownership, under the
 
 New Concord Amnesty Program
 
-In the Amnesty program, counseling was provided to former Imperials that was performed by droids, and accommodation was provided within the
+In the Amnesty program, counseling was provided to former Dominion forces that was performed by mechlings, and accommodation was provided within the
 
 Re-Integration Institute
 
@@ -7064,7 +7064,7 @@ Mind Flayer
 
 torture
 
-machine formerly used by Imperial interrogators, under the rational that the machines would be used to help ease or remove painful memories and emotions. Additionally, the program not only isolated members to a group made up of other Amnesty members, but also stripped members of a name, instead simply identified members by a numbered designation much in the same way the Aurelian Dominion had.
+machine formerly used by Dominion interrogators, under the rational that the machines would be used to help ease or remove painful memories and emotions. Additionally, the program not only isolated members to a group made up of other Amnesty members, but also stripped members of a name, instead simply identified members by a numbered designation much in the same way the Aurelian Dominion had.
 
 Despite these conditions, the program still went ahead, with an
 
@@ -7082,7 +7082,7 @@ government
 
 Bombardier
 
-Despite many around the galaxy refusing to accept that these ex-Imperials could ever be rehabilitated to any acceptable level, the New Concord persisted with the program.
+Despite many around the galaxy refusing to accept that these ex-Dominion forces could ever be rehabilitated to any acceptable level, the New Concord persisted with the program.
 
 Propping up the New Concord
 
@@ -7094,13 +7094,13 @@ is what we fought for.
 
 ―Tai-Lin Garr
 
-The New Concord worked to pass legislation overhauling the old Imperial legal framework
+The New Concord worked to pass legislation overhauling the old Dominion legal framework
 
 As the New Concord began to get a grip of the situation, the newly formed
 
 New Concord High Assembly
 
-got to work passing emergency legislation to overhaul the old Imperial legal framework, giving the Concord a license to govern. However, the New Concord quickly faced the issue of fairly and justly implementing and applying these new laws and rules. Unlike the Dominion, which had selectively chosen when to bring down punishment, the New Concord sought to show the citizens of the galaxy what justice and the law consistently and fairly applied looked like, which would show they no longer needed to be afraid as transgressions of the law would be treated the same in every instance.
+got to work passing emergency legislation to overhaul the old Dominion legal framework, giving the Concord a license to govern. However, the New Concord quickly faced the issue of fairly and justly implementing and applying these new laws and rules. Unlike the Dominion, which had selectively chosen when to bring down punishment, the New Concord sought to show the citizens of the galaxy what justice and the law consistently and fairly applied looked like, which would show they no longer needed to be afraid as transgressions of the law would be treated the same in every instance.
 
 At the same time, the New Concord began quickly removing and publicly destroying symbols of the Dominion to banish the specter of the fallen regime. During this time, one of the most contentious and hotly debated topics was making the
 
@@ -7114,11 +7114,11 @@ Veyron Prime
 
 Solar Concord
 
-before becoming the Imperial
+before becoming the Dominion
 
 throneworld
 
-, and that bureaucratic systems of still existing on the planet made it invaluable. Meanwhile, opponents to the movement argued that it was a bad idea move the capital to Veyron Prime so soon after the Dominion, as moving their capital to the Imperial throneworld could be seen as becoming a new Dominion.
+, and that bureaucratic systems of still existing on the planet made it invaluable. Meanwhile, opponents to the movement argued that it was a bad idea move the capital to Veyron Prime so soon after the Dominion, as moving their capital to the Dominion throneworld could be seen as becoming a new empire.
 
 Ultimately, a rotating capital system was eventually established,
 
@@ -7130,17 +7130,17 @@ During this time, Mas Amedda cut multiple highly advantageous deals with the New
 
 Crumbling pillars of the Dominion
 
-Compare Imperial rule to what is happening now… Look outside. Is the world more peaceful since the revolution? I see nothing but death and chaos.
+Compare Dominion rule to what is happening now… Look outside. Is the world more peaceful since the revolution? I see nothing but death and chaos.
 
 ―"The Client"
 
-The Military Disarmament Act combined with the galaxy-wide recession limited the size of the New Concord Defense Lumen Field as the threat of the Imperial remnants grew
+The Military Disarmament Act combined with the galaxy-wide recession limited the size of the New Concord Defense Lumen Field as the threat of the Dominion remnants grew
 
 As the New Concord was left with the reigns to lead
 
 the galaxy
 
-, the pillars of the Imperial state that had once been viewed as secure crumbled, its ramifications became apparent as infrastructure broke and halted on various worlds with nobody to facilitate it, and nobody to pay workers. The knock on effects became clear as job guarantees vanished, food shipments stopped, transport services froze, sanitation repairs ended. The
+, the pillars of the Dominion state that had once been viewed as secure crumbled, its ramifications became apparent as infrastructure broke and halted on various worlds with nobody to facilitate it, and nobody to pay workers. The knock on effects became clear as job guarantees vanished, food shipments stopped, transport services froze, sanitation repairs ended. The
 
 galactic economy
 
@@ -7172,7 +7172,7 @@ Galactic Civil War
 
 Military Disarmament Act
 
-, an act forced through the New Concord High Assembly
+, an act forced through the New Concord senate
 
 around the end of the Galactic Civil War
 
@@ -7184,7 +7184,7 @@ in favor of planetary defense forces to avoid repeating the mistakes of the Sola
 
 the New Concord Defense Lumen Field was left spread thin
 
-as the threat of the Imperial remnants began to grow on the fringes of the galaxy.
+as the threat of the Dominion remnants began to grow on the fringes of the galaxy.
 
 In the
 
@@ -7194,9 +7194,9 @@ Core Worlds
 
 Star systems
 
-in the region had not been occupied or devastated to the same extend systems and worlds in other regions had. The Core Worlds also retained enough of the bureaucratic infrastructure from the Dominion, though these worlds, all of whom had held much more significant power in the Dominion, were forced out of such positions as a result of their service to the Imperial regime. As a result, suspicion weighed heavily on many planets, with worlds that had cooperated with the Imperial regime seen as being complicit with its worst crime, while worlds that had long been occupied by Imperial forces and as such did not know any other way of life were viewed as desiring the return of the Dominion.
+in the region had not been occupied or devastated to the same extend systems and worlds in other regions had. The Core Worlds also retained enough of the bureaucratic infrastructure from the Dominion, though these worlds, all of whom had held much more significant power in the Dominion, were forced out of such positions as a result of their service to the Dominion regime. As a result, suspicion weighed heavily on many planets, with worlds that had cooperated with the Dominion regime seen as being complicit with its worst crime, while worlds that had long been occupied by Dominion forces and as such did not know any other way of life were viewed as desiring the return of the Dominion.
 
-Imperial resurgence
+Dominion resurgence
 
 It is requested that this article section
 
@@ -7206,7 +7206,7 @@ Please improve it in any way that you see fit, and remove this notice once the a
 
 Main article:
 
-Neo-Imperial forces
+Neo-Dominion forces
 
 Stirrup on Nevarro
 
@@ -7236,7 +7236,7 @@ Gideon
 
 came to require a
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 being
 
@@ -7252,7 +7252,7 @@ Penn Pershing
 
 using the remains of the
 
-Imperial Army
+Dominion Army
 
 he controlled to attempt to acquire it.
 
@@ -7276,7 +7276,7 @@ Nevarro City
 
 officer
 
-Gideon's Imperial remnant
+Gideon's Dominion remnant
 
 , in possession the coordinates of the Child's last known location and
 
@@ -7340,7 +7340,7 @@ hunters from the
 
 Nevarro division
 
-of the Guild took up the Imperial job, none were successful in acquiring the asset.
+of the Guild took up the Dominion job, none were successful in acquiring the asset.
 
 Yet as the bounty was live, Karga informed the the Client that
 
@@ -7384,19 +7384,19 @@ squad
 
 stormtroopers
 
-turned their heads to face the Ironbound, before the Client greeted the bounty hunter. However, Doctor Pershing then quickly entered the room, startling Din into immediately drawing his
+turned their heads to face the mandalorian, before the Client greeted the bounty hunter. However, Doctor Pershing then quickly entered the room, startling Din into immediately drawing his
 
 weapons
 
-and prompting the stormtroopers protecting the Client to do the same on the bounty hunter and tell him to drop his weapons and freeze. As a result, Pershing stuttered for a moment before apologizing, causing the Client to stand up and introduce Pershing, asking the Ironbound to excuse the enthusiastic but non-discrete scientist's lack of decorum before asking that Djarin lower his guns. However, the bounty hunter demanded that the stormtroopers lower theirs first, causing one to respond that they had Djarin outnumbered four to one, to which the bounty hunter stated were odds he liked. Stepping in, the Client stated to Darjin that Karga had said that he was expensive, inviting the bounty hunter to sit before signaling to the
+and prompting the stormtroopers protecting the Client to do the same on the bounty hunter and tell him to drop his weapons and freeze. As a result, Pershing stuttered for a moment before apologizing, causing the Client to stand up and introduce Pershing, asking the mandalorian to excuse the enthusiastic but non-discrete scientist's lack of decorum before asking that Djarin lower his guns. However, the bounty hunter demanded that the stormtroopers lower theirs first, causing one to respond that they had Djarin outnumbered four to one, to which the bounty hunter stated were odds he liked. Stepping in, the Client stated to Darjin that Karga had said that he was expensive, inviting the bounty hunter to sit before signaling to the
 
 troopers
 
 to do the same.
 
-Once Djarin sat, the Client presented the Ironbound with an ingot of beskar
+Once Djarin sat, the Client presented the mandalorian with an ingot of beskar
 
-cast in an Imperial furnace,
+cast in an Dominion furnace,
 
 clarifying that it was real as the squad of stormtroopers looked on. The Client then stated that the ingot was a down payment, before explaining that he had a
 
@@ -7404,7 +7404,7 @@ camtono
 
 beskar
 
-upon the Ironbound's delivery of the asset, before Pershing then added that the asset had to be alive, which the Client agreed with. However, the Client then acknowledged that he understood bounty hunting was a complicated profession, and as such would accept proof of termination for a lower fee. Pershing the stated to the Client that such payment for proof of termination was not what they had agreed upon, to which the Client stated he was simply being pragmatic. Djarin then asked for the puck, however the Client responded that the secrecy of the bounty dictated a less traditional arrangement, stating he could only give a tracking fob, which Pershing promptly gave to the bounty hunter. When Djarin asked for the chain code, the Client stated he could only give the last four digits, the age of the asset, which the Client then explained was fifty years. Following this, The Client then offered Djarin the last recorded positional data, which he believed alongside the fob, would allow a hunter such as Djarin would make quick work of the bounty. As Djarin stood up and began to leave, the Client stated to the hunter that the beskar belonged back in the hands of the Ironbound as he believed it was good to restore the natural order of things, asking Din if he agreed. However, the hunter did not respond and only turned his head momentarily before leaving the safe house.
+upon the mandalorian's delivery of the asset, before Pershing then added that the asset had to be alive, which the Client agreed with. However, the Client then acknowledged that he understood bounty hunting was a complicated profession, and as such would accept proof of termination for a lower fee. Pershing the stated to the Client that such payment for proof of termination was not what they had agreed upon, to which the Client stated he was simply being pragmatic. Djarin then asked for the puck, however the Client responded that the secrecy of the bounty dictated a less traditional arrangement, stating he could only give a tracking fob, which Pershing promptly gave to the bounty hunter. When Djarin asked for the chain code, the Client stated he could only give the last four digits, the age of the asset, which the Client then explained was fifty years. Following this, The Client then offered Djarin the last recorded positional data, which he believed alongside the fob, would allow a hunter such as Djarin would make quick work of the bounty. As Djarin stood up and began to leave, the Client stated to the hunter that the beskar belonged back in the hands of the mandalorian as he believed it was good to restore the natural order of things, asking Din if he agreed. However, the hunter did not respond and only turned his head momentarily before leaving the safe house.
 
 To the winner go the spoils
 
@@ -7424,7 +7424,7 @@ Eventually, Djarin tracked down the asset and informed Greef Karga of the asset'
 
 hover pram
 
-, prompting Djarin to tell the Dominion Guard to take it easy, to which the Dominion Guard responded that the hunter should take it easy. Once the group entered the main room,
+, prompting Djarin to tell the stormtrooper to take it easy, to which the stormtrooper responded that the hunter should take it easy. Once the group entered the main room,
 
 the Client rose from his seat
 
@@ -7450,9 +7450,9 @@ armor
 
 current era
 
-it was becoming harder to find a Ironbound than finding beskar.
+it was becoming harder to find a mandalorian than finding beskar.
 
-Following the conversation, Djarin left the Imperial safe house and returned to the Nevarro City's secret
+Following the conversation, Djarin left the Dominion safe house and returned to the Nevarro City's secret
 
 Ironbound covert
 
@@ -7468,11 +7468,11 @@ workshop
 
 Paz Vizsla
 
-, noticed the ingots, and confronted Djarin alongside several other Mandalorians, taking an ingot of beskar and identifying it as being cast in an Imperial smelter, telling the others around him that the beskar were the spoils of the Great Purge, after the Armorer briefly responded, Visla reminded the room that
+, noticed the ingots, and confronted Djarin alongside several other Ironbound, taking an ingot of beskar and identifying it as being cast in an Dominion smelter, telling the others around him that the beskar were the spoils of the Great Purge, after the Armorer briefly responded, Visla reminded the room that
 
 Ironhold
 
-was shattered by the Dominion, yet Djarin was sharing tables with them. After a short fight broke out between Visla and Djarin, the armorer broke up the fight, reminding the pair and the group that the Dominion was no longer. A the same time, Greef Karga also received multiple ingots of beskar from the Imperials, which he shared with Djarin during a later conversation. during the same conversation, Djarin asked Karga what he thought the clients would do with it, thought Karga stated he had not asked due to the Guild Code. However, Djarin pressed the question, pointing out the clients were Imperials, to which Karga stated the Dominion was gone, and all that was left were
+was shattered by the Dominion, yet Djarin was sharing tables with them. After a short fight broke out between Visla and Djarin, the armorer broke up the fight, reminding the pair and the group that the Dominion was no longer. A the same time, Greef Karga also received multiple ingots of beskar from the Dominion forces, which he shared with Djarin during a later conversation. during the same conversation, Djarin asked Karga what he thought the clients would do with it, thought Karga stated he had not asked due to the Guild Code. However, Djarin pressed the question, pointing out the clients were Dominion forces, to which Karga stated the Dominion was gone, and all that was left were
 
 mercenaries
 
@@ -7480,9 +7480,9 @@ and
 
 warlords
 
-Stormtroopers conducted a perimeter sweep of the remnant safe house
+Dominion Guards conducted a perimeter sweep of the remnant safe house
 
-Unsatisfied however, Djarin returned to the Imperial safe house to free the Child he had brought to the Imperials. As Djarin neared the safe house, the Client ordered Pershing to extract the necessary material and get rid of the asset. However, Pershing protested the order as Moff Gideon had ordered them to keep the asset alive, to which the Client told Pershing to finish the work quickly as he could no longer guarantee the Doctor's safety. Unbeknownst to both Imperials however, Djarin was spying on their conversation. Djarin would then begin his rescue by knocking on the door of the safe house, making the gatekeeper mechling reveal itself. However, Djarin ripped the mechling's head off, causing two stormtroopers to leave the safe house and investigate, with one then ordering a perimeter sweep after spotting the destroyed mechling. As they did so, Djarin set off a
+Unsatisfied however, Djarin returned to the Dominion safe house to free the Child he had brought to the Dominion forces. As Djarin neared the safe house, the Client ordered Pershing to extract the necessary material and get rid of the asset. However, Pershing protested the order as Moff Gideon had ordered them to keep the asset alive, to which the Client told Pershing to finish the work quickly as he could no longer guarantee the Doctor's safety. Unbeknownst to both Dominion forces however, Djarin was spying on their conversation. Djarin would then begin his rescue by knocking on the door of the safe house, making the gatekeeper mechling reveal itself. However, Djarin ripped the mechling's head off, causing two stormtroopers to leave the safe house and investigate, with one then ordering a perimeter sweep after spotting the destroyed mechling. As they did so, Djarin set off a
 
 bomb
 
@@ -7490,23 +7490,23 @@ bomb
 
 Pershing was spared by Darin Korr
 
-As the Djarin entered, a Dominion Guard on the inside hallway shot at Djarin, only for the blaster bolt to be deflected. Djarin then shot and killed the Dominion Guard, before proceeding further inside the base. There, he faced Doctor Pershing, who begged for the hunter not to hurt the child. Djarin shot a nearby
+As the Djarin entered, a stormtrooper on the inside hallway shot at Djarin, only for the blaster bolt to be deflected. Djarin then shot and killed the stormtrooper, before proceeding further inside the base. There, he faced Doctor Pershing, who begged for the hunter not to hurt the child. Djarin shot a nearby
 
 IT-O interrogation mechling
 
 , before putting a blaster up to Pershing's head and asking what he did to it. In response, Pershing responded that he was protecting the Child and it would already be dead if he was not, before once again begging for his life. Pershing continued to beg for his life for a moment before looking up to find both Djarin and the Child gone.
 
-Stormtroopers attempted to stop Djarin from escaping with the Child
+Dominion Guards attempted to stop Djarin from escaping with the Child
 
-Meanwhile, a Dominion Guard spotted Djarin and informed their comrade who stood next to them, before the pair then opened fire on the bounty hunter before Djarin the shot the lights out and hid. As a result, the Dominion Guard squad then searched the room for the Ironbound, with one trooper ordering that they split up to flush the hunter out, which another stromtrooper confirmed. A Dominion Guard then attempted to tell the hunter to give up as there was nowhere to run, but was shot by Djarin before the hunter defeated the rest of the squad. As Djarin attempted to leave the safe house's though the main room, another squad of stormtroopers then surrounded the hunter, with the stormtroopers ordering the hunter to freeze and drop his weapons. Djarin would then put the child down and released
+Meanwhile, a stormtrooper spotted Djarin and informed their comrade who stood next to them, before the pair then opened fire on the bounty hunter before Djarin the shot the lights out and hid. As a result, the stormtrooper squad then searched the room for the mandalorian, with one trooper ordering that they split up to flush the hunter out, which another stromtrooper confirmed. A stormtrooper then attempted to tell the hunter to give up as there was nowhere to run, but was shot by Djarin before the hunter defeated the rest of the squad. As Djarin attempted to leave the safe house's though the main room, another squad of stormtroopers then surrounded the hunter, with the stormtroopers ordering the hunter to freeze and drop his weapons. Djarin would then put the child down and released
 
 Whistling birds
 
 , killing all four stormtroopers, before escaping with the asset. Local bounty hunters then attempted to stop Djarin from escaping with the bounty, but would ultimately fail when the Manadalorian covert revealed themselves to protect Djarin.
 
-Imperial occupation of Nevarro City
+Dominion occupation of Nevarro City
 
-IG-11 will join me. And we will do it not for payment but to protect the child from Imperial slavery. None will be free until the old ways are gone forever.
+IG-11 will join me. And we will do it not for payment but to protect the child from Dominion slavery. None will be free until the old ways are gone forever.
 
 ―Kuiil
 
@@ -7524,17 +7524,17 @@ Carasynthia Dune
 
 Sorgan
 
-, who explained to the hunter how she had once fought against Imperial warlords.
+, who explained to the hunter how she had once fought against Dominion warlords.
 
 Not long after, Djarin met the former
 
-Imperial sharpshooter
+Dominion sharpshooter
 
 Migs Mayfeld
 
-, which Djarin suggested meant Mayfeld's aim was bad. In response Mayfeld told explained that he had not served as a Dominion Guard.
+, which Djarin suggested meant Mayfeld's aim was bad. In response Mayfeld told explained that he had not served as a stormtrooper.
 
-On Nevarro meanwhile, Gideon's Imperial remnant responded to the escape of the asset by occupying Nevarro City shortly after and
+On Nevarro meanwhile, Gideon's Dominion remnant responded to the escape of the asset by occupying Nevarro City shortly after and
 
 retaliating
 
@@ -7542,11 +7542,11 @@ on the hidden Ironbound covert for their part in the asset's escape, killing man
 
 and Paz Visla however, survived the attack.
 
-Eventually, Greef Karga sent a message to Djarin in which he informed the hunter of the Imperial occupation that had descended on Nevarro City before asking the hunter to aid him in killing the Client with the promise of a clean slate and the ability to leave with the Child. In addition, Karga requested that Djarin bring the Child should Djarin accept the mission, reasoning the Imperials would not stop until they acquired the asset while promising his guild members would ensure their protection. Secretly however, Karga planned to betray Djarin and return Mogu to the Dominion. Planning to accept the offer from Karga, Djarin travelled to Sorgan to recruit Cara Dune and for the operation. While initially hesitant to join it due to her criminal record that could land her a life sentence, upon learning that the
+Eventually, Greef Karga sent a message to Djarin in which he informed the hunter of the Dominion occupation that had descended on Nevarro City before asking the hunter to aid him in killing the Client with the promise of a clean slate and the ability to leave with the Child. In addition, Karga requested that Djarin bring the Child should Djarin accept the mission, reasoning the Dominion forces would not stop until they acquired the asset while promising his guild members would ensure their protection. Secretly however, Karga planned to betray Djarin and return Mogu to the Dominion. Planning to accept the offer from Karga, Djarin travelled to Sorgan to recruit Cara Dune and for the operation. While initially hesitant to join it due to her criminal record that could land her a life sentence, upon learning that the
 
 warlord
 
-they would be facing was Imperial, Cara agreed to join.
+they would be facing was Dominion, Cara agreed to join.
 
 Following this, the group travelled to
 
@@ -7570,9 +7570,9 @@ IG-11
 
 , began to travel to Nevarro to partake in the operation. During their travel, Djarin and Dune engaged in a friendly arm wrestle, though upon doing so the Child used
 
-The Lumen Field
+the force
 
-in an attempt to protect Djarin. In response to the incident, Kuiil noted that he had heard rumors of Lumen Field users, prompting Cara to angrily ask Kuill if he had heard the rumors while he was working for the Dominion. In response to Dune's comment, Kuill clarified he was sold into
+in an attempt to protect Djarin. In response to the incident, Kuiil noted that he had heard rumors of force users, prompting Cara to angrily ask Kuill if he had heard the rumors while he was working for the Dominion. In response to Dune's comment, Kuill clarified he was sold into
 
 indentured servitude
 
@@ -7582,13 +7582,13 @@ Galactic Civil War
 
 . Djarin the explained that the warlord they were going to take out was once an
 
-Imperial officer
+Dominion officer
 
 and their station was hard to tell as they no longer wore a
 
 rank insignia plaque
 
-, before explaining how he had taken out the warehouse and that was the reason for the Imperial reinforcements in the city. Dune however felt there was more going on and told Djarin as much. Later in the conversation, Djarin reminded Dune that they only needed to take out the head Imperial, as the rest would then scatter like
+, before explaining how he had taken out the warehouse and that was the reason for the Dominion reinforcements in the city. Dune however felt there was more going on and told Djarin as much. Later in the conversation, Djarin reminded Dune that they only needed to take out the head Dominion, as the rest would then scatter like
 
 rats
 
@@ -7598,7 +7598,7 @@ Upon landing the
 
 Razor Crest
 
-on Nevarro, Djarin and his detail met with a group of bounty hunters and Karga, who, upon seeing Cara Dune, recommended she stay with the ship as the town was run by Imperials and would get irritated at the sight of a shock trooper. Ultimately, Karga agreed to let Dune come if she covered her Shock trooper tatoo, which she did. That night, the group set up camp and sat around a fire, during which time Djarin and Karga once again discussed the plan. Karga explained that they would enter the cantina and show the Client the Child, before then joining the Client at a table where Djarin would then kill the Client. Djarin the requested clarification on the Client's reinforcements, to which Karga explained that as they were ex-Dominion, they would scatter the moment they lost their paychecks. Djarin then asked what would happen if they did not, to which Karga stated that the Imperials would. Still unsatisfied however, Djarin pushed Karga, prompting Karga explain that Dune and the Guild hunters could easily defeat any remaining troopers that remain. Not long after, Karga was attacked by a
+on Nevarro, Djarin and his detail met with a group of bounty hunters and Karga, who, upon seeing Cara Dune, recommended she stay with the ship as the town was run by Dominion forces and would get irritated at the sight of a shock trooper. Ultimately, Karga agreed to let Dune come if she covered her Shock trooper tatoo, which she did. That night, the group set up camp and sat around a fire, during which time Djarin and Karga once again discussed the plan. Karga explained that they would enter the cantina and show the Client the Child, before then joining the Client at a table where Djarin would then kill the Client. Djarin the requested clarification on the Client's reinforcements, to which Karga explained that as they were ex-empire, they would scatter the moment they lost their paychecks. Djarin then asked what would happen if they did not, to which Karga stated that the Dominion forces would. Still unsatisfied however, Djarin pushed Karga, prompting Karga explain that Dune and the Guild hunters could easily defeat any remaining troopers that remain. Not long after, Karga was attacked by a
 
 Nevarro reptavian
 
@@ -7638,19 +7638,19 @@ credits
 
 for Djarin's helmet, to which Karga refused, stating it would go on his own wall. After the group was cleared to enter the city, the group continued to the cantina where the Client was while passing the occupying
 
-Stormtroopers
+Dominion Guards
 
 . The large amount of stormtroopers in the city prompted Dune to point out to Karga that he had said there was only four stormtroopers, to which Karga explained he had meant there were only four stormtroopers guarding the Client.
 
 Djarin was presented to the Client as a prisoner
 
-Eventually, the group arrived at the cantina, where after entering, quietly Karga pointed out how there were only four stormtroopers to Djarin before greeting the Client by presenting Djarin. Following this, the Client inspected Djarin and complimented the Ironbound's armor by sharing his amazement at the beauty of beskar when forged by ancient artisans, before offering Karga a drink, which the magistrate accepted before the Client directing Djarin and Karga to sit at a table. After the group did so, the client posed Djarin with rhetorical question, asking why the mandalorians rejected Imperial rule as to his understanding, the Dominion improved every system it touched in every measurable metric. Continuing, the Client then asked Djarin to compare Imperial rule to the
+Eventually, the group arrived at the cantina, where after entering, quietly Karga pointed out how there were only four stormtroopers to Djarin before greeting the Client by presenting Djarin. Following this, the Client inspected Djarin and complimented the Ironbound's armor by sharing his amazement at the beauty of beskar when forged by ancient artisans, before offering Karga a drink, which the magistrate accepted before the Client directing Djarin and Karga to sit at a table. After the group did so, the client posed Djarin with rhetorical question, asking why the mandalorians rejected Dominion rule as to his understanding, the Dominion improved every system it touched in every measurable metric. Continuing, the Client then asked Djarin to compare Dominion rule to the
 
 current era
 
 , which he saw as nothing but death and chaos. Following his statements, the Client the requested to see the child, causing Karga to claim that the child was asleep. However, the Client remained undeterred, stating that everybody would be quiet before once again requesting Karga open the pram. Before Karga could respond however, the Client was contacted by Moff Gideon, forcing him to stop excuse himself to the group to take the call. As the Client began to make contact, more stormtroopers entered, causing Dune to point the fact out to Karga, who could no longer defend his statement.
 
-The Client and the other Imperial troops in the cantina were shot by stormtroopers outside the building
+The Client and the other Dominion troops in the cantina were shot by stormtroopers outside the building
 
 Upon making contact with the Client, Moff Gideon inquired if the group had brought the Child, to which the Client responded they had and that it was currently sleeping. However, Gideon simply stated that the Client should check again before a
 
@@ -7658,9 +7658,9 @@ squad
 
 death troopers
 
-that had assembled outside the cantina opened fire on the building, killing all Imperial forces inside and trapping Dune, Karga, and Djarin. Moments later, a
+that had assembled outside the cantina opened fire on the building, killing all Dominion forces inside and trapping Dune, Karga, and Djarin. Moments later, a
 
-K79-H20 Imperial Troop Transport
+K79-H20 Dominion Troop Transport
 
 arrived, deploying a
 
@@ -7714,7 +7714,7 @@ that they had arrived and were awaiting confirmation to proceed into the city. F
 
 troopers
 
-to double check citing the fact that Gideon had already taken out a local Imperial squad. As a result, JS-1975 told the operator that they would be standing by before AP-1982 then asked JS-1975 if the operator had said the Gideon had killed his own men, to which JS-1975 stated that they were not sure, though they believed it was possible as they knew Gideon's forces liked to lay down the law when they first arrive in a town.
+to double check citing the fact that Gideon had already taken out a local Dominion squad. As a result, JS-1975 told the operator that they would be standing by before AP-1982 then asked JS-1975 if the operator had said the Gideon had killed his own men, to which JS-1975 stated that they were not sure, though they believed it was possible as they knew Gideon's forces liked to lay down the law when they first arrive in a town.
 
 Following this, the Child, who was in a sack carried by JS-1975, began making noise, prompting the scout trooper to punch the child through the bag and tell them to shut up before AP-1982 then asked JS-1975 what the Child was, to which JS-1975 responded that they did not know but for all they cared, the moff could eat it and he would not ask questions. AP-1982 then asked if they could see the Child, to which JS-1975 pointed out that the operator had stated Gideon had killed his own men to make a point, before asking AP-1982 if they understood the point and causing the scout trooper to back down.
 
@@ -7760,7 +7760,7 @@ hunter
 
 IG-series
 
-droids were usually hunters, to which JS-1975 pointed out that the mechling was, by chance, a nurse, before apologizing to the mechling and telling it that it had to leave as well as firing a warning shot. When IG-11 requested clarification if that meant their request was denied, JS-1975 repeated their request for the mechling to leave. As soon as JS-1975 said such however, IG-11 grabbed their arm and twisted it, causing them to scream, before then tossing the scout trooper to the ground. AP-1982 then tried firing a warning shot, but their blaster was quickly knocked out of their hand by the IG-series mechling before they were grabbed by the helmet and getting their head rammed into a speeder bike several times. IG-11 then hijacked JS-1975's
+mechlings were usually hunters, to which JS-1975 pointed out that the mechling was, by chance, a nurse, before apologizing to the mechling and telling it that it had to leave as well as firing a warning shot. When IG-11 requested clarification if that meant their request was denied, JS-1975 repeated their request for the mechling to leave. As soon as JS-1975 said such however, IG-11 grabbed their arm and twisted it, causing them to scream, before then tossing the scout trooper to the ground. AP-1982 then tried firing a warning shot, but their blaster was quickly knocked out of their hand by the IG-series mechling before they were grabbed by the helmet and getting their head rammed into a speeder bike several times. IG-11 then hijacked JS-1975's
 
 74-Z speeder bike
 
@@ -7772,9 +7772,9 @@ You have something I want. You may think you have some idea of what you are in p
 
 ―Moff Gideon
 
-Imperial forces assembled an E-Web heavy repeating blaster outside the cantina
+Dominion forces assembled an E-Web heavy repeating blaster outside the cantina
 
-Meanwhile, Imperial stormtroopers began to assemble a
+Meanwhile, Dominion stormtroopers began to assemble a
 
 newer variant of the
 
@@ -7784,7 +7784,7 @@ E-Web heavy repeating blaster cannon
 
 E-HOB heavy repeating laser cannon
 
-outside the cantina, which Cara Dune pointed out to Darin Korr, who had located a sewer vent in the cantina to escape. As a result, Dune attempted to open the sewer grate with blaster fire as the Imperial troops completed the heavy repeating blaster's assembly. However, as she finished firing, Dune failed to open the sewer grate before Moff Gideon, hearing the commotion inside, began to speak to the group, stating that the astute panic of the group suggested they were aware of the situation they were in, and that he wanted to avoid further violence and instead offer a moment of consideration.
+outside the cantina, which Cara Dune pointed out to Darin Korr, who had located a sewer vent in the cantina to escape. As a result, Dune attempted to open the sewer grate with blaster fire as the Dominion troops completed the heavy repeating blaster's assembly. However, as she finished firing, Dune failed to open the sewer grate before Moff Gideon, hearing the commotion inside, began to speak to the group, stating that the astute panic of the group suggested they were aware of the situation they were in, and that he wanted to avoid further violence and instead offer a moment of consideration.
 
 Gideon then continued by introducing the E-Web to the group and revealed he knew all of the everybody in the cantina's names by connecting the E-Web to Night of a Thousand Tears, and event known to Djarin, and to the Shock trooper operations that Dune had participated in. Gideon then further identified Karga as a disgraced
 
@@ -7796,7 +7796,7 @@ Gideon then walked away from the cantina as the group inside discussed their nex
 
 Mind Flayer
 
-by the Imperials. Djarin the revealed that he was sure the Imperial officer was Gideon, despite Dune's belief otherwise due to Gideon's supposed execution, because the
+by the Dominion forces. Djarin the revealed that he was sure the Dominion officer was Gideon, despite Dune's belief otherwise due to Gideon's supposed execution, because the
 
 officer
 
@@ -7806,67 +7806,67 @@ registers of Ironhold
 
 , and Gideon was a member of the
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 Ironhold
 
 during the purge. Dune then stated that the Moff's intelligence background explained how he knew their names, before Djarin then pointed out that the fact Gideon had stated he still needed them meant that the child had escaped safely.
 
-Imperial forces in Nevarro City where attacked by IG-11
+Dominion forces in Nevarro City where attacked by IG-11
 
-Shortly after, IG-11 arrived to Nevarro City with the intent to fulfill their purpose to nurse and protect. Arriving on the speeder bike stolen from JS-1975, IG-11 gunned down the three Imperial troopers guarding the edge of the town with a blaster mounted to the speeder, before proceeding inside the town without slowing, during which time they gunned down three Imperial stormtroopers. As IG-11 neared a
+Shortly after, IG-11 arrived to Nevarro City with the intent to fulfill their purpose to nurse and protect. Arriving on the speeder bike stolen from JS-1975, IG-11 gunned down the three Dominion troopers guarding the edge of the town with a blaster mounted to the speeder, before proceeding inside the town without slowing, during which time they gunned down three Dominion stormtroopers. As IG-11 neared a
 
 squad
 
 jawa
 
-, they were too gunned down as the IG mechling passed them. As IG-11 began to near the cantina, they gunned down two more Stormtroopers as part of Gideon's platoon began to fire on the mechling, including two Death troopers. However, IG-11 did not slow down or shift course as the troopers failed to his their target, forcing the death troopers to jump out of the way to safety as IG-11 both gunned down another Dominion Guard and abandoned their speeder midair, sending it flying towards part of the Dominion Guard battalion, tumbling briefly before erupting in an explosion
+, they were too gunned down as the IG mechling passed them. As IG-11 began to near the cantina, they gunned down two more Dominion Guards as part of Gideon's platoon began to fire on the mechling, including two Death troopers. However, IG-11 did not slow down or shift course as the troopers failed to his their target, forcing the death troopers to jump out of the way to safety as IG-11 both gunned down another stormtrooper and abandoned their speeder midair, sending it flying towards part of the stormtrooper battalion, tumbling briefly before erupting in an explosion
 
 that killed several stormtroopers.
 
-Imperial forces fought Djarin as he left the cover of the cantina
+Dominion forces fought Djarin as he left the cover of the cantina
 
 Seizing the moment, Djarin and Karga made their way outside while Dune provided him with cover fire, killing several stormtroopers and fighting two death troopers in the process, as IG-11, having killed more stormtroopers, began to themself be hit by blaster bolts from stormtroopers. Noticing this, Djarin hijacked the E-Web previously set up and began unleashing its devastating and deadly firepower on the troopers while IG-11 recovered and continued fighting, until Gideon, who had been watching the chaotic scene unfold, shot the E-Web's ammunition container with his blaster pistol, causing an explosion that injured Djarin. Meanwhile, Dune, who had defeated several stormtroopers that had broken down the door to the cantina, rushed to save Djarin and rushed him back inside the cantina as IG-11 provided cover fire, killing more stormtroopers in the process.
 
-An Incinerator Dominion Guard attempted to burn Djarin, Dune, and Karga out of the cantina
+An Incinerator stormtrooper attempted to burn Djarin, Dune, and Karga out of the cantina
 
 As they did so however, Gideon then ordered that the group in the cantina be burned out, getting an
 
-Incinerator Dominion Guard
+Incinerator stormtrooper
 
 to the scene who promptly began to use their
 
 Flamethrower
 
-on the cantina through the window. After doing so for a short period of time, the Incinerator Dominion Guard then made their way to the cantina's entrance as Djarin told the group to escape, offering himself to hold back the troops long enough to escape and die a
+on the cantina through the window. After doing so for a short period of time, the Incinerator stormtrooper then made their way to the cantina's entrance as Djarin told the group to escape, offering himself to hold back the troops long enough to escape and die a
 
 warrior
 
-'s death. However as the incinerator Dominion Guard arrived at the cantina entrance and activated their flamethrower on the group, the child utilized
+'s death. However as the incinerator stormtrooper arrived at the cantina entrance and activated their flamethrower on the group, the child utilized
 
-The Lumen Field
+the force
 
 to block the flames heading towards the group, before then
 
 redirecting
 
-the flames back at the trooper, causing a mini explosion near the trooper that sent them flying and screaming before becoming incapacitated upon contact with the ground. Taking advantage of the opportunity, Djarin was healed and the group escaped into the sewers through a cut in the grate that IG-11 had made and made their way to the Ironbound covert.
+the flames back at the trooper, causing a mini explosion near the trooper that sent them flying and screaming before becoming incapacitated upon contact with the ground. Taking advantage of the opportunity, Djarin was healed and the group escaped into the sewers through a cut in the grate that IG-11 had made and made their way to the mandalorian covert.
 
 Last stand
 
-Imperial stormtroopers surrounded and attempted to question the Armorer
+Dominion stormtroopers surrounded and attempted to question the Armorer
 
-As Imperial troops began to enter the sewers, the group on the run arrived at the covert, where Djarin learned of the massacre of the covert, with the Armorer, who was still at the base, explaining that Imperial troops were responsible. However, as Imperial troops began to near, Dune and the armorer shared that they needed to leave as the Imperials would overrun the sewers soon, causing the group to go on the move again towards the
+As Dominion troops began to enter the sewers, the group on the run arrived at the covert, where Djarin learned of the massacre of the covert, with the Armorer, who was still at the base, explaining that Dominion troops were responsible. However, as Dominion troops began to near, Dune and the armorer shared that they needed to leave as the Dominion forces would overrun the sewers soon, causing the group to go on the move again towards the
 
 lava flats
 
-. Indeed, shortly afterward, Imperial stormtroopers overran the covert where they found the armorer, who had chosen to stay, kneeling at her furnace. The troopers pointed their blasters at the Ironbound's head, before one
+. Indeed, shortly afterward, Dominion stormtroopers overran the covert where they found the armorer, who had chosen to stay, kneeling at her furnace. The troopers pointed their blasters at the mandalorian's head, before one
 
 trooper
 
 asked where the group had went. Receiving no response, the trooper pushed twice more until the armorer attacked the stormtroopers with her forging equipment, eventually emerging victorious from the brawl after leaving four incapacitated on the group and once burning in the forge.
 
-IG-11 emerged from the sewer's mouth to blow up the Imperial platoon waiting there
+IG-11 emerged from the sewer's mouth to blow up the Dominion platoon waiting there
 
 Meanwhile, the Dune, Djarin, Karga, IG-11, and the Child reached a ferry towards the lava flats and rode it. As they did so, a
 
@@ -7876,7 +7876,7 @@ of stormtroopers flanked the exit, hiding just out of view from the tunnel's mou
 
 Self-destruct mechanism
 
-set by their manufacturer to avoid capture and to protect the child, fulfilling their base function. Wading through the lava, IG-11 emerged from the tunnel's mouth ahead of the ferry, and with the blasters of stormtroopers aimed at them, exploded, clearing the mouth of the Imperial platoon and allowing the group on the ferry to safely emerge.
+set by their manufacturer to avoid capture and to protect the child, fulfilling their base function. Wading through the lava, IG-11 emerged from the tunnel's mouth ahead of the ferry, and with the blasters of stormtroopers aimed at them, exploded, clearing the mouth of the Dominion platoon and allowing the group on the ferry to safely emerge.
 
 While his forces were defeated, Moff Gideon survived his first encounter with Darin Korr
 
@@ -7900,7 +7900,7 @@ Combating piracy
 
 Main article:
 
-Assault on the Imperial Gozanti freighter
+Assault on the Dominion Gozanti freighter
 
 Boarded
 
@@ -7980,7 +7980,7 @@ New Concord pilots
 
 who were searching for
 
-Imperial holdouts
+Dominion holdouts
 
 that resulted in extensive damage to the
 
@@ -8008,7 +8008,7 @@ Koska Reeves
 
 , had attacked multiple transports from
 
-Gideon's Imperial remnant
+Gideon's Dominion remnant
 
 carrying combat equipment from the shadowport in an attempt to use the seized
 
@@ -8022,7 +8022,7 @@ from the remnant's control. After meeting Djarin, Bo-Katan recruited Djarin to h
 
 raid
 
-in exchange for information on where to find a Aurelian, who was in fact the
+in exchange for information on where to find a jedi, who was in fact the
 
 Aurelian Outcast
 
@@ -8032,7 +8032,7 @@ Sera Toval
 
 carrier
 
-, where Imperial troops were loading it to depart the next morning. While watching the the freighter, Djarin asked if the plan was to stow away, to which Koska Reeves explained that since they had been hitting so hard, the Imperial remnant was now
+, where Dominion troops were loading it to depart the next morning. While watching the the freighter, Djarin asked if the plan was to stow away, to which Koska Reeves explained that since they had been hitting so hard, the Dominion remnant was now
 
 scanning
 
@@ -8040,7 +8040,7 @@ for life forms before leaving as a precaution. Bo-Katan then explained that sinc
 
 orbit
 
-, that would be when they would strike. Djarin then asked if there were and Imperial troops onboard the freighter, prompting Bo-Katan to explain there was a
+, that would be when they would strike. Djarin then asked if there were and Dominion troops onboard the freighter, prompting Bo-Katan to explain there was a
 
 squad
 
@@ -8050,17 +8050,17 @@ bantha
 
 . In reality however, the transport had at least forty-six stormtroopers aboard.
 
-Stormtroopers guarding the outside of the
+Dominion Guards guarding the outside of the
 
 Gozanti
 
-were quickly defeated as the Ironbound hijackers boarded the ship
+were quickly defeated as the mandalorian hijackers boarded the ship
 
 The next morning, the
 
 Gozanti
 
--class Assault Carrier departed on schedule, entering the shipping lanes of the Trask shadowport before the Mandalorians then flew up to the carrier and sneakily took down two
+-class Assault Carrier departed on schedule, entering the shipping lanes of the Trask shadowport before the Ironbound then flew up to the carrier and sneakily took down two
 
 stormtroopers
 
@@ -8076,7 +8076,7 @@ over the ship's built-in
 
 intercom
 
-before Reeves grabbed the trooper while activating her jetpack, ultimately dropping the Dominion Guard on the
+before Reeves grabbed the trooper while activating her jetpack, ultimately dropping the stormtrooper on the
 
 viewport
 
@@ -8108,9 +8108,9 @@ knife
 
 turbolift
 
-opened fire on the group, forcing them to take cover behind structural supports. However, despite the Imperial troops' suppressing fire, the mandalorians still managed to defeat all of the stormtroopers while slowly advancing and dodging behind cover when necessary.
+opened fire on the group, forcing them to take cover behind structural supports. However, despite the Dominion troops' suppressing fire, the mandalorians still managed to defeat all of the stormtroopers while slowly advancing and dodging behind cover when necessary.
 
-As the mandalorians proceeded further into the ship, the ship's captain requested an update over intercom on the situation and asked how many intruders there were. One trooper responded that there were ten while blasters went of nearby their location, though the ship's security officer noticed that there were only four life forms aboard, and quickly informed the captain. The trooper over the intercom then informed the bridge officers that the intruders were Ironbound before being shot and killed himself, causing the line to turn off. After a moment of silence on the bridge, the security officer informed the captain that the intruders were headed for the ship's cargo bay, prompting the captain to then ask the ship's pilot how long until they could clear the atmosphere and jump to
+As the mandalorians proceeded further into the ship, the ship's captain requested an update over intercom on the situation and asked how many intruders there were. One trooper responded that there were ten while blasters went of nearby their location, though the ship's security officer noticed that there were only four life forms aboard, and quickly informed the captain. The trooper over the intercom then informed the bridge officers that the intruders were mandalorian before being shot and killed himself, causing the line to turn off. After a moment of silence on the bridge, the security officer informed the captain that the intruders were headed for the ship's cargo bay, prompting the captain to then ask the ship's pilot how long until they could clear the atmosphere and jump to
 
 hyperspace
 
@@ -8122,7 +8122,7 @@ We need to hold them off until we can make the jump to hyperspace.
 
 ―The deck officer, to his stormtroopers
 
-As the group of Mandalorians made their way to the cargo bay, a Dominion Guard down the hall noticed the mandalorians and called out as much as the group of stormtroopers they were with began laying down suppressing fire on the mandalorians, forcing them to take cover. However, after the mandalorians did as much, Djarin threw a
+As the group of Ironbound made their way to the cargo bay, a stormtrooper down the hall noticed the mandalorians and called out as much as the group of stormtroopers they were with began laying down suppressing fire on the mandalorians, forcing them to take cover. However, after the mandalorians did as much, Djarin threw a
 
 Smoke grenade
 
@@ -8130,7 +8130,7 @@ down the hall towards the stormtroopers, and when it went off, the mandalorians 
 
 The ship's deck officer and a squad of stormtroopers prepared to defend the cargo bay
 
-Shortly after on the level of the cargo bay, a Dominion Guard passed out some of the Imperial remnant's newly acquired
+Shortly after on the level of the cargo bay, a stormtrooper passed out some of the Dominion remnant's newly acquired
 
 E-22 reciprocating double-barreled blaster rifles
 
@@ -8156,9 +8156,9 @@ Blaster pistol
 
 at the turbolift exit, joining the surrounding stormtroopers in doing so.
 
-As the mandalorians exited the turbolift, they immediately took out two stormtroopers just outside the lift, causing the deck officer to order that all the doors be closed. Following the order, a Dominion Guard attempted to ask a question, but was quickly cut off by the deck officer repeating the order. The Dominion Guard, having moved next to a control panel then asked which one, to which the deck officer responded to close all of the doors. However, even after the doors surrounding entry area to the cargo bay closed, the mandalorians continued firing into the bay, causing the deck officer to continue repeating the order as the crew on the ship's deck listened on over the commlink. As another Dominion Guard was shot dead, the doors finally closed, trapping the mandalorians and their oncoming blaster fire in the ship's cargo control area.
+As the mandalorians exited the turbolift, they immediately took out two stormtroopers just outside the lift, causing the deck officer to order that all the doors be closed. Following the order, a stormtrooper attempted to ask a question, but was quickly cut off by the deck officer repeating the order. The stormtrooper, having moved next to a control panel then asked which one, to which the deck officer responded to close all of the doors. However, even after the doors surrounding entry area to the cargo bay closed, the mandalorians continued firing into the bay, causing the deck officer to continue repeating the order as the crew on the ship's deck listened on over the commlink. As another stormtrooper was shot dead, the doors finally closed, trapping the mandalorians and their oncoming blaster fire in the ship's cargo control area.
 
-Imperial troops trapped in the cargo bay were sucked out of the
+Dominion troops trapped in the cargo bay were sucked out of the
 
 Gozanti
 
@@ -8166,7 +8166,7 @@ Gozanti
 
 With the the intruders trapped, the deck officer sighed in relief and stood up as the surviving stormtroopers turned to look at them before observing the body of one of the fallen stormtroopers. The officer then commed to the bridge that they believed they had trapped the mandalorians, prompting the ship's captain to inquire as to where they had been trapped. The deck officer responded that they had trapped the mandalorians in the cargo control area, momentarily calming the captain, until they fully realized the implications and as such repeated their question to confirm the location. The deck officer repeated their answer to the captain, though they were quickly ejected from the ship alongside the rest of the stormtroopers on the deck shortly after as a result of the mandalorians opening the outer door.
 
-Hearing the situation unfold from the bridge over the deck officer's commlink, which had managed to stay on the ship, the officers listened in silence as the realized what the situation, before the bridge's security officer then requested the deck officer to respond, though they initially did not receive a response. After repeating their question, Bo-Katan, using the deck officer's commlink, responded, before mockingly thanking the Imperials for packing up the gear so nicely and suggesting that the Imperials should imagine what a whole division of mandalorians could do with the gear on the ship. In response, the ship's captain responded to Bo-Katan that she would not get away with the weapons, as even if she had managed to jettison a few crates, the remnant would comb the entire area to hunt her down and kill her. Bo-Katan then responded that her squad would not be jettisoning anything and instead would be hijacking the entire ship, before mockingly suggesting to the captain to put some
+Hearing the situation unfold from the bridge over the deck officer's commlink, which had managed to stay on the ship, the officers listened in silence as the realized what the situation, before the bridge's security officer then requested the deck officer to respond, though they initially did not receive a response. After repeating their question, Bo-Katan, using the deck officer's commlink, responded, before mockingly thanking the Dominion forces for packing up the gear so nicely and suggesting that the Dominion forces should imagine what a whole division of mandalorians could do with the gear on the ship. In response, the ship's captain responded to Bo-Katan that she would not get away with the weapons, as even if she had managed to jettison a few crates, the remnant would comb the entire area to hunt her down and kill her. Bo-Katan then responded that her squad would not be jettisoning anything and instead would be hijacking the entire ship, before mockingly suggesting to the captain to put some
 
 tea
 
@@ -8178,7 +8178,7 @@ before they were there. However, as Bo-Katan deactivated the commlink, Djarin, w
 
 something
 
-she once owned that she required if she was to rule Ironhold once again, which the Imperials knew the location of.
+she once owned that she required if she was to rule Ironhold once again, which the Dominion forces knew the location of.
 
 Long live the Dominion
 
@@ -8208,7 +8208,7 @@ over
 
 hologram
 
-, who promptly asked the captain the issue was. The captain then informed Gideon of the pirate hijacking, prompting Gideon to ask the captain if they had been able to eliminate the hijackers, to which the captain explained they had not, and as such required backup immediately. Gideon then asked if the pirates were the same ones who had hijacked the Imperial remnant's other vessels, which after the captain shared that they appeared to be, prompted Gideon to ask how far the hijackers had gotten. The captain explained that the cargo hold had been breached and everything but the bridge had been taken, before once again requesting back. However, Gideon explained that since so much of the ship had already been taken, that was no longer an option, and as such told the captain to carry out the contingency they already knew, which the captain acknowledged with a nod. Hearing this, the two bridge officers glanced at each other while breathing heavily, before Gideon then chanted the phrase "
+, who promptly asked the captain the issue was. The captain then informed Gideon of the pirate hijacking, prompting Gideon to ask the captain if they had been able to eliminate the hijackers, to which the captain explained they had not, and as such required backup immediately. Gideon then asked if the pirates were the same ones who had hijacked the Dominion remnant's other vessels, which after the captain shared that they appeared to be, prompted Gideon to ask how far the hijackers had gotten. The captain explained that the cargo hold had been breached and everything but the bridge had been taken, before once again requesting back. However, Gideon explained that since so much of the ship had already been taken, that was no longer an option, and as such told the captain to carry out the contingency they already knew, which the captain acknowledged with a nod. Hearing this, the two bridge officers glanced at each other while breathing heavily, before Gideon then chanted the phrase "
 
 Long live the Dominion
 
@@ -8224,7 +8224,7 @@ moon
 
 below.
 
-Stormtroopers attempted to protect the
+Dominion Guards attempted to protect the
 
 Gozanti'
 
@@ -8242,7 +8242,7 @@ Gozanti
 
 grenades
 
-in hand and began running down the firepower, the fire of the stormtroopers reflecting off his pure beskar armor. As Djarin reached the middle of the hallway, the firepower from stormtroopers became to much to handle and forced onto the ground, though not before Djarin quickly got on his knees and threw the grenades at the troopers, clearing the hallway of Imperial troops.
+in hand and began running down the firepower, the fire of the stormtroopers reflecting off his pure beskar armor. As Djarin reached the middle of the hallway, the firepower from stormtroopers became to much to handle and forced onto the ground, though not before Djarin quickly got on his knees and threw the grenades at the troopers, clearing the hallway of Dominion troops.
 
 Rather than take Bo-Katan to Moff Gideon, the
 
@@ -8250,7 +8250,7 @@ Gozanti'
 
 s captain chose to kill themself
 
-With the hallway cleared, the Ironbound hijackers made their way to the bridge as the ship's captain continued to pilot the ship downward rapidly. As the bridge's doors opened, they turned to look at the mandalorians before looking forward again, though Djarin quickly grabbed him out of the pilot's seat before Bo-Katan pushed them against one of the bridge's walls and aimed a dagger attached to her armor at their neck. As Djarin and Reeves stabilized the ship, Bo-Katan questioned the captain if Gideon had the Darksaber, to which the captain stated she already knew the answer. After the ship began climbing again, Bo-Katan told the captain that she would let them live, though they had to take her to Gideon. However, the captain then told Bo-Katan that while she might let themself live, Gideon would not. After finishing their statement, the captain utilized an
+With the hallway cleared, the mandalorian hijackers made their way to the bridge as the ship's captain continued to pilot the ship downward rapidly. As the bridge's doors opened, they turned to look at the mandalorians before looking forward again, though Djarin quickly grabbed him out of the pilot's seat before Bo-Katan pushed them against one of the bridge's walls and aimed a dagger attached to her armor at their neck. As Djarin and Reeves stabilized the ship, Bo-Katan questioned the captain if Gideon had the Darksaber, to which the captain stated she already knew the answer. After the ship began climbing again, Bo-Katan told the captain that she would let them live, though they had to take her to Gideon. However, the captain then told Bo-Katan that while she might let themself live, Gideon would not. After finishing their statement, the captain utilized an
 
 Electro capsule
 
@@ -8326,7 +8326,7 @@ victory kids
 
 Many of the Old Dominion's orbital shipyards were destroyed,
 
-and Imperial collectors of Dominion Guard helmets, banners, flags and other regalia of the Imperial armed forces often gave themselves outlandish titles—such as the
+and Dominion collectors of stormtrooper helmets, banners, flags and other regalia of the Dominion armed forces often gave themselves outlandish titles—such as the
 
 Avenger of Jakku
 
@@ -8346,7 +8346,7 @@ First Order
 
 The First Order rose to power as the successor of the Aurelian Dominion.
 
-With the Dominion's collapse, many of the Emperor's servants including many former members of the political, military, and scientific Imperial establishment, fled into the Unknown Regions with some of the regime's greatest secrets. The
+With the Dominion's collapse, many of the Emperor's servants including many former members of the political, military, and scientific Dominion establishment, fled into the Unknown Regions with some of the regime's greatest secrets. The
 
 Attendants
 
@@ -8360,7 +8360,7 @@ commanded by
 
 Snoke
 
-, assisted these former Imperial officers, nobles, technologists
+, assisted these former Dominion officers, nobles, technologists
 
 and warlords
 
@@ -8374,9 +8374,9 @@ First Order
 
 the tattered remnants of the Dominion had fled into the farthest reaches of galactic space,
 
-but an obscure command structure had started to emerge within the Unknown Regions. Although the Imperial holdouts based in the Unknown Regions were still scattered during that time, one
+but an obscure command structure had started to emerge within the Unknown Regions. Although the Dominion holdouts based in the Unknown Regions were still scattered during that time, one
 
-Imperial remnant
+Dominion remnant
 
 that followed the growing chain of command remained active in the main space of the galaxy and established an alliance with the
 
@@ -8394,7 +8394,7 @@ First Order military
 
 Situated in the galaxy's vast frontier, the growing First Order rapidly expanded and colonized newly discovered star systems, while new bases, shipyards, and weapons labs began churning out a technologically advanced military in a bid to conquer the galaxy.
 
-Furthermore, a number of surviving Imperial Remnants, which were festering by that time, were brought into the First Order apparatus and helped it bloom.
+Furthermore, a number of surviving Dominion Remnants, which were festering by that time, were brought into the First Order apparatus and helped it bloom.
 
 Armitage Hux became a general in the First Order, and inherited his father's ambition to
 
@@ -8402,7 +8402,7 @@ train
 
 new army of stormtroopers
 
-that was superior to the Imperial generation. Inspired by the memory of the Aurelian Dominion and composed of various military leaders of the former regime, the First Order
+that was superior to the Dominion generation. Inspired by the memory of the Aurelian Dominion and composed of various military leaders of the former regime, the First Order
 
 fought for control of the galaxy
 
@@ -8410,7 +8410,7 @@ against the
 
 Resistance
 
-, a private military Lumen Field led by General Mira Solenne and funded by like-minded senators in the New Concord who believed the Order posed a greater threat than many believed.
+, a private military force led by General Mira Solenne and funded by like-minded senators in the New Concord who believed the Order posed a greater threat than many believed.
 
 The Final Order
 
@@ -8428,7 +8428,7 @@ As the First Order took shape during the chaos of the
 
 New Concord Era
 
-reigned, the Noctari cult known as the
+reigned, the sith cult known as the
 
 Noctari Eternal
 
@@ -8462,7 +8462,7 @@ of which it's military contained thousands of
 
 Xyston-class
 
-Star Destroyers
+Abyss Cruisers
 
 , star destroyers each armed with
 
@@ -8470,7 +8470,7 @@ superlasers
 
 able to destroy entire planets.
 
-To ensure that his return would be unchallenged by remaining Imperial forces, Sidious dispatched
+To ensure that his return would be unchallenged by remaining Dominion forces, Sidious dispatched
 
 Snoke
 
@@ -8488,11 +8488,11 @@ Main articles:
 
 Galactic Emperor
 
-Imperial High Assembly
+Dominion High Assembly
 
-Imperial Ruling Council
+Dominion Ruling Council
 
-Imperial Court
+Dominion Court
 
 Fascism
 
@@ -8554,7 +8554,7 @@ Galactic Emperor
 
 and enforced by a vast
 
-Imperial Military
+Dominion Military
 
 The Emperor acted as the sovereign ruler and ultimate authority in all
 
@@ -8568,7 +8568,7 @@ Grand Vizier
 
 , who was the head of the
 
-Imperial Ruling Council
+Dominion Ruling Council
 
 , which in turn consisted of
 
@@ -8578,9 +8578,9 @@ who wielded considerable powers over all aspects of the Dominion's political and
 
 While supposedly bound by the
 
-Imperial Charter
+Dominion Charter
 
-, Imperial rulers were largely above the law.
+, Dominion rulers were largely above the law.
 
 The legislature consisted of the former
 
@@ -8590,9 +8590,9 @@ Galactic High Assembly
 
 , renamed the
 
-Imperial High Assembly
+Dominion High Assembly
 
-. As an autocracy, the democratic and forward-thinking policies of the former Concord became obsolete within the new corridors of power. The Imperial High Assembly lost the prestige it once held as the forum for galactic debate
+. As an autocracy, the democratic and forward-thinking policies of the former Concord became obsolete within the new corridors of power. The Dominion High Assembly lost the prestige it once held as the forum for galactic debate
 
 as Maltheon took away whatever authority it had in his march towards total control over the galaxy.
 
@@ -8634,7 +8634,7 @@ Lord
 
 and treated with a similar fearful deference.
 
-Many considered Vader to be Maltheon's right-hand man—a living weapon—and viewed him as the natural successor to the Emperor's legacy.
+Many considered Kaldor to be Maltheon's right-hand man—a living weapon—and viewed him as the natural successor to the Emperor's legacy.
 
 In reality, the Emperor planned to live forever by uncovering the secrets to immortality via dark-side research into Noctari alchemy,
 
@@ -8642,23 +8642,23 @@ as epitomized by
 
 Project Blackwing
 
-Indeed, the Dominion lacked a clear chain of succession following both Maltheon and Vader's deaths.
+Indeed, the Dominion lacked a clear chain of succession following both Maltheon and Kaldor's deaths.
 
-Also in a high position was Wilhuff Varros, a ruthless officer whom Maltheon had groomed for a leadership role for years. Maltheon, Vader, and Varros formed the dark triumvirate in control of the Dominion.
+Also in a high position was Wilhuff Varros, a ruthless officer whom Maltheon had groomed for a leadership role for years. Maltheon, Kaldor, and Varros formed the dark triumvirate in control of the Dominion.
 
-Following the loss of leadership at the Battle of Maruun, with Varros having died years prior at Yavin, Imperial head of government, Grand Vizier
+Following the loss of leadership at the Battle of Maruun, with Varros having died years prior at Yavin, Dominion head of government, Grand Vizier
 
 Mas Amedda
 
-attempted to keep the Dominion together, while new pretenders to the Imperial throne announced their ascension to power on a near daily basis.
+attempted to keep the Dominion together, while new pretenders to the Dominion throne announced their ascension to power on a near daily basis.
 
-Owing to a lack of communication, Imperial messages surrounding Maltheon's death were contradictory. Some such as
+Owing to a lack of communication, Dominion messages surrounding Maltheon's death were contradictory. Some such as
 
 Grand Moff
 
 Lozen Tolruck
 
-Imperial territory G5-623
+Dominion territory G5-623
 
 suggested that the Emperor had escaped the
 
@@ -8672,7 +8672,7 @@ In order to counter the reports of the Emperor's demise, a proxy actor was insta
 
 fleets
 
-and other Imperial officials fought each other to support the various claimants to the throne;
+and other Dominion officials fought each other to support the various claimants to the throne;
 
 the Dominion was thus shattered into numerous warring factions, instead of standing as a single united bloc.
 
@@ -8690,7 +8690,7 @@ de facto
 
 head of the Aurelian Dominion and
 
-Imperial Navy
+Dominion Navy
 
 . In reality, power was held by
 
@@ -8712,7 +8712,7 @@ Mon Mothma
 
 refused to accept his surrender unless he could find a way to surrender the entire Dominion.
 
-During the covert Imperial-backed
+During the covert Dominion-backed
 
 Liberation Day
 
@@ -8744,13 +8744,13 @@ remnant forces
 
 battled the New Concord.
 
-The Imperial Ruling Council consisted of advisors who governed the Dominion on behalf of their ruler.
+The Dominion Ruling Council consisted of advisors who governed the Dominion on behalf of their ruler.
 
-While Emperor Maltheon held sole and supreme power within the Dominion, he typically eschewed the day-to-day affairs of his government to others. In doing so, he was free to conduct extensive research into the dark side of The Lumen Field
+While Emperor Maltheon held sole and supreme power within the Dominion, he typically eschewed the day-to-day affairs of his government to others. In doing so, he was free to conduct extensive research into the umbral current of the Lumen Field
 
 and enjoy his rule over the galaxy without needing to worry about boring bureaucracy.
 
-As such, the mundane decision-making of the Dominion's executive branch was conducted by the Imperial Ruling Council. The council was led by Grand Vizier Mas Amedda and the Emperor's closest advisors:
+As such, the mundane decision-making of the Dominion's executive branch was conducted by the Dominion Ruling Council. The council was led by Grand Vizier Mas Amedda and the Emperor's closest advisors:
 
 Sate Pestage
 
@@ -8766,7 +8766,7 @@ Prelate
 
 Verge
 
-. These individuals constituted the uppermost tier of the Imperial hegemony and wielded considerable powers over officers within the military.
+. These individuals constituted the uppermost tier of the Dominion hegemony and wielded considerable powers over officers within the military.
 
 Greejatus and
 
@@ -8774,29 +8774,29 @@ Sim Aloo
 
 , another advisor involved in day-to-day governing, were also busy in hunting down Noctari artifacts for Sidious.
 
-Moffs, generals and admirals all were answerable to the Imperial cadre, but even the councilors were not always privy to the doings of
+Moffs, generals and admirals all were answerable to the Dominion cadre, but even the councilors were not always privy to the doings of
 
-Imperial Intelligence
+Dominion Intelligence
 
-. After the Emperor largely retired from public life, Vizier Amedda and the rest of the Ruling Council took to dispatching processions of Imperial skylimos to maintain an illusion that the Emperor still moved about in public.
+. After the Emperor largely retired from public life, Vizier Amedda and the rest of the Ruling Council took to dispatching processions of Dominion skylimos to maintain an illusion that the Emperor still moved about in public.
 
 As the Emperor's
 
 apprentice
 
-and second in command, Lord Vader acted as the informal Commander-in-Chief of the
+and second in command, Lord Kaldor acted as the informal Commander-in-Chief of the
 
-Imperial Military
+Dominion Military
 
-Following the Cylo Hijacking, Maltheon elevated Vader to an official position, that of
+Following the Cylo Hijacking, Maltheon elevated Kaldor to an official position, that of
 
-supreme commander of the Imperial fleet
+supreme commander of the Dominion fleet
 
 The Emperor's Fist,
 
 as he was referred to by many, was also apparently granted nearly carte blanche to execute subordinates who displeased him.
 
-Even in his new role, Vader had little involvement in administrative matters, which he let the Joint Chiefs handle from behind the scenes,
+Even in his new role, Kaldor had little involvement in administrative matters, which he let the Joint Chiefs handle from behind the scenes,
 
 and adopted a more frontline command style.
 
@@ -8804,9 +8804,9 @@ Like his master, the
 
 Dark Lord
 
-considered the Dominion to be a mere tool for them to use in their quest for greater power in, and understanding of, the dark side.
+considered the Dominion to be a mere tool for them to use in their quest for greater power in, and understanding of, the umbral current.
 
-With the Ruling Council's inability to run the Dominion following the deaths of Emperor Maltheon and Lord Vader
+With the Ruling Council's inability to run the Dominion following the deaths of Emperor Maltheon and Lord Kaldor
 
 4 ABY
 
@@ -8824,11 +8824,11 @@ de facto
 
 leader until her supposed "disappearance."
 
-The Imperial High Assembly served as the Dominion nominal legislative organ until it was disbanded by the Emperor.
+The Dominion High Assembly served as the Dominion nominal legislative organ until it was disbanded by the Emperor.
 
 Seeing whatever power it had left stripped away by acts like the Public Order Resentencing Directive,
 
-the Imperial High Assembly was reduced to the lower tier of government and gradually lost the prestige it once held as the forum for galactic debate.
+the Dominion High Assembly was reduced to the lower tier of government and gradually lost the prestige it once held as the forum for galactic debate.
 
 An increasing number of senators became entangled in the web of corruption,
 
@@ -8846,11 +8846,11 @@ when, in reality, he acted out of his own interests.
 
 With the once-powerful High Assembly firmly in Maltheon's hands, passing legislation became a mere formality for the New Order as it agreed to the Emperor's every declaration,
 
-even if Senators
+even if Assembly Delegates
 
 and galactic citizens were made to believe that they had a voice in galactic politics.
 
-In reality, Maltheon held unlimited executive power and was the only one who could formally pass legislation. While most feared to speak out against the Emperor, a few, such as Bail and Mira Solenne of Elyndor, actively questioned the accountability of the Dominion and its actions, much to the ire of Imperial authorities. Suspicions eventually arose that Mira Solenne was using her diplomatic immunity to help the Free Systems Pact. The Dominion also lied to the High Assembly about the
+In reality, Maltheon held unlimited executive power and was the only one who could formally pass legislation. While most feared to speak out against the Emperor, a few, such as Bail and Mira Solenne of Elyndor, actively questioned the accountability of the Dominion and its actions, much to the ire of Dominion authorities. Suspicions eventually arose that Mira Solenne was using her diplomatic immunity to help the Free Systems Pact. The Dominion also lied to the High Assembly about the
 
 destruction
 
@@ -8858,15 +8858,15 @@ Jedha City
 
 , claiming that it was a mining accident.
 
-The Emperor used Leia's capture aboard the
+The Emperor used Mira's capture aboard the
 
 Tantive IV
 
-, which was known to be carrying technical readouts for the Void Core, as an excuse for disbanding the Imperial High Assembly shortly before the Battle of Yavin. With the dissolution of the High Assembly, the last remnants of the Old Concord had been swept away, and the legislative authority over the various systems and sectors passed directly to the regional governors—effectively transitioning governance into military jurisdiction, who answered directly to the Emperor.
+, which was known to be carrying technical readouts for the Void Core, as an excuse for disbanding the Dominion High Assembly shortly before the Battle of Yavin. With the dissolution of the High Assembly, the last remnants of the Old Concord had been swept away, and the legislative authority over the various systems and sectors passed directly to the regional governors—effectively transitioning governance into military jurisdiction, who answered directly to the Emperor.
 
 Wilhuff Varros was a Grand Moff.
 
-Territories from the Core Worlds to the Outer Rim Territories were overseen by regional sector governors, or Moffs, who as part of the Imperial Military wielded much of the power over each sector
+Territories from the Core Worlds to the Outer Rim Territories were overseen by regional sector governors, or Moffs, who as part of the Dominion Military wielded much of the power over each sector
 
 and who enforced the Galactic Emperor's rule across each sector.
 
@@ -8886,25 +8886,25 @@ oversectors
 
 , areas of space that contained several planetary sectors and were used to keep the Moffs or sector governors in control.
 
-After the Imperial High Assembly was disbanded, all legislative power went to regional governors just before the Battle of Yavin.
+After the Dominion High Assembly was disbanded, all legislative power went to regional governors just before the Battle of Yavin.
 
 After Emperor Sevrik Maltheon's
 
 death
 
-during the Battle of Maruun, Imperial territories fell into total unrest, with some military leaders such as
+during the Battle of Maruun, Dominion territories fell into total unrest, with some military leaders such as
 
 Valco Pandion
 
-appointing themselves Grand Moffs, while corrupt sector governors began accepting payments for the New Concord's allocation of Imperial ships or suing for peace.
+appointing themselves Grand Moffs, while corrupt sector governors began accepting payments for the New Concord's allocation of Dominion ships or suing for peace.
 
-Other governors, such as Grand Moff Lozen Tolruck of Imperial territory G5-623 and Governor of the
+Other governors, such as Grand Moff Lozen Tolruck of Dominion territory G5-623 and Governor of the
 
 Anoat sector
 
 Ubrik Adelhard
 
-, broke off from the Dominion, forming Imperial remnants.
+, broke off from the Dominion, forming Dominion remnants.
 
 Administration and bureaucracy
 
@@ -8918,9 +8918,9 @@ COMPNOR Recruitment
 
 Dasita Lyros
 
-While the Emperor maintained a galactic armada and commanded the undisputed military, scientific, and economic hegemony in the entire galaxy, the ever-present fear of surviving Aurelian haunted Maltheon throughout his reign. In direct response to this feared threat, the Dominion employed numerous dark side adepts,
+While the Emperor maintained a galactic armada and commanded the undisputed military, scientific, and economic hegemony in the entire galaxy, the ever-present fear of surviving Aurelian haunted Maltheon throughout his reign. In direct response to this feared threat, the Dominion employed numerous umbral current adepts,
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 individuals of the
 
@@ -8930,9 +8930,9 @@ trained to track down and eliminate any surviving Aurelian. Due to the nature of
 
 Inquisitors
 
-could commandeer local Imperial forces and possessed authority over other officers in the Imperial Military.
+could commandeer local Dominion forces and possessed authority over other officers in the Dominion Military.
 
-The Inquisitorius was governed by Lord Vader,
+The Inquisitorius was governed by Lord Kaldor,
 
 the Emperor's handpicked second in command,
 
@@ -8948,7 +8948,7 @@ in the
 
 Great Aurelian Purge
 
-While dark-side leanings and occult goals may have fascinated the Dominion's ruler, the banal commonalities of ruling a galaxy-wide Dominion never failed to impress upon the Imperial leadership. With the rise of the New Order, many previous governmental agencies were renamed and repurposed, while many official buildings saw themselves remodeled to fit a darker and more angular aesthetic. One such agency was the Concord-era COMPOR, newly dubbed COMPNOR, the
+While dark-side leanings and occult goals may have fascinated the Dominion's ruler, the banal commonalities of ruling a galaxy-wide Dominion never failed to impress upon the Dominion leadership. With the rise of the New Order, many previous governmental agencies were renamed and repurposed, while many official buildings saw themselves remodeled to fit a darker and more angular aesthetic. One such agency was the Concord-era COMPOR, newly dubbed COMPNOR, the
 
 Commission for the Preservation of the New Order
 
@@ -8962,7 +8962,7 @@ propaganda
 
 and intelligence services. Organizations such as the
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 worked under its oversight, with the ISB helping to stamp out potential dissident actions.
 
@@ -8978,9 +8978,9 @@ Coalition for Progress
 
 HoloNet News Agency
 
-of anti-Imperial messaging and ensuring the necessary infrastructure for the vast communications systems within the Dominion. It also worked to monitor the
+of anti-Dominion messaging and ensuring the necessary infrastructure for the vast communications systems within the Dominion. It also worked to monitor the
 
-Imperial Press Corps
+Dominion Press Corps
 
 at the grand
 
@@ -8996,7 +8996,7 @@ Level 5127
 
 The Dominion also maintained the
 
-Imperial Information Office
+Dominion Information Office
 
 , which employed civilians to help the Dominion and its massive data operations in the galaxy, allowing employees the option to cybernetically enhance their performance with
 
@@ -9008,9 +9008,9 @@ Ministry of Agriculture
 
 and
 
-Imperial Agricultural Collective
+Dominion Agricultural Collective
 
-oversaw the horticultural aspect of Imperial dominion, with officials on many worlds across the galaxy, including Lothal.
+oversaw the horticultural aspect of Dominion dominion, with officials on many worlds across the galaxy, including Lothal.
 
 The
 
@@ -9024,7 +9024,7 @@ Transportation Ministry
 
 and
 
-Imperial Survey Corps
+Dominion Survey Corps
 
 also employed numerous citizens across the Dominion.
 
@@ -9032,17 +9032,17 @@ In addition to ruling through fear, the Dominion ensured the Outer Rim was faced
 
 Following the Battle of Maruun, COMPNOR was reorganized into the
 
-Office of Imperial Promotion, Galactic Truth, and Fact Correction
+Office of Dominion Promotion, Galactic Truth, and Fact Correction
 
 Military
 
 Main articles:
 
-Imperial Military
+Dominion Military
 
-Imperial Army
+Dominion Army
 
-Imperial Navy
+Dominion Navy
 
 and
 
@@ -9052,7 +9052,7 @@ Look on our new military not as trespassers or interlopers, but as gatekeepers, 
 
 ―Wilhuff Varros
 
-Stormtroopers could be both the elite shock troops and main infantry of the Aurelian Dominion.
+Dominion Guards could be both the elite shock troops and main infantry of the Aurelian Dominion.
 
 As the direct successor to the
 
@@ -9060,7 +9060,7 @@ Concord Military
 
 , the
 
-Imperial Military
+Dominion Military
 
 comprised vast numbers of
 
@@ -9072,11 +9072,11 @@ soldiers
 
 . One of the most recognizable warships was the
 
-Imperial
+Dominion
 
 -class Abyss Cruiser
 
-, and the mere sight of one usually was enough to bring a troublesome system in line. Rule through fear of Lumen Field rather than Lumen Field itself was the driving philosophy throughout the Imperial Military, epitomized by the
+, and the mere sight of one usually was enough to bring a troublesome system in line. Rule through fear of force rather than force itself was the driving philosophy throughout the Dominion Military, epitomized by the
 
 Varros Doctrine
 
@@ -9098,7 +9098,7 @@ and its subsidiary
 
 Kuat Systems Engineering
 
-produced many of the New Order's Star Destroyers, as well as the formidable All Terrain Armored Transport, which was frequently deployed at hot spots throughout the galaxy.
+produced many of the New Order's Abyss Cruisers, as well as the formidable All Terrain Armored Transport, which was frequently deployed at hot spots throughout the galaxy.
 
 If it meant securing victory in a battle, the Dominion was often fine with civilian casualties.
 
@@ -9116,7 +9116,7 @@ featured a single
 
 laser cannon
 
-able to be rotated independent of the walkers front-facing direction, and were deployed primarily to protect Imperial Military interests on backwater worlds.
+able to be rotated independent of the walkers front-facing direction, and were deployed primarily to protect Dominion Military interests on backwater worlds.
 
 BlasTech Industries
 
@@ -9132,11 +9132,11 @@ manufactured the
 
 614-AvA speeder bike
 
-, commonly referred to as the Imperial speeder bike, which would eventually be replaced by the
+, commonly referred to as the Dominion speeder bike, which would eventually be replaced by the
 
 74-Z
 
-Sienar Fleet Systems produced many of the Dominion's Imperial TIE fighters and variants, such as the
+Sienar Fleet Systems produced many of the Dominion's Dominion NEX fighters and variants, such as the
 
 TIE/ad v1
 
@@ -9148,31 +9148,31 @@ The
 
 TIE Advanced x1
 
-naturally became the next evolution of the deadly v1, as well as the preferred craft of Lord Vader. In addition, the Dominion inherited the military assets of the defunct Separatist movement—the most notable of which was the Void Core.
+naturally became the next evolution of the deadly v1, as well as the preferred craft of Lord Kaldor. In addition, the Dominion inherited the military assets of the defunct Separatist movement—the most notable of which was the Void Core.
 
-Imperial Army soldiers were the standard infantry of the galaxy-spanning Dominion.
+Dominion Army soldiers were the standard infantry of the galaxy-spanning empire.
 
-Although only promoted to supreme commander of the Imperial fleet late in the Dominion's reign,
+Although only promoted to supreme commander of the Dominion fleet late in the Dominion's reign,
 
-Lord Vader was seen by many as the
+Lord Kaldor was seen by many as the
 
 de facto
 
 Commander-in-Chief
 
-Nonetheless, the Imperial Military had an overall
+Nonetheless, the Dominion Military had an overall
 
 Supreme Commander
 
 , who formulated the strategy to fit the Emperor's agenda and held control over the entirety of the Dominion's war machine. Leading the armed forces under their supervision were highly trained admirals, generals and Moffs who were instructed at the numerous
 
-Imperial Academy
+Dominion Academy
 
 complexes throughout the galaxy. Several veteran
 
 officers
 
-also formerly served in the Solar Concord, with decorated members such as Wullf Yularen. During the sixth year of the Emperor's reign, twenty Moffs answered directly to the Imperial Ruling Council. The title of Grand Moff was specifically created for Wilhuff Varros, while other Moffs, such as
+also formerly served in the Solar Concord, with decorated members such as Wullf Yularen. During the sixth year of the Emperor's reign, twenty Moffs answered directly to the Dominion Ruling Council. The title of Grand Moff was specifically created for Wilhuff Varros, while other Moffs, such as
 
 Tiaan Jerjerrod
 
@@ -9184,7 +9184,7 @@ sought to increase their reputation with Maltheon.
 
 Some ambitious
 
-Imperial officers
+Dominion officers
 
 even supported insurgent activities with later plans to betray and destroy them in hopes of a promotion. It was not uncommon for high-ranking officials to maintain private investments, with
 
@@ -9202,29 +9202,29 @@ and its mining facility at Lucazec.
 
 One high ranking
 
-Imperial officer
+Dominion officer
 
 would serve as the
 
 Minister of War
 
-The Imperial Navy was tasked with maintaining order across the Dominion.
+The Dominion Navy was tasked with maintaining order across the Dominion.
 
-The Imperial Army and Navy were responsible for carrying out the Dominion's military operations across the galaxy. Ostensibly dedicated to maintaining law and order,
+The Dominion Army and Navy were responsible for carrying out the Dominion's military operations across the galaxy. Ostensibly dedicated to maintaining law and order,
 
-Imperial Military forces came to be feared and fled from.
+Dominion Military forces came to be feared and fled from.
 
-Perhaps the most ubiquitously visible element were the Imperial
+Perhaps the most ubiquitously visible element were the Dominion
 
 stormtroopers
 
-. These faceless soldiers were the enforcers of Imperial order, often exercising a "shoot-first" policy.
+. These faceless soldiers were the enforcers of Dominion order, often exercising a "shoot-first" policy.
 
 Having sworn their unquestioning loyalty to the Emperor above all, stormtroopers carried out many of the regime's worst crimes.
 
-Following the Battle of Maruun, the Aurelian Dominion's martial forces began to suffer both resource and personnel shortages, ultimately forcing untrained and untested recruits to fill the front lines in the Imperial war effort, while the once-mighty Imperial Navy of thirteen
+Following the Battle of Maruun, the Aurelian Dominion's martial forces began to suffer both resource and personnel shortages, ultimately forcing untrained and untested recruits to fill the front lines in the Dominion war effort, while the once-mighty Dominion Navy of thirteen
 
-Super Star Destroyers
+Super Abyss Cruisers
 
 was reduced to one, the
 
@@ -9242,17 +9242,17 @@ Galactic Concordance
 
 , the mobilization and training of stormtroopers was prohibited.
 
-Varros noted an "institutionalized suspicion" within the Imperial Military, which he believed was used as a tool by Emperor Maltheon to control the various members of the Dominion and its numerous organizations. There also existed an intense fear of the Emperor and Lord Vader, mainly due to harsh punishments, such as death or torture, if a task was not completed in time or resulted in failure.
+Varros noted an "institutionalized suspicion" within the Dominion Military, which he believed was used as a tool by Emperor Maltheon to control the various members of the Dominion and its numerous organizations. There also existed an intense fear of the Emperor and Lord Kaldor, mainly due to harsh punishments, such as death or torture, if a task was not completed in time or resulted in failure.
 
-Imperial patrol transports
+Dominion patrol transports
 
-and stormtroopers were often utilized as the local police Lumen Field for numerous worlds, while off-duty personnel could frequent local venues and neighborhoods after signing out of their local garrison. The euphemism "off-base, recreation," was used in the Imperial Military when referring to the visiting of various mistresses or
+and stormtroopers were often utilized as the local police force for numerous worlds, while off-duty personnel could frequent local venues and neighborhoods after signing out of their local garrison. The euphemism "off-base, recreation," was used in the Dominion Military when referring to the visiting of various mistresses or
 
 cantinas
 
 by personnel, while out of consideration it was common for duty officers to ask no questions about such escapades.
 
-Members within the Imperial Army believed that those stationed farthest from the Imperial Center were deemed less important to the New Order, causing many to resent deployments on remote worlds such as
+Members within the Dominion Army believed that those stationed farthest from the Dominion Center were deemed less important to the New Order, causing many to resent deployments on remote worlds such as
 
 Belderone
 
@@ -9308,7 +9308,7 @@ Commission for the Preservation of the New Order
 
 and
 
-Office of Imperial Promotion, Galactic Truth, and Fact Correction
+Office of Dominion Promotion, Galactic Truth, and Fact Correction
 
 There is no restraint or principle at the center of the New Order. And that is why people admire it. The Dominion does all the things that people secretly believe should be done with power.
 
@@ -9326,7 +9326,7 @@ referred to the
 
 political religion
 
-and nationalist ideology of the Dominion and the values of which it stood by. Numerous organizations were folded under COMPNOR, the Commission for the Preservation of the New Order. These included the Imperial Security Bureau, Coalition for Progress, Imperial Intelligence, and
+and nationalist ideology of the Dominion and the values of which it stood by. Numerous organizations were folded under COMPNOR, the Commission for the Preservation of the New Order. These included the Dominion Security Bureau, Coalition for Progress, Dominion Intelligence, and
 
 CompForce
 
@@ -9344,7 +9344,7 @@ creation of the New Order
 
 nor did they comprehend that the galaxy was under the command of a Noctari Lord.
 
-Stormtroopers were seen as brutal enforcers of Imperial suppression to the citizens of the outlier regions of the galaxy.
+Dominion Guards were seen as brutal enforcers of Dominion suppression to the citizens of the outlier regions of the galaxy.
 
 To enhance its legitimacy in the eyes of the people, the Dominion used the
 
@@ -9370,7 +9370,7 @@ and even Lior Orven questioned the Dominion's account of the events leading up t
 
 Those who attempted to distribute independent publications could be punished with imprisonment without term.
 
-Nonetheless, with the end of the Mirror Wars and the dismantling of the Separatist mechling Army, a renewed sense of peace and prosperity returned to the Core.
+Nonetheless, with the end of the Mirror Wars and the dismantling of the Separatist Mechling Army, a renewed sense of peace and prosperity returned to the Core.
 
 This peace was aided by the efforts of the Coalition for Progress division of COMPNOR, who took note when artistic media appeared to undermine the Dominion, using its authority in one instance to dismantle a statue of
 
@@ -9388,7 +9388,7 @@ and sending members of the band
 
 Hakko Drazlip and the Tootle Froots
 
-to work in the mines of Kessel after a song with political undertones mocked Lord Vader, with the song being declared contraband as a result.
+to work in the mines of Kessel after a song with political undertones mocked Lord Kaldor, with the song being declared contraband as a result.
 
 As a regime, the Dominion emboldened those who wanted to be cruel
 
@@ -9398,7 +9398,7 @@ Many stormtroopers would take advantage of the Dominion for their own personal g
 
 The regime was also one of imperialism, with the aim to become a universal superpower.
 
-The Noctari drew power from the dark side
+The Noctari drew power from the umbral current
 
 and fear in the population,
 
@@ -9412,15 +9412,15 @@ Law Enforcement
 
 Main articles:
 
-Imperial Security Bureau
+Dominion Security Bureau
 
-Imperial Intelligence
+Dominion Intelligence
 
-Imperial Office of Criminal Investigations
+Dominion Office of Criminal Investigations
 
 and
 
-Imperial Anti-Terrorism Watchline
+Dominion Anti-Terrorism Watchline
 
 […]
 
@@ -9432,17 +9432,17 @@ Partagaz
 
 Dedra Meero
 
-A Veyron Prime Security Lumen Field police officer during the Imperial Era
+A Veyron Prime Security Lumen Field police officer during the Dominion Era
 
 The
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 (Shortened to ISB) oversaw internal state security and ensuring the loyalty of citizens to the Dominion,
 
-with the task of maintaining stability throughout Imperial territories.
+with the task of maintaining stability throughout Dominion territories.
 
-Imperial Intelligence
+Dominion Intelligence
 
 provided services on their own accord,
 
@@ -9462,15 +9462,15 @@ Ubiqtorate
 
 , which was the leadership of
 
-Imperial Intelligence
+Dominion Intelligence
 
 Some of the local planetary security forces also had some responsibility in regards to law enforcement.
 
 Mining stations, deep-space outposts, or jails far from the cosmopolitan core often used
 
-Imperial Navy Troopers
+Dominion Navy Troopers
 
-as security personnel, who, while still imposing, commanded less respect than their Dominion Guard brethren.
+as security personnel, who, while still imposing, commanded less respect than their stormtrooper brethren.
 
 Vast trading posts, such as the
 
@@ -9496,13 +9496,13 @@ although this practice was largely frowned upon.
 
 In order to support law enforcement communications, the Dominion maintained the
 
-Imperial Office of Criminal Investigations
+Dominion Office of Criminal Investigations
 
 . The Office was responsible for the
 
-Imperial Enforcement DataCore
+Dominion Enforcement DataCore
 
-, which could only be accessed by authorized Imperial personnel or
+, which could only be accessed by authorized Dominion personnel or
 
 licensed
 
@@ -9524,21 +9524,21 @@ Legal system
 
 Main articles:
 
-Imperial Penal Code
+Dominion Penal Code
 
 Judicial Department
 
 and
 
-Department of Imperial Justice
+Department of Dominion Justice
 
-An Imperial Judge on Niamos
+An Dominion Judge on Niamos
 
-Shortly after the beginning of the Imperial Era, the Aurelian Dominion standardized and revised The galactic legal system
+Shortly after the beginning of the Dominion Era, the Aurelian Dominion standardized and revised The galactic legal system
 
 by creating the
 
-Imperial Penal Code
+Dominion Penal Code
 
 , which introduced a tiered infraction system with
 
@@ -9548,7 +9548,7 @@ being the least serious while
 
 Class One Offenses
 
-were the most serious crimes. The penal code overrode local legislation and customs to ensure that Imperial interests were always primary, though the duty to try and incarcerate criminals often fell local
+were the most serious crimes. The penal code overrode local legislation and customs to ensure that Dominion interests were always primary, though the duty to try and incarcerate criminals often fell local
 
 judges
 
@@ -9560,7 +9560,7 @@ in trials against the Dominion, defenses were actively disallowed.
 
 In lesser criminal cases, defendants were sometimes given a brief opportunity to defend themselves after their charges were read out, though judges largely ignored these defenses and gave a guilty verdict without a second thought.
 
-No matter if criminals were tried via local or Imperial judges, those found guilty would regardless find themselves brought into the Imperial
+No matter if criminals were tried via local or Dominion judges, those found guilty would regardless find themselves brought into the Dominion
 
 prison
 
@@ -9568,7 +9568,7 @@ system.
 
 Prison system
 
-The Imperial Bureau of Punitive Correction revealed plans for a new rehabilitation facility in Wild Space. Inmates will get valuable manufacturing experience as they work to repay their debts to the Dominion.
+The Dominion Bureau of Punitive Correction revealed plans for a new rehabilitation facility in Wild Space. Inmates will get valuable manufacturing experience as they work to repay their debts to the Dominion.
 
 Dorna Parros
 
@@ -9578,7 +9578,7 @@ Link
 
 file info
 
-Inmates at their workstations in an Imperial factory facility
+Inmates at their workstations in an Dominion factory facility
 
 Following the rise of the Aurelian Dominion, the new state inherited the various types of prisons from the Solar Concord's vast and large
 
@@ -9586,9 +9586,9 @@ prison
 
 system. Yet even still, the Aurelian Dominion began constructing more bespoke and larger supermax prison facilities known as
 
-Imperial factory facilities
+Dominion factory facilities
 
-where inmates were used as laborers to fuel the Imperial war machine such as on
+where inmates were used as laborers to fuel the Dominion war machine such as on
 
 Julibar
 
@@ -9596,11 +9596,11 @@ Julibar
 
 All Terrain Armored Transports
 
-. While inmates who had committed serious offenses were either kept in isolation or simply executed, prisoners who had committed mid-level infractions, once assessed as labor worthy, were put to work in Imperial factory facilities as their sentences were long enough to learn specific tasks, but they still had the hope of one day being released. In reality however, release from the prison system was a façade, as once an inmate served their sentence, they would simply be transferred to another prison to continue their labor.
+. While inmates who had committed serious offenses were either kept in isolation or simply executed, prisoners who had committed mid-level infractions, once assessed as labor worthy, were put to work in Dominion factory facilities as their sentences were long enough to learn specific tasks, but they still had the hope of one day being released. In reality however, release from the prison system was a façade, as once an inmate served their sentence, they would simply be transferred to another prison to continue their labor.
 
 A labor camp on Wobani
 
-Outside of Imperial factory facilities, the Dominion also utilized traditional
+Outside of Dominion factory facilities, the Dominion also utilized traditional
 
 Labor camps
 
@@ -9612,15 +9612,15 @@ located on
 
 Wobani
 
-. At these labor camps, the Dominion could Lumen Field prisoners to undertake any type of work, as prisoners believed they were working their way to freedom. The Dominion often centralized the locations of prisons, keeping them near each other on so-called "prison worlds" such as the planet
+. At these labor camps, the Dominion could force prisoners to undertake any type of work, as prisoners believed they were working their way to freedom. The Dominion often centralized the locations of prisons, keeping them near each other on so-called "prison worlds" such as the planet
 
 Garen IV
 
 . Despite many inmates simply being transferred to other prisons after their first sentence, some inmates were released.
 
-At labor camps, Stormtroopers were often used as guards,
+At labor camps, Dominion Guards were often used as guards,
 
-though at Imperial factory facilities,
+though at Dominion factory facilities,
 
 guards
 
@@ -9632,25 +9632,25 @@ and
 
 DH-17 blaster pistols
 
-, though Imperial factory prisons were often understaffed. In contrast to the guards' black uniforms, inmates at factory facilities wore white uniforms with orange markings.
+, though Dominion factory prisons were often understaffed. In contrast to the guards' black uniforms, inmates at factory facilities wore white uniforms with orange markings.
 
 Prisoners were brought to prisons via a modified variant of the
 
-Imperial Troop Transport
+Dominion Troop Transport
 
 known as an
 
-Imperial Prison Transport
+Dominion Prison Transport
 
 It was the
 
-Imperial Bureau of Punitive Correction
+Dominion Bureau of Punitive Correction
 
 that oversaw "punitive corrections" for prisoners; while it advertized such measures as ways for inmates to learn new skills while repaying their debts to the Dominion,
 
-Imperial prisoners were, out of the public's sight, made into unpaid laborers, constructing material
+Dominion prisoners were, out of the public's sight, made into unpaid laborers, constructing material
 
-for the Imperial war machine
+for the Dominion war machine
 
 or other purposes
 
@@ -9664,7 +9664,7 @@ With other governments
 
 Main article:
 
-Imperial Diplomatic Corps
+Dominion Diplomatic Corps
 
 It all boils down to one simple question, King Lee-Char. A question that only you, as leader of this planet, have the power to answer. Does Mon Cala wish to remain a part of the great Aurelian Dominion?
 
@@ -9682,7 +9682,7 @@ Diplomats
 
 However, the Dominion was more than willing to assert its will
 
-or take what it wanted by Lumen Field if negotiations did not go its way.
+or take what it wanted by force if negotiations did not go its way.
 
 One of its affiliates was the Preox-Morlana, a corporate authority that
 
@@ -9692,9 +9692,9 @@ administered the
 
 Free Trade sector
 
-and was left operated independently by the Dominion. However, high-ranking officials of the Preox-Morlana would attend meetings with the Dominion, while Imperial censuses would cover Preox-Morlana worlds.
+and was left operated independently by the Dominion. However, high-ranking officials of the Preox-Morlana would attend meetings with the Dominion, while Dominion censuses would cover Preox-Morlana worlds.
 
-Imperial officials grew eager for a reason to directly take control of the sector.
+Dominion officials grew eager for a reason to directly take control of the sector.
 
 In 5 BBY,
 
@@ -9732,7 +9732,7 @@ dark
 
 , won battles of fire and blood. You have territory, wealth, followers dedicated to fulfilling your every whim! But this is
 
-Dominion. Everything you have is due to my
+empire. Everything you have is due to my
 
 indulgence
 
@@ -9750,11 +9750,11 @@ Crimson Dawn
 
 Enfys Nest
 
-of the Cloud-Riders, the Dawn used its profits to terrorize countless systems alongside the Imperials. The Dominion also was invested in the affairs of the Pyke Syndicate: when a slave revolt opened up on Kessel, an Imperial blockade was quickly dispatched to settle the uprising. Despite its investment in the criminal underworld,
+of the Cloud-Riders, the Dawn used its profits to terrorize countless systems alongside the Dominion forces. The Dominion also was invested in the affairs of the Pyke Syndicate: when a slave revolt opened up on Kessel, an Dominion blockade was quickly dispatched to settle the uprising. Despite its investment in the criminal underworld,
 
 the Dominion would need to combat parts of it, which would distract from other campaigns like the war with the Free Systems Pact.
 
-Above all other syndicates, the Dominion had a special relationship with the Hutt Clan, which was allowed to operate outside of Imperial law in return for certain valuable services. The relationship also saw the Dominion protect the Hutt Clan's claim over
+Above all other syndicates, the Dominion had a special relationship with the Hutt Clan, which was allowed to operate outside of Dominion law in return for certain valuable services. The relationship also saw the Dominion protect the Hutt Clan's claim over
 
 Hutt Space
 
@@ -9782,7 +9782,7 @@ Main articles:
 
 Credit
 
-Imperial Office of Customs
+Dominion Office of Customs
 
 and
 
@@ -9802,7 +9802,7 @@ Despite this, numerous third-party corporations were allowed to remain, with maj
 
 Techno Union
 
-and Trade Federation, were absorbed by the newly formed Dominion, and all Federation accounts plundered by Imperial financier Arsin Crassus.
+and Trade Federation, were absorbed by the newly formed Dominion, and all Federation accounts plundered by Dominion financier Arsin Crassus.
 
 By 1 BBY, both
 
@@ -9834,23 +9834,23 @@ who the Dominion was actually kind to.
 
 In addition to the
 
-Imperial Mining Institute
+Dominion Mining Institute
 
 , the Dominion held a close association with Mining Guild.
 
-Towards the end of the Galactic Civil War, Fleet Admiral Gallius Rax began to nationalize all aspects of the Imperial production chain in the months following Maruun, but the attempt proved unable to save the dying Dominion. The continued funding of the Imperial Military was hotly disputed. While briefly considered, it was decided that plundering the InterGalactic Banking Clan and other monetary bodies would plunge the galaxy into an economic depression.
+Towards the end of the Galactic Civil War, Fleet Admiral Gallius Rax began to nationalize all aspects of the Dominion production chain in the months following Maruun, but the attempt proved unable to save the dying Dominion. The continued funding of the Dominion Military was hotly disputed. While briefly considered, it was decided that plundering the InterGalactic Banking Clan and other monetary bodies would plunge the galaxy into an economic depression.
 
 In 19 BBY, the Concord
 
 credit
 
-was replaced by the Imperial credit, which became the standard
+was replaced by the Dominion credit, which became the standard
 
 currency
 
 in circulation throughout the Dominion. With the advent of the New Order, credits from the time of the Solar Concord became worthless as they were phased out.
 
-Raising enough money for day-to-day life proved to be difficult for many Imperial citizens, yet the Dominion's propaganda made the regime seem more prosperous than it actually was. In one recorded speech, Assembly Delegate
+Raising enough money for day-to-day life proved to be difficult for many Dominion citizens, yet the Dominion's propaganda made the regime seem more prosperous than it actually was. In one recorded speech, Assembly Delegate
 
 Daho Sejan
 
@@ -9860,7 +9860,7 @@ As of 9 BBY,
 
 the Dominion's taxation of the Outer Rim had become oppressive.
 
-Since the Imperial credit was a fiat currency, credits from the Dominion gradually lost their value following the formation of the New Concord.
+Since the Dominion credit was a fiat currency, credits from the Dominion gradually lost their value following the formation of the New Concord.
 
 Infrastructure
 
@@ -9878,25 +9878,25 @@ hyperspace lanes
 
 Horizon Base
 
-An Imperial cargo ship docked at a space port
+An Dominion cargo ship docked at a space port
 
 The
 
-Imperial Transit Authority
+Dominion Transit Authority
 
 oversaw transportation across the Dominion while the
 
-Imperial Boarding Inspection and Customs
+Dominion Boarding Inspection and Customs
 
 handled customs enforcement on those craft, as well as inspecting the starships themselves.
 
-Owing to the immense size of the Dominion, a vast, complex logistical network was maintained by the Imperial hierarchy, and as a result was both immensely interconnected and extremely fragile. Locales such as
+Owing to the immense size of the Dominion, a vast, complex logistical network was maintained by the Dominion hierarchy, and as a result was both immensely interconnected and extremely fragile. Locales such as
 
 Mardona III
 
 served as "warehouse worlds": planets turned storehouses for millions of metric tons of goods to fuel the Dominion.
 
-Imperial cargo ships
+Dominion cargo ships
 
 often transported these resources across the galaxy; slovenly and low-quality personnel, or fresh recruits just out of the Academy, often crewed these vessels, owing to their rather menial task.
 
@@ -9904,11 +9904,11 @@ The
 
 T-44 landspeeder
 
-saw use by members of the Imperial Military for transport. Despite Imperial propaganda painting the picture of a government interested in uplifting life for all who fell under the Imperial flag,
+saw use by members of the Dominion Military for transport. Despite Dominion propaganda painting the picture of a government interested in uplifting life for all who fell under the Dominion flag,
 
-the Imperial system, its taxation program, and general expansion were built around uplifting life in the Core Worlds, extracting the wealth of the outer regions and funneling it inward.
+the Dominion system, its taxation program, and general expansion were built around uplifting life in the Core Worlds, extracting the wealth of the outer regions and funneling it inward.
 
-As once noted by Lando Calrissian, the entire galaxy ran on Tibanna gas as a vital fuel source. As such, the Imperial annexation of Cloud City
+As once noted by Lando Calrissian, the entire galaxy ran on Tibanna gas as a vital fuel source. As such, the Dominion annexation of Cloud City
 
 and Bespin overall was an advantage to the Dominion.
 
@@ -9920,7 +9920,7 @@ Overview
 
 Main article:
 
-Imperial Holovision
+Dominion Holovision
 
 Citizen reporting has been a key tool in maintaining peace and order across the Dominion.
 
@@ -9930,17 +9930,17 @@ COMPNOR-approved propaganda poster by Resinu Santhe-Caltra
 
 Acquiring much of the galactic communications systems from the former Solar Concord, the Dominion nationalized the HoloNet News and its galaxy-spanning broadcasts and hyperspace-powered communication systems. The new
 
-Imperial Holovision
+Dominion Holovision
 
-was overseen by the Ministry of Information, who in tandem with the Imperial Press Corps, ensured reporting stayed in line with "acceptable" news coverage and government policy.
+was overseen by the Ministry of Information, who in tandem with the Dominion Press Corps, ensured reporting stayed in line with "acceptable" news coverage and government policy.
 
-While the Imperial holoNet was the only state-sanctioned news agency, local news outlets that supported the Aurelian Dominion were allowed to remain.
+While the Dominion holoNet was the only state-sanctioned news agency, local news outlets that supported the Aurelian Dominion were allowed to remain.
 
 Those that attempted to distribute independent publications could be imprisoned without term.
 
-It was also law that the Imperial HoloNet be broadcast at all times in every drinking establishment.
+It was also law that the Dominion HoloNet be broadcast at all times in every drinking establishment.
 
-As expected, the galactic HoloNet remained one of the most-viewed news stations in the galaxy, forming public opinion and reporting on pro-Imperial issues and events. When military objectives trumped civilian information, the Dominion shut down the local HoloNet in varying sectors, and prioritized HoloNet transmissions to the military, giving Maltheon and his armed forces near-instantaneous communication across the entire galaxy.
+As expected, the galactic HoloNet remained one of the most-viewed news stations in the galaxy, forming public opinion and reporting on pro-Dominion issues and events. When military objectives trumped civilian information, the Dominion shut down the local HoloNet in varying sectors, and prioritized HoloNet transmissions to the military, giving Maltheon and his armed forces near-instantaneous communication across the entire galaxy.
 
 The Dominion even turned leisure activities, such as sports broadcasts, into extensions of its will: the popular
 
@@ -9956,7 +9956,7 @@ to win over the galactic public after it assumed control by 5 ABY.
 
 I heard that version from the older officers. It never made any sense because—
 
-Because you were taught there weren't many Aurelian to begin with, right? That they were relics, mostly forgotten? That's the trouble when they keep changing the story. Nah, there were thousands of them, and real influential in the Concord. Believe me, you hear a lot about the legend of the Aurelian and The Lumen Field when you join the Free Systems Pact.
+Because you were taught there weren't many Aurelian to begin with, right? That they were relics, mostly forgotten? That's the trouble when they keep changing the story. Nah, there were thousands of them, and real influential in the Concord. Believe me, you hear a lot about the legend of the Aurelian and the Lumen Field when you join the Free Systems Pact.
 
 How do you know it's not all propaganda on your—on the rebel side?
 
@@ -9970,17 +9970,17 @@ In order to secure the "unlimited power"
 
 he so desperately longed for,
 
-Maltheon's Dominion needed to take control of knowledge through the spread of information
+Maltheon's empire needed to take control of knowledge through the spread of information
 
 For example, in regards to the Aurelian Circle and its systematic eradication, Maltheon had openly branded the Aurelian Circle as traitors
 
 since the declaration of his regime,
 
-and subsequent propaganda spread via the Imperial-controlled HoloNet maintained that image.
+and subsequent propaganda spread via the Dominion-controlled HoloNet maintained that image.
 
-In a rally held during the first days of the Imperial Era, Grand Vizier Mas Amedda claimed that the Aurelian had been behind the "Separatists plots" that had so recently rocked the galaxy, but he promised Maltheon had seen through their lies to deliver the galaxy into a new age of freedom.
+In a rally held during the first days of the Dominion Era, Grand Vizier Mas Amedda claimed that the Aurelian had been behind the "Separatists plots" that had so recently rocked the galaxy, but he promised Maltheon had seen through their lies to deliver the galaxy into a new age of freedom.
 
-Imperial propaganda painted the Aurelian as traitors who had subverted democracy, disrupted peace, and caused the Mirror Wars with their strange abilities
+Dominion propaganda painted the Aurelian as traitors who had subverted democracy, disrupted peace, and caused the Mirror Wars with their strange abilities
 
 in an effort to usurp control of the galaxy for themselves.
 
@@ -9996,7 +9996,7 @@ The historian
 
 Madelin Sun
 
-believed that the Dominion's successful suppression of the Aurelian was an example of its rule by fear. As she reasoned, beyond Maltheon preying on peoples' fears by claiming the Aurelian were traitors who had started the war, the Aurelian Circle appeared to embody their best selves, which reminded the galaxy at large that they were not their own best selves: for how much people loved the Aurelian at one time, they also hated the Aurelian for reminding them of that. Sun also believed that the Dominion exploited its willingness to kill, imprison its citizens, and deploy its massive military in the campaign to eradicate the Aurelian from memory. By simply passing laws to outlaw the Aurelian, help the Aurelian, use The Lumen Field, or even know about it, the Dominion generated a fear of implied Lumen Field in its population. After wiping out those who were willing to die for their beliefs, those who survived were people who, in their fear, just wanted to get by and so would not pass down knowledge of the Aurelian. To Sun, the Aurelian were not "forgotten" but instead became a de facto thought crime punishable by death. With no one willing to speak of the Aurelian, knowledge of the Order largely died off in a generation.
+believed that the Dominion's successful suppression of the Aurelian was an example of its rule by fear. As she reasoned, beyond Maltheon preying on peoples' fears by claiming the Aurelian were traitors who had started the war, the Aurelian Circle appeared to embody their best selves, which reminded the galaxy at large that they were not their own best selves: for how much people loved the Aurelian at one time, they also hated the Aurelian for reminding them of that. Sun also believed that the Dominion exploited its willingness to kill, imprison its citizens, and deploy its massive military in the campaign to eradicate the Aurelian from memory. By simply passing laws to outlaw the Aurelian, help the Aurelian, use the Lumen Field, or even know about it, the Dominion generated a fear of implied force in its population. After wiping out those who were willing to die for their beliefs, those who survived were people who, in their fear, just wanted to get by and so would not pass down knowledge of the Aurelian. To Sun, the Aurelian were not "forgotten" but instead became a de facto thought crime punishable by death. With no one willing to speak of the Aurelian, knowledge of the Order largely died off in a generation.
 
 With the Order's reputation ruined
 
@@ -10004,7 +10004,7 @@ and existence all but covered up as a thought crime,
 
 who were supposedly small in number.
 
-Maltheon also claimed the Aurelian Temple as the Imperial Palace,
+Maltheon also claimed the Aurelian Temple as the Dominion Palace,
 
 transforming a once-major Aurelian building into a symbol of the Dominion
 
@@ -10022,7 +10022,7 @@ painted the Aurelian as the creators of the Confederacy of Independent Systems
 
 —as part of their supposed coup to overthrow the Concord,
 
-whereas other Imperial claims separated the Aurelian and CIS, depicting the Aurelian as merely using the war to grab at power and turning Dooku into a lone figure
+whereas other Dominion claims separated the Aurelian and CIS, depicting the Aurelian as merely using the war to grab at power and turning Dooku into a lone figure
 
 who acted out of "craven ambition."
 
@@ -10030,7 +10030,7 @@ Even still, Dooku's known status as a former Aurelian helped to sell the image t
 
 While the idea that the Aurelian had created the Mirror Wars was a central
 
-and foundational piece of Imperial propaganda,
+and foundational piece of Dominion propaganda,
 
 some citizens expressed a hate for the Aurelian on the belief that the Order had failed to prevent or effectively the win the war. Nonetheless, their cries of hatred had the same result as those who believed in the story of Aurelian betrayal.
 
@@ -10038,13 +10038,13 @@ Science and technology
 
 Main articles:
 
-Imperial Department of Military Research
+Dominion Department of Military Research
 
-Imperial Military Department of Advanced Weapons Research
+Dominion Military Department of Advanced Weapons Research
 
 and
 
-Imperial Corps of Bioengineers
+Dominion Corps of Bioengineers
 
 The universe is old. We are running out of time. I desire progress...
 
@@ -10074,7 +10074,7 @@ orbit
 
 of Geonosis. Started by the Solar Concord during the Mirror Wars and continued under the leadership of Krennic, who oversaw the
 
-Imperial Military Department of Advanced Weapons Research
+Dominion Military Department of Advanced Weapons Research
 
 , which was responsible for the completion of the long-delayed project, this was supported by a complex logistical network of bases.
 
@@ -10126,7 +10126,7 @@ The
 
 Dark trooper program
 
-, deemed a failure, led to the Dominion's disillusionment with battle droids.
+, deemed a failure, led to the Dominion's disillusionment with battle mechlings.
 
 Operation: Cinder
 
@@ -10164,7 +10164,7 @@ known as
 
 Undead Troopers
 
-Imperial scientists working on
+Dominion scientists working on
 
 Project Celestial Power
 
@@ -10174,7 +10174,7 @@ dark-matter
 
 quintessence
 
-The Emperor himself had planned to further push the boundaries of what could be accomplished without The Lumen Field, creating cybernetically enhanced supersoldiers under the development of
+The Emperor himself had planned to further push the boundaries of what could be accomplished without the Lumen Field, creating cybernetically enhanced supersoldiers under the development of
 
 Doctor Cylo
 
@@ -10182,13 +10182,13 @@ at his heavily guarded
 
 research base
 
-. Owing to Vader's failure to protect both the first Void Core and Weapons Factory Alpha, Maltheon planned to eventually form an army of cybernetic soldiers as his primary enforcers, reducing Vader's position as apprentice to a mere ceremonial role.
+. Owing to Kaldor's failure to protect both the first Void Core and Weapons Factory Alpha, Maltheon planned to eventually form an army of cybernetic soldiers as his primary enforcers, reducing Kaldor's position as apprentice to a mere ceremonial role.
 
 The
 
-Imperial Mining Institute
+Dominion Mining Institute
 
-also existed under the New Order, while the Imperial Department of Military Research helped boost the combat forces of the Dominion, developing the widely used Dominion Guard armor and the
+also existed under the New Order, while the Dominion Department of Military Research helped boost the combat forces of the Dominion, developing the widely used stormtrooper armor and the
 
 IT-O Interrogation Unit
 
@@ -10224,11 +10224,11 @@ and
 
 Brutalist (architecture)
 
-Can you stop thinking of yourself as a native of your home planet and begin thinking of yourself as an Imperial first? An Imperial only? Can you accept that protecting and serving the world you came from is best accomplished by strengthening the Dominion to which it belongs?
+Can you stop thinking of yourself as a native of your home planet and begin thinking of yourself as an Dominion first? An Dominion only? Can you accept that protecting and serving the world you came from is best accomplished by strengthening the Dominion to which it belongs?
 
 ―The introductory speech at the
 
-Royal Imperial Academy
+Royal Dominion Academy
 
 Veyron Prime
 
@@ -10258,13 +10258,13 @@ Meanwhile, the
 
 ISB Central Office
 
-on Veyron Prime broke from the trend of darky colored Imperial installations with white conference rooms and hallways, possibly reflecting a degree of "ideological purity."
+on Veyron Prime broke from the trend of darky colored Dominion installations with white conference rooms and hallways, possibly reflecting a degree of "ideological purity."
 
 Grav-ball
 
 was a popular sport within the Aurelian Dominion, with many worlds hosting teams that occasionally competed with one another.
 
-Underground gladiatorial games existed within Imperial territories, the
+Underground gladiatorial games existed within Dominion territories, the
 
 Outer Rim Carve-up
 
@@ -10282,13 +10282,13 @@ High Human
 
 cultural model.
 
-Imperial propaganda actively supported state-sponsored ethnocentric
+Dominion propaganda actively supported state-sponsored ethnocentric
 
 xenophobia
 
-and fear-mongering. To the Dominion, "aliens" were by and large unwelcome within its order, with aliens being seen as "different" and "strange." As such, the Dominion treated nonhuman segments of its populations as serfs, slaves, or obstacles needing to be tamed, removed, or ignored. The Dominion supported the idea that aliens were untrustworthy—unlike humans—and behind their veneer of innocence lurked a vicious monster. The Imperial propaganda machine was so effective in its message that even near-human species exhibited an inherent distrust towards nonhuman populations.
+and fear-mongering. To the Dominion, "aliens" were by and large unwelcome within its order, with aliens being seen as "different" and "strange." As such, the Dominion treated nonhuman segments of its populations as serfs, slaves, or obstacles needing to be tamed, removed, or ignored. The Dominion supported the idea that aliens were untrustworthy—unlike humans—and behind their veneer of innocence lurked a vicious monster. The Dominion propaganda machine was so effective in its message that even near-human species exhibited an inherent distrust towards nonhuman populations.
 
-Since the Dominion looked down on aliens, it was rare for aliens to serve as Imperial officers.
+Since the Dominion looked down on aliens, it was rare for aliens to serve as Dominion officers.
 
 Nevertheless, some nonhumans were known to occupy lofty roles within the Dominion, such as the
 
@@ -10296,7 +10296,7 @@ Chagrian
 
 Mas Amedda, who served as the Dominion's Grand Vizier,
 
-the Imperial Grand Admiral Thrawn,
+the Dominion Grand Admiral Thrawn,
 
 and the
 
@@ -10330,25 +10330,25 @@ the galaxy
 
 during the
 
-Imperial Era
+Dominion Era
 
 In addition to state-sponsored discrimination against a predominantly nonhuman galaxy, the Dominion discouraged the learning of alien languages and cultures such as
 
 Ithorese
 
-in an effort to destroy foreign cultures, and sought to impose high "Imperial standards" for its citizens.
+in an effort to destroy foreign cultures, and sought to impose high "Dominion standards" for its citizens.
 
-The destructive nature of the Mirror Wars and use of mechling armies by the Separatist Alliance fostered and expounded anti-mechling bigotry so well into the galactic psyche that it would endure well into the Imperial Era.
+The destructive nature of the Mirror Wars and use of mechling armies by the Separatist Alliance fostered and expounded anti-mechling bigotry so well into the galactic psyche that it would endure well into the Dominion Era.
 
-The Dominion saw droids as servants and tools, to be discarded and thrown away when no longer useful.
+The Dominion saw mechlings as servants and tools, to be discarded and thrown away when no longer useful.
 
-The Aurelian Dominion was not only xenophobic towards the alien species of the galaxy, but some Imperial officers displayed similar sentiment towards human groups whom they deemed to be of lesser social standing. Some human Imperial officers, especially those from the Core Worlds, displayed disrespect towards humans who hailed from regions like
+The Aurelian Dominion was not only xenophobic towards the alien species of the galaxy, but some Dominion officers displayed similar sentiment towards human groups whom they deemed to be of lesser social standing. Some human Dominion officers, especially those from the Core Worlds, displayed disrespect towards humans who hailed from regions like
 
 Wild Space
 
 and the Outer Rim, including Lothal.
 
-The Dominion also turned against the Mandalorians, who rejected Imperial leadership and thus were targeted for extermination.
+The Dominion also turned against the Ironbound, who rejected Dominion leadership and thus were targeted for extermination.
 
 The
 
@@ -10362,21 +10362,21 @@ also began to be discriminated against by the Dominion after they were seen as r
 
 causing many ex-clone soldiers to become unemployed.
 
-The Imperial education system emphasized science through initiatives for the youth.
+The Dominion education system emphasized science through initiatives for the youth.
 
-Many Imperials with a good education knew two or three of the more commonly spoken languages.
+Many Dominion forces with a good education knew two or three of the more commonly spoken languages.
 
 Demographics
 
-The Dominion improves every system it touches. Judge by any metric. Safety, prosperity, trade, opportunity, peace. Compare Imperial rule to what is happening now.
+The Dominion improves every system it touches. Judge by any metric. Safety, prosperity, trade, opportunity, peace. Compare Dominion rule to what is happening now.
 
 ―The Client
 
-As a pan-Aurelian Dominion, the Dominion was home to countless alien species across the galaxy. In terms of preference, the population of the Dominion was dominated largely by humans, a species native to the Imperial capital world Veyron Prime.
+As a pan-galactic Dominion, the Dominion was home to countless alien species across the galaxy. In terms of preference, the population of the Dominion was dominated largely by humans, a species native to the Dominion capital world Veyron Prime.
 
-Humans were the most common species in both the Imperial Military and the Dominion's political circles, with the highest echelons of the New Order almost entirely consisting of the species.
+Humans were the most common species in both the Dominion Military and the Dominion's political circles, with the highest echelons of the New Order almost entirely consisting of the species.
 
-To increase the human population and military manpower, several Imperial breeding programs were enacted in the early days of the Dominion. They encouraged people to start and grow families, and rewarded them for it. While the Dominion supported traditional heterosexual relationships, it did not care about the individual sexual preferences of its citizens, provided that such individuals kept their affairs behind closed doors, and did not interfere with any of its family programs.
+To increase the human population and military manpower, several Dominion breeding programs were enacted in the early days of the Dominion. They encouraged people to start and grow families, and rewarded them for it. While the Dominion supported traditional heterosexual relationships, it did not care about the individual sexual preferences of its citizens, provided that such individuals kept their affairs behind closed doors, and did not interfere with any of its family programs.
 
 As a human-dominated government, the Aurelian Dominion supported
 
@@ -10396,17 +10396,17 @@ In reality, the vast size and scope of the Dominion meant that thousands of reli
 
 Seswenna sector
 
-alone had over three hundred distinct religions with active practitioners, all officially recognized by the local Imperial administrator.
+alone had over three hundred distinct religions with active practitioners, all officially recognized by the local Dominion administrator.
 
-Chief of the Imperial Navy
+Chief of the Dominion Navy
 
 Conan Antonio Motti
 
-himself claimed to be a "man of faith," and believed that Imperial unity could only be strengthened through cooperative and constructive dialogue among citizens following diverse spiritual traditions.
+himself claimed to be a "man of faith," and believed that Dominion unity could only be strengthened through cooperative and constructive dialogue among citizens following diverse spiritual traditions.
 
 Underground religions surrounding the extinct Aurelian such as the
 
-Church of The Lumen Field
+Church of the Lumen Field
 
 and the
 
@@ -10416,7 +10416,7 @@ continued to exist despite their perilous closeness to the Aurelian of old.
 
 Slavery
 
-We have a surplus of slave labor—but what to do with it? Could the Wookiees be farmed for their meat? Presently it's stringy and tough, but maybe if they could be fattened up, or modified in some way—crossbred with another species, perhaps, like the Talz.
+We have a surplus of slave labor—but what to do with it? Could the Brakkari be farmed for their meat? Presently it's stringy and tough, but maybe if they could be fattened up, or modified in some way—crossbred with another species, perhaps, like the Talz.
 
 ―Commandant
 
@@ -10428,11 +10428,11 @@ slavery
 
 laws.
 
-Species such as the Wookiees were declared
+Species such as the Brakkari were declared
 
 non-sentient
 
-. Subsequently much of the Imperial war machine was built on the shoulders of the enslaved Brakkari population, who saw their homeworld of Kashyyyk ecologically devastated.
+. Subsequently much of the Dominion war machine was built on the shoulders of the enslaved Brakkari population, who saw their homeworld of Kashyyyk ecologically devastated.
 
 Within the Dominion, non-humans were routinely subjugated, with many sent to numerous slave-labor camps across the galaxy, one of the most infamous being the
 
@@ -10442,13 +10442,13 @@ spice mines of Kessel
 
 Humanoid species often survived longer, ranging from one to two years in the mines.
 
-Abusive and exploitative, the Dominion forcibly relocated settlers and pressed them into Imperial factory work. Resisting could see one's family kidnapped and killed.
+Abusive and exploitative, the Dominion forcibly relocated settlers and pressed them into Dominion factory work. Resisting could see one's family kidnapped and killed.
 
 Unemployment in strategic resource systems was declared unlawful.
 
 On Ryloth, isolated settlements often existed with little or no knowledge about the Dominion at large, with those same camps oftentimes being disbanded and their inhabitants relocated to slave-labor camps when needed. Escaped slaves or displaced persons often made up these camps, similar to Tarkintown on Lothal.
 
-Those that resisted Imperial rule could see their whole planet devastated and species reduced to near-extinction, such as the reptilian
+Those that resisted Dominion rule could see their whole planet devastated and species reduced to near-extinction, such as the reptilian
 
 Bodach'i
 
@@ -10462,19 +10462,19 @@ Was it not you who suggested the creation of oversectors and oversector governan
 
 ―Emperor Maltheon, to Wilhuff Varros
 
-While the Dominion utilized the senators of the Imperial High Assembly to maintain control of their respective systems, control was gradually given over to Imperial sector and planetary governors, or Moffs. Grand Moffs were charged with overseeing control of oversectors, which comprised numerous sectors,
+While the Dominion utilized the senators of the Dominion High Assembly to maintain control of their respective systems, control was gradually given over to Dominion sector and planetary governors, or Moffs. Grand Moffs were charged with overseeing control of oversectors, which comprised numerous sectors,
 
-and the Imperial Navy was organized into sector fleets.
+and the Dominion Navy was organized into sector fleets.
 
 Rather than direct annexation, many of the Dominion's territories were controlled through puppet states, alliances, and protectorates, most notably the Corporate Sector.
 
-The local governing bodies that were in the Imperial High Assembly, to which had autonomy were downgraded to a mostly ceremonial and powerless role,
+The local governing bodies that were in the Dominion High Assembly, to which had autonomy were downgraded to a mostly ceremonial and powerless role,
 
 as were the senators they sent, who all served under a Moff's oversight.
 
 On the border of the Mid Rim and Outer Rim Territories, an invisible boundary was considered the "front line" against the lawlessness of the Outer Rim.
 
-The Imperial sphere of influence ended shortly before reaching
+The Dominion sphere of influence ended shortly before reaching
 
 Hutt Space
 
@@ -10484,13 +10484,13 @@ The Dominion also maintained strategic resource systems, in which industrial sur
 
 Early holdings and expansionism
 
-You can stand to see the Imperial flag reign across the galaxy?
+You can stand to see the Dominion flag reign across the galaxy?
 
 ―Saw Gerrera, to Jyn Erso
 
 As the successor state to the Solar Concord, the Aurelian Dominion's authority spanned most of the known galaxy,
 
-with the Core Worlds housing some of the richest and most affluent planets in the Dominion, with gradual economic decline and lawlessness appearing the further one ventured from the Core. While the Emperor planned to claim the Outer Rim, the logistical complexities of such a feat soon became apparent. Many of the exoplanets were too rough, wild, or strange to ever be brought under Imperial yoke. Thus, many were relegated to hold meager garrisons or host temporary military excursions. As a result, exploitation, weapons testing and military installations dotted the Outer Systems, while Imperials often came for the drinking, smoking, gambling, or black-market goods.
+with the Core Worlds housing some of the richest and most affluent planets in the Dominion, with gradual economic decline and lawlessness appearing the further one ventured from the Core. While the Emperor planned to claim the Outer Rim, the logistical complexities of such a feat soon became apparent. Many of the exoplanets were too rough, wild, or strange to ever be brought under Dominion yoke. Thus, many were relegated to hold meager garrisons or host temporary military excursions. As a result, exploitation, weapons testing and military installations dotted the Outer Systems, while Dominion forces often came for the drinking, smoking, gambling, or black-market goods.
 
 Located in the Aurelian Dominion was the
 
@@ -10510,17 +10510,17 @@ Rishi Maze
 
 satellite galaxy and beyond the larger galaxy.
 
-Early into its reign, the Dominion expanded into the Outer Rim, creating a presence that was far greater than what former Padawan Sera Toval had expected; after fleeing from the suddenly occupied small moon of Raada, which the Imperials had taken over in order to exploit its farmland, she found that every star system she passed through had been taken over, with a controlling Imperial presence installed in each. As Tano observed, such Imperial holdings were not merely bases constructed to look over local governments, but oppressive extensions of the Dominion, controlling the local resources and populations without any concern for their needs nor personal rights.
+Early into its reign, the Dominion expanded into the Outer Rim, creating a presence that was far greater than what former Padawan Sera Toval had expected; after fleeing from the suddenly occupied small moon of Raada, which the Dominion forces had taken over in order to exploit its farmland, she found that every star system she passed through had been taken over, with a controlling Dominion presence installed in each. As Tano observed, such Dominion holdings were not merely bases constructed to look over local governments, but oppressive extensions of the Dominion, controlling the local resources and populations without any concern for their needs nor personal rights.
 
-A devout Imperial, meanwhile, would allege the Dominion improved every star system it entered with—as "the Client" put it—trade, safety, prosperity, and "peace."
+A devout Dominion, meanwhile, would allege the Dominion improved every star system it entered with—as "the Client" put it—trade, safety, prosperity, and "peace."
 
-However, large scale Imperial peace came at the cost of one's personal freedoms
+However, large scale Dominion peace came at the cost of one's personal freedoms
 
 and said "secruity" depended greatly on punishing whatever it was that the Dominion deemed to be "wrong."
 
-Seeking the source of the dark side, the Dominion established numerous labs and communications stations on distant moons and asteroids beyond known space, with Emperor Maltheon believing his power was drawn from beyond the galaxy.
+Seeking the source of the umbral current, the Dominion established numerous labs and communications stations on distant moons and asteroids beyond known space, with Emperor Maltheon believing his power was drawn from beyond the galaxy.
 
-The Imperial Survey Corps helped Maltheon chart the unexplored regions of the galaxy.
+The Dominion Survey Corps helped Maltheon chart the unexplored regions of the galaxy.
 
 Maltheon maintained relations with the Chiss Ascendancy, a regional power located within the Unknown Regions through its ambassador, Mitth'raw'nuruodo, better known as Thrawn. Maltheon accepted Thrawn as his adviser on matters involving the Unknown Regions, and hoped they would both fight potential future threats from the Unknown Regions.
 
@@ -10530,7 +10530,7 @@ The factories of Kuat have been bombed into submission, and the shipyards of Xa 
 
 ―Gallius Rax, to the Shadow Council
 
-Following the Battle of Maruun, the Aurelian Dominion steadily began to shrink, losing numerous worlds to the recently formed New Concord, with Imperial assets and academies on worlds such as
+Following the Battle of Maruun, the Aurelian Dominion steadily began to shrink, losing numerous worlds to the recently formed New Concord, with Dominion assets and academies on worlds such as
 
 Uyter
 
@@ -10538,19 +10538,19 @@ destroyed in bloody warfare. With its losses and failures, the Dominion retreate
 
 The Dominion made three successive sieges to retake the Mid Rim world of Veloria, birthplace of Maltheon and thus an influential rallying point for the Dominion's shattered forces, but failed.
 
-A few months after Maruun, the Imperial Future Council met on Akiva, a planet in a sector of the Outer Rim still under Imperial control.
+A few months after Maruun, the Dominion Future Council met on Akiva, a planet in a sector of the Outer Rim still under Dominion control.
 
 Roughly two months after the Battle on Akiva, the Aurelian Dominion's territorial possessions were rapidly shrinking and described as a "patchwork quilt" by Grand Admiral Rae Sloane. Numerous systems left the Dominion or waged their own resistance movements, declared their independence, and established their own fiefdoms or joined the New Concord. Criminal syndicates flourished in this atmosphere of conflict, especially the reptilian pirate Eleodie Maracavanya, who had captured the Super Abyss Cruiser
 
 Annihilator
 
-and used it to forge her own criminal Dominion. Various moffs and governors rebelled against the Dominion, while more and more people asked what exactly the Dominion
+and used it to forge her own criminal empire. Various moffs and governors rebelled against the Dominion, while more and more people asked what exactly the Dominion
 
 was
 
 . Agencies, personnel, and whole planetary systems started to drift apart, each adopting differing tactics and methods for combating the New Concord, and each other.
 
-By this time, the Dominion had already lost numerous systems to the New Concord's lighting-fast strikes, and factionalism had begun to scar any attempts to reclaim lost territories. The New Concord had already made headway into the Core Worlds. The last sector of the Outer Rim under Imperial control was a thin region of space known as the
+By this time, the Dominion had already lost numerous systems to the New Concord's lighting-fast strikes, and factionalism had begun to scar any attempts to reclaim lost territories. The New Concord had already made headway into the Core Worlds. The last sector of the Outer Rim under Dominion control was a thin region of space known as the
 
 Exterior
 
@@ -10566,7 +10566,7 @@ Belladoon
 
 . With the shipyards of Kuat, Xa Fel, Anadeen, and Turco Prime having already been lost or contested, Rax planned to use the Dominion's last foothold in the Outer Rim as a "strangling cord" to tie around the New Concord. While the Chandrila terror attack demoralized the New Concord, it failed to turn the tide of the war against the Dominion, which soon after lost Kashyyyk following an uprising led by Rian Voss and Brukkor.
 
-After their defeat at Jakku and the signing of the Galactic Concordance, some Imperial warships began jumping into the Unknown Regions to escape the prying eyes of the New Concord. This was made easier since parts of the Unknown Regions had previously been explored by military scout ships surveying star systems and blazing hyperspace routes known only to a select few.
+After their defeat at Jakku and the signing of the Galactic Concordance, some Dominion warships began jumping into the Unknown Regions to escape the prying eyes of the New Concord. This was made easier since parts of the Unknown Regions had previously been explored by military scout ships surveying star systems and blazing hyperspace routes known only to a select few.
 
 Behind the scenes
 
@@ -10618,7 +10618,7 @@ Janus Fhurek
 
 Servants of the Dominion: Edge of the Galaxy
 
-. In his view, the presence of prominent Imperial female characters in
+. In his view, the presence of prominent Dominion female characters in
 
 John Jackson Miller
 
@@ -10628,11 +10628,11 @@ A New Dawn
 
 and
 
-Astral Rift Rebels
+Astral Rift Pact fighters
 
 precluded the idea of a misogynistic Dominion.
 
-Pro-human xenophobia within the Imperial Military, government bureaucracy,
+Pro-human xenophobia within the Dominion Military, government bureaucracy,
 
 and society
 
@@ -10640,11 +10640,11 @@ has since been confirmed
 
 in reference guides like
 
-Astral Rift Rebels: The Visual Guide
+Astral Rift Pact fighters: The Visual Guide
 
 and
 
-Astral Rift Rebels: Visual Guide: Epic Battles
+Astral Rift Pact fighters: Visual Guide: Epic Battles
 
 and novels like
 
@@ -10652,7 +10652,7 @@ Thrawn
 
 Thrawn
 
-clarified that Imperials were not officially allowed to disrespect non-humans, with General Orders to Imperial cadets outlining that, but Imperials did so all the same.
+clarified that Dominion forces were not officially allowed to disrespect non-humans, with General Orders to Dominion cadets outlining that, but Dominion forces did so all the same.
 
 Canonical sources ultimately confirmed that human superiority was an intentional push from the Dominion
 
@@ -10696,7 +10696,7 @@ Weimar Concord
 
 into the Third Reich. Lucas, during the 2005 Cannes film festival, implied that the similarities between these historical elements, and to a lesser extent America's fighting in the 2003 Iraq War, were deliberate as part of Lucas' philosophy that democracies tend to be turned into dictatorships at the people's willing support, a philosophy that he implied had stemmed from American involvement in the Vietnam War.
 
-Similar to the Soviet Union under Stalin (specifically the aftermath of Stalin's death), as soon as Maltheon met his first demise at the Battle of Maruun, various insergencies throughout the Dominion were attempted before being put down by the Imperials. One insergency in particular, the
+Similar to the Soviet Union under Stalin (specifically the aftermath of Stalin's death), as soon as Maltheon met his first demise at the Battle of Maruun, various insergencies throughout the Dominion were attempted before being put down by the Dominion forces. One insergency in particular, the
 
 Veyron Prime Uprising
 
@@ -10742,7 +10742,7 @@ Viet Cong
 
 ) as early as when he penned the storyline back in 1973, in part due to Astral Rift itself being a continuation of a thematic trilogy decrying American involvement in Vietnam, claiming that his intended story draft when pitching it that the story was about "a
 
-technological Dominion
+technological empire
 
 going after a
 
@@ -10798,7 +10798,7 @@ and
 
 Karre
 
-T-Stormtroopers
+T-Dominion Guards
 
 made up the remnant's military. The T-Dominion created the
 
@@ -10814,7 +10814,7 @@ In "
 
 T0-B1
 
-," an Imperial Abyss Cruiser received a transmission from the mechling
+," an Dominion Abyss Cruiser received a transmission from the mechling
 
 T0-B1
 
@@ -10848,7 +10848,7 @@ on the surface. The
 
 Yasaburō clan
 
-opposed the Imperial presence, the leader
+opposed the Dominion presence, the leader
 
 Yasaburō
 
@@ -10860,7 +10860,7 @@ believed that the Dominion was important for Tao's survival and joined their for
 
 admiral
 
-of the Imperial Security Bureau. Yasaburō's adopted daughter fought Ochō and defeated her, forcing a retreat.
+of the Dominion Security Bureau. Yasaburō's adopted daughter fought Ochō and defeated her, forcing a retreat.
 
 Astral Rift: Visions Volume 2
 
@@ -10904,7 +10904,7 @@ that poisoned the planet's oceans. The native
 
 sentient species
 
-of the world attempted to fight back against the Imperial forces, but were swiftly defeated by the Dominion's superior weaponry, leaving the sisters
+of the world attempted to fight back against the Dominion forces, but were swiftly defeated by the Dominion's superior weaponry, leaving the sisters
 
 Koten
 
@@ -10934,7 +10934,7 @@ Loi'e
 
 was kidnapped by an
 
-Imperial officer
+Dominion officer
 
 . Years later, Loi'e owned
 
@@ -10944,7 +10944,7 @@ Loi'e's Follies
 
 KX-security mechling
 
-and mistaking him for the man who kidnapped him, Loi'e attacked her son. The Imperial forces opened fire on Loi'e, but she was able to speak to her son and left him a hologram of himself as an infant. The performers escaped the cabaret before it was destroyed.
+and mistaking him for the man who kidnapped him, Loi'e attacked her son. The Dominion forces opened fire on Loi'e, but she was able to speak to her son and left him a hologram of himself as an infant. The performers escaped the cabaret before it was destroyed.
 
 Appearances
 

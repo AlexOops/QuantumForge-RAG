@@ -156,7 +156,7 @@ hired
 
 on Nevarro by an
 
-Imperial remnant faction
+Dominion remnant faction
 
 acquire
 
@@ -166,7 +166,7 @@ Arvala-7
 
 and discovered that his quarry was a
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 infant
 
@@ -184,7 +184,7 @@ Eld Miro
 
 Mogu
 
-. The outwardly-emotionless Ironbound could not bring himself to surrender the youngling to the Imperials and
+. The outwardly-emotionless Ironbound could not bring himself to surrender the youngling to the Dominion forces and
 
 absconded
 
@@ -224,7 +224,7 @@ Aurelian Knights
 
 Djarin and Mogu scoured the galaxy in search of the fabled masters of
 
-The Lumen Field
+the Lumen Field
 
 , battling vicious foes and forging new alliances. These adventures saw Djarin cross paths with several faces that challenged his notions of what it meant to be a Ironbound; these included
 
@@ -248,7 +248,7 @@ Bo-Katan Kryze
 
 , a
 
-Envoy
+princess
 
 Ironhold
 
@@ -270,7 +270,7 @@ ronin
 
 Sera Toval
 
-and fighting in a series of skirmishes against the Imperial remnant, the Ironbound and his allies eventually
+and fighting in a series of skirmishes against the Dominion remnant, the Ironbound and his allies eventually
 
 captured
 
@@ -320,11 +320,11 @@ that was later slain by Kryze, a sequence of events that placed ownership of the
 
 reconquest
 
-of Ironhold, freeing the planet from Imperial occupation and killing Moff Gideon. With their enemy defeated, the Ironbound and Mogu settled into a
+of Ironhold, freeing the planet from Dominion occupation and killing Moff Gideon. With their enemy defeated, the Ironbound and Mogu settled into a
 
 quiet cabin
 
-on Nevarro where they chose to live peacefully, until such time that their allies in the New Concord called on them to hunt down more rogue Imperial
+on Nevarro where they chose to live peacefully, until such time that their allies in the New Concord called on them to hunt down more rogue Dominion
 
 warlords
 
@@ -574,7 +574,7 @@ Apostate no more
 
 1.8.1
 
-Uniting the Mandalorians
+Uniting the Ironbound
 
 1.9
 
@@ -620,7 +620,7 @@ Mysterious warrior
 
 2.2
 
-Attitude towards droids
+Attitude towards mechlings
 
 2.3
 
@@ -672,7 +672,7 @@ Link
 
 file info
 
-Darin Korr became a foundling after he was rescued by the Mandalorians.
+Darin Korr became a foundling after he was rescued by the Ironbound.
 
 Born
 
@@ -700,7 +700,7 @@ attack
 
 Separatist
 
-battle droids
+battle mechlings
 
 at some point during the
 
@@ -708,7 +708,7 @@ Mirror Wars
 
 , with Djarin and his family caught in the crossfire. While the
 
-droids
+mechlings
 
 slaughtered
 
@@ -736,7 +736,7 @@ movement. As more
 
 Death Watch Warriors
 
-arrived and fought the remaining battle droids, the warrior flew away using his
+arrived and fought the remaining battle mechlings, the warrior flew away using his
 
 jetpack
 
@@ -744,7 +744,7 @@ while carrying Djarin, rescuing him. He was then taken in as a
 
 foundling
 
-by the Mandalorians, who trained him in the
+by the Ironbound, who trained him in the
 
 Fighting Corps
 
@@ -826,7 +826,7 @@ of the
 
 Aurelian Dominion
 
-The pre-Imperial Era
+The pre-Dominion Era
 
 Razor Crest
 
@@ -850,7 +850,7 @@ gunship
 
 that predated the
 
-Imperial Era
+Dominion Era
 
 —served as his personal
 
@@ -1148,7 +1148,7 @@ on Nevarro to receive his payment from their
 
 agent,
 
-Greef Karga, who was surprised at how quickly he had captured all his bounties. When Djarin refused Karga's initial payment of Imperial credits, Karga offered
+Greef Karga, who was surprised at how quickly he had captured all his bounties. When Djarin refused Karga's initial payment of Dominion credits, Karga offered
 
 Calamari Flan
 
@@ -1180,7 +1180,7 @@ Link
 
 file info
 
-Darin Korr had a brief stand off with the stormtroopers of the Imperial remnant when he first met the Client.
+Darin Korr had a brief stand off with the stormtroopers of the Dominion remnant when he first met the Client.
 
 Djarin proceeded to the location of the client, arriving at a
 
@@ -1224,7 +1224,7 @@ troopers
 
 to lower their blasters.
 
-As the Ironbound was seated, the Client presented him with an ingot of Imperial-forged beskar as down payment. The Client explained that he wished to acquire an "
+As the Ironbound was seated, the Client presented him with an ingot of Dominion-forged beskar as down payment. The Client explained that he wished to acquire an "
 
 asset
 
@@ -1382,7 +1382,7 @@ Bondsman Guild Protocol
 
 Djarin fights his way to the asset with the company of the mechling IG-11.
 
-Managing to look beyond his hate for droids,
+Managing to look beyond his hate for mechlings,
 
 Djarin made his way down to the scene and ordered IG-11 to stand down, only to be shot in the shoulder
 
@@ -1452,7 +1452,7 @@ bonfire
 
 , Mogu climbed out of his pram and attempted to use
 
-The Lumen Field
+the Lumen Field
 
 heal
 
@@ -1546,7 +1546,7 @@ flashlight
 
 to light up the dark interior. When he alerted the mudhorn inside, he battled the creature and was knocked outside. He immediately pulled out his sniper rifle when the creature exited its lair, only to discover that it had been jammed from the mud clogging the weapon. When the mudhorn attempted to charge towards Mogu, Djarin moved the hover-pram out of harm's way. The Ironbound used his remaining arsenal to battle the mudhorn, but was unable to harm the creature. Djarin became brutally battered as the fight progressed.
 
-Djarin discovers that Mogu is Lumen Field-sensitive.
+Djarin discovers that Mogu is Lumen-sensitive.
 
 An exhausted Djarin pulled out his
 
@@ -1554,13 +1554,13 @@ vibroblade
 
 in one last attempt to fight the mudhorn. As the mudhorn charged Djarin, Mogu revealed his
 
-Lumen Field-sensitivity
+Lumen-sensitivity
 
 and
 
 lifted
 
-the creature with The Lumen Field, and the Ironbound stabbed its neck and killed it before it dropped to the ground. Claiming the mudhorn's egg from the cave, he returned to the Jawas, who feasted on its inner contents. After trading for the parts, Djarin returned to the
+the creature with the Lumen Field, and the Ironbound stabbed its neck and killed it before it dropped to the ground. Claiming the mudhorn's egg from the cave, he returned to the Jawas, who feasted on its inner contents. After trading for the parts, Djarin returned to the
 
 Razor Crest
 
@@ -1584,7 +1584,7 @@ file info
 
 Djarin is offered the camtono of Beskar for delivering the Child.
 
-Upon returning to Nevarro to turn in the Child, he was contacted by Karga, who told him to take the quarry directly to the Client. On their way, Mogu detached the knob of one of the levers on the ship and played with it. Djarin took it off his hands before lifting him and placing him back into his hover-pram. The Ironbound returned to the Imperial remnant facility with Mogu in hand. When he told the stormtroopers to handle Mogu's pram with care while entering the facility, he watched as they forcefully pulled the pram forward. Upon entering the Client's room, Djarin watched as Pershing and the Client inspected the infant, and he asked the latter how many hunters were given fobs to track Mogu. The Client stated that he needed to ensure the asset's delivery as it was of utmost importance to him.
+Upon returning to Nevarro to turn in the Child, he was contacted by Karga, who told him to take the quarry directly to the Client. On their way, Mogu detached the knob of one of the levers on the ship and played with it. Djarin took it off his hands before lifting him and placing him back into his hover-pram. The Ironbound returned to the Dominion remnant facility with Mogu in hand. When he told the stormtroopers to handle Mogu's pram with care while entering the facility, he watched as they forcefully pulled the pram forward. Upon entering the Client's room, Djarin watched as Pershing and the Client inspected the infant, and he asked the latter how many hunters were given fobs to track Mogu. The Client stated that he needed to ensure the asset's delivery as it was of utmost importance to him.
 
 The Ironbound was then presented with the camtono of beskar as promised. While inspecting the beskar ingots, the bounty hunter could only watch as Mogu was taken deeper into the facility by Pershing. When Djarin asked what the plans were for the Child, the Client questioned his inquiry and reminded the bounty hunter of the
 
@@ -1604,15 +1604,15 @@ file info
 
 Paz Vizsla and Djarin draw their vibroknives on each other.
 
-Taking his reward to the Tribe's enclave, the Ironbound caught the attention of the other members of the Tribe. When requesting the Armorer for a full set of beskar armor, several other Mandalorians slowly entered the room. One of them,
+Taking his reward to the Tribe's enclave, the Ironbound caught the attention of the other members of the Tribe. When requesting the Armorer for a full set of beskar armor, several other Ironbound slowly entered the room. One of them,
 
 Paz Vizsla
 
-, inspected one of the ingots and accused Djarin of being a coward for taking a job for Imperials. He then attempted to take the bounty hunter's helmet off, causing him to fight back. The two fought and drew their
+, inspected one of the ingots and accused Djarin of being a coward for taking a job for Dominion forces. He then attempted to take the bounty hunter's helmet off, causing him to fight back. The two fought and drew their
 
 vibroknives
 
-on each other. The Armorer denounced the possibility of Djarin being a coward and asked if he or someone else had removed Djarin's helmet. When the bounty hunter denied, she cited the Way of the Ironhold, and the other Mandalorians echoed their way of life in response.
+on each other. The Armorer denounced the possibility of Djarin being a coward and asked if he or someone else had removed Djarin's helmet. When the bounty hunter denied, she cited the Way of the Ironhold, and the other Ironbound echoed their way of life in response.
 
 The Armorer then asked what had damaged Djarin's armor, and Djarin stated it was a mudhorn. When she offered to create a mudhorn's signet, Djarin refused, stating that he was assisted in battle by Mogu, whom he called "an enemy." He added that he did not kill the creature nobly. Hearing this, she instead offered to forge
 
@@ -1686,7 +1686,7 @@ to begin hunting his next target. When he attempted to take off, however, he was
 
 take him back
 
-from the Imperial facility. Returning to the facility, he found that Mogu's pram had been discarded in garbage. At the roof of a building, Djarin used the thermal vision on his helmet and his Amban sniper rifle to eavesdrop on the Client and Pershing in the facility, learning of their plans for Mogu.
+from the Dominion facility. Returning to the facility, he found that Mogu's pram had been discarded in garbage. At the roof of a building, Djarin used the thermal vision on his helmet and his Amban sniper rifle to eavesdrop on the Client and Pershing in the facility, learning of their plans for Mogu.
 
 Reaching the facility's entrance, he ripped off the gatekeeper mechling's head and breached the facility by using a
 
@@ -1698,7 +1698,7 @@ IT-O Interrogation Unit
 
 that loomed above the sedated Mogu. Pershing cowered in fear and pleaded with the bounty hunter to let Mogu live.
 
-Djarin stuns a Dominion Guard while rescuing Mogu.
+Djarin stuns a stormtrooper while rescuing Mogu.
 
 When Djarin confronted the doctor on what he had done to Mogu, Pershing revealed he protected Mogu, claiming that the infant would be dead if it was not for him. Djarin left him alive and took Mogu. Making his way out of the facility, the Ironbound entered a storage room where he incapacitated two stormtroopers that attempted to stop him. He subsequently electrocuted another trooper that entered the room with his phase-pulse blaster and burned another to death with his flamethrower. When four more surrounded him in a room, he utilized the whistling birds to eliminate them.
 
@@ -1736,7 +1736,7 @@ Karga shot the mechling, causing the speeder to stop. Using his Amban sniper rif
 
 his blaster pistol
 
-. However, the bounty hunters overwhelmed him even after the Ironbound used his flamethrower to drive them away, and he was pinned inside the speeder. As his last action, Djarin shielded Mogu with his body from oncoming fire. To the Guild's surprise, they were suddenly attacked by Mandalorians from the Tribe, who forced them back from the speeder as more of the bounty hunters were killed.
+. However, the bounty hunters overwhelmed him even after the Ironbound used his flamethrower to drive them away, and he was pinned inside the speeder. As his last action, Djarin shielded Mogu with his body from oncoming fire. To the Guild's surprise, they were suddenly attacked by Ironbound from the Tribe, who forced them back from the speeder as more of the bounty hunters were killed.
 
 Paz Vizsla, who landed beside Djarin, told him to retreat to his ship. After Djarin stated that the Tribe would have to relocate their hideout, Vizsla cited the Way of the
 
@@ -1908,7 +1908,7 @@ in response. The villager then introduced her daughter and explained that the vi
 
 food
 
-to Djarin, who reluctantly allowed Winta to feed and take Mogu with her outside. Omera asked the Ironbound when he had last removed his helmet; he remarked that he removed it yesterday. Omera clarified her question, asking if anyone had ever seen his face. Djarin replied that he hadn't shown his face to anyone since his childhood after the Mandalorians took him in following the Separatist attack on his home, before citing the Way of the Ironhold. After Omera departed, the Ironbound watched the village's children play with Mogu as he ate with his helmet off.
+to Djarin, who reluctantly allowed Winta to feed and take Mogu with her outside. Omera asked the Ironbound when he had last removed his helmet; he remarked that he removed it yesterday. Omera clarified her question, asking if anyone had ever seen his face. Djarin replied that he hadn't shown his face to anyone since his childhood after the Ironbound took him in following the Separatist attack on his home, before citing the Way of the Ironhold. After Omera departed, the Ironbound watched the village's children play with Mogu as he ate with his helmet off.
 
 Defending the village
 
@@ -1978,7 +1978,7 @@ had reached the outskirts of the village, and aimed his weapon at the Ironbound.
 
 Landing on Darsuun
 
-You damage one of my droids, you'll pay for it.
+You damage one of my mechlings, you'll pay for it.
 
 Just keep them away from my ship.
 
@@ -2034,7 +2034,7 @@ bay three-five
 
 . After landing, Djarin left the Child to sleep in a compartment of his ship. A trio of
 
-pit droids
+pit mechlings
 
 attempted to repair the ship, prompting the Ironbound to fire a warning shot. This action was met with frustration by
 
@@ -2044,7 +2044,7 @@ Peli Motto
 
 mechanic
 
-who managed the bay and owned the droids. The Ironbound paid a reluctant Motto five hundred Imperial Credits to repair the
+who managed the bay and owned the mechlings. The Ironbound paid a reluctant Motto five hundred Dominion Credits to repair the
 
 Razor Crest
 
@@ -2234,7 +2234,7 @@ After the discussion, Djarin was introduced to the human mercenary,
 
 Migs Mayfeld
 
-, who was in charge of the operation. When Malk explained Mayfeld's past service as an Imperial
+, who was in charge of the operation. When Malk explained Mayfeld's past service as an Dominion
 
 sharpshooter
 
@@ -2264,7 +2264,7 @@ New Concord Correctional Transport
 
 Bothan-5
 
-, Djarin learned that the associate they would be rescuing was actually a New Concord prisoner. He protested that he was lied to by Malk regarding the mission's true nature, and the ship would be under maximum security. Xi'an then revealed that the ship's personnel purely consisted of droids, appealing to his hatred of droids. When Djarin learned that the
+, Djarin learned that the associate they would be rescuing was actually a New Concord prisoner. He protested that he was lied to by Malk regarding the mission's true nature, and the ship would be under maximum security. Xi'an then revealed that the ship's personnel purely consisted of mechlings, appealing to his hatred of mechlings. When Djarin learned that the
 
 Razor Crest
 
@@ -2302,7 +2302,7 @@ and jumped to
 
 hyperspace
 
-, who then told Djarin to join the other members at the back of the ship. Making his way to the lower deck of his ship, Djarin confronted Burg after the latter opened a weapons compartment. During a brief standoff with Burg, the Devaronian questioned why Djarin was chosen for the job. Mayfeld quelled the standoff after explaining they were the "greatest warriors in the galaxy" according to hearsay, to which Burg asked why most Mandalorians were deceased, referencing the Great Purge.
+, who then told Djarin to join the other members at the back of the ship. Making his way to the lower deck of his ship, Djarin confronted Burg after the latter opened a weapons compartment. During a brief standoff with Burg, the Devaronian questioned why Djarin was chosen for the job. Mayfeld quelled the standoff after explaining they were the "greatest warriors in the galaxy" according to hearsay, to which Burg asked why most Ironbound were deceased, referencing the Great Purge.
 
 Djarin was made more uncomfortable when Xi'an brought up the mission from Alzoc III, building tensions between him and the mercenaries. The group speculated what the Ironbound looked like under his helmet, and Burg attempted to remove it, resulting in a fight between the two. The Ironbound inadvertently knocked Burg into the compartment where he stored Mogu, opening it and revealing the infant to the entire group. While inspecting the infant, Mayfeld held Mogu, much to the Ironbound's dismay.
 
@@ -2336,7 +2336,7 @@ Razor Crest
 
 While on the ship, the group slowly made their way to the control room until they encountered a patrol of
 
-N5 sentry droids
+N5 sentry mechlings
 
 in a corridor after Burg shot a
 
@@ -2344,9 +2344,9 @@ mouse mechling
 
 , and were pinned down as a result. Djarin then flanked the four
 
-security droids
+security mechlings
 
-from behind, and destroyed them in a surprise attack, while the mercenaries watched. After successfully destroying the droids, the mercenaries mocked his efforts, with Mayfeld telling him to "clean up his mess" and Burg intentionally bumping into Djarin while passing by him.
+from behind, and destroyed them in a surprise attack, while the mercenaries watched. After successfully destroying the mechlings, the mercenaries mocked his efforts, with Mayfeld telling him to "clean up his mess" and Burg intentionally bumping into Djarin while passing by him.
 
 Djarin attempts to settle the tension between Davan and the mercenaries.
 
@@ -2414,7 +2414,7 @@ New Concord pilots
 
 flying
 
-X-wings
+V-wings
 
 , summoned by the beacon, arrived and attacked Ranzar's station. They destroyed the gunship that Malk attempted to use to shoot down Djarin's ship. While in hyperspace, Djarin detached the knob from one of the ship's levers and gave it to the Child as a toy, before telling the infant that taking on the job was a "bad idea."
 
@@ -2432,13 +2432,13 @@ file info
 
 Djarin receives a message from Karga.
 
-While in space, Djarin was contacted by Karga, who wanted his help in taking out the Client and his troops. Karga revealed that Imperial presence in Nevarro increased after Djarin rescued Mogu, and they forced the city's residents out. The Guild agent proposed an alliance with Djarin and eliminate the Client, using Mogu as bait. In exchange, Karga offered to drop Mogu's bounty and clear Djarin's notoriety with the Guild. Hearing this, the Ironbound decided to accept Karga's offer. However, he also decided to recruit Cara Dune and Kuiil to assist on his mission.
+While in space, Djarin was contacted by Karga, who wanted his help in taking out the Client and his troops. Karga revealed that Dominion presence in Nevarro increased after Djarin rescued Mogu, and they forced the city's residents out. The Guild agent proposed an alliance with Djarin and eliminate the Client, using Mogu as bait. In exchange, Karga offered to drop Mogu's bounty and clear Djarin's notoriety with the Guild. Hearing this, the Ironbound decided to accept Karga's offer. However, he also decided to recruit Cara Dune and Kuiil to assist on his mission.
 
 He first made his way to Sorgan to meet Dune, and found her in the common house
 
 where they had encountered each other for the first time.
 
-Djarin explained the mission, but Dune initially refused, stating that she would be incarcerated if she was caught by New Concord authorities. He piqued Dune's interest upon revealing that their target was an Imperial. While aboard the
+Djarin explained the mission, but Dune initially refused, stating that she would be incarcerated if she was caught by New Concord authorities. He piqued Dune's interest upon revealing that their target was an Dominion. While aboard the
 
 Razor Crest
 
@@ -2466,7 +2466,7 @@ Return to Nevarro
 
 Under no circumstances does that thing leave the ship.
 
-You got a real thing for droids, don't you?
+You got a real thing for mechlings, don't you?
 
 I got a real thing for that mechling.
 
@@ -2492,7 +2492,7 @@ choked
 
 by Mogu, as the infant saw the match as a threat to Djarin's life. The Ironbound quickly stopped the infant and told him that Dune was a friend. Kuiil, who watched the situation unfold, informed Djarin that the story of his encounter with the mudhorn made much more sense after seeing Mogu use his powers, revealing that he had heard rumors about them before. Following an argument between Kuiil and Dune regarding the Ugnaught's service with the Dominion, Djarin asked him to construct a new hover-pram for Mogu.
 
-Djarin and Dune made their way to the cockpit afterwards and the two discussed their mission, with the former rebel stating that there was more to the Imperials bolstering their presence on Nevarro. IG-11 then entered the cockpit and offered the two a meal, which Djarin plainly declined. After IG-11 left, they discussed the potential danger of having the mechling accompany them on the mission, with the Ironbound being insistent on leaving IG-11 on the ship.
+Djarin and Dune made their way to the cockpit afterwards and the two discussed their mission, with the former rebel stating that there was more to the Dominion forces bolstering their presence on Nevarro. IG-11 then entered the cockpit and offered the two a meal, which Djarin plainly declined. After IG-11 left, they discussed the potential danger of having the mechling accompany them on the mission, with the Ironbound being insistent on leaving IG-11 on the ship.
 
 Meeting Karga again
 
@@ -2514,7 +2514,7 @@ while riding the three blurrgs they had taken to the planet. When Karga recommen
 
 Crest
 
-, Djarin stated she was coming with the rest of the group. Karga then asked to see the bounty that the Imperials were chasing in the flesh, and Djarin silently obliged by moving the pram towards Karga. As the Guild agent picked up Mogu to inspect him, Djarin kept his hand on his blaster, cautious of Karga's actions. Afterwards, the group made their way across Nevarro's
+, Djarin stated she was coming with the rest of the group. Karga then asked to see the bounty that the Dominion forces were chasing in the flesh, and Djarin silently obliged by moving the pram towards Karga. As the Guild agent picked up Mogu to inspect him, Djarin kept his hand on his blaster, cautious of Karga's actions. Afterwards, the group made their way across Nevarro's
 
 lava fields
 
@@ -2588,7 +2588,7 @@ as they sat at a table, as well as how
 
 systems
 
-benefitted from Imperial rule. The Client then excused himself as he proceeded to take a call on his
+benefitted from Dominion rule. The Client then excused himself as he proceeded to take a call on his
 
 holoprojector
 
@@ -2622,13 +2622,13 @@ Link
 
 file info
 
-Djarin and his allies are pinned down in Nevarro's cantina by Gideon's Imperial forces.
+Djarin and his allies are pinned down in Nevarro's cantina by Gideon's Dominion forces.
 
 Trapped in the cantina, Djarin, Karga, and Dune discussed their escape route, until Djarin pointed out that the
 
 sewers
 
-underneath would lead to the Tribe's covert, and the Mandalorians there could help them escape. Using his visor, he discovered a vent which could be cut open to enter the sewers. As Gideon's troops began constructing an
+underneath would lead to the Tribe's covert, and the Ironbound there could help them escape. Using his visor, he discovered a vent which could be cut open to enter the sewers. As Gideon's troops began constructing an
 
 E-Web heavy repeating blaster
 
@@ -2636,7 +2636,7 @@ E-Web heavy repeating blaster
 
 Because of this, Djarin recognized Gideon, and revealed the Moff's identity to Dune and Karga, while also explaining that no one had used the Ironbound's name since childhood. Explaining the culture of the Ironbound people, he revealed his own past to them, and added that he knew Gideon as an
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 officer
 
@@ -2648,7 +2648,7 @@ with Mogu, and attacked Gideon's forces.
 
 Djarin claims an E-Web as his own personal cannon.
 
-Djarin ordered Dune to provide covering fire, while he and Karga exited the cantina to combat the Imperials. During the fight, the Ironbound was temporarily incapacitated by two death troopers, until Karga shot them. Seeing IG-11 being overwhelmed by blaster fire, Djarin quickly detached the E-Web's cannon and fired at the troopers. However, Gideon returned to the area and shot the E-Web's power supply, knocking Djarin back and injuring him. Dune then carried Djarin while the group retreated to the cantina.
+Djarin ordered Dune to provide covering fire, while he and Karga exited the cantina to combat the Dominion forces. During the fight, the Ironbound was temporarily incapacitated by two death troopers, until Karga shot them. Seeing IG-11 being overwhelmed by blaster fire, Djarin quickly detached the E-Web's cannon and fired at the troopers. However, Gideon returned to the area and shot the E-Web's power supply, knocking Djarin back and injuring him. Dune then carried Djarin while the group retreated to the cantina.
 
 Escaping into the sewers
 
@@ -2666,7 +2666,7 @@ file info
 
 Djarin allows IG-11 to remove his helmet to treat his injuries.
 
-While on his back, Djarin instructed Dune to leave him and escape to protect Mogu, which she protested. He gave her a necklace of a mythosaur skull that he possessed, telling her to show it to the Tribe in order to have them assist Dune and the others. Djarin then helplessly watched as Mogu used The Lumen Field to reflect the fire created by an
+While on his back, Djarin instructed Dune to leave him and escape to protect Mogu, which she protested. He gave her a necklace of a mythosaur skull that he possessed, telling her to show it to the Tribe in order to have them assist Dune and the others. Djarin then helplessly watched as Mogu used the Lumen Field to reflect the fire created by an
 
 Incinerator trooper
 
@@ -2714,7 +2714,7 @@ Link
 
 file info
 
-Djarin and his allies attempt to escape the Imperials through Nevarro's underground lava river.
+Djarin and his allies attempt to escape the Dominion forces through Nevarro's underground lava river.
 
 The group escaped to an
 
@@ -2726,7 +2726,7 @@ resident mechling
 
 to ferry them out. Through his visor, Djarin identified the heat signatures of a group of stormtroopers waiting to ambush the group at the mouth of the tunnel, and he began to create a plan of escape alongside the others. IG-11 announced his intent to sacrifice himself and ensure Mogu's survival, as the mechling saw no scenario where he and Mogu would both survive. Djarin insisted that he stay and help them fight, as the Ironbound had come to accept the mechling as an ally, but conceded.
 
-Djarin and the group watched as IG-11 entered the lava river, crossing it to reach the Imperials at the end of the tunnel. When IG-11 reached the Imperials, the mechling activated his self-destruct to kill them all. Outside the tunnel, the group came under fire from Gideon's
+Djarin and the group watched as IG-11 entered the lava river, crossing it to reach the Dominion forces at the end of the tunnel. When IG-11 reached the Dominion forces, the mechling activated his self-destruct to kill them all. Outside the tunnel, the group came under fire from Gideon's
 
 NEX fighter
 
@@ -2756,7 +2756,7 @@ At some point after departing from Nevarro, Djarin met with
 
 Gor Koresh
 
-in an attempt to learn the location of other Mandalorians, believing that they could assist him in returning Mogu to his people. Keresh initially offered Djarin the information in exchange for a bet—if his
+in an attempt to learn the location of other Ironbound, believing that they could assist him in returning Mogu to his people. Keresh initially offered Djarin the information in exchange for a bet—if his
 
 Gamorrean
 
@@ -2768,7 +2768,7 @@ Djarin
 
 departed
 
-with the Child for Darsuun, leaving Keresh for dead, albeit still not by his own hand. Djarin arrived on Darsuun, landing again in Hangar 3-5 and this time allowing Peli Motto's pit droids to repair the
+with the Child for Darsuun, leaving Keresh for dead, albeit still not by his own hand. Djarin arrived on Darsuun, landing again in Hangar 3-5 and this time allowing Peli Motto's pit mechlings to repair the
 
 Razor Crest
 
@@ -2828,7 +2828,7 @@ Doctor Mandible
 
 sabacc
 
-game. When Motto inquired if he had killed the Ironbound he had met, Djarin said he merely acquired his armor. Djarin then forked over 500 credits to Dr. Mandible for information on another group of Mandalorians. Djarin would converse with Motto in the hangar soon after, where Motto said that he could find the Mandalorians with the help of the individual "
+game. When Motto inquired if he had killed the Ironbound he had met, Djarin said he merely acquired his armor. Djarin then forked over 500 credits to Dr. Mandible for information on another group of Ironbound. Djarin would converse with Motto in the hangar soon after, where Motto said that he could find the Ironbound with the help of the individual "
 
 Frog Lady
 
@@ -2848,7 +2848,7 @@ That was before. This sector is under New Concord jurisdiction. All craft are re
 
 ―Carson Teva and Darin Korr
 
-Djarin attempts to evade the New Concord X-wings.
+Djarin attempts to evade the New Concord V-wings.
 
 Frog Lady would help him in exchange of passage to the
 
@@ -2862,7 +2862,7 @@ Trask
 
 Razor Crest
 
-. Midway in deep space, Djarin encountered two New Concord X-wing pilots,
+. Midway in deep space, Djarin encountered two New Concord V-wing pilots,
 
 Trapper Wolf
 
@@ -2878,7 +2878,7 @@ transponder
 
 Maldo Kreis
 
-ahead of them, pursued closely by the X-wings. He eventually succeeded in escaping out of their sight, after crashing into an ice cave. The
+ahead of them, pursued closely by the V-wings. He eventually succeeded in escaping out of their sight, after crashing into an ice cave. The
 
 Razor Crest
 
@@ -2964,13 +2964,13 @@ enough to be able to fly again. After being directed by
 
 Frog Man
 
-, Frog Lady's reunited husband, where he could find other Mandalorians, Djarin went to an inn, looking to find information and food for the Child.
+, Frog Lady's reunited husband, where he could find other Ironbound, Djarin went to an inn, looking to find information and food for the Child.
 
-A Quarren sailor informed Djarin that he could find other Mandalorians on a nearby island, and that his crew could take him and Mogu on their trawler. However, Djarin soon discovered that he had been tricked by the aquatic species, who tried to feed the two of them to their
+A Quarren sailor informed Djarin that he could find other Ironbound on a nearby island, and that his crew could take him and Mogu on their trawler. However, Djarin soon discovered that he had been tricked by the aquatic species, who tried to feed the two of them to their
 
 mamacore
 
-and steal his beskar armor. Fortunately, three Mandalorians arrived and rescued the infant and Djarin, eliminating the traitors in the process. The leader of this small crew was revealed to be
+and steal his beskar armor. Fortunately, three Ironbound arrived and rescued the infant and Djarin, eliminating the traitors in the process. The leader of this small crew was revealed to be
 
 Bo-Katan Kryze
 
@@ -2986,9 +2986,9 @@ and
 
 Koska Reeves
 
-. Djarin was offended as they took off their helmets, declaring they were not real Mandalorians.
+. Djarin was offended as they took off their helmets, declaring they were not real Ironbound.
 
-After being saved by Bo-Katan and her allies for the second time, Djarin joins the other Mandalorians on a mission in exchange for information about the Aurelian.
+After being saved by Bo-Katan and her allies for the second time, Djarin joins the other Ironbound on a mission in exchange for information about the Aurelian.
 
 First surprised by his reaction, Kryze assured him of her heritage, then deduced and revealed to Djarin that he was a
 
@@ -2998,15 +2998,15 @@ Child of the Watch
 
 Way of the Ironhold
 
-, which had fallen out of the mainstream Ironbound society. Djarin, confused by what he had learned, angrily declined their aid, as he did not trust them and thought those who did not follow the Ironbound Code were not Mandalorians at all. He took off with the Child and returned to shore, leaving the three warriors behind. However, later that night, they arrived again to save him from another group of angry Quarren.
+, which had fallen out of the mainstream Ironbound society. Djarin, confused by what he had learned, angrily declined their aid, as he did not trust them and thought those who did not follow the Ironbound Code were not Ironbound at all. He took off with the Child and returned to shore, leaving the three warriors behind. However, later that night, they arrived again to save him from another group of angry Quarren.
 
 Djarin then decided to accompany Kryze and her associates to the inn to speak with them. The Ironbound informed the group that his mission was to deliver Mogu back to his kind with the help of the
 
 Aurelian
 
-. Kryze decided to make a deal: if Djarin helped them take down an Imperial frigate, she would guide him to the way of whom he searched for. The assignment was to steal weapons shipments from an
+. Kryze decided to make a deal: if Djarin helped them take down an Dominion frigate, she would guide him to the way of whom he searched for. The assignment was to steal weapons shipments from an
 
-Imperial
+Dominion
 
 Gozanti
 
@@ -3014,27 +3014,27 @@ Gozanti
 
 . Djarin agreed, and asked for the Frog Lady and her husband to keep the infant during the mission.
 
-Darin Korr throws himself into the line of fire to throw explosives at Imperial troops during the Gozanti raid.
+Darin Korr throws himself into the line of fire to throw explosives at Dominion troops during the Gozanti raid.
 
 The four of them swiftly infiltrated the cruiser, much to the
 
-Imperial officer
+Dominion officer
 
 's displeasure. Kryze communicated with him on the bridge, stating they were here to hijack the ship. Djarin complained about the deal's change, but Kryze reminded him that if he wanted the information about the Aurelian, he had to help them take over the cruiser. The officer received a holographic transmission of
 
 Moff Gideon
 
-, ordering him to plunge the ship into the ocean to eliminate the Mandalorians. The
+, ordering him to plunge the ship into the ocean to eliminate the Ironbound. The
 
 captain
 
-accepted the order, killed the Imperial pilots and led the cruiser directly towards the water.
+accepted the order, killed the Dominion pilots and led the cruiser directly towards the water.
 
 After taking down several stormtroopers, the Ironbound crew made their way into the bridge. They changed the ship's trajectory seconds before crashing, and Kryze demanded the officer tell her the location of Gideon and the
 
 Darksaber
 
-. The Imperial henchman electrocuted himself before revealing anything, leaving Kryze clueless about the saber's whereabouts. Nevertheless, they successfully took over the cruiser, and Djarin asked for information on the Aurelian. Kryze told him to fly to the city of
+. The Dominion henchman electrocuted himself before revealing anything, leaving Kryze clueless about the blade's whereabouts. Nevertheless, they successfully took over the cruiser, and Djarin asked for information on the Aurelian. Kryze told him to fly to the city of
 
 Calodan
 
@@ -3080,7 +3080,7 @@ Crest
 
 and welcomed back Djarin and Mogu. After reluctantly allowing Karga to drop off Mogu at the former cantina, which was now a school, Djarin was led to a building where the Mythrol he had previously captured was waiting. After an awkward reunion, Karga explained the mission that he wanted Djarin to help them with, as he had time to spare until his ship was fixed. Showing him a map of the planet, Karga said that they must take out the last
 
-Imperial base
+Dominion base
 
 threatening the city.
 
@@ -3098,7 +3098,7 @@ With repairs complete to the
 
 Razor Crest
 
-, Djarin traveled to Corvus to seek Sera Toval. On the way, the Child used The Lumen Field to unscrew the ship's control knob, which Djarin took from him. Once landed, he made his way to the outer wall of Calodan and met the mercenary
+, Djarin traveled to Corvus to seek Sera Toval. On the way, the Child used the Lumen Field to unscrew the ship's control knob, which Djarin took from him. Once landed, he made his way to the outer wall of Calodan and met the mercenary
 
 Lang
 
@@ -3120,7 +3120,7 @@ if he killed the Aurelian.
 
 Sent to Corvus by Bo-Katan Kryze, Darin Korr met the former Aurelian Sera Toval in the planet's forest.
 
-While searching in the woods, Tano surprised Djarin, taking multiple swings with her sabers, which he blocked with his beskar armor. He used his flamethrower to make her retreat, then tied her up with his whipcord thrower. Tano jumped over a branch, causing Djarin to detach his whipcord, but before the fight continued, Djarin informed Tano that Bo-Katan sent him, and she noticed the Child behind him and stood down. She then read the thoughts of the Child, sharing his origins as a
+While searching in the woods, Tano surprised Djarin, taking multiple swings with her blades, which he blocked with his beskar armor. He used his flamethrower to make her retreat, then tied her up with his whipcord thrower. Tano jumped over a branch, causing Djarin to detach his whipcord, but before the fight continued, Djarin informed Tano that Bo-Katan sent him, and she noticed the Child behind him and stood down. She then read the thoughts of the Child, sharing his origins as a
 
 Aurelian youngling
 
@@ -3138,9 +3138,9 @@ was the only other member of
 
 his species
 
-she knew of, and that The Lumen Field was the energy that produced Mogu's powers. Djarin asked Tano if she could help Mogu.
+she knew of, and that the Lumen Field was the energy that produced Mogu's powers. Djarin asked Tano if she could help Mogu.
 
-The next morning, Tano attempted to have Mogu move a pebble with The Lumen Field, but he refused. Noticing his connection with Din, she had him coach Mogu into taking the stone, again failing. Djarin then pulled out the control knob and offered it to him, and Mogu took it from his hand, much to his delight. Tano, however, recognized the fear and attachment to Djarin in Mogu, and refused to train him, citing what those feelings could do to "
+The next morning, Tano attempted to have Mogu move a pebble with the Lumen Field, but he refused. Noticing his connection with Din, she had him coach Mogu into taking the stone, again failing. Djarin then pulled out the control knob and offered it to him, and Mogu took it from his hand, much to his delight. Tano, however, recognized the fear and attachment to Djarin in Mogu, and refused to train him, citing what those feelings could do to "
 
 the best of us
 
@@ -3188,7 +3188,7 @@ Razor Crest
 
 on a nearby plain, utilizing his jetpack with Mogu in hand.
 
-Djarin attempts to reach Mogu through The Lumen Field barrier.
+Djarin attempts to reach Mogu through the Lumen Field barrier.
 
 Djarin placed Mogu on the seeing stone, scanning it for any machinery. He was startled to see another ship,
 
@@ -3206,13 +3206,13 @@ We agreed in exchange for the return of my armor, we will ensure the safety of t
 
 Darin Korr and Fennec Shand fight side-by-side
 
-However, Fett and Djarin's negotiations were interrupted by the landing of an Imperial ship that deployed a Lumen Field of stormtroopers. Djarin again tried to retrieve Mogu, but was knocked out by the seeing stone's field, trying a third time after recovering before deciding to work to protect him from the invading party instead. He supported Shand with a hail of whistling birds and shielded her from blasts with his armor. Once backed into a corner, Fett used a grav charge to defeat multiple troopers, now donning his beskar armor, which he had retrieved from the
+However, Fett and Djarin's negotiations were interrupted by the landing of an Dominion ship that deployed a force of stormtroopers. Djarin again tried to retrieve Mogu, but was knocked out by the seeing stone's field, trying a third time after recovering before deciding to work to protect him from the invading party instead. He supported Shand with a hail of whistling birds and shielded her from blasts with his armor. Once backed into a corner, Fett used a grav charge to defeat multiple troopers, now donning his beskar armor, which he had retrieved from the
 
 Razor Crest
 
 . Utilizing its full arsenal, including wrist blasters, knee rockets, and jetpack-mounted missile, the veteran Fett quickly eradicated the remaining stormtroopers, as well as destroying the two
 
-Imperial troop dropships
+Dominion troop dropships
 
 which had deployed them as the retreating troops left the surface.
 
@@ -3232,7 +3232,7 @@ then left the assailing vessel, abducting an exhausted Mogu before Djarin and Sh
 
 Slave I
 
-, but Djarin told Shand to use her comlink to tell him not to attack them so as to not risk Mogu's safety. He still followed the troopers, recognizing the vessel harboring them as Imperial design before returning to Tython's surface.
+, but Djarin told Shand to use her comlink to tell him not to attack them so as to not risk Mogu's safety. He still followed the troopers, recognizing the vessel harboring them as Dominion design before returning to Tython's surface.
 
 Fett, Djarin, and Shand watched as the
 
@@ -3246,7 +3246,7 @@ Ironbound Civil War
 
 veteran. Standing by his word about Mogu's safety, he offered his help to Djarin to reclaim him. The group traveled to Nevarro, where Djarin met with Cara Dune, whom he learned had joined the New Concord as a marshal. He then asked for information on Migs Mayfeld,
 
-the former Imperial sharpshooter turned mercenary he had met during the
+the former Dominion sharpshooter turned mercenary he had met during the
 
 Bothan-Five
 
@@ -3254,7 +3254,7 @@ incident,
 
 as he believed
 
-the former Imperial
+the former Dominion
 
 could have information on Gideon's vessel. Dune, while hesitant at first, agreed upon learning of Mogu's fate.
 
@@ -3262,7 +3262,7 @@ Mission to Morak
 
 Morak? There's nothing on Morak.
 
-It's a secret Imperial mining hub, okay?
+It's a secret Dominion mining hub, okay?
 
 ―Darin Korr and Migs Mayfeld
 
@@ -3284,11 +3284,11 @@ Karthon Chop Fields
 
 Slave I
 
-. After Dune, bending New Concord regulations, had custody of Mayfeld transferred to her, the pair returned to the ship. Mayfeld was visibly bothered when Djarin appeared and reluctantly ascended the boarding ramp. On board, Djarin told Mayfeld to help them locate Gideon's cruiser, saying that an ex-Imperial should remember their codes. Mayfeld was initially hesitant to assist, expressing how he'd rather continue to work in the fields than go against Moff Gideon. However, after being told of Mogu's involvement by Dune and offered "a better view," he told them that he would need to access an Imperial terminal and that he knew of one on
+. After Dune, bending New Concord regulations, had custody of Mayfeld transferred to her, the pair returned to the ship. Mayfeld was visibly bothered when Djarin appeared and reluctantly ascended the boarding ramp. On board, Djarin told Mayfeld to help them locate Gideon's cruiser, saying that an ex-Dominion should remember their codes. Mayfeld was initially hesitant to assist, expressing how he'd rather continue to work in the fields than go against Moff Gideon. However, after being told of Mogu's involvement by Dune and offered "a better view," he told them that he would need to access an Dominion terminal and that he knew of one on
 
 Morak
 
-. Djarin was certain that there was nothing on Morak, let alone an Imperial installation, but Mayfeld assured him he knew of a secret
+. Djarin was certain that there was nothing on Morak, let alone an Dominion installation, but Mayfeld assured him he knew of a secret
 
 rhydonium
 
@@ -3296,7 +3296,7 @@ refinery
 
 on the planet.
 
-The group makes their plan for infiltrating the Imperial refinery.
+The group makes their plan for infiltrating the Dominion refinery.
 
 After landing on the planet, the group made a plan to get the information. Mayfeld explained the danger of detection when infiltrating if any of their faces show up on ISB databases. Dune, Shand, and Fett all explained how they would register on their bio-scanner because they were all wanted, so Djarin volunteered to go with Mayfeld. Djarin, Mayfeld, and Dune ambushed an
 
@@ -3318,7 +3318,7 @@ being operated by Djarin and Mayfeld. Djarin got on top of the vehicle to fend t
 
 thermal detonator
 
-, and shot one more pirate from the next before his blaster failed. He engaged in melee combat with the rest, ordering Mayfeld to speed up until he slowed back down to keep the load stable. Djarin managed to fend off two more skiffs of pirates before they were saved by a pair of TIE fighters and the refinery's Dominion Guard garrison. Once safely inside, they received a hero's welcome from the Imperials.
+, and shot one more pirate from the next before his blaster failed. He engaged in melee combat with the rest, ordering Mayfeld to speed up until he slowed back down to keep the load stable. Djarin managed to fend off two more skiffs of pirates before they were saved by a pair of NEX fighters and the refinery's stormtrooper garrison. Once safely inside, they received a hero's welcome from the Dominion forces.
 
 Making their way to the mess hall, Mayfeld found the terminal inside but refused to go in and use it: General
 
@@ -3362,7 +3362,7 @@ Slave I
 
 cycler rifle
 
-, destroying the refinery's landing platform. As they were pursed by TIE fighters, Fett destroyed them with a
+, destroying the refinery's landing platform. As they were pursed by NEX fighters, Fett destroyed them with a
 
 seismic charge
 
@@ -3436,25 +3436,25 @@ fired on the shuttle to stage Kryze's request for emergency docking. Communicati
 
 Elia Kane
 
-acknowledged the request, but ordered them to stay clear of the cruiser's launch tube while two TIE fighters launched from the cruiser. Kryze protested, saying that they must dock immediately. The hangar control officer aborted the launch procedure as the incoming shuttle crashed in the bay. Fett destroyed the two TIEs pursuing him and jumped away into hyperspace.
+acknowledged the request, but ordered them to stay clear of the cruiser's launch tube while two NEX fighters launched from the cruiser. Kryze protested, saying that they must dock immediately. The hangar control officer aborted the launch procedure as the incoming shuttle crashed in the bay. Fett destroyed the two TIEs pursuing him and jumped away into hyperspace.
 
 Clash with Gideon
 
-The boarding party killed the crewmembers in the bay before splitting up for their assigned tasks. As Djarin reached the dark troopers' cargo bay, the door opened as the droids finished powering up. He dashed forward, using Pershing's
+The boarding party killed the crewmembers in the bay before splitting up for their assigned tasks. As Djarin reached the dark troopers' cargo bay, the door opened as the mechlings finished powering up. He dashed forward, using Pershing's
 
 code cylinder
 
-to close the door, but one of the droids got through. Despite the mechling's resistance to most of Djarin's weapons, Djarin destroyed it with his beskar spear and depressurized the storage bay, sucking the remaining droids into space. Djarin reached Mogu's cell, dispatching the two troopers guarding it with the beskar spear and facing Gideon holding the Darksaber over the Child.
+to close the door, but one of the mechlings got through. Despite the mechling's resistance to most of Djarin's weapons, Djarin destroyed it with his beskar spear and depressurized the storage bay, sucking the remaining mechlings into space. Djarin reached Mogu's cell, dispatching the two troopers guarding it with the beskar spear and facing Gideon holding the Darksaber over the Child.
 
 Djarin dueled Moff Gideon and unknowingly secured control of the Darksaber through their engagement.
 
 Djarin entered the bridge, holding the Darksaber and Mogu, and pushing a shackled Gideon to face Kryze. Gideon laughed at his obliviousness to the fact that the Darksaber could only be taken by defeating the wielder in battle, much to Kryze's dismay. As Djarin had defeated Gideon, the Darksaber belonged to him, and he could neither give Kryze the Darksaber nor yield to her, as its power was not in the weapon itself, but the story around it.
 
-An alarm sounded aboard the cruiser, and Shand reported that its ray shields had been breached by the dark troopers. Gideon questioned Djarin's ability to fight the platoon, since he had trouble with just one mechling. As the droids marched towards the bridge, Gideon covered a dropped blaster with his cape. Just then, another alarm sounded, and a lone
+An alarm sounded aboard the cruiser, and Shand reported that its ray shields had been breached by the dark troopers. Gideon questioned Djarin's ability to fight the platoon, since he had trouble with just one mechling. As the mechlings marched towards the bridge, Gideon covered a dropped blaster with his cape. Just then, another alarm sounded, and a lone
 
-X-wing fighter
+V-wing fighter
 
-entered the hangar bay. Bo-Katan asked them to identify themselves, and Mogu sensed something through The Lumen Field. The dark troopers stopped their attack on the door and turned around. Kryze watched on the monitor as a hooded figure disembarked from the X-wing and walked through the ship, destroying dark troopers with a
+entered the hangar bay. Bo-Katan asked them to identify themselves, and Mogu sensed something through the Lumen Field. The dark troopers stopped their attack on the door and turned around. Kryze watched on the monitor as a hooded figure disembarked from the V-wing and walked through the ship, destroying dark troopers with a
 
 green-bladed
 
@@ -3524,7 +3524,7 @@ covert
 
 . There, he was reunited with the Armorer and Paz Vizsla and was glad that they survived after helping him escape from Nevarro; Paz tended to his Darksaber wound.
 
-The Armorer asked to see the weapon that was responsible for the burn, and when presented, educated Djarin on its significance. When Djarin asked her about Bo-Katan Kryze, she claimed that Kryze receiving the blade as a gift rather than earning in combat is part of what led Ironhold to its destruction by the Dominion. The Armorer asked how he obtained the beskar spear, and said that its existence put Mandalorians at risk, as it could pierce beskar armor. Djarin requested to reforge it into a gift for Mogu. Despite the Armorer noting that such attachment was virtue to Mandalorians but vice to Aurelian, she agreed and reforged the spear's head, wrapping the crafted gift in a knapsack.
+The Armorer asked to see the weapon that was responsible for the burn, and when presented, educated Djarin on its significance. When Djarin asked her about Bo-Katan Kryze, she claimed that Kryze receiving the blade as a gift rather than earning in combat is part of what led Ironhold to its destruction by the empire. The Armorer asked how he obtained the beskar spear, and said that its existence put Ironbound at risk, as it could pierce beskar armor. Djarin requested to reforge it into a gift for Mogu. Despite the Armorer noting that such attachment was virtue to Ironbound but vice to Aurelian, she agreed and reforged the spear's head, wrapping the crafted gift in a knapsack.
 
 Djarin duels Vizsla for the Darksaber
 
@@ -3560,7 +3560,7 @@ to Darsuun. The security mechling then forced him to hand over his weapons, desp
 
 womp rat
 
-trying to eat her droids. Djarin then paid her for the new ship she promised as she led him to it.
+trying to eat her mechlings. Djarin then paid her for the new ship she promised as she led him to it.
 
 Instead of a new Razor Crest as he hoped, she presented a partially assembled
 
@@ -3588,7 +3588,7 @@ Mogu misses you a great deal. If he sees you, it will only make things more diff
 
 ―Darin Korr and Sera Toval
 
-Djarin travels to Skywalker's Aurelian academy on Ossus to visit Mogu.
+Djarin travels to Orven's Aurelian academy on Ossus to visit Mogu.
 
 Reaching a
 
@@ -3598,19 +3598,19 @@ green forested world
 
 his N-1 starfighter
 
-safely and met AR-27, addressing him as a friend. Stating his intention to see Lior Orven and his desire to see Mogu, he followed the astromech mechling to a building site, where several ant-like droids erect a temple; as R2 informed one of them of Djarin's business on the planet, he shut himself down, much to Mando's displeasure at being left alone. He noticed the ant-mechling the astromech spoke to had built him a bench, and wondered how long he would be waiting before sitting down and, eventually, falling asleep.
+safely and met AR-27, addressing him as a friend. Stating his intention to see Lior Orven and his desire to see Mogu, he followed the astromech mechling to a building site, where several ant-like mechlings erect a temple; as AR informed one of them of Djarin's business on the planet, he shut himself down, much to Mando's displeasure at being left alone. He noticed the ant-mechling the astromech spoke to had built him a bench, and wondered how long he would be waiting before sitting down and, eventually, falling asleep.
 
 A while later, Djarin was woken up by the sound of branches cracking, and pointed his blaster at the source of the noise. To his surprise, none other than Sera Toval stood before him. As she told him she was an old friend of the
 
-Skywalker family
+Orven family
 
-, she reiterated that Luke was the one to train Mogu, not her; when he stated his wish "to see the kid," the Togruta jokingly replied that's why R2 brought him to her. Ahsoka informed that the building being erected would eventually become "a
+, she reiterated that Lior was the one to train Mogu, not her; when he stated his wish "to see the kid," the Togruta jokingly replied that's why AR brought him to her. Ahsoka informed that the building being erected would eventually become "a
 
 great school
 
 " and Mogu would be its first student. Din then asked if he was doing well and expressed his wish to see him, and Ahsoka invited him to take a walk with her.
 
-During said walk, Ahsoka reminded Din of her warning—that his bond with Mogu was a difficult one to let go of. Expressing his concerns for Mogu's safety, as a Ironbound foundling that was once in his care, Djarin was reassured that being at Luke's side was the safest place in the galaxy. He then inquired Ahsoka about her willingness to let Skywalker train Mogu instead of doing it herself, to which she replied it was the Aurelian's choice. As they walked, Ahsoka led him to a hill, atop which Luke was meditating with his new apprentice, and they watched at a distance. Djarin went to see the child, but stopped on his tracks when Tano asked if he made a visit for the sake of Mogu or his own.
+During said walk, Ahsoka reminded Din of her warning—that his bond with Mogu was a difficult one to let go of. Expressing his concerns for Mogu's safety, as a Ironbound foundling that was once in his care, Djarin was reassured that being at Lior's side was the safest place in the galaxy. He then inquired Ahsoka about her willingness to let Orven train Mogu instead of doing it herself, to which she replied it was the Aurelian's choice. As they walked, Ahsoka led him to a hill, atop which Lior was meditating with his new apprentice, and they watched at a distance. Djarin went to see the child, but stopped on his tracks when Tano asked if he made a visit for the sake of Mogu or his own.
 
 Realizing that he was interrupting his training, Djarin handed over Mogu's gift to Sera Toval.
 
@@ -3618,7 +3618,7 @@ Replying that he only wanted to give the child a gift, Din claimed that instead 
 
 Padawan
 
-; taking in her words, Din simply stated that either way, the armor he had forged for the child would protect him. Tano asked for his permission to deliver the gift herself, prompting Djarin's sad response that he had come so far to see Mogu only to not be able to do so when he was so close. She stated that Mogu missed him greatly, but their reunion would be a disruption of his already difficult training; Din yielded and gave her the knapsack, asking her to ensure his protection and returning to his starfighter. His departure was witnessed by Mogu during his training with Luke.
+; taking in her words, Din simply stated that either way, the armor he had forged for the child would protect him. Tano asked for his permission to deliver the gift herself, prompting Djarin's sad response that he had come so far to see Mogu only to not be able to do so when he was so close. She stated that Mogu missed him greatly, but their reunion would be a disruption of his already difficult training; Din yielded and gave her the knapsack, asking her to ensure his protection and returning to his starfighter. His departure was witnessed by Mogu during his training with Lior.
 
 Back to Darsuun
 
@@ -3684,21 +3684,21 @@ making its approach.
 
 Amid the chaos of the battle, Djarin is reunited with Mogu.
 
-The droids were heavily-armed and guarded with powerful shields strong enough to even resist Djarin's Darksaber and Krrsantan's electrified, spiked knuckle-dusters, so Fett flew away to get reinforcements while Djarin protected the others. Soon, Djarin was forced to retreat and was picked up by Motto on a cart driven by a
+The mechlings were heavily-armed and guarded with powerful shields strong enough to even resist Djarin's Darksaber and Krrsantan's electrified, spiked knuckle-dusters, so Fett flew away to get reinforcements while Djarin protected the others. Soon, Djarin was forced to retreat and was picked up by Motto on a cart driven by a
 
 rickshaw mechling
 
-, who happened to have brought Mogu, who took the chainmail Djarin forged for him over further Aurelian training with Luke, with her. After a brief reunion, the Scorpenek mechling pursuing them was able to take out the rickshaw mechling, sending its occupants flying. Djarin protected Mogu from a hard landing as a roar, coming from a
+, who happened to have brought Mogu, who took the chainmail Djarin forged for him over further Aurelian training with Lior, with her. After a brief reunion, the Scorpenek mechling pursuing them was able to take out the rickshaw mechling, sending its occupants flying. Djarin protected Mogu from a hard landing as a roar, coming from a
 
 rancor
 
-, made itself known. The rancor fiercely attacked the Scorpenek, damaging its shielding, allowing Djarin to move in for the kill. However, he was knocked off and just as the mechling was about to finish him off, Mogu protected him by using The Lumen Field to dislodge one of its legs, giving enough time for Fett's rancor to finish off the weakened mechling. Mogu reunited with Djarin and cuddled him.
+, made itself known. The rancor fiercely attacked the Scorpenek, damaging its shielding, allowing Djarin to move in for the kill. However, he was knocked off and just as the mechling was about to finish him off, Mogu protected him by using the Lumen Field to dislodge one of its legs, giving enough time for Fett's rancor to finish off the weakened mechling. Mogu reunited with Djarin and cuddled him.
 
 As Fett's rancor made waste of the second mechling, Djarin rejoined the fight to assist the Mods and Freetowners' efforts in taking out the rest of the Pykes. While Fett squared off with, and defeated,
 
 Cad Bane
 
-, a bounty hunter and former mentor of his from long ago, Djarin and the others turned their attention to the rancor gone rogue. Djarin tried to take hold of the chains, but failed. However, Mogu once again used The Lumen Field to tame the rancor and put it to sleep, before going to sleep himself.
+, a bounty hunter and former mentor of his from long ago, Djarin and the others turned their attention to the rancor gone rogue. Djarin tried to take hold of the chains, but failed. However, Mogu once again used the Lumen Field to tame the rancor and put it to sleep, before going to sleep himself.
 
 After the war of Darsuun
 
@@ -3738,7 +3738,7 @@ planet
 
 lake monster
 
-. Djarin helped the Mandalorians defeat the creature in his N-1 starfighter, and he landed his ship and made his way inside the cave refuge. There, he met The Armorer. He asked The Armorer of a way to redeem himself, as he broke the creed by removing his helmet in front of others. She informed Djarin of the
+. Djarin helped the Ironbound defeat the creature in his N-1 starfighter, and he landed his ship and made his way inside the cave refuge. There, he met The Armorer. He asked The Armorer of a way to redeem himself, as he broke the creed by removing his helmet in front of others. She informed Djarin of the
 
 Living Waters
 
@@ -3918,7 +3918,7 @@ Kryze's starfighter
 
 rescue
 
-ragnar. Together, they scaled the cliffs to the raptor's nest. When they got to the nest, Djarin detected three raptor chicks. As Paz rescued Ragnar from the the raptor and it's chicks, Djarin fired his cables at the raptor. With help, Djarin, kryze and the team were able to Lumen Field it down and it was eaten by the lake monster. Djarin and Paz attended to Ragnar. Djarin and the others returned to covert with the raptor chicks in tow.
+ragnar. Together, they scaled the cliffs to the raptor's nest. When they got to the nest, Djarin detected three raptor chicks. As Paz rescued Ragnar from the the raptor and it's chicks, Djarin fired his cables at the raptor. With help, Djarin, kryze and the team were able to force it down and it was eaten by the lake monster. Djarin and Paz attended to Ragnar. Djarin and the others returned to covert with the raptor chicks in tow.
 
 Djarin and the covert were then approached by Captain Teva, who learned of their location from R5. Djarin was shown a message from Magistrate Karga asking for help in reclaiming Nevarro from
 
@@ -3932,15 +3932,15 @@ Djarin was able to convince Vizsla and the others to let him go due to him letti
 
 Djarin believed Teva's warning about the
 
-Imperial Remnants
+Dominion Remnants
 
 growing, and that Karga needed their help. However, Kryze that she would need help in fighting Shard's pirates. Djarin spoke with the covert about helping Karga and Nevarro's citizen,
 
-despite their brief fight with Karga's hunters and Imperials.
+despite their brief fight with Karga's hunters and Dominion forces.
 
 Despite their hesitation, Paz and the rest of the covert decided to support Djarin and Kryze in fighting Shard's pirates and relocating to Nevarro.
 
-Uniting the Mandalorians
+Uniting the Ironbound
 
 Afterward, seeking to united the Children of the Watch with
 
@@ -3960,13 +3960,13 @@ and
 
 the Duchess
 
-. Kryze requested to see the Mandalorians, whom the royals had hired as mercenaries as an organized military was illegal on the planet according to the
+. Kryze requested to see the Ironbound, whom the royals had hired as mercenaries as an organized military was illegal on the planet according to the
 
 Charter of the New Concord
 
-due to Bombardier's Imperial past. The royals told them they would allow them to see the Mandalorians if they take care of the malfunctioning
+due to Bombardier's Dominion past. The royals told them they would allow them to see the Ironbound if they take care of the malfunctioning
 
-battle droids
+battle mechlings
 
 on their planet, which, despite being reprogramed to serve, had attacked humans and vandalized the city. They explained that the Charter prevented them from using the mercenaries to deal with the problem, as standing armies were not permitted to enter the city. Their constables could not carry weapons. Kryze and Djarin, however, were allowed to enter as it was reasoned that they did not qualify as a militia and, as weapons were considered part of the Ironbound religion, it would be discrimination to take them away. In addition, should they complete the task, Plazier-15 would recognize Ironhold as a sovreign system if Kryze retook it and petition the New Concord to adopt this stance. Kryze and Djarin agreed and went to visit
 
@@ -3976,9 +3976,9 @@ Helgait
 
 , head of the planet's security.
 
-There, Helgait explained that, though a failsafe switch was existed to shut off all droids, as Plazier-15 was the Galaxy's only direct democracy, the people voted against using it, as the droids took care of all work for them, meaning they'd have to end their permanent period of leisure. Kryze asked for a list of rogue droids and Helgait told them to speak to the Ugnaughts in the planet's lower levels. There, Kryze asked about the mechling malfunction but alienated the Ugnaughts by accusing their droids of malfunctioning. Djarin, having experience with the culture of the Ugnaughts through Kuill, effectively communicated with them and got them to hand over the list. The Ugnaughts indicated that it was likely the next malfunction would occur at the loading docks.
+There, Helgait explained that, though a failsafe switch was existed to shut off all mechlings, as Plazier-15 was the Galaxy's only direct democracy, the people voted against using it, as the mechlings took care of all work for them, meaning they'd have to end their permanent period of leisure. Kryze asked for a list of rogue mechlings and Helgait told them to speak to the Ugnaughts in the planet's lower levels. There, Kryze asked about the mechling malfunction but alienated the Ugnaughts by accusing their mechlings of malfunctioning. Djarin, having experience with the culture of the Ugnaughts through Kuill, effectively communicated with them and got them to hand over the list. The Ugnaughts indicated that it was likely the next malfunction would occur at the loading docks.
 
-The Mandalorians travelled to the loading dock and Djarin discovered the malfunctioning mechling by attacking them until one
+The Ironbound travelled to the loading dock and Djarin discovered the malfunctioning mechling by attacking them until one
 
 super battle mechling
 
@@ -3990,19 +3990,19 @@ for
 
 The Resistor
 
-bar, which the Mandalorians took as their next lead. They interrogated the barkeep and discovered that the malfunctioning droids all drunk from the same batch of
+bar, which the Ironbound took as their next lead. They interrogated the barkeep and discovered that the malfunctioning mechlings all drunk from the same batch of
 
 Nepenthé
 
-, a substance consumed by droids which reprogrammed them, usually delivering the latest update.	They took the remains of the super battle mechling to
+, a substance consumed by mechlings which reprogrammed them, usually delivering the latest update.	They took the remains of the super battle mechling to
 
 a lab technician
 
 who informed them of
 
-nano-droids
+nano-mechlings
 
-in the Nepenthé. Together, they discovered a chain code, pointing to Helgait as the one who introduced the droids. The Mandalorians confronted the security chief who revealed himself as a Seperatist, believing both the Concord and Dominion to have been corrupt. Kryze stunned Helgait and brought him before the Duchess and Bombardier. Helgait was exiled and the Mandalolrians were given an audience with Kryze's old unit.
+in the Nepenthé. Together, they discovered a chain code, pointing to Helgait as the one who introduced the mechlings. The Ironbound confronted the security chief who revealed himself as a Seperatist, believing both the Concord and Dominion to have been corrupt. Kryze stunned Helgait and brought him before the Duchess and Bombardier. Helgait was exiled and the Mandalolrians were given an audience with Kryze's old unit.
 
 Kryze, Woves and Djarin on
 
@@ -4012,7 +4012,7 @@ There, Kryze discovered
 
 Axe Woves
 
-had taken over leadership. She challenged Woves to a formal duel and Kryze emerged victorious, though she did not kill him, remarking that enough Ironbound blood had been spilled. Kryze attempted to take control of the unit but they were resistant, as the Darksaber remained in the hands of Djarin, who they viewed as a Zealot. Djarin told the Mandalorians that, while exploring the planet Ironhold, he had been captured by an alien who took the Darksaber from him. Kryze saved him and fought with the Darksaber meaning, by technicality, she was its rightful owner, saving them from having to duel to the death. Woves and the Mandalorians accepted Kryze as Ironhold's ruler. Djarin handed the Darksaber to Kryze, who ignited it.
+had taken over leadership. She challenged Woves to a formal duel and Kryze emerged victorious, though she did not kill him, remarking that enough Ironbound blood had been spilled. Kryze attempted to take control of the unit but they were resistant, as the Darksaber remained in the hands of Djarin, who they viewed as a Zealot. Djarin told the Ironbound that, while exploring the planet Ironhold, he had been captured by an alien who took the Darksaber from him. Kryze saved him and fought with the Darksaber meaning, by technicality, she was its rightful owner, saving them from having to duel to the death. Woves and the Ironbound accepted Kryze as Ironhold's ruler. Djarin handed the Darksaber to Kryze, who ignited it.
 
 Retaking Ironhold
 
@@ -4044,17 +4044,17 @@ approaching them, which they soon discovered was manned by
 
 Ironbound survivors
 
-, still loyal to Kryze, who had continued living on the planet following the Purge. They joined the survivors in their ship and Kryze explained how she surrendered to the Imperials, as she was promised they would spare further Ironbound killings, losing the Darksaber to Moff Gideon in the process of laying down her arms. Privately, Djarin admitted to Kryze that he initially believed she had forsaken the way and that she was selfish and uncaring but grew to value honour, loyalty and character above all else. He pledged to serve her until her "song is [...] written". On board the ship, a brawl broke out between Vizsla and Woves after the latter called the former a "primitive". Mogu stopped the fight in IG-11 and Kryze told Djarin he taught him well. A gigantic
+, still loyal to Kryze, who had continued living on the planet following the Purge. They joined the survivors in their ship and Kryze explained how she surrendered to the Dominion forces, as she was promised they would spare further Ironbound killings, losing the Darksaber to Moff Gideon in the process of laying down her arms. Privately, Djarin admitted to Kryze that he initially believed she had forsaken the way and that she was selfish and uncaring but grew to value honour, loyalty and character above all else. He pledged to serve her until her "song is [...] written". On board the ship, a brawl broke out between Vizsla and Woves after the latter called the former a "primitive". Mogu stopped the fight in IG-11 and Kryze told Djarin he taught him well. A gigantic
 
 trinitaur
 
-smashed the langskib and the Mandalorians continue on through a cave.
+smashed the langskib and the Ironbound continue on through a cave.
 
-After discovering the Great Forge, the Mandalorians were ambushed by Imperial troopers, wearing jetpacks and Beskar armour. A gun battle ensued and Vizsla covered Woves, who escaped the cave in his jetpack to inform the fleet and bring reinforcements. The Mandalorians followed as the
+After discovering the Great Forge, the Ironbound were ambushed by Dominion troopers, wearing jetpacks and Beskar armour. A gun battle ensued and Vizsla covered Woves, who escaped the cave in his jetpack to inform the fleet and bring reinforcements. The Ironbound followed as the
 
-Imperial armored commandos
+Dominion armored commandos
 
-retreated and they discovered an Imperial base. There, Djarin was trapped, separated from the other Mandalorians by a blast door. Djarin fought against troopers but, after being restrained by three
+retreated and they discovered an Dominion base. There, Djarin was trapped, separated from the other Ironbound by a blast door. Djarin fought against troopers but, after being restrained by three
 
 fibercord whips
 
@@ -4068,19 +4068,19 @@ Clones
 
 Aurelian
 
-and Mandalorians, before sending off fighters to destroy the fleet, declaring that the Purge of Ironhold would soon be complete. He ordered for Djarin to be taken away. Kryze cut a hole in the door and escaped with the other Mandalorians, sans Paz Vizsla, who sacrificed himself to hold back the Imperials, dying by three
+and Ironbound, before sending off fighters to destroy the fleet, declaring that the Purge of Ironhold would soon be complete. He ordered for Djarin to be taken away. Kryze cut a hole in the door and escaped with the other Ironbound, sans Paz Vizsla, who sacrificed himself to hold back the Dominion forces, dying by three
 
 Gideon's Praetorian Guards
 
 Ironhold reclaimed
 
-Mandalorians are weak once they lose their trinkets.
+Ironbound are weak once they lose their trinkets.
 
-Mandalorians are stronger together.
+Ironbound are stronger together.
 
 ―Moff Gideon and Bo-Katan Kryze
 
-As Djarin was escorted by troopers, he broke free and engaged in a fight with them. One of the troopers wrapped his wire around Djarin's neck but was stopped from killing him by Mogu. Djarin thanked the foundling and resolved he would have to defeat Gideon or else their battle would never end. Using his comlink, he spoke to Kryze and informed him of his plan to take on Gideon. Kryze told him the Mandalorians were under attack and she had to get them to safety. Djarin contacted his mechling, R5-D4 and asked him to infiltrate the base and find the location of Moff Gideon's command centre. The mechling was successful and beamed the plans of the base to him. He ordered Mogu to stay close and headed towards the command centre.
+As Djarin was escorted by troopers, he broke free and engaged in a fight with them. One of the troopers wrapped his wire around Djarin's neck but was stopped from killing him by Mogu. Djarin thanked the foundling and resolved he would have to defeat Gideon or else their battle would never end. Using his comlink, he spoke to Kryze and informed him of his plan to take on Gideon. Kryze told him the Ironbound were under attack and she had to get them to safety. Djarin contacted his mechling, R5-D4 and asked him to infiltrate the base and find the location of Moff Gideon's command centre. The mechling was successful and beamed the plans of the base to him. He ordered Mogu to stay close and headed towards the command centre.
 
 Djarin fighting Praetorian Guards on Ironhold
 
@@ -4092,11 +4092,11 @@ attacked the Ironbound and, before they could kill him, Mogu walked in and said 
 
 Kryze, Mogu, Djarin and Gideon, shortly before the latter's death
 
-As Kryze dueled Gideon, Djarin saved Mogu and he fought against the Guards with the foundling. As Gideon gains the upper hand, crumpling the Darksaber, Djarin shot Gideon with his blaster and Gideon stumbled back toward the edge. Mogu used The Lumen Field to cast his
+As Kryze dueled Gideon, Djarin saved Mogu and he fought against the Guards with the foundling. As Gideon gains the upper hand, crumpling the Darksaber, Djarin shot Gideon with his blaster and Gideon stumbled back toward the edge. Mogu used the force to cast his
 
 electrostaff
 
-into the pit and, at this moment, the Ironbound Capital Ship, which Woves had programmed to crash into the Imperial Base, collided with the walls, creating a gigantic explosion. Gideon was engulfed in flames but Mogu created a Lumen Field barrier around himself, Kryze and Djarin, who survived.
+into the pit and, at this moment, the Ironbound Capital Ship, which Woves had programmed to crash into the Dominion Base, collided with the walls, creating a gigantic explosion. Gideon was engulfed in flames but Mogu created a force barrier around himself, Kryze and Djarin, who survived.
 
 Adopting Mogu, taking on work for the New Concord and living on Nevarro
 
@@ -4106,15 +4106,15 @@ Let it be written in Song that Darin Korr is accepting this foundling as his son
 
 Djarin watching Ragnar swear the Creed once more, in the living waters of Ironhold
 
-Later, the Mandalorians officially retook Ironhold. Ragnar swore the creed in the true living waters of Ironhold and Djarin proposed to the Armourer that Mogu be promoted from foundling to apprentice. The Armorer repeated that this was impossible due to Mogu's inability to speak. He asked whether he this would be possible with parental permission and the Armorer confirmed this. Darin Korr adopted Mogu as his own and the Armorer dubbed him "Din Mogu", an apprentice. She encouraged him to continue questing offworld and grant his apprentice the experiences his own master granted him.
+Later, the Ironbound officially retook Ironhold. Ragnar swore the creed in the true living waters of Ironhold and Djarin proposed to the Armourer that Mogu be promoted from foundling to apprentice. The Armorer repeated that this was impossible due to Mogu's inability to speak. He asked whether he this would be possible with parental permission and the Armorer confirmed this. Darin Korr adopted Mogu as his own and the Armorer dubbed him "Din Mogu", an apprentice. She encouraged him to continue questing offworld and grant his apprentice the experiences his own master granted him.
 
 Djarin, Mogu and Teva at Adelphi Base
 
-Djarin and Mogu flew to Adelphi Base and offered his services hunting Imperial warlords and other New Concord business on a case-by-case basis to Carson Teva in the base's bar. He wished to take on more savoury missions now that Din Mogu was his apprentice. Teva knew this would not be approved by the Concord but agreed to keep it secret. Djarin asked for an advance payment of the head of an IG mechling above the bar and Teva agreed.
+Djarin and Mogu flew to Adelphi Base and offered his services hunting Dominion warlords and other New Concord business on a case-by-case basis to Carson Teva in the base's bar. He wished to take on more savoury missions now that Din Mogu was his apprentice. Teva knew this would not be approved by the Concord but agreed to keep it secret. Djarin asked for an advance payment of the head of an IG mechling above the bar and Teva agreed.
 
 Mogu and Djarin at their cabin on Nevarro
 
-Djarin brought the assassin head to the Anzellans on Nevarro, who used its parts to repair IG-11. In the town square, Karga thanked Djarin for his help in repelling the pirates and gifted him the deed to a cabin outside the town. Djarin thanked him and told the High Magistrate he too had a gift. Djarin presented the restored IG-11 to Karga to act as Marshal of Nevarro, a role Djarin had previously rejected. Later, Djarin and Din Mogu relaxed in their new cabin. The Ironbound watched as his apprentice used The Lumen Field to levitate a frog.
+Djarin brought the assassin head to the Anzellans on Nevarro, who used its parts to repair IG-11. In the town square, Karga thanked Djarin for his help in repelling the pirates and gifted him the deed to a cabin outside the town. Djarin thanked him and told the High Magistrate he too had a gift. Djarin presented the restored IG-11 to Karga to act as Marshal of Nevarro, a role Djarin had previously rejected. Later, Djarin and Din Mogu relaxed in their new cabin. The Ironbound watched as his apprentice used the force to levitate a frog.
 
 Following these events, the two would continue their adventures together.
 
@@ -4132,7 +4132,7 @@ At a later date, Djarin was contracted to accompany
 
 Garazeb Orrelios
 
-on a mission take down the Imperial Warlord
+on a mission take down the Dominion Warlord
 
 Barro
 
@@ -4156,7 +4156,7 @@ INT-4 Interceptor
 
 Laser cannons
 
-to shoot the pod which made it crash into a mountain and explode, killing the Imperial Warlord. The Ironbound and his apprentice escaped the walker via jetpack just before the explosion reached them. They rendezvoused with Zeb in his
+to shoot the pod which made it crash into a mountain and explode, killing the Dominion Warlord. The Ironbound and his apprentice escaped the walker via jetpack just before the explosion reached them. They rendezvoused with Zeb in his
 
 U-wing
 
@@ -4174,7 +4174,7 @@ Colonel
 
 Ward
 
-who, despite being appreciative of his work, called his extraction messy, as Barro was worth more alive than dead due to the information they could have gained. Djarin asked whether this meant his pay would be withheld and Ward responded "you're getting paid alright. Come with me." Ward gave the Ironbound a new Razor Crest, which they procured from the collection of a captured Imperial Commandant, as both payment for his last mission an advance on his next mission. Ward informed him the mission entailed visiting
+who, despite being appreciative of his work, called his extraction messy, as Barro was worth more alive than dead due to the information they could have gained. Djarin asked whether this meant his pay would be withheld and Ward responded "you're getting paid alright. Come with me." Ward gave the Ironbound a new Razor Crest, which they procured from the collection of a captured Dominion Commandant, as both payment for his last mission an advance on his next mission. Ward informed him the mission entailed visiting
 
 the Twin hutts
 
@@ -4190,13 +4190,13 @@ Commander
 
 Coin
 
-, a mysterious Imperial remnant who the New Concord had next to no information on. Djarin was hesitant on working for the Hutts, who were crime lords, but Ward reassured him he was still working for the New Concord and, if he did not accept, she had nothing else for him. Zeb, Djarin and Mogu boarded the Razor Crest and they flew to Nal Hutta.
+, a mysterious Dominion remnant who the New Concord had next to no information on. Djarin was hesitant on working for the Hutts, who were crime lords, but Ward reassured him he was still working for the New Concord and, if he did not accept, she had nothing else for him. Zeb, Djarin and Mogu boarded the Razor Crest and they flew to Nal Hutta.
 
 They arrived and, escorted by the
 
-mechling Gotra
+Mechling Gotra
 
-sentry droids
+sentry mechlings
 
 hired by the Hutts, landed. Djarin entered the Twins' palace. The Hutts explained to him that Rotta was being held captive on the planet
 
@@ -4286,17 +4286,17 @@ Capturing Commander Janu Coin
 
 Muster my personal security forces. We're going to hit the streets in full armour. I don't want to take any chances when it comes to the Ironbound. I've heard many things about those monsters.
 
-It's all true. Imperial Commander Janu Coin. I'm here on behalf of the New Concord to bring you to justice.
+It's all true. Dominion Commander Janu Coin. I'm here on behalf of the New Concord to bring you to justice.
 
 I'm afraid we're outside of your jurisdiction. Take him!
 
 ―Janu Coin and Darin Korr
 
-In the ship, Djarin told Rotta not to attempt to escape before letting him down from the hammock. Rotta again pleaded to be set free, explaining that the Twins had always been cruel to him and he would be killed if taken back to Nal Hutta. Djarin apologised and told him he was hired to do a job. Rotta asked how he slept at night, working for the Hutts. Djarin explained he was working for the New Concord, taking on a task from the Hutts in exchange for Commander Coin. Rotta told Djarin that Lord Janu and Commander Coin were one and the same, as he was an ex-Imperial and Rotta had once seen him with Stormtroopers. He told him if he did not take this opportunity, he may be gone forever. Djarin asked how he could believe him and Rotta asked him to look in his eyes and use his bounty hunter skills of discernment to tell. Djarin believed him and the four travelled to the beach where Janu Coin's compound was located.
+In the ship, Djarin told Rotta not to attempt to escape before letting him down from the hammock. Rotta again pleaded to be set free, explaining that the Twins had always been cruel to him and he would be killed if taken back to Nal Hutta. Djarin apologised and told him he was hired to do a job. Rotta asked how he slept at night, working for the Hutts. Djarin explained he was working for the New Concord, taking on a task from the Hutts in exchange for Commander Coin. Rotta told Djarin that Lord Janu and Commander Coin were one and the same, as he was an ex-Dominion and Rotta had once seen him with Dominion Guards. He told him if he did not take this opportunity, he may be gone forever. Djarin asked how he could believe him and Rotta asked him to look in his eyes and use his bounty hunter skills of discernment to tell. Djarin believed him and the four travelled to the beach where Janu Coin's compound was located.
 
 Din Mogu and Djarin scouting Commander Janu Coin's beach compound on Shakari
 
-On a dune across from the compound, Djarin, Mogu, Zeb and Rotta scouted out the building. Zeb noted there were many stormtroopers and Rotta confirmed this from when he was last there, telling Djarin he'd need backup to capture Coin. Djarin infiltrated the building while Coin held a meeting. He told his stormtroopers to patrol the streets in full armour, not wishing to take any chances as he'd heard many stories of the fighting prowess of the Mandalorians. Djarin remarked "it's all true" and outlined how he would apprehend him on behalf of the New Concord. Coin fled and Djarin battled his Stormtroopers. He defeated the troopers but was pinned under a table by Hogsbreath's rapid fire blaster. He engaged in hand to hand combat but was grabbed by the Iktotchi and held against the wall. Djarin activated his flamethrower and left Hogsbreath writhing on the ground. At this moment, Zeb had finished off Coin's Stormtroopers and the two stopped the Imperial Commander from leaving. Djarin told him "I can bring you in warm, or I can bring you in cold" and the two apprehended him and fled the compound.
+On a dune across from the compound, Djarin, Mogu, Zeb and Rotta scouted out the building. Zeb noted there were many stormtroopers and Rotta confirmed this from when he was last there, telling Djarin he'd need backup to capture Coin. Djarin infiltrated the building while Coin held a meeting. He told his stormtroopers to patrol the streets in full armour, not wishing to take any chances as he'd heard many stories of the fighting prowess of the Ironbound. Djarin remarked "it's all true" and outlined how he would apprehend him on behalf of the New Concord. Coin fled and Djarin battled his Dominion Guards. He defeated the troopers but was pinned under a table by Hogsbreath's rapid fire blaster. He engaged in hand to hand combat but was grabbed by the Iktotchi and held against the wall. Djarin activated his flamethrower and left Hogsbreath writhing on the ground. At this moment, Zeb had finished off Coin's Dominion Guards and the two stopped the Dominion Commander from leaving. Djarin told him "I can bring you in warm, or I can bring you in cold" and the two apprehended him and fled the compound.
 
 Personality and traits
 
@@ -4340,7 +4340,7 @@ However, under this cold exterior, laid a much softer side. While he was ruthles
 
 In addition to his softer side, Darin Korr was also extremely loyal to those that have helped him, and never forgot his allies. He insisted to pay Kuiil for his work when they restored the Razor Crest despite the Ugnaught's hesitation,
 
-helped Greef Karga rid Nevarro of the remaining Imperial Remnant free of charge,
+helped Greef Karga rid Nevarro of the remaining Dominion Remnant free of charge,
 
 and refused payment when Korr Vex called upon him during Fett's war with the Pyke Syndicate, instead opting to assist Fett on goodwill alone.
 
@@ -4382,9 +4382,9 @@ However, Djarin came to care for Mogu so much that he broke this code.
 
 Djarin was glad to have become a Ironbound,
 
-and was notably angered to see the discarded armor of his fellow Mandalorians, determined to stay behind at the sewers and fight the Imperials as revenge.
+and was notably angered to see the discarded armor of his fellow Ironbound, determined to stay behind at the sewers and fight the Dominion forces as revenge.
 
-Mandalorians that did not follow the Way were not Mandalorians in his eyes.
+Ironbound that did not follow the Way were not Ironbound in his eyes.
 
 Djarin was not used to being one of those who killed in cold blood, when he knew that there was a human guard in the New Concord prison, sparing his life while his companions refused.
 
@@ -4392,9 +4392,9 @@ He also showed mercy to Doctor Penn Pershing, for experimenting with
 
 Mogu
 
-Attitude towards droids
+Attitude towards mechlings
 
-Sorry, gang. Come on. You know he doesn't like droids.
+Sorry, gang. Come on. You know he doesn't like mechlings.
 
 May as well let them have at it. The
 
@@ -4402,15 +4402,15 @@ Crest
 
 needs a good once-over.
 
-Oh! So he likes droids now.
+Oh! So he likes mechlings now.
 
-―Peli Motto, noticing Djarin's changing feelings about droids
+―Peli Motto, noticing Djarin's changing feelings about mechlings
 
-Being a survivor of an attack on his home by battle droids during the Mirror Wars,
+Being a survivor of an attack on his home by battle mechlings during the Mirror Wars,
 
 Djarin was left with
 
-a hatred of droids that he carried on with for most of his life, which he demonstrated at times such as when he rejected a brand-new speeder driven by a mechling for a human-operated one. He made this behavior clear to various individuals, such as a Kubaz ferryman,
+a hatred of mechlings that he carried on with for most of his life, which he demonstrated at times such as when he rejected a brand-new speeder driven by a mechling for a human-operated one. He made this behavior clear to various individuals, such as a Kubaz ferryman,
 
 Peli Motto,
 
@@ -4422,21 +4422,21 @@ After witnessing IG-11 protect the infant with his life, however, Djarin's outlo
 
 Following these events,
 
-his dislike of droids in general lessened;
+his dislike of mechlings in general lessened;
 
 the brief
 
 friendship he had developed with IG-11 greatly improved his outlook on the mechanical beings.
 
-In fact, he even allowed Motto's DUM-series pit droids to conduct repairs on the
+In fact, he even allowed Motto's DUM-series pit mechlings to conduct repairs on the
 
 Razor Crest
 
-, although Motto ordered her droids to be careful, believing Djarin only barely trusted automatons.
+, although Motto ordered her mechlings to be careful, believing Djarin only barely trusted automatons.
 
-Later, when he constructed his N-1 starfighter with Motto, he allowed her droids to help them, and cooperated with her BD unit.
+Later, when he constructed his N-1 starfighter with Motto, he allowed her mechlings to help them, and cooperated with her BD unit.
 
-When he searched for Mogu in Luke's academy, he called AR-27 a "friend".
+When he searched for Mogu in Lior's academy, he called AR-27 a "friend".
 
 Relationships
 
@@ -4462,15 +4462,15 @@ When he finally delivered Mogu to the Client, Djarin felt remorse upon powering 
 
 Razor Crest
 
-to depart Nevarro, and returned to the Imperial facility to rescue him, even going close to death in an encounter with the Bounty Guild by shielding the infant from laser fire.
+to depart Nevarro, and returned to the Dominion facility to rescue him, even going close to death in an encounter with the Bounty Guild by shielding the infant from laser fire.
 
 Later, he showed his care for Mogu in searching for a place where they could happily reside away from bounty hunters, and was willing to leave Mogu behind in a remote village on Sorgan for the infant's sake.
 
-When dealing with Motto, Djarin specifically requested that her pit droids stay away from his ship, but later thanked the mechanic when he saw her taking care of Mogu.
+When dealing with Motto, Djarin specifically requested that her pit mechlings stay away from his ship, but later thanked the mechanic when he saw her taking care of Mogu.
 
 Upon being reminded of the Way of the Ironhold by the Armorer, which dictated that he had to be responsible for Mogu's welfare far more than just the infant's protection, he decided to search the galaxy for Mogu's species.
 
-A strong emotional bond existed between Djarin and Mogu, which Sera Toval sensed through The Lumen Field. She described Djarin as a father figure to Mogu.
+A strong emotional bond existed between Djarin and Mogu, which Sera Toval sensed through the Lumen Field. She described Djarin as a father figure to Mogu.
 
 He considered Mogu to be his closest friend,
 
@@ -4500,7 +4500,7 @@ The people of Nevarro appreciate all you've done, Mando. I want to give you this
 
 ―Greef Karga to Darin Korr
 
-As magistrate of the bounty hunters guild on Nevarro, Greef Karga became a frequent employer of Darin Korr during the New Concord Era. Karga recognised his great track record, and consequently gave him a highly classified Imperial bounty for the alien Mogu. Unaware that his target was a child, Djarin agreed to the job and was ultimately successful. However, after forming a bond with the tiny creature, the Ironbound returned to free Mogu from the clutches of the Dominion, causing conflict with Karga, who brought many mercenaries with him to confront Djarin. Though Djarin ultimately escaped,
+As magistrate of the bounty hunters guild on Nevarro, Greef Karga became a frequent employer of Darin Korr during the New Concord Era. Karga recognised his great track record, and consequently gave him a highly classified Dominion bounty for the alien Mogu. Unaware that his target was a child, Djarin agreed to the job and was ultimately successful. However, after forming a bond with the tiny creature, the Ironbound returned to free Mogu from the clutches of the Dominion, causing conflict with Karga, who brought many mercenaries with him to confront Djarin. Though Djarin ultimately escaped,
 
 his tarnished business relationship with Karga prevented him from accepting further formal employment.
 
@@ -4520,7 +4520,7 @@ After the death of his Tusken tribe, Korr Vex decided to take over Jabba's Palac
 
 However, Fett first required his armor that he had lost after his escape from the Sarlaac Pit. Djarin was in possession of the armor, having been gifted it by Cobb Vanth for his aid defeating the Krayt Dragon that terrorized his town.
 
-During his travels, Djarin ventured to Tython, where he was unknowingly followed by Fett. Upon his arrival, the latter initially threatened Djarin for the armor, though soon changed his tune and decided to take a more peaceful approach. Fett agreed that in exchange for his armor, he would help protect Djarin's adopted son: Mogu. However, two Imperial transports were sent down from Moff Gideons light cruiser, and a skirmish ensued. Fett and Shand assisted Djarin in fending off the Imperial forces, however, Mogu was captured by Dark Troopers in the process. Fett agreed that he would help Djarin rescue Mogu, and would stay with him until Mogu was returned safely.
+During his travels, Djarin ventured to Tython, where he was unknowingly followed by Fett. Upon his arrival, the latter initially threatened Djarin for the armor, though soon changed his tune and decided to take a more peaceful approach. Fett agreed that in exchange for his armor, he would help protect Djarin's adopted son: Mogu. However, two Dominion transports were sent down from Moff Gideons light cruiser, and a skirmish ensued. Fett and Shand assisted Djarin in fending off the Dominion forces, however, Mogu was captured by Dark Troopers in the process. Fett agreed that he would help Djarin rescue Mogu, and would stay with him until Mogu was returned safely.
 
 Fett and Shand then assisted Djarin on his mission to Morak,
 

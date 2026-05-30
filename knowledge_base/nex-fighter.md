@@ -36,25 +36,25 @@ Astral Rift Encyclopedia
 
 booklet
 
-Astral Rift: NEX fighter
+Astral Rift: TIE Fighter
 
 , a video game
 
-Astral Rift: NEX fighter
+Astral Rift: TIE Fighter
 
 , a comic series
 
-Astral Rift: NEX fighter
+Astral Rift: TIE Fighter
 
 , the trade paperback of the comic
 
-NEX fighter Expansion Pack
+TIE Fighter Expansion Pack
 
 See also
 
 TIE bomber (disambiguation)
 
-TIE interceptor (disambiguation)
+NEX interceptor (disambiguation)
 
 This is a
 

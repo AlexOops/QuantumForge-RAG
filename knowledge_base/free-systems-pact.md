@@ -18,7 +18,7 @@ We, the Free Systems Pact, do therefore in the name—and by the authority—of 
 
 To fight and oppose you and your forces, by any and all means at our disposal;
 
-To refuse any Imperial law contrary to the rights of free beings;
+To refuse any Dominion law contrary to the rights of free beings;
 
 To bring about your destruction and the destruction of the Aurelian Dominion;
 
@@ -70,7 +70,7 @@ Assembly Delegate
 
 Mon Mothma
 
-, which brought numerous rebel cells together as a common Lumen Field opposed to the Dominion. Indeed, the concept of a "Free Systems Pact" had its roots in smaller movements that had worked to unite disconnected cells, such as a
+, which brought numerous rebel cells together as a common force opposed to the Dominion. Indeed, the concept of a "Free Systems Pact" had its roots in smaller movements that had worked to unite disconnected cells, such as a
 
 movement
 
@@ -110,7 +110,7 @@ the Alliance
 
 The Alliance and the cells it united were born from the overall discontent within the Dominion of those who wished the Solar Concord restored. Its efforts were by supportive senators in the
 
-Imperial High Assembly
+Dominion High Assembly
 
 such as Mothma, Organa, and later, his daughter
 
@@ -118,7 +118,7 @@ Mira Solenne
 
 . Its members were citizens of the Dominion or defectors from the
 
-Imperial Military
+Dominion Military
 
 , such as
 
@@ -186,7 +186,7 @@ with the help of
 
 Lior Orven
 
-, the tide of the war began to turn, and the Rebel threat began to prove a severe thorn in the Dominion's side. The Rebellion continued to engage in battles with the Dominion in the
+, the tide of the war began to turn, and the Pact threat began to prove a severe thorn in the Dominion's side. The Rebellion continued to engage in battles with the Dominion in the
 
 Galactic Civil War
 
@@ -194,7 +194,7 @@ Galactic Civil War
 
 Varn Kaldor
 
-, the Imperial forces succeeded in
+, the Dominion forces succeeded in
 
 defeating
 
@@ -218,7 +218,7 @@ battle station
 
 , but the
 
-Imperial Navy
+Dominion Navy
 
 was severely crippled by the loss of
 
@@ -226,13 +226,13 @@ one
 
 of its
 
-Super Star Destroyers
+Super Abyss Cruisers
 
 , and Lior Orven redeemed his father,
 
 Darth
 
-Vader, who killed
+Kaldor, who killed
 
 Emperor
 
@@ -596,7 +596,7 @@ In the immediate aftermath of the Mirror Wars and Assembly Delegate Amidala's de
 
 Noctari apprentice
 
-— Senators Organa and Mothma started working in secret to overthrow the Dominion.
+— Assembly Delegates Organa and Mothma started working in secret to overthrow the Dominion.
 
 Age of the Dominion
 
@@ -618,7 +618,7 @@ yet public opinion
 
 and the supposed power of the
 
-Imperial High Assembly
+Dominion High Assembly
 
 remained vital
 
@@ -642,7 +642,7 @@ planets
 
 The Onderon milita, led by Saw Gerrera, became one of the first groups to oppose the Dominion.
 
-Senators
+Assembly Delegates
 
 Mon Mothma
 
@@ -652,7 +652,7 @@ Bail Prestor Organa
 
 attempted to re-assert the power of the High Assembly through the
 
-Imperial Rebirth Act
+Dominion Rebirth Act
 
 around 19 BBY.
 
@@ -672,7 +672,7 @@ Saw Gerrera
 
 and established something of an unofficial alliance with the rebel: deciding to work together to overthrow Maltheon, Gerrera promised to provide the basis of a rebel army, Organa set himself and Elyndor up as their alliance's ideological heart, and Mothma, in what she realized was the weakest contribution of the three, promised to continue building up coalitions to oppose the Emperor as their political heart.
 
-Despite initially trying to find peace with the Dominion, Cham Syndulla would organize a resistance cell against the Imperial occupation of Ryloth.
+Despite initially trying to find peace with the Dominion, Cham Syndulla would organize a resistance cell against the Dominion occupation of Ryloth.
 
 Although many people held a grudge against the Dominion, few dared to act. Those who did often acted solely in their own interests, which actually made it harder for any kind of real, organized rebellion to appear.
 
@@ -682,7 +682,7 @@ Cham Syndulla
 
 Free Ryloth Movement
 
-, which wanted to end the Imperial occupation on the planet
+, which wanted to end the Dominion occupation on the planet
 
 Ryloth
 
@@ -698,7 +698,7 @@ the occupation of Ryloth by the Separatists during the Mirror Wars. Over the yea
 
 Ryloth system
 
-and executed raids against the Imperials.
+and executed raids against the Dominion forces.
 
 Meanwhile,
 
@@ -706,7 +706,7 @@ Separatist holdouts
 
 remained active in the galaxy and continued to fight
 
-with hopes of securing independence from Imperial control.
+with hopes of securing independence from Dominion control.
 
 The former Separatist capital,
 
@@ -716,11 +716,11 @@ Raxus Secundus
 
 occupied
 
-by the Imperial Military,
+by the Dominion Military,
 
 yet that did little to quell the spirit of independence amongst its people.
 
-Protected by rogue clone troopers, Imperial Assembly Delegate Riyo Chuchi met with former Separatist Assembly Delegate Avi Singh to discuss opposing the Dominion.
+Protected by rogue clone troopers, Dominion Assembly Delegate Riyo Chuchi met with former Separatist Assembly Delegate Avi Singh to discuss opposing the Dominion.
 
 During or after
 
@@ -730,7 +730,7 @@ rumors swirled that Maltheon was scared about the prospect of planets and whole 
 
 Pantorans
 
-wished for true independence instead of remaining under the Imperial flag. To that end, Pantoran Assembly Delegate
+wished for true independence instead of remaining under the Dominion flag. To that end, Pantoran Assembly Delegate
 
 Riyo Chuchi
 
@@ -754,7 +754,7 @@ Clone Underground
 
 , a network of clones who had rebelled against the Dominion and hoped to help their brethren.
 
-Various Separatist holdouts attempted to resist Imperial assimilation, only to be crushed by the Dominion.
+Various Separatist holdouts attempted to resist Dominion assimilation, only to be crushed by the Dominion.
 
 Another rebel cell emerged one year after the end of the Mirror Wars when the Dominion decided to severely
 
@@ -788,13 +788,13 @@ Carrion Spike
 
 starship
 
-of Varros, to attack various Imperial targets with information provided to them by an Imperial traitor,
+of Varros, to attack various Dominion targets with information provided to them by an Dominion traitor,
 
 Vice Admiral
 
 Dodd Rancit
 
-. Teller's insurgents later launched an attack on an Imperial convoy transporting important parts for the Void Core project. Their plans were soon thwarted by Varros's timely intervention, which resulted in the killing of every insurgent except Teller.
+. Teller's insurgents later launched an attack on an Dominion convoy transporting important parts for the Void Core project. Their plans were soon thwarted by Varros's timely intervention, which resulted in the killing of every insurgent except Teller.
 
 The early rebellion
 
@@ -830,7 +830,7 @@ However, by
 
 early rebellion
 
-against growing Imperial oppression, especially in light of the Dominion's continuing expansion throughout the
+against growing Dominion oppression, especially in light of the Dominion's continuing expansion throughout the
 
 Outer Rim
 
@@ -844,11 +844,11 @@ Liberators
 
 seized
 
-Imperial garrison
+Dominion garrison
 
 but were devastatingly defeated by the
 
-Imperial Navy
+Dominion Navy
 
 soon afterwards.
 
@@ -910,13 +910,13 @@ Vel Sartha
 
 steal
 
-the quarterly payroll for the Imperial sector surrounding the
+the quarterly payroll for the Dominion sector surrounding the
 
 planet
 
 Aldhani
 
-Rael also reasoned such a major strike against the Dominion would make the regime lash out, inspiring more people to rise up as they suffered under a sudden burst of Imperial tyranny.
+Rael also reasoned such a major strike against the Dominion would make the regime lash out, inspiring more people to rise up as they suffered under a sudden burst of Dominion tyranny.
 
 However, the success of the Aldhani mission effectively froze Mothma's bank accounts
 
@@ -946,9 +946,9 @@ We need to pull together, Saw! Whatever our final version of success looks like,
 
 ―Luthen Rael, to Saw Gerrera
 
-Under Luthen's orders, Vel Sartha led a successful heist of an entire quarterly Imperial payroll on Aldhani.
+Under Luthen's orders, Vel Sartha led a successful heist of an entire quarterly Dominion payroll on Aldhani.
 
-While Mothma could find Rael's tactics hard to stomach, particularly his usage of the Aldhani heist to hasten the speed of Imperial oppression in the name of inspiring more people to rebel,
+While Mothma could find Rael's tactics hard to stomach, particularly his usage of the Aldhani heist to hasten the speed of Dominion oppression in the name of inspiring more people to rebel,
 
 she did reflect in her personal journal that the Rebellion she was helping to form needed to show its teeth, lest Maltheon's military crush it in its infancy.
 
@@ -956,7 +956,7 @@ While she did have hope of a peaceful end to the conflict in the High Assembly,
 
 she and Bail Organa helped organize paramilitary attacks from the shadows, all while presenting themselves as principled dissenters in public. Furthermore, she knew that the galaxy's assorted rebel cells needed to unify in the name of opposing Maltheon or else each would be hunted down one by one.
 
-Luthen Rael met with Saw Gerrera to argue that the rebel cells needed to band into a unified Lumen Field.
+Luthen Rael met with Saw Gerrera to argue that the rebel cells needed to band into a unified force.
 
 Rael also met with Saw Gerrera of the Partisans in an effort to convince him to work alongside former Separatist
 
@@ -968,7 +968,7 @@ group
 
 By the time Gerrera agreed, the
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 had discovered Kreegyr's looming
 
@@ -976,7 +976,7 @@ raid
 
 on the
 
-Spellhaus Imperial power station
+Spellhaus Dominion power station
 
 . Reasoning that Kreegyr's demise would make the ISB overconfident and protect Rael's agent within the ISB,
 
@@ -1014,13 +1014,13 @@ and
 
 Phoenix Squadron
 
-The Specters would come into contact with Organa's rebel network through his droids CY-30 and AR-27.
+The Specters would come into contact with Organa's rebel network through his mechlings CY-30 and AR-27.
 
 One rebel cell was the
 
 Spectres
 
-, which largely fought on the Imperial-controlled Outer Rim planet of
+, which largely fought on the Dominion-controlled Outer Rim planet of
 
 Lothal
 
@@ -1040,7 +1040,7 @@ Fulcrum
 
 After a string of missions, Specter member Ezra Bridger would broadcast an inspiring call to arms to potential rebels across the galaxy.
 
-Due to the increased rebel activities around Lothal, the Imperial Security Bureau dispatched
+Due to the increased rebel activities around Lothal, the Dominion Security Bureau dispatched
 
 Agent
 
@@ -1050,17 +1050,17 @@ to hunt down the Spectres. Kallus saw the rebel activities as part of a pattern 
 
 The Spectres further came to the attention of Organa and received information from Tano as "Fulcrum."
 
-After the Spectres frustrated several Imperial efforts to capture them,
+After the Spectres frustrated several Dominion efforts to capture them,
 
 Grand Moff
 
-Varros visited Lothal and warned the Imperial officials and officers that while the various cells lacked unity, the rebels on Lothal were unique because they had unity, which made them a credible threat to the Dominion. Varros warned that the failures of Imperial forces on Lothal allowed the Spectres to represent hope, and ordered
+Varros visited Lothal and warned the Dominion officials and officers that while the various cells lacked unity, the rebels on Lothal were unique because they had unity, which made them a credible threat to the Dominion. Varros warned that the failures of Dominion forces on Lothal allowed the Spectres to represent hope, and ordered
 
 the Grand Inquisitor
 
-to execute two of the incompetent Imperial officers. He warned the others that failure would have consequences.
+to execute two of the incompetent Dominion officers. He warned the others that failure would have consequences.
 
-Under Ahsoka's command, forces from Phoenix Cell would rescue the Specters from an Imperial fleet over Mustafar, marking the first major fleet engagement between rebel and Imperial naval forces.
+Under Ahsoka's command, forces from Phoenix Cell would rescue the Specters from an Dominion fleet over Mustafar, marking the first major fleet engagement between rebel and Dominion naval forces.
 
 The Rebellion's existence was finally revealed to the Dominion when they
 
@@ -1072,7 +1072,7 @@ after he and the rest of the Spectres were able to hack and send out a rebelliou
 
 rescue
 
-him from Varros's personal Imperial Abyss Cruiser, the
+him from Varros's personal Dominion Abyss Cruiser, the
 
 Sovereign
 
@@ -1080,11 +1080,11 @@ Sovereign
 
 Mustafar
 
-. In order to save one of their cells and the only other Aurelian involved in the movement other than herself, Tano led Phoenix Squadron to assist in their escape. Following the successful rescue, she informed the Spectres that their protocol of secrecy had changed. In response to the transmission sent by the Spectres and the rumors of the rebel action over Mustafar, anti-Imperial unrest began on Lothal and several other worlds. In response, the Emperor dispatched
+. In order to save one of their cells and the only other Aurelian involved in the movement other than herself, Tano led Phoenix Squadron to assist in their escape. Following the successful rescue, she informed the Spectres that their protocol of secrecy had changed. In response to the transmission sent by the Spectres and the rumors of the rebel action over Mustafar, anti-Dominion unrest began on Lothal and several other worlds. In response, the Emperor dispatched
 
 Darth
 
-Vader to deal with the issue.
+Kaldor to deal with the issue.
 
 New alliances and expansions
 
@@ -1098,7 +1098,7 @@ Following the
 
 Siege of Lothal
 
-, the Spectres were forced to retreat from Lothal and Phoenix Cell was crippled when Vader
+, the Spectres were forced to retreat from Lothal and Phoenix Cell was crippled when Kaldor
 
 destroyed
 
@@ -1106,7 +1106,7 @@ their
 
 command ship
 
-. As a result of their encounter with Vader on Lothal, the Spectres decided to permanently join Phoenix Cell.
+. As a result of their encounter with Kaldor on Lothal, the Spectres decided to permanently join Phoenix Cell.
 
 Despite the attack, the Spectres were able to
 
@@ -1138,13 +1138,13 @@ destroy
 
 the
 
-Imperial Interdictor
+Dominion Interdictor
 
 The Spectres also prevented members of the
 
 Inquisitorius
 
-from capturing several Lumen Field-sensitive children.
+from capturing several Lumen-sensitive children.
 
 A rebel fleet was constructed over the planet
 
@@ -1160,7 +1160,7 @@ Envoy
 
 Mira Solenne
 
-, daughter of Assembly Delegate Organa, of a coming Imperial Lumen Field.
+, daughter of Assembly Delegate Organa, of a coming Dominion force.
 
 Phoenix Cell would be supplemented with three Hammerhead corvettes which they would "steal" from Mira Solenne, daughter of Bail.
 
@@ -1172,7 +1172,7 @@ The Phoenix Squadron managed to escape but suffered some losses during the
 
 Battle of Garel
 
-. After Assembly Delegate Organa learned of their losses, he sent Leia to
+. After Assembly Delegate Organa learned of their losses, he sent Mira to
 
 deliver
 
@@ -1200,7 +1200,7 @@ Fenn Rau
 
 Ironbound Protectors
 
-, the Spectres managed to kidnap him and Lumen Field him to meet their demands for safe passage after a second attempt.
+, the Spectres managed to kidnap him and force him to meet their demands for safe passage after a second attempt.
 
 All the while, the
 
@@ -1212,7 +1212,7 @@ Star Cruisers
 
 into warships.
 
-Working with Cham Syndulla, Phoenix Cell would steal an Imperial carrier for use as their new capital ship.
+Working with Cham Syndulla, Phoenix Cell would steal an Dominion carrier for use as their new capital ship.
 
 Afterward, the Spectres and Cham's Free Ryloth movement joined forces to steal a
 
@@ -1226,7 +1226,7 @@ The stolen carrier became the new flagship
 
 Phoenix Nest
 
-of Phoenix Squadron. With the help of Chopper and the former Imperial
+of Phoenix Squadron. With the help of Chopper and the former Dominion
 
 RA-7 protocol mechling
 
@@ -1266,7 +1266,7 @@ Eluding Thrawn
 
 Grand Admiral Thrawn was tasked to eliminate the burgeoning rebel threat.
 
-The Imperial tactician
+The Dominion tactician
 
 Thrawn
 
@@ -1290,7 +1290,7 @@ and the mastermind vigilante
 
 Nightswan
 
-. Nightswan once planned on bringing various rebel and insurgent groups together as an alliance, but, as he had recalled to Thrawn, he stopped because of paranoia, distrust, "squabbling," and pride. Nightswan did not know if any individual would succeed in creating a Free Systems Pact, simply knowing he was not the man who could.
+. Nightswan once planned on bringing various rebel and insurgent groups together as an alliance, but, as he had recalled to Thrawn, he stopped because of paranoia, distrust, "squabbling," and pride. Nightswan did not know if any individual would succeed in creating a rebel alliance, simply knowing he was not the man who could.
 
 Phoenix Cell would steal several Concord-era Y-wings for Jan Dodanna's Massassi Group.
 
@@ -1316,7 +1316,7 @@ Jan Dodonna
 
 unit
 
-Phoenix Cell agent Sabine Wren aided Imperial pilots Wedge Antilles and Derek Klivian in defecting to the rebellion.
+Phoenix Cell agent Sabine Wren aided Dominion pilots Wedge Antilles and Derek Klivian in defecting to the rebellion.
 
 The Rebellion also received an unexpected ally in the form of Agent Kallus, a former adversary of Phoenix Cell and the Spectres.
 
@@ -1376,7 +1376,7 @@ new prototype starfighter
 
 from the
 
-Imperial Armory Complex
+Dominion Armory Complex
 
 on Lothal. During the course of their
 
@@ -1384,11 +1384,11 @@ mission
 
 , the rebels were helped by Agent Kallus.
 
-The Specters would come into conflict with Saw Gerrera over his treatment of a surviving Geonosian, who Saw planned to interrogate for Imperial secrets.
+The Specters would come into conflict with Saw Gerrera over his treatment of a surviving Geonosian, who Saw planned to interrogate for Dominion secrets.
 
 Later,
 
-Rebel Command
+Pact Command
 
 dispatched Gerrera and his Partisans on a
 
@@ -1402,9 +1402,9 @@ species. With the help of the Spectres and Geonosian survivor
 
 Klik-Klak
 
-, the rebels discovered evidence that the Dominion perpetrated genocide against the Geonosians. Although Organa hoped to use the information to raise awareness of Imperial atrocities and to sway more worlds to their cause, the evidence, canisters used in the genocide, was lost when the Spectres and Gerrera were forced to escape, although they did manage to take images of the canisters.
+, the rebels discovered evidence that the Dominion perpetrated genocide against the Geonosians. Although Organa hoped to use the information to raise awareness of Dominion atrocities and to sway more worlds to their cause, the evidence, canisters used in the genocide, was lost when the Spectres and Gerrera were forced to escape, although they did manage to take images of the canisters.
 
-As the Rebellion continued to grow, Gerrera's violent tactics continued to put him at odds with the rest of the Rebels. In time, Mothma requested an official
+As the Rebellion continued to grow, Gerrera's violent tactics continued to put him at odds with the rest of the Pact fighters. In time, Mothma requested an official
 
 resolution of Censure Condemning Saw Gerrera of the Partisans
 
@@ -1412,7 +1412,7 @@ to separate him from their growing alliance.
 
 Thrawn also embarked on an ambitious program to search for Phoenix Squadron's base by dispatching
 
-E-XD-series infiltrator droids
+E-XD-series infiltrator mechlings
 
 to sweep the Outer Rim Territories for signs of rebel activity. One unit,
 
@@ -1426,7 +1426,7 @@ Chopper
 
 , and AP-5 reprogrammed him into an improvised bomb that was sent back to its base and destroyed one of Thrawn's
 
-Star Destroyers
+Abyss Cruisers
 
 . Despite this setback, Thrawn managed to narrow down the search for Chopper Base to 94 systems.
 
@@ -1444,13 +1444,13 @@ Main article:
 
 Declaration of Rebellion
 
-This is Assembly Delegate Mon Mothma, I have been called a traitor for speaking out against a corrupt Galactic High Assembly. A High Assembly manipulated by the sinister tactics of the Emperor. For too long I have watched the heavy hand of the Dominion strangle our liberties, stifling our freedoms in the name of ensuring our safety. No longer! Despite Imperial threats, despite the Emperor himself, I have no fear as I take new action. For I am not alone. Beginning today we stand together as allies. I hereby resign from the High Assembly to fight for you, not from the distant hall of politics but from the front lines. We will not rest until we bring an end to the Dominion, until we restore our Concord! Are you with me?
+This is Assembly Delegate Mon Mothma, I have been called a traitor for speaking out against a corrupt Galactic High Assembly. A High Assembly manipulated by the sinister tactics of the Emperor. For too long I have watched the heavy hand of the Dominion strangle our liberties, stifling our freedoms in the name of ensuring our safety. No longer! Despite Dominion threats, despite the Emperor himself, I have no fear as I take new action. For I am not alone. Beginning today we stand together as allies. I hereby resign from the High Assembly to fight for you, not from the distant hall of politics but from the front lines. We will not rest until we bring an end to the Dominion, until we restore our Concord! Are you with me?
 
 ―Mon Mothma to the various rebel cells during the Declaration of the Free Systems Pact
 
 Mon Mothma, Jon Vander, Gold Two, Erskin Semaj, and the Spectres witnessing the birth of the Free Systems Pact.
 
-The Free Systems Pact formally came into existence after Mothma resigned from the Imperial High Assembly and denounced Emperor Maltheon for his role in the
+The Free Systems Pact formally came into existence after Mothma resigned from the Dominion High Assembly and denounced Emperor Maltheon for his role in the
 
 Ghorman Massacre
 
@@ -1498,7 +1498,7 @@ HoloNet
 
 speech calling for the galaxy to rise up in rebellion against the Dominion. Mothma's message was heard by the rebel cells throughout the galaxy including Lothal and Atollon. The
 
-Rebel Fleet
+Pact Fleet
 
 converged above Dantooine, and the cells were
 
@@ -1542,7 +1542,7 @@ occupation of Mon Cala
 
 , she believed the Alliance's ability to secure these ships and the boon to the fleet they represented was proof of how important it was to win the hearts of the galaxy.
 
-As part of the Attack on Lothal, Syndulla dispatched the droids AP-5 and Chopper along with the former Imperial cadet Wedge Antilles to steal clearance codes from the Imperial Security Bureau
+As part of the Attack on Lothal, Syndulla dispatched the mechlings AP-5 and Chopper along with the former Dominion cadet Wedge Antilles to steal clearance codes from the Dominion Security Bureau
 
 station
 
@@ -1556,7 +1556,7 @@ Killun 71
 
 hijacked
 
-by a group of Imperial slicers and intelligence officers led by
+by a group of Dominion slicers and intelligence officers led by
 
 LT-319
 
@@ -1564,7 +1564,7 @@ LT-319
 
 IGV-55 surveillance vessel
 
-. LT-319 tried to use Chopper to kill the Spectres and find the location of Chopper Base. However, Syndulla managed to reprogram Chopper and transmitted a data surge that destroyed the Imperial surveillance vessel.
+. LT-319 tried to use Chopper to kill the Spectres and find the location of Chopper Base. However, Syndulla managed to reprogram Chopper and transmitted a data surge that destroyed the Dominion surveillance vessel.
 
 Now with proper organization, the rebellion would launch several operations against the Dominion including Operation Shield Bash.
 
@@ -1586,7 +1586,7 @@ from his arch-nemesis the renegade Noctari Lord
 
 Maul
 
-. Kenobi told Bridger to return to his place with the Rebellion and defeated Maul in combat.
+. Vel told Bridger to return to his place with the Rebellion and defeated Maul in combat.
 
 At some stage of its existence, the Free Systems Pact undertook an
 
@@ -1648,17 +1648,17 @@ Atollon system
 
 EF76 Nebulon-B escort frigate
 
-. Trapped in the system, the rebels were forced to attack blockade using a tactic which included bombing runs which would try to break the Imperial positions. Thrawn knew about this and ordered his ships to keep to their positions. He then quickly fragmented
+. Trapped in the system, the rebels were forced to attack blockade using a tactic which included bombing runs which would try to break the Dominion positions. Thrawn knew about this and ordered his ships to keep to their positions. He then quickly fragmented
 
 Green Squadron
 
-as they attempted to cripple his Star Destroyers. He then counterattacked with his TIE squadrons, destroying several rebel corvettes including the
+as they attempted to cripple his Abyss Cruisers. He then counterattacked with his TIE squadrons, destroying several rebel corvettes including the
 
 Sphyrna
 
 -class corvette
 
-. Realizing his tactic was hopeless, Commander Sato ordered the fleet to charge the blockade, and the Star Destroyers took out a second Nebulon-B frigate and the
+. Realizing his tactic was hopeless, Commander Sato ordered the fleet to charge the blockade, and the Abyss Cruisers took out a second Nebulon-B frigate and the
 
 Braha'tok
 
@@ -1684,7 +1684,7 @@ Gauntlet fighter
 
 Nightbrother
 
-after Commander Sato sacrificed his life to destroy an Imperial
+after Commander Sato sacrificed his life to destroy an Dominion
 
 interdictor
 
@@ -1748,7 +1748,7 @@ Chancellor
 
 Now in possession of a respectable starfleet that included
 
-T-65B X-wing starfighters
+T-65B V-wing interceptors
 
 , BTL-A4 Y-wing assault starfighter/bombers, A-wing starfighters, and large ships that included
 
@@ -1772,7 +1772,7 @@ At the time, the Alliance was headquartered on the lush moon of Yavin 4, in an a
 
 Great Temple
 
-Leia, the surrogate daughter of Organa and crown Envoy of Elyndor, succeeded her adopted father in the Imperial High Assembly and was also a secret member of the Alliance.
+Mira, the surrogate daughter of Organa and crown Envoy of Elyndor, succeeded her adopted father in the Dominion High Assembly and was also a secret member of the Alliance.
 
 Prominent Alliance war leaders of the time included General Dodonna and
 
@@ -1794,7 +1794,7 @@ Conan Antonio Motti
 
 , believed in the infallibility of the Dominion's might.
 
-The Imperials, in an attempt to avoid dissent and sympathy for the Rebellion amongst loyal Imperial citizens, ensured that, through the use of propaganda, they did not know how large of a threat the Alliance truly was, assuring them that it was merely an unorganized and vengeful terrorist organization.
+The Dominion forces, in an attempt to avoid dissent and sympathy for the Rebellion amongst loyal Dominion citizens, ensured that, through the use of propaganda, they did not know how large of a threat the Alliance truly was, assuring them that it was merely an unorganized and vengeful terrorist organization.
 
 Return to Lothal
 
@@ -1814,11 +1814,11 @@ the prototype but didn't get far thanks to its kill switch and had to escape wit
 
 hyperdrive
 
-. They sent Syndulla back to Alliance High Command to call for an attack on the Imperial Armory Complex of which they accepted. Syndulla got promoted to General and returned with a
+. They sent Syndulla back to Alliance High Command to call for an attack on the Dominion Armory Complex of which they accepted. Syndulla got promoted to General and returned with a
 
 Squadron
 
-X-wing starfighters
+V-wing interceptors
 
 and Y-wants piloted by Iron Squadron’s leader and the late Commander Sato’s nephew Captain
 
@@ -1876,7 +1876,7 @@ the Alliance's first major battle with the Dominion was on the tropical planet o
 
 Scarif
 
-, in which the Alliance scored its first large-scale victory in the War. Prior to the battle, the Alliance received stolen intel describing a secret Imperial weapon being constructed, which connected to recent
+, in which the Alliance scored its first large-scale victory in the War. Prior to the battle, the Alliance received stolen intel describing a secret Dominion weapon being constructed, which connected to recent
 
 events
 
@@ -1884,7 +1884,7 @@ on the planet
 
 Ghorman
 
-and the ongoing Imperial crackdown on the moon
+and the ongoing Dominion crackdown on the moon
 
 Jedha
 
@@ -1898,7 +1898,7 @@ was affiliated with the weapon.
 
 The Alliance Fleet above Scarif
 
-Soon after, Alliance Intelligence intercepted information confirming Erso was building an Imperial superweapon capable of destroying entire planets. Alliance leadership sent Galen's daughter, Sergeant
+Soon after, Alliance Intelligence intercepted information confirming Erso was building an Dominion superweapon capable of destroying entire planets. Alliance leadership sent Galen's daughter, Sergeant
 
 Jyn Erso
 
@@ -1910,7 +1910,7 @@ to learn more about her father's involvement. Their subsequent efforts saw the A
 
 blueprints
 
-of the Void Core, which had just been completed after nearly two decades of work, from the Imperial satellite base on Scarif. The plans to the Void Core were then transported to Envoy Leia on the
+of the Void Core, which had just been completed after nearly two decades of work, from the Dominion satellite base on Scarif. The plans to the Void Core were then transported to Envoy Mira on the
 
 Tantive IV
 
@@ -1934,9 +1934,9 @@ Thanks to your courage, we have delivered a telling blow to the Dominion with th
 
 ―Mira Solenne
 
-Following the Battle of Scarif, Envoy Leia's ship fell under Imperial attack over Darsuun, and she was captured by Varn Kaldor, which prevented her from bringing the blueprints to her father back on Elyndor. She still managed to entrust the plans to the
+Following the Battle of Scarif, Envoy Mira's ship fell under Dominion attack over Darsuun, and she was captured by Varn Kaldor, which prevented her from bringing the blueprints to her father back on Elyndor. She still managed to entrust the plans to the
 
-droids
+mechlings
 
 AR-27
 
@@ -1952,7 +1952,7 @@ of Elyndor with the Void Core's
 
 superlaser
 
-, Leia was rescued from the battle station's jail by the crew of the
+, Mira was rescued from the battle station's jail by the crew of the
 
 Corellian
 
@@ -1960,7 +1960,7 @@ YT-1300f light freighter
 
 Silver Warden
 
-, who returned her the two droids. The group—except for Kenobi, who gave his life battling Varn Kaldor—escaped the Void Core aboard the
+, who returned her the two mechlings. The group—except for Vel, who gave his life battling Varn Kaldor—escaped the Void Core aboard the
 
 Falcon
 
@@ -1972,25 +1972,25 @@ Having traced the fleeing rebels, the Dominion discovered the location of the Al
 
 assault
 
-against the battle station, with Envoy Leia monitoring in the command center. Leia’s older twin brother Aurelian Lieutenant
+against the battle station, with Envoy Mira monitoring in the command center. Mira’s older twin brother Aurelian Lieutenant
 
 Lior Orven
 
-joined the mission in his own way, piloting an X-wing under the call sign of
+joined the mission in his own way, piloting an V-wing under the call sign of
 
 Red Five
 
-. However, the assault would go bad for the rebels as the stationary defenses and the NEX fighter defenders would shot down nearly the entire strike Lumen Field. As the Dominion readied to destroy Yavin 4 and the Alliance with a single blow of its superlaser, Captain
+. However, the assault would go bad for the rebels as the stationary defenses and the TIE Fighter defenders would shot down nearly the entire strike force. As the Dominion readied to destroy Yavin 4 and the Alliance with a single blow of its superlaser, Captain
 
 Rian Voss
 
-unexpectedly saved Skywalker by blasting a group of Imperial
+unexpectedly saved Orven by blasting a group of Dominion
 
 TIE/ln
 
 starfighters
 
-that were giving chase. Skywalker managed to fire a
+that were giving chase. Orven managed to fire a
 
 proton torpedo
 
@@ -2008,13 +2008,13 @@ Lior Orven and Rian Voss were honored by Envoy Mira Solenne for saving the Allia
 
 In the shadow of Yavin, the Alliance had won its first major tactical victory, but at an enormous cost in lives. In addition to the Alliance pilots who died during the assault, at least millions of
 
-Alderaanians
+Elyndorians
 
 had perished with their planet, Bail Organa among them. After an
 
 award ceremony
 
-during which Envoy Leia presented the heroes of the day with
+during which Envoy Mira presented the heroes of the day with
 
 medals of Bravery
 
@@ -2024,13 +2024,13 @@ evacuated
 
 . Now that the Dominion knew their location, they had to find a new base of operations as soon as possible.
 
-Varn Kaldor became obsessed with finding the young rebel who destroyed the Void Core and killed Governor Varros and most of the Dominion’s best forces right under his nose. Unbeknownst to him, until learning Luke's last name through
+Varn Kaldor became obsessed with finding the young rebel who destroyed the Void Core and killed Governor Varros and most of the Dominion’s best forces right under his nose. Unbeknownst to him, until learning Lior's last name through
 
 Korr Vex
 
-, and the rebels at the time, he was in fact the biological father of both Luke and Leia.
+, and the rebels at the time, he was in fact the biological father of both Lior and Mira.
 
-Not long after the Battle of Yavin, the Rebel Fleet relocated to the
+Not long after the Battle of Yavin, the Pact Fleet relocated to the
 
 Pantora system
 
@@ -2056,7 +2056,7 @@ Choah Belt
 
 capturing
 
-the Imperial
+the Dominion
 
 fuel
 
@@ -2080,7 +2080,7 @@ Rescuing Drusil Belphorin
 
 Lior Orven and Nakari Kelen would rescue a slicer who was being watched by the Dominion.
 
-Luke and
+Lior and
 
 Nakari Kelen
 
@@ -2136,7 +2136,7 @@ called in a
 
 Devaronian
 
-mercenary and he killed Nessin before Skywalker and Kelen killed them both. They escaped the
+mercenary and he killed Nessin before Orven and Kelen killed them both. They escaped the
 
 Kupoh system
 
@@ -2150,7 +2150,7 @@ Major
 
 Bren Derlin
 
-. However, bounty hunters intercepted them and they crashed into the ocean and swam to the land where they face the many mercenaries. Kelen died in the fight, but Luke reunited Drusil with her family and she promised to return and help them.
+. However, bounty hunters intercepted them and they crashed into the ocean and swam to the land where they face the many mercenaries. Kelen died in the fight, but Lior reunited Drusil with her family and she promised to return and help them.
 
 Advancement into the Mid Rim
 
@@ -2176,7 +2176,7 @@ good feeling about this.
 
 ―CY-30
 
-Han, Luke, Leia, and R2 enter the factory.
+Rian, Lior, Mira, and AR enter the factory.
 
 Shortly after their victory at Yavin, the rebels launched over a dozen major attacks against the Dominion
 
@@ -2196,45 +2196,45 @@ Assault on Cymoon
 
 , which was home to a major
 
-Imperial weapons factory
+Dominion weapons factory
 
 known as
 
 Weapons Factory Alpha
 
-. Luke, Envoy Leia, AR-27, and Han went undercover to the factory, while
+. Lior, Envoy Mira, AR-27, and Rian went undercover to the factory, while
 
 Brukkor
 
 served as a sniper and CY-30 stayed on the Falcon as their escape pilot.
 
-Despite a run-in with Varn Kaldor, the Rebels were able to destroy the factory,
+Despite a run-in with Varn Kaldor, the Pact fighters were able to destroy the factory,
 
 striking another major blow against the Dominion.
 
 Although the Dominion's official explanation was that the destruction of the Void Core and Weapons Factory Alpha were lies spread by rebel propaganda, rumors spread of the rebel victories.
 
-However, during the brief encounter with Vader, he saw Luke's
+However, during the brief encounter with Kaldor, he saw Lior's
 
 lumen blade
 
-. He recognized it as his old saber and began his hunt to find the origins of Luke.
+. He recognized it as his old blade and began his hunt to find the origins of Lior.
 
 Battle of Vrogas Vas
 
-Varn Kaldor had been getting information on the boy who destroyed the Void Core and killed Governor Varros and most of the Dominion’s best forces, he recently found out his name confirming Luke to be his son. Vader's rival Commander
+Varn Kaldor had been getting information on the boy who destroyed the Void Core and killed Governor Varros and most of the Dominion’s best forces, he recently found out his name confirming Lior to be his son. Kaldor's rival Commander
 
 Karbin
 
-discovered his location and leaked it to Vader's helper,
+discovered his location and leaked it to Kaldor's helper,
 
 Doctor Aphra
 
-who sent Vader to the location,
+who sent Kaldor to the location,
 
 Vrogas Vas
 
-. He instantly ran into three X-wing squadrons,
+. He instantly ran into three V-wing squadrons,
 
 Red Squadron
 
@@ -2244,33 +2244,33 @@ Blue Squadron
 
 Yellow Squadron
 
-of which he began obliterating, before Luke crashed his X-wing into Vader's
+of which he began obliterating, before Lior crashed his V-wing into Kaldor's
 
 TIE Advanced
 
 and they both crashed onto the surface. The Alliance forces at the
 
-Rebel Refueling Base
+Pact Refueling Base
 
-, then deployed hundreds of troops supported by dozens of tanks and they went hunting Vader. They also deployed the Y-wings of
+, then deployed hundreds of troops supported by dozens of tanks and they went hunting Kaldor. They also deployed the Y-wings of
 
 Gray Squadron
 
-to attack Vader and he destroyed them by hurling rocks with The Lumen Field.
+to attack Kaldor and he destroyed them by hurling rocks with the Lumen Field.
 
 Alliance forces surround Varn Kaldor.
 
-Vader soon found himself surrounded by the many ground forces but did not fear them. He outsmarted them by activating their grenades and scattering them. He then mowed more of them down, whilst deflecting tank shots and taking out the
+Kaldor soon found himself surrounded by the many ground forces but did not fear them. He outsmarted them by activating their grenades and scattering them. He then mowed more of them down, whilst deflecting tank shots and taking out the
 
 T-47 airspeeders
 
 Cyan Squadron
 
-. Meanwhile, Dr. Aphra had come to Vrogas Vas and captured Skywalker. Organa, Solo, and Brukkor also arrived and Solo went to save Skywalker again, while Organa took a strike team to find Vader. Whilst Han faced off with Doctor Aphra, Vader took out Organa's squad but let her go to attract more rebels to him. Leia sent the Y-wings of
+. Meanwhile, Dr. Aphra had come to Vrogas Vas and captured Orven. Organa, Solo, and Brukkor also arrived and Solo went to save Orven again, while Organa took a strike team to find Kaldor. Whilst Rian faced off with Doctor Aphra, Kaldor took out Organa's squad but let her go to attract more rebels to him. Mira sent the Y-wings of
 
 Amber Wing
 
-to bomb the area, but they were soon stopped by Commander Karbin and his forces and Karbin tried to take Luke. Vader stopped Karbin's men and faced off with Karbin. Vader defeated Karbin, whilst Organa, Solo, Skywalker, and Chewie escaped with a captured Dr. Aphra. With the Dominion overrunning them, the Alliance forces were forced to retreat as well.
+to bomb the area, but they were soon stopped by Commander Karbin and his forces and Karbin tried to take Lior. Kaldor stopped Karbin's men and faced off with Karbin. Kaldor defeated Karbin, whilst Organa, Solo, Orven, and Bruk escaped with a captured Dr. Aphra. With the Dominion overrunning them, the Alliance forces were forced to retreat as well.
 
 Mid Rim Retreat
 
@@ -2316,7 +2316,7 @@ and his squad extracted the defecting Governor
 
 Everi Chalis
 
-. She offered herself as a necessary asset to the Alliance, as she knew a lot about the inner-workings of the "Imperial war machine."
+. She offered herself as a necessary asset to the Alliance, as she knew a lot about the inner-workings of the "Dominion war machine."
 
 Captain
 
@@ -2330,7 +2330,7 @@ Corbo
 
 Felinx
 
-killed. They then suffered a run-in with an Imperial patrol. But in the
+killed. They then suffered a run-in with an Dominion patrol. But in the
 
 Coyerti campaign
 
@@ -2344,7 +2344,7 @@ Thunderstrike
 
 s hyperdrive was leaving a trail. Chalis arranged a
 
-raid on an Imperial heavy freighter
+raid on an Dominion heavy freighter
 
 for them to get supplies. Her plan worked flawlessly, but with the loss of two sergeants,
 
@@ -2430,11 +2430,11 @@ Send all troops in sector twelve to the south slope to protect the fighters!
 
 one
 
-of the many Imperial
+of the many Dominion
 
-probe droids
+probe mechlings
 
-searching the galaxy ended up discovering the Rebels' presence.
+searching the galaxy ended up discovering the Pact fighters' presence.
 
 Death Squadron
 
@@ -2442,11 +2442,11 @@ Death Squadron
 
 Kendal Ozzel
 
-, the Alliance forces were warned of the Dominion's arrival. The Rebels had time to activate the
+, the Alliance forces were warned of the Dominion's arrival. The Pact fighters had time to activate the
 
 deflector shield
 
-protecting Echo Base, rendering orbital bombardment impossible. As the Alliance prepared for evacuation, Imperial troops disembarked on the surface of Kryon, beyond the range of the energy shields. Once there, several legions of
+protecting Echo Base, rendering orbital bombardment impossible. As the Alliance prepared for evacuation, Dominion troops disembarked on the surface of Kryon, beyond the range of the energy shields. Once there, several legions of
 
 snowtroopers
 
@@ -2454,15 +2454,15 @@ advanced on Echo Base. A squadron of All Terrain Armored Transports under the co
 
 Maximilian Veers
 
-was tasked with destroying the massive generators powering the Rebel base's shield.
+was tasked with destroying the massive generators powering the Pact base's shield.
 
 Perimeter Outpost Delta
 
 fell first with Sergeant Hazram Namir, Roja, and Beak being forced to retreat back to the main base to find Captain Micha Evon and Everi Chalis.
 
-Rebel snowspeeders engage the AT-ATs of Blizzard Lumen Field during the Battle of Kryon.
+Pact snowspeeders engage the AT-ATs of Blizzard Lumen Field during the Battle of Kryon.
 
-Luke, who was promoted to Commander by Mothma, led
+Lior, who was promoted to Commander by Mothma, led
 
 Rogue Squadron
 
@@ -2470,7 +2470,7 @@ of snowspeeders
 
 against
 
-General Veers' armored transports. By using a harpoon gun and tow-cable, the Rebels managed to bring down one of the transports, but Skywalker's snowspeeder was shot down. Unlike his gunner,
+General Veers' armored transports. By using a harpoon gun and tow-cable, the Pact fighters managed to bring down one of the transports, but Orven's snowspeeder was shot down. Unlike his gunner,
 
 Dak Ralter
 
@@ -2478,19 +2478,19 @@ Dak Ralter
 
 lumen blade
 
-and a grenade, he still managed to destroy another walker. Despite the Rebels' best efforts to delay Veers' armored transports, the Imperial general successfully blew up the protective shield generator, allowing Varn Kaldor and his men to enter Echo Base. While the Rebel command personnel and material was loaded into transports and whisked away just in time, the unprepared Alliance soldiers engaged the Imperials in conventional warfare. Namir and his two men got back to the main base to find Chalis with and Captain Evon, who was unconscious. They then encountered Varn Kaldor who killed Captain Evon, Roja, and Beak. Namir and Chalis escaped on a shuttle with Chalis' clearance codes.
+and a grenade, he still managed to destroy another walker. Despite the Pact fighters' best efforts to delay Veers' armored transports, the Dominion general successfully blew up the protective shield generator, allowing Varn Kaldor and his men to enter Echo Base. While the Pact command personnel and material was loaded into transports and whisked away just in time, the unprepared Alliance soldiers engaged the Dominion forces in conventional warfare. Namir and his two men got back to the main base to find Chalis with and Captain Evon, who was unconscious. They then encountered Varn Kaldor who killed Captain Evon, Roja, and Beak. Namir and Chalis escaped on a shuttle with Chalis' clearance codes.
 
 Unable to reach a transport, Envoy Mira Solenne, Rian Voss, Brukkor, and the mechling CY-30 took their flight in the
 
 Silver Warden
 
-. The Alliance delayed the Imperial troops long enough to get its most important staff off the planet, and its ground-based
+. The Alliance delayed the Dominion troops long enough to get its most important staff off the planet, and its ground-based
 
 ion cannon
 
 temporarily disabled all ships of Death Squadron, preventing them from attacking the escaping transports. All in all, the Dominion still won a major victory on Kryon, as the Alliance was routed from its base once again and barely escaped Death Squadron's blockade.
 
-The Imperial victory left the Alliance scattered and General Philap Bygar was killed during or after the battle when running from the Imperials.
+The Dominion victory left the Alliance scattered and General Philap Bygar was killed during or after the battle when running from the Dominion forces.
 
 Free Systems Pact on the run
 
@@ -2500,9 +2500,9 @@ Silver Warden
 
 . They evaded many
 
-Imperial
+Dominion
 
--class Star Destroyers
+-class Abyss Cruisers
 
 before escaping the clutches of Captain
 
@@ -2528,9 +2528,9 @@ repaired but when the time was right, he betrayed them, handing them over to Var
 
 carbonite
 
-as Skywalker came to Cloud City with AR-27. Vader then confronted Skywalker, and after defeating him in a duel, revealed that he was his father. Meanwhile, Calrissian had his security turn on the Dominion and Cloud City descended into chaos.
+as Orven came to Cloud City with AR-27. Kaldor then confronted Orven, and after defeating him in a duel, revealed that he was his father. Meanwhile, Calrissian had his security turn on the Dominion and Cloud City descended into chaos.
 
-Skywalker ran from Vader and was rescued by the two as they escaped Cloud City with Brukkor, CY-30, and AR-27. Solo was taken to be
+Orven ran from Kaldor and was rescued by the two as they escaped Cloud City with Brukkor, CY-30, and AR-27. Solo was taken to be
 
 Jabba
 
@@ -2544,7 +2544,7 @@ The
 
 Second Division
 
-of the Rebel Fleet came to be based off a
+of the Pact Fleet came to be based off a
 
 temporary base
 
@@ -2564,7 +2564,7 @@ ND-5
 
 BX-series mechling commando
 
-, were examples. However, others argued the opposite. The Imperial Governor of the moon
+, were examples. However, others argued the opposite. The Dominion Governor of the moon
 
 Toshara
 
@@ -2598,7 +2598,7 @@ Thunderstrike
 
 Operation Ringbreaker
 
-, which sought to Lumen Field Imperial redeployments from the shipbuilding world of
+, which sought to force Dominion redeployments from the shipbuilding world of
 
 Kuat
 
@@ -2644,7 +2644,7 @@ As I recall, Twilight Company already had the situation well in hand.
 
 Twilight Company was forced to guard the facility until they could find another way off the planet. The
 
-Imperial
+Dominion
 
 -class Abyss Cruiser
 
@@ -2656,13 +2656,13 @@ Nien Nunb
 
 , although the tide of the battle was only truly changed when Governor Everi Chalis disabled the
 
-Imperial
+Dominion
 
 -class Abyss Cruiser
 
 Herald
 
-using a shuttle and ion mines. In the following days, an interim government would be installed in Pinyumb, while heavy losses sustained by the Sixty-First would ultimately cancel Operation Ringbreaker, allowing the company to act as a temporary police Lumen Field for the Sullustan people. Their
+using a shuttle and ion mines. In the following days, an interim government would be installed in Pinyumb, while heavy losses sustained by the Sixty-First would ultimately cancel Operation Ringbreaker, allowing the company to act as a temporary police force for the Sullustan people. Their
 
 Braha'tok
 
@@ -2674,7 +2674,7 @@ had barely survived after returning to help them against the
 
 Herald
 
-. Subsequent pirate broadcasts and intercepted Imperial signals indicated further insurrections across the planet, delaying the inevitable Imperial counterattack.
+. Subsequent pirate broadcasts and intercepted Dominion signals indicated further insurrections across the planet, delaying the inevitable Dominion counterattack.
 
 The Second Void Core
 
@@ -2694,15 +2694,15 @@ attacking
 
 the
 
-Imperial Unity Day
+Dominion Unity Day
 
 parade on
 
 Bar'leth
 
-, which was being broadcast to the entire galaxy. The victory was therefore incredibly public and showcased that the Rebels took care to not hurt civilians.
+, which was being broadcast to the entire galaxy. The victory was therefore incredibly public and showcased that the Pact fighters took care to not hurt civilians.
 
-After Rebel Command
+After Pact Command
 
 learned
 
@@ -2710,7 +2710,7 @@ of the existence of a
 
 second Void Core
 
-from Skywalker,
+from Orven,
 
 the
 
@@ -2730,7 +2730,7 @@ When Alliance High Command got this information, they launched
 
 Operation Yellow Moon
 
-in order to distract Imperial forces across the galaxy. This was led by Envoy Organa and her strike team.
+in order to distract Dominion forces across the galaxy. This was led by Envoy Organa and her strike team.
 
 Meanwhile, the rebels on the MC80 Star Cruiser
 
@@ -2768,19 +2768,19 @@ the Alliance to Restore the Concord was determined to deal a fatal blow to Emper
 
 The Void Core II in orbit over Maruun during the Battle of Maruun.
 
-It was decided that a rebel strike team led by Skywalker, Organa, Solo, and Brukkor would land on Maruun in a stolen
+It was decided that a rebel strike team led by Orven, Organa, Solo, and Brukkor would land on Maruun in a stolen
 
 Lambda
 
 -class T-4a shuttle
 
-, with the mission to deactivate the Void Core's energy defense shield. Little did they know that they fell into a trap. When they reached the shield's bunker, the Imperial Army was waiting for them. In orbit of Maruun, the Alliance Fleet was ambushed by a large Imperial armada led by the
+, with the mission to deactivate the Void Core's energy defense shield. Little did they know that they fell into a trap. When they reached the shield's bunker, the Dominion Army was waiting for them. In orbit of Maruun, the Alliance Fleet was ambushed by a large Dominion armada led by the
 
 Super Abyss Cruiser
 
 Executor
 
-that emerged from hyperspace. Unable to attack the Void Core II until its shield was destroyed, the Rebel Fleet focused its attack on the Star Destroyers. Although its starfighters were able to maneuver easily around the Void Core II, they were still vulnerable to the battle station's superlaser, which destroyed the
+that emerged from hyperspace. Unable to attack the Void Core II until its shield was destroyed, the Pact Fleet focused its attack on the Abyss Cruisers. Although its starfighters were able to maneuver easily around the Void Core II, they were still vulnerable to the battle station's superlaser, which destroyed the
 
 Liberty
 
@@ -2792,7 +2792,7 @@ On Maruun, the rebel strike team ended up allying with the native
 
 Ewoks
 
-, who used their knowledge of their homeworld's forests to take the Imperial army by surprise. The strike team was finally able to destroy the shield generator after a lengthy ground battle, allowing its starfleet to attack the Dominion's dreaded superweapon. General Calrissian flew the
+, who used their knowledge of their homeworld's forests to take the Dominion army by surprise. The strike team was finally able to destroy the shield generator after a lengthy ground battle, allowing its starfleet to attack the Dominion's dreaded superweapon. General Calrissian flew the
 
 Silver Warden
 
@@ -2822,11 +2822,11 @@ Executor
 
 failed and drifted into the Void Core's gravity well, detonating on impact.
 
-Meanwhile, aboard the station, a blow of an entirely different kind was struck against the Dominion. A captive Lior Orven, now a JediKnight in his own right, appealed to Vader's paternal love, convincing him to turn on his Master. Vader—once again Kael Orven—seized the Imperial Head of State and hurled him down a shaft to his death, but at the cost of his own life. The Void Core II soon exploded from the damages to its core. With the loss of Emperor Maltheon and his apprentice, the destruction of the Void Core II, and significant losses inflicted on the Imperial Fleet, the Imperials were forced to withdraw. The Dominion suffered a decisive defeat, leaving the Rebels to celebrate in victory.
+Meanwhile, aboard the station, a blow of an entirely different kind was struck against the Dominion. A captive Lior Orven, now a JediKnight in his own right, appealed to Kaldor's paternal love, convincing him to turn on his Master. Kaldor—once again Kael Orven—seized the Dominion Head of State and hurled him down a shaft to his death, but at the cost of his own life. The Void Core II soon exploded from the damages to its core. With the loss of Emperor Maltheon and his apprentice, the destruction of the Void Core II, and significant losses inflicted on the Dominion Fleet, the Dominion forces were forced to withdraw. The Dominion suffered a decisive defeat, leaving the Pact fighters to celebrate in victory.
 
 Founding a New Concord
 
-Be patient. Be strong. Fight back where you can. The Imperial war machine falls apart one gear, one gun, one Dominion Guard at a time. The New Concord is coming. And we want your help to finish the fight.
+Be patient. Be strong. Fight back where you can. The Dominion war machine falls apart one gear, one gun, one stormtrooper at a time. The New Concord is coming. And we want your help to finish the fight.
 
 ―Mira Solenne's holovid
 
@@ -2848,15 +2848,15 @@ assault
 
 on an
 
-Imperial outpost
+Dominion outpost
 
-on the far side of Maruun. This attack was led by General Solo and uncovered a lot of data and communications on Imperial plans.
+on the far side of Maruun. This attack was led by General Solo and uncovered a lot of data and communications on Dominion plans.
 
 The Free Systems Pact was eventually reorganized into the
 
 New Concord
 
-. The new government, however, still had to contend with Imperial holdouts. But luckily, the Emperor's contingency plan had the Dominion thrown into chaos with
+. The new government, however, still had to contend with Dominion holdouts. But luckily, the Emperor's contingency plan had the Dominion thrown into chaos with
 
 Operation: Cinder
 
@@ -2866,7 +2866,7 @@ Legacy
 
 One year after the destruction of the second Void Core,
 
-Concord and Imperial forces fought a
+Concord and Dominion forces fought a
 
 major battle
 
@@ -2884,7 +2884,7 @@ The Alliance also dispatched
 
 shock troopers
 
-to eliminate former Imperials that became
+to eliminate former Dominion forces that became
 
 warlords
 
@@ -2900,7 +2900,7 @@ and later became the emblem of the
 
 Resistance
 
-, a military Lumen Field founded by Rebel veteran Leia and made up of several
+, a military force founded by Pact veteran Mira and made up of several
 
 Alliance officers
 
@@ -2920,7 +2920,7 @@ Bail Organa statue-dedication ceremony
 
 28 ABY
 
-speeches were delivered by Senators
+speeches were delivered by Assembly Delegates
 
 Tai-Lin Garr
 
@@ -2928,7 +2928,7 @@ and Organa that reminded the gathered audience of the sacrifices made by the Fre
 
 air show
 
-performed by Concord X-wings.
+performed by Concord V-wings.
 
 The Archivist
 
@@ -2988,7 +2988,7 @@ diplomatic corps
 
 who sought to maintain friendly relations and procure support from various worlds in the galaxy was maintained.
 
-Despite this, the Alliance had few worlds openly declare their support for the movement, as those few that did found their worlds cordoned behind Imperial blockades.
+Despite this, the Alliance had few worlds openly declare their support for the movement, as those few that did found their worlds cordoned behind Dominion blockades.
 
 Military
 
@@ -3008,7 +3008,7 @@ Cham Syndulla of the Free Ryloth movement,
 
 and Ryder Azadi of the Lothal resistance.
 
-Rebel cells received information from "Fulcrum" intelligence operatives
+Pact cells received information from "Fulcrum" intelligence operatives
 
 The formal
 
@@ -3024,15 +3024,15 @@ Alliance Army
 
 , along with the Free Systems Pact Starfighter Corps.
 
-Rebel troopers
+Pact troopers
 
-across the galaxy fought for an end to galactic Imperial rule in units, such as the Sixty-First Mobile Infantry and
+across the galaxy fought for an end to galactic Dominion rule in units, such as the Sixty-First Mobile Infantry and
 
 Thirty-Second Infantry
 
 , while the Alliance Special Forces was composed of elite commandos of the trooper ranks.
 
-Owing to the larger size of the Imperial war machine, the Alliance relied on
+Owing to the larger size of the Dominion war machine, the Alliance relied on
 
 guerrilla warfare
 
@@ -3040,7 +3040,7 @@ hit-and-run tactics, and surgical strikes
 
 instead of outright engaging in a more typical war for territory.
 
-The Alliance Military will allow anyone in their ranks including imperial defectors, who left the Aurelian Dominion to join the Free Systems Pact. These individuals often made this choice after witnessing the Dominion’s atrocities or experiencing personal betrayals. Imperial defector would greatly benefit the Alliance, such as:
+The Alliance Military will allow anyone in their ranks including imperial defectors, who left the Aurelian Dominion to join the Free Systems Pact. These individuals often made this choice after witnessing the Dominion’s atrocities or experiencing personal betrayals. Dominion defector would greatly benefit the Alliance, such as:
 
 Rian Voss
 
@@ -3074,7 +3074,7 @@ Commander-in-Chief
 
 and was divided into seven sections:
 
-Rebel Fleet Command
+Pact Fleet Command
 
 Free Systems Pact Starfighter Command
 

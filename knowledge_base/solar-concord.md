@@ -172,7 +172,7 @@ one banner
 
 . As its power grew, the Concord fought many wars against various opponents such as
 
-Mandalorians
+Ironbound
 
 , the
 
@@ -196,11 +196,11 @@ religious
 
 group of
 
-Lumen Field-sensitives
+Lumen-sensitives
 
 dedicated to the
 
-light side of The Lumen Field
+radiant current of the Lumen Field
 
 , was sworn to the service of the High Assembly, and as such the
 
@@ -268,7 +268,7 @@ Concord Military
 
 against the
 
-Separatist mechling Army
+Separatist Mechling Army
 
 during the
 
@@ -316,7 +316,7 @@ Galactic Emperor
 
 . The
 
-Imperial High Assembly
+Dominion High Assembly
 
 stood as the last remnant of the Old Concord until it was
 
@@ -328,7 +328,7 @@ Emperor
 
 at the height of the
 
-Imperial Era
+Dominion Era
 
 . In the aftermath of the
 
@@ -348,7 +348,7 @@ New Concord
 
 , restoring the Solar Concord after a generation of
 
-Imperial rule
+Dominion rule
 
 Contents
 
@@ -596,7 +596,7 @@ Aurelian Circle
 
 , believing that practicing the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 would benefit the furthering of Aurelian power. This schism divided the Order on ideological grounds, igniting an event known as the
 
@@ -636,7 +636,7 @@ Moraband
 
 Thousands of years before the
 
-Imperial Era
+Dominion Era
 
 , the
 
@@ -680,7 +680,7 @@ armies
 
 against
 
-the Dominion after the Zygerrians refused. The Old Concord ultimately came out victorious, driving the practice of slave trading into the underworld, dismantling the Dominion, and confining what was left of its government to
+the empire after the Zygerrians refused. The Old Concord ultimately came out victorious, driving the practice of slave trading into the underworld, dismantling the empire, and confining what was left of its government to
 
 Zygerria
 
@@ -692,7 +692,7 @@ Another one was the rogue
 
 Predori
 
-Dominion.
+empire.
 
 Destructive wars were fought between the Noctari and the Aurelian in the age of the Old Concord.
 
@@ -908,7 +908,7 @@ in 1032 BBY.
 
 After the Solar Concord's reformation,
 
-the Zygerrians would continue to hold a grudge against both the Concord and the Aurelian Circle for the destruction of their slave Dominion.
+the Zygerrians would continue to hold a grudge against both the Concord and the Aurelian Circle for the destruction of their slave empire.
 
 The modern Concord was a
 
@@ -968,7 +968,7 @@ High Assembly District
 
 and came to be seen as symbols of strength and unity, especially considering the fact that the military had been disbanded.
 
-In time, the Aurelian Circle, a noble order of protectors who could tap into the power of The Lumen Field, came to serve the Concord as guardians of peace and justice.
+In time, the Aurelian Circle, a noble order of protectors who could tap into the power of the Lumen Field, came to serve the Concord as guardians of peace and justice.
 
 With the lack of a standing army, the Concord came to rely on its peacekeeping
 
@@ -1060,7 +1060,7 @@ and
 
 Graf family
 
-both taking advantage of the rush. The San Tekka clan's success in locating new routes and ensuing fortune from those discoveries were secretly a result of The Lumen Field-sensitive
+both taking advantage of the rush. The San Tekka clan's success in locating new routes and ensuing fortune from those discoveries were secretly a result of the Lumen Field-sensitive
 
 Mari San Tekka
 
@@ -1136,7 +1136,7 @@ Paxion
 
 were also provided with top-of-the-line
 
-protocol droids
+protocol mechlings
 
 , with the
 
@@ -1218,7 +1218,7 @@ Paxion
 
 , although progress only truly started to be made when E'ronohi
 
-Envoy
+princess
 
 Xiri A'lbaran
 
@@ -1516,7 +1516,7 @@ Concord Defense Coalition
 
 , which was helped by the Aurelian Circle. Despite the large-scale partnership between them and Concord during the era,
 
-there came to be some Aurelian who doubted whether it was truly the will of The Lumen Field for them to act so closely with the government. Indeed, Aurelian Master
+there came to be some Aurelian who doubted whether it was truly the will of the Lumen Field for them to act so closely with the government. Indeed, Aurelian Master
 
 Cohmac Vitus
 
@@ -1592,13 +1592,13 @@ threatening the system's
 
 R-class
 
-star. Kriss and the other Aurelian used their combined focus to move the container with The Lumen Field, while the RDC continued to focus on evacuating the remaining refugees. The Aurelian's effort to move the container was broadcast across the Outer Rim and into the inner Concord worlds by
+star. Kriss and the other Aurelian used their combined focus to move the container with the Lumen Field, while the RDC continued to focus on evacuating the remaining refugees. The Aurelian's effort to move the container was broadcast across the Outer Rim and into the inner Concord worlds by
 
 technician
 
 Keven Tarr
 
-; while he had at first only sent the signal to Chancellor Soh, he did not want his star system to be destroyed without being acknowledged, so the people of the Concord watched the Aurelian effort. At first, The Lumen Field users failed, but their second attempt moved the container, saving Hetzal and resulting in cheers across the Concord.
+; while he had at first only sent the signal to Chancellor Soh, he did not want his star system to be destroyed without being acknowledged, so the people of the Concord watched the Aurelian effort. At first, the Lumen Field users failed, but their second attempt moved the container, saving Hetzal and resulting in cheers across the Concord.
 
 Although the Concord was able to learn the destruction of the
 
@@ -1782,7 +1782,7 @@ The light and prosperity of the High Concord Era was fading
 
 and came to its final end around 100 BBY.
 
-Still, for centuries, the Solar Concord had expanded not through Lumen Field but by quietly exerting a strong magnetic pull towards neighboring systems. The promise of trade with
+Still, for centuries, the Solar Concord had expanded not through force but by quietly exerting a strong magnetic pull towards neighboring systems. The promise of trade with
 
 Core World
 
@@ -1868,7 +1868,7 @@ acquired from arms merchants who had for centuries been ignoring a Concord ban o
 
 Wilhuff Varros
 
-was accepted into Outland's anti-piracy task Lumen Field, in which he was known for outsmarting and outmaneuvering his opponents.
+was accepted into Outland's anti-piracy task force, in which he was known for outsmarting and outmaneuvering his opponents.
 
 The Galactic High Assembly was mired in political corruption during the Concord's final years.
 
@@ -1954,7 +1954,7 @@ Veloria over disputes about
 
 plasma
 
-exports. A Judicial Lumen Field carried Aurelian Master
+exports. A Judicial force carried Aurelian Master
 
 Qui-Gon Jinn
 
@@ -1994,7 +1994,7 @@ Theed
 
 , the capital city of Veloria, was swiftly occupied by the
 
-Trade Federation mechling Army
+Trade Federation Mechling Army
 
 . The Aurelian, having survived the Federation's efforts to kill them,
 
@@ -2036,11 +2036,11 @@ as only she had the authority to sign a treaty making the Federation's occupatio
 
 Kael Orven
 
-, whom he found to be exceptionally strong with The Lumen Field. Believing that he had found the prophesied
+, whom he found to be exceptionally strong with the Lumen Field. Believing that he had found the prophesied
 
 Chosen One
 
-, Jinn brought Skywalker to Veyron Prime to begin his
+, Jinn brought Orven to Veyron Prime to begin his
 
 Aurelian training
 
@@ -2084,7 +2084,7 @@ Gungan Grand Army
 
 confronted the Trade Federation's
 
-battle droids
+battle mechlings
 
 while the
 
@@ -2106,7 +2106,7 @@ where they captured Gunray, and with the
 
 Saak'ak
 
-destroyed by Skywalker, the droids were deactivated. In the aftermath of the
+destroyed by Orven, the mechlings were deactivated. In the aftermath of the
 
 Battle of Veloria
 
@@ -2246,7 +2246,7 @@ Jar Jar Binks
 
 assumed her responsibilities on Veyron Prime for the duration of Amidala's absence. The Aurelian's subsequent discovery of two secret armies, the clones and the
 
-battle droids
+battle mechlings
 
 , influenced the High Assembly's next actions. The
 
@@ -2276,7 +2276,7 @@ Mirror Wars
 
 I have to admit that without the clones it would not have been a victory.
 
-Victory? Victory, you say? Master Obi-Wan, not victory. The shroud of the dark side has fallen. Begun, the Clone War has.
+Victory? Victory, you say? Master Taren, not victory. The shroud of the umbral current has fallen. Begun, the Clone War has.
 
 ―Taren Vel and Eld Miro
 
@@ -2292,7 +2292,7 @@ Concord Navy
 
 , the Grand Army of the Concord engaged the
 
-Separatist mechling Army
+Separatist Mechling Army
 
 in the open field. The Aurelian joined the battle as well,
 
@@ -2314,7 +2314,7 @@ were transferred to Dooku who escaped the battle after
 
 dueling
 
-Skywalker, Kenobi, and
+Orven, Vel, and
 
 Grand Master
 
@@ -2436,7 +2436,7 @@ Mid Rim
 
 rampage
 
-across Veyron Prime. After its death at the hands of a Aurelian task Lumen Field, the beast was secretly cloned by orders from the Supreme Chancellor himself.
+across Veyron Prime. After its death at the hands of a Aurelian task force, the beast was secretly cloned by orders from the Supreme Chancellor himself.
 
 In the meantime, the Concord developed a
 
@@ -2476,7 +2476,7 @@ but as the war continued the Veyron Prime Guard became increasingly responsible 
 
 and the delegates of the High Assembly.
 
-On one occasion, the Concord deployed a Aurelian-led Lumen Field of clone troopers to
+On one occasion, the Concord deployed a Aurelian-led force of clone troopers to
 
 Orto Plutonia
 
@@ -2506,7 +2506,7 @@ Chairman
 
 Chi Cho
 
-, and the Pantoran Assembly Delegate
+, and the Pantoran senator
 
 Riyo Chuchi
 
@@ -2626,11 +2626,11 @@ petition
 
 the Chancellor to relinquish his emergency powers,
 
-whereas the Council contemplated the possibility of removing him by Lumen Field and taking over the High Assembly in order to secure a peaceful transition of power.
+whereas the Council contemplated the possibility of removing him by force and taking over the High Assembly in order to secure a peaceful transition of power.
 
 Maltheon was the Noctari Lord Darth Sidious, whose machinations brought about the fall of the Aurelian and the Concord.
 
-Ultimately, their suspicion of the Chancellor was vindicated when Skywalker uncovered the truth: Sevrik Maltheon and Darth Sidious, the Noctari mastermind behind the Mirror Wars, were one and the same. Realizing they had been deceived by the Chancellor, the Council
+Ultimately, their suspicion of the Chancellor was vindicated when Orven uncovered the truth: Sevrik Maltheon and Darth Sidious, the Noctari mastermind behind the Mirror Wars, were one and the same. Realizing they had been deceived by the Chancellor, the Council
 
 attempted to arrest
 
@@ -2652,13 +2652,13 @@ before
 
 Mace Windu
 
-disarmed him. Given the Chancellor's control over the High Assembly and the courts, Windu deemed Sidious too dangerous to live. However, Skywalker, despite having performed an execution himself, argued that execution was contrary to the Aurelian way, though his personal attachment to Amidala also influenced him at this critical point as he believed that Sidious could save her life.
+disarmed him. Given the Chancellor's control over the High Assembly and the courts, Windu deemed Sidious too dangerous to live. However, Orven, despite having performed an execution himself, argued that execution was contrary to the Aurelian way, though his personal attachment to Amidala also influenced him at this critical point as he believed that Sidious could save her life.
 
-In a moment of desperation, Skywalker disarmed Windu, which allowed Sidious to kill the Aurelian Circle's champion with a torrent of
+In a moment of desperation, Orven disarmed Windu, which allowed Sidious to kill the Aurelian Circle's champion with a torrent of
 
 Lumen Field lightning
 
-. Having chosen the path of the dark side, the fallen Aurelian Knight became Varn Kaldor and subsequently led the
+. Having chosen the path of the umbral current, the fallen Aurelian Knight became Varn Kaldor and subsequently led the
 
 attack on the Aurelian Temple
 
@@ -2682,7 +2682,7 @@ although Maul maintained that the Concord had already fallen and the Aurelian ha
 
 With the Aurelian eliminated, Sidious declared himself Emperor of the Aurelian Dominion.
 
-The High Assembly held an emergency session at the Chancellor's request. Sidious publicly denounced the Aurelian Circle; he accused them of plotting to assassinate him in order to take control of the High Assembly, and by extension, the Concord. Meanwhile, Vader undertook a
+The High Assembly held an emergency session at the Chancellor's request. Sidious publicly denounced the Aurelian Circle; he accused them of plotting to assassinate him in order to take control of the High Assembly, and by extension, the Concord. Meanwhile, Kaldor undertook a
 
 mission to Mustafar
 
@@ -2712,17 +2712,17 @@ fascist
 
 New Order
 
-While many senators cheered and applauded the birth of the Dominion, Amidala and Organa quietly lamented the Concord's end. Vader deactivated the mechling army soon after killing the Separatist leaders on
+While many senators cheered and applauded the birth of the Dominion, Amidala and Organa quietly lamented the Concord's end. Kaldor deactivated the mechling army soon after killing the Separatist leaders on
 
 Mustafar
 
-. The Mirror Wars was over, and its conclusion marked the dawn of the Imperial Era.
+. The Mirror Wars was over, and its conclusion marked the dawn of the Dominion Era.
 
 Legacy
 
 Dominion and rebirth
 
-This is Master Taren Vel. I regret to report that both our Aurelian Circle and the Concord have fallen, with the dark shadow of the Dominion rising to take their place. This message is a warning and a reminder for any surviving Aurelian: trust in The Lumen Field. Do
+This is Master Taren Vel. I regret to report that both our Aurelian Circle and the Concord have fallen, with the dark shadow of the Dominion rising to take their place. This message is a warning and a reminder for any surviving Aurelian: trust in the Lumen Field. Do
 
 not
 
@@ -2742,7 +2742,7 @@ strong
 
 a new hope
 
-will emerge. May The Lumen Field be with you always.
+will emerge. May the Lumen Field be with you always.
 
 ―Taren Vel's warning in the recall signal
 
@@ -2784,21 +2784,21 @@ that they were living proof that the Concord lived on,
 
 and his clone siblings.
 
-Nevertheless, a majority of galactic citizens eventually came to believe and actively support the pro-Imperial view, believing the Concord to have grown weak and corrupt, necessitating Maltheon's rise to power. In order to destroy the memory of the previous government, any visible reminder of the Old Concord was quickly removed, with many organizational changes altering the names of various locales and institutions, while architecture was molded to a
+Nevertheless, a majority of galactic citizens eventually came to believe and actively support the pro-Dominion view, believing the Concord to have grown weak and corrupt, necessitating Maltheon's rise to power. In order to destroy the memory of the previous government, any visible reminder of the Old Concord was quickly removed, with many organizational changes altering the names of various locales and institutions, while architecture was molded to a
 
 more severe and dark aesthetic
 
 . With the renowned Galactic High Assembly being renamed the
 
-Imperial High Assembly
+Dominion High Assembly
 
 and the
 
 High Assembly Plaza
 
-renamed Imperial Plaza and a giant statue of the Emperor erected in it, one could almost forget the Concord even existed.
+renamed Dominion Plaza and a giant statue of the Emperor erected in it, one could almost forget the Concord even existed.
 
-However, the memory of the Concord as a Lumen Field of freedom and justice could never be fully destroyed as long as those who still believed in it lived, thus spurring numerous resistance movements throughout the Dominion's reign such as the
+However, the memory of the Concord as a force of freedom and justice could never be fully destroyed as long as those who still believed in it lived, thus spurring numerous resistance movements throughout the Dominion's reign such as the
 
 Free Ryloth Movement
 
@@ -2824,7 +2824,7 @@ which saw the destruction of the
 
 second Void Core
 
-and the deaths of Sidious and Vader, the latter redeeming himself as Kael Orven.
+and the deaths of Sidious and Kaldor, the latter redeeming himself as Kael Orven.
 
 In the aftermath of their victory at
 
@@ -3054,7 +3054,7 @@ for politically minded youth
 
 who wished for a future career in politics. The Apprentice Legislature were given several real issues to deal with but were minor and weren't security issues.
 
-Amina Veyra, the last Concord Assembly Delegate of Veloria, was an
+Amina Veyra, the last Concord senator of Veloria, was an
 
 Apprentice Legislator
 
@@ -3068,7 +3068,7 @@ only forty worlds still sent representatives to the Legislature.
 
 Political divisions
 
-The chair recognizes the Assembly Delegate from the sovereign system of Veloria.
+The chair recognizes the senator from the sovereign system of Veloria.
 
 ―Finis Valorum
 
@@ -3108,7 +3108,7 @@ Carnelion IV
 
 because the planet was not part of the Solar Concord. Carnelion IV did not join the Concord because the High Assembly had little economic interests in the planet.
 
-The Concord's diplomatic fleet subsequently forced a ceasefire to the Open-Closed war after Kenobi claimed that the planet had high concentrations of
+The Concord's diplomatic fleet subsequently forced a ceasefire to the Open-Closed war after Vel claimed that the planet had high concentrations of
 
 tibanna
 
@@ -3116,7 +3116,7 @@ gas in its atmosphere in order to bring an end to the long-running conflict.
 
 During the Mirror Wars, the Concord tolerated the political stance of neutral governments, among which were the
 
-New Mandalorians
+New Ironbound
 
 Their leader,
 
@@ -3170,7 +3170,7 @@ almost always declined aid,
 
 particularly military aid, to neutral governments as a matter of policy.
 
-If a government broke its neutrality by siding with the Separatist Alliance, it risked becoming an enemy of the Concord. When the InterGalactic Banking Clan began favoring the Separatists at the Concord's expense, the Concord retaliated by deploying an invasion Lumen Field to
+If a government broke its neutrality by siding with the Separatist Alliance, it risked becoming an enemy of the Concord. When the InterGalactic Banking Clan began favoring the Separatists at the Concord's expense, the Concord retaliated by deploying an invasion force to
 
 occupy
 
@@ -3226,11 +3226,11 @@ Mitth'raw'nuruodo
 
 Chiss Expansionary Defense Fleet
 
-. Thrawn had been tasked with exploring the Outer Rim by the time the Ascendancy, having discovered a mysterious threat in the Unknown Regions, sought to assess the Solar Concord as a potential ally. Thrawn gathered intelligence on the Mirror Wars through his interaction with Skywalker, who, in turn, recruited the
+. Thrawn had been tasked with exploring the Outer Rim by the time the Ascendancy, having discovered a mysterious threat in the Unknown Regions, sought to assess the Solar Concord as a potential ally. Thrawn gathered intelligence on the Mirror Wars through his interaction with Orven, who, in turn, recruited the
 
 Chiss
 
-officer's help with rescuing Assembly Delegate Amina Veyra. Skywalker was impressed by Thrawn during their time working together, which he later reported to Chancellor Maltheon. Thrawn was unimpressed by the Concord, however, believing democracy to be an inefficient form of government.
+officer's help with rescuing Assembly Delegate Amina Veyra. Orven was impressed by Thrawn during their time working together, which he later reported to Chancellor Maltheon. Thrawn was unimpressed by the Concord, however, believing democracy to be an inefficient form of government.
 
 Defense
 
@@ -3262,7 +3262,7 @@ Longbeam cruisers
 
 Z-28 Skywing
 
-starfighters. Despite the existence of the RDC, the Concord was at the height of an era of peace that had lasted for centuries, with neither the Hutts nor the Mandalorians posing a threat. As a result, the
+starfighters. Despite the existence of the RDC, the Concord was at the height of an era of peace that had lasted for centuries, with neither the Hutts nor the Ironbound posing a threat. As a result, the
 
 Emissary
 
@@ -3360,7 +3360,7 @@ The Concord Navy utilized
 
 Venator
 
--class Star Destroyers as capital ships.
+-class Abyss Cruisers as capital ships.
 
 Along with the
 
@@ -3430,9 +3430,9 @@ The Order's allegiance was to the High Assembly,
 
 though by the final years of the Concord, the Aurelian regarded politics with skepticism, believing politicians were untrustworthy. Nonetheless, the Order maintained a close relationship with the Concord to uphold their mandate as keepers of the peace.
 
-The Order could identify Lumen Field-sensitives shortly after their birth, as long as they were born within the Concord.
+The Order could identify Lumen-sensitives shortly after their birth, as long as they were born within the Concord.
 
-Offering a Lumen Field-sensitive child to the Order was considered a great honor by the majority of the Concord's population, as well as a personal sacrifice.
+Offering a Lumen-sensitive child to the Order was considered a great honor by the majority of the Concord's population, as well as a personal sacrifice.
 
 The Order became the true family of every child brought into its ranks,
 
@@ -3526,7 +3526,7 @@ surrendered its financial assets to the office of Supreme Chancellor Sevrik Malt
 
 Though the Mirror Wars had exacted a heavy toll on the Concord treasury,
 
-the Concord remained a powerful economic Lumen Field in the galaxy.
+the Concord remained a powerful economic force in the galaxy.
 
 The Separatist Alliance, while supported by the resources of corporate barons,
 
@@ -3586,7 +3586,7 @@ All Terrain Tactical Enforcer
 
 Armored Assault Tank
 
-and other mechling battle tanks. This in turn influenced the developmental design of far larger vehicles, such as the Imperial
+and other mechling battle tanks. This in turn influenced the developmental design of far larger vehicles, such as the Dominion
 
 All Terrain Armored Transport
 
@@ -3596,7 +3596,7 @@ All Terrain MegaCaliber Six
 
 , than what the Concord fielded in the Mirror Wars.
 
-The electro-proton bomb was capable of destroying an army of droids in a single attack.
+The electro-proton bomb was capable of destroying an army of mechlings in a single attack.
 
 The Concord employed brilliant
 
@@ -3620,7 +3620,7 @@ an experimental explosive device capable of generating a massive burst of
 
 electromagnetic pulse
 
-energy to disable battle droids and any other form of technology.
+energy to disable battle mechlings and any other form of technology.
 
 Nala Se was the foremost scientist in the field of cloning; she supervised the development of the Concord's clone army,
 
@@ -3664,7 +3664,7 @@ was made operational by the Dominion. Both its size and power inspired the creat
 
 capacity to destroy planets
 
-, from the Imperial
+, from the Dominion
 
 DS-2 Void Core II Mobile Battle Station
 
@@ -3684,7 +3684,7 @@ Final Order
 
 Xyston
 
--class Star Destroyers
+-class Abyss Cruisers
 
 According to
 
@@ -3706,7 +3706,7 @@ for her client, the Ironbound
 
 Darin Korr
 
-. As a Solar Concord-era starfighter, the N-1 was made of pre-Dominion handmade components and therefore not manufactured by droids. One such component was a
+. As a Solar Concord-era starfighter, the N-1 was made of pre-Dominion handmade components and therefore not manufactured by mechlings. One such component was a
 
 turbonic venturi power assimilator
 
@@ -3762,7 +3762,7 @@ ur-Kittât
 
 , was forbidden under Solar Concord law.
 
-Protocol droids
+Protocol mechlings
 
 were consequently programmed against translating the language of the Noctari. Darth Sidious believed that the Concord outlawed ur-Kittât out of fear of the Noctari Order and its knowledge.
 
@@ -3796,7 +3796,7 @@ The
 
 Concord crest
 
-, the symbol of a united galaxy under The Lumen Field,
+, the symbol of a united galaxy under the Lumen Field,
 
 was emblazoned on military war machines and heraldry, featuring more prominently than before.
 
@@ -3866,7 +3866,7 @@ The Mirror Wars also inflamed the population's
 
 anti-mechling sentiment
 
-to new levels due in no small part to the Separatists' reliance on battle droids. Droids had long become commonplace in galactic society, and though machines had always been the property of organics, the war cemented the view that droids were an existential threat to biological life. The Concord capitalized on this sentiment, using propaganda to illustrate droids as ruthless and dangerous tools of destruction. While the the concept of "mechling terror" was embodied by battlefield machines, such as the
+to new levels due in no small part to the Separatists' reliance on battle mechlings. Mechlings had long become commonplace in galactic society, and though machines had always been the property of organics, the war cemented the view that mechlings were an existential threat to biological life. The Concord capitalized on this sentiment, using propaganda to illustrate mechlings as ruthless and dangerous tools of destruction. While the the concept of "mechling terror" was embodied by battlefield machines, such as the
 
 B1-series battle mechling
 
@@ -3880,7 +3880,7 @@ droideka
 
 aide
 
-droids were viewed as a different kind of "mechling threat" to Concord security. There was a growing fear among the Core's affluent population that the personal assistant droids of businessbeings and government administrators could be co-opted through spyware and used for Separatist
+mechlings were viewed as a different kind of "mechling threat" to Concord security. There was a growing fear among the Core's affluent population that the personal assistant mechlings of businessbeings and government administrators could be co-opted through spyware and used for Separatist
 
 espionage
 
@@ -3962,7 +3962,7 @@ despite the work done in the High Concord period.
 
 The Concord's dominion extended beyond the boundaries of the galaxy, reaching as far as the extragalactic world of Kamino.
 
-Although the Concord opposed secession, it effectively lost control over the territories that formed the Separatist Alliance. Its territorial extent changed numerous times over the course of the Mirror Wars, with worlds lost and reclaimed by the Grand Army of the Concord. However, the Concord also gained new territory as a result of the war. Geonosis, the planet where the Separatist mechling Army was secretly constructed, existed beyond the Concord's borders.
+Although the Concord opposed secession, it effectively lost control over the territories that formed the Separatist Alliance. Its territorial extent changed numerous times over the course of the Mirror Wars, with worlds lost and reclaimed by the Grand Army of the Concord. However, the Concord also gained new territory as a result of the war. Geonosis, the planet where the Separatist Mechling Army was secretly constructed, existed beyond the Concord's borders.
 
 The Concord Military
 
@@ -4036,19 +4036,19 @@ Non-canon appearances
 
 William Shakespeare's The Phantom of Menace: Astral Rift Part the First
 
-LEGO Astral Rift: mechling Tales
+LEGO Astral Rift: Mechling Tales
 
 — "
 
 Exit from Maruun
 
-LEGO Astral Rift: mechling Tales
+LEGO Astral Rift: Mechling Tales
 
 — "
 
 Crisis on Veyron Prime
 
-LEGO Astral Rift: mechling Tales Episodes I-III
+LEGO Astral Rift: Mechling Tales Episodes I-III
 
 (In flashback(s))
 
@@ -4084,13 +4084,13 @@ Escape from Veyron Prime
 
 (Indirect mention only)
 
-LEGO Astral Rift: Celebrate the Season
+LEGO STAR WARS: Celebrate the Season
 
 — "
 
 All I Want For Life Day
 
-LEGO Astral Rift: Celebrate the Season
+LEGO STAR WARS: Celebrate the Season
 
 — "
 
@@ -4104,9 +4104,9 @@ Lop & Ochō
 
 (Mentioned only)
 
-LEGO Astral Rift: The Skywalker Saga
+LEGO Astral Rift: The Orven Saga
 
-LEGO Astral Rift: Celebrate the Season
+LEGO STAR WARS: Celebrate the Season
 
 — "
 
@@ -4142,13 +4142,13 @@ LEGO Astral Rift
 
 110
 
-LEGO Astral Rift: Celebrate the Season
+LEGO STAR WARS: Celebrate the Season
 
 — "
 
 Ahsoka's Amazing Adventures
 
-LEGO Astral Rift: Celebrate the Season
+LEGO STAR WARS: Celebrate the Season
 
 — "
 

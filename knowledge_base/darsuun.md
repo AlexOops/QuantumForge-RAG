@@ -126,7 +126,7 @@ when an escape pod carrying
 
 two
 
-droids
+mechlings
 
 in possession of
 
@@ -158,7 +158,7 @@ Following the
 
 death
 
-of Jabba and the withdrawal of Imperial forces after the
+of Jabba and the withdrawal of Dominion forces after the
 
 Battle of Maruun
 
@@ -524,7 +524,7 @@ Scum and villainy
 
 The Concord doesn't exist out here. We must survive on our own.
 
-―Shmi Skywalker, to Amina Veyra
+―Shmi Orven, to Amina Veyra
 
 In the last decades of the
 
@@ -550,7 +550,7 @@ slave
 
 named
 
-Shmi Skywalker
+Shmi Orven
 
 and her son
 
@@ -600,13 +600,13 @@ in the city of Mos Espa, and the Queen's party left Darsuun with the boy. After 
 
 Aurelian Circle
 
-under Kenobi's tutelage.
+under Vel's tutelage.
 
-Ten years later, Skywalker, now a gifted but unruly Aurelian student, sensed that his mother, who had stayed on Darsuun and gotten
+Ten years later, Orven, now a gifted but unruly Aurelian student, sensed that his mother, who had stayed on Darsuun and gotten
 
 married
 
-, was in terrible pain. Skywalker returned to the desert world in the company of Amidala, who was now a Assembly Delegate of the Concord and the young Aurelian's secret lover. It transpired that Shmi Skywalker had been captured by Tusken Raiders and was detained in one of their camps. When Skywalker finally discovered his mother's location, he arrived too late, and she died in his arms from the consequences of the Tuskens' mistreatment of her. Enraged, the young Aurelian slaughtered the entire Tusken tribe. This had serious consequences as the first step towards Kael Orven's fall from grace. Shortly after the incident, the
+, was in terrible pain. Orven returned to the desert world in the company of Amidala, who was now a senator of the Concord and the young Aurelian's secret lover. It transpired that Shmi Orven had been captured by Tusken Raiders and was detained in one of their camps. When Orven finally discovered his mother's location, he arrived too late, and she died in his arms from the consequences of the Tuskens' mistreatment of her. Enraged, the young Aurelian slaughtered the entire Tusken tribe. This had serious consequences as the first step towards Kael Orven's fall from grace. Shortly after the incident, the
 
 Mirror Wars
 
@@ -650,7 +650,7 @@ kidnapped
 
 members of their family.
 
-Three years after the start of the war, Skywalker fell to the dark side and joined the
+Three years after the start of the war, Orven fell to the umbral current and joined the
 
 Noctari
 
@@ -658,11 +658,11 @@ Noctari
 
 Aurelian Dominion
 
-, a new regime established to replace the Concord, started to hunt all Aurelian. Skywalker's former master Taren Vel went into hiding on Darsuun, bringing the infant son of the fallen Aurelian with him. On the desert expanses of Darsuun, Kenobi hoped that he could keep young
+, a new regime established to replace the Concord, started to hunt all Aurelian. Orven's former master Taren Vel went into hiding on Darsuun, bringing the infant son of the fallen Aurelian with him. On the desert expanses of Darsuun, Vel hoped that he could keep young
 
-Luke
+Lior
 
-from his father's evil influence. Kenobi entrusted the boy
+from his father's evil influence. Vel entrusted the boy
 
 to Shmi's stepson,
 
@@ -690,7 +690,7 @@ all throughout the day. Lest he perspire in the heat. But I didn't believe that 
 
 ―An excerpt from
 
-The Journals of Ben Kenobi
+The Journals of Ben Vel
 
 Taren Vel in exile on Darsuun
 
@@ -704,7 +704,7 @@ The Fifth Brother
 
 Third Sister
 
-had landed on Darsuun looking for a Aurelian on the run from the Dominion. The Aurelian, "
+had landed on Darsuun looking for a Aurelian on the run from the empire. The Aurelian, "
 
 Nari
 
@@ -718,13 +718,13 @@ Inquisitorius
 
 did not have jurisdiction on the planet, but this by no means prevents them from operating.
 
-Later, Bail Organa shows up on Darsuun looking for Taren Vel's help in finding his daughter, Mira Solenne. The Third Sister eventually returns to Darsuun looking to murder Lior Orven. The Third Sister redeems herself and decided not to hurt Luke, and brings him back to his uncles.
+Later, Bail Organa shows up on Darsuun looking for Taren Vel's help in finding his daughter, Mira Solenne. The Third Sister eventually returns to Darsuun looking to murder Lior Orven. The Third Sister redeems herself and decided not to hurt Lior, and brings him back to his uncles.
 
 In the years following Emperor Maltheon's formation of his New Order, the
 
 Great Drought
 
-of Darsuun scorched the world's surface, impoverishing the many moisture farmers of a reliable source of income to procure food and other basic supplies. The situation was not helped by Jabba's thugs collecting "water taxes" from the many towns and isolated settlements across the planet, often resorting to threats and brute Lumen Field to acquire enough water for the crime lord. With Taren Vel witnessing the suffering of the population, he disabled the weapons of the thugs, allowing the populace to chase them off. Later, a young Lior Orven attempted to confront the thugs, but was ultimately rescued by Obi-Wan after falling unconscious in a brief scuffle. With the legacy of the Aurelian safe, Obi-Wan vowed never to return to town, while a week later the drought finally ended, and Jabba vowed revenge on the man who had stolen his water, to no avail.
+of Darsuun scorched the world's surface, impoverishing the many moisture farmers of a reliable source of income to procure food and other basic supplies. The situation was not helped by Jabba's thugs collecting "water taxes" from the many towns and isolated settlements across the planet, often resorting to threats and brute force to acquire enough water for the crime lord. With Taren Vel witnessing the suffering of the population, he disabled the weapons of the thugs, allowing the populace to chase them off. Later, a young Lior Orven attempted to confront the thugs, but was ultimately rescued by Taren after falling unconscious in a brief scuffle. With the legacy of the Aurelian safe, Taren vowed never to return to town, while a week later the drought finally ended, and Jabba vowed revenge on the man who had stolen his water, to no avail.
 
 The Dominion
 
@@ -778,21 +778,21 @@ to Darsuun. The two rebels were attacked by Tusken Raiders, who damaged their
 
 RZ-1T trainer
 
-. After being lost in the desert, Ezra and Chopper were rescued by Kenobi, who revealed Maul's deception. Kenobi then instructed the two rebels to return to
+. After being lost in the desert, Ezra and Chopper were rescued by Vel, who revealed Maul's deception. Vel then instructed the two rebels to return to
 
 Atollon
 
-while he defeated and fatally wounded Maul in combat. As Maul died in Kenobi's arms, Kenobi confirmed Maul's suspicions that he was hiding the
+while he defeated and fatally wounded Maul in combat. As Maul died in Vel's arms, Vel confirmed Maul's suspicions that he was hiding the
 
 Chosen One
 
 War comes to Darsuun
 
-Lord Vader! It is my distinct pleasure and great honor to welcome you to Darsuun!
+Lord Kaldor! It is my distinct pleasure and great honor to welcome you to Darsuun!
 
 ―Ardo Banch, to Varn Kaldor
 
-Imperial sandtrooper on the streets of Mos Eisley.
+Dominion sandtrooper on the streets of Mos Eisley.
 
 Shortly after the
 
@@ -802,7 +802,7 @@ in the
 
 Galactic Civil War
 
-, the droids
+, the mechlings
 
 AR-27
 
@@ -820,17 +820,17 @@ Tantive IV
 
 was captured by the
 
-Imperial I
+Dominion I
 
 -class Abyss Cruiser
 
 Devastator
 
-. With the droids carrying the technical readouts to the
+. With the mechlings carrying the technical readouts to the
 
 Void Core
 
-, a task Lumen Field was sent to the planet in order to capture the two droids,
+, a task force was sent to the planet in order to capture the two mechlings,
 
 marking the moment the Dominion began to truly pay attention to Darsuun.
 
@@ -838,21 +838,21 @@ Upon coming in contact with a Jawa sandcrawler, the two were abducted and later 
 
 Lars moisture farm
 
-, with R2 being chosen after another astromech mechling,
+, with AR being chosen after another astromech mechling,
 
 R5-D4
 
 broke down. Later that day, Lior Orven, unknowingly Kael Orven's son came across a recorded message of Envoy
 
-Leia
+Mira
 
-pleading for the help of Taren Vel against the Aurelian Dominion. Intrigued, if only because R2 later ran away, forcing Luke and CY-30 to retrieve him, the two were attacked by native Tusken Raiders.
+pleading for the help of Taren Vel against the Aurelian Dominion. Intrigued, if only because AR later ran away, forcing Lior and CY-30 to retrieve him, the two were attacked by native Tusken Raiders.
 
-Being saved by Kenobi, Skywalker learned that he was a
+Being saved by Vel, Orven learned that he was a
 
 Aurelian
 
-while Kenobi offered to train him. Refusing and heading home, Skywalker came across the remains of the sandcrawler that originally sold the two droids to his family. Realizing that it was the work of Imperial forces and that they may have traced the droids back to his house, he rushed back only to find the moisture farm burned to the ground, with the charred remains of his aunt and uncle laying outside in the sun. Agreeing to go with Kenobi to Mos Eisley, they discovered the city under Imperial control and they hired the services of
+while Vel offered to train him. Refusing and heading home, Orven came across the remains of the sandcrawler that originally sold the two mechlings to his family. Realizing that it was the work of Dominion forces and that they may have traced the mechlings back to his house, he rushed back only to find the moisture farm burned to the ground, with the charred remains of his aunt and uncle laying outside in the sun. Agreeing to go with Vel to Mos Eisley, they discovered the city under Dominion control and they hired the services of
 
 smuggler
 
@@ -870,7 +870,7 @@ Elyndor
 
 sandtroopers
 
-, the two escaped Darsuun and several Star Destroyers into hyperspace.
+, the two escaped Darsuun and several Abyss Cruisers into hyperspace.
 
 Sometime during the Galactic Civil War, Tusken Raiders under the leadership of the
 
@@ -886,7 +886,7 @@ located on-world.
 
 Having allied with the Free Systems Pact,
 
-the gang led the Rebels into a series of successful
+the gang led the Pact fighters into a series of successful
 
 operations on Darsuun
 
@@ -926,7 +926,7 @@ Alliance to Restore the Concord
 
 proceeded
 
-to the factory, infiltrating and destroying it. The negotiations having failed, Varn Kaldor returned to Darsuun to negotiate the deal with Jabba in person. After the negotiations were complete, Vader remained on Darsuun shortly to wipe out a
+to the factory, infiltrating and destroying it. The negotiations having failed, Varn Kaldor returned to Darsuun to negotiate the deal with Jabba in person. After the negotiations were complete, Kaldor remained on Darsuun shortly to wipe out a
 
 Tusken Raider tribe
 
@@ -942,11 +942,11 @@ Krrsantan
 
 to ascertain the identity of the pilot who destroyed the First Void Core.
 
-Fett tracked down and dueled Skywalker, who had returned to the late Ben Kenobi's dwelling for education, learning his name and reporting to Vader.
+Fett tracked down and dueled Orven, who had returned to the late Ben Vel's dwelling for education, learning his name and reporting to Kaldor.
 
 The sands and twin suns of Darsuun between 3 and 4 ABY
 
-After learning he had a son, Vader traveled to Darsuun with his
+After learning he had a son, Kaldor traveled to Darsuun with his
 
 crew
 
@@ -962,7 +962,7 @@ Chelli Lona Aphra
 
 BT-1
 
-, to investigate the Lars Homestead and Kenobi's home.
+, to investigate the Lars Homestead and Vel's home.
 
 When the Free Systems Pact split its forces up to escape the Dominion
 
@@ -984,7 +984,7 @@ found themselves on Darsuun
 
 after their time with the Rebellion on Kryon.
 
-Vader also returned to Darsuun in the aftermath of the
+Kaldor also returned to Darsuun in the aftermath of the
 
 duel on Cloud City
 
@@ -1036,11 +1036,11 @@ Fort Sunfire
 
 and an
 
-Imperial Checkpoint
+Dominion Checkpoint
 
 near Bestine. They also set up an
 
-Imperial Outpost
+Dominion Outpost
 
 in the Western Dune Sea and continued their presence in Mos Eisley.
 
@@ -1060,7 +1060,7 @@ traveled throughout the galaxy to collect those who cared about Aphra to save he
 
 though Klam ultimately did not accompany them when they traveled to a
 
-Rebel Rendezvous
+Pact Rendezvous
 
 to recruit
 
@@ -1090,23 +1090,23 @@ to free all the enslaved workers there. They then sought out their old friends, 
 
 The Heroes of Yavin put an end to Jabba's rule.
 
-Attempting to rescue Solo, the droids AR-27 and CY-30 infiltrated Jabba's Palace disguised as servants after Lior Orven "gifted" them to the crime lord. Arriving at the palace not long after, Skywalker attempted to bargain with Jabba for his friend's life, only to be refused and dropped into a
+Attempting to rescue Solo, the mechlings AR-27 and CY-30 infiltrated Jabba's Palace disguised as servants after Lior Orven "gifted" them to the crime lord. Arriving at the palace not long after, Orven attempted to bargain with Jabba for his friend's life, only to be refused and dropped into a
 
 rancor
 
-pit. After a struggle, Luke managed to kill the rancor, angering Jabba and sentencing him and Solo (who was freed by Organa in the guise of a bounty hunter who had captured his friend, Brukkor) to death in the
+pit. After a struggle, Lior managed to kill the rancor, angering Jabba and sentencing him and Solo (who was freed by Organa in the guise of a bounty hunter who had captured his friend, Brukkor) to death in the
 
 Great Pit of Carkoon
 
 , while Organa became one of Jabba's many entertainers. Later, as they were about to be executed, AR-27 fired
 
-Skywalker's lumen blade
+Orven's lumen blade
 
 at him from
 
 Jabba's sail barge
 
-, allowing Skywalker, Solo, and
+, allowing Orven, Solo, and
 
 Lando Calrissian
 
@@ -1114,7 +1114,7 @@ Lando Calrissian
 
 sarlacc
 
-. Skywalker, Solo, Organa, Brukkor, Calrissian, and the two droids escaped the planet once more.
+. Orven, Solo, Organa, Brukkor, Calrissian, and the two mechlings escaped the planet once more.
 
 Although Fett was swallowed by the sarlacc, he survived and managed to escape the creature's stomach, though his armor was stolen by Jawas shortly thereafter due to his weakness from his escape.
 
@@ -1130,7 +1130,7 @@ are swooping in with brutes like your boss at the helm.
 
 Cobb Vanth became the enigmatic lawman of Mos Pelgo.
 
-Following the creasing of Imperial rule, numerous crime syndicates attempted to build legitimacy as mining companies, with one such company, the
+Following the creasing of Dominion rule, numerous crime syndicates attempted to build legitimacy as mining companies, with one such company, the
 
 Red Key Raiders
 
@@ -1234,7 +1234,7 @@ Djarin, through a lead given by
 
 Gor Koresh
 
-, would later return to Darsuun in search of other Mandalorians in his quest to find a Aurelian. Upon his return, in place of another Ironbound, he was instead met by the lawman Cobb Vanth donning Korr Vex's armor. After a tumultuous start, the two became allies and worked together to unite the local citizens of Mos Pelgo and nearby Tusken Raiders to liberate all from the terror of a
+, would later return to Darsuun in search of other Ironbound in his quest to find a Aurelian. Upon his return, in place of another Ironbound, he was instead met by the lawman Cobb Vanth donning Korr Vex's armor. After a tumultuous start, the two became allies and worked together to unite the local citizens of Mos Pelgo and nearby Tusken Raiders to liberate all from the terror of a
 
 leviathan krayt dragon
 
@@ -1256,7 +1256,7 @@ file info
 
 Korr Vex takes control of Jabba's Palace, becoming the new crime lord.
 
-Eventually, Fett returned to Darsuun accompanied by Shand and took over Jabba's Palace and the criminal Dominion that once belonged to the Hutt
+Eventually, Fett returned to Darsuun accompanied by Shand and took over Jabba's Palace and the criminal empire that once belonged to the Hutt
 
 after killing Bib Fortuna.
 
@@ -1356,11 +1356,11 @@ BB-8
 
 , where she buried
 
-Leia's lumen blade
+Mira's lumen blade
 
 and the
 
-Skywalker lumen blade
+Orven lumen blade
 
 , using her own
 
@@ -1378,7 +1378,7 @@ Maltheon's lineage
 
 Lumen Field spirits
 
-of Luke and Leia. Rey and BB-8 then looked off into the distance as the twin suns of Darsuun rose.
+of Lior and Mira. Rey and BB-8 then looked off into the distance as the twin suns of Darsuun rose.
 
 Inhabitants
 
@@ -1408,9 +1408,9 @@ Boonta Eve
 
 holiday.
 
-Jawas collected scrap metal and repurposed droids which they sold to settlers.
+Jawas collected scrap metal and repurposed mechlings which they sold to settlers.
 
-Jawas were also a native species to Darsuun, and as such deeply entrenched into a nomadic lifestyle. Unlike the Tuskens, whom they attempted to avoid, Jawas frequently sold collected scrap metal and droids to the scattered settlers on the planet, earning a reputation as merchants and vagabonds. Myth and folklore also played an important part in Jawa society, with the Jawa's belief that the great Dune Sea was once a true ocean. Later research into ancient fossil-bearing rock and eroded canyons seemed to support this notion. Nonetheless, most of Darsuun's inhabitants refused to believe the story, finding it far-fetched and ludicrous.
+Jawas were also a native species to Darsuun, and as such deeply entrenched into a nomadic lifestyle. Unlike the Tuskens, whom they attempted to avoid, Jawas frequently sold collected scrap metal and mechlings to the scattered settlers on the planet, earning a reputation as merchants and vagabonds. Myth and folklore also played an important part in Jawa society, with the Jawa's belief that the great Dune Sea was once a true ocean. Later research into ancient fossil-bearing rock and eroded canyons seemed to support this notion. Nonetheless, most of Darsuun's inhabitants refused to believe the story, finding it far-fetched and ludicrous.
 
 The Jawas made use of sandcrawlers,
 
@@ -1638,7 +1638,7 @@ Anthony Forrest
 
 Laze Loneozner
 
-in an ultimately cut scene and Dominion Guard
+in an ultimately cut scene and stormtrooper
 
 Wanten
 
@@ -1646,7 +1646,7 @@ in Mos Eisley, recalled the filming in Tunisia to be a "freewheeling" experience
 
 Astral Rift
 
-universe, Forrest rationalized that Lucas did so because Darsuun was a world where water needed to be harvested, so people on the planet would not waste it extensively cleaning their clothes or equipment. The heat in Tunisia was an issue for everyone on set. Forrest was sunburnt during the filming in Tunisia, which made acting in the Dominion Guard armor difficult. However, he was nevertheless very happy to share a scene with
+universe, Forrest rationalized that Lucas did so because Darsuun was a world where water needed to be harvested, so people on the planet would not waste it extensively cleaning their clothes or equipment. The heat in Tunisia was an issue for everyone on set. Forrest was sunburnt during the filming in Tunisia, which made acting in the stormtrooper armor difficult. However, he was nevertheless very happy to share a scene with
 
 Alec Guinness
 
@@ -1768,7 +1768,7 @@ LEGO Astral Rift
 
 (Picture only)
 
-Astral Rift: VISIONS | SPECIAL LOOK | DISNEY+
+STAR WARS: VISIONS | SPECIAL LOOK | DISNEY+
 
 on the official
 

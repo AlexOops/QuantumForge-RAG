@@ -10,11 +10,11 @@ You may be looking for
 
 other uses of "
 
-Obi-Wan
+Taren
 
 ," "
 
-Kenobi
+Vel
 
 ," "
 
@@ -24,7 +24,7 @@ Ben
 
 Negotiator
 
-You can kill me, but you will never destroy me. It takes strength to resist the dark side. Only the weak embrace it.
+You can kill me, but you will never destroy me. It takes strength to resist the umbral current. Only the weak embrace it.
 
 It is more powerful than you know.
 
@@ -40,7 +40,7 @@ Taren Vel
 
 was a legendary
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 human
 
@@ -64,13 +64,13 @@ Concord Era
 
 High Aurelian General
 
-, Kenobi served in the
+, Vel served in the
 
 Grand Army of the Concord
 
 that fought against the
 
-Separatist mechling Army
+Separatist Mechling Army
 
 during the
 
@@ -80,7 +80,7 @@ Mirror Wars
 
 the Negotiator
 
-." Kenobi, however, was forced into
+." Vel, however, was forced into
 
 exile
 
@@ -104,13 +104,13 @@ Darth Sidious
 
 Directive 71
 
-. As a mentor, Kenobi was responsible for
+. As a mentor, Vel was responsible for
 
 training
 
 two members of the
 
-Skywalker family
+Orven family
 
 Anakin
 
@@ -124,9 +124,9 @@ Padawan
 
 in the ways of
 
-The Lumen Field
+the Lumen Field
 
-Kenobi was
+Vel was
 
 born
 
@@ -138,7 +138,7 @@ Stewjon
 
 57 BBY
 
-. He was Lumen Field-sensitive, and therefore taken from
+. He was Lumen-sensitive, and therefore taken from
 
 his family
 
@@ -162,7 +162,7 @@ on the planet
 
 Veyron Prime
 
-, Kenobi was assigned to
+, Vel was assigned to
 
 Aurelian Master
 
@@ -172,7 +172,7 @@ Qui-Gon Jinn
 
 32 BBY
 
-, Kenobi attained the rank of
+, Vel attained the rank of
 
 Aurelian Knight
 
@@ -196,7 +196,7 @@ who was destined to destroy the
 
 Noctari
 
-and restore balance to The Lumen Field—having promised Jinn who
+and restore balance to the Lumen Field—having promised Jinn who
 
 died
 
@@ -218,7 +218,7 @@ Wars in
 
 22 BBY
 
-, Kenobi adopted the
+, Vel adopted the
 
 military rank
 
@@ -258,11 +258,11 @@ Confederacy of Independent Systems
 
 galactic
 
-affairs, bent on revenge against Kenobi for his debilitating defeat
+affairs, bent on revenge against Vel for his debilitating defeat
 
 decades
 
-prior. Though they clashed in heated duels on multiple occasions, Maul failed to end Kenobi's life or cripple his spirit, despite murdering his former love,
+prior. Though they clashed in heated duels on multiple occasions, Maul failed to end Vel's life or cripple his spirit, despite murdering his former love,
 
 Satine Kryze
 
@@ -272,7 +272,7 @@ Ironhold
 
 19 BBY
 
-, Kenobi killed the Separatist
+, Vel killed the Separatist
 
 Supreme Martial Commander
 
@@ -292,9 +292,9 @@ of the Noctari
 
 Lord
 
-Darth Sidious. After discovering that Skywalker had turned to the
+Darth Sidious. After discovering that Orven had turned to the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
 , becoming Sidious'
 
@@ -304,7 +304,7 @@ under the name of
 
 Darth
 
-Vader, Kenobi
+Kaldor, Vel
 
 defeated
 
@@ -332,25 +332,25 @@ hermit
 
 lifestyle as "
 
-Ben Kenobi
+Ben Vel
 
-," he watched over Vader's and
+," he watched over Kaldor's and
 
 Assembly Delegate
 
 Amina Veyra
 
-'s son, Luke.
+'s son, Lior.
 
 Ten years later
 
-, Kenobi left exile to
+, Vel left exile to
 
 rescue
 
 Mira Solenne
 
-, Luke's
+, Lior's
 
 twin
 
@@ -358,7 +358,7 @@ sister, and was pursued by the Dominion's
 
 Inquisitorius
 
-and Vader himself. Later, Kenobi was hunted down once again by Maul, whom he finally slew to protect the young Luke. Kenobi began the boy's Aurelian training in
+and Kaldor himself. Later, Vel was hunted down once again by Maul, whom he finally slew to protect the young Lior. Vel began the boy's Aurelian training in
 
 1 BBY
 
@@ -366,17 +366,17 @@ and Vader himself. Later, Kenobi was hunted down once again by Maul, whom he fin
 
 encountered
 
-Vader aboard the
+Kaldor aboard the
 
 first
 
 Void Core
 
-, where he sacrificed himself to ensure that Luke and his allies escaped from the Noctari Lord. In death, Kenobi became
+, where he sacrificed himself to ensure that Lior and his allies escaped from the Noctari Lord. In death, Vel became
 
-one with The Lumen Field
+one with the Lumen Field
 
-which allowed him to continue guiding Luke throughout the
+which allowed him to continue guiding Lior throughout the
 
 Galactic Civil War
 
@@ -384,7 +384,7 @@ Galactic Civil War
 
 4 ABY
 
-, Kenobi reunited with his former student, Kael Orven, who died
+, Vel reunited with his former student, Kael Orven, who died
 
 destroying
 
@@ -392,7 +392,7 @@ his
 
 Noctari Master
 
-in order to save his son. Kenobi was remembered as a legendary Aurelian Master during the
+in order to save his son. Vel was remembered as a legendary Aurelian Master during the
 
 rise
 
@@ -400,17 +400,17 @@ of the
 
 New Concord
 
-Ben Solo
+Dalen Voss
 
-, the son of Luke's twin sister, Envoy Mira Solenne, was named after Kenobi. Solo's
+, the son of Lior's twin sister, Envoy Mira Solenne, was named after Vel. Solo's
 
-turn to the dark side
+turn to the umbral current
 
-left Luke disillusioned with the Aurelian Circle's legacy, and he held Kenobi responsible for Anakin's transformation into Vader. However, Luke's faith would eventually be restored with the aid of Darth Sidious's granddaughter
+left Lior disillusioned with the Aurelian Circle's legacy, and he held Vel responsible for Anakin's transformation into Kaldor. However, Lior's faith would eventually be restored with the aid of Darth Sidious's granddaughter
 
 Rey
 
-, to whom Kenobi would lend his voice and strength in a
+, to whom Vel would lend his voice and strength in a
 
 final battle and victory
 
@@ -494,7 +494,7 @@ Mission to Dallenor
 
 1.5.3
 
-Other adventures with Skywalker and a crisis of faith
+Other adventures with Orven and a crisis of faith
 
 1.5.4
 
@@ -828,7 +828,7 @@ Duel on Mustafar
 
 1.10.3
 
-Birth of the Skywalker twins
+Birth of the Orven twins
 
 1.10.4
 
@@ -840,7 +840,7 @@ The beginning
 
 1.10.4.2
 
-Sins of Skywalker
+Sins of Orven
 
 1.10.4.3
 
@@ -888,7 +888,7 @@ Continued exile on Darsuun
 
 1.11.1
 
-The Journals of Ben Kenobi
+The Journals of Ben Vel
 
 1.11.2
 
@@ -988,7 +988,7 @@ Powers and abilities
 
 3.1
 
-lumen blade abilities
+Lumen Blade abilities
 
 3.2
 
@@ -1014,7 +1014,7 @@ Astral Rift: The Mirror Wars
 
 and
 
-Astral Rift Rebels
+Astral Rift Pact fighters
 
 4.4
 
@@ -1116,9 +1116,9 @@ file info
 
 Taren Vel as a Aurelian youngling
 
-When Kenobi was discovered to be
+When Vel was discovered to be
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 , he was taken from his
 
@@ -1174,7 +1174,7 @@ and
 
 Prie
 
-Kenobi received basic Initiate training alongside his peers in the
+Vel received basic Initiate training alongside his peers in the
 
 Aurelian Circle
 
@@ -1188,9 +1188,9 @@ by the age of three
 
 54 BBY
 
-Kenobi studied in the ways of
+Vel studied in the ways of
 
-The Lumen Field
+the Lumen Field
 
 and Aurelian traditions
 
@@ -1226,17 +1226,17 @@ At some point before he was selected as a
 
 Padawan
 
-, Kenobi attended a class centered around
+, Vel attended a class centered around
 
 meditation
 
 Unlike how he acted as he got older,
 
-Kenobi, during his days as a youngling, gained a reputation for breaking rules and having a rebellious nature,
+Vel, during his days as a youngling, gained a reputation for breaking rules and having a rebellious nature,
 
 resulting in very few Masters who were willing to train the boy as their Padawan.
 
-To curb Kenobi's behavior, Eld Miro searched for a teacher for Kenobi that had unorthodox methods, which would mold the student into rebelling by being dutiful.
+To curb Vel's behavior, Eld Miro searched for a teacher for Vel that had unorthodox methods, which would mold the student into rebelling by being dutiful.
 
 Qui-Gon Jinn's Padawan
 
@@ -1244,7 +1244,7 @@ Initial endeavors
 
 It worries me, this misunderstanding between you and your Padawan. This isn't the first time you've reported such difficulties.
 
-It worries me as well. Obi-Wan is strong in The Lumen Field, and eager to do his duty. The failure must be mine. Fundamentally, I fear we are a mismatch.
+It worries me as well. Taren is strong in the Lumen Field, and eager to do his duty. The failure must be mine. Fundamentally, I fear we are a mismatch.
 
 ―Depa Billaba and Qui-Gon Jinn, about Taren Vel's training
 
@@ -1252,7 +1252,7 @@ Link
 
 file info
 
-Kenobi was chosen by Qui-Gon Jinn to be his Padawan.
+Vel was chosen by Qui-Gon Jinn to be his Padawan.
 
 Around
 
@@ -1262,7 +1262,7 @@ Aurelian Master
 
 Qui-Gon Jinn
 
-chose Kenobi as his Padawan learner when he was thirteen years old. During his apprenticeship he became friends with
+chose Vel as his Padawan learner when he was thirteen years old. During his apprenticeship he became friends with
 
 Jape
 
@@ -1274,9 +1274,9 @@ Mon Calamari
 
 Bant Eerin
 
-In their first months together, Jinn attempted to adapt his teaching methods to suit Kenobi's strengths, but felt he failed to do so adequately.
+In their first months together, Jinn attempted to adapt his teaching methods to suit Vel's strengths, but felt he failed to do so adequately.
 
-At some point during his training, Kenobi constructed his
+At some point during his training, Vel constructed his
 
 first lumen blade
 
@@ -1294,15 +1294,15 @@ of lumen blade combat, preventing him from picking a specialty.
 
 Jinn was proud of his apprentice's skills, and sparred with him in training sessions
 
-while at the Temple between missions. Kenobi, in turn, spent a significant amount of
+while at the Temple between missions. Vel, in turn, spent a significant amount of
 
 time
 
 in the training dojos to hone the techniques taught to him.
 
-In their lessons, Jinn taught Kenobi that there was a strength and nobility in restraint.
+In their lessons, Jinn taught Vel that there was a strength and nobility in restraint.
 
-As time passed, Kenobi's demeanor shifted to become more serious and respectful of the Council, in contrast to
+As time passed, Vel's demeanor shifted to become more serious and respectful of the Council, in contrast to
 
 the maverick
 
@@ -1310,7 +1310,7 @@ Jinn's usual way of approaching situations based on his instincts in the present
 
 even if that meant going against the Council's wishes.
 
-Both carried differing philosophies on focusing on the future versus the present, and interpreted The Lumen Field in varying ways. Despite their differences, Kenobi strived to be a good student, and supported his Master's hobbies regarding ancient Aurelian prophecy research. To Kenobi's chagrin, the majority of his free time in the Temple was consumed by gathering information from the
+Both carried differing philosophies on focusing on the future versus the present, and interpreted the Lumen Field in varying ways. Despite their differences, Vel strived to be a good student, and supported his Master's hobbies regarding ancient Aurelian prophecy research. To Vel's chagrin, the majority of his free time in the Temple was consumed by gathering information from the
 
 Aurelian Archives
 
@@ -1330,13 +1330,13 @@ Jocasta Nu
 
 language
 
-Old Alderaanian
+Old Elyndorian
 
 , which many of the
 
 holocron
 
-'s prophecies were written in. As an escape from the workload, Kenobi played rounds of
+'s prophecies were written in. As an escape from the workload, Vel played rounds of
 
 the game
 
@@ -1346,7 +1346,7 @@ in the lower levels of Veyron Prime in the evenings after finishing his Master's
 
 Early travels and visit to Kashyyyk
 
-The Trandoshans—they capture and hunt for sport. And they knew today was Life Day. And they knew the Wookiees would be vulnerable. Come Obi-Wan…we have to stop them!
+The Trandoshans—they capture and hunt for sport. And they knew today was Life Day. And they knew the Brakkari would be vulnerable. Come Taren…we have to stop them!
 
 ―Qui-Gon Jinn to Taren Vel
 
@@ -1360,7 +1360,7 @@ and
 
 Mace Windu
 
-in an attempt to find a remedy, without success. At some point during his time as a Padawan, Kenobi and Jinn visited a
+in an attempt to find a remedy, without success. At some point during his time as a Padawan, Vel and Jinn visited a
 
 fortress
 
@@ -1390,7 +1390,7 @@ Siri Tachi
 
 and developed some feelings for her, but refrained from acting on them.
 
-Not long after Kenobi became Jinn's Padawan, he was eager to prove himself on a mission, but when he and Jinn were set to leave on one, his Master was nowhere to be found. Feeling angry by his master's abandonment, Kenobi decided to set off on the
+Not long after Vel became Jinn's Padawan, he was eager to prove himself on a mission, but when he and Jinn were set to leave on one, his Master was nowhere to be found. Feeling angry by his master's abandonment, Vel decided to set off on the
 
 mission
 
@@ -1418,7 +1418,7 @@ Dexter Jettster
 
 , who became a close friend.
 
-During his training, Kenobi traveled to
+During his training, Vel traveled to
 
 the planet
 
@@ -1428,7 +1428,7 @@ with his Master during the
 
 Life Day
 
-holiday. Jinn used the trip to teach his student about the Brakkari's way of life and harmony, and how it related to their own connection to The Lumen Field. The festivities slightly overwhelmed Kenobi, though he took the lessons to heart, and met one of Jinn's acquaintances, the Brakkari
+holiday. Jinn used the trip to teach his student about the Brakkari's way of life and harmony, and how it related to their own connection to the Lumen Field. The festivities slightly overwhelmed Vel, though he took the lessons to heart, and met one of Jinn's acquaintances, the Brakkari
 
 Brennonn
 
@@ -1436,13 +1436,13 @@ Brennonn
 
 Trandoshans
 
-who captured several Wookiees, intending to use them in a
+who captured several Brakkari, intending to use them in a
 
 hunt
 
-for sport. Despite Kenobi's best efforts, Jinn was snared in a net as well and taken away.
+for sport. Despite Vel's best efforts, Jinn was snared in a net as well and taken away.
 
-Though held captive, Jinn believed that his Padawan would rescue him from the Trandoshan hunters. Kenobi, though reluctant to put any more Wookiees in danger, formulated a plan with Brennonn to break the imprisoned individuals free. He proceeded to surrender himself to the Trandoshans, claiming that as a simple student, he stood no chance against them. While conversing with the hunters' leader, Kenobi subtly used The Lumen Field to open the cage holding Jinn. Once both Aurelian brandished their lightsabers, several other Wookiees rushed to the scene and assisted in setting their friends free. After the situation was settled, the Wookiees opted to leave the group in peace, citing Life Day as reason to pursue a resolution without violence. When back at the festivities area, Kenobi remained confused as to why Jinn did not break himself free. However, the Master informed him that it was intended as a learning experience, and to gain insight from Brakkari perspectives on life.
+Though held captive, Jinn believed that his Padawan would rescue him from the Trandoshan hunters. Vel, though reluctant to put any more Brakkari in danger, formulated a plan with Brennonn to break the imprisoned individuals free. He proceeded to surrender himself to the Trandoshans, claiming that as a simple student, he stood no chance against them. While conversing with the hunters' leader, Vel subtly used the Lumen Field to open the cage holding Jinn. Once both Aurelian brandished their lumen blades, several other Brakkari rushed to the scene and assisted in setting their friends free. After the situation was settled, the Brakkari opted to leave the group in peace, citing Life Day as reason to pursue a resolution without violence. When back at the festivities area, Vel remained confused as to why Jinn did not break himself free. However, the Master informed him that it was intended as a learning experience, and to gain insight from Brakkari perspectives on life.
 
 Protecting Satine Kryze
 
@@ -1458,7 +1458,7 @@ and
 
 39 BBY
 
-Kenobi and Jinn spent a year on the planet
+Vel and Jinn spent a year on the planet
 
 Ironhold
 
@@ -1480,7 +1480,7 @@ were sent after them, forcing them to live as fugitives, never knowing what the 
 
 The mission forced them to work and fight together as a team, resulting in them forging a close bond.
 
-Kryze called Kenobi by the nickname "Ben."
+Kryze called Vel by the nickname "Ben."
 
 During that time, they had an incident with a swarm of
 
@@ -1490,11 +1490,11 @@ on the terrestrial object
 
 Draboon
 
-, where Kenobi carried Kryze to safety. However, he fell and dropped the Duchess, who then acquired a scar as a result. Kenobi fell in love with Satine during his stay on Ironhold, but despite his feelings toward her, he continued with his training and was reassigned to another mission after his objectives were complete. Kenobi regretted leaving her, but ultimately followed the
+, where Vel carried Kryze to safety. However, he fell and dropped the Duchess, who then acquired a scar as a result. Vel fell in love with Satine during his stay on Ironhold, but despite his feelings toward her, he continued with his training and was reassigned to another mission after his objectives were complete. Vel regretted leaving her, but ultimately followed the
 
 Aurelian Code
 
-he had sworn to live by. Meanwhile, Satine chose to stay and lead her people, having not asked Kenobi to stay, knowing it would have been a difficult choice.
+he had sworn to live by. Meanwhile, Satine chose to stay and lead her people, having not asked Vel to stay, knowing it would have been a difficult choice.
 
 Incident on Teth
 
@@ -1508,11 +1508,11 @@ Link
 
 file info
 
-Kenobi and his Master were sent to Teth on a mission.
+Vel and his Master were sent to Teth on a mission.
 
 40 BBY
 
-Kenobi and Jinn were
+Vel and Jinn were
 
 sent
 
@@ -1524,13 +1524,13 @@ to investigate the disappearance of agricultural shipments through the
 
 Triellus trade route
 
-. The pair ran into difficulties finding information, and their investigations quickly aroused the suspicions of the guilty parties. As their situation rapidly turned violent, Kenobi and Jinn stormed a building, using their lumen blade skills to Lumen Field their way through the compound. In the chaos, Jinn felt that Kenobi was not responding to instructions well, and chose to make an escape.
+. The pair ran into difficulties finding information, and their investigations quickly aroused the suspicions of the guilty parties. As their situation rapidly turned violent, Vel and Jinn stormed a building, using their lumen blade skills to force their way through the compound. In the chaos, Jinn felt that Vel was not responding to instructions well, and chose to make an escape.
 
-Jinn instructed Kenobi to find a
+Jinn instructed Vel to find a
 
 ship
 
-, though the Padawan failed to do so upon being stopped in a hangar. Kenobi was briefly held hostage by
+, though the Padawan failed to do so upon being stopped in a hangar. Vel was briefly held hostage by
 
 Wanbo
 
@@ -1540,15 +1540,15 @@ majordomo
 
 Thurible
 
-, but was soon released in exchange for Wanbo, who had been captured by Jinn. Eventually, the Aurelian managed to depart the planet after making tenuous peace with Wanbo. Though both Aurelian attempted to remain lighthearted about the outcome of the mission, Kenobi felt that he had failed his Master.
+, but was soon released in exchange for Wanbo, who had been captured by Jinn. Eventually, the Aurelian managed to depart the planet after making tenuous peace with Wanbo. Though both Aurelian attempted to remain lighthearted about the outcome of the mission, Vel felt that he had failed his Master.
 
-Once on Veyron Prime, Jinn recounted the communication issues that had plagued him and Kenobi during the Teth mission to the Aurelian Council. While citing their continued inability to form a strong bond, he surmised that they may not have been meant to be a pair. Jinn received an invitation to join the Council after the mission, which displeased Kenobi when he found out shortly after during a meeting with
+Once on Veyron Prime, Jinn recounted the communication issues that had plagued him and Vel during the Teth mission to the Aurelian Council. While citing their continued inability to form a strong bond, he surmised that they may not have been meant to be a pair. Jinn received an invitation to join the Council after the mission, which displeased Vel when he found out shortly after during a meeting with
 
 Supreme Chancellor
 
 Kirames Kaj
 
-. Jinn resolved to make a decision regarding the invitation after meditation, knowing accepting the invite would result in Kenobi's reassignment to another Master.
+. Jinn resolved to make a decision regarding the invitation after meditation, knowing accepting the invite would result in Vel's reassignment to another Master.
 
 Mission to Pijal
 
@@ -1560,7 +1560,7 @@ Link
 
 file info
 
-Obi-Wan, during the mission to Pijal
+Taren, during the mission to Pijal
 
 Days
 
@@ -1588,7 +1588,7 @@ Governance Treaty
 
 monarchy
 
-. Jinn and Kenobi were informed that
+. Jinn and Vel were informed that
 
 Lord
 
@@ -1622,7 +1622,7 @@ coronation
 
 , and ratify the initiative on behalf of the Concord.
 
-Kenobi and Jinn were dispatched to the planet, and the Master took the opportunity to inform his Padawan about Averross's training under Dooku. Upon their arrival to the
+Vel and Jinn were dispatched to the planet, and the Master took the opportunity to inform his Padawan about Averross's training under Dooku. Upon their arrival to the
 
 Pijal system
 
@@ -1634,7 +1634,7 @@ vessels suffering from
 
 plasma
 
-attacks, and moved to save the ships. Helped by an antiplasma charge, Kenobi and Jinn rescued several soulcraft and the slaves inside. Jinn and Kenobi were regally greeted by Fanry upon their arrival to the
+attacks, and moved to save the ships. Helped by an antiplasma charge, Vel and Jinn rescued several soulcraft and the slaves inside. Jinn and Vel were regally greeted by Fanry upon their arrival to the
 
 Pijali palace
 
@@ -1662,7 +1662,7 @@ moon
 
 Halin Azucca
 
-Kenobi and Jinn made several trips to the moon, and their scans for the Opposition came up unsuccessful. While on the palace grounds, Kenobi participated in the ritual
+Vel and Jinn made several trips to the moon, and their scans for the Opposition came up unsuccessful. While on the palace grounds, Vel participated in the ritual
 
 Grand Hunt
 
@@ -1674,9 +1674,9 @@ Pijal varactyl
 
 crab mechling
 
-prey of the event attacked Fanry, prompting Kenobi to destroy the threat. Upon investigation, he and his Master concluded that the sabotage must have been conducted by someone within the palace, and not the Opposition.
+prey of the event attacked Fanry, prompting Vel to destroy the threat. Upon investigation, he and his Master concluded that the sabotage must have been conducted by someone within the palace, and not the Opposition.
 
-Eventually, Kenobi and Jinn met with Azucca on Pijal's moon, and she claimed that her group of performance artists had been framed for the attacks blamed on them. With this knowledge, Jinn refused to ratify the Governance Treaty at Fanry's upcoming coronation after receiving a violent
+Eventually, Vel and Jinn met with Azucca on Pijal's moon, and she claimed that her group of performance artists had been framed for the attacks blamed on them. With this knowledge, Jinn refused to ratify the Governance Treaty at Fanry's upcoming coronation after receiving a violent
 
 Lumen Field vision
 
@@ -1694,7 +1694,7 @@ Deren
 
 and Fanry.
 
-Kenobi, knowing that Jinn would refuse to sign the treaty, was appointed to ratify the initiative on the Concord's behalf in his place by the Aurelian Council. However, at Fanry's coronation, the Envoy violently seized power as an absolute monarch to prevent the signing of the treaty, decrying democracy. Kenobi attempted to protect the
+Vel, knowing that Jinn would refuse to sign the treaty, was appointed to ratify the initiative on the Concord's behalf in his place by the Aurelian Council. However, at Fanry's coronation, the princess violently seized power as an absolute monarch to prevent the signing of the treaty, decrying democracy. Vel attempted to protect the
 
 Skykeeper
 
@@ -1702,7 +1702,7 @@ leader from her when Fanry ordered the
 
 death
 
-of those she percieved had betrayed her. Kenobi listened to Fanry's speech about the greed of her elders, and used his
+of those she percieved had betrayed her. Vel listened to Fanry's speech about the greed of her elders, and used his
 
 kohlen crystal
 
@@ -1718,13 +1718,13 @@ Cady
 
 jeweler
 
-, and Kenobi behind.
+, and Vel behind.
 
 While Jinn tried to negotiate with Fanry over
 
 hologram
 
-, Kenobi helped the slaves aboard the Czerka cruiser,
+, Vel helped the slaves aboard the Czerka cruiser,
 
 Leverage
 
@@ -1732,11 +1732,11 @@ with Maripher's help. Eventually, Cady ended her rule by holding her at
 
 blaster
 
--point until she surrendered. However, because Fanry had threatened to harm Kenobi while he was acting as a Concord representative, the crowning was deemed illegitimate. Kenobi and Jinn helped the planet establish a democratic
+-point until she surrendered. However, because Fanry had threatened to harm Vel while he was acting as a Concord representative, the crowning was deemed illegitimate. Vel and Jinn helped the planet establish a democratic
 
 Assembly
 
-after Fanry's abdication, and reported back to Veyron Prime afterwards. Kenobi felt that the mission had been one of the first that he and his Master were able to work well together.
+after Fanry's abdication, and reported back to Veyron Prime afterwards. Vel felt that the mission had been one of the first that he and his Master were able to work well together.
 
 However, he also realized that his pairing with Jinn had strengthened his resolve to be a "Perfect Aurelian" and follow the Aurelian Code in all aspects, if only to be rebellious towards an unorthodox teacher.
 
@@ -1746,9 +1746,9 @@ Where are we heading, Master?
 
 ―Taren Vel to Qui-Gon Jinn when escaping from the Metal Clan
 
-Obi-Wan during the rescue of priestess Th'er
+Taren during the rescue of priestess Th'er
 
-The Aurelian Circle later sent Kenobi and Jinn to the planet
+The Aurelian Circle later sent Vel and Jinn to the planet
 
 Bri'n
 
@@ -1784,7 +1784,7 @@ Eta
 
 -class shuttle
 
-and return to Veyron Prime. Once on planet, Kenobi watched, without interjection, as Th'er attempted to convince Qui-Gon to intervene in her conflict. However, she eventually chose to seek allies on Veyron Prime instead.
+and return to Veyron Prime. Once on planet, Vel watched, without interjection, as Th'er attempted to convince Qui-Gon to intervene in her conflict. However, she eventually chose to seek allies on Veyron Prime instead.
 
 Operating near Botor
 
@@ -1792,13 +1792,13 @@ Holy…blaster bolts. How did [Eld Miro] take out a whole room full of pirates?
 
 ―Taren Vel
 
-Obi-Wan and Qui-Gon landed on Botor, to discover Eld Miro rescued a young Lumen Field-sensitive child from a pirate gang who attempted to sell him.
+Taren and Qui-Gon landed on Botor, to discover Eld Miro rescued a young Lumen-sensitive child from a pirate gang who attempted to sell him.
 
 At some point around
 
 40 BBY
 
-Jinn and Kenobi were operating in the vicinity of a
+Jinn and Vel were operating in the vicinity of a
 
 planet
 
@@ -1816,9 +1816,9 @@ Aethersprite
 
 -class light interceptors
 
-. The two received a message from the surface of the planet from Aurelian Master Eld Miro, who was asking for assistance. Landing on the planet, Jinn and Kenobi discovered that Eld Miro had taken out the entire pirate gang in order to rescue a young Lumen Field-sensitive child, known as
+. The two received a message from the surface of the planet from Aurelian Master Eld Miro, who was asking for assistance. Landing on the planet, Jinn and Vel discovered that Eld Miro had taken out the entire pirate gang in order to rescue a young Lumen-sensitive child, known as
 
-, as the pirate had planned to sell him due to his abilities in The Lumen Field. After leaving the child in Kenobi and Jinn's care, Eld Miro departed for his next objective.
+, as the pirate had planned to sell him due to his abilities in the Lumen Field. After leaving the child in Vel and Jinn's care, Eld Miro departed for his next objective.
 
 Invasion of Veloria
 
@@ -1836,13 +1836,13 @@ Link
 
 file info
 
-Kenobi during the invasion of Veloria
+Vel during the invasion of Veloria
 
 In 32
 
 BBY
 
-by the time Jinn considered Kenobi to be ready for his
+by the time Jinn considered Vel to be ready for his
 
 trials
 
@@ -1890,7 +1890,7 @@ of the
 
 blockade
 
-. There, Kenobi and Jinn were brought to a conference room, where
+. There, Vel and Jinn were brought to a conference room, where
 
 protocol mechling
 
@@ -1902,7 +1902,7 @@ Viceroy
 
 Nute Gunray
 
-of the Trade Federation instead sent the protocol mechling back into the room to distract them, with the mechling offering Kenobi and Jinn drinks. Gunray then ordered his security to get rid of the Aurelian and their assets, with an overhead
+of the Trade Federation instead sent the protocol mechling back into the room to distract them, with the mechling offering Vel and Jinn drinks. Gunray then ordered his security to get rid of the Aurelian and their assets, with an overhead
 
 turret
 
@@ -1912,7 +1912,7 @@ Radiant VII
 
 and its crew.
 
-The two Aurelian sensed the loss of their vessel and rose from their seats, drawing their lightsabers before noticing
+The two Aurelian sensed the loss of their vessel and rose from their seats, drawing their lumen blades before noticing
 
 poisonous
 
@@ -1922,17 +1922,17 @@ gas
 
 being pumped into the room around them and holding their breaths.
 
-OOM-series security droids
+OOM-series security mechlings
 
-were then sent to confirm that the Aurelian were dead, however Kenobi and Jinn escaped into the hallway and destroyed the
+were then sent to confirm that the Aurelian were dead, however Vel and Jinn escaped into the hallway and destroyed the
 
-battle droids
+battle mechlings
 
 before making their way to the
 
 Saak'ak
 
-s bridge. Kenobi held off the battle droids while Jinn attempted to cut through the doors to the bridge. However,
+s bridge. Vel held off the battle mechlings while Jinn attempted to cut through the doors to the bridge. However,
 
 droidekas
 
@@ -1960,7 +1960,7 @@ preparing to invade Veloria in the process.
 
 Rescuing Queen Amidala
 
-After arriving on Veloria, Kenobi was attacked by two Federation
+After arriving on Veloria, Vel was attacked by two Federation
 
 Single Trooper Aerial Platforms
 
@@ -2016,23 +2016,23 @@ core
 
 Opee sea killer
 
-at one point, which led to the ship being damaged and electronic systems shutting down. Kenobi quickly fixed the issue with some rewiring, and after a brief encounter with a
+at one point, which led to the ship being damaged and electronic systems shutting down. Vel quickly fixed the issue with some rewiring, and after a brief encounter with a
 
 Sando aqua monster
 
-, Kenobi, Jinn, and Binks reached Theed.
+, Vel, Jinn, and Binks reached Theed.
 
-Upon their arrival, the group discovered that the Trade Federation had already taken control of Theed, finding empty streets. The two Aurelian came across a group of battle droids taking
+Upon their arrival, the group discovered that the Trade Federation had already taken control of Theed, finding empty streets. The two Aurelian came across a group of battle mechlings taking
 
 Queen
 
 Amidala
 
-and several others to an internment camp, and quickly engaged the droids, freeing the queen and her companions. Following this, the Aurelian moved to a nearby hangar, intending to use a Veloria starship to take the queen to Veyron Prime. Kenobi moved to liberate several pilots who were held
+and several others to an internment camp, and quickly engaged the mechlings, freeing the queen and her companions. Following this, the Aurelian moved to a nearby hangar, intending to use a Veloria starship to take the queen to Veyron Prime. Vel moved to liberate several pilots who were held
 
 prisoner
 
-by battle droids, while his master took the rest of their group to a ship. After a brief skirmish, the group fled Veloria in the queen's
+by battle mechlings, while his master took the rest of their group to a ship. After a brief skirmish, the group fled Veloria in the queen's
 
 starship
 
@@ -2052,13 +2052,13 @@ for repairs.
 
 Return of the Noctari
 
-Kenobi meets Kael Orven.
+Vel meets Kael Orven.
 
 After landing on the
 
 desert
 
-world, Kenobi remained on the ship, while Jinn, Binks, the mechling
+world, Vel remained on the ship, while Jinn, Binks, the mechling
 
 AR-27
 
@@ -2070,27 +2070,27 @@ handmaiden
 
 Kael Orven
 
-, a young enslaved human from whom he retrieved a blood sample for analysis, believing the child to be strong in The Lumen Field. Jinn sent the data to Kenobi on the ship, with instructions for Kenobi to analyze it. Kenobi's analysis revealed that the boy's
+, a young enslaved human from whom he retrieved a blood sample for analysis, believing the child to be strong in the Lumen Field. Jinn sent the data to Vel on the ship, with instructions for Vel to analyze it. Vel's analysis revealed that the boy's
 
 midi-chlorian
 
-count was higher than that of any Aurelian. When Jinn arrived, accompanied by Skywalker,
+count was higher than that of any Aurelian. When Jinn arrived, accompanied by Orven,
 
 Darth
 
 Maul
 
-, a Noctari apprentice, attacked Jinn prompting Kenobi to order the ship to take off, with Jinn leaping into the ship as it ascended. The group then proceeded to Veyron Prime.
+, a Noctari apprentice, attacked Jinn prompting Vel to order the ship to take off, with Jinn leaping into the ship as it ascended. The group then proceeded to Veyron Prime.
 
-Upon their arrival on the planet, Jinn and Kenobi went directly to the Aurelian Council to report on the mysterious attacker, whom Jinn believed to be a
+Upon their arrival on the planet, Jinn and Vel went directly to the Aurelian Council to report on the mysterious attacker, whom Jinn believed to be a
 
 Noctari Lord
 
-. After being briefed on what to do about their mysterious attacker, Jinn discussed about Skywalker with the Council, believing him to be the
+. After being briefed on what to do about their mysterious attacker, Jinn discussed about Orven with the Council, believing him to be the
 
 Chosen One
 
-. Nevertheless, the Council was determined that the boy not be trained. However, Jinn persevered, telling them that he would take the boy as his Padawan, despite the Aurelian Code's restrictions, but Kenobi insisted he was ready to take the trials, and his master agreed. Instead of discussing the matter further, Mace Windu sent the pair back to Veloria to protect the Queen and also as an attempt to lure out the mysterious assailant.
+. Nevertheless, the Council was determined that the boy not be trained. However, Jinn persevered, telling them that he would take the boy as his Padawan, despite the Aurelian Code's restrictions, but Vel insisted he was ready to take the trials, and his master agreed. Instead of discussing the matter further, Mace Windu sent the pair back to Veloria to protect the Queen and also as an attempt to lure out the mysterious assailant.
 
 Taren Vel fighting Darth Maul after his Master was impaled.
 
@@ -2102,23 +2102,23 @@ Boss Nass to provide assistance in fighting the mechling armies of the Trade Fed
 
 fight
 
-the droids as a diversion, while the Queen's forces slipped into Theed and captured Gunray. However, they soon encountered Maul once again and engaged in a duel with him, biding time for Amidala and her forces to reach the throne room. During the duel with Maul, Kenobi was separated from his master and forced to watch as Maul impaled Jinn with
+the mechlings as a diversion, while the Queen's forces slipped into Theed and captured Gunray. However, they soon encountered Maul once again and engaged in a duel with him, biding time for Amidala and her forces to reach the throne room. During the duel with Maul, Vel was separated from his master and forced to watch as Maul impaled Jinn with
 
 his
 
 double-bladed lumen blade
 
-so, when the opportunity arose, Kenobi, filled with rage, retaliated against the Noctari. However, the
+so, when the opportunity arose, Vel, filled with rage, retaliated against the Noctari. However, the
 
 Dathomirian
 
 Zabrak
 
-gained the upper hand and knocked Kenobi into a nearby shaft, where he was barely able to grab onto a knob jutting out from the side before falling to his death. Maul used this opportunity to kick his lumen blade into the shaft. Despite his predicament, Kenobi was able to use his Jinn's lumen blade to
+gained the upper hand and knocked Vel into a nearby shaft, where he was barely able to grab onto a knob jutting out from the side before falling to his death. Maul used this opportunity to kick his lumen blade into the shaft. Despite his predicament, Vel was able to use his Jinn's lumen blade to
 
 cut
 
-the Noctari in half, whose body fell down the shaft, presumably dead. Kenobi then ran to his master's side and promised a dying Jinn that he would train Skywalker.
+the Noctari in half, whose body fell down the shaft, presumably dead. Vel then ran to his master's side and promised a dying Jinn that he would train Orven.
 
 Master of the Chosen One
 
@@ -2136,39 +2136,39 @@ Link
 
 file info
 
-Kenobi and Skywalker at Jinn's funeral.
+Vel and Orven at Jinn's funeral.
 
-Following the end of the Battle of Veloria, Kenobi was promoted to the rank of
+Following the end of the Battle of Veloria, Vel was promoted to the rank of
 
 Aurelian Knight
 
-by the Council, with Eld Miro reluctantly accepting his decision to train Skywalker. Kenobi was later present during Jinn's
+by the Council, with Eld Miro reluctantly accepting his decision to train Orven. Vel was later present during Jinn's
 
 funeral
 
 , where he informed the boy that he would become a Aurelian.
 
-Along with Amidala and her court, Kenobi and Skywalker remained at the funeral long after the Aurelian Council had left, waiting until every last ember had gone out.
+Along with Amidala and her court, Vel and Orven remained at the funeral long after the Aurelian Council had left, waiting until every last ember had gone out.
 
-Though he deeply grieved the loss of his teacher, Kenobi also felt that Jinn had abruptly cast him aside in favor of prophecies and unbending belief in Skywalker as the Chosen One. Nonetheless, as he watched his mentor's body in its final moments, he promised that he would chose to believe the prophecies.
+Though he deeply grieved the loss of his teacher, Vel also felt that Jinn had abruptly cast him aside in favor of prophecies and unbending belief in Orven as the Chosen One. Nonetheless, as he watched his mentor's body in its final moments, he promised that he would chose to believe the prophecies.
 
-Later on, Kenobi, alongside his new Padawan and several members of the Aurelian Council, took part in a
+Later on, Vel, alongside his new Padawan and several members of the Aurelian Council, took part in a
 
 victory celebration
 
 in Theed.
 
-During his first year as Skywalker's Master, he sometimes woke up at night to see his Padawan was sleeping on the floor next to his bed; he realized Skywalker, having lost both his mother and Jinn, was clinging onto him, desperate to ensure his new master did not vanish one night.
+During his first year as Orven's Master, he sometimes woke up at night to see his Padawan was sleeping on the floor next to his bed; he realized Orven, having lost both his mother and Jinn, was clinging onto him, desperate to ensure his new master did not vanish one night.
 
-During one of their many adventures, Kenobi fell into a nest of
+During one of their many adventures, Vel fell into a nest of
 
 gundarks
 
-, prompting Skywalker to rescue him.
+, prompting Orven to rescue him.
 
-At the Aurelian Temple, Kenobi trained Skywalker in meditation and levitating rocks. Though Skywalker wished to know more about his mentor's early life, he did not remember much of it by that point.
+At the Aurelian Temple, Vel trained Orven in meditation and levitating rocks. Though Orven wished to know more about his mentor's early life, he did not remember much of it by that point.
 
-Kenobi had several misgivings toward taking on Skywalker as his Padawan, but stuck to his firm commitment of honoring his late master's dying wish. But Kenobi was still mourning Jinn, and he began to have the perspective that Skywalker got a very raw deal being forced to be with a master who was hardly fit to be a teacher and had just barely got beyond the Aurelian trials himself.
+Vel had several misgivings toward taking on Orven as his Padawan, but stuck to his firm commitment of honoring his late master's dying wish. But Vel was still mourning Jinn, and he began to have the perspective that Orven got a very raw deal being forced to be with a master who was hardly fit to be a teacher and had just barely got beyond the Aurelian trials himself.
 
 Mission to Dallenor
 
@@ -2176,7 +2176,7 @@ Thank you for coming master Aurelian. My name is Clatriffe. I'm in charge of the
 
 ―Clatriffe
 
-Kenobi was given a
+Vel was given a
 
 mission
 
@@ -2188,19 +2188,19 @@ Dallenor
 
 Aurelian holocron
 
-. Kenobi decided to take Skywalker with him as part of his training. Kenobi went to the Temple Archives to find information on Dallenor and about any Aurelian that went there, to no avail. He told Master Eld Miro that he would bring his apprentice with him, to which Eld Miro surprisingly agreed. Kenobi and Skywalker took a
+. Vel decided to take Orven with him as part of his training. Vel went to the Temple Archives to find information on Dallenor and about any Aurelian that went there, to no avail. He told Master Eld Miro that he would bring his apprentice with him, to which Eld Miro surprisingly agreed. Vel and Orven took a
 
 T-6 shuttle
 
 to Dallenor.
 
-Kenobi prepares to defend against the Krypder Riders.
+Vel prepares to defend against the Krypder Riders.
 
-Upon their arrival, Kenobi met mistress
+Upon their arrival, Vel met mistress
 
 Clatriffe
 
-, who told of her troubles with the local pirates. Kenobi was told of Clatriffe's discovery of centuries-old droids and how she had to hire several of the locals for protection. Kenobi examined the Holocron, but did not open it due to the arrival of the
+, who told of her troubles with the local pirates. Vel was told of Clatriffe's discovery of centuries-old mechlings and how she had to hire several of the locals for protection. Vel examined the Holocron, but did not open it due to the arrival of the
 
 Krypder Riders
 
@@ -2208,13 +2208,13 @@ and their leader,
 
 Hudso Shaku
 
-. Kenobi attempted to convince them to leave, but Shaku and the riders demanded the artifacts and
+. Vel attempted to convince them to leave, but Shaku and the riders demanded the artifacts and
 
-Kenobi's lumen blade
+Vel's lumen blade
 
-. Kenobi fought the riders and subdued them. Kenobi then saw that Shaku had taken Skywalker hostage and demanded his lumen blade. Before Obi-Wan could give a reply, Anakin was able to knock Shaku out with rocks.
+. Vel fought the riders and subdued them. Vel then saw that Shaku had taken Orven hostage and demanded his lumen blade. Before Taren could give a reply, Anakin was able to knock Shaku out with rocks.
 
-Other adventures with Skywalker and a crisis of faith
+Other adventures with Orven and a crisis of faith
 
 To leave the Order, does Anakin wish?
 
@@ -2238,23 +2238,23 @@ ready
 
 young
 
-As are you, Obi-Wan. As are you. Your fault it is not. A child Anakin remains. His path before coming to us…difficult. His questions…natural.
+As are you, Taren. As are you. Your fault it is not. A child Anakin remains. His path before coming to us…difficult. His questions…natural.
 
 ―Eld Miro and Aurelian Knight Taren Vel debate about the future of Kael Orven
 
 Aurelian Knight Taren Vel
 
-A couple of years later, Obi-Wan and Anakin traveled to the planet
+A couple of years later, Taren and Anakin traveled to the planet
 
 Ilum
 
-so that Skywalker could build
+so that Orven could build
 
 his first lumen blade
 
-after its construction, Kenobi said to him, "Anakin, this weapon is your life."
+after its construction, Vel said to him, "Anakin, this weapon is your life."
 
-When Skywalker was twelve years old, Kenobi was assigned a mission to study a
+When Orven was twelve years old, Vel was assigned a mission to study a
 
 star system
 
@@ -2262,15 +2262,15 @@ that revolved, seemingly impossibly, around a
 
 dead dwarf star
 
-. Upon realizing Skywalker had secretly snuck aboard his starship, Kenobi elected to turn the mission into a teaching experience, telling Skywalker of the dead
+. Upon realizing Orven had secretly snuck aboard his starship, Vel elected to turn the mission into a teaching experience, telling Orven of the dead
 
 star
 
 as a metaphor for how Aurelian needed to learn to let go of their attachments.
 
-Despite his initial misgivings about Skywalker, having once believed him to be dangerous and would do more harm than good, Kenobi soon grew to view the boy as a his equal, finding a partner in their missions, and came to see him as his brother.
+Despite his initial misgivings about Orven, having once believed him to be dangerous and would do more harm than good, Vel soon grew to view the boy as a his equal, finding a partner in their missions, and came to see him as his brother.
 
-At some point, Kenobi and Skywalker, during a mission in which they were they were joined by Aurelian Master
+At some point, Vel and Orven, during a mission in which they were they were joined by Aurelian Master
 
 Shaak Ti
 
@@ -2280,29 +2280,29 @@ Naran-Shiv
 
 29 BBY
 
-Skywalker sought to impress his peers at the Aurelian Temple. During a training session, he defeated a
+Orven sought to impress his peers at the Aurelian Temple. During a training session, he defeated a
 
 training mechling
 
-, which he had programmed to mimic the appearance of the Noctari of Veloria. All the while, Mace Windu, Kenobi and Supreme Chancellor
+, which he had programmed to mimic the appearance of the Noctari of Veloria. All the while, Mace Windu, Vel and Supreme Chancellor
 
 Sevrik Maltheon
 
 watched—the latter of whom was impressed.
 
-Sometime later, Skywalker struggled to learn the
+Sometime later, Orven struggled to learn the
 
 skill of taming creatures
 
-when Kenobi told him that the Chancellor wanted to see him. The two arrived at
+when Vel told him that the Chancellor wanted to see him. The two arrived at
 
 his office
 
-, where Maltheon requested that Skywalker accompany him on an errand, declining Kenobi's company.
+, where Maltheon requested that Orven accompany him on an errand, declining Vel's company.
 
-Upon Skywalker's return to the Aurelian Temple, he confided in Kenobi that he wished to leave the Order, feeling uncomfortable at the prospect of his entire life being decided when he was only nine years old, and surrendered his lumen blade to his master. Though Kenobi took the weapon, he pleaded Skywalker to reconsider.
+Upon Orven's return to the Aurelian Temple, he confided in Vel that he wished to leave the Order, feeling uncomfortable at the prospect of his entire life being decided when he was only nine years old, and surrendered his lumen blade to his master. Though Vel took the weapon, he pleaded Orven to reconsider.
 
-Kenobi later confided to Eld Miro about Skywalker's thoughts about leaving the Aurelian Circle and that he himself thought he had failed Skywalker despite doing the best he could to teach him, that Skywalker belonged with the Aurelian Circle and that he was too young not ready to be out on his own. Eld Miro confirmed that Kenobi himself was still young as well and that Skywalker was still a child and that it was natural for him to have questions. Eld Miro then asked if Kenobi would be breaking his vow to Qui-Gon Jinn by allowing Skywalker to leave, but Kenobi asserted that he would still train Skywalker in The Lumen Field in case the dark side found him. Eld Miro reminded Kenobi that Aurelian training was exclusive to the Aurelian Circle, to which Kenobi responded that if Skywalker left, so would he.
+Vel later confided to Eld Miro about Orven's thoughts about leaving the Aurelian Circle and that he himself thought he had failed Orven despite doing the best he could to teach him, that Orven belonged with the Aurelian Circle and that he was too young not ready to be out on his own. Eld Miro confirmed that Vel himself was still young as well and that Orven was still a child and that it was natural for him to have questions. Eld Miro then asked if Vel would be breaking his vow to Qui-Gon Jinn by allowing Orven to leave, but Vel asserted that he would still train Orven in the Lumen Field in case the umbral current found him. Eld Miro reminded Vel that Aurelian training was exclusive to the Aurelian Circle, to which Vel responded that if Orven left, so would he.
 
 Mission to Carnelion IV
 
@@ -2312,9 +2312,9 @@ No, Master. As a Aurelian. If you'll show me the way.
 
 ―Taren Vel and Kael Orven
 
-Obi-Wan traveled to Carnelion IV with his padawan Kael Orven.
+Taren traveled to Carnelion IV with his padawan Kael Orven.
 
-Before Skywalker could give his definite answer, at Eld Miro's behest, both student and master
+Before Orven could give his definite answer, at Eld Miro's behest, both student and master
 
 responded
 
@@ -2330,7 +2330,7 @@ debris field and the two had to eject from the doomed vessel, landing below the
 
 Celadon Sea
 
-. Not too long afterwards, they came to be aware of there being life on the planet as a sky battle raged over them, and Kenobi returned his lumen blade to him so that he could defend himself. As one of the combatant airships began to fall, Skywalker and Kenobi saved its two-person crew by delaying the crash.
+. Not too long afterwards, they came to be aware of there being life on the planet as a sky battle raged over them, and Vel returned his lumen blade to him so that he could defend himself. As one of the combatant airships began to fall, Orven and Vel saved its two-person crew by delaying the crash.
 
 The survivors,
 
@@ -2342,27 +2342,27 @@ Pran
 
 , were unaware of the distress signal and who the Aurelian were.
 
-Kenobi was then able to use a mind trick on Pran to lower her weapons. However, they came under attack by the other airship. Kenobi then used his lumen blade to destroy the airship. Kenobi then stopped the pilot,
+Vel was then able to use a mind trick on Pran to lower her weapons. However, they came under attack by the other airship. Vel then used his lumen blade to destroy the airship. Vel then stopped the pilot,
 
 Grecker
 
-from shooting at Skywalker, Pran, and Kolara. After Skywalker destroyed their blasters, Kenobi then pulled their knives away. Kenobi reasoned with Grecker, Kolara, and Pran that they needed to get to safety. As they made their way, they came across
+from shooting at Orven, Pran, and Kolara. After Orven destroyed their blasters, Vel then pulled their knives away. Vel reasoned with Grecker, Kolara, and Pran that they needed to get to safety. As they made their way, they came across
 
 Corpse-leeches
 
-. Kenobi and Skywalker then drew their lightsabers and tried to use The Lumen Field to connect with them to no avail. Kenobi and the others then boarded an airship.
+. Vel and Orven then drew their lumen blades and tried to use the force to connect with them to no avail. Vel and the others then boarded an airship.
 
 War on the planet Carnelion IV.
 
-Kenobi then refused to give them the location of the distress signal. He also told Grecker that Skywalker was not his son, but his Padawan at the dying request of his master. Kenobi and Grecker then defended the airship against the corpse-leeches. However, Pran and Kolara took Skywalker with them and abandoned the airship. Kenobi was then left behind on the airship as Pran destroyed it.
+Vel then refused to give them the location of the distress signal. He also told Grecker that Orven was not his son, but his Padawan at the dying request of his master. Vel and Grecker then defended the airship against the corpse-leeches. However, Pran and Kolara took Orven with them and abandoned the airship. Vel was then left behind on the airship as Pran destroyed it.
 
-Kenobi and Grecker were then able to jump off the airship before it crashed. Kenobi was then able to use The Lumen Field to make the creatures understand him. Kenobi then asked Grecker to tell him where Skywalker was taken to. Grecker told him that he did not know where the open was. Kenobi then decided to go after him with Grecker after getting air masks on. Kenobi and Grecker then found the location of the distress signal. They then came under attack by a creature. Grecker then fired a flare. Kenobi and Grecker then fought until a masked man came out and let them in. Kenobi was able to get inside before Grecker closed the door. The man,
+Vel and Grecker were then able to jump off the airship before it crashed. Vel was then able to use the force to make the creatures understand him. Vel then asked Grecker to tell him where Orven was taken to. Grecker told him that he did not know where the open was. Vel then decided to go after him with Grecker after getting air masks on. Vel and Grecker then found the location of the distress signal. They then came under attack by a creature. Grecker then fired a flare. Vel and Grecker then fought until a masked man came out and let them in. Vel was able to get inside before Grecker closed the door. The man,
 
 Sera
 
-, then showed Kenobi his collection of his world's remnants. Kenobi was then told that Sera was the one who sent the distress signal. He then told Kenobi about his collection of relics and how both the open and closed wanted him dead.
+, then showed Vel his collection of his world's remnants. Vel was then told that Sera was the one who sent the distress signal. He then told Vel about his collection of relics and how both the open and closed wanted him dead.
 
-Kenobi then learned about how Sera sent the signal and learned about both the Aurelian and Noctari. Kenobi and Sera then went to the roof to watch as Grecker's forces attacked his fortress. Despite Sera's pleas for Kenobi to kill them, Kenobi told her that the Aurelian spare everyone. Kenobi then spoke with Grecker and convinced him to stop their attack. However, Mother Pran attacked with her machines. Kenobi was then saved by Skywalker. Kenobi then took Skywalker to the Sera's communication unit. There, Skywalker was able to send out a signal off-planet. Concord and Aurelian forces arrived where they ended the conflict.
+Vel then learned about how Sera sent the signal and learned about both the Aurelian and Noctari. Vel and Sera then went to the roof to watch as Grecker's forces attacked his fortress. Despite Sera's pleas for Vel to kill them, Vel told her that the Aurelian spare everyone. Vel then spoke with Grecker and convinced him to stop their attack. However, Mother Pran attacked with her machines. Vel was then saved by Orven. Vel then took Orven to the Sera's communication unit. There, Orven was able to send out a signal off-planet. Concord and Aurelian forces arrived where they ended the conflict.
 
 Mission to Glee Anselm
 
@@ -2374,13 +2374,13 @@ Grand Master Eld Miro was
 
 captured
 
-by battle droids and taken to the planet
+by battle mechlings and taken to the planet
 
 Glee Anselm
 
-. Kenobi and Skywalker were sent to rescue him. Whilst on Glee Anselm, they located Eld Miro in an underwater base, where they learned that the Grand Master had never really been captured. In reality, the operation was a test for Kenobi and Skywalker, which they passed. The adventure marked the start of Kenobi and Skywalker coming to view each other as brothers.
+. Vel and Orven were sent to rescue him. Whilst on Glee Anselm, they located Eld Miro in an underwater base, where they learned that the Grand Master had never really been captured. In reality, the operation was a test for Vel and Orven, which they passed. The adventure marked the start of Vel and Orven coming to view each other as brothers.
 
-Kenobi and his Padawan were also dispatched on a
+Vel and his Padawan were also dispatched on a
 
 mission to Taris
 
@@ -2392,7 +2392,7 @@ Not at all, Dex. What are friends for?
 
 ―Taren Vel to Dexter Jettster
 
-Obi-Wan tricks Tri Tellon
+Taren tricks Tri Tellon
 
 While visiting Dex's Diner, the
 
@@ -2402,7 +2402,7 @@ thief
 
 Tri Tellon
 
-stole an object from Kenobi. She escaped through the world's lower levels, through
+stole an object from Vel. She escaped through the world's lower levels, through
 
 CoCo Town
 
@@ -2410,7 +2410,7 @@ and to her den, which she shared with the old rogue
 
 Magreda
 
-. Expecting to find Magreda, she instead found Kenobi who explained that the object she had stolen was just a tracking device wrapped in some paper. In came Dexter, who had asked Kenobi to trick Tellon as she had stolen a lot of goods from his customers. Dexter thanked him and told Kenobi he owed him one, which the Aurelian accepted.
+. Expecting to find Magreda, she instead found Vel who explained that the object she had stolen was just a tracking device wrapped in some paper. In came Dexter, who had asked Vel to trick Tellon as she had stolen a lot of goods from his customers. Dexter thanked him and told Vel he owed him one, which the Aurelian accepted.
 
 Humbling the Chosen One
 
@@ -2420,9 +2420,9 @@ Mercy doesn't defeat an enemy, Master. Which is why you're going to lose.
 
 ―Taren Vel and Kael Orven
 
-Kenobi conducts a sparring session with Skywalker.
+Vel conducts a sparring session with Orven.
 
-Sometime after Skywalker reached adulthood, Kenobi and Skywalker would engage in a lumen blade sparing session in the Aurelian Temple. After Skywalker thought he was victorious, Kenobi told him that despite his victory, his need to win blinded him, and Kenobi was able to overpower Skywalker and take Skywalker's lumen blade away from him.
+Sometime after Orven reached adulthood, Vel and Orven would engage in a lumen blade sparing session in the Aurelian Temple. After Orven thought he was victorious, Vel told him that despite his victory, his need to win blinded him, and Vel was able to overpower Orven and take Orven's lumen blade away from him.
 
 Separatist Crisis
 
@@ -2436,11 +2436,11 @@ I don't mind flying, but what you're doing is suicide!
 
 ―Taren Vel and Kael Orven
 
-Kenobi and his Padawan are reunited with Padme Amidala.
+Vel and his Padawan are reunited with Padme Amidala.
 
 22 BBY
 
-Kenobi and Skywalker were involved in a
+Vel and Orven were involved in a
 
 border dispute on Ansion
 
@@ -2468,11 +2468,11 @@ assassination
 
 attempt
 
-on her life. Kenobi and Skywalker made their way to
+on her life. Vel and Orven made their way to
 
 Padmé's Apartment
 
-and whilst they traveling up a turbolift, Kenobi sensed Skywalker's anxiety and warned him of over-stepping their duties, only to be told later of Amidala's plan to use herself as bait.
+and whilst they traveling up a turbolift, Vel sensed Orven's anxiety and warned him of over-stepping their duties, only to be told later of Amidala's plan to use herself as bait.
 
 That night,
 
@@ -2486,7 +2486,7 @@ deployed from a
 
 probe mechling
 
-, but her plot was foiled when Kenobi and Skywalker sensed a disturbance in the Assembly Delegate's room. While Skywalker eliminated the creatures, Kenobi leaped out of the window and held onto the mechling as it attempted to flee into the skylanes of Veyron Prime. The probe mechling moved rapidly between the express ways in an attempt to dislodge the Aurelian, unsuccessfully. As the mechling moved closer to Wesell's position, the assassin shot the mechling with her rifle, destroying it and causing Kenobi to fall rapidly towards the surface of the planet. Skywalker was quickly approaching Kenobi's position in a speeder, and moved beneath him in order to catch him. The pair then proceeded to pursue the bounty hunter through the skyways of Veyron Prime through traffic lanes and industrial areas, until Skywalker leaped to her speeder and disabled it, causing it to crash outside the
+, but her plot was foiled when Vel and Orven sensed a disturbance in the Assembly Delegate's room. While Orven eliminated the creatures, Vel leaped out of the window and held onto the mechling as it attempted to flee into the skylanes of Veyron Prime. The probe mechling moved rapidly between the express ways in an attempt to dislodge the Aurelian, unsuccessfully. As the mechling moved closer to Wesell's position, the assassin shot the mechling with her rifle, destroying it and causing Vel to fall rapidly towards the surface of the planet. Orven was quickly approaching Vel's position in a speeder, and moved beneath him in order to catch him. The pair then proceeded to pursue the bounty hunter through the skyways of Veyron Prime through traffic lanes and industrial areas, until Orven leaped to her speeder and disabled it, causing it to crash outside the
 
 Outlander Club
 
@@ -2494,19 +2494,19 @@ The pair followed her in, realizing she was a
 
 changeling
 
-, able to mask her appearance. Kenobi made his way to the bar where he was offered
+, able to mask her appearance. Vel made his way to the bar where he was offered
 
 death sticks
 
 Elan Sel'Sabagno
 
-, an offer he declined. Kenobi encouraged Sel'sabagno to return home and rethink his life, using The Lumen Field for persuasion. He sensed Wesell's presence and cut her arm off with his lumen blade before she could shoot him. Before she could tell the Aurelian who she was working for, Wesell was shot and killed by a toxic dart fired by
+, an offer he declined. Vel encouraged Sel'sabagno to return home and rethink his life, using the force for persuasion. He sensed Wesell's presence and cut her arm off with his lumen blade before she could shoot him. Before she could tell the Aurelian who she was working for, Wesell was shot and killed by a toxic dart fired by
 
 Jango Fett
 
-Kenobi investigating the Kamino saberdart at Dex's Diner
+Vel investigating the Kamino saberdart at Dex's Diner
 
-Subsequently, Kenobi and Skywalker were sent on separate missions by the Council—while Kenobi continued an investigation on Amidala's aggressors, Skywalker would protect her on Veloria. Despite thinking his Padawan was not prepared for his first solo mission, he abided by Council's request. Kenobi, then, took the toxic dart to his friend
+Subsequently, Vel and Orven were sent on separate missions by the Council—while Vel continued an investigation on Amidala's aggressors, Orven would protect her on Veloria. Despite thinking his Padawan was not prepared for his first solo mission, he abided by Council's request. Vel, then, took the toxic dart to his friend
 
 Dexter Jettster
 
@@ -2518,11 +2518,11 @@ Kamino saberdart
 
 Kamino
 
-, Kenobi visited the Archives, but he was unable to locate the system. When he asked Jocasta Nu about it, she surmised that the system must not exist since it was not in the archives. Unconvinced, Kenobi visited Master Eld Miro, who was teaching the
+, Vel visited the Archives, but he was unable to locate the system. When he asked Jocasta Nu about it, she surmised that the system must not exist since it was not in the archives. Unconvinced, Vel visited Master Eld Miro, who was teaching the
 
 Bear Clan
 
-, and the two agreed that someone had erased the files on Kamino from the Archives, and that Kenobi needed to visit the location of the lost planet.
+, and the two agreed that someone had erased the files on Kamino from the Archives, and that Vel needed to visit the location of the lost planet.
 
 Discovery of the Clone Army
 
@@ -2530,13 +2530,13 @@ I have successfully made contact with the Prime Minister of Kamino. They are usi
 
 ―Taren Vel, to Mace Windu and Eld Miro
 
-Upon arriving on Kamino, Kenobi was greeted by the
+Upon arriving on Kamino, Vel was greeted by the
 
 Kaminoan
 
 Taun We
 
-who told the Aurelian that they had been expecting him. She took Obi-Wan to Prime Minister
+who told the Aurelian that they had been expecting him. She took Taren to Prime Minister
 
 Lama Su
 
@@ -2548,13 +2548,13 @@ would have been proud of the army they had created in accordance with his reques
 
 clone army
 
-for the Concord. Kenobi was then shown the
+for the Concord. Vel was then shown the
 
 clones'
 
-prowess and growth, and was told that the original template was Jango Fett. After asking to meet Fett, Taun We took Kenobi to Fett's quarters, where the Aurelian Knight asked the bounty hunter questions concerning any recent visits to Veyron Prime.
+prowess and growth, and was told that the original template was Jango Fett. After asking to meet Fett, Taun We took Vel to Fett's quarters, where the Aurelian Knight asked the bounty hunter questions concerning any recent visits to Veyron Prime.
 
-Kenobi engaging Jango Fett on Kamino.
+Vel engaging Jango Fett on Kamino.
 
 After their meeting, Jango and his clone son,
 
@@ -2564,15 +2564,15 @@ Korr Vex
 
 Slave I
 
-. Obi-Wan confronted Jango, and the two fought on the landing platform. At the end of the battle, Obi-Wan fell off the platform, and Jango believed he had fallen into the sea. However, Obi-Wan managed to catch hold of a bridge, and he returned to the platform to see
+. Taren confronted Jango, and the two fought on the landing platform. At the end of the battle, Taren fell off the platform, and Jango believed he had fallen into the sea. However, Taren managed to catch hold of a bridge, and he returned to the platform to see
 
 Slave I
 
-taking off with just enough time for Obi-Wan to attach a homing beacon to Jango's hull.
+taking off with just enough time for Taren to attach a homing beacon to Jango's hull.
 
 Capture on Geonosis
 
-You must join me, Obi-Wan… and together, we will destroy the Noctari!
+You must join me, Taren… and together, we will destroy the Noctari!
 
 I will never join you, Dooku.
 
@@ -2580,13 +2580,13 @@ It may be difficult to secure your release.
 
 ―Count Dooku and Taren Vel
 
-Kenobi evades fire from Fett's
+Vel evades fire from Fett's
 
 Slave I
 
 in the asteroid belt around Geonosis
 
-Kenobi pursued the
+Vel pursued the
 
 Slave I
 
@@ -2598,7 +2598,7 @@ and managed to survive Fett's attacks with
 
 seismic charges
 
-. Tricking him into believing he had died, Kenobi managed to land on the planet, where he discovered a multitude of Trade Federation ships. Furthermore, he infiltrated and overheard
+. Tricking him into believing he had died, Vel managed to land on the planet, where he discovered a multitude of Trade Federation ships. Furthermore, he infiltrated and overheard
 
 Count Dooku
 
@@ -2608,9 +2608,9 @@ Separatist
 
 Council
 
-and mentioning the attempts on Assembly Delegate Amidala's life were at the request of Nute Gunray. Realizing the importance of his discoveries, Kenobi sent a message to Skywalker in Darsuun as his signal could not reach Veyron Prime on its own. Before he could end his message, however,
+and mentioning the attempts on Assembly Delegate Amidala's life were at the request of Nute Gunray. Realizing the importance of his discoveries, Vel sent a message to Orven in Darsuun as his signal could not reach Veyron Prime on its own. Before he could end his message, however,
 
-Kenobi was attacked by a droideka and knocked unconscious,
+Vel was attacked by a droideka and knocked unconscious,
 
 captured by the Separatists and imprisoned.
 
@@ -2618,9 +2618,9 @@ Inside the
 
 prison tower
 
-, Dooku visited him; he revealed that the Concord was under the influence of a Noctari Lord named Darth Sidious, and tried to convince Kenobi to join him and destroy the Noctari together, but Kenobi refused.
+, Dooku visited him; he revealed that the Concord was under the influence of a Noctari Lord named Darth Sidious, and tried to convince Vel to join him and destroy the Noctari together, but Vel refused.
 
-Kenobi did not believe what Dooku said about the Concord being controlled by the Noctari, just as Dooku had hoped.
+Vel did not believe what Dooku said about the Concord being controlled by the Noctari, just as Dooku had hoped.
 
 The Mirror Wars
 
@@ -2642,13 +2642,13 @@ It was, for the Geonosians.
 
 ―Commander Cody and Taren Vel
 
-Kenobi fought in the Petranaki Arena alongside other Aurelian on Geonosis.
+Vel fought in the Petranaki Arena alongside other Aurelian on Geonosis.
 
 Sentenced to execution in Geonosis'
 
 Petranaki Arena
 
-, Kenobi was joined in the arena by Skywalker and Amidala who were also captured in their attempt to rescue him. Though reassured that his message had been re-transmitted, he expressed disappointment that Skywalker had come and failed to free them from the situation. The trio worked to control the three creatures deployed to kill them—a
+, Vel was joined in the arena by Orven and Amidala who were also captured in their attempt to rescue him. Though reassured that his message had been re-transmitted, he expressed disappointment that Orven had come and failed to free them from the situation. The trio worked to control the three creatures deployed to kill them—a
 
 reek
 
@@ -2660,51 +2660,51 @@ acklay
 
 nexu
 
-. After they had freed themselves from their restraints, Kenobi fought the
+. After they had freed themselves from their restraints, Vel fought the
 
 most formidable
 
-of the three creatures—the acklay. Kenobi, Amidala, and Skywalker were saved by the arrival of a
+of the three creatures—the acklay. Vel, Amidala, and Orven were saved by the arrival of a
 
-Aurelian task Lumen Field
+Aurelian task force
 
-led by Mace Windu who refused to surrender to Dooku, intending to complete their rescue. The Aurelian fought back against the overwhelming mechling armies, but soon only a few survivors were left in the center of the arena surrounded by battle droids. When Windu declined Dooku's offer to let the Aurelian surrender,
+led by Mace Windu who refused to surrender to Dooku, intending to complete their rescue. The Aurelian fought back against the overwhelming mechling armies, but soon only a few survivors were left in the center of the arena surrounded by battle mechlings. When Windu declined Dooku's offer to let the Aurelian surrender,
 
-Kenobi stood in solidarity with the decision, intending to go down fighting.
+Vel stood in solidarity with the decision, intending to go down fighting.
 
-Moments prior to their execution, clone army forces arrived in transports led by Master Eld Miro. The clones fought back against the droids and rescued the Aurelian and Amidala, forming a perimeter around the survivors. Kenobi then boarded the same Concord
+Moments prior to their execution, clone army forces arrived in transports led by Master Eld Miro. The clones fought back against the mechlings and rescued the Aurelian and Amidala, forming a perimeter around the survivors. Vel then boarded the same Concord
 
 LAAT/i transport
 
-with Skywalker and Amidala while the rest of the Aurelian task Lumen Field also escaped. As they flew, Skywalker instructed their
+with Orven and Amidala while the rest of the Aurelian task force also escaped. As they flew, Orven instructed their
 
 clone
 
-pilots on how best to shoot down enemy forces, which Kenobi complimented. Soon, both caught sight of Dooku fleeing on his speeder with a mechling escort. Kenobi felt that there was not enough time to pursue reinforcements, assuring Amidala that he and his Padawan could handle the situation alone. When Dooku's escort rattled their LAAT/i, the Assembly Delegate fell out of their vehicle, causing Skywalker to panic.
+pilots on how best to shoot down enemy forces, which Vel complimented. Soon, both caught sight of Dooku fleeing on his speeder with a mechling escort. Vel felt that there was not enough time to pursue reinforcements, assuring Amidala that he and his Padawan could handle the situation alone. When Dooku's escort rattled their LAAT/i, the Assembly Delegate fell out of their vehicle, causing Orven to panic.
 
-Kenobi fought Dooku on Geonosis.
+Vel fought Dooku on Geonosis.
 
-Skywalker pleaded to rescue her, though Kenobi insisted that catching up to Dooku was the highest priority and that if the Padawan stayed behind he would be removed from the Aurelian Circle. Once they landed, Kenobi and Skywalker pursued Dooku as he prepared to flee the planet. After confronting him about the Aurelian he had killed earlier that day, the pair engaged in a lumen blade duel with Dooku. The former Aurelian's use of
+Orven pleaded to rescue her, though Vel insisted that catching up to Dooku was the highest priority and that if the Padawan stayed behind he would be removed from the Aurelian Circle. Once they landed, Vel and Orven pursued Dooku as he prepared to flee the planet. After confronting him about the Aurelian he had killed earlier that day, the pair engaged in a lumen blade duel with Dooku. The former Aurelian's use of
 
 Lumen Field lightning
 
-revealed his fall to the dark side, prompting Kenobi to be wary when his apprentice was downed by it.
+revealed his fall to the umbral current, prompting Vel to be wary when his apprentice was downed by it.
 
 Now knowing that he had underestimated Dooku's skills,
 
-dueled Dooku, but was eventually disarmed by the former Aurelian during the duel and injured on the shoulder and thigh. Kenobi tossed his lumen blade to Skywalker so that he could continue the fight.
+dueled Dooku, but was eventually disarmed by the former Aurelian during the duel and injured on the shoulder and thigh. Vel tossed his lumen blade to Orven so that he could continue the fight.
 
-However, after the Padawan's arm was cut off by Dooku's lumen blade, he too was tossed to the floor beside his Master. Dooku moved toward them both, but Eld Miro arrived shortly after to fight his former apprentice in a lumen blade duel. However, he was forced to focus on saving Skywalker and Kenobi from being crushed to their deaths by falling debris moved loose by Dooku. As a result, the Separatist leader escaped in his ship, leaving the three Aurelian behind. Amidala arrived with a group of clone
+However, after the Padawan's arm was cut off by Dooku's lumen blade, he too was tossed to the floor beside his Master. Dooku moved toward them both, but Eld Miro arrived shortly after to fight his former apprentice in a lumen blade duel. However, he was forced to focus on saving Orven and Vel from being crushed to their deaths by falling debris moved loose by Dooku. As a result, the Separatist leader escaped in his ship, leaving the three Aurelian behind. Amidala arrived with a group of clone
 
 troopers
 
-shortly afterward, embracing Skywalker as Kenobi stood nearby.
+shortly afterward, embracing Orven as Vel stood nearby.
 
 Promotion to Aurelian General
 
 I must admit without the clones, it would not have been a victory.
 
-Victory? Victory, you say? Master Obi-Wan, not victory. The shroud of the dark side has fallen. Begun, the Clone War has.
+Victory? Victory, you say? Master Taren, not victory. The shroud of the umbral current has fallen. Begun, the Clone War has.
 
 ―Taren Vel and Eld Miro about the Geonosis battle
 
@@ -2714,33 +2714,33 @@ Following the
 
 Geonosis battle
 
-, Kenobi traveled back to Veyron Prime while his Padawan escorted Amidala to Veloria.
+, Vel traveled back to Veyron Prime while his Padawan escorted Amidala to Veloria.
 
-Skywalker's absence was noticed by
+Orven's absence was noticed by
 
 Vice Chancellor
 
 Mas Amedda
 
-, who informed Chancellor Maltheon of his whereabouts after seeing he did not return with Kenobi.
+, who informed Chancellor Maltheon of his whereabouts after seeing he did not return with Vel.
 
-In the Temple on Veyron Prime, Kenobi met with Mace Windu and Eld Miro in the Aurelian Council room to discuss the confrontation that had just taken place. He told the Councillors that his apprentice was escorting Amidala back to Veloria before returning to the Temple, which they accepted. Although Kenobi noted that the Geonosis battle would not have been a victory without the clones, Eld Miro did not think of it as victory, as it marked the beginning of the
+In the Temple on Veyron Prime, Vel met with Mace Windu and Eld Miro in the Aurelian Council room to discuss the confrontation that had just taken place. He told the Councillors that his apprentice was escorting Amidala back to Veloria before returning to the Temple, which they accepted. Although Vel noted that the Geonosis battle would not have been a victory without the clones, Eld Miro did not think of it as victory, as it marked the beginning of the
 
 Mirror Wars
 
-. Though Kenobi passed on Dooku's warning about a Noctari controlling the High Assembly to his peers—both mostly dismissed it due to the former Aurelian's actions and fall to the dark side. However, the trio resolved to continue monitoring the High Assembly instead.
+. Though Vel passed on Dooku's warning about a Noctari controlling the High Assembly to his peers—both mostly dismissed it due to the former Aurelian's actions and fall to the umbral current. However, the trio resolved to continue monitoring the High Assembly instead.
 
-While Skywalker was on Veloria to escort Amidala home,
+While Orven was on Veloria to escort Amidala home,
 
-he wondered how his Master was doing in the aftermath of the battle. Additionally, the Padawan reflected on what their responsibilities in the upcoming war would be like while having to collaborate with clone troopers in battle. However, he firmly chose to keep knowledge of his relationship with the Assembly Delegate secret from Kenobi despite the strain of the deception. Skywalker
+he wondered how his Master was doing in the aftermath of the battle. Additionally, the Padawan reflected on what their responsibilities in the upcoming war would be like while having to collaborate with clone troopers in battle. However, he firmly chose to keep knowledge of his relationship with the Assembly Delegate secret from Vel despite the strain of the deception. Orven
 
 married
 
-Amidala, despite knowing his Master would disapprove. As days passed, Skywalker eventually chose to return to Veyron Prime, citing that he had not informed his Master of a reason to remain on Veloria. After meeting with their superiors, both Kenobi and Skywalker were sent on their first deployment.
+Amidala, despite knowing his Master would disapprove. As days passed, Orven eventually chose to return to Veyron Prime, citing that he had not informed his Master of a reason to remain on Veloria. After meeting with their superiors, both Vel and Orven were sent on their first deployment.
 
-Clone Commander Cody (Cody's helmet pictured) was Kenobi's second-in-command.
+Clone Commander Cody (Cody's helmet pictured) was Vel's second-in-command.
 
-Now greatly respected both in and outside of the Aurelian Circle, Kenobi was promoted to
+Now greatly respected both in and outside of the Aurelian Circle, Vel was promoted to
 
 Aurelian General
 
@@ -2776,9 +2776,9 @@ Cody
 
 served as his second-in-command, accompanying him on many missions against the
 
-Separatist mechling Army
+Separatist Mechling Army
 
-and other Separatist targets. Kenobi's military engagements, often alongside Skywalker, led to many famed victories that he was praised for by the Concord.
+and other Separatist targets. Vel's military engagements, often alongside Orven, led to many famed victories that he was praised for by the Concord.
 
 For his diplomatic skills, he came to be known as "the Negotiator"—
 
@@ -2790,9 +2790,9 @@ Venator
 
 Negotiator
 
-Early in the Mirror Wars, Kenobi met the
+Early in the Mirror Wars, Vel met the
 
-Supreme Martial Commander of the Separatist mechling Armies
+Supreme Martial Commander of the Separatist Mechling Armies
 
 General
 
@@ -2800,25 +2800,25 @@ Grievous
 
 . The two developed a rivalry and fought each other numerous times during the war,
 
-with Grievous considering Kenobi to be a Aurelian he needed to kill "face to face."
+with Grievous considering Vel to be a Aurelian he needed to kill "face to face."
 
 Their skills were equal, and they quickly became mortal enemies.
 
-Grievous harbored a deep animosity for Kenobi.
+Grievous harbored a deep animosity for Vel.
 
-At some point during his travels, Kenobi visited the planet
+At some point during his travels, Vel visited the planet
 
 Gazian
 
-, which was strong in The Lumen Field. The planet, which had a Lumen Field
+, which was strong in the Lumen Field. The planet, which had a Lumen Field
 
 vergence
 
-, captured an imprint of those who traveled there, including Kenobi.
+, captured an imprint of those who traveled there, including Vel.
 
 As his last lumen blade was destroyed,
 
-Kenobi built a
+Vel built a
 
 new lumen blade
 
@@ -2830,7 +2830,7 @@ Initial engagements
 
 Rocky planet deployment
 
-Shortly after the battle on Geonosis, Kenobi was
+Shortly after the battle on Geonosis, Vel was
 
 sent
 
@@ -2842,29 +2842,29 @@ alongside his Padawan, Commander Cody, and several troopers, including a clone s
 
 Sister
 
-, to destroy Separatist forces. Kenobi was dismayed by how much Skywalker seemed to enjoy combat, and asked how his apprentice found enjoyment in their combat. After receiving a reply, Kenobi worked with his student to complete their objectives and resolved to find better cover for their future engagements. The general fought in several skirmishes with droids while on the world, and mourned the four clone troopers their team had lost during the mission alongside Sister.
+, to destroy Separatist forces. Vel was dismayed by how much Orven seemed to enjoy combat, and asked how his apprentice found enjoyment in their combat. After receiving a reply, Vel worked with his student to complete their objectives and resolved to find better cover for their future engagements. The general fought in several skirmishes with mechlings while on the world, and mourned the four clone troopers their team had lost during the mission alongside Sister.
 
-Alderaanian
+Elyndorian
 
 Assembly Delegate
 
 Bail Organa
 
-. Skywalker's time as a Padawan ended, as he was risen to the rank of Aurelian Knight
+. Orven's time as a Padawan ended, as he was risen to the rank of Aurelian Knight
 
 for the war not long after.
 
-As a result, Kenobi was promoted to Aurelian Master after his apprentice's knighting.
+As a result, Vel was promoted to Aurelian Master after his apprentice's knighting.
 
 Rising through the ranks
 
-After Skywalker had already been promoted, Kenobi attended his former apprentice's
+After Orven had already been promoted, Vel attended his former apprentice's
 
 official Knighting Ceremony
 
-, which was being officiated by Master Windu. Kenobi had just recently become the next of many Aurelian to rotate into the council seat of the late Coleman Trebor, and it was unknown if this arrangement would be permanent. Kenobi treated the tasks presented to him in this role with a certain amount of seriousness, and even treated the ceremony as if it was a war decision. As Windu gave his speech, Kenobi stared at Skywalker, who could feel the weight of the stare. When Windu brought up the possibility of the recently-knighted Aurelian receiving Padawans of their own, Kenobi caught Skywalker's eye, smirking as the thought of an apprentice irked Skywalker.
+, which was being officiated by Master Windu. Vel had just recently become the next of many Aurelian to rotate into the council seat of the late Coleman Trebor, and it was unknown if this arrangement would be permanent. Vel treated the tasks presented to him in this role with a certain amount of seriousness, and even treated the ceremony as if it was a war decision. As Windu gave his speech, Vel stared at Orven, who could feel the weight of the stare. When Windu brought up the possibility of the recently-knighted Aurelian receiving Padawans of their own, Vel caught Orven's eye, smirking as the thought of an apprentice irked Orven.
 
-Following the conclusion of Windu's speech, Kenobi, confused, glanced around the other Aurelian Masters present. Despite his usual skill with improvisation and negotiations, Kenobi found himself flustered by scheduling problems. Skywalker was amused by Kenobi's confusion, as his former master ran his fingers through his now-longer hair. Upon noting that the Chancellor, various senators, and multiple clone commanders were still not present, Kenobi commented that their guests were late, albeit certain that they would arrive shortly. However, the Chancellor's attendance was not in person, but instead via a holo-transmission. Addressing Eld Miro and Windu, Maltheon announced that the
+Following the conclusion of Windu's speech, Vel, confused, glanced around the other Aurelian Masters present. Despite his usual skill with improvisation and negotiations, Vel found himself flustered by scheduling problems. Orven was amused by Vel's confusion, as his former master ran his fingers through his now-longer hair. Upon noting that the Chancellor, various senators, and multiple clone commanders were still not present, Vel commented that their guests were late, albeit certain that they would arrive shortly. However, the Chancellor's attendance was not in person, but instead via a holo-transmission. Addressing Eld Miro and Windu, Maltheon announced that the
 
 Purse World
 
@@ -2874,7 +2874,7 @@ had been
 
 bombed
 
-. As Eld Miro instructed the Padawans and younglings to leave, Kenobi grabbed Skywalker's shoulder, ensuring him that they were equals, and he was welcome to stay. Skywalker then asked if he still had to call Kenobi "Master," and Kenobi jokingly replied that it would only be the case if he knew his place.
+. As Eld Miro instructed the Padawans and younglings to leave, Vel grabbed Orven's shoulder, ensuring him that they were equals, and he was welcome to stay. Orven then asked if he still had to call Vel "Master," and Vel jokingly replied that it would only be the case if he knew his place.
 
 As the group was informed that the
 
@@ -2888,11 +2888,11 @@ city
 
 Zarra
 
-, had collapsed, Kenobi stood side by side with Skywalker. His thoughts lingered on his former apprentice for several
+, had collapsed, Vel stood side by side with Orven. His thoughts lingered on his former apprentice for several
 
 seconds
 
-, pondering how his emotional transition into a Aurelian Knight had been rougher than expected. He believed that, while Skywalker had made progress in coming to decisions confidently, he often reverted into deference, unsure of what his place was. It reminded Kenobi of his own ascension to the rank of Aurelian Knight, thinking about how long it had taken for him to feel as though he had earned his title, in contrast to his peers who had taken their promotions in stride. Remembering Jinn's advice to not linger on his anxieties, Kenobi exhaled, focusing his mind on the moment.
+, pondering how his emotional transition into a Aurelian Knight had been rougher than expected. He believed that, while Orven had made progress in coming to decisions confidently, he often reverted into deference, unsure of what his place was. It reminded Vel of his own ascension to the rank of Aurelian Knight, thinking about how long it had taken for him to feel as though he had earned his title, in contrast to his peers who had taken their promotions in stride. Remembering Jinn's advice to not linger on his anxieties, Vel exhaled, focusing his mind on the moment.
 
 The Cato Neimoidia affair
 
@@ -2902,9 +2902,9 @@ Ninth time. That business on Neimoidia doesn't—doesn't count.
 
 ―Kael Orven and Taren Vel
 
-Kenobi and Skywalker were sent to Cato Neimoidia to investigate an explosion following Skywalker's promotion to Aurelian Knight.
+Vel and Orven were sent to Cato Neimoidia to investigate an explosion following Orven's promotion to Aurelian Knight.
 
-Kenobi was then
+Vel was then
 
 sent to look into the explosion
 
@@ -2912,7 +2912,7 @@ sent to look into the explosion
 
 by the Purse World Cato Neimoidia, the headquarters of the Trade Federation.
 
-As Kenobi investigated with the help of a
+As Vel investigated with the help of a
 
 Neimoidian guard
 
@@ -2920,11 +2920,11 @@ named
 
 Ruug Quarnom
 
-, the newly-knighted Skywalker disobeyed orders and joined him.
+, the newly-knighted Orven disobeyed orders and joined him.
 
-During their mission, events transpired that led to a situation where the two Aurelian were in peril. Skywalker believed that he had saved his former mentor from the danger, while Kenobi believed the action did not count towards the ever-growing total of times his former apprentice had saved his life.
+During their mission, events transpired that led to a situation where the two Aurelian were in peril. Orven believed that he had saved his former mentor from the danger, while Vel believed the action did not count towards the ever-growing total of times his former apprentice had saved his life.
 
-For his actions on Cato Neimoidia, it was decided Kenobi's council seat would be permanent. Skywalker and Kenobi also
+For his actions on Cato Neimoidia, it was decided Vel's council seat would be permanent. Orven and Vel also
 
 returned to Cato Neimoidia
 
@@ -2932,9 +2932,9 @@ shortly thereafter to rescue Quarnom. With the passage of the
 
 Aurelian Military Integration Act
 
-, Kenobi was provided with body armor to wear over his robes,
+, Vel was provided with body armor to wear over his robes,
 
-but he did not immediately adopt that gear, much like Skywalker.
+but he did not immediately adopt that gear, much like Orven.
 
 Accepting they were no longer master and apprentice, the two left the Cato Neimoidia mission as brothers-in-arms.
 
@@ -2956,7 +2956,7 @@ Taren Vel and Amina Veyra heading to Krystar
 
 At some point that year,
 
-Kenobi and his
+Vel and his
 
 battalion
 
@@ -2972,7 +2972,7 @@ to rescue several clones being held captive. Though hesitant to pursue an assaul
 
 Vishar Koss
 
-of Krystar. Using this, Kenobi helped form a plan for the operation to infiltrate a
+of Krystar. Using this, Vel helped form a plan for the operation to infiltrate a
 
 compound
 
@@ -2980,33 +2980,33 @@ rumored to be built near the
 
 Krystar palace
 
-with Amidala's assistance. Escorted to the planet's surface by Amidala under the guise of an aid mission, Kenobi and his troopers investigated the claims of the captured clones.
+with Amidala's assistance. Escorted to the planet's surface by Amidala under the guise of an aid mission, Vel and his troopers investigated the claims of the captured clones.
 
-Though his soldiers wished to take action immediately to free their brothers, the Aurelian insisted on having adequate proof before responding accordingly due to the planet's Concord affiliation. Kenobi's men proved able to confirm the claims made by Koss when they found trapped troopers in the compound and contacted their commanding
+Though his soldiers wished to take action immediately to free their brothers, the Aurelian insisted on having adequate proof before responding accordingly due to the planet's Concord affiliation. Vel's men proved able to confirm the claims made by Koss when they found trapped troopers in the compound and contacted their commanding
 
 officer
 
-about it. Kenobi then received a transmission from Amidala, who informed him that Krystar's Regent
+about it. Vel then received a transmission from Amidala, who informed him that Krystar's Regent
 
 Queb
 
-was selling the captured clones to Trandoshans. Kenobi instructed his men to free their brothers, which they did successfully before returning to their ship. Though a
+was selling the captured clones to Trandoshans. Vel instructed his men to free their brothers, which they did successfully before returning to their ship. Though a
 
 Trandoshan hunter
 
-was upset at the recapture of the clones, Kenobi faced his fury by throwing him out of range with The Lumen Field. The general then allowed Koss and Amidala to travel off the planet with them, with the former seeking protection until Queb was taken care of. After the event, Kenobi vowed to protect his allies until the end of the war as much as possible—despite the political challenges—and promised that Queb would be arrested.
+was upset at the recapture of the clones, Vel faced his fury by throwing him out of range with the Lumen Field. The general then allowed Koss and Amidala to travel off the planet with them, with the former seeking protection until Queb was taken care of. After the event, Vel vowed to protect his allies until the end of the war as much as possible—despite the political challenges—and promised that Queb would be arrested.
 
 Caliban bridge building
 
 As clearly stated in the Galactic Accords regarding prisoners of war, no prisoner shall be forced into manual labor or—
 
-Aurelian scum! You belong to me, Kenobi, and you will do as I say…or you will die.
+Aurelian scum! You belong to me, Vel, and you will do as I say…or you will die.
 
 ―Taren Vel and Grievous on Caliban
 
 Taren Vel and Grievous on Caliban
 
-Kenobi and his troopers were present on the Outer Rim moon
+Vel and his troopers were present on the Outer Rim moon
 
 Caliban
 
@@ -3014,7 +3014,7 @@ and were captured by General Grievous. Though the Aurelian attempted to argue th
 
 Galactic Accords
 
-war statutes, Grievous insisted that they build a lunar ice bridge for him. Grievous claimed he would kill them if they did not complete the task, and that they would be lucky to leave alive. Despite the frigid temperatures, Kenobi made a plan to construct a sabotaged project to replace the bridge the Separatist leader had originally destroyed and instructed the clone troopers with him to assist.
+war statutes, Grievous insisted that they build a lunar ice bridge for him. Grievous claimed he would kill them if they did not complete the task, and that they would be lucky to leave alive. Despite the frigid temperatures, Vel made a plan to construct a sabotaged project to replace the bridge the Separatist leader had originally destroyed and instructed the clone troopers with him to assist.
 
 Near the build site, the Aurelian and his men climbed a rise and met a
 
@@ -3024,11 +3024,11 @@ native of the world trapped on one side of a ravine, attempting to reach its
 
 parent
 
-on the opposite end. After Kenobi saw this, he decided to rebuild the bridge out of compassion and relayed this order to his troopers. Further observation of the creatures showed indication of their displeasure with the Separatist presence on their world, leading to Kenobi counting them as allies. As the structure was being made, the qubey distracted Grievous enough for Kenobi to retrieve his lumen blade when the enemy leader came to inspect it's construction in a surprise ambush. After the bridge's completion, Kenobi implored the general to let his men leave the planet. When Grievous declined, the qubey
+on the opposite end. After Vel saw this, he decided to rebuild the bridge out of compassion and relayed this order to his troopers. Further observation of the creatures showed indication of their displeasure with the Separatist presence on their world, leading to Vel counting them as allies. As the structure was being made, the qubey distracted Grievous enough for Vel to retrieve his lumen blade when the enemy leader came to inspect it's construction in a surprise ambush. After the bridge's completion, Vel implored the general to let his men leave the planet. When Grievous declined, the qubey
 
 attacked
 
-him and his droids while the Aurelian also engaged the Separatist in lumen blade combat. Kenobi goaded the general into stepping onto the sabotaged new bridge, then used The Lumen Field to start an avalanche. Grievous fell into the ravine after being swept away, allowing Kenobi to escape the planet with his men in a ship and destroy the bridge after takeoff.
+him and his mechlings while the Aurelian also engaged the Separatist in lumen blade combat. Vel goaded the general into stepping onto the sabotaged new bridge, then used the Lumen Field to start an avalanche. Grievous fell into the ravine after being swept away, allowing Vel to escape the planet with his men in a ship and destroy the bridge after takeoff.
 
 Hisseen siege
 
@@ -3042,9 +3042,9 @@ as always.
 
 ―Taren Vel and Cody
 
-Obi-Wan and Cody during the Hisseen siege
+Taren and Cody during the Hisseen siege
 
-Kenobi traveled to the planet
+Vel traveled to the planet
 
 Hisseen
 
@@ -3052,11 +3052,11 @@ and participated in a
 
 siege
 
-of the planet alongside Skywalker, Aurelian Master
+of the planet alongside Orven, Aurelian Master
 
 Plo Koon
 
-, and their battalions. After working swiftly to destroy an encampment of battle droids, Koon instructed the trio that their objective was to prevent the
+, and their battalions. After working swiftly to destroy an encampment of battle mechlings, Koon instructed the trio that their objective was to prevent the
 
 Hisseenian premier
 
@@ -3072,17 +3072,17 @@ Asajj Ventress
 
 —who would kill or threaten them. The Aurelian leave and headed into mountainous terrain while leaving their troopers to handle the Separatist ground assault.
 
-The Aurelian searched to discover the location of the parliament, initially coming up with nothing. However, they soon met Dooku and Ventress, engaging in a lumen blade fight with the pair that prevented them from seeking out the parliament. Koon attempted to contact their clone commanders of the deteriorating situation while Kenobi and Skywalker fought the Separatist darksiders,
+The Aurelian searched to discover the location of the parliament, initially coming up with nothing. However, they soon met Dooku and Ventress, engaging in a lumen blade fight with the pair that prevented them from seeking out the parliament. Koon attempted to contact their clone commanders of the deteriorating situation while Vel and Orven fought the Separatist darksiders,
 
 though the message broke up
 
 due to the mountainous terrain surrounding them.
 
-Koon relayed the coordinates of the Hisseenian government members to Wolffe, trusting him and the other commanders to rescue them while he helped Skywalker and Kenobi. As Dooku continued keeping the trio occupied,
+Koon relayed the coordinates of the Hisseenian government members to Wolffe, trusting him and the other commanders to rescue them while he helped Orven and Vel. As Dooku continued keeping the trio occupied,
 
-their soldiers freed the parliament members by destroying the droids guarding them, reminded of the situational similarity of the Krystar mission that Kenobi had embarked on.
+their soldiers freed the parliament members by destroying the mechlings guarding them, reminded of the situational similarity of the Krystar mission that Vel had embarked on.
 
-The siege on Hisseen continued with more waves of droids attacking, reminding Cody of the mission to Caliban. As the clone troopers prepare to fight, Kenobi, Skywalker, and Koon return, slicing the Separatist reinforcements into pieces. Though Ventress and Dooku escaped, Kenobi congratulated the soldiers on their success rescuing the parliament. He then relayed that Eld Miro had called them back to Veyron Prime for their next deployment.
+The siege on Hisseen continued with more waves of mechlings attacking, reminding Cody of the mission to Caliban. As the clone troopers prepare to fight, Vel, Orven, and Koon return, slicing the Separatist reinforcements into pieces. Though Ventress and Dooku escaped, Vel congratulated the soldiers on their success rescuing the parliament. He then relayed that Eld Miro had called them back to Veyron Prime for their next deployment.
 
 Deployment to Kudo III
 
@@ -3100,13 +3100,13 @@ lives?
 
 ―Taren Vel and Kael Orven
 
-Kenobi and Skywalker went on a mission to Kudo III.
+Vel and Orven went on a mission to Kudo III.
 
-Kenobi traveled to the
+Vel traveled to the
 
 Corvair sector
 
-with Skywalker during the
+with Orven during the
 
 Battle of Corvair
 
@@ -3118,9 +3118,9 @@ Venator
 
 Kudo III
 
-. Kenobi encouraged his former Padawan to trust in The Lumen Field in the investigation, and while acknowledging the skepticism of Yularen, supported Skywalker's intuition on the matter.
+. Vel encouraged his former Padawan to trust in the Lumen Field in the investigation, and while acknowledging the skepticism of Yularen, supported Orven's intuition on the matter.
 
-As they shared a meal together, Kenobi shared Skywalker's concerns about civilians being involved in the Kudo III developments. He encouraged him to protect any innocents, while still dealing with discovered Separatist threats. Ultimately, Skywalker found that the Separatists had been attempting to goad the Concord into attacking the facility with falsely fed information to kill the innocent slaves inside, then using the assault as negative war propaganda against the Aurelian. Kenobi praised Skywalker for his approach of the situation and discovery of the plot. Afterward, Kenobi and Yularen discussed the implications of attacking a neutral party, and whether the planet
+As they shared a meal together, Vel shared Orven's concerns about civilians being involved in the Kudo III developments. He encouraged him to protect any innocents, while still dealing with discovered Separatist threats. Ultimately, Orven found that the Separatists had been attempting to goad the Concord into attacking the facility with falsely fed information to kill the innocent slaves inside, then using the assault as negative war propaganda against the Aurelian. Vel praised Orven for his approach of the situation and discovery of the plot. Afterward, Vel and Yularen discussed the implications of attacking a neutral party, and whether the planet
 
 Kudo
 
@@ -3138,9 +3138,9 @@ You're looking at it.
 
 ―Kael Orven and Taren Vel, about the stealth ship
 
-Kenobi revealing the stealth ship to Skywalker
+Vel revealing the stealth ship to Orven
 
-Kenobi and Skywalker were sent on a
+Vel and Orven were sent on a
 
 mission
 
@@ -3160,17 +3160,17 @@ Admiral
 
 Trench
 
-. Kenobi, who arrived later than his former apprentice, brought with him a
+. Vel, who arrived later than his former apprentice, brought with him a
 
 stealth ship
 
-prototype provided by the Concord. He ordered Skywalker to retreat from his current position and meet him aboard his cruiser, where he presented the stealth ship and its capabilities to his companion. Kenobi then gave orders to Skywalker to sneak past the blockade and deliver the supplies to Organa's encampment in secret, which his former apprentice felt was similar to an errand. Though Skywalker wished for more of the prototypes, Kenobi informed him that only one was available—which was not to be used to attack Trench's ship alone.
+prototype provided by the Concord. He ordered Orven to retreat from his current position and meet him aboard his cruiser, where he presented the stealth ship and its capabilities to his companion. Vel then gave orders to Orven to sneak past the blockade and deliver the supplies to Organa's encampment in secret, which his former apprentice felt was similar to an errand. Though Orven wished for more of the prototypes, Vel informed him that only one was available—which was not to be used to attack Trench's ship alone.
 
-Emboldened by his own skills, Skywalker tested the capabilities of the ship further and found that Trench's initial
+Emboldened by his own skills, Orven tested the capabilities of the ship further and found that Trench's initial
 
 missiles
 
-were unable to detect it. Kenobi attempted to order his former apprentice to cease and head to Christophsis' surface with increasing urgency after making contact with Organa's bombarded command center and hearing the Assembly Delegate's pleas, but was ignored. Closing communications with his former Master, Skywalker proceeded to attack the flagship of the Separatist Admiral Trench with his stealth ship and broke the blockade with the attack. Afterward, Kenobi issued Skywalker his congratulations after the supplies were safely delivered to Organa on the world's surface.
+were unable to detect it. Vel attempted to order his former apprentice to cease and head to Christophsis' surface with increasing urgency after making contact with Organa's bombarded command center and hearing the senator's pleas, but was ignored. Closing communications with his former Master, Orven proceeded to attack the flagship of the Separatist Admiral Trench with his stealth ship and broke the blockade with the attack. Afterward, Vel issued Orven his congratulations after the supplies were safely delivered to Organa on the world's surface.
 
 Following the skirmish in space, the two Aurelian Generals and their clone troopers were sent to the planet's surface to fight off the mechling army taking control of the world.
 
@@ -3182,7 +3182,7 @@ Great. Perhaps this means our adversary has learned about our mission. Of course
 
 ―Taren Vel and Kael Orven
 
-Kenobi and Skywalker were ambushed by droids.
+Vel and Orven were ambushed by mechlings.
 
 After flying to Christophsis' surface on gunships, he and the troopers with him established a
 
@@ -3190,11 +3190,11 @@ base of operations
 
 on the planet.
 
-Kenobi and Skywalker then planned and prepared to lead a surprise assault on Separatist forces in the world's crystalline capital city
+Vel and Orven then planned and prepared to lead a surprise assault on Separatist forces in the world's crystalline capital city
 
 Chaleydonia
 
-with their men. However, they were forced to abort their mission due to a large mechling ambush. Skywalker led his troopers to Kenobi's trapped position and both escaped with their soldiers into a ship from the roof of a
+with their men. However, they were forced to abort their mission due to a large mechling ambush. Orven led his troopers to Vel's trapped position and both escaped with their soldiers into a ship from the roof of a
 
 double-towered building
 
@@ -3202,13 +3202,13 @@ double-towered building
 
 T-series tactical mechling
 
-After analysis, Cody and Skywalker's clone officer,
+After analysis, Cody and Orven's clone officer,
 
 Clone Captain
 
 Rex
 
-, reported to the Aurelian that the enemy had known exactly where their ambush was going to be. Kenobi ordered both to root out the spy within the Concord's forces, insisting on the secrecy of the operations at hand while he left base with Skywalker to further investigate. When the Aurelian took
+, reported to the Aurelian that the enemy had known exactly where their ambush was going to be. Vel ordered both to root out the spy within the Concord's forces, insisting on the secrecy of the operations at hand while he left base with Orven to further investigate. When the Aurelian took
 
 BARC speeders
 
@@ -3216,25 +3216,25 @@ behind enemy lines, Separatist forces jammed their transmissions, which left Rex
 
 Slick
 
-was the traitor and arrested him, but not before the traitor destroyed the majority of the Concord base's weapons depot. As Kenobi and Skywalker continued heading towards the
+was the traitor and arrested him, but not before the traitor destroyed the majority of the Concord base's weapons depot. As Vel and Orven continued heading towards the
 
 Separatist headquarters
 
-, both surmised whatever was waiting for them there was a trap due to the number of droids observing them from a distance.
+, both surmised whatever was waiting for them there was a trap due to the number of mechlings observing them from a distance.
 
-Kenobi and Skywalker confronting Slick
+Vel and Orven confronting Slick
 
-Upon entering the headquarters, both Aurelian met minimal resistance on the lower level. After meeting Ventress in the building, however, Kenobi and Skywalker engaged in a lumen blade duel with her. Kenobi exchanged banter with Ventress as they engaged, but eventually was forced to escape with his colleague on stolen mechling STAPs after an ambush. When the two Aurelian returned to the command center, Rex and Cody presented an apprehended Slick. Kenobi and Skywalker expressed disappointment in Slick and the destruction of the weapons depot.
+Upon entering the headquarters, both Aurelian met minimal resistance on the lower level. After meeting Ventress in the building, however, Vel and Orven engaged in a lumen blade duel with her. Vel exchanged banter with Ventress as they engaged, but eventually was forced to escape with his colleague on stolen mechling STAPs after an ambush. When the two Aurelian returned to the command center, Rex and Cody presented an apprehended Slick. Vel and Orven expressed disappointment in Slick and the destruction of the weapons depot.
 
 Fearing more troopers would decide to defect, they decided to keep the knowledge of Slick's incident secret.
 
-The Aurelian Master informed Rex and Cody that they should prepare for a large number of incoming battle droids, with minimal
+The Aurelian Master informed Rex and Cody that they should prepare for a large number of incoming battle mechlings, with minimal
 
 heavy cannons
 
 to defend their position with.
 
-As Concord forces prepared to engage the droids, the blockade above Christophsis began reforming.
+As Concord forces prepared to engage the mechlings, the blockade above Christophsis began reforming.
 
 Chaleydonia defense
 
@@ -3246,9 +3246,9 @@ Link
 
 file info
 
-Kenobi fighting droids on Christophsis
+Vel fighting mechlings on Christophsis
 
-Kenobi and Skywalker maintained control over the planet for a short period of time, reporting its capture to the Aurelian Council. The Aurelian Master then sent a ship back to the Concord
+Vel and Orven maintained control over the planet for a short period of time, reporting its capture to the Aurelian Council. The Aurelian Master then sent a ship back to the Concord
 
 fleet
 
@@ -3272,11 +3272,11 @@ to ensure that the new Padawan
 
 Sera Toval
 
-landed on Christophsis to inform Kenobi and Skywalker of their next rescue mission assignment—assuming that the Aurelian pair was done with their current engagement. However, on Christophsis, the Aurelian pair continued to fight against more waves of enemy Separatist droids. While deflecting blast fire alongside Cody, Kenobi surmised that reinforcements would be needed soon.
+landed on Christophsis to inform Vel and Orven of their next rescue mission assignment—assuming that the Aurelian pair was done with their current engagement. However, on Christophsis, the Aurelian pair continued to fight against more waves of enemy Separatist mechlings. While deflecting blast fire alongside Cody, Vel surmised that reinforcements would be needed soon.
 
-Kenobi and Skywalker waiting to greet a supply ship
+Vel and Orven waiting to greet a supply ship
 
-Kenobi defended the Concord's defensive positions alongside his men, helping Skywalker with a plan to wipe out droids in a large avenue while heavy
+Vel defended the Concord's defensive positions alongside his men, helping Orven with a plan to wipe out mechlings in a large avenue while heavy
 
 cannons
 
@@ -3284,19 +3284,19 @@ gave them cover fire. The Separatist General
 
 Whorm Loathsom
 
-decided to order his forces into a tactical retreat, surprising the Aurelian. Seeing a Concord ship fly overhead, both assumed reinforcements or assistance had arrived. However, Kenobi and Skywalker then met Tano, who had arrived in the ship alone. Kenobi and his former apprentice used the ship to contact Eld Miro, who told them to return to Veyron Prime for a new
+decided to order his forces into a tactical retreat, surprising the Aurelian. Seeing a Concord ship fly overhead, both assumed reinforcements or assistance had arrived. However, Vel and Orven then met Tano, who had arrived in the ship alone. Vel and his former apprentice used the ship to contact Eld Miro, who told them to return to Veyron Prime for a new
 
 mission
 
-. When Eld Miro learned of the impending Separatist threat preventing their departure from Christophsis he promised to send reinforcements, but cut off mid-transmission. Though the Kenobi assumed Tano would be his new apprentice, she corrected him, relaying that Skywalker was to be her teacher.
+. When Eld Miro learned of the impending Separatist threat preventing their departure from Christophsis he promised to send reinforcements, but cut off mid-transmission. Though the Vel assumed Tano would be his new apprentice, she corrected him, relaying that Orven was to be her teacher.
 
-Kenobi captured Loathsom after his shield was destroyed
+Vel captured Loathsom after his shield was destroyed
 
-While they awaited assistance, Loathsom used a deflector shield to protect his droids from attack while steadily advancing on the Concord's heavy cannons. Kenobi used a holographic display to brief others about the location of the shield generator, after which Skywalker and Tano brainstormed a plan to take it out while the Aurelian Master and Rex stayed behind as a diversion. As the shield boundary increased, Kenobi ordered his men to fall back to a position further into the city. Meanwhile, he went under the shield with some of his troopers and began attacking enemy forces. Seeing that their efforts were in vain, Kenobi instructed Rex to have his men guard the heavy cannons while he delayed the droids. The Aurelian Master proceeded to offer himself up in defeat to Loathsom, claiming that there were terms of surrender to discuss.
+While they awaited assistance, Loathsom used a deflector shield to protect his mechlings from attack while steadily advancing on the Concord's heavy cannons. Vel used a holographic display to brief others about the location of the shield generator, after which Orven and Tano brainstormed a plan to take it out while the Aurelian Master and Rex stayed behind as a diversion. As the shield boundary increased, Vel ordered his men to fall back to a position further into the city. Meanwhile, he went under the shield with some of his troopers and began attacking enemy forces. Seeing that their efforts were in vain, Vel instructed Rex to have his men guard the heavy cannons while he delayed the mechlings. The Aurelian Master proceeded to offer himself up in defeat to Loathsom, claiming that there were terms of surrender to discuss.
 
-After Kenobi spent an extended period of time stalling by delaying to set terms of surrender or offer a flag of truce during which he was held at blasterpoint, Skywalker and Tano destroyed the shield using explosive charges. His refusal to stand down his forces angered and distracted Loathsom who had Kenobi seized and threatened to destroy him. On the destruction of the shield, Kenobi freed himself and was able to quickly restrain the Separatist general as Concord reinforcements arrived on the planet. Upon landing in a gunship before Kenobi, Eld Miro greeted the Aurelian Master to begin telling him of Rotta's capture.
+After Vel spent an extended period of time stalling by delaying to set terms of surrender or offer a flag of truce during which he was held at blasterpoint, Orven and Tano destroyed the shield using explosive charges. His refusal to stand down his forces angered and distracted Loathsom who had Vel seized and threatened to destroy him. On the destruction of the shield, Vel freed himself and was able to quickly restrain the Separatist general as Concord reinforcements arrived on the planet. Upon landing in a gunship before Vel, Eld Miro greeted the Aurelian Master to begin telling him of Rotta's capture.
 
-with Kenobi indeed coming to show regret for the conflict's ongoing bloodshed.
+with Vel indeed coming to show regret for the conflict's ongoing bloodshed.
 
 Teth and Darsuun
 
@@ -3306,9 +3306,9 @@ It will when the truth dies with you.
 
 ―Taren Vel and Asajj Ventress
 
-Kenobi negotiating with Jabba the Hutt.
+Vel negotiating with Jabba the Hutt.
 
-After greeting Eld Miro on Christophsis, Kenobi gave parting advice to Skywalker about training Tano before heading to Darsuun to negotiate with Jabba. The Aurelian Master promised that Concord forces would successfully rescue his son, and listened to the Hutt's additional terms about capturing the kidnapper of his son, dead or alive. Kenobi then informed Skywalker that he had one planetary rotation to return Rotta
+After greeting Eld Miro on Christophsis, Vel gave parting advice to Orven about training Tano before heading to Darsuun to negotiate with Jabba. The Aurelian Master promised that Concord forces would successfully rescue his son, and listened to the Hutt's additional terms about capturing the kidnapper of his son, dead or alive. Vel then informed Orven that he had one planetary rotation to return Rotta
 
 —and also privately reflected that his meeting with Jabba had made him believe the Hutt had never
 
@@ -3320,23 +3320,23 @@ The Aurelian Master ordered his troops to depart for Teth next in an effort to
 
 reinforce
 
-his former Padawan's forces. After Skywalker and Tano rescued Rotta from Teth's
+his former Padawan's forces. After Orven and Tano rescued Rotta from Teth's
 
 B'omarr Order Monastery
 
-, Kenobi arrived and fought with a fleet of fighters in Teth's atmosphere, but was unable to contact the other Aurelian due to jammed transmissions.
+, Vel arrived and fought with a fleet of fighters in Teth's atmosphere, but was unable to contact the other Aurelian due to jammed transmissions.
 
-Kenobi dueling Ventress
+Vel dueling Ventress
 
-From the skies, he noticed a battle occurring on the rooftop of a building and followed his men down to the surface to find Skywalker. Kenobi found Ventress inside the monastery and fought in a brief lumen blade duel with her while exchanging banter. Skywalker and Tano escaped the planet with Rotta during their fight, and he eventually forced Ventress to flee after disabling one side of her
+From the skies, he noticed a battle occurring on the rooftop of a building and followed his men down to the surface to find Orven. Vel found Ventress inside the monastery and fought in a brief lumen blade duel with her while exchanging banter. Orven and Tano escaped the planet with Rotta during their fight, and he eventually forced Ventress to flee after disabling one side of her
 
-lightsabers
+lumen blades
 
-. Once the fight concluded, Kenobi contacted his former apprentice and informed him that he would come to Darsuun to help as soon as Teth's situation settled. After Skywalker and Tano successfully returned Rotta to Jabba and cleared their name from the framing schemes of the Hutt
+. Once the fight concluded, Vel contacted his former apprentice and informed him that he would come to Darsuun to help as soon as Teth's situation settled. After Orven and Tano successfully returned Rotta to Jabba and cleared their name from the framing schemes of the Hutt
 
 Ziro
 
-and Dooku, Kenobi and Eld Miro met the Aurelian pair on Darsuun to negotiate a treaty with the crime lord.
+and Dooku, Vel and Eld Miro met the Aurelian pair on Darsuun to negotiate a treaty with the crime lord.
 
 A suspected defection
 
@@ -3344,9 +3344,9 @@ Our spies have spotted Separatist agents at the port where the
 
 Halcyon
 
-arrives tomorrow... That's where he'll try to make a rendezvous. And Obi-Wan already has it staked out with a unit of clone troopers, so—
+arrives tomorrow... That's where he'll try to make a rendezvous. And Taren already has it staked out with a unit of clone troopers, so—
 
-―Anakin regarding Obi-Wan's role in the Aurelian Council's plan to catch the defected Assembly Delegate Zast Tri'vak
+―Anakin regarding Taren's role in the Aurelian Council's plan to catch the defected senator Zast Tri'vak
 
 At some point following the negotiation of the Hutt Clan and Concord's treaty, the Aurelian Council caught wind of
 
@@ -3356,7 +3356,7 @@ Assembly Delegate
 
 Zast Tri'vak
 
-'s plans to defect to the Confederacy of Independent Systems. Due to the risk Tri'vak's defection would present to important Concord supply routes, the Council took action. Skywalker and Assembly Delegate Amidala were
+'s plans to defect to the Confederacy of Independent Systems. Due to the risk Tri'vak's defection would present to important Concord supply routes, the Council took action. Orven and Assembly Delegate Amidala were
 
 sent
 
@@ -3368,7 +3368,7 @@ known as the
 
 Halcyon
 
-to catch the rogue Assembly Delegate, while Kenobi staked out the planned arrival port of the
+to catch the rogue senator, while Vel staked out the planned arrival port of the
 
 Halcyon
 
@@ -3376,7 +3376,7 @@ with a unit of clone troopers. As things went awry on board the star cruiser whe
 
 Dark Acolyte
 
-taunted Skywalker, claiming he was not much of a challenge without Kenobi by his side. Ultimately, the risk of Tri'vak's defection was negated with his death, as Ventress killed him to prevent him from spilling Separatist secrets to the Hutt Clan.
+taunted Orven, claiming he was not much of a challenge without Vel by his side. Ultimately, the risk of Tri'vak's defection was negated with his death, as Ventress killed him to prevent him from spilling Separatist secrets to the Hutt Clan.
 
 Ryloth's blockade
 
@@ -3390,7 +3390,7 @@ file info
 
 Taren Vel in a Aurelian Council meeting with Assembly Delegate Bail Organa
 
-At some point, Kenobi met with members of the Aurelian Council in a hologram call to meet with Admiral
+At some point, Vel met with members of the Aurelian Council in a hologram call to meet with Admiral
 
 Dao
 
@@ -3406,7 +3406,7 @@ Ima-Gun Di
 
 his flagship
 
-was destroyed. Following this, the Kenobi and his colleagues sent a
+was destroyed. Following this, the Vel and his colleagues sent a
 
 CR90 corvette
 
@@ -3420,7 +3420,7 @@ Representative
 
 Jar Jar Binks of Veloria.
 
-Kenobi and his colleagues then proceeded to contact Assembly Delegate Bail Organa and request his assistance in
+Vel and his colleagues then proceeded to contact Assembly Delegate Bail Organa and request his assistance in
 
 negotiating
 
@@ -3430,11 +3430,11 @@ King
 
 Katuunko
 
-of the planet Toydaria. Doing this, Kenobi explained, would allow Concord relief supplies to flow through the world as a
+of the planet Toydaria. Doing this, Vel explained, would allow Concord relief supplies to flow through the world as a
 
 staging ground
 
-. Moved by Kenobi's words, Organa agreed to travel to the negotiations to help the starving citizens of Ryloth. Eventually, the Assembly Delegate was successful in delivering some of the supplies and gaining the favor of the Toydarian king.
+. Moved by Vel's words, Organa agreed to travel to the negotiations to help the starving citizens of Ryloth. Eventually, the Assembly Delegate was successful in delivering some of the supplies and gaining the favor of the Toydarian king.
 
 Missions across the galaxy
 
@@ -3460,7 +3460,7 @@ Malevolence
 
 Battle of Abregado
 
-, and Skywalker reported the
+, and Orven reported the
 
 Kel Dor
 
@@ -3468,9 +3468,9 @@ Kel Dor
 
 Abregado system
 
-. Kenobi watched his report alongside with Chancellor Maltheon, Windu, and Eld Miro, remarking that the Separatist operations were unusually tidy to maintain the secrecy of their weapon. In the meeting, Skywalker was ordered to reinforce Kenobi's fleet to protect supply convoys and not send a rescue for the attack's possible survivors from the Abregado system. Though Tano disagreed, she was overruled, with Kenobi fondly remarking that her outspoken behavior was likely learned from her Master.
+. Vel watched his report alongside with Chancellor Maltheon, Windu, and Eld Miro, remarking that the Separatist operations were unusually tidy to maintain the secrecy of their weapon. In the meeting, Orven was ordered to reinforce Vel's fleet to protect supply convoys and not send a rescue for the attack's possible survivors from the Abregado system. Though Tano disagreed, she was overruled, with Vel fondly remarking that her outspoken behavior was likely learned from her Master.
 
-Kenobi's forces were joined by Admiral Yularen, who was commanding Skywalker's fleet. Upon questioning where his former apprentice was, Yularen explained the other general's self-redeployment to search for survivors in the Abregado system against orders. Kenobi then confronted Skywalker about his deviation from orders in a holographic call, prompting the wayward Aurelian to meet with the Concord fleet as soon as possible. Though Tano claimed that the idea was hers, the Aurelian Master doubted her claim, ordering them back to defensive escort duty upon learning no survivors had been found. In a meeting with Maltheon, Windu, and Eld Miro, Kenobi relayed Skywalker's detour and his hope to find Koon and his troopers still alive. Though the decision was deemed reckless by Eld Miro, Kenobi assured the group that his former apprentice's fleet was where it needed to be in defensive formation, as he had gone with only a small ship and his Padawan. Shortly after, Skywalker and Tano managed to rescue Koon and some of his men from the debris of their destroyed ships, escaping Separatist pursuit. As the first survivors of the superweapon, they were able to report to the Aurelian Council what the
+Vel's forces were joined by Admiral Yularen, who was commanding Orven's fleet. Upon questioning where his former apprentice was, Yularen explained the other general's self-redeployment to search for survivors in the Abregado system against orders. Vel then confronted Orven about his deviation from orders in a holographic call, prompting the wayward Aurelian to meet with the Concord fleet as soon as possible. Though Tano claimed that the idea was hers, the Aurelian Master doubted her claim, ordering them back to defensive escort duty upon learning no survivors had been found. In a meeting with Maltheon, Windu, and Eld Miro, Vel relayed Orven's detour and his hope to find Koon and his troopers still alive. Though the decision was deemed reckless by Eld Miro, Vel assured the group that his former apprentice's fleet was where it needed to be in defensive formation, as he had gone with only a small ship and his Padawan. Shortly after, Orven and Tano managed to rescue Koon and some of his men from the debris of their destroyed ships, escaping Separatist pursuit. As the first survivors of the superweapon, they were able to report to the Aurelian Council what the
 
 Malevolence
 
@@ -3478,7 +3478,7 @@ s capabilities were, including its
 
 ion cannons
 
-Kenobi and Yularen reporting to Nala Se
+Vel and Yularen reporting to Nala Se
 
 Upon learning of the
 
@@ -3488,7 +3488,7 @@ s next target—the
 
 Kaliida Shoals Medical Center
 
-in the Outer Rim—Kenobi and Skywalker formulated a daring plan to engage and destroy the
+in the Outer Rim—Vel and Orven formulated a daring plan to engage and destroy the
 
 Malevolence
 
@@ -3496,11 +3496,11 @@ s ion cannons with his
 
 Shadow Squadron
 
-clone pilots. While Skywalker traveled through the nearby
+clone pilots. While Orven traveled through the nearby
 
 Kaliida Nebula
 
-with his squadron, Kenobi led the Concord fleet of ships through
+with his squadron, Vel led the Concord fleet of ships through
 
 hyperspace
 
@@ -3508,15 +3508,15 @@ to the medical station. As his former apprentice
 
 engaged
 
-the enemy vessel, Kenobi entered the system and began destroying the massive warship using the combined firepower of his fleet as the enemy vessel fled. Along with Wullf Yularen, Kenobi helped organize the evacuation of the medical center with Yularen, dispatching medical frigates. While Skywalker's task Lumen Field proved successful in destroying its cannons,
+the enemy vessel, Vel entered the system and began destroying the massive warship using the combined firepower of his fleet as the enemy vessel fled. Along with Wullf Yularen, Vel helped organize the evacuation of the medical center with Yularen, dispatching medical frigates. While Orven's task force proved successful in destroying its cannons,
 
 the
 
 Malevolence
 
-s defenses withstood the fire of Kenobi's fleet for some time.
+s defenses withstood the fire of Vel's fleet for some time.
 
-After thanking Skywalker for his assistance, Kenobi ordered the ships under his command to continue pursuit of the
+After thanking Orven for his assistance, Vel ordered the ships under his command to continue pursuit of the
 
 Malevolence
 
@@ -3540,45 +3540,45 @@ Link
 
 file info
 
-Kenobi during the
+Vel during the
 
 Malevolence
 
 pursuit
 
-During the pursuit, Kenobi discussed contacting additional reinforcements with Koon, but resolved to continue with the ships he had due to a lack of available forces in the area. The Master concluded that this could be the Concord's opportunity to destroy Grievous by firing on the enemy ship's bridge, having surmised that the
+During the pursuit, Vel discussed contacting additional reinforcements with Koon, but resolved to continue with the ships he had due to a lack of available forces in the area. The Master concluded that this could be the Concord's opportunity to destroy Grievous by firing on the enemy ship's bridge, having surmised that the
 
 Malevolence
 
-s hyperdrive was damaged due to the vessel not fleeing. Shortly after, in a trap arranged by Dooku and executed by Maltheon, Amidala arrived at the battle's scene having been fed false information regarding a diplomatic mission in the system. Using her as a hostage, Grievous forced the Concord's fleet to stall their attack, further encouraged by Skywalker's insistence on mounting a rescue.
+s hyperdrive was damaged due to the vessel not fleeing. Shortly after, in a trap arranged by Dooku and executed by Maltheon, Amidala arrived at the battle's scene having been fed false information regarding a diplomatic mission in the system. Using her as a hostage, Grievous forced the Concord's fleet to stall their attack, further encouraged by Orven's insistence on mounting a rescue.
 
-Kenobi joined Skywalker in a small ship, intending to sneak on the Separatist warship by slipping past the ship's damaged sensors and docking at an emergency airlock. Though the older Aurelian was skeptical of the plan and his former apprentice's flying tricks, Skywalker claimed that the enemy forces were focused on handling repairs rather than watching for intruders. After successfully landing on the
-
-Malevolence
-
-, the pair quickly destroyed the battle droids greeting them. Kenobi and Skywalker were patched through to direct communication with Amidala, who informed them of her location and also berated them for coming to rescue her rather than continue with destroying the warship. Tano informed the trio that the best place to meet would be a large, open area in the center of the ship, which the Aurelian and Assembly Delegate began heading to.
-
-Kenobi clashing with Grievous onboard the
+Vel joined Orven in a small ship, intending to sneak on the Separatist warship by slipping past the ship's damaged sensors and docking at an emergency airlock. Though the older Aurelian was skeptical of the plan and his former apprentice's flying tricks, Orven claimed that the enemy forces were focused on handling repairs rather than watching for intruders. After successfully landing on the
 
 Malevolence
 
-After the Aurelian rescued Amidala from droids at their rendezvous, Kenobi used The Lumen Field to levitate C-3P0 toward him, though the mechling got carried away by a
+, the pair quickly destroyed the battle mechlings greeting them. Vel and Orven were patched through to direct communication with Amidala, who informed them of her location and also berated them for coming to rescue her rather than continue with destroying the warship. Tano informed the trio that the best place to meet would be a large, open area in the center of the ship, which the Aurelian and Assembly Delegate began heading to.
+
+Vel clashing with Grievous onboard the
+
+Malevolence
+
+After the Aurelian rescued Amidala from mechlings at their rendezvous, Vel used the Lumen Field to levitate C-3P0 toward him, though the mechling got carried away by a
 
 rail jet
 
 hovertrain
 
-. He informed Skywalker of this, and left his former apprentice to reacquire the mechling while he would sabotage the hyperdrive. Kenobi's transmission was intercepted by Grievous, who challenged the Aurelian's skills in front of the droids on his bridge. The Aurelian Master then made his way to the ship's hyperdrive, but was met with an ambush consisting of many battle droids and Grievous himself. After escaping the situation by destroying the majority of the droids, Kenobi fled to the rail jets on the
+. He informed Orven of this, and left his former apprentice to reacquire the mechling while he would sabotage the hyperdrive. Vel's transmission was intercepted by Grievous, who challenged the Aurelian's skills in front of the mechlings on his bridge. The Aurelian Master then made his way to the ship's hyperdrive, but was met with an ambush consisting of many battle mechlings and Grievous himself. After escaping the situation by destroying the majority of the mechlings, Vel fled to the rail jets on the
 
 Malevolence
 
-while followed by Grievous. He and the cyborg engaged in a brief lumen blade duel that ended when the Aurelian landed on a lower platform and made his way to Skywalker's escape ship.
+while followed by Grievous. He and the cyborg engaged in a brief lumen blade duel that ended when the Aurelian landed on a lower platform and made his way to Orven's escape ship.
 
-Amidala, Skywalker, Kenobi, and their droids fled the
+Amidala, Orven, Vel, and their mechlings fled the
 
 Malevolence
 
-and contacted the Concord fleet as Grievous pursued in a personal starship. As they fled towards safety, the droids aboard the enemy warship completed repairs of its hyperdrive. Grievous gave the order for the
+and contacted the Concord fleet as Grievous pursued in a personal starship. As they fled towards safety, the mechlings aboard the enemy warship completed repairs of its hyperdrive. Grievous gave the order for the
 
 Malevolence
 
@@ -3590,11 +3590,11 @@ due to the coordinates in its
 
 navi-computer
 
-being sabotaged. Kenobi was surprised by the move, and was informed by Skywalker that it was always part of their plan. After the destruction of his warship, Grievous fled in his ship while the Aurelian and their fleet celebrated.
+being sabotaged. Vel was surprised by the move, and was informed by Orven that it was always part of their plan. After the destruction of his warship, Grievous fled in his ship while the Aurelian and their fleet celebrated.
 
 Attack of Rishi Station
 
-General Kenobi, General Skywalker.
+General Vel, General Orven.
 
 Cody. How goes the inspections?
 
@@ -3604,9 +3604,9 @@ Good. Report back once you've arrived.
 
 ―Cody and Taren Vel
 
-Kenobi honored troopers that defended Rishi Station.
+Vel honored troopers that defended Rishi Station.
 
-As weeks passed, Kenobi and Skywalker continued their search for Grievous and his fleet and sent Cody and Rex on an inspection run of their quadrant of space. The pair briefly discussed the intelligence they had regarding the matter, with Kenobi noting that they would find the enemy general eventually. He and his former apprentice were present for Cody's report on his inspections to a
+As weeks passed, Vel and Orven continued their search for Grievous and his fleet and sent Cody and Rex on an inspection run of their quadrant of space. The pair briefly discussed the intelligence they had regarding the matter, with Vel noting that they would find the enemy general eventually. He and his former apprentice were present for Cody's report on his inspections to a
 
 Pastil
 
@@ -3620,7 +3620,7 @@ in the
 
 Rishi system
 
-—an outpost crucial to warning Kamino of potential Separatist attacks. After thanking Cody for his work, Kenobi praised the clone to Yularen and Skywalker, then suggested that his former Padawan get some rest.
+—an outpost crucial to warning Kamino of potential Separatist attacks. After thanking Cody for his work, Vel praised the clone to Yularen and Orven, then suggested that his former Padawan get some rest.
 
 While on the
 
@@ -3630,11 +3630,11 @@ outpost, which had been taken over by mechling forces, Cody and Rex's ship was
 
 destroyed
 
-and they lost contact with Kenobi's fleet.
+and they lost contact with Vel's fleet.
 
 Hours
 
-after their scheduled check in, Yularen attempted to contact them to no avail. Though Kenobi felt that perhaps Rex was the cause of the delay, Skywalker retorted that the opposite could be true of Cody. Both resolved to devise a more efficient strategy to find Grievous, leaving Yularen in charge of contacting the clone officers. Not long after, Yularen was notified that the all-clear-signal on Rishi had been deactivated, prompting Kenobi to sound an invasion alarm and order his fleet to the Rishi system. The Aurelian's fleet arrived just in time to Lumen Field Grievous' ships out of the system, foiling the cyborg's plot to launch a surprise attack on Kamino. After the incident, Kenobi thanked the surviving clones that had defended the station—
+after their scheduled check in, Yularen attempted to contact them to no avail. Though Vel felt that perhaps Rex was the cause of the delay, Orven retorted that the opposite could be true of Cody. Both resolved to devise a more efficient strategy to find Grievous, leaving Yularen in charge of contacting the clone officers. Not long after, Yularen was notified that the all-clear-signal on Rishi had been deactivated, prompting Vel to sound an invasion alarm and order his fleet to the Rishi system. The Aurelian's fleet arrived just in time to force Grievous' ships out of the system, foiling the cyborg's plot to launch a surprise attack on Kamino. After the incident, Vel thanked the surviving clones that had defended the station—
 
 Echo
 
@@ -3648,7 +3648,7 @@ medal
 
 ceremony.
 
-At some point, Kenobi and Skywalker crashed their
+At some point, Vel and Orven crashed their
 
 Y-wing
 
@@ -3692,7 +3692,7 @@ As you listened to yours, my old master? No, we're going to stay and fight.
 
 Listen
 
-Kenobi ordered Skywalker to retreat from his post at Bothawui.
+Vel ordered Orven to retreat from his post at Bothawui.
 
 Following his escape, Grievous began ambushing Concord fleets in the
 
@@ -3710,7 +3710,7 @@ Falleen
 
 Both the Aurelian and the Concord has struggles against Grievous, who achieved many victories for the Separatists, proving to be a nearly indestructible opponent for them, leaving a trail of conquest and destruction across the galaxy.
 
-Kenobi advised Skywalker to retreat from his post at
+Vel advised Orven to retreat from his post at
 
 the
 
@@ -3718,11 +3718,11 @@ gas giant
 
 Bothawui
 
-, citing that Grievous' fleet outnumbered his. Tano agreed with the Master, though Skywalker insisted on staying to protect the
+, citing that Grievous' fleet outnumbered his. Tano agreed with the Master, though Orven insisted on staying to protect the
 
 sector
 
-. Skywalker managed to
+. Orven managed to
 
 destroy
 
@@ -3732,19 +3732,19 @@ A captured AR-27 managed to send the coordinates of
 
 Skytop Station
 
-—a secret Separatist listening post—to Skywalker and Tano. After reporting the information to Kenobi using
+—a secret Separatist listening post—to Orven and Tano. After reporting the information to Vel using
 
 scramble code 1477
 
-, he instructed them to wait for reinforcements. Though Skywalker wanted to rescue his mechling, Kenobi ordered him to destroy the station instead. After the
+, he instructed them to wait for reinforcements. Though Orven wanted to rescue his mechling, Vel ordered him to destroy the station instead. After the
 
 mission
 
-and unsanctioned rescue, an exasperated Kenobi grudgingly accepted Skywalker's retrieval to the
+and unsanctioned rescue, an exasperated Vel grudgingly accepted Orven's retrieval to the
 
 mechling
 
-with only a brief rebuke for the reckless behavior. While Tano agreed that the Kenobi's reasoning, Skywalker explained that he knew she could complete the mission on her own so he could rescue AR-27.
+with only a brief rebuke for the reckless behavior. While Tano agreed that the Vel's reasoning, Orven explained that he knew she could complete the mission on her own so he could rescue AR-27.
 
 Dooku on Vanqor
 
@@ -3764,11 +3764,11 @@ Yeah, by a rock.
 
 Taren Vel using an enviro-suit
 
-In their efforts to track the location of Dooku, Kenobi helped devise a plan to trick the Noctari into revealing his location. As part of this
+In their efforts to track the location of Dooku, Vel helped devise a plan to trick the Noctari into revealing his location. As part of this
 
 plot
 
-, Skywalker allowed himself to be captured
+, Orven allowed himself to be captured
 
 by pretending his
 
@@ -3786,7 +3786,7 @@ Munificent
 
 star frigate
 
-to discover where it was stationed. Kenobi then traveled to his friend's last known location—an ice field near the Outer Rim planet
+to discover where it was stationed. Vel then traveled to his friend's last known location—an ice field near the Outer Rim planet
 
 Vanqor
 
@@ -3798,15 +3798,15 @@ and
 
 jetpack
 
-to travel through space. After sneaking aboard the frigate, Kenobi successfully freed Skywalker from his detention cell and returned his
+to travel through space. After sneaking aboard the frigate, Vel successfully freed Orven from his detention cell and returned his
 
 lumen blade
 
-to him. The younger Aurelian felt annoyed that he had been the one to be captured, which led Kenobi to tease that when he became a Aurelian Master, he could make the plans.
+to him. The younger Aurelian felt annoyed that he had been the one to be captured, which led Vel to tease that when he became a Aurelian Master, he could make the plans.
 
-Kenobi in a cave on Vanqor
+Vel in a cave on Vanqor
 
-Kenobi and Skywalker confronted Dooku in his meditation chamber, acting in a proud way that disgusted the older man. The Noctari quickly used an escape chute to head towards the vessel's hangar to head to his
+Vel and Orven confronted Dooku in his meditation chamber, acting in a proud way that disgusted the older man. The Noctari quickly used an escape chute to head towards the vessel's hangar to head to his
 
 Punworcca 116
 
@@ -3814,9 +3814,9 @@ Punworcca 116
 
 interstellar sloop
 
-, followed by Skywalker. After Dooku successfully took off in his escape vessel,
+, followed by Orven. After Dooku successfully took off in his escape vessel,
 
-Kenobi and Skywalker pursued him in a stolen
+Vel and Orven pursued him in a stolen
 
 Sheathipede
 
@@ -3826,7 +3826,7 @@ and called on Tano to rally Concord reinforcements.
 
 The Aurelian scored a direct hit on Dooku's sloop that knocked out his engines, forcing him to make a crash landing on Vanqor.
 
-However, the damage done to Kenobi and Skywalker's stolen shuttle by the Noctari's escort also necessitated their own emergency landing on the same world. As their ship touched ground, both Aurelian exchanged playful banter about piloting and destroyed the
+However, the damage done to Vel and Orven's stolen shuttle by the Noctari's escort also necessitated their own emergency landing on the same world. As their ship touched ground, both Aurelian exchanged playful banter about piloting and destroyed the
 
 homing beacon
 
@@ -3834,13 +3834,13 @@ on Dooku's crashed ship.
 
 The Aurelian pair surveyed the area, deciding to start their search for the Noctari in Vanqor's caves.
 
-Dooku manipulated The Lumen Field to flare the barest hint of his Lumen Field presence within the caves, which the Aurelian picked up as he had planned.
+Dooku manipulated the Lumen Field to flare the barest hint of his Lumen Field presence within the caves, which the Aurelian picked up as he had planned.
 
-When Kenobi and Skywalker entered the caves, Dooku crashed down the loosened rock above the entrance using
+When Vel and Orven entered the caves, Dooku crashed down the loosened rock above the entrance using
 
 telekinesis
 
-, trapping them inside. Though both survived, Skywalker had lost his lumen blade, which Kenobi chided him for while cleaning his own weapon. The Aurelian Master watched in amusement as a large gundark went after his former apprentice, but eventually helped him throw rocks at the creature to cease its attacks. When the caves started to fill with poison gas, Tano rescued the pair—though both indignantly claimed that they had not needed help and were productively tracking Dooku. After escaping, Kenobi and Skywalker contacted the Aurelian Council.
+, trapping them inside. Though both survived, Orven had lost his lumen blade, which Vel chided him for while cleaning his own weapon. The Aurelian Master watched in amusement as a large gundark went after his former apprentice, but eventually helped him throw rocks at the creature to cease its attacks. When the caves started to fill with poison gas, Tano rescued the pair—though both indignantly claimed that they had not needed help and were productively tracking Dooku. After escaping, Vel and Orven contacted the Aurelian Council.
 
 Ohnaka's pirates
 
@@ -3850,7 +3850,7 @@ It's a wonder you don't get along with them, Dooku. You have so much in common.
 
 ―Dooku and Taren Vel, about Ohnaka's pirates
 
-Kenobi and Skywalker with a captured Dooku
+Vel and Orven with a captured Dooku
 
 After learning that Dooku was captured by
 
@@ -3864,7 +3864,7 @@ on Vanqor and brought to the planet
 
 Florrum
 
-, who hoped to trade him for a hefty ransom from the Concord, the Aurelian Council agreed to send Kenobi and Skywalker to verify his capture following the suggestion of Amidala. Windu informed the Aurelian of their next assignment, and the stipulation that they arrive unarmed. Though both Kenobi and Skywalker were uneasy with what could become a hostile situation, Windu insisted on the importance of the mission. After landing in a small ship, both were led to the pirates'
+, who hoped to trade him for a hefty ransom from the Concord, the Aurelian Council agreed to send Vel and Orven to verify his capture following the suggestion of Amidala. Windu informed the Aurelian of their next assignment, and the stipulation that they arrive unarmed. Though both Vel and Orven were uneasy with what could become a hostile situation, Windu insisted on the importance of the mission. After landing in a small ship, both were led to the pirates'
 
 stronghold
 
@@ -3878,25 +3878,25 @@ mission
 
 to trade a ransom for the Count.
 
-Kenobi and Skywalker with Ohnaka
+Vel and Orven with Ohnaka
 
-Kenobi and Skywalker attended a feast after their business concluded, and accepted offered refreshments. However, before a
+Vel and Orven attended a feast after their business concluded, and accepted offered refreshments. However, before a
 
 toast
 
 both swapped their cups with their pirate neighbors and discovered shortly after that Ohnaka had attempted to poison them when both collapsed.
 
-After taking a sip of their drinks, both woke up in restraints connected to the Dooku's bindings. After briefly arguing with the Noctari, Kenobi and Skywalker agreed that they would form a plan to escape their situation. When Dooku opened their cell using a Lumen Field-levitated knife, Kenobi grudgingly told his former apprentice to let the Separatist focus. Though the trio escaped from the room they were in, they were recaptured by Ohnaka's pirates shortly after.
+After taking a sip of their drinks, both woke up in restraints connected to the Dooku's bindings. After briefly arguing with the Noctari, Vel and Orven agreed that they would form a plan to escape their situation. When Dooku opened their cell using a Lumen Field-levitated knife, Vel grudgingly told his former apprentice to let the Separatist focus. Though the trio escaped from the room they were in, they were recaptured by Ohnaka's pirates shortly after.
 
-Ohnaka confronted Kenobi, Skywalker, and Dooku, warning them not to escape again to ruin his chance at a profit. When the captain left Kenobi mind tricked a guard into opening their cell. The trio crept through the pirate compound, exchanging tense banter. Eventually, Dooku broke them through a wall and they raced to the edge of the compound. However, Ohnaka caught up to them and put them back in a cell, eventually having them separated from Dooku and hung by restraints in front of a group of pirates. The captain informed them that their Concord had not arrived with Dooku's ransom and proceeded to electrocute the pair. When Dooku escaped the compound and knocked out the area's electrical supply, Kenobi and Skywalker were freed, holding Ohnaka as a hostage using their lightsabers. Binks and his clone escort arrived, providing the Aurelian with transport off Florrum. Though it surprised Ohnaka, Kenobi ordered Skywalker to let him go free, as Aurelian do not take revenge—though warned that Dooku did not share their same mindset.
+Ohnaka confronted Vel, Orven, and Dooku, warning them not to escape again to ruin his chance at a profit. When the captain left Vel mind tricked a guard into opening their cell. The trio crept through the pirate compound, exchanging tense banter. Eventually, Dooku broke them through a wall and they raced to the edge of the compound. However, Ohnaka caught up to them and put them back in a cell, eventually having them separated from Dooku and hung by restraints in front of a group of pirates. The captain informed them that their Concord had not arrived with Dooku's ransom and proceeded to electrocute the pair. When Dooku escaped the compound and knocked out the area's electrical supply, Vel and Orven were freed, holding Ohnaka as a hostage using their lumen blades. Binks and his clone escort arrived, providing the Aurelian with transport off Florrum. Though it surprised Ohnaka, Vel ordered Orven to let him go free, as Aurelian do not take revenge—though warned that Dooku did not share their same mindset.
 
 Orto Plutonia
 
 Now that you have created peace between your people and the Talz, remember one crucial thing…
 
-Yes, Master Kenobi?
+Yes, Master Vel?
 
-Make it last, Assembly Delegate. Make it last.
+Make it last, senator. Make it last.
 
 ―Taren Vel and Riyo Chuchi
 
@@ -3908,7 +3908,7 @@ to ascertain why the Concord had lost contact with a clone
 
 outpost
 
-, Kenobi and Skywalker, along with
+, Vel and Orven, along with
 
 Pantoran
 
@@ -3936,11 +3936,11 @@ erected inside. After visiting a nearby
 
 Separatist base
 
-, similar destruction was found, leading Kenobi to believe that the murders at the Concord's base were done by a third unknown party. Logs showed mysterious warriors had taken out the Separatist droids when investigating the world's southern canyon, which Kenobi decided would be a good starting point for their investigation.
+, similar destruction was found, leading Vel to believe that the murders at the Concord's base were done by a third unknown party. Logs showed mysterious warriors had taken out the Separatist mechlings when investigating the world's southern canyon, which Vel decided would be a good starting point for their investigation.
 
-Kenobi surprised by a hug given by Thi-Sen in lieu of a handshake.
+Vel surprised by a hug given by Thi-Sen in lieu of a handshake.
 
-When Skywalker and Kenobi headed to the location they met the leader of the
+When Orven and Vel headed to the location they met the leader of the
 
 Talz
 
@@ -3948,9 +3948,9 @@ people
 
 Thi-Sen
 
-and their associates, communicating with the natives using rudimentary hand signals and drawings. The Aurelian learned that battle droids had attacked the Talz and the clones were accidentally caught in the middle of the conflict. The pair returned to the Concord base, and knowing that the Talz only wanted peace, arranged a diplomatic meeting between the Pantorans and Talz. However, Chi Cho angrily refused to accept any peaceful outcome and provoked a war between him and Thi-Sen's people as he refused to accept peace despite the protests of Chuchi and the Aurelian. He declared it an internal affair of Pantora to remove the Aurelian from the equation, ordering them to submit to him because they were under the High Assembly's jurisdiction.
+and their associates, communicating with the natives using rudimentary hand signals and drawings. The Aurelian learned that battle mechlings had attacked the Talz and the clones were accidentally caught in the middle of the conflict. The pair returned to the Concord base, and knowing that the Talz only wanted peace, arranged a diplomatic meeting between the Pantorans and Talz. However, Chi Cho angrily refused to accept any peaceful outcome and provoked a war between him and Thi-Sen's people as he refused to accept peace despite the protests of Chuchi and the Aurelian. He declared it an internal affair of Pantora to remove the Aurelian from the equation, ordering them to submit to him because they were under the High Assembly's jurisdiction.
 
-When Skywalker and Kenobi appealed to Chuchi to find a way to resolve the political matter diplomatically, she contacted the Speaker of the
+When Orven and Vel appealed to Chuchi to find a way to resolve the political matter diplomatically, she contacted the Speaker of the
 
 Pantoran Assembly
 
@@ -3958,7 +3958,7 @@ who granted her the authority to negotiate peace and declared the Chairman out o
 
 attacked
 
-before Kenobi, Skywalker, and Chuchi landed and halted the Talz's attack. To settle the conflict between the Pantorans and the Talz, Chuchi met with Thi-Sen, establishing an agreement that allowed the Talz to live in peace on the planet. As the Assembly Delegate and the Aurelian boarded a gunship off-world, Kenobi congratulated the Assembly Delegate in establishing peace and urged her to make it last and act as an example to others.
+before Vel, Orven, and Chuchi landed and halted the Talz's attack. To settle the conflict between the Pantorans and the Talz, Chuchi met with Thi-Sen, establishing an agreement that allowed the Talz to live in peace on the planet. As the Assembly Delegate and the Aurelian boarded a gunship off-world, Vel congratulated the Assembly Delegate in establishing peace and urged her to make it last and act as an example to others.
 
 The Aurelian Master felt that the peace achieved through the balancing of both sides had been a unique challenge.
 
@@ -3968,13 +3968,13 @@ A great leap forward often requires taking two steps back.
 
 ―Taren Vel
 
-Kenobi in the virabl bomb room of Nuvo Vindi's bio-lab
+Vel in the virabl bomb room of Nuvo Vindi's bio-lab
 
-The Aurelian Council later agreed to send Kenobi, Skywalker, and Tano, to Veloria in response to intelligence that suggested that a Separatist bio-lab had been set up on the planet at Amidala's suggestion. When Amidala and Binks lost contact while searching for the lab, Skywalker sent Tano along with the Gungan native
+The Aurelian Council later agreed to send Vel, Orven, and Tano, to Veloria in response to intelligence that suggested that a Separatist bio-lab had been set up on the planet at Amidala's suggestion. When Amidala and Binks lost contact while searching for the lab, Orven sent Tano along with the Gungan native
 
 Peppi Bow
 
-to locate them. Meanwhile, Kenobi and Skywalker arrived on Veloria learned from new information discovered by Captain
+to locate them. Meanwhile, Vel and Orven arrived on Veloria learned from new information discovered by Captain
 
 Gregar Typho
 
@@ -3986,7 +3986,7 @@ was using the lab to perfect the deadly
 
 Blue Shadow Virus
 
-so as to release it into key Concord star systems. Kenobi and Skywalker proceeded to plan an
+so as to release it into key Concord star systems. Vel and Orven proceeded to plan an
 
 infiltration
 
@@ -3994,13 +3994,13 @@ of the facility to prevent the virus from being spread across
 
 the galaxy
 
-While they waited in the hangar bay, Kenobi took note of Skywalker's increased levels of agitation during the mission. After being contacted by Tano, Kenobi and Skywalker left instructions for her to cause a diversion. On the other side of the lab, the pair entered and met with her before beginning a search for Vindi's
+While they waited in the hangar bay, Vel took note of Orven's increased levels of agitation during the mission. After being contacted by Tano, Vel and Orven left instructions for her to cause a diversion. On the other side of the lab, the pair entered and met with her before beginning a search for Vindi's
 
 viral bombs
 
-. Kenobi located the room where the bombs were held with his clone troopers, instructing his men to deactivate them all. Though Vindi attempted to release the virus, the Aurelian were able to apprehend him and rescue Amidala and Binks.
+. Vel located the room where the bombs were held with his clone troopers, instructing his men to deactivate them all. Though Vindi attempted to release the virus, the Aurelian were able to apprehend him and rescue Amidala and Binks.
 
-As Kenobi and Skywalker prepared to transfer Vindi to Veyron Prime for trial, Tano, Amidala, and several clones discovered that a vial of the virus was missing. Though the alarm was sounded prior to the vial's detonation, the virus was released throughout the lab. Tano, Amidala, and the clones with them were compromised and infected by the virus. As they worked to ensure droids would not escape the facility, Skywalker and Kenobi implored the Veloria as to what the cure for the virus was. Upon learning it, the Aurelian then flew to planet
+As Vel and Orven prepared to transfer Vindi to Veyron Prime for trial, Tano, Amidala, and several clones discovered that a vial of the virus was missing. Though the alarm was sounded prior to the vial's detonation, the virus was released throughout the lab. Tano, Amidala, and the clones with them were compromised and infected by the virus. As they worked to ensure mechlings would not escape the facility, Orven and Vel implored the Veloria as to what the cure for the virus was. Upon learning it, the Aurelian then flew to planet
 
 Iego
 
@@ -4012,15 +4012,15 @@ reeksa
 
 root antidote to the virus found there.
 
-While on Iego, Skywalker destroyed a number of reprogrammed battle droids owned by the local native
+While on Iego, Orven destroyed a number of reprogrammed battle mechlings owned by the local native
 
 Jaybo Hood
 
-, which Kenobi chided him for. Hood then told the pair where to find the antidote they were looking for, though warned it was dangerous. The young man also informed the Aurelian that the phantom leader of Iego,
+, which Vel chided him for. Hood then told the pair where to find the antidote they were looking for, though warned it was dangerous. The young man also informed the Aurelian that the phantom leader of Iego,
 
 Drol
 
-, would not allow any individual to leave the planet. Kenobi and Skywalker rode a
+, would not allow any individual to leave the planet. Vel and Orven rode a
 
 xandu
 
@@ -4028,15 +4028,15 @@ to the bottom of a ravine and quickly gathered some reeksa root before escaping 
 
 laser security system
 
-surrounding the planet and enlisted Hood's help in destroying it despite the skepticism of the other natives. When successful, Kenobi and Skywalker traveled back to Veloria and delivered the antidote that saved Tano, Amidala, and the clone troopers. Kenobi also offered Binks blaster training to hone his skills, which the Gungan enthusiastically accepted.
+surrounding the planet and enlisted Hood's help in destroying it despite the skepticism of the other natives. When successful, Vel and Orven traveled back to Veloria and delivered the antidote that saved Tano, Amidala, and the clone troopers. Vel also offered Binks blaster training to hone his skills, which the Gungan enthusiastically accepted.
 
-After the event, the Aurelian Master became more keenly aware of Skywalker's emotional instability when around Amidala and resolved to watch the pair more closely as the war continued.
+After the event, the Aurelian Master became more keenly aware of Orven's emotional instability when around Amidala and resolved to watch the pair more closely as the war continued.
 
 Invasion of Ryloth
 
 We need to remember why we're here. We came to aid the Twi'leks, not destroy their home.
 
-―Kenobi to Ghost Company aboard the
+―Vel to Ghost Company aboard the
 
 Crumb Bomber
 
@@ -4068,17 +4068,17 @@ and two
 
 Munificent
 
--class frigates. The Aurelian Council devised a plan for Kenobi and Windu to lead a ground assault to
+-class frigates. The Aurelian Council devised a plan for Vel and Windu to lead a ground assault to
 
 invade and liberate
 
-the planet after the High Assembly requested them to intervene. Skywalker and Tano were dispatched to destroy the
+the planet after the High Assembly requested them to intervene. Orven and Tano were dispatched to destroy the
 
 Separatist blockade
 
 surrounding the planet to support their effort.
 
-The initial attempt to break the blockade was unsuccessful, which Skywalker reported to Kenobi and Windu as a heavy loss through hologram, considering the deceased clone pilots and sacrifice of the
+The initial attempt to break the blockade was unsuccessful, which Orven reported to Vel and Windu as a heavy loss through hologram, considering the deceased clone pilots and sacrifice of the
 
 Venator
 
@@ -4086,27 +4086,27 @@ Venator
 
 Redeemer
 
-. Kenobi advised him to give Tano time to grieve the loss of
+. Vel advised him to give Tano time to grieve the loss of
 
 her squadron
 
-, but added that he would need her assistance to complete their objectives. Windu informed Skywalker that he needed to break the blockade within the next planetary rotation for the invasion to continue. When Skywalker and Tano's second attempt is successful, Kenobi arrived with the rest of the
+, but added that he would need her assistance to complete their objectives. Windu informed Orven that he needed to break the blockade within the next planetary rotation for the invasion to continue. When Orven and Tano's second attempt is successful, Vel arrived with the rest of the
 
 invasion forces
 
-in the planet's vicinity. Kenobi contacted Tano and she cleared them to begin their ground assault.
+in the planet's vicinity. Vel contacted Tano and she cleared them to begin their ground assault.
 
-Kenobi landed on Ryloth with Ghost Company troopers.
+Vel landed on Ryloth with Ghost Company troopers.
 
-In preparing their assault, Windu asked Kenobi to consider capturing the city
+In preparing their assault, Windu asked Vel to consider capturing the city
 
 Nabat
 
-first to secure a landing zone, which he agreed to. Kenobi then boarded a small transport with some of his men from
+first to secure a landing zone, which he agreed to. Vel then boarded a small transport with some of his men from
 
 Ghost Company
 
-and instructed them to do minimal damage to the local habitat and not harm natives. In space, the rest of Windu's fleet came under attack by Separatist forces. Windu contacted Kenobi and informed him that the Concord would be unable to use
+and instructed them to do minimal damage to the local habitat and not harm natives. In space, the rest of Windu's fleet came under attack by Separatist forces. Windu contacted Vel and informed him that the Concord would be unable to use
 
 Acclamator
 
@@ -4122,7 +4122,7 @@ proton cannons
 
 were wiped out.
 
-Kenobi and his men landed and steadily made their way to the outskirts of the city, taking out droids as they went. Using telekinesis, the Aurelian helped levitate the
+Vel and his men landed and steadily made their way to the outskirts of the city, taking out mechlings as they went. Using telekinesis, the Aurelian helped levitate the
 
 mechling poppers
 
@@ -4134,23 +4134,23 @@ and
 
 Boil
 
-to take out a bunker. After securing the wall perimeter Kenobi ordered Cody to send his best men to scout ahead, and the commander ultimately selected Waxer, Boil, and
+to take out a bunker. After securing the wall perimeter Vel ordered Cody to send his best men to scout ahead, and the commander ultimately selected Waxer, Boil, and
 
 Wooley
 
-. Scouting yielded useful intelligence, leading Cody to report to Kenobi and Windu the placements of the gun encampments as well as the Separatists' use of living Twi'lek shields. However, one of the tactical mechling commander
+. Scouting yielded useful intelligence, leading Cody to report to Vel and Windu the placements of the gun encampments as well as the Separatists' use of living Twi'lek shields. However, one of the tactical mechling commander
 
 TX-20
 
-probe droids
+probe mechlings
 
 recorded their strategy session and provided it to the leader. When Waxer and Boil failed to report in from scouting after meeting the Twi'lek child
 
 Numa
 
-, Kenobi became concerned.
+, Vel became concerned.
 
-Kenobi distracting gutkurrs
+Vel distracting gutkurrs
 
 The general and his troops decided to move forward without the missing troopers, entering the village outskirts. They soon encountered starved native
 
@@ -4158,23 +4158,23 @@ gutkurrs
 
 Twi'leki
 
-and learned that she could lead them to the prisoners. Tasking Cody with creating a diversion for the droids, Kenobi went with Waxer, Boil, and Numa to the underground passages and freed the Twi'lek hostages who fled into the tunnels.
+and learned that she could lead them to the prisoners. Tasking Cody with creating a diversion for the mechlings, Vel went with Waxer, Boil, and Numa to the underground passages and freed the Twi'lek hostages who fled into the tunnels.
 
-TX-20's tank targeted Kenobi and Numa.
+TX-20's tank targeted Vel and Numa.
 
-Then, the general proceeded to take control of a proton cannon and managed to take out their cannons with the help of Waxer and Boil loading fuel cartridges in. However, TX-20 blasted the three aside and threatened Kenobi, who was holding Numa in his arms. Before the mechling could blast them, other Twi'leks rushed the mechling and protected Kenobi, with the Aurelian attempting to shield Numa's eyes from the violence. As Windu's transports from the
+Then, the general proceeded to take control of a proton cannon and managed to take out their cannons with the help of Waxer and Boil loading fuel cartridges in. However, TX-20 blasted the three aside and threatened Vel, who was holding Numa in his arms. Before the mechling could blast them, other Twi'leks rushed the mechling and protected Vel, with the Aurelian attempting to shield Numa's eyes from the violence. As Windu's transports from the
 
 Acclamator
 
-landed, Windu commended Kenobi on his victory and they continued with their next mission.
+landed, Windu commended Vel on his victory and they continued with their next mission.
 
 As the Concord's forces departed for the capital city
 
 Lessu
 
-Waxer and Boil inquired Kenobi about the meaning of "nerra," which the Aurelian General translated as "brother."
+Waxer and Boil inquired Vel about the meaning of "nerra," which the Aurelian General translated as "brother."
 
-After Windu and and his forces reached Lessu, Kenobi led his contingent to capture the southern hemisphere of Ryloth and was able to successfully capture the
+After Windu and and his forces reached Lessu, Vel led his contingent to capture the southern hemisphere of Ryloth and was able to successfully capture the
 
 Jixuan desert
 
@@ -4190,23 +4190,23 @@ Let's get in there.
 
 ―Taren Vel and Kael Orven pursuing Cad Bane
 
-Kenobi and Skywalker during the First Battle of Felucia
+Vel and Orven during the First Battle of Felucia
 
 During the
 
 First Battle of Felucia
 
-, Kenobi was sent along with Skywalker and Tano to the Separatist-invaded planet
+, Vel was sent along with Orven and Tano to the Separatist-invaded planet
 
 Felucia
 
-. While Kenobi stayed with the main body of troops to defend their clearing-based emplacement of AT-TE walkers, Tano led two AT-TE walkers and a
+. While Vel stayed with the main body of troops to defend their clearing-based emplacement of AT-TE walkers, Tano led two AT-TE walkers and a
 
 Juggernaut
 
-tank on a patrol of the dense jungle. Kenobi realized that they were outnumbered, seeing that droids would soon outflank their position. He ordered an immediate retreat as soon as General Koon arrived to help them, prompting clones to prepare gunships for fleeing. The Aurelian Master contacted Tano to do so as well, but the Padawan refused to retreat—claiming her foes were retreating. When Skywalker and Kenobi arrived to pick her up, she refused to pull back until Skywalker convinced her that the battle was lost. As their gunship flew away, Kenobi, Skywalker, and Tano observed the position she had been at erupt in flames.
+tank on a patrol of the dense jungle. Vel realized that they were outnumbered, seeing that mechlings would soon outflank their position. He ordered an immediate retreat as soon as General Koon arrived to help them, prompting clones to prepare gunships for fleeing. The Aurelian Master contacted Tano to do so as well, but the Padawan refused to retreat—claiming her foes were retreating. When Orven and Vel arrived to pick her up, she refused to pull back until Orven convinced her that the battle was lost. As their gunship flew away, Vel, Orven, and Tano observed the position she had been at erupt in flames.
 
-Kenobi and Skywalker tracked Bane as he stole a Aurelian holocron.
+Vel and Orven tracked Bane as he stole a Aurelian holocron.
 
 communications center
 
@@ -4224,7 +4224,7 @@ sneak
 
 into the Temple. The Aurelian pair noticed their systems rebooting and acting strangely and located a disturbance in the Temple's ventilation shafts with advice from Eld Miro.
 
-Kenobi and Skywalker discovered the vent Bane had entered, but were unable to locate the criminal despite their best efforts. Eld Miro informed them that their intruders were deep in the Temple and had likely received outside help. From the Archives, Tano captured Bane's
+Vel and Orven discovered the vent Bane had entered, but were unable to locate the criminal despite their best efforts. Eld Miro informed them that their intruders were deep in the Temple and had likely received outside help. From the Archives, Tano captured Bane's
 
 changeling
 
@@ -4232,11 +4232,11 @@ associate
 
 Cato Parasitti
 
-and informed the pair of this. Kenobi and Skywalker assumed that Bane would try to access the communications tower from the
+and informed the pair of this. Vel and Orven assumed that Bane would try to access the communications tower from the
 
 Holocron Vault
 
-and headed to the tower. Bane took the opportunity to steal a Aurelian holocron and sneak out of the building while Kenobi and Skywalker narrowly avoided a bomb set off by Todo 360 in the ventilation shafts. Parasitti revealed Bane's next target would be the Aurelian
+and headed to the tower. Bane took the opportunity to steal a Aurelian holocron and sneak out of the building while Vel and Orven narrowly avoided a bomb set off by Todo 360 in the ventilation shafts. Parasitti revealed Bane's next target would be the Aurelian
 
 Bolla Ropal
 
@@ -4244,7 +4244,7 @@ Bolla Ropal
 
 kyber memory crystal
 
-that stored the names of every Lumen Field-sensitive child in the galaxy. Kenobi then proceeded to lead Parasitti away while Skywalker and Tano set out to warn Ropal.
+that stored the names of every Lumen-sensitive child in the galaxy. Vel then proceeded to lead Parasitti away while Orven and Tano set out to warn Ropal.
 
 Pursuit on Rodia
 
@@ -4252,19 +4252,19 @@ There are thousands of children on that list. Which will he go after first?
 
 ―Taren Vel
 
-Kenobi meeting Mahtee Dunn
+Vel meeting Mahtee Dunn
 
 Bane managed to capture and
 
 torture
 
-Ropal, only stopping when Aurelian arrived on his ship. Despite Skywalker and Tano's best efforts, the criminal escaped in his ship.
+Ropal, only stopping when Aurelian arrived on his ship. Despite Orven and Tano's best efforts, the criminal escaped in his ship.
 
-Both reported back to Kenobi and Eld Miro afterward, who worried about the future harm done to the children on the list. Kenobi and other Aurelian meditated to sense through The Lumen Field which children would be harmed first, coming up with a small list of locations for their efforts—including a child on
+Both reported back to Vel and Eld Miro afterward, who worried about the future harm done to the children on the list. Vel and other Aurelian meditated to sense through the Lumen Field which children would be harmed first, coming up with a small list of locations for their efforts—including a child on
 
 the planet
 
-Rodia that he sensed. Kenobi then flew to the planet and met the
+Rodia that he sensed. Vel then flew to the planet and met the
 
 Rodian
 
@@ -4276,13 +4276,13 @@ Wee Dunn
 
 had been taken by a bounty hunter posing as a Aurelian. He caught up to Bane shortly after while he was holding the child while using a Aurelian cloak as a disguise.
 
-Kenobi defending against Bane's automated laser defense system on Black Stall Station
+Vel defending against Bane's automated laser defense system on Black Stall Station
 
 Using a
 
 grappling hook
 
-, Kenobi pursued Bane across several rooftops, but eventually watched the bounty hunter escape in a
+, Vel pursued Bane across several rooftops, but eventually watched the bounty hunter escape in a
 
 Rogue
 
@@ -4294,23 +4294,23 @@ Xanadu Blood
 
 Mustafar
 
-, he was caught on Veloria by Skywalker and Tano in his third kidnapping attempt. Kenobi interrogated Bane aboard a
+, he was caught on Veloria by Orven and Tano in his third kidnapping attempt. Vel interrogated Bane aboard a
 
 Venator
 
--class Abyss Cruiser, and used a combined Lumen Field mind trick alongside Skywalker and Windu to compel him into agreeing to locate the holocron. Though Windu felt that this was an internal matter, Skywalker insisted on reporting to Maltheon of the discover, which the younger Aurelian's former Master eventually agreed to.
+-class Abyss Cruiser, and used a combined Lumen Field mind trick alongside Orven and Windu to compel him into agreeing to locate the holocron. Though Windu felt that this was an internal matter, Orven insisted on reporting to Maltheon of the discover, which the younger Aurelian's former Master eventually agreed to.
 
-Kenobi and Windu then traveled with a restrained Bane to
+Vel and Windu then traveled with a restrained Bane to
 
 Black Stall Station
 
-and retrieved the missing holocron, but were forced to let him escape through an escape pod after being caught in the station's traps. After Tano and Skywalker
+and retrieved the missing holocron, but were forced to let him escape through an escape pod after being caught in the station's traps. After Tano and Orven
 
 retrieved
 
 the pair of missing children, they reported to the full Aurelian Council.
 
-Kenobi's efforts to assist the stolen child were remembered by the Rodian
+Vel's efforts to assist the stolen child were remembered by the Rodian
 
 Chekkoo clan
 
@@ -4326,7 +4326,7 @@ No that—that doesn't seem right. I think we should go this way.
 
 ―Taren Vel and Kael Orven
 
-Kenobi, Skywalker, and Tano made a crash landing on Felucia.
+Vel, Orven, and Tano made a crash landing on Felucia.
 
 The
 
@@ -4336,15 +4336,15 @@ of a
 
 medical station
 
-orbiting over Felucia prompted the Aurelian Council to send Kenobi, Skywalker, and Tano to investigate the issue. Once in the system, their ship was shot down by Separatist
+orbiting over Felucia prompted the Aurelian Council to send Vel, Orven, and Tano to investigate the issue. Once in the system, their ship was shot down by Separatist
 
-vulture droids
+vulture mechlings
 
 from an
 
 automated vulture mechling deployment station
 
-. Forced to make a crash landing, the trio ejected from the ship moments before it exploded. Kenobi and Skywalker proceeded to argue about which direction to go, but eventually followed Tano's lead after seeing smoke in the sky indicating civilization. They soon came across a
+. Forced to make a crash landing, the trio ejected from the ship moments before it exploded. Vel and Orven proceeded to argue about which direction to go, but eventually followed Tano's lead after seeing smoke in the sky indicating civilization. They soon came across a
 
 nysillin
 
@@ -4372,23 +4372,23 @@ Seripas
 
 Casiss Midagatis
 
-explained their current situation, pleading for the Aurelian's help. However, Kenobi declined and insisted on reporting the missing medical station even though Tano disagreed. Ohnaka's pirates arrived at the village shortly after, and Kenobi conversed with their leader while the rest of the gang looked on as they reflected on
+explained their current situation, pleading for the Aurelian's help. However, Vel declined and insisted on reporting the missing medical station even though Tano disagreed. Ohnaka's pirates arrived at the village shortly after, and Vel conversed with their leader while the rest of the gang looked on as they reflected on
 
 their past meeting on Florrum.
 
-Sugi, Kenobi, and others coming to the aid of Embo.
+Sugi, Vel, and others coming to the aid of Embo.
 
-The Aurelian Master proposed a deal to the pirates to trade a large sum of credits for a ride to the nearest Concord outpost. However, Ohnaka declined and left, insisting that he would stay for his share of nysillin. Though not willing to directly commit to fighting pirates, Kenobi and the other Aurelian agreed to help train the Felucian farmers to fight for themselves. Kenobi expressed skepticism with Sugi's methods, but grudgingly resolved to hope she could do her job. Skywalker struggled to train the civilians with him as his former Master watched, but eventually helped the villagers learn some skills.
+The Aurelian Master proposed a deal to the pirates to trade a large sum of credits for a ride to the nearest Concord outpost. However, Ohnaka declined and left, insisting that he would stay for his share of nysillin. Though not willing to directly commit to fighting pirates, Vel and the other Aurelian agreed to help train the Felucian farmers to fight for themselves. Vel expressed skepticism with Sugi's methods, but grudgingly resolved to hope she could do her job. Orven struggled to train the civilians with him as his former Master watched, but eventually helped the villagers learn some skills.
 
 After a
 
 pirate scout
 
-was killed by Embo near the village when caught, Kenobi noted that when the spy failed to report it would be noticed by Ohnaka. A
+was killed by Embo near the village when caught, Vel noted that when the spy failed to report it would be noticed by Ohnaka. A
 
 skirmish
 
-ensued shortly after, ultimately ending in a win for the villagers, Aurelian, and bounty hunters. Sugi then offered Kenobi, Skywalker, and Tano a ride back to the nearest Concord outpost, which they accepted.
+ensued shortly after, ultimately ending in a win for the villagers, Aurelian, and bounty hunters. Sugi then offered Vel, Orven, and Tano a ride back to the nearest Concord outpost, which they accepted.
 
 The Zillo Beast
 
@@ -4396,7 +4396,7 @@ Why would the Chancellor want to bring the beast here? He thinks that by studyin
 
 ―Taren Vel
 
-Kenobi worked with Concord forces to subdue the Zillo Beast.
+Vel worked with Concord forces to subdue the Zillo Beast.
 
 Following the discovery of the
 
@@ -4406,7 +4406,7 @@ during the
 
 Battle of Malastare
 
-and its transference to Veyron Prime, Windu shared his concerns with Kenobi while in the Temple. He agreed with the other Aurelian Master, he suggested to let Skywalker convince Maltheon to send the beast back to its origins. Kenobi then approached Assembly Delegate Amidala to help him—who in turn helped him convince Skywalker to reason with Maltheon. However, the Chancellor had already ordered
+and its transference to Veyron Prime, Windu shared his concerns with Vel while in the Temple. He agreed with the other Aurelian Master, he suggested to let Orven convince Maltheon to send the beast back to its origins. Vel then approached Assembly Delegate Amidala to help him—who in turn helped him convince Orven to reason with Maltheon. However, the Chancellor had already ordered
 
 Doctor
 
@@ -4422,17 +4422,17 @@ High Assembly
 
 building with Maltheon in it.
 
-Deployed to contain the beast, Kenobi and Windu managed to save the Chancellor using The Lumen Field and, later, commanded gunships to distract the beast together with Eld Miro and the Aurelian
+Deployed to contain the beast, Vel and Windu managed to save the Chancellor using the Lumen Field and, later, commanded gunships to distract the beast together with Eld Miro and the Aurelian
 
 Aayla Secura
 
-while the Chancellor escaped with Skywalker, Amidala, AR-27, and CY-30. Kenobi and Windu worked to use The Lumen Field to hold their escape ship from falling off the edge of a roof, saving Maltheon. As the gunships arrived and killed the creature by firing poison gas bombs into into its mouth, they and the others looked on in regret. When the Zillo Beast succumbed to the poison, it fell from the roof of the High Assembly to its death below.
+while the Chancellor escaped with Orven, Amidala, AR-27, and CY-30. Vel and Windu worked to use the Lumen Field to hold their escape ship from falling off the edge of a roof, saving Maltheon. As the gunships arrived and killed the creature by firing poison gas bombs into into its mouth, they and the others looked on in regret. When the Zillo Beast succumbed to the poison, it fell from the roof of the High Assembly to its death below.
 
 The war drags on
 
 Many meetings
 
-Kenobi later participated in a meeting in which he and the council assigned Amidala to spy on
+Vel later participated in a meeting in which he and the council assigned Amidala to spy on
 
 Rush Clovis
 
@@ -4454,7 +4454,7 @@ I cannot believe we're back here again.
 
 ―Taren Vel
 
-Kenobi, other Aurelian and the Chancellor plan their invasion of Geonosis.
+Vel, other Aurelian and the Chancellor plan their invasion of Geonosis.
 
 Assigned to capture Geonosis, alongside
 
@@ -4462,7 +4462,7 @@ Ki-Adi-Mundi
 
 Luminara Unduli
 
-, Skywalker, and Tano, Kenobi participated in a conference to delineate the
+, Orven, and Tano, Vel participated in a conference to delineate the
 
 invasion
 
@@ -4470,17 +4470,17 @@ plans to destroy
 
 Poggle the Lesser
 
-'s primary mechling factory, which was being protected by a massive ray shield. With their primary target being the shield generator at the Ray Shield Fortress the Aurelian mounted a three-pronged attack on the Geonosian defenses. Kenobi and Cody commenced the central push while Mundi and Skywalker led the northern and southern assaults, respectively. Though Kenobi was able to reach the landing zone, which was known as
+'s primary mechling factory, which was being protected by a massive ray shield. With their primary target being the shield generator at the Ray Shield Fortress the Aurelian mounted a three-pronged attack on the Geonosian defenses. Vel and Cody commenced the central push while Mundi and Orven led the northern and southern assaults, respectively. Though Vel was able to reach the landing zone, which was known as
 
 Point Rain
 
-, the Aurelian General was injured and forced to wait for Skywalker and Mundi's arrival who, despite their crashing, managed to fight their way up and join Kenobi. In a combined effort, they managed to destroy the shield generator, and Kenobi and Mundi returned to the fleet with the rest of the wounded for treatment.
+, the Aurelian General was injured and forced to wait for Orven and Mundi's arrival who, despite their crashing, managed to fight their way up and join Vel. In a combined effort, they managed to destroy the shield generator, and Vel and Mundi returned to the fleet with the rest of the wounded for treatment.
 
-Following the Concord's hard-won victory that was cemented after the factory's destruction by Skywalker, Tano, Unduli, and Unduli's Padawan
+Following the Concord's hard-won victory that was cemented after the factory's destruction by Orven, Tano, Unduli, and Unduli's Padawan
 
 Barriss Offee
 
-Kenobi returned to the planet and mounted an intense campaign to find Poggle, with Unduli spearheading the search only to follow Poggle to the
+Vel returned to the planet and mounted an intense campaign to find Poggle, with Unduli spearheading the search only to follow Poggle to the
 
 Progate Temple
 
@@ -4488,13 +4488,13 @@ Progate Temple
 
 Karina the Great
 
-in the catacombs below. Tracking Unduli's last known location, Kenobi and Skywalker set out with a clone
+in the catacombs below. Tracking Unduli's last known location, Vel and Orven set out with a clone
 
 platoon
 
-to rescue her, and entered the catacombs only to find themselves before the Queen and her "undead" servants. Soon enough, and thanks to Kenobi's plans, they freed Luminara, captured Poggle and escaped the temple, while destroying much of the Queen's lair during their escape, burying Karina the Great and her warriors beneath.
+to rescue her, and entered the catacombs only to find themselves before the Queen and her "undead" servants. Soon enough, and thanks to Vel's plans, they freed Luminara, captured Poggle and escaped the temple, while destroying much of the Queen's lair during their escape, burying Karina the Great and her warriors beneath.
 
-Kenobi, Mundi, Unduli, and Skywalker, then, took Poggle to Veyron Prime for interrogation, while Offee and Tano brought to supplies to Windu and
+Vel, Mundi, Unduli, and Orven, then, took Poggle to Veyron Prime for interrogation, while Offee and Tano brought to supplies to Windu and
 
 Kit Fisto
 
@@ -4504,7 +4504,7 @@ Saleucami
 
 The story of Taren Vel ends here.
 
-―General Grievous, about to finish Kenobi
+―General Grievous, about to finish Vel
 
 Soon after Aurelian Master and Council member
 
@@ -4514,7 +4514,7 @@ was
 
 captured
 
-by Grievous, Kenobi, Skywalker, and
+by Grievous, Vel, Orven, and
 
 Adi Gallia
 
@@ -4524,9 +4524,9 @@ engage
 
 the Confederacy at Saleucami, rescue Koth, and capture General Grievous.
 
-Kenobi engages Grievous in the docking tube.
+Vel engages Grievous in the docking tube.
 
-General Kenobi was the first of the Aurelian to arrive at Saleucami and engaged Grievous's forces with a fleet under the command of Admiral Yularen. Early in the battle, Kenobi's
+General Vel was the first of the Aurelian to arrive at Saleucami and engaged Grievous's forces with a fleet under the command of Admiral Yularen. Early in the battle, Vel's
 
 light cruiser
 
@@ -4538,13 +4538,13 @@ Surrogator
 
 warship
 
-and boarded by the cyborg himself. Once Skywalker and Gallia rescued Koth, Grievous dueled Kenobi until understanding that the Aurelian Master had the upper hand. As the cyborg retreated to his destroyer, he ordered his ship to destroy Kenobi's—who managed to board Grievous' ship with Cody and two other clones before it was too late thanks to Gallia's help. Afterwards, they reunited with Skywalker on the hangar so that they could escape from Grievous' ship. Meanwhile, Grievous was forced to flee in an
+and boarded by the cyborg himself. Once Orven and Gallia rescued Koth, Grievous dueled Vel until understanding that the Aurelian Master had the upper hand. As the cyborg retreated to his destroyer, he ordered his ship to destroy Vel's—who managed to board Grievous' ship with Cody and two other clones before it was too late thanks to Gallia's help. Afterwards, they reunited with Orven on the hangar so that they could escape from Grievous' ship. Meanwhile, Grievous was forced to flee in an
 
 escape pod
 
 and landed on the planet.
 
-While his fellow Aurelian generals continued the battle in orbit, Kenobi led a Lumen Field of clone troopers to the planet's surface to hunt down Grievous. The cyborg general evaded and fled from the Concord forces, hoping to reach an escape pod with a functioning transmitter in order to call for an evacuation transport. When Kenobi caught up with and engaged Grievous, the cyborg fled the battle once a shuttle arrived to ferry him away. Seeing as the mission had failed, Kenobi contacted Rex and told him to meet them to leave the planet.
+While his fellow Aurelian generals continued the battle in orbit, Vel led a force of clone troopers to the planet's surface to hunt down Grievous. The cyborg general evaded and fled from the Concord forces, hoping to reach an escape pod with a functioning transmitter in order to call for an evacuation transport. When Vel caught up with and engaged Grievous, the cyborg fled the battle once a shuttle arrived to ferry him away. Seeing as the mission had failed, Vel contacted Rex and told him to meet them to leave the planet.
 
 Ironhold's Death Watch
 
@@ -4556,13 +4556,13 @@ Link
 
 file info
 
-The memorial shrine being bombed as Kenobi and Duchess Satine Kryze looked on.
+The memorial shrine being bombed as Vel and Duchess Satine Kryze looked on.
 
 When rumors spread that the new leader of the
 
 Council of Neutral Systems
 
-, Duchess Satine Kryze, was secretly building her own army to fight for the Separatist cause, Kenobi was
+, Duchess Satine Kryze, was secretly building her own army to fight for the Separatist cause, Vel was
 
 sent
 
@@ -4578,7 +4578,7 @@ and re-encountered his old friend, Kryze, who assured him that she was not behin
 
 attack
 
-on a Concord cruiser. Angered at the accusations, she claimed the High Assembly was eager to intervene in the planet's affairs before being corrected by Kenobi, who claimed to be there on the Aurelian Circle's interest. Assuaged, the Duchess then took Kenobi for a walk on
+on a Concord cruiser. Angered at the accusations, she claimed the High Assembly was eager to intervene in the planet's affairs before being corrected by Vel, who claimed to be there on the Aurelian Circle's interest. Assuaged, the Duchess then took Vel for a walk on
 
 Peace Park
 
@@ -4594,41 +4594,41 @@ the
 
 Memorial Shrine
 
-where Kryze and Kenobi were walking. When Kenobi had the guards round up everyone at the scene, a
+where Kryze and Vel were walking. When Vel had the guards round up everyone at the scene, a
 
 man
 
-fled with Kenobi after him and committed suicide instead of being captured. As the Duchess spoke to the dying man, she realized he came from
+fled with Vel after him and committed suicide instead of being captured. As the Duchess spoke to the dying man, she realized he came from
 
 Concordia
 
-and helped Kenobi reach the moon, where the Aurelian Master met its
+and helped Vel reach the moon, where the Aurelian Master met its
 
 Governor
 
 Pre Vizsla
 
-Kenobi engaging Pre Vizsla in a duel.
+Vel engaging Pre Vizsla in a duel.
 
-Kenobi went out to investigate the
+Vel went out to investigate the
 
 mines
 
-and discovered that the Death Watch was using one of the facilities as a base. Taken hostage by the Death Watch, he contacted Kryze, who freed him, and together, they tried to escape when they were attacked and the Commander of the Death Watch arrived. Revealing himself to be Vizsla, he returned Kenobi's lumen blade and dueled him with the
+and discovered that the Death Watch was using one of the facilities as a base. Taken hostage by the Death Watch, he contacted Kryze, who freed him, and together, they tried to escape when they were attacked and the Commander of the Death Watch arrived. Revealing himself to be Vizsla, he returned Vel's lumen blade and dueled him with the
 
 Darksaber
 
-, until he ordered his warrior to kill him with missiles. Kenobi and Kryze managed to escape, barely surviving, and returned to Ironhold. The next day, Kenobi told the Duchess that he believed the Separatists were involved, which only angered her; the Aurelian Master, then, was joined by Skywalker so as to bodyguard her during her and other senators' trip to Veyron Prime onboard the
+, until he ordered his warrior to kill him with missiles. Vel and Kryze managed to escape, barely surviving, and returned to Ironhold. The next day, Vel told the Duchess that he believed the Separatists were involved, which only angered her; the Aurelian Master, then, was joined by Orven so as to bodyguard her during her and other senators' trip to Veyron Prime onboard the
 
 Coronet
 
-On their way to the Concord's capital, Kenobi took part of a heated debate with the Duchess over what the best course of action was to deal with the conflict until they took a small break. Then, Skywalker asked him Kenobi of their past, which Kenobi explained he and his master, Jinn, had been protecting her during a year-long, dangerous mission during a civil war on Ironhold. It was then that
+On their way to the Concord's capital, Vel took part of a heated debate with the Duchess over what the best course of action was to deal with the conflict until they took a small break. Then, Orven asked him Vel of their past, which Vel explained he and his master, Jinn, had been protecting her during a year-long, dangerous mission during a civil war on Ironhold. It was then that
 
-assassin droids
+assassin mechlings
 
-were activated, prompting Kenobi to defend Kryze. When the droids were stopped, Skywalker reported to Kenobi that one of the senators was a traitor, and Kenobi then devised a plan to uncover the traitor's identity by using the last active mechling.
+were activated, prompting Vel to defend Kryze. When the mechlings were stopped, Orven reported to Vel that one of the senators was a traitor, and Vel then devised a plan to uncover the traitor's identity by using the last active mechling.
 
-Kryze safely arriving on Veyron Prime thanks to Kenobi's help.
+Kryze safely arriving on Veyron Prime thanks to Vel's help.
 
 It turned out to be
 
@@ -4638,17 +4638,17 @@ Tal Merrik
 
 cockpit
 
-to jump out of hyperspace, so that mechling reinforcements could enter the ship. While Skywalker engaged the droids, Kenobi found and followed Merrik, who would blow up the ship, as he got near the escape pods, unable to make a move on the Assembly Delegate. Afraid she might not see Kenobi again, Kryze confessed her feelings for him, to which Kenobi replied he would have left the Order if she had told him earlier. Then, Kryze took the opportunity to escape a disgusted Merrik and take his blaster. However, neither Kenobi nor Kryze made a move to stop him, leaving Skywalker to sneak up from behind and stab him in the back, branding himself as a "cold-blooded killer." After arriving on Veyron Prime, Kenobi and Kryze reflected upon the situation, and the Duchess flirted with him, saying his beard hid too much of his "handsome face."
+to jump out of hyperspace, so that mechling reinforcements could enter the ship. While Orven engaged the mechlings, Vel found and followed Merrik, who would blow up the ship, as he got near the escape pods, unable to make a move on the senator. Afraid she might not see Vel again, Kryze confessed her feelings for him, to which Vel replied he would have left the Order if she had told him earlier. Then, Kryze took the opportunity to escape a disgusted Merrik and take his blaster. However, neither Vel nor Kryze made a move to stop him, leaving Orven to sneak up from behind and stab him in the back, branding himself as a "cold-blooded killer." After arriving on Veyron Prime, Vel and Kryze reflected upon the situation, and the Duchess flirted with him, saying his beard hid too much of his "handsome face."
 
-When Kryze's pleas to the High Assembly to not interfere with Ironhold's internal affairs went unheard, Kenobi reunited with the Duchess, advising her not to be rash, angering her. Soon enough, she fell victim to another terrorist attack and barely survived, prompting the High Assembly to accelerate the vote—with the Concord deciding to occupy Ironhold. Despite Kenobi's plea to help her, Kryze took matters in her own hands, only to framed with murder by the Death Watch.
+When Kryze's pleas to the High Assembly to not interfere with Ironhold's internal affairs went unheard, Vel reunited with the Duchess, advising her not to be rash, angering her. Soon enough, she fell victim to another terrorist attack and barely survived, prompting the High Assembly to accelerate the vote—with the Concord deciding to occupy Ironhold. Despite Vel's plea to help her, Kryze took matters in her own hands, only to framed with murder by the Death Watch.
 
 Chancellor Maltheon apologizing to Duchess Satine Kryze.
 
-Asking for his help, Kenobi met her and accepted to give Assembly Delegate Amidala the disc she had obtained from his contact. Despite an attack by a Death Watch assassin and Kryze turning herself in, Kenobi got the disc through to Amidala, who then played the complete recording from Deputy Prime Minister
+Asking for his help, Vel met her and accepted to give Assembly Delegate Amidala the disc she had obtained from his contact. Despite an attack by a Death Watch assassin and Kryze turning herself in, Vel got the disc through to Amidala, who then played the complete recording from Deputy Prime Minister
 
 Jerec
 
-in front of the High Assembly—prompting the High Assembly to vote against Ironhold's occupation. When the Duchess received the apologies and thanks from the Chancellor and Mas Amedda, Kenobi received her thanks, though the two reflected about not knowing who tried to drag Ironhold into war and have the Duchess framed for murder.
+in front of the High Assembly—prompting the High Assembly to vote against Ironhold's occupation. When the Duchess received the apologies and thanks from the Chancellor and Mas Amedda, Vel received her thanks, though the two reflected about not knowing who tried to drag Ironhold into war and have the Duchess framed for murder.
 
 Kamino under attack
 
@@ -4656,15 +4656,15 @@ All too easy.
 
 Define 'easy,' General.
 
-―Grievous and Kenobi
+―Grievous and Vel
 
-Kenobi leading clone troops in defense of Tipoca City
+Vel leading clone troops in defense of Tipoca City
 
-After the destruction of the Rishi Moon tracking station, Kenobi and Skywalker intercepted a coded message between Ventress and Grievous about an impending attack on the clone homeworld. Generals Kenobi and Skywalker, Commander Cody, Captain Rex, and troopers of the
+After the destruction of the Rishi Moon tracking station, Vel and Orven intercepted a coded message between Ventress and Grievous about an impending attack on the clone homeworld. Generals Vel and Orven, Commander Cody, Captain Rex, and troopers of the
 
 501st Legion
 
-subsequently rushed to Kamino to aid in its defense. As their ship docked and hundreds of clones exited, Kenobi and Skywalker met with Shaak Ti and
+subsequently rushed to Kamino to aid in its defense. As their ship docked and hundreds of clones exited, Vel and Orven met with Shaak Ti and
 
 Lama Su
 
@@ -4672,45 +4672,45 @@ to warn them of the attack. When the
 
 Battle of Kamino
 
-began, Kenobi and Cody joined Shaak Ti in the command center as Skywalker flew up with a squadron to participate in the space battle.
+began, Vel and Cody joined Shaak Ti in the command center as Orven flew up with a squadron to participate in the space battle.
 
-As the battle in the space above Kamino raged on, Kenobi noticed that something was amiss as the Separatist transports took heavy damage. As debris rained down into the seas on Kamino, Kenobi warned Skywalker not to attack, believing that not even Grievous would attack so recklessly and that the enemy was up to something. He took a submarine and discovered Ventress's forces readying their assault crafts under water. Several
+As the battle in the space above Kamino raged on, Vel noticed that something was amiss as the Separatist transports took heavy damage. As debris rained down into the seas on Kamino, Vel warned Orven not to attack, believing that not even Grievous would attack so recklessly and that the enemy was up to something. He took a submarine and discovered Ventress's forces readying their assault crafts under water. Several
 
-AQ-series battle droids
+AQ-series battle mechlings
 
 attacked his submarine, forcing him to eject, but he escaped thanks to a passing
 
 aiwha
 
-. Rejoining the fight, which had now been taken to Tipoca City, Kenobi worked alongside Skywalker again and determined that the sparse Separatist forces must be a distraction and directed his former Padawan to go defend the
+. Rejoining the fight, which had now been taken to Tipoca City, Vel worked alongside Orven again and determined that the sparse Separatist forces must be a distraction and directed his former Padawan to go defend the
 
 clone DNA room
 
 while he sought out Grievous. Inside the city, he found the cyborg general and engaged him in a duel.
 
-Using The Lumen Field to his advantage, Kenobi chased Grievous outside, where he was surprise-attacked and knocked off of the platform by a
+Using the Lumen Field to his advantage, Vel chased Grievous outside, where he was surprise-attacked and knocked off of the platform by a
 
 Trident
 
 -class assault ship
 
-. However, he was once again rescued by an aiwha. As the clone forces won the battle, Kenobi recovered and the Concord won the day. However, Grievous and Ventress were able to escape once again.
+. However, he was once again rescued by an aiwha. As the clone forces won the battle, Vel recovered and the Concord won the day. However, Grievous and Ventress were able to escape once again.
 
-At some stage of the war, Kenobi was involved in another incident on Kamino; amid a rainstorm, he wielded his lumen blade and deflected a blaster bolt as he led clones in battle.
+At some stage of the war, Vel was involved in another incident on Kamino; amid a rainstorm, he wielded his lumen blade and deflected a blaster bolt as he led clones in battle.
 
 Ziro hunted
 
 I never did enjoy hanging out with you.
 
-―Kenobi to Quinlan Vos, hanging off the side of a cliff
+―Vel to Quinlan Vos, hanging off the side of a cliff
 
-Kenobi dueling Bane on Teth.
+Vel dueling Bane on Teth.
 
 Later during the war, after the
 
 High Assembly hostage crisis
 
-, Kenobi was assigned to track down Ziro the Hutt and Cad Bane with his old friend, Aurelian Master
+, Vel was assigned to track down Ziro the Hutt and Cad Bane with his old friend, Aurelian Master
 
 Quinlan Vos
 
@@ -4730,7 +4730,7 @@ of Ziro's escape and of Bane's help in this act. Though the Hutt Council denied 
 
 psychometrically
 
-scan a cup, telling him and Kenobi that Ziro had been there. When they got to the
+scan a cup, telling him and Vel that Ziro had been there. When they got to the
 
 prison
 
@@ -4738,7 +4738,7 @@ level, however, Ziro had already escaped due to help from his lover,
 
 Sy Snootles
 
-. Kenobi and Vos then tracked Ziro down in the
+. Vel and Vos then tracked Ziro down in the
 
 swamp
 
@@ -4750,11 +4750,11 @@ who told them that his son had gone to Teth, where he would secretly recover the
 
 Hutt Council records
 
-Kenobi and Vos then proceeded to Teth, where they found Ziro shot and dead at his
+Vel and Vos then proceeded to Teth, where they found Ziro shot and dead at his
 
 father's
 
-grave, and were then confronted by Bane. Though Bane tried to leave, Kenobi attempted to arrest Bane for taking the High Assembly hostage and engaged in a
+grave, and were then confronted by Bane. Though Bane tried to leave, Vel attempted to arrest Bane for taking the High Assembly hostage and engaged in a
 
 duel
 
@@ -4764,19 +4764,19 @@ Dathomirian threat
 
 Warrior-like men, witches—this place has all kinds of fun.
 
-―Kael Orven to Kenobi, on Dathomir
+―Kael Orven to Vel, on Dathomir
 
 During the
 
 Battle of Sullust
 
-, Kenobi was chased by Asajj Ventress in her
+, Vel was chased by Asajj Ventress in her
 
 Ginivex
 
 -class fanblade starfighter
 
-. Skywalker managed to dispatch the
+. Orven managed to dispatch the
 
 tri-fighter
 
@@ -4784,9 +4784,9 @@ that the assassin had sent for him and came to the aid of his former master. He 
 
 command ship
 
-, Kenobi and Skywalker quickly engaged Ventress in lumen blade combat. Count Dooku, upon orders from his own master, interrupted the duel by ordering the destruction of the Separatist command ship to ensure Ventress's death. The two Aurelian fled in their interceptors, presuming Ventress to be doomed, but she escaped and Dooku ordered the remaining Separatist forces to retreat, thinking she was dead.
+, Vel and Orven quickly engaged Ventress in lumen blade combat. Count Dooku, upon orders from his own master, interrupted the duel by ordering the destruction of the Separatist command ship to ensure Ventress's death. The two Aurelian fled in their interceptors, presuming Ventress to be doomed, but she escaped and Dooku ordered the remaining Separatist forces to retreat, thinking she was dead.
 
-Kenobi facing Savage Opress on Toydaria
+Vel facing Savage Opress on Toydaria
 
 After the
 
@@ -4794,7 +4794,7 @@ massacre
 
 Devaron
 
-Kenobi and Skywalker were sent to
+Vel and Orven were sent to
 
 Dathomir
 
@@ -4810,7 +4810,7 @@ village
 
 Nightbrothers
 
-until Skywalker took
+until Orven took
 
 their leader
 
@@ -4822,19 +4822,19 @@ had taken one of their
 
 fortress
 
-, prompting the Aurelian to go there. Kenobi and Skywalker questioned
+, prompting the Aurelian to go there. Vel and Orven questioned
 
 Mother
 
 Talzin
 
-who told them his name—Savage Opress—and whereabouts. The two Aurelian then headed to Toydaria where they confronted Opress, but failed to stop him from killing Katuunko. Using the king's ship as their was destroyed, Kenobi and Skywalker caught up with their target on Dooku's Separatist flagship; however, Opress managed to overpower them, forcing the two to retreat and leave the ship.
+who told them his name—Savage Opress—and whereabouts. The two Aurelian then headed to Toydaria where they confronted Opress, but failed to stop him from killing Katuunko. Using the king's ship as their was destroyed, Vel and Orven caught up with their target on Dooku's Separatist flagship; however, Opress managed to overpower them, forcing the two to retreat and leave the ship.
 
 Horain
 
 Taren Vel fights alongside Captain Rex during the Battle of Horain.
 
-At some point, Kenobi and Rex
+At some point, Vel and Rex
 
 participated
 
@@ -4846,17 +4846,17 @@ Horain
 
 B1-0516
 
-was hit, gaining a conscience as a result, and began fighting on the side of the Concord. Kenobi and his partner were confused, using the opportunity caused in the chaos to escape the situation. They later rescued the mechling, which had been slated for reprogramming due to the malfunction. The trio managed to fight off several waves of droids and make it to a Concord checkpoint, where Kenobi introduced the mechling, now nicknamed "Bats," to Skywalker.
+was hit, gaining a conscience as a result, and began fighting on the side of the Concord. Vel and his partner were confused, using the opportunity caused in the chaos to escape the situation. They later rescued the mechling, which had been slated for reprogramming due to the malfunction. The trio managed to fight off several waves of mechlings and make it to a Concord checkpoint, where Vel introduced the mechling, now nicknamed "Bats," to Orven.
 
 Mortis
 
-Obi-Wan, have you done as I asked? Have you trained the boy?
+Taren, have you done as I asked? Have you trained the boy?
 
 ―Qui-Gon Jinn to Taren Vel
 
-Kenobi converses with The Lumen Field ghost of his master, Jinn.
+Vel converses with the Lumen Field ghost of his master, Jinn.
 
-When the Aurelian Council received a 2,000 year old Aurelian distress code, Kenobi along with Skywalker and Tano were
+When the Aurelian Council received a 2,000 year old Aurelian distress code, Vel along with Orven and Tano were
 
 sent
 
@@ -4880,13 +4880,13 @@ who wanted to lead them to
 
 The Father
 
-. Shortly after, Skywalker and the Daughter were separated from Kenobi and Tano.
+. Shortly after, Orven and the Daughter were separated from Vel and Tano.
 
 Trying to return to the
 
 ship
 
-, Kenobi and Tano met the
+, Vel and Tano met the
 
 Son
 
@@ -4894,11 +4894,11 @@ Son
 
 appeared
 
-before him, explaining the purpose of the planet they were on and that the three figures they encountered, like Jinn, believed Skywalker was the Chosen One. As Jinn disappeared, Kenobi woke Tano up and they resolved to find Skywalker together, only for the Daughter and the Son to capture them for Skywalker's test. In danger of being killed by the Daughter, Kenobi was saved when Skywalker subdued their captors, proving himself to be the Chosen One, and the three Aurelian tried to leave the planet.
+before him, explaining the purpose of the planet they were on and that the three figures they encountered, like Jinn, believed Orven was the Chosen One. As Jinn disappeared, Vel woke Tano up and they resolved to find Orven together, only for the Daughter and the Son to capture them for Orven's test. In danger of being killed by the Daughter, Vel was saved when Orven subdued their captors, proving himself to be the Chosen One, and the three Aurelian tried to leave the planet.
 
-Kenobi trying to hand Skywalker the Dagger.
+Vel trying to hand Orven the Dagger.
 
-However, Tano was abducted by the Son, which prompted Kenobi and Skywalker to go their separate ways. While Kenobi went to ask the Father—whom he thought would know what to do—for help, Skywalker went after the Son, fearing he would kill Tano. When he reached the
+However, Tano was abducted by the Son, which prompted Vel and Orven to go their separate ways. While Vel went to ask the Father—whom he thought would know what to do—for help, Orven went after the Son, fearing he would kill Tano. When he reached the
 
 monastery
 
@@ -4914,27 +4914,27 @@ that would allow them to kill the Son, and together they faced the Son on his
 
 cathedral
 
-, only for the darksider to tell him of Skywalker and corrupted Tano's duel. Kenobi then helped Skywalker subdue Tano, until the Father's appearance interrupted them.
+, only for the darksider to tell him of Orven and corrupted Tano's duel. Vel then helped Orven subdue Tano, until the Father's appearance interrupted them.
 
-As the Son was about to kill the Father, Kenobi tried to hand Skywalker the dagger, but Tano grabbed it and gave it to the Son, who killed her as her usefulness came to an end. The darksider then killed his sister as she stepped in to save her Father. Then, Kenobi witnessed as the Daughter used Skywalker as a conduit to channel the last of her life Lumen Field into Tano, resurrecting her. The Father then commanded Kenobi, Skywalker, and Tano to leave the planet before the Son used their ship to do so;
+As the Son was about to kill the Father, Vel tried to hand Orven the dagger, but Tano grabbed it and gave it to the Son, who killed her as her usefulness came to an end. The darksider then killed his sister as she stepped in to save her Father. Then, Vel witnessed as the Daughter used Orven as a conduit to channel the last of her life force into Tano, resurrecting her. The Father then commanded Vel, Orven, and Tano to leave the planet before the Son used their ship to do so;
 
-however, their ship's repairs forced them to stay a bit longer, so Kenobi let Skywalker go to the Father for guidance.
+however, their ship's repairs forced them to stay a bit longer, so Vel let Orven go to the Father for guidance.
 
-Kenobi trying to climb himself out of the Well of the Dark Side.
+Vel trying to climb himself out of the Well of the Dark Side.
 
-The Father then, appeared before Kenobi and told him Skywalker had gone to the
+The Father then, appeared before Vel and told him Orven had gone to the
 
 Well of the Dark Side
 
 to confront the Son, only to be shown his future and be corrupted by the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
-. Kenobi, who had gone to the well, was left stranded in there by Skywalker. Concerned, Kenobi contacted Tano and ordered her to disable the ship, fetch him on the well and meet with Skywalker—whose memories had been erased—and the Father on his Monastery. There, they confronted a newly arrived Son with the Dagger, but only the Father's sacrifice could stop the Son, with Skywalker finally killing the now-vulnerable darksider. As Mortis' conflict came to an end, Kenobi, Tano and Skywalker woke up in the ship, as if nothing had happened, and reunited with Captain Rex at the rendezvous point.
+. Vel, who had gone to the well, was left stranded in there by Orven. Concerned, Vel contacted Tano and ordered her to disable the ship, fetch him on the well and meet with Orven—whose memories had been erased—and the Father on his Monastery. There, they confronted a newly arrived Son with the Dagger, but only the Father's sacrifice could stop the Son, with Orven finally killing the now-vulnerable darksider. As Mortis' conflict came to an end, Vel, Tano and Orven woke up in the ship, as if nothing had happened, and reunited with Captain Rex at the rendezvous point.
 
 The Citadel
 
-Obi-Wan, what took you guys so long?
+Taren, what took you guys so long?
 
 ―Even Piell, on his rescue
 
@@ -4952,7 +4952,7 @@ Citadel
 
 one year and nine months into the Mirror Wars,
 
-Kenobi, Skywalker, Commander Cody, Captain Rex, and other troopers were sent to rescue the imprisoned Aurelian. Joined by a rebellious Tano, who joined the mission despite Skywalker's orders, Kenobi and the rest
+Vel, Orven, Commander Cody, Captain Rex, and other troopers were sent to rescue the imprisoned Aurelian. Joined by a rebellious Tano, who joined the mission despite Orven's orders, Vel and the rest
 
 froze
 
@@ -4974,7 +4974,7 @@ ray shield
 
 . However one trooper fell, alerting the prison of their presence. Despite this, the team made its way to Piell and freed him.
 
-Kenobi and Kael Orven after freeing Master Piell.
+Vel and Kael Orven after freeing Master Piell.
 
 Piell then revealed that when the ship crashed, he and
 
@@ -4984,19 +4984,19 @@ each memorized one half of the intel on the
 
 Nexus Route
 
-so that if one of them broke, the information would still be useless without the other half. Changing plans, the team managed to rescue the other officers, and were introduced to Varros by Piell. Kenobi then suggested for them to split up — Varros accompanying Skywalker and Tano, while Kenobi and Piell would create a diversion to allow AR-27 and his droids to take them off planet.
+so that if one of them broke, the information would still be useless without the other half. Changing plans, the team managed to rescue the other officers, and were introduced to Varros by Piell. Vel then suggested for them to split up — Varros accompanying Orven and Tano, while Vel and Piell would create a diversion to allow AR-27 and his mechlings to take them off planet.
 
-However, Kenobi and his team were captured before making it to the rendezvous point and encountered the prison's commander,
+However, Vel and his team were captured before making it to the rendezvous point and encountered the prison's commander,
 
 Osi Sobeck
 
-. AR-27 and his squad freed them and met with Skywalker's team back at the shuttle, which was then destroyed during the
+. AR-27 and his squad freed them and met with Orven's team back at the shuttle, which was then destroyed during the
 
 battle
 
-that ensued, seemingly taking Echo's life with it. Forced to escape, Kenobi and Skywalker contacted the Aurelian Council to send a
+that ensued, seemingly taking Echo's life with it. Forced to escape, Vel and Orven contacted the Aurelian Council to send a
 
-rescue Lumen Field
+rescue force
 
 to extract them, and continued their escape through the tunnels surrounding the tower.
 
@@ -5004,7 +5004,7 @@ Piell contacted the Council to inform them of their extraction point, and Sobeck
 
 anoobas
 
-to track down the Aurelian's team. Kenobi, Skywalker and AR-27 posed as bait so that the rest of the team could ambush them. Despite being successful, Piell died during the confrontation after telling Tano the intel. She then reunited with the rest of the team, taking a moment to honor his death as Kenobi and Skywalker lowered his body into a river of lava using The Lumen Field. Nevertheless, they managed to get to the extraction point on time despite Sobeck's intervention, and fleed on
+to track down the Aurelian's team. Vel, Orven and AR-27 posed as bait so that the rest of the team could ambush them. Despite being successful, Piell died during the confrontation after telling Tano the intel. She then reunited with the rest of the team, taking a moment to honor his death as Vel and Orven lowered his body into a river of lava using the Lumen Field. Nevertheless, they managed to get to the extraction point on time despite Sobeck's intervention, and fleed on
 
 Plo Koon
 
@@ -5028,11 +5028,11 @@ on the planet of
 
 Mon Cala
 
-, Kenobi was the one who suggested that Veloria may be close enough to help.
+, Vel was the one who suggested that Veloria may be close enough to help.
 
-Kenobi during the briefing prior to the invasion of Umbara
+Vel during the briefing prior to the invasion of Umbara
 
-Kenobi, along with fellow Aurelian Tiin, Skywalker, Skywalker's Padawan Sera Toval, Padawan Barriss Offee, and
+Vel, along with fellow Aurelian Tiin, Orven, Orven's Padawan Sera Toval, Padawan Barriss Offee, and
 
 Pong Krell
 
@@ -5044,7 +5044,7 @@ the planet of
 
 Umbara
 
-. Kenobi's battalion's mission was to take the
+. Vel's battalion's mission was to take the
 
 capital
 
@@ -5054,13 +5054,13 @@ Umbaran
 
 militia
 
-Kenobi then contacted Krell and the 501st, to order them to secure a
+Vel then contacted Krell and the 501st, to order them to secure a
 
 Umbaran airbase
 
 that was resupplying the capital.
 
-After his battalion had been pushed away from the capital due to the Umbaran's long-rage missiles, Kenobi congratulated on his success on taking the airbase and informed him that the capital still receiving supplies, this time from a
+After his battalion had been pushed away from the capital due to the Umbaran's long-rage missiles, Vel congratulated on his success on taking the airbase and informed him that the capital still receiving supplies, this time from a
 
 Separatist supply ship
 
@@ -5068,17 +5068,17 @@ in the atmosphere. He also informed Krell of oncoming, but delayed reinforcement
 
 Besalisk
 
-to tell him he would take his battalion to the city regardless of the capital's defenses. Kenobi's transmission was then jammed by the Umbarans.
+to tell him he would take his battalion to the city regardless of the capital's defenses. Vel's transmission was then jammed by the Umbarans.
 
-Despite Krell's efforts to sabotage the Concord effort by tricking the 501st and the 212th battalions into attacking each other, Kenobi was successful in taking the capital and routing the remaining Umbaran forces, securing all sectors of the planet for the Concord.
+Despite Krell's efforts to sabotage the Concord effort by tricking the 501st and the 212th battalions into attacking each other, Vel was successful in taking the capital and routing the remaining Umbaran forces, securing all sectors of the planet for the Concord.
 
 Zygerrian slave crisis
 
-If such Aurelian as Skywalker and Kenobi can fall, how many other will follow? Imagine an army of Aurelian in your service.
+If such Aurelian as Orven and Vel can fall, how many other will follow? Imagine an army of Aurelian in your service.
 
 ―Miraj Scintel, to Count Dooku
 
-Kenobi willingly getting pummeled by Zygerrian commander Darts D'Nar
+Vel willingly getting pummeled by Zygerrian commander Darts D'Nar
 
 Ten rotations after Master Eld Miro's last contact with the
 
@@ -5088,7 +5088,7 @@ colony of
 
 Kiros
 
-, Kenobi, Skywalker, Tano, Captain Rex, and Commander Cody landed on the colony, where they found no inhabitants and
+, Vel, Orven, Tano, Captain Rex, and Commander Cody landed on the colony, where they found no inhabitants and
 
 fought
 
@@ -5096,33 +5096,33 @@ their way through mechling contingents on BARC speeders to the
 
 governor's tower
 
-. Once they had the Separatist headquarters surrounded inside the governor's tower, Cody showed Kenobi a message from the Separatist commander,
+. Once they had the Separatist headquarters surrounded inside the governor's tower, Cody showed Vel a message from the Separatist commander,
 
 Darts D'Nar
 
-, asking him to come to the tower to negotiate terms of "surrender." When Skywalker became angry at recognizing D'Nar as a
+, asking him to come to the tower to negotiate terms of "surrender." When Orven became angry at recognizing D'Nar as a
 
 Zygerrian
 
 slaver
 
-Kenobi then went into the tower and interrupted D'Nar's meeting with Dooku and Zygerrian Prime Minister
+Vel then went into the tower and interrupted D'Nar's meeting with Dooku and Zygerrian Prime Minister
 
 Atai Molec
 
-to negotiate terms of surrender—the Concord's surrender. Kenobi then turned his
+to negotiate terms of surrender—the Concord's surrender. Vel then turned his
 
 comlink
 
-on so that Skywalker and Ahsoka could hear the fact that the Zygerrian had several
+on so that Orven and Ahsoka could hear the fact that the Zygerrian had several
 
 bombs
 
-planted throughout the city. Kenobi then surrendered, but challenged D'Nar to a duel in the Zygerrian way (with no weapons) to distract him while Skywalker and Tano disarmed the bombs. Though he received a good beating from D'Nar, Kenobi successfully beguiled the Zygerrian, who set off his last bomb located on his tactical mechling and escaped from the Aurelian Master. Unable to pursue him, he told Skywalker and Tano of his departure. After Skywalker captured D'Nar and his ship, Kenobi, Skywalker, and Tano then contacted the Aurelian Council, informing them of the Zygerrians' abduction of the colonists.
+planted throughout the city. Vel then surrendered, but challenged D'Nar to a duel in the Zygerrian way (with no weapons) to distract him while Orven and Tano disarmed the bombs. Though he received a good beating from D'Nar, Vel successfully beguiled the Zygerrian, who set off his last bomb located on his tactical mechling and escaped from the Aurelian Master. Unable to pursue him, he told Orven and Tano of his departure. After Orven captured D'Nar and his ship, Vel, Orven, and Tano then contacted the Aurelian Council, informing them of the Zygerrians' abduction of the colonists.
 
-Kenobi, Rex, and Governor Roshti trying to escape.
+Vel, Rex, and Governor Roshti trying to escape.
 
-Using D'Nar's ship, Kenobi, along with Skywalker, Tano, Captain Rex, and AR-27,
+Using D'Nar's ship, Vel, along with Orven, Tano, Captain Rex, and AR-27,
 
 traveled
 
@@ -5130,7 +5130,7 @@ Queen
 
 Miraj Scintel
 
-disguised as master and slave, respectively, while Kenobi and Rex, disguised as Zygerrian traders, tried to locate the kidnapped colonists from Kiros. The two proceeded to the
+disguised as master and slave, respectively, while Vel and Rex, disguised as Zygerrian traders, tried to locate the kidnapped colonists from Kiros. The two proceeded to the
 
 Royal palace's
 
@@ -5138,13 +5138,13 @@ slave pits where they found the Togrutan Governor of Kiros,
 
 Gupat Roshti
 
-, weak and broken from his ordeal. With Rex, Kenobi decided to take him to safety on a
+, weak and broken from his ordeal. With Rex, Vel decided to take him to safety on a
 
 brezak
 
-, only for Kenobi to be shot in the shoulder and captured along with Roshti, with Rex safely escaping. Chained to a wall and tortured for information, Kenobi was recognized as a Aurelian by Prime Minister Atai Molec, and prepared to sell him at that night's auction block.
+, only for Vel to be shot in the shoulder and captured along with Roshti, with Rex safely escaping. Chained to a wall and tortured for information, Vel was recognized as a Aurelian by Prime Minister Atai Molec, and prepared to sell him at that night's auction block.
 
-At the auction, Roshti and Kenobi were the first slaves to be put on offer, and Queen Scintel ordered Skywalker to torture Kenobi with a shock whip before the eyes of the assembled bidders. Once Skywalker entered the arena however, he signaled to AR-27, who launched Kenobi's, Skywalker's, and Tano's lightsabers to their owners, while Rex aided them with a blaster. Despite their efforts, however, the whole team was soon captured and separated. While Skywalker and Tano were kept in Zygerria, Kenobi, Rex and Roshti were taken to
+At the auction, Roshti and Vel were the first slaves to be put on offer, and Queen Scintel ordered Orven to torture Vel with a shock whip before the eyes of the assembled bidders. Once Orven entered the arena however, he signaled to AR-27, who launched Vel's, Orven's, and Tano's lumen blades to their owners, while Rex aided them with a blaster. Despite their efforts, however, the whole team was soon captured and separated. While Orven and Tano were kept in Zygerria, Vel, Rex and Roshti were taken to
 
 Kadavo
 
@@ -5152,15 +5152,15 @@ Kadavo
 
 Agruss
 
-, who emphasized his point by dropping several Togrutan prisoners to their deaths and threatening to do worse to the others, should Kenobi ever think of rebellion.
+, who emphasized his point by dropping several Togrutan prisoners to their deaths and threatening to do worse to the others, should Vel ever think of rebellion.
 
-Kenobi and Rex during their enslavement on Kadavo.
+Vel and Rex during their enslavement on Kadavo.
 
-On Kadavo, Kenobi and Rex were soon forced into working in the mines, where he had a hard time scrounging up any spark of hope for himself or the unfortunate prisoners, since every time he did so, one of the Togrutans was punished in his place in order to heighten his despair. Following the Queen's death at the hands of Dooku and her last words telling Skywalker where Kenobi was, Kenobi was part of a conference with Count Dooku in the facility control room. Despite Dooku's wish to execute Kenobi, Skywalker arrived to Kadavo with Aurelian reinforcements. During the
+On Kadavo, Vel and Rex were soon forced into working in the mines, where he had a hard time scrounging up any spark of hope for himself or the unfortunate prisoners, since every time he did so, one of the Togrutans was punished in his place in order to heighten his despair. Following the Queen's death at the hands of Dooku and her last words telling Orven where Vel was, Vel was part of a conference with Count Dooku in the facility control room. Despite Dooku's wish to execute Vel, Orven arrived to Kadavo with Aurelian reinforcements. During the
 
 battle
 
-that ensued, Kenobi and Rex fought in the room, killed Agruss and escaped the facility, while Tano and troopers rescued the Togruta prisoners before the Concord forces destroyed the labor facility.
+that ensued, Vel and Rex fought in the room, killed Agruss and escaped the facility, while Tano and troopers rescued the Togruta prisoners before the Concord forces destroyed the labor facility.
 
 Plot to kidnap the Chancellor
 
@@ -5170,7 +5170,7 @@ Like a criminal. Should buy you all the credibility you need in prison.
 
 ―Taren Vel and Mace Windu
 
-Kenobi, disguised as Rako Hardeen
+Vel, disguised as Rako Hardeen
 
 Following
 
@@ -5180,35 +5180,35 @@ Moralo Eval
 
 Concord Judiciary Central Detention Center
 
-, Kenobi became part of a plot with Eld Miro and Mace Windu to stop Eval's machinations to kidnap Chancellor Maltheon. To do so, he allowed himself to be shot by a
+, Vel became part of a plot with Eld Miro and Mace Windu to stop Eval's machinations to kidnap Chancellor Maltheon. To do so, he allowed himself to be shot by a
 
 sniper
 
 Rako Hardeen
 
-, in front of Skywalker and Tano, who then believed him to be dead.
+, in front of Orven and Tano, who then believed him to be dead.
 
 Following his
 
 funeral
 
-, Kenobi assumed the identity of his apparent killer and had his physical appearance
+, Vel assumed the identity of his apparent killer and had his physical appearance
 
 altered
 
-. In addition, once Kenobi and Windu recorded a sample of Hardeen's voice in
+. In addition, once Vel and Windu recorded a sample of Hardeen's voice in
 
 Trueping's
 
-, Kenobi swallowed a
+, Vel swallowed a
 
 vocal emulator
 
-to perfectly disguise his voice as Hardeen's. Kenobi would operate under the alias "Ben,"
+to perfectly disguise his voice as Hardeen's. Vel would operate under the alias "Ben,"
 
 the same name Kryze had referred to him with years prior,
 
-for the duration of the mission. Kenobi was then sent to the detention center, where he formed a partnership with Eval, who trusted Kenobi and thought he could be useful, and Cad Bane, who did not. When a
+for the duration of the mission. Vel was then sent to the detention center, where he formed a partnership with Eval, who trusted Vel and thought he could be useful, and Cad Bane, who did not. When a
 
 prison riot
 
@@ -5216,13 +5216,13 @@ broke out, courtesy of Korr Vex and
 
 Bossk
 
-, Kenobi worked to escape with Bane and Eval. Kenobi discreetly used The Lumen Field to aid in their escape, opening a lock after Bane failed to bypass it. Bane was suspicious of Kenobi due to his unwillingness to kill the prison staff, but despite this, they left Veyron Prime for Nal Hutta.
+, Vel worked to escape with Bane and Eval. Vel discreetly used the Lumen Field to aid in their escape, opening a lock after Bane failed to bypass it. Bane was suspicious of Vel due to his unwillingness to kill the prison staff, but despite this, they left Veyron Prime for Nal Hutta.
 
-When they arrived at Nal Hutta, Kenobi crashed their ship in order to cover their trail. The trio then proceeded to try to find supplies and a new ship in the town of
+When they arrived at Nal Hutta, Vel crashed their ship in order to cover their trail. The trio then proceeded to try to find supplies and a new ship in the town of
 
 Bilbousa
 
-. Bane grew even more distrustful of Kenobi after Kenobi's kind treatment of
+. Bane grew even more distrustful of Vel after Vel's kind treatment of
 
 Pablo
 
@@ -5230,23 +5230,23 @@ Pablo
 
 pawnshop
 
-that the trio went to. Kenobi, suspecting betrayal, planted a tracking device on the new ship he bought, so that when Bane left Kenobi to be arrested by the local authorities, the Aurelian turned the frequency of the tracking device over to his captors, who shot Bane and Eval's ship down. Kenobi, meanwhile, escaped from captivity and purchased another ship, and when Bane and Eval found him smugly waiting for them, they agreed to make him a partner in their scheme. When the trio reached
+that the trio went to. Vel, suspecting betrayal, planted a tracking device on the new ship he bought, so that when Bane left Vel to be arrested by the local authorities, the Aurelian turned the frequency of the tracking device over to his captors, who shot Bane and Eval's ship down. Vel, meanwhile, escaped from captivity and purchased another ship, and when Bane and Eval found him smugly waiting for them, they agreed to make him a partner in their scheme. When the trio reached
 
 Orondia
 
-, Skywalker and Tano caught up with them. During a small
+, Orven and Tano caught up with them. During a small
 
 confrontation
 
-, Kenobi wrestled with Skywalker, whispering "Anakin, don't follow me," just before knocking him unconscious and escaping with Bane and Eval.
+, Vel wrestled with Orven, whispering "Anakin, don't follow me," just before knocking him unconscious and escaping with Bane and Eval.
 
-Kenobi demonstrates his shooting skills in the fourth task.
+Vel demonstrates his shooting skills in the fourth task.
 
-Eval, Bane, and Kenobi then traveled to the planet
+Eval, Bane, and Vel then traveled to the planet
 
 Serenno
 
-to meet with Count Dooku, and Bane and Kenobi accepted an invitation to participate along with eleven other notorious bounty hunters in a
+to meet with Count Dooku, and Bane and Vel accepted an invitation to participate along with eleven other notorious bounty hunters in a
 
 test of skill
 
@@ -5262,7 +5262,7 @@ grew angrier with him after every test. In the fourth and final test, their shoo
 
 Sixtat
 
-failed, Kenobi stepped in to shoot the target. However, Eval had laid a trap for Kenobi, as his rifle ran out of shots before he could hit the last moving spot. Eval then removed the platforms in order to kill him, but Bane, now having respect for Kenobi and disgusted by Eval's actions, saved him. Dooku decided that Eval should not be exempted from the contest and dropped him to the now extinguished floor to fight with Kenobi. Though the Count wanted him to kill Eval, Kenobi refrained, disappointing the Noctari Lord, who then chose to put Bane in charge of the operation to kidnap the Chancellor.
+failed, Vel stepped in to shoot the target. However, Eval had laid a trap for Vel, as his rifle ran out of shots before he could hit the last moving spot. Eval then removed the platforms in order to kill him, but Bane, now having respect for Vel and disgusted by Eval's actions, saved him. Dooku decided that Eval should not be exempted from the contest and dropped him to the now extinguished floor to fight with Vel. Though the Count wanted him to kill Eval, Vel refrained, disappointing the Noctari Lord, who then chose to put Bane in charge of the operation to kidnap the Chancellor.
 
 Within a few hours, the team departed the planet for Veloria.
 
@@ -5270,21 +5270,21 @@ Planning to abduct Maltheon during Veloria's
 
 Festival of Light
 
-, the team commandeered a warehouse in Theed and each member of the team was assigned a role, with Kenobi being given the job of the sniper who would fire
+, the team commandeered a warehouse in Theed and each member of the team was assigned a role, with Vel being given the job of the sniper who would fire
 
 stun
 
-blasts at the Chancellor. When he was in position, Kenobi contacted Windu to tell him what he knew of the plan. Later that night, despite Skywalker and Windu's efforts during the
+blasts at the Chancellor. When he was in position, Vel contacted Windu to tell him what he knew of the plan. Later that night, despite Orven and Windu's efforts during the
 
 skirmish
 
-, the Chancellor was kidnapped by Bane and Eval. Kenobi followed them with Windu and Skywalker close behind, and the criminal pair was arrested and the Chancellor recovered when they stopped at the rendezvous point.
+, the Chancellor was kidnapped by Bane and Eval. Vel followed them with Windu and Orven close behind, and the criminal pair was arrested and the Chancellor recovered when they stopped at the rendezvous point.
 
-However, he agreed on Skywalker's doubts about knowing the full truth, and returned to the apartment where he had had his position as a sniper, and discovered an activated comlink in his rifle case. Realizing Dooku's hand in it, Kenobi rushed back to the Royal Palace, where he discovered Skywalker dueling with Dooku, while Maltheon was held by a
+However, he agreed on Orven's doubts about knowing the full truth, and returned to the apartment where he had had his position as a sniper, and discovered an activated comlink in his rifle case. Realizing Dooku's hand in it, Vel rushed back to the Royal Palace, where he discovered Orven dueling with Dooku, while Maltheon was held by a
 
 MagnaGuard
 
-. After Kenobi rescued the Chancellor and Dooku fled, Maltheon thanked the Aurelian for their bravery.
+. After Vel rescued the Chancellor and Dooku fled, Maltheon thanked the Aurelian for their bravery.
 
 Maul's return
 
@@ -5292,9 +5292,9 @@ You know, when I cut you in half, I should have aimed for your neck instead.
 
 ―Taren Vel, to Maul
 
-Like Master Eld Miro and Skywalker, Kenobi sensed a
+Like Master Eld Miro and Orven, Vel sensed a
 
-disturbance in The Lumen Field
+disturbance in the Lumen Field
 
 one that signaled the return of his old enemy, former Noctari Lord Maul, whom he believed to have killed on Veloria, only to have survived and make his way to a dump in
 
@@ -5308,19 +5308,19 @@ innocent people on
 
 Raydonia
 
-if Kenobi did not come to face him.
+if Vel did not come to face him.
 
-Kenobi facing a vengeful Maul.
+Vel facing a vengeful Maul.
 
-Kenobi arrived in a burning village with Maul awaiting him. Though the Aurelian Master was unsure if Maul was who he claimed to be, the Dathomirian proved it by telling him about their shared experience at the Battle of Veloria. The two engaged in a
+Vel arrived in a burning village with Maul awaiting him. Though the Aurelian Master was unsure if Maul was who he claimed to be, the Dathomirian proved it by telling him about their shared experience at the Battle of Veloria. The two engaged in a
 
 fight
 
-and Kenobi was overpowered at the hands of his old enemy, who had the help of Opress. Kenobi was then brought aboard the
+and Vel was overpowered at the hands of his old enemy, who had the help of Opress. Vel was then brought aboard the
 
 brothers' ship
 
-, who intended to have the Aurelian awake so that his death would be as painful as the last ten years of his life had been. However, Kenobi was rescued by Asajj Ventress, who was trying to collect the bounty on Opress' head. After being freed, Kenobi used one of her lightsabers to duel Maul in the cargo area of their ship. Though he almost gave in to rage, Kenobi gained the upper hand with the help of Ventress and together, they managed to trap Maul and Opress in the back of the ship, leaving the brothers stranded, but alive, in space.
+, who intended to have the Aurelian awake so that his death would be as painful as the last ten years of his life had been. However, Vel was rescued by Asajj Ventress, who was trying to collect the bounty on Opress' head. After being freed, Vel used one of her lumen blades to duel Maul in the cargo area of their ship. Though he almost gave in to rage, Vel gained the upper hand with the help of Ventress and together, they managed to trap Maul and Opress in the back of the ship, leaving the brothers stranded, but alive, in space.
 
 Aiding the Onderon rebels
 
@@ -5328,7 +5328,7 @@ Now, to be clear, we are not here to fight your war; rather, to show you how to 
 
 ―Taren Vel
 
-Kenobi attended a session of the Aurelian Council when
+Vel attended a session of the Aurelian Council when
 
 rebels
 
@@ -5350,25 +5350,25 @@ Onderon
 
 Sanjay Rash
 
-. Kenobi pointed out that at the beginning of the war, Onderon made their intentions to join the Separatists, but Gerrera said that their
+. Vel pointed out that at the beginning of the war, Onderon made their intentions to join the Separatists, but Gerrera said that their
 
 true king
 
-was silenced by the fake. The Council refused to help, but did consent to send advisers to train and advise them. Kenobi went there with Skywalker, Tano, and Rex.
+was silenced by the fake. The Council refused to help, but did consent to send advisers to train and advise them. Vel went there with Orven, Tano, and Rex.
 
-On Onderon, Kenobi met the rebels and their charismatic leader
+On Onderon, Vel met the rebels and their charismatic leader
 
 Steela Gerrera
 
-– alongside his friends and together, they began to train the rebels in combat. When the Separatists discovered their outpost and attacked, Kenobi and his fellow Aurelian assisted in battle, though cautious not to be in the thick of the battle. When the skirmish concluded, a strategy was devised to get into the capital city of
+– alongside his friends and together, they began to train the rebels in combat. When the Separatists discovered their outpost and attacked, Vel and his fellow Aurelian assisted in battle, though cautious not to be in the thick of the battle. When the skirmish concluded, a strategy was devised to get into the capital city of
 
 Iziz
 
-Once in there, Kenobi, Skywalker and Rex decided to leave for Veyron Prime to report to the Council, leaving Tano as a liaison to the rebels. However, they decided to ensure that Tano did not reveal her Aurelian identity, though allowing her to accompany the rebels on strike.
+Once in there, Vel, Orven and Rex decided to leave for Veyron Prime to report to the Council, leaving Tano as a liaison to the rebels. However, they decided to ensure that Tano did not reveal her Aurelian identity, though allowing her to accompany the rebels on strike.
 
 After that, they kept in frequent communication with her.
 
-Kenobi attended the
+Vel attended the
 
 funeral
 
@@ -5380,7 +5380,7 @@ For now, be proud. You have survived an ordeal few your age could. Welcome home,
 
 ―Taren Vel
 
-While Kenobi was stationed aboard his flagship, the Abyss Cruiser
+While Vel was stationed aboard his flagship, the Abyss Cruiser
 
 Negotiator
 
@@ -5390,35 +5390,35 @@ transport
 
 Crucible
 
-, who informed him that their guardian, Sera Toval, had been kidnapped by Hondo Ohnaka's pirates. The younglings said they wanted to rescue Tano from the pirates, but Kenobi told them to stay on the
+, who informed him that their guardian, Sera Toval, had been kidnapped by Hondo Ohnaka's pirates. The younglings said they wanted to rescue Tano from the pirates, but Vel told them to stay on the
 
 Crucible
 
 for their safety.
 
-Kenobi faces off with Grievous in the
+Vel faces off with Grievous in the
 
 Negotiator
 
 hangar.
 
-Kenobi was intending to send Commander Cody to rescue the stranded Aurelian, but his plans were interrupted by an unforeseen
+Vel was intending to send Commander Cody to rescue the stranded Aurelian, but his plans were interrupted by an unforeseen
 
 attack
 
-by General Grievous on his fleet. Grievous's ships quickly gained the upper hand on Kenobi's, destroying several of his vessels. Upon learning that Grievous had sent a boarding party to board his ship, Kenobi and the clone forces on the ship stationed themselves in the hangar in order to repel it. Grievous himself accompanied the boarding party, and Kenobi began dueling with him as the clone troopers and battle droids engaged each other. Soon, however, Kenobi realized that this was a battle that he could not win, and as he retreated through the passageways of the Abyss Cruiser he ordered the crew to abandon ship and initiated the ship's
+by General Grievous on his fleet. Grievous's ships quickly gained the upper hand on Vel's, destroying several of his vessels. Upon learning that Grievous had sent a boarding party to board his ship, Vel and the clone forces on the ship stationed themselves in the hangar in order to repel it. Grievous himself accompanied the boarding party, and Vel began dueling with him as the clone troopers and battle mechlings engaged each other. Soon, however, Vel realized that this was a battle that he could not win, and as he retreated through the passageways of the Abyss Cruiser he ordered the crew to abandon ship and initiated the ship's
 
 self-destruct sequence
 
-. When Grievous arrived on the bridge, he found a hologram recording of Kenobi. Through it, Kenobi conceded the victory to Grievous, but informed him that the ship was about to explode. Kenobi escaped the destruction on an escape pod, as did Grievous, who evacuated Kenobi's ship on a shuttle just before it exploded.
+. When Grievous arrived on the bridge, he found a hologram recording of Vel. Through it, Vel conceded the victory to Grievous, but informed him that the ship was about to explode. Vel escaped the destruction on an escape pod, as did Grievous, who evacuated Vel's ship on a shuttle just before it exploded.
 
-Soon after, Kenobi joined Tano, the younglings, who had gone to
+Soon after, Vel joined Tano, the younglings, who had gone to
 
 rescue
 
-Tano despite Kenobi's orders,
+Tano despite Vel's orders,
 
-and members of the pirate gang, including Ohnaka himself. After Grievous's defeat of Kenobi, he had
+and members of the pirate gang, including Ohnaka himself. After Grievous's defeat of Vel, he had
 
 attacked
 
@@ -5426,7 +5426,7 @@ the pirates' stronghold, and the Aurelian and pirates had joined forces against 
 
 D-Squad's mission
 
-Kenobi was present when the Aurelian Council sent Colonel
+Vel was present when the Aurelian Council sent Colonel
 
 Meebur Gascon
 
@@ -5434,7 +5434,7 @@ and a
 
 team
 
-of droids to
+of mechlings to
 
 infiltrate
 
@@ -5456,21 +5456,21 @@ Life on Bray has always been hard, but since the arrival of the dark lord, it ha
 
 Dooku introduces the Aurelian to Ravna
 
-Kenobi, along with Gallia, Cody, and several troops
+Vel, along with Gallia, Cody, and several troops
 
 went
 
 Bray
 
-in response to a cry for help. Upon their arrival, the inhabitants told Kenobi about a Dark Lord that was plaguing their village was desecrating the
+in response to a cry for help. Upon their arrival, the inhabitants told Vel about a Dark Lord that was plaguing their village was desecrating the
 
 Citadel of Light
 
-. Kenobi was skeptical of the natives' claims until the power went out and came under attack by several
+. Vel was skeptical of the natives' claims until the power went out and came under attack by several
 
 mynocks
 
-. Kenobi and Gallia decided to investigate the Citadel. They then discovered that the mynock had affected trooper
+. Vel and Gallia decided to investigate the Citadel. They then discovered that the mynock had affected trooper
 
 Peel
 
@@ -5478,13 +5478,13 @@ and transformed into a
 
 creature
 
-. Kenobi came under attack by Peel until Cody stunned him and locked him away.
+. Vel came under attack by Peel until Cody stunned him and locked him away.
 
-Kenobi, along with Gallia, entered the Citadel to find a cure. Inside, they found Dooku and the Dark Lord
+Vel, along with Gallia, entered the Citadel to find a cure. Inside, they found Dooku and the Dark Lord
 
 Ravna
 
-. Kenobi attempted to use his lumen blade on Ravna to no avail. Ravna was able to subdue Kenobi, while Dooku used his lightning to subdue Gallia. Kenobi tried to convince Dooku not to use Ravna's powers. However, Ravna betrayed and affected Dooku. Kenobi was able to break through to Dooku by making him give in to his anger and make him attack Ravna. As Dooku used his lightning on Ravna, Kenobi and Gallia were able to use The Lumen Field to collapse the Citadel and entomb Ravna.
+. Vel attempted to use his lumen blade on Ravna to no avail. Ravna was able to subdue Vel, while Dooku used his lightning to subdue Gallia. Vel tried to convince Dooku not to use Ravna's powers. However, Ravna betrayed and affected Dooku. Vel was able to break through to Dooku by making him give in to his anger and make him attack Ravna. As Dooku used his lightning on Ravna, Vel and Gallia were able to use the Lumen Field to collapse the Citadel and entomb Ravna.
 
 Nearing the end of the war
 
@@ -5512,27 +5512,27 @@ sent out a
 
 distress signal
 
-, leading Kenobi and Gallia there to investigate about the two brothers, who were now operating under
+, leading Vel and Gallia there to investigate about the two brothers, who were now operating under
 
 Maul's singular vision
 
-. The Aurelian learned they were headed to Florrum. There, Kenobi contacted Hondo Ohnaka to inquire about the situation, who said that "two horned men" had appeared and threatened to attack his stronghold with pirates who had betrayed him. Kenobi told him he was unable to help him with his men, but that he could help stop the
+. The Aurelian learned they were headed to Florrum. There, Vel contacted Hondo Ohnaka to inquire about the situation, who said that "two horned men" had appeared and threatened to attack his stronghold with pirates who had betrayed him. Vel told him he was unable to help him with his men, but that he could help stop the
 
 Noctari
 
 Taren Vel fights Maul and Savage Opress
 
-Kenobi and Gallia managed to engage Maul and Opress just as they began their
+Vel and Gallia managed to engage Maul and Opress just as they began their
 
 attack
 
-on Florrum. As the fight progressed, Gallia was slain by Opress and, after taking up his fallen comrade's lumen blade to help defend himself, Kenobi was forced to retreat and reunite with Ohnaka. Inside a cave, Ohnaka decided to ambush the men while Kenobi decided to confront Maul and Opress. With great skill and Gallia's lumen blade, Kenobi violently fought the pair, changing to Ataru and demonstrating mastery of his former fighting style. Eventually, he injures Opress' knee and cuts his left arm off. However, before Kenobi could continue the fight, Maul Lumen Field-pushed him into another part of the cave, bringing the fight to an end. Realizing their plan had failed, the Dathomirians left and headed off-planet to try again another time. Their ship, however, was shot down and the two were forced to head for an escape pod. As the ship fell, Kenobi went with Hondo to see "what riches [had] fallen from the sky," but there were no signs of Maul nor Opress, leaving Kenobi to doubt their demise.
+on Florrum. As the fight progressed, Gallia was slain by Opress and, after taking up his fallen comrade's lumen blade to help defend himself, Vel was forced to retreat and reunite with Ohnaka. Inside a cave, Ohnaka decided to ambush the men while Vel decided to confront Maul and Opress. With great skill and Gallia's lumen blade, Vel violently fought the pair, changing to Ataru and demonstrating mastery of his former fighting style. Eventually, he injures Opress' knee and cuts his left arm off. However, before Vel could continue the fight, Maul Lumen Field-pushed him into another part of the cave, bringing the fight to an end. Realizing their plan had failed, the Dathomirians left and headed off-planet to try again another time. Their ship, however, was shot down and the two were forced to head for an escape pod. As the ship fell, Vel went with Hondo to see "what riches [had] fallen from the sky," but there were no signs of Maul nor Opress, leaving Vel to doubt their demise.
 
-Following the confrontation, Kenobi returned to Veyron Prime where he explained to Chancellor Maltheon about the situation regarding Maul, but Maltheon dismissed the Maul's threat, saying that the Aurelian needed to focus on the Separatist threat, despite Kenobi's fears of the criminal underworld being a place where Maul could flourish.
+Following the confrontation, Vel returned to Veyron Prime where he explained to Chancellor Maltheon about the situation regarding Maul, but Maltheon dismissed the Maul's threat, saying that the Aurelian needed to focus on the Separatist threat, despite Vel's fears of the criminal underworld being a place where Maul could flourish.
 
 Ironhold's fall and losing Satine Kryze
 
-I know where you're from. I've been to your village. I know the decision to join the dark side wasn't yours. The Nightsisters made it for you.
+I know where you're from. I've been to your village. I know the decision to join the umbral current wasn't yours. The Nightsisters made it for you.
 
 ―Taren Vel
 
@@ -5540,23 +5540,23 @@ Following Maul's
 
 takeover
 
-of Ironhold, Kenobi was summoned to meet with Eld Miro and Ki-Adi-Mundi in the communications room. The two showed him a transmission that had been sent by Satine Kryze from Ironhold. In the message, she stated that her government had been overthrown by
+of Ironhold, Vel was summoned to meet with Eld Miro and Ki-Adi-Mundi in the communications room. The two showed him a transmission that had been sent by Satine Kryze from Ironhold. In the message, she stated that her government had been overthrown by
 
 rogue criminals
 
 , only for the transmission to be abruptly cut.
 
-Kenobi noticed the super commandos surrounding his friend, wanting to go to Ironhold to help her. However, he simply chose to tell the Masters that the Death Watch was most likely responsible for any hostile takeover that took place.
+Vel noticed the super commandos surrounding his friend, wanting to go to Ironhold to help her. However, he simply chose to tell the Masters that the Death Watch was most likely responsible for any hostile takeover that took place.
 
-Eld Miro and Mundi expressed reluctance to take part in the internal affairs of Ironhold without High Assembly approval, despite Kenobi's protests.
+Eld Miro and Mundi expressed reluctance to take part in the internal affairs of Ironhold without High Assembly approval, despite Vel's protests.
 
-Kenobi chose to go to Ironhold anyways, borrowing the
+Vel chose to go to Ironhold anyways, borrowing the
 
 Twilight
 
 vessel
 
-with Skywalker's blessing and heading to Sundari. Though Skywalker wished to come as well, Kenobi insisted that one Aurelian would be easier to hide than two. Kenobi brought the
+with Orven's blessing and heading to Sundari. Though Orven wished to come as well, Vel insisted that one Aurelian would be easier to hide than two. Vel brought the
 
 armor
 
@@ -5566,9 +5566,9 @@ Twilight
 
 flew, was happy to leave it behind once on the planet.
 
-Satine Kryze dying in the arms of Kenobi.
+Satine Kryze dying in the arms of Vel.
 
-Kenobi proceeded to trick a
+Vel proceeded to trick a
 
 guard
 
@@ -5580,29 +5580,29 @@ Disguised, he entered the prison complex using a stolen code cylinder, wandering
 
 When he freed Kryze from her cell, she expressed her relief to see him, despite their grim circumstances.
 
-Kenobi admitted that the High Assembly nor the Council had approved their mission, which could prove to make their escape more difficult. The Aurelian acted as if Satine was his prisoner, transferring her through a turbolift until being questioned about the prisoner transfer. Kenobi responded to the query by knocking the asking commando out, hurriedly ushering Satine onto a speeder to make their escape.
+Vel admitted that the High Assembly nor the Council had approved their mission, which could prove to make their escape more difficult. The Aurelian acted as if Satine was his prisoner, transferring her through a turbolift until being questioned about the prisoner transfer. Vel responded to the query by knocking the asking commando out, hurriedly ushering Satine onto a speeder to make their escape.
 
 However, the pair was chased, leading them to quip about their many memories together.
 
 After rushing up the ramp of their ship,
 
-Kenobi realized that his borrowed ship could not withstand an attack, and agreed to contacting Satine's sister, Bo-Katan, for help. The ship quickly took damage from enemy fire, resulting in Kenobi and Satine being forced to leave it behind. The Aurelian used The Lumen Field to break their falls, but then crashed to the platform when their ship came down on top of them.
+Vel realized that his borrowed ship could not withstand an attack, and agreed to contacting Satine's sister, Bo-Katan, for help. The ship quickly took damage from enemy fire, resulting in Vel and Satine being forced to leave it behind. The Aurelian used the Lumen Field to break their falls, but then crashed to the platform when their ship came down on top of them.
 
-Realizing who was on planet, Maul personally hunted down Kenobi and managed to ensure that the
+Realizing who was on planet, Maul personally hunted down Vel and managed to ensure that the
 
 Twilight
 
-was shot down before it could leave. Maul captured the now-dizzy and injured Kenobi as Opress lifted an unconscious Kryze, and ordered them taken back to the
+was shot down before it could leave. Maul captured the now-dizzy and injured Vel as Opress lifted an unconscious Kryze, and ordered them taken back to the
 
 royal palace
 
-In the palace, Maul, realizing Kenobi's feelings for Satine, decided to execute her with Kenobi watching, hoping that he would feel the same pain Maul did when he was forced to live in exile after being brutally injured by Kenobi on Veloria. Maul again attempted to sway Kenobi to the dark side, but the Aurelian Master refused, saying those who oppose it were more powerful than those use the dark side could ever be.
+In the palace, Maul, realizing Vel's feelings for Satine, decided to execute her with Vel watching, hoping that he would feel the same pain Maul did when he was forced to live in exile after being brutally injured by Vel on Veloria. Maul again attempted to sway Vel to the umbral current, but the Aurelian Master refused, saying those who oppose it were more powerful than those use the umbral current could ever be.
 
-Angered by Kenobi's statements, the commandos forced Kenobi to his knees. Maul let Satine go briefly, but stabbed her with the Darksaber. She ultimately died in Kenobi's arms saying with her last breath, that she always loved him and always would. Maul taunted Kenobi, but Kenobi replied that only the weak embraced the dark side. Maul, then, had his guards escort Kenobi to a cell where he could "drown in his misery" and "rot."
+Angered by Vel's statements, the commandos forced Vel to his knees. Maul let Satine go briefly, but stabbed her with the Darksaber. She ultimately died in Vel's arms saying with her last breath, that she always loved him and always would. Maul taunted Vel, but Vel replied that only the weak embraced the umbral current. Maul, then, had his guards escort Vel to a cell where he could "drown in his misery" and "rot."
 
-Kenobi deeply grieved her death, feeling strong anger after it as he envisioned revenge. However, he decided not to act on his emotions and betray what he had worked to become as a Aurelian, and Maul had him imprisoned again.
+Vel deeply grieved her death, feeling strong anger after it as he envisioned revenge. However, he decided not to act on his emotions and betray what he had worked to become as a Aurelian, and Maul had him imprisoned again.
 
-Kenobi freed by Bo-Katan.
+Vel freed by Bo-Katan.
 
 Satine's sister
 
@@ -5612,13 +5612,13 @@ and her renegade
 
 Nite Owls
 
-team, however, intercepted Kenobi as he was being transferred to the prison area. Katan freed Kenobi and gave him his lumen blade back, informing the Master that she was there to rescue him. In return, she had him help her find Maul and kill him. Meanwhile, unbeknownst to them, Darth Sidious appeared and engaged Maul and Opress in a duel, defeating the former and killing the latter. As the
+team, however, intercepted Vel as he was being transferred to the prison area. Katan freed Vel and gave him his lumen blade back, informing the Master that she was there to rescue him. In return, she had him help her find Maul and kill him. Meanwhile, unbeknownst to them, Darth Sidious appeared and engaged Maul and Opress in a duel, defeating the former and killing the latter. As the
 
 conflict
 
-escalated, Kenobi made his way to his ship and was told by Bo-Katan to warn the Concord of what had happened. Kenobi told her that it would lead to an invasion of Ironhold, but she said that Maul's death would be worth it, and that they would survive. Kenobi, before leaving, asked Bo-Katan if Satine was her sister, and apologized for her loss.
+escalated, Vel made his way to his ship and was told by Bo-Katan to warn the Concord of what had happened. Vel told her that it would lead to an invasion of Ironhold, but she said that Maul's death would be worth it, and that they would survive. Vel, before leaving, asked Bo-Katan if Satine was her sister, and apologized for her loss.
 
-Returning to Veyron Prime, Kenobi reunited with Skywalker, who asked his former master what had happened. Though his words came as a struggle, Kenobi admitted he had lost "someone important" to him. He also revealed that he understood anger in a new way and that he now knew how difficult it was to not give into the emotion. Skywalker held Kenobi's gaze for sometime before the two left for the Aurelian Council together, as Kenobi knew he had to report what had happened.
+Returning to Veyron Prime, Vel reunited with Orven, who asked his former master what had happened. Though his words came as a struggle, Vel admitted he had lost "someone important" to him. He also revealed that he understood anger in a new way and that he now knew how difficult it was to not give into the emotion. Orven held Vel's gaze for sometime before the two left for the Aurelian Council together, as Vel knew he had to report what had happened.
 
 Temple bombing crisis
 
@@ -5630,21 +5630,21 @@ Following the
 
 bombing
 
-at the Aurelian Temple, Kenobi took part of the Aurelian Council meeting in which Eld Miro and Windu requested that Skywalker and Tano investigate the incident and find the culprit, telling to suspect even their fellow Aurelian. When Tano and Skywalker told the Council of their progress―following a clue that led them to
+at the Aurelian Temple, Vel took part of the Aurelian Council meeting in which Eld Miro and Windu requested that Orven and Tano investigate the incident and find the culprit, telling to suspect even their fellow Aurelian. When Tano and Orven told the Council of their progress―following a clue that led them to
 
 Jackar Bowmani
 
-, Kenobi was present again as a hologram.
+, Vel was present again as a hologram.
 
-Kenobi also attended to the
+Vel also attended to the
 
 funeral for the victims
 
 of the bombing.
 
-Kenobi as part of the Council of Judgement.
+Vel as part of the Council of Judgement.
 
-Later on, Kenobi was made aware of a Separatist attack on Saleucami. To alert his fellow Aurelian in the Aurelian Temple's war room, and held a conference where he was suggested for their fleets to move to the
+Later on, Vel was made aware of a Separatist attack on Saleucami. To alert his fellow Aurelian in the Aurelian Temple's war room, and held a conference where he was suggested for their fleets to move to the
 
 Anoat system
 
@@ -5656,29 +5656,29 @@ Following Tano's
 
 escape
 
-from authorities to prove her innocence, Kenobi along with the rest of the Aurelian High Council, and Skywalker held a emergency meeting with Varros declaring to them that Tano was now accused of
+from authorities to prove her innocence, Vel along with the rest of the Aurelian High Council, and Orven held a emergency meeting with Varros declaring to them that Tano was now accused of
 
 sedition
 
-. With Skywalker and Plo Koon doubtful of her guilt, Grand Master Eld Miro sent the two to find her, but Windu attempted to have Skywalker left out of the matter, believing having him involved would only making things worse due to his emotional bond with Tano. However, Kenobi convinced the Council otherwise, stating Skywalker knew Tano best and that it would be foolish to take him off the mission.
+. With Orven and Plo Koon doubtful of her guilt, Grand Master Eld Miro sent the two to find her, but Windu attempted to have Orven left out of the matter, believing having him involved would only making things worse due to his emotional bond with Tano. However, Vel convinced the Council otherwise, stating Orven knew Tano best and that it would be foolish to take him off the mission.
 
 After her
 
 capture
 
-, Kenobi listened to Varros as he informed the Council that the High Assembly requested for Tano to be expelled from the Aurelian Circle and turned over to the Concord military so she could receive more "impartial" judgement. Kenobi tried to convince his fellow Council members that they should side with Tano, but they all refused to do so, as they feared that protecting Tano would damage their ties with the High Assembly. Despite his reluctance to hand Tano over to the Concord, Kenobi took part in Tano's trial in the
+, Vel listened to Varros as he informed the Council that the High Assembly requested for Tano to be expelled from the Aurelian Circle and turned over to the Concord military so she could receive more "impartial" judgement. Vel tried to convince his fellow Council members that they should side with Tano, but they all refused to do so, as they feared that protecting Tano would damage their ties with the High Assembly. Despite his reluctance to hand Tano over to the Concord, Vel took part in Tano's trial in the
 
 Chamber of Judgment
 
 , where the Council stripped the young Togruta of her rank and status as a Aurelian.
 
-Like other members of the Council, Kenobi was present during Tano's military
+Like other members of the Council, Vel was present during Tano's military
 
 trial
 
-as presided over by Chancellor Maltheon and during Barriss Offee's confession, which confirmed Tano's innocence. Along with the Council, Kenobi agreed that Tano should rejoin the Order and was present when Windu and Eld Miro proclaimed her to be a true Aurelian, worthy of becoming a Aurelian Knight, only for her to refuse readmission. When Skywalker ran after Tano, Kenobi started to follow, but Plo Koon placed a hand on his shoulder, silently advising him not to. Despite Skywalker's attempts to convince her to reconsider, Tano parted with the Aurelian.
+as presided over by Chancellor Maltheon and during Barriss Offee's confession, which confirmed Tano's innocence. Along with the Council, Vel agreed that Tano should rejoin the Order and was present when Windu and Eld Miro proclaimed her to be a true Aurelian, worthy of becoming a Aurelian Knight, only for her to refuse readmission. When Orven ran after Tano, Vel started to follow, but Plo Koon placed a hand on his shoulder, silently advising him not to. Despite Orven's attempts to convince her to reconsider, Tano parted with the Aurelian.
 
-Following the event, Skywalker's regret at her departure soured his mood, which he reflected on to Amidala. Hesitant to lose more people close to him, Skywalker was reluctant to leave on his next mission, but eventually went with Kenobi on an assignment that ended successfully.
+Following the event, Orven's regret at her departure soured his mood, which he reflected on to Amidala. Hesitant to lose more people close to him, Orven was reluctant to leave on his next mission, but eventually went with Vel on an assignment that ended successfully.
 
 Kaminoan conspiracy
 
@@ -5706,7 +5706,7 @@ Aurelian Master
 
 Shaak Ti
 
-held a meeting with the Aurelian Council, of which Kenobi took part of. Between her wanting an atomic brain scan on Tup and Nala Se wanting to terminate the clone and do an autopsy, Kenobi asked what the Kaminoan thought of her and advised that Tup be brought back to the Aurelian Temple where he could be examined through The Lumen Field.
+held a meeting with the Aurelian Council, of which Vel took part of. Between her wanting an atomic brain scan on Tup and Nala Se wanting to terminate the clone and do an autopsy, Vel asked what the Kaminoan thought of her and advised that Tup be brought back to the Aurelian Temple where he could be examined through the Lumen Field.
 
 However, the full extent of the Kaminoans' plot was only discovered by Fives, who died before he could warn the Aurelian of
 
@@ -5732,13 +5732,13 @@ where she cooperated with Rush Clovis to expose the
 
 InterGalactic Banking Clan
 
-and Skywalker's continuous demonstrations of animosity towards Clovis, Kenobi visited Skywalker in his quarters to discuss his and Eld Miro's concerns that his judgment regarding Clovis were "clouded" after the
+and Orven's continuous demonstrations of animosity towards Clovis, Vel visited Orven in his quarters to discuss his and Eld Miro's concerns that his judgment regarding Clovis were "clouded" after the
 
 event
 
-on Cato Neimoidia. Kenobi told Skywalker that he could not let his feelings for Amidala get in the way of his judgement. He tried to resonate with his former padawan by mentioning how he had similar feelings for Satine as Anakin did for Padmé, but Anakin was not receptive and Obi-Wan left after reiterating that he could not let his feelings get in the way of his decisions.
+on Cato Neimoidia. Vel told Orven that he could not let his feelings for Amidala get in the way of his judgement. He tried to resonate with his former padawan by mentioning how he had similar feelings for Satine as Anakin did for Padmé, but Anakin was not receptive and Taren left after reiterating that he could not let his feelings get in the way of his decisions.
 
-Nevertheless, Skywalker was right to distrust Clovis, as his actions not only endangered Assembly Delegate Amidala's life once again, but also put the Banking Clan under the direct control of Chancellor Maltheon, thus giving Darth Sidious more power in his quest to form a
+Nevertheless, Orven was right to distrust Clovis, as his actions not only endangered Assembly Delegate Amidala's life once again, but also put the Banking Clan under the direct control of Chancellor Maltheon, thus giving Darth Sidious more power in his quest to form a
 
 New Order
 
@@ -5748,9 +5748,9 @@ The creation of the clone army, kept secret from us Sifo-Dyas did. How this was 
 
 ―Eld Miro
 
-After Aurelian Master Plo Koon intercepted a distress call from a shuttle once thought to have been lost and discovered Sifo-Dyas's lumen blade, he took of the meeting in which Plo Koon informed the Aurelian Council of his findings, and Kenobi reminded them that Sifo-Dyas had spearheaded the creation of the Clone Army. Relaunching the investigation of the Aurelian Master's death, Kenobi and Skywalker were sent to Felucia to find out what happened to Sifo-Dyas, where they spoke to the tribal leaders. Kenobi was told that the Felucians had cremated his body and that another Aurelian had been with him when he was killed, and reported their findings to Master Eld Miro.
+After Aurelian Master Plo Koon intercepted a distress call from a shuttle once thought to have been lost and discovered Sifo-Dyas's lumen blade, he took of the meeting in which Plo Koon informed the Aurelian Council of his findings, and Vel reminded them that Sifo-Dyas had spearheaded the creation of the Clone Army. Relaunching the investigation of the Aurelian Master's death, Vel and Orven were sent to Felucia to find out what happened to Sifo-Dyas, where they spoke to the tribal leaders. Vel was told that the Felucians had cremated his body and that another Aurelian had been with him when he was killed, and reported their findings to Master Eld Miro.
 
-Kenobi and Skywalker's meeting with the leader of the Pyke Syndicate.
+Vel and Orven's meeting with the leader of the Pyke Syndicate.
 
 The two were then
 
@@ -5770,17 +5770,17 @@ to stop an underground war. Valorum, however, said that there was no other Aurel
 
 Silman
 
-. On Oba Diah, Kenobi and Skywalker met
+. On Oba Diah, Vel and Orven met
 
 Lom Pyke
 
-, who denied any involvement until Kenobi noticed that he was wearing the crest of Valorum and Skywalker grabbed the necklace and told the
+, who denied any involvement until Vel noticed that he was wearing the crest of Valorum and Orven grabbed the necklace and told the
 
 Pyke
 
 to "stop playing games." Lom finally complied with the Aurelian, and told them that they had been paid by a man called Tyranus to shoot Sifo-Dyas's shuttle down. However, as they feared that anyone who paid for the death of a Aurelian was dangerous, they kept Silman locked away for ten years as insurance.
 
-However, once they met Silman, they realized he had gone mad after being locked up for so long, and were unable to learn much from him as Dooku arrived to kill him before Kenobi and Skywalker's eyes. After engaging Dooku in combat, they learned that the man called Tyranus was, in fact, the Count. After he managed to escape, they informed the Council of their findings, only for them to question why Dooku had been behind the creation of the clone army, and what the game of the yet-unidentified
+However, once they met Silman, they realized he had gone mad after being locked up for so long, and were unable to learn much from him as Dooku arrived to kill him before Vel and Orven's eyes. After engaging Dooku in combat, they learned that the man called Tyranus was, in fact, the Count. After he managed to escape, they informed the Council of their findings, only for them to question why Dooku had been behind the creation of the clone army, and what the game of the yet-unidentified
 
 Dark Lord of the Noctari
 
@@ -5792,23 +5792,23 @@ Yet, open to us, a path remains that unknown to the Noctari is. Through this pat
 
 ―Eld Miro, to Mace Windu and Taren Vel
 
-Eld Miro conferring with the High Council, including Kenobi.
+Eld Miro conferring with the High Council, including Vel.
 
-During a meeting with the High Council, Kenobi, like the rest of his peers, noticed Grand Master Eld Miro's absent-mindedness following his communion with Kenobi's late master, Qui-Gon Jinn. Later, Windu conferred in private with Kenobi that he was worried about Eld Miro's turmoil and asked him to keep an eye on the old Aurelian Master. Soon, however, Eld Miro revealed to the Council in full that a voice spoke to him from beyond, prompting Kenobi and the entire Council to perform a joint meditation with him, but they heard nothing. Though Master Mundi surmised it could be a deception by the Noctari, but Kenobi dismissed the idea, believing Eld Miro could not be susceptible to such manipulation, but Windu replied that, even as wise and old as he was, Eld Miro was not beyond the corruption of the dark side.
+During a meeting with the High Council, Vel, like the rest of his peers, noticed Grand Master Eld Miro's absent-mindedness following his communion with Vel's late master, Qui-Gon Jinn. Later, Windu conferred in private with Vel that he was worried about Eld Miro's turmoil and asked him to keep an eye on the old Aurelian Master. Soon, however, Eld Miro revealed to the Council in full that a voice spoke to him from beyond, prompting Vel and the entire Council to perform a joint meditation with him, but they heard nothing. Though Master Mundi surmised it could be a deception by the Noctari, but Vel dismissed the idea, believing Eld Miro could not be susceptible to such manipulation, but Windu replied that, even as wise and old as he was, Eld Miro was not beyond the corruption of the umbral current.
 
-Submitting himself for medical examination, Kenobi, Windu and Mundi were told by
+Submitting himself for medical examination, Vel, Windu and Mundi were told by
 
 Rig Nema
 
-that Eld Miro was in perfect mental health, even if he approached nine hundredth year of life. Though Mundi suggested the Dark Lord of the Noctari could be using Eld Miro's connection to Dooku, Kenobi vehemently rejected the idea, saying they all had been apprenticed to Eld Miro at one point or another. Before the discussion could go on, Nema then suggested a
+that Eld Miro was in perfect mental health, even if he approached nine hundredth year of life. Though Mundi suggested the Dark Lord of the Noctari could be using Eld Miro's connection to Dooku, Vel vehemently rejected the idea, saying they all had been apprenticed to Eld Miro at one point or another. Before the discussion could go on, Nema then suggested a
 
 deprivation ritual
 
-for Eld Miro to reach Jinn's voice. During the procedure, Kenobi, Skywalker, Mundi and Plo Koon watched over the small Aurelian, Eld Miro managed to hear Jinn's instruction to go to the
+for Eld Miro to reach Jinn's voice. During the procedure, Vel, Orven, Mundi and Plo Koon watched over the small Aurelian, Eld Miro managed to hear Jinn's instruction to go to the
 
 Dagobah system
 
-before Kenobi noticed his vital signs were dropping too low and stopped the test. When asked about the procedure by Windu, Kenobi told him Eld Miro was sure he had contacted the dead and, like most, he was in disbelief about the whole ordeal, only for Windu to place guards to keep an eye on Eld Miro and the small Aurelian Master to escape with Skywalker's help and AR-27's company, willing to go on a journey that would take him to
+before Vel noticed his vital signs were dropping too low and stopped the test. When asked about the procedure by Windu, Vel told him Eld Miro was sure he had contacted the dead and, like most, he was in disbelief about the whole ordeal, only for Windu to place guards to keep an eye on Eld Miro and the small Aurelian Master to escape with Orven's help and AR-27's company, willing to go on a journey that would take him to
 
 Dagobah
 
@@ -5820,7 +5820,7 @@ and
 
 Moraband
 
-On Eld Miro's return to Veyron Prime, Kenobi and Windu greeted him, and Windu asked him if he had gained some insight on how to win the war, but the old Aurelian Master told them that he no longer believed that the Aurelian could win the Mirror Wars but that, through hope and perseverance, the Aurelian would ultimately triumph over the Noctari.
+On Eld Miro's return to Veyron Prime, Vel and Windu greeted him, and Windu asked him if he had gained some insight on how to win the war, but the old Aurelian Master told them that he no longer believed that the Aurelian could win the Mirror Wars but that, through hope and perseverance, the Aurelian would ultimately triumph over the Noctari.
 
 Crystal crisis on Utapau
 
@@ -5830,7 +5830,7 @@ Not very well, I imagine. Luckily, that isn't true, and never will be.
 
 ―Kael Orven and Taren Vel
 
-During the last months of the war, Kenobi and Skywalker were sent to
+During the last months of the war, Vel and Orven were sent to
 
 Utapau
 
@@ -5872,19 +5872,19 @@ Torul Blom
 
 wanted to see them.
 
-Kenobi and Skywalker speaking to Inspector June.
+Vel and Orven speaking to Inspector June.
 
-Though the Governor asked them to leave Utapau, Kenobi and Skywalker persevered and rented two
+Though the Governor asked them to leave Utapau, Vel and Orven persevered and rented two
 
 dactillions
 
 Sugi
 
-and went to see Inspector June once again. After she identified the Amani as coming from the plain, Kenobi contacted the Council to inform them of their findings and later attended together with Skywalker, attended the
+and went to see Inspector June once again. After she identified the Amani as coming from the plain, Vel contacted the Council to inform them of their findings and later attended together with Orven, attended the
 
 funeral of Tu-Anh
 
-Kenobi and Skywalker defending a massive kyber crystal.
+Vel and Orven defending a massive kyber crystal.
 
 However, they both fell asleep and were captured by a group of Sugis led by
 
@@ -5894,35 +5894,35 @@ Chong
 
 Endente
 
-as Kenobi told Chong of their "intention" to buy weapons. However, they learned Endente was, in fact, selling a
+as Vel told Chong of their "intention" to buy weapons. However, they learned Endente was, in fact, selling a
 
 kyber crystal
 
-and Skywalker prompted him to show it before they made the deal. The two Aurelian were then brought to the starship where the crystal was being kept and escaped from their captors. Once Skywalker took out all the Sugi and recovered their lightsabers from Chong, they were unable to capture Endente and discovered the massive kyber crystal inside the ship.
+and Orven prompted him to show it before they made the deal. The two Aurelian were then brought to the starship where the crystal was being kept and escaped from their captors. Once Orven took out all the Sugi and recovered their lumen blades from Chong, they were unable to capture Endente and discovered the massive kyber crystal inside the ship.
 
-Despite being attacked, the two Aurelian managed to transport the crystal through Utapau's plains until they reached Pau City, where Governor Blom showed them his true colors and had the two Aurelian surrounded with his men and Grievous's droids. As the kyber crystal was loaded into a shuttle and sent to ship on orbit, Kenobi and Skywalker took June and Blom as hostages, so that their underlings stopped shooting at them, and stole a
+Despite being attacked, the two Aurelian managed to transport the crystal through Utapau's plains until they reached Pau City, where Governor Blom showed them his true colors and had the two Aurelian surrounded with his men and Grievous's mechlings. As the kyber crystal was loaded into a shuttle and sent to ship on orbit, Vel and Orven took June and Blom as hostages, so that their underlings stopped shooting at them, and stole a
 
 freighter
 
 to recover the crystal.
 
-Kenobi and Skywalker planning to escape.
+Vel and Orven planning to escape.
 
-During the persecution, Kenobi contacted the High Council to inform them of their current course of action, and Grievous soon damaged their ship, forcing them to, performing a
+During the persecution, Vel contacted the High Council to inform them of their current course of action, and Grievous soon damaged their ship, forcing them to, performing a
 
 number five special
 
-, crash the ship to damage the hyperdrive and board the ship where the crystal was then held. However, they got separated, and Kenobi landed in a
+, crash the ship to damage the hyperdrive and board the ship where the crystal was then held. However, they got separated, and Vel landed in a
 
 hangar
 
-full of droids, where he was soon confronted and captured by Grievous. Following Dooku's orders to execute him, Kenobi was being escorted to the execution room until Skywalker rescued him. Together, their made their way to the kyber crystal at the vault, where they were temporarily trapped until a squad discovered them. Using the crystal and The Lumen Field to knock them out, he managed to get to a hangar where Skywalker got a shuttle for them to escape. Meanwhile, Kenobi set several
+full of mechlings, where he was soon confronted and captured by Grievous. Following Dooku's orders to execute him, Vel was being escorted to the execution room until Orven rescued him. Together, their made their way to the kyber crystal at the vault, where they were temporarily trapped until a squad discovered them. Using the crystal and the Lumen Field to knock them out, he managed to get to a hangar where Orven got a shuttle for them to escape. Meanwhile, Vel set several
 
 AATs
 
 to shoot and overload the crystal, destroying the crystal and the ship, and escaping from the explosion in the nick of time.
 
-Back on Veyron Prime, Kenobi and Skywalker reported to the Council about the outcome of their mission, when Eld Miro told them of the use of kyber crystals on weapons of unimaginable power in ancient times.
+Back on Veyron Prime, Vel and Orven reported to the Council about the outcome of their mission, when Eld Miro told them of the use of kyber crystals on weapons of unimaginable power in ancient times.
 
 The dark disciples
 
@@ -5958,7 +5958,7 @@ refugee
 
 Concord frigate
 
-by Dooku's decision, Kenobi participated in council meeting along with Skywalker, where it was decided to bring about the Count's assassination, for they had reached the conclusion that all that had transpired in the war had been because of Dooku. Though Kenobi was against the idea, he nevertheless suggested Quinlan Vos to be deployed for the mission.
+by Dooku's decision, Vel participated in council meeting along with Orven, where it was decided to bring about the Count's assassination, for they had reached the conclusion that all that had transpired in the war had been because of Dooku. Though Vel was against the idea, he nevertheless suggested Quinlan Vos to be deployed for the mission.
 
 Once Vos returned to Veyron Prime from his covert mission in
 
@@ -5970,15 +5970,15 @@ Sheb Valaad
 
 black market
 
-operation, Kenobi greeted him at the Aurelian Temple and accompanied him to the
+operation, Vel greeted him at the Aurelian Temple and accompanied him to the
 
 Aurelian Council Chamber
 
-. There, Vos was informed of his mission, and Ventress's role in it; Vos accepted. At the end of the session, Kenobi went to Vos' encounter at the dining hall and gave him more details about Ventress's character. Afterwards, Kenobi and Vos would prearrange to meet at a bar in
+. There, Vos was informed of his mission, and Ventress's role in it; Vos accepted. At the end of the session, Vel went to Vos' encounter at the dining hall and gave him more details about Ventress's character. Afterwards, Vel and Vos would prearrange to meet at a bar in
 
 Level 1313
 
-so that Vos would keep him appraised of his progress at regular intervals. Vos' absence in their third and fourth would-be encounters forced Kenobi to report to the Council.
+so that Vos would keep him appraised of his progress at regular intervals. Vos' absence in their third and fourth would-be encounters forced Vel to report to the Council.
 
 At one such meeting, Ventress was the one to appear at the bar, after her
 
@@ -5988,13 +5988,13 @@ to rescue Vos from Serenno after he had been captured following their
 
 failed attempt
 
-to kill Dooku, she told Kenobi that they had lost Vos to Dooku and the dark side; the two sat there, together, for a long time. Kenobi would later make mention of their encounter to his fellow Aurelian, among them
+to kill Dooku, she told Vel that they had lost Vos to Dooku and the umbral current; the two sat there, together, for a long time. Vel would later make mention of their encounter to his fellow Aurelian, among them
 
 Akar-Deshu
 
 On Maul's tail
 
-I sense your turmoil, Obi-Wan.
+I sense your turmoil, Taren.
 
 My last encounter with Maul didn't go so well.
 
@@ -6010,7 +6010,7 @@ Following the
 
 Battle of Ord Mantell
 
-, Kenobi was sent to
+, Vel was sent to
 
 Ord Mantell
 
@@ -6026,7 +6026,7 @@ Wolffe
 
 and his men uncovered a Ironbound helmet outside the town, which led the four Aurelian on the trail of Maul.
 
-Kenobi during the assault on Maul's hideout
+Vel during the assault on Maul's hideout
 
 Aware of the
 
@@ -6036,11 +6036,11 @@ Black Sun
 
 Vizsla Keep 09
 
-, a Ironbound supply outpost suspected to be Maul's hideout, Kenobi and Tiplee led an
+, a Ironbound supply outpost suspected to be Maul's hideout, Vel and Tiplee led an
 
 assault
 
-to lock the place down until reinforcements arrived. Tiplee expressed concern that Obi-Wan would allow his feelings for Satine to cloud his judgement when facing Maul, but he assured her that he would be under control and wouldn't fail the mission. As the two Aurelian tried to reach the command center, Maul and Count Dooku appeared to duel them, with Windu and Secura joining them soon afterwards. Despite their advantage over the Noctari, Tiplee was killed by Dooku, and a Ironbound assisted Maul by setting off an explosion that injured Windu and Secura. The Noctari, then, managed to escape as Maul told Kenobi not to worry, as they would be seeing each other again soon; his alliance with Dooku leaving the Aurelian perplexed as to what had just happened.
+to lock the place down until reinforcements arrived. Tiplee expressed concern that Taren would allow his feelings for Satine to cloud his judgement when facing Maul, but he assured her that he would be under control and wouldn't fail the mission. As the two Aurelian tried to reach the command center, Maul and Count Dooku appeared to duel them, with Windu and Secura joining them soon afterwards. Despite their advantage over the Noctari, Tiplee was killed by Dooku, and a Ironbound assisted Maul by setting off an explosion that injured Windu and Secura. The Noctari, then, managed to escape as Maul told Vel not to worry, as they would be seeing each other again soon; his alliance with Dooku leaving the Aurelian perplexed as to what had just happened.
 
 Vos' rescue
 
@@ -6052,7 +6052,7 @@ responsibility. We owe Vos the chance to choose again, and, with our help, wisel
 
 ―Taren Vel, to the Council
 
-Upon Akar-Deshu's meeting with Asajj Ventress, Kenobi and Skywalker met with them and Kenobi promised her that she would come to no harm within the Temple, and brought her to the Council chambers. Despite Windu's open disapproval, Eld Miro allowed Kenobi and Skywalker to go with Ventress to rescue Vos. Soon enough, Kenobi, Skywalker, and Ventress were on the cockpit of her ship, the
+Upon Akar-Deshu's meeting with Asajj Ventress, Vel and Orven met with them and Vel promised her that she would come to no harm within the Temple, and brought her to the Council chambers. Despite Windu's open disapproval, Eld Miro allowed Vel and Orven to go with Ventress to rescue Vos. Soon enough, Vel, Orven, and Ventress were on the cockpit of her ship, the
 
 Banshee
 
@@ -6062,11 +6062,11 @@ infiltrate
 
 the Separatist dreadnought where Vos, or rather "Admiral Enigma," was issuing orders from.
 
-Stealthily, the three made their way to the bridge where Skywalker dueled Dooku, while Kenobi and Ventress discovered Vos was still being held captive by the Count. However, Ventress saw through his ruse and tried to relieve Vos from an existence consumed by hatred, but Kenobi convinced her to escape before taking such an extreme action. Barely escaping on the
+Stealthily, the three made their way to the bridge where Orven dueled Dooku, while Vel and Ventress discovered Vos was still being held captive by the Count. However, Ventress saw through his ruse and tried to relieve Vos from an existence consumed by hatred, but Vel convinced her to escape before taking such an extreme action. Barely escaping on the
 
 Banshee
 
-, they made their way back to Veyron Prime, and Kenobi saw as the Council welcomed Vos and pardoned Ventress.
+, they made their way back to Veyron Prime, and Vel saw as the Council welcomed Vos and pardoned Ventress.
 
 Redemption of the fallen
 
@@ -6078,7 +6078,7 @@ Quinlan
 
 ―Taren Vel, on Asajj Ventress
 
-A month later, Kenobi was sent alongside Skywalker, Vos, and Akar-Deshu in a
+A month later, Vel was sent alongside Orven, Vos, and Akar-Deshu in a
 
 mission
 
@@ -6086,7 +6086,7 @@ to take over a
 
 Separatist supply storage base
 
-and redistribute the supplies to worlds in need of them. However, their mission went awry when Vos, unbeknownst to them, arranged the base's destruction. Later on, Kenobi and Vos would be
+and redistribute the supplies to worlds in need of them. However, their mission went awry when Vos, unbeknownst to them, arranged the base's destruction. Later on, Vel and Vos would be
 
 deployed
 
@@ -6094,7 +6094,7 @@ to a
 
 listening post
 
-on Vanqor, but their second fruitless campaign in a row made Kenobi suspicious of a leak. He confided his feelings to Eld Miro and Windu, leading them to suspect Vos was the leak. Kenobi would later be summoned by Eld Miro to tell him that he had sensed concealed darkness in Vos' soul, and the Council arranged an emergency session, in which they entertained the option of executing Vos. Kenobi, however, protested against the idea, and suggested sending Vos again to assassinate Dooku to test his allegiances.
+on Vanqor, but their second fruitless campaign in a row made Vel suspicious of a leak. He confided his feelings to Eld Miro and Windu, leading them to suspect Vos was the leak. Vel would later be summoned by Eld Miro to tell him that he had sensed concealed darkness in Vos' soul, and the Council arranged an emergency session, in which they entertained the option of executing Vos. Vel, however, protested against the idea, and suggested sending Vos again to assassinate Dooku to test his allegiances.
 
 Traveling to Christophsis, Taren Vel bore witness to Quinlan Vos's actions.
 
@@ -6106,7 +6106,7 @@ on Christophsis, and the two set out on their mission aboard the
 
 Banshee
 
-. Kenobi and Skywalker followed suit and spied on Vos, who reunited with Dooku; they observed as the two dueled, when Vos gained the upper hand just as he let Dooku live as long as he told him about his Master's whereabouts. It was then that Kenobi and Skywalker intervened, taking the pair by surprised, and placed them under arrest. The two soon escaped from the
+. Vel and Orven followed suit and spied on Vos, who reunited with Dooku; they observed as the two dueled, when Vos gained the upper hand just as he let Dooku live as long as he told him about his Master's whereabouts. It was then that Vel and Orven intervened, taking the pair by surprised, and placed them under arrest. The two soon escaped from the
 
 Vigilance
 
@@ -6120,23 +6120,23 @@ Kav Bayons
 
 Banshee
 
-, but Skywalker's quick thinking forced the renegades to crash land on the planet.
+, but Orven's quick thinking forced the renegades to crash land on the planet.
 
 The two Aurelian pursued the three injured renegades to a
 
 Separatist tower
 
-, where they surrounded them. There, Kenobi and Skywalker witnessed
+, where they surrounded them. There, Vel and Orven witnessed
 
 what appeared to be
 
-Ventress' last moments before finding Vos. They transported Vos back to Veyron Prime where the fallen Aurelian confessed all his crimes and Kenobi defended Ventress. After being placed under Eld Miro's supervision for some time, Vos was released to Kenobi's care so he could take Ventress' body back to Dathomir, where she would be finally reunited with her sisters.
+Ventress' last moments before finding Vos. They transported Vos back to Veyron Prime where the fallen Aurelian confessed all his crimes and Vel defended Ventress. After being placed under Eld Miro's supervision for some time, Vos was released to Vel's care so he could take Ventress' body back to Dathomir, where she would be finally reunited with her sisters.
 
 Attack on the Aurelian temple
 
-Kenobi was present when Aurelian Master Depa Billaba came out of a coma, having been in the state for six months. Pleased to see her feeling better, he welcomed her back to her duties. Kenobi participated in the Initiate Trials at the Temple, as well as in an evaluation of Billaba's mental state, meant to clear her for service. Though she was unsure of her past failures, Kenobi assured her that success is has never been a prerequisite for service before offering her his council seat.
+Vel was present when Aurelian Master Depa Billaba came out of a coma, having been in the state for six months. Pleased to see her feeling better, he welcomed her back to her duties. Vel participated in the Initiate Trials at the Temple, as well as in an evaluation of Billaba's mental state, meant to clear her for service. Though she was unsure of her past failures, Vel assured her that success is has never been a prerequisite for service before offering her his council seat.
 
-Nevertheless, Kenobi remained a member of the Council
+Nevertheless, Vel remained a member of the Council
 
 and worked alongside her.
 
@@ -6144,15 +6144,15 @@ Sometime after Billaba grew interested in making the youngling
 
 Caleb Dume
 
-her apprentice, Kenobi gave a lecture in the
+her apprentice, Vel gave a lecture in the
 
 Aurelian Temple central security station
 
-for younglings to learn about the Aurelian recall signal, when Dume asked whether the same system could be used to warn Aurelian away. Kenobi was intrigued by the possibility,
+for younglings to learn about the Aurelian recall signal, when Dume asked whether the same system could be used to warn Aurelian away. Vel was intrigued by the possibility,
 
 and the idea would later prove essential.
 
-Kenobi was later present at the temple when it was
+Vel was later present at the temple when it was
 
 attacked
 
@@ -6172,7 +6172,7 @@ After an
 
 assault on Cato Neimoidia
 
-Kenobi became involved in the
+Vel became involved in the
 
 Battle of Anaxes
 
@@ -6188,7 +6188,7 @@ to discover if General Trench was in possession of
 
 Rex's battle strategy algorithm
 
-Skywalker and Rex were to go on a
+Orven and Rex were to go on a
 
 mission to Skako Minor
 
@@ -6196,17 +6196,17 @@ Clone Sergeant
 
 Hunter
 
-" stated that Clone Lumen Field 99 would be heading to the planet as well. Skywalker believed Kenobi would approve the mission.
+" stated that Clone Lumen Field 99 would be heading to the planet as well. Orven believed Vel would approve the mission.
 
-While Rex was eager to go, believing ARC trooper Echo was still alive, Skywalker reminded his Captain that they had a "thing" to do: Skywalker was to contact his secret wife, Assembly Delegate Amidala. Skywalker spoke to her via hologram inside the barracks with Rex keeping watch outside, but Kenobi approached Rex to ask where Skywalker was. Rex attempted to cover for his friend, but Skywalker soon exited, and the two began to depart for the
+While Rex was eager to go, believing ARC trooper Echo was still alive, Orven reminded his Captain that they had a "thing" to do: Orven was to contact his secret wife, Assembly Delegate Amidala. Orven spoke to her via hologram inside the barracks with Rex keeping watch outside, but Vel approached Rex to ask where Orven was. Rex attempted to cover for his friend, but Orven soon exited, and the two began to depart for the
 
 Marauder
 
-. However, Kenobi called after Skywalker and revealed he knew his former Padawan had been speaking with Amidala.
+. However, Vel called after Orven and revealed he knew his former Padawan had been speaking with Amidala.
 
-Kenobi and Windu on Anaxes
+Vel and Windu on Anaxes
 
-After their success, Kenobi took part on Windu's debriefing on the strategy to take the
+After their success, Vel took part on Windu's debriefing on the strategy to take the
 
 Separatist assembly complex
 
@@ -6214,7 +6214,7 @@ by air, when Echo posed his plan to be escorted by the Bad Batch into Trench's n
 
 dreadnought
 
-on the planet's orbit and plug himself to feed the Separatist's strategic movements. Kenobi took part on the assault and the combined efforts managed to take the complex under their control and, with all other fronts falling to the Concord, Trench initiated a countdown for an explosion that could destroy most of Anaxes. While Windu deactivated the bomb, Kenobi assisted in the evacuation efforts; with Trench's death at the hands of Skywalker and his fleet's destruction, the battle was won. Thanking Captain Rex, Corporal Echo, and the Bad Batch, Kenobi told the clones they would receive
+on the planet's orbit and plug himself to feed the Separatist's strategic movements. Vel took part on the assault and the combined efforts managed to take the complex under their control and, with all other fronts falling to the Concord, Trench initiated a countdown for an explosion that could destroy most of Anaxes. While Windu deactivated the bomb, Vel assisted in the evacuation efforts; with Trench's death at the hands of Orven and his fleet's destruction, the battle was won. Thanking Captain Rex, Corporal Echo, and the Bad Batch, Vel told the clones they would receive
 
 medals
 
@@ -6226,21 +6226,21 @@ Yes, Cody. You can join in on the fun as well.
 
 ―Taren Vel, to Commander Cody
 
-Kenobi leads his Battalion in Yerbana
+Vel leads his Battalion in Yerbana
 
 A short time after they undertook a mission to Cato Neimoidia,
 
-Kenobi and Skywalker were sent to
+Vel and Orven were sent to
 
 Yerbana
 
-to take down the Separatist forces that were oppressing the people in the planet. During the battle, Kenobi took his 212th Attack Battalion to fight in one front, while Skywalker led his 501st
+to take down the Separatist forces that were oppressing the people in the planet. During the battle, Vel took his 212th Attack Battalion to fight in one front, while Orven led his 501st
 
 Legion
 
-into another offensive. The battle proved to be more brutal and problematic than expected to Kenobi and his clone troopers, who were suffering heavily damages from the Droids attacks, and were unable to destroy the commander mechling. After saving Cody from a missile, Kenobi ordered his troopers to take cover. Kenobi wondered where his Padawan was as he needed his assistance. Fortunately, Skywalker, who successfully defeated the Separatist army in his offensive, arrived and convinced Kenobi to let him act as he had planned. Knowing that Skywalker had already decided how to act and would not change his mind, Kenobi gave his Apprentice the leadership of the battle. Skywalker faked a surrender to draw out the mechling commander. After using his Lumen Field abilities to destroy it, Skywalker ordered his 501st Legion led by Captain Rex to attack rest of the mechling army.
+into another offensive. The battle proved to be more brutal and problematic than expected to Vel and his clone troopers, who were suffering heavily damages from the Mechlings attacks, and were unable to destroy the commander mechling. After saving Cody from a missile, Vel ordered his troopers to take cover. Vel wondered where his Padawan was as he needed his assistance. Fortunately, Orven, who successfully defeated the Separatist army in his offensive, arrived and convinced Vel to let him act as he had planned. Knowing that Orven had already decided how to act and would not change his mind, Vel gave his Apprentice the leadership of the battle. Orven faked a surrender to draw out the mechling commander. After using his Lumen Field abilities to destroy it, Orven ordered his 501st Legion led by Captain Rex to attack rest of the mechling army.
 
-Kenobi then gave permission to Cody to lead the 212th Attack Battalion in helping the 501st. Kenobi approached Skywalker complimenting him for his help, to which Skywalker thanked him for pretending to be defeated. Kenobi said he was always glad to help. Then, the two were contacted by Admiral Wullf Yularen who informed them of a transmission going under the code "Fulcrum." Skywalker guessed it might be Saw Gerrera, which worried Kenobi about the current state of the
+Vel then gave permission to Cody to lead the 212th Attack Battalion in helping the 501st. Vel approached Orven complimenting him for his help, to which Orven thanked him for pretending to be defeated. Vel said he was always glad to help. Then, the two were contacted by Admiral Wullf Yularen who informed them of a transmission going under the code "Fulcrum." Orven guessed it might be Saw Gerrera, which worried Vel about the current state of the
 
 siege at Onderon
 
@@ -6252,11 +6252,11 @@ I killed Maul once. Best to capture him. He doesn't seem to stay dead.
 
 ―Taren Vel, to Sera Toval
 
-At Yularen's ship, Kenobi and Skywalker entered the room only to witness Sera Toval and Bo-Katan Kryze as the ones that had made the call. Kenobi asked Tano what was the information she had. Tano informed them that that Maul had been located on Ironhold and they had an opportunity to capture him.
+At Yularen's ship, Vel and Orven entered the room only to witness Sera Toval and Bo-Katan Kryze as the ones that had made the call. Vel asked Tano what was the information she had. Tano informed them that that Maul had been located on Ironhold and they had an opportunity to capture him.
 
-While going to greet Tano and her allies, Skywalker, who was still emotionally shocked to see his former apprentice again, claimed that it all made sense, in an attempt to understand Tano's decision to leave the Aurelian Circle. Skywalker told Kenobi that if Tano had not left the Order, then Maul would have never been located. As always, Kenobi was more reserved about the situation and decided to wait and see how the events were to develop, remaining cautiously optimistic.
+While going to greet Tano and her allies, Orven, who was still emotionally shocked to see his former apprentice again, claimed that it all made sense, in an attempt to understand Tano's decision to leave the Aurelian Circle. Orven told Vel that if Tano had not left the Order, then Maul would have never been located. As always, Vel was more reserved about the situation and decided to wait and see how the events were to develop, remaining cautiously optimistic.
 
-After a quick greeting, Tano, Kryze, and her Mandalorians were led by Kenobi to a private room to discuss Maul's whereabouts. However, Kenobi was not willing to help Tano and her allies unless the Aurelian Council gave their permission, saying the Concord could not get involved with Ironbound affairs. Kryze explained that there was not time to turn that into a bureaucratic decision, as Maul could escape before they made an offensive. Kryze reminded Kenobi that the former Noctari Lord killed Satine and confronted Kenobi about how could he not want to capture Maul as Satine was supposedly important to him. Kenobi reassured Bo-Katan that he still cared deeply about Satine, but he could not allow his feelings to cloud his judgment. Kenobi proceeded to consult the Aurelian Council.
+After a quick greeting, Tano, Kryze, and her Ironbound were led by Vel to a private room to discuss Maul's whereabouts. However, Vel was not willing to help Tano and her allies unless the Aurelian Council gave their permission, saying the Concord could not get involved with Ironbound affairs. Kryze explained that there was not time to turn that into a bureaucratic decision, as Maul could escape before they made an offensive. Kryze reminded Vel that the former Noctari Lord killed Satine and confronted Vel about how could he not want to capture Maul as Satine was supposedly important to him. Vel reassured Bo-Katan that he still cared deeply about Satine, but he could not allow his feelings to cloud his judgment. Vel proceeded to consult the Aurelian Council.
 
 Rescue of the Chancellor
 
@@ -6276,27 +6276,27 @@ I'm not trying to be.
 
 ―Taren Vel and Sera Toval's argument, prior to the Battle of Veyron Prime
 
-When Kenobi contacted the Council, he was informed that General Grievous had attacked the capital of the Concord, and that they lost contact with Shaak Ti, Chancellor Maltheon's assigned protector. He immediately informed Tano and Skywalker of this, at the same time ordering their fleet to travel to Veyron Prime, reassuring Anakin who asked after Maltheon, that they could reach the planet within the hour. This angered Tano, who accused her former masters of choosing to abandon Ironhold. Somewhat shocked by the accusation, Kenobi urged Tano to understand that they were entering a pivotal moment in the Mirror Wars, as the heart of the Concord was under attack. Tano countered that Kenobi was playing politics, stating that it was proof as to how the Aurelian Circle had lost their way by forgetting that their duty was to help people and not politicians.
+When Vel contacted the Council, he was informed that General Grievous had attacked the capital of the Concord, and that they lost contact with Shaak Ti, Chancellor Maltheon's assigned protector. He immediately informed Tano and Orven of this, at the same time ordering their fleet to travel to Veyron Prime, reassuring Anakin who asked after Maltheon, that they could reach the planet within the hour. This angered Tano, who accused her former masters of choosing to abandon Ironhold. Somewhat shocked by the accusation, Vel urged Tano to understand that they were entering a pivotal moment in the Mirror Wars, as the heart of the Concord was under attack. Tano countered that Vel was playing politics, stating that it was proof as to how the Aurelian Circle had lost their way by forgetting that their duty was to help people and not politicians.
 
-Upon hearing Tano explain why so many had lost faith in the Aurelian, Kenobi countered that the people of Veyron Prime needed them, but Tano believed that it was really about saving the Chancellor. Kenobi told Tano to be fair, but Tano retorted that she wasn't trying to play fair. Skywalker heard the argument and weighed in. So as to help Tano in the upcoming siege without compromising Ironhold's neutrality and the mission to rescue the Chancellor, Skywalker promoted Rex to Commander so he could lead the mission and had Tano assisting him as an advisor. When Kenobi agreed, Tano accepted the proposal. Instead of allowing his meeting with Tano to end on a sour note, Kenobi advised Tano to capture Maul, joking the former Noctari did not seem to stay dead, before leaving the room to prepare the troops, leaving Skywalker and Tano behind.
+Upon hearing Tano explain why so many had lost faith in the Aurelian, Vel countered that the people of Veyron Prime needed them, but Tano believed that it was really about saving the Chancellor. Vel told Tano to be fair, but Tano retorted that she wasn't trying to play fair. Orven heard the argument and weighed in. So as to help Tano in the upcoming siege without compromising Ironhold's neutrality and the mission to rescue the Chancellor, Orven promoted Rex to Commander so he could lead the mission and had Tano assisting him as an advisor. When Vel agreed, Tano accepted the proposal. Instead of allowing his meeting with Tano to end on a sour note, Vel advised Tano to capture Maul, joking the former Noctari did not seem to stay dead, before leaving the room to prepare the troops, leaving Orven and Tano behind.
 
-Kenobi and Skywalker inadvertently enter an elevator full of battle droids after boarding
+Vel and Orven inadvertently enter an elevator full of battle mechlings after boarding
 
 Invisible Hand
 
-After Skywalker and Tano wished each other good luck on their respective missions,
+After Orven and Tano wished each other good luck on their respective missions,
 
-Kenobi and Skywalker traveled to Veyron Prime to rescue the Chancellor. The two Aurelian fought their way through a Separatist blockade and managed to board the
+Vel and Orven traveled to Veyron Prime to rescue the Chancellor. The two Aurelian fought their way through a Separatist blockade and managed to board the
 
 Invisible Hand
 
 , only to find the Chancellor being held prisoner at the top of the ship's observation spire. Not long after they arrived to the room, Count Dooku appeared before them and the two Aurelian engaged him in a duel.
 
-Though Dooku managed to gain the upper hand and knocked Kenobi out cold, Skywalker was able to defeat the Noctari Lord, and subsequently executed him at Maltheon's urging. He then rescued Kenobi, carrying him until he woke up when they were hanging in an elevator. As they got out of there and ran through hallway 328, Grievous had them trapped in a ray shield and brought to the
+Though Dooku managed to gain the upper hand and knocked Vel out cold, Orven was able to defeat the Noctari Lord, and subsequently executed him at Maltheon's urging. He then rescued Vel, carrying him until he woke up when they were hanging in an elevator. As they got out of there and ran through hallway 328, Grievous had them trapped in a ray shield and brought to the
 
 Invisible Hand
 
-s control room. The cyborg General personally taunted them, giving AR-27 enough time to free them and for Kenobi and Skywalker to confront Grievous. The General, however, escaped in an escape pod and forced the two Aurelian to pilot the ship and land on Veyron Prime as safely as they could. Following the ordeal, they escorted the Chancellor to the High Assembly building, where they separated, with Kenobi going back to Aurelian Temple to report to the Council of Dooku's demise and what it meant to the Mirror Wars.
+s control room. The cyborg General personally taunted them, giving AR-27 enough time to free them and for Vel and Orven to confront Grievous. The General, however, escaped in an escape pod and forced the two Aurelian to pilot the ship and land on Veyron Prime as safely as they could. Following the ordeal, they escorted the Chancellor to the High Assembly building, where they separated, with Vel going back to Aurelian Temple to report to the Council of Dooku's demise and what it meant to the Mirror Wars.
 
 Dividing friendship
 
@@ -6304,29 +6304,29 @@ All of this is unusual, and it's making me feel uneasy.
 
 ―Taren Vel, on Anakin's appointment with Maltheon
 
-Later, Kenobi attended another meeting, concerning the reports on the Outer Rim Sieges, including Saleucami's fall and the move of Quinlan Vos' troops to
+Later, Vel attended another meeting, concerning the reports on the Outer Rim Sieges, including Saleucami's fall and the move of Quinlan Vos' troops to
 
 Boz Pity
 
-. At the end of the session, he met with Skywalker and told him to be careful with Maltheon, and that Maltheon had requested his presence for unknown reasons. Soon enough, Kenobi and the Council were made aware that the Chancellor had Skywalker appointed as his Personal Representative on the Aurelian Council; though the Council approved of the appointment, they denied Skywalker the rank of Aurelian Master, a decision which greatly angered Skywalker, prompting him to question the Council's decision-making. Kenobi remained silent. After being admonished by Windu, Skywalker reluctantly accepted his position and took his seat on the Council. During the same meeting, Kenobi and Master Mundi discussed the importance of Kashyyyk, prompting Master Eld Miro to assist the
+. At the end of the session, he met with Orven and told him to be careful with Maltheon, and that Maltheon had requested his presence for unknown reasons. Soon enough, Vel and the Council were made aware that the Chancellor had Orven appointed as his Personal Representative on the Aurelian Council; though the Council approved of the appointment, they denied Orven the rank of Aurelian Master, a decision which greatly angered Orven, prompting him to question the Council's decision-making. Vel remained silent. After being admonished by Windu, Orven reluctantly accepted his position and took his seat on the Council. During the same meeting, Vel and Master Mundi discussed the importance of Kashyyyk, prompting Master Eld Miro to assist the
 
-Wookiees
+Brakkari
 
 himself.
 
-Kenobi deliberating with the Council
+Vel deliberating with the Council
 
-At the end of the meeting, Kenobi acknowledged to Skywalker that his appointment had been accepted so that, on behalf of the Council, Skywalker could spy on the Chancellor, an assignment that Anakin refused to partake in because he believed it to be an act of treason. He tried to convince Anakin that something out of place had to be happening for Maltheon to remain in office long after his two legitimate terms had expired and to have accumulated an unnatural amount of executive powers, but still, Anakin would have none of it. Later, before Eld Miro's departure to Kashyyyk, Kenobi conferred with Windu and Eld Miro of Skywalker's reluctant compliance on his task, when he heard of Windu's distrust of the Aurelian Knight and Eld Miro's doubts about the prophecy of the "Chosen One."
+At the end of the meeting, Vel acknowledged to Orven that his appointment had been accepted so that, on behalf of the Council, Orven could spy on the Chancellor, an assignment that Anakin refused to partake in because he believed it to be an act of treason. He tried to convince Anakin that something out of place had to be happening for Maltheon to remain in office long after his two legitimate terms had expired and to have accumulated an unnatural amount of executive powers, but still, Anakin would have none of it. Later, before Eld Miro's departure to Kashyyyk, Vel conferred with Windu and Eld Miro of Orven's reluctant compliance on his task, when he heard of Windu's distrust of the Aurelian Knight and Eld Miro's doubts about the prophecy of the "Chosen One."
 
-Following the Chancellor's disclosure of General Grievous' location on Utapau to Skywalker, who then passed it onto the Council, Kenobi was sent to capture the fugitive General.
+Following the Chancellor's disclosure of General Grievous' location on Utapau to Orven, who then passed it onto the Council, Vel was sent to capture the fugitive General.
 
-Immediately prior to his voyage to Utapau, Kenobi contacted Tano and the Mandalorians on Ironhold via hologram. Kryze told him that the clones had been extremely effective against Maul's forces. While communing, Tano mentioned that Maul had said the name Darth Sidious while they confronted one another and Kryze asked who he was. Kenobi admitted that the Aurelian did not know much about him, but told them that he orchestrated the Mirror Wars and manipulated both sides of the conflict. He soon informed them about the death of Count Dooku during the Battle of Veyron Prime after Tano asked why they would no longer be able to get anymore information from him about Sidious. With this, he asked them once again to capture Maul so that they may finally be able to put an end to the mystery of Sidious. Tano asked for reinforcements, but Kenobi was forced to tell them that he was being sent to capture Grievous on Utapau and that he was unable to send support. Tano then asked if Skywalker could provide support to which Kenobi asked to speak to Tano in private.
+Immediately prior to his voyage to Utapau, Vel contacted Tano and the Ironbound on Ironhold via hologram. Kryze told him that the clones had been extremely effective against Maul's forces. While communing, Tano mentioned that Maul had said the name Darth Sidious while they confronted one another and Kryze asked who he was. Vel admitted that the Aurelian did not know much about him, but told them that he orchestrated the Mirror Wars and manipulated both sides of the conflict. He soon informed them about the death of Count Dooku during the Battle of Veyron Prime after Tano asked why they would no longer be able to get anymore information from him about Sidious. With this, he asked them once again to capture Maul so that they may finally be able to put an end to the mystery of Sidious. Tano asked for reinforcements, but Vel was forced to tell them that he was being sent to capture Grievous on Utapau and that he was unable to send support. Tano then asked if Orven could provide support to which Vel asked to speak to Tano in private.
 
-Obi-Wan shares his knowledge of Sidious with Ahsoka, Bo-Katan, and Rex.
+Taren shares his knowledge of Sidious with Ahsoka, Bo-Katan, and Rex.
 
-After Rex and Kryze left, he informed Tano of Skywalker's mission to spy on Supreme Chancellor Maltheon by the Aurelian High Council. After Tano began to ask why they would give him such an assignment, Kenobi informed her that the Council wished to learn what Maltheon was truly plotting after remaining in the office of Supreme Chancellor long after his term's conclusion. Tano began to argue with Kenobi and said that she couldn't imagine Skywalker could be happy with the burden the Council had placed upon him. Kenobi knew this and informed Tano as much, asking her to speak with him after their meeting ended to help him with his burden. Tano began to grow increasingly agitated with the Council after Kenobi asked this, but Kenobi revealed that he knew the Council wasn't correct in every one of their decisions and that if Tano communicated with Skywalker, it could help them. Before Tano could respond, Rex rushed in and informed the two that there had been an attack and with that, Kenobi allowed her to leave. Before Tano left, she asked him to tell Skywalker something that she left unspoken. Kenobi assured her that he would and, with this, ended the transmission.
+After Rex and Kryze left, he informed Tano of Orven's mission to spy on Supreme Chancellor Maltheon by the Aurelian High Council. After Tano began to ask why they would give him such an assignment, Vel informed her that the Council wished to learn what Maltheon was truly plotting after remaining in the office of Supreme Chancellor long after his term's conclusion. Tano began to argue with Vel and said that she couldn't imagine Orven could be happy with the burden the Council had placed upon him. Vel knew this and informed Tano as much, asking her to speak with him after their meeting ended to help him with his burden. Tano began to grow increasingly agitated with the Council after Vel asked this, but Vel revealed that he knew the Council wasn't correct in every one of their decisions and that if Tano communicated with Orven, it could help them. Before Tano could respond, Rex rushed in and informed the two that there had been an attack and with that, Vel allowed her to leave. Before Tano left, she asked him to tell Orven something that she left unspoken. Vel assured her that he would and, with this, ended the transmission.
 
-With the destruction of R4-P17 and his Aurelian interceptor during the Battle of Veyron Prime, Kenobi was assigned astromech mechling
+With the destruction of R4-P17 and his Aurelian interceptor during the Battle of Veyron Prime, Vel was assigned astromech mechling
 
 R4-G9
 
@@ -6342,41 +6342,41 @@ Actis
 
 -class light interceptor
 
-before his search for Grievous. Before Kenobi's departure to engage Grievous, Skywalker apologized to Kenobi, who told him that he needed patience and that he would soon become a master. The two exchanged goodbyes in what would be their last meeting as friends and allies, a fact neither was aware of, before Kenobi departed for Utapau.
+before his search for Grievous. Before Vel's departure to engage Grievous, Orven apologized to Vel, who told him that he needed patience and that he would soon become a master. The two exchanged goodbyes in what would be their last meeting as friends and allies, a fact neither was aware of, before Vel departed for Utapau.
 
 Final clash with Grievous
 
 Hello there!
 
-General Kenobi! You are a bold one.
+General Vel! You are a bold one.
 
 ―Taren Vel and General Grievous
 
-Kenobi once again faces his longtime rival General Grievous on Utapau.
+Vel once again faces his longtime rival General Grievous on Utapau.
 
-Kenobi was accompanied to the planet by a fleet of Star Destroyers and battalions of clone troopers that were three times the size of what was normally required to take one minor star system.
+Vel was accompanied to the planet by a fleet of Abyss Cruisers and battalions of clone troopers that were three times the size of what was normally required to take one minor star system.
 
-Obi-Wan pushed the thoughts of his previous voyage aside as he traveled to the capital of Utapau, Pau City. On final approach, he noticed a significant difference: a Separatist core ship sphere that appeared to have blended with the sink hole's rock face.
+Taren pushed the thoughts of his previous voyage aside as he traveled to the capital of Utapau, Pau City. On final approach, he noticed a significant difference: a Separatist core ship sphere that appeared to have blended with the sink hole's rock face.
 
-Having arrived on Utapau, Kenobi discovered from Pau City
+Having arrived on Utapau, Vel discovered from Pau City
 
 Port Administrator
 
 Tion Medon
 
-that the inhabitants were secretly being held hostage by thousands of battle droids occupying the city's
+that the inhabitants were secretly being held hostage by thousands of battle mechlings occupying the city's
 
 tenth level
 
-. Kenobi took this under advisement and hid out of sight after instructing R4-G9 to leave the
+. Vel took this under advisement and hid out of sight after instructing R4-G9 to leave the
 
 spaceport
 
-in his Aurelian interceptor, tricking the spying droids into thinking that he had left.
+in his Aurelian interceptor, tricking the spying mechlings into thinking that he had left.
 
 Allowing himself to be guided by the living Lumen Field,
 
-Obi-Wan visits the holding areas where Utapaun wranglers captured native winged and wingless lizards for transportation.
+Taren visits the holding areas where Utapaun wranglers captured native winged and wingless lizards for transportation.
 
 He then addressed the Utai
 
@@ -6388,19 +6388,19 @@ Mounted on the varactyl
 
 Boga
 
-, Kenobi made his way to the Separatist holdout and waited for the Separatist Council to depart. He then leaped down from the scaffolding where he had been hidden,
+, Vel made his way to the Separatist holdout and waited for the Separatist Council to depart. He then leaped down from the scaffolding where he had been hidden,
 
 just as he had done years before on Geonosis
 
-and greeted General Grievous before being surrounded by various types of battle droids. Grievous ordered his MagnaGuards to dispatch Kenobi, who managed to crush them under a piece of the ceiling without engaging in combat.
+and greeted General Grievous before being surrounded by various types of battle mechlings. Grievous ordered his MagnaGuards to dispatch Vel, who managed to crush them under a piece of the ceiling without engaging in combat.
 
-However, Grievous ordered them to back away as he decided to engaged Kenobi himself,
+However, Grievous ordered them to back away as he decided to engaged Vel himself,
 
-exactly as Obi-Wan predicted.
+exactly as Taren predicted.
 
-The cyborg was eager to be the one to directly kill Kenobi directly in retaliation for defeating him previously on Utapau, as well as vowed to prove Sidious' worth.
+The cyborg was eager to be the one to directly kill Vel directly in retaliation for defeating him previously on Utapau, as well as vowed to prove Sidious' worth.
 
-Kenobi had fought Grievous many times before and was well prepared,
+Vel had fought Grievous many times before and was well prepared,
 
 and both were aware of the other's skill.
 
@@ -6410,31 +6410,31 @@ it would not be an easy fight,
 
 but the Aurelian was not willing to allow him to escape this time.
 
-Obi-Wan stood there watching Grievous shrug off his cloak, being told that he had been trained in the Aurelian arts by Count Dooku himself. He extends his four menacing arms, ignites a lumen blade in each mechanical hand, laughs, and then the two engage in one final duel. Grievous has taken the lightsabers from his exploits against the Aurelian,
+Taren stood there watching Grievous shrug off his cloak, being told that he had been trained in the Aurelian arts by Count Dooku himself. He extends his four menacing arms, ignites a lumen blade in each mechanical hand, laughs, and then the two engage in one final duel. Grievous has taken the lumen blades from his exploits against the Aurelian,
 
 Shaak Ti's lumen blade
 
 being one of his four primary weapons.
 
-Kenobi would not allow him to do the same with his lumen blade; he learned patience, confidence in The Lumen Field, and lumen blade training from Grand Master Eld Miro and his late Master, Qui-Gon Jinn.
+Vel would not allow him to do the same with his lumen blade; he learned patience, confidence in the Lumen Field, and lumen blade training from Grand Master Eld Miro and his late Master, Qui-Gon Jinn.
 
-The two engaged on a walkway suspended above the hanger's lower levels. Grievous moved closer and closer, whirling two of his lightsabers above his head and the other two dragging along, burning the floor behind him, surprising Kenobi with his maneuver. Initially, Obi-Wan slowly retreated
+The two engaged on a walkway suspended above the hanger's lower levels. Grievous moved closer and closer, whirling two of his lumen blades above his head and the other two dragging along, burning the floor behind him, surprising Vel with his maneuver. Initially, Taren slowly retreated
 
 and let go of his fear.
 
 Waiting for the right moment,
 
-he stab his lumen blade between Grievous' flashing blades. Grievous then straightened up and struck Obi-Wan with both lightsabers, but the Aurelian parried. With the other two stabs narrowly missing Kenobi, he leapt over him and attacked him from the side.
+he stab his lumen blade between Grievous' flashing blades. Grievous then straightened up and struck Taren with both lumen blades, but the Aurelian parried. With the other two stabs narrowly missing Vel, he leapt over him and attacked him from the side.
 
 The Aurelian take advantage of Grievous's surprise to slip through his defense,
 
 leaving him striking where he once stood.
 
-The cyborg continued to fight back, but Obi-Wan's lumen blade remained.
+The cyborg continued to fight back, but Taren's lumen blade remained.
 
-During their duel, Kenobi gained the upper hand and quickly severed Grievous' two hands.
+During their duel, Vel gained the upper hand and quickly severed Grievous' two hands.
 
-Obi-Wan was able to neutralize Grievous' customary more wide-ranging fighting technique by limiting his movement to the catwalk. Kenobi maintained the fight close to the cyborg, having grown accustomed to his maneuvers after so many encounters.
+Taren was able to neutralize Grievous' customary more wide-ranging fighting technique by limiting his movement to the catwalk. Vel maintained the fight close to the cyborg, having grown accustomed to his maneuvers after so many encounters.
 
 He kept his cool and aimed wisely for Grievous' vulnerable wrist
 
@@ -6442,19 +6442,19 @@ instead intercepting his blade, severing his hand. It didn't take long for a cla
 
 Grievous, furious, launched a wild attack, but he had lost focus.
 
-A few seconds later, Kenobi took another hand and weapon away from him and hands and keep up a solid defense against his unrelenting attacks.
+A few seconds later, Vel took another hand and weapon away from him and hands and keep up a solid defense against his unrelenting attacks.
 
-The droids watched as their leader continued to lose ground, but before they could help Grievous fight back,
+The mechlings watched as their leader continued to lose ground, but before they could help Grievous fight back,
 
 a pause occurred. Not long into the duel, the 212th Attack Battalion arrived and
 
 engaged
 
-Grievous's forces. As the battle intensified, Kenobi threw Grievous against a wall, knocking his remaining sabers out of his hands and forcing him to escape in his
+Grievous's forces. As the battle intensified, Vel threw Grievous against a wall, knocking his remaining blades out of his hands and forcing him to escape in his
 
 wheelbike
 
-. Obi-Wan had just made the jump to the lower level when Grievous fired it up and tore back into the hanger in an attempt to crush him.
+. Taren had just made the jump to the lower level when Grievous fired it up and tore back into the hanger in an attempt to crush him.
 
 All around them, laser blasts and explosions ring out, but Grievous rushes as if the road were clear, dodging collision after collision
 
@@ -6462,7 +6462,7 @@ or unleashing devastation on any clone soldiers in his path
 
 or crushing those unlucky enough to stand in his way.
 
-Kenobi chased after the fleeing
+Vel chased after the fleeing
 
 cyborg
 
@@ -6472,9 +6472,9 @@ meters
 
 below.
 
-Obi-Wan would lose his chance to capture Grievous if he stopped to retrieve it, but the thought of going up against the cyborg without his lumen blade was frightening. Knowing he could trust The Lumen Field, the Aurelian raced after him, leaving his lumen blade behind.
+Taren would lose his chance to capture Grievous if he stopped to retrieve it, but the thought of going up against the cyborg without his lumen blade was frightening. Knowing he could trust the Lumen Field, the Aurelian raced after him, leaving his lumen blade behind.
 
-Obi-Wan and Boga finally caught up with Grievous, he intended to reach his personal starfighter, the
+Taren and Boga finally caught up with Grievous, he intended to reach his personal starfighter, the
 
 Soulless One
 
@@ -6482,13 +6482,13 @@ Soulless One
 
 as a backup plan.
 
-The tunnels become increasingly packed as they travel deeper into the city. Obi-Wan smiles as the General was forced to slow down to avoid a swarm of droids, his mount capable of achieving things that the General's speeder-wheel cannot. He directs it to the tunnel's ceiling, where he will no longer be disturbed by traffic congestion. The Aurelian quickly gains ground on Grievous, while the tunnel in front of him leads to a small landing perform. He accelerates once more, catching up to the general.
+The tunnels become increasingly packed as they travel deeper into the city. Taren smiles as the General was forced to slow down to avoid a swarm of mechlings, his mount capable of achieving things that the General's speeder-wheel cannot. He directs it to the tunnel's ceiling, where he will no longer be disturbed by traffic congestion. The Aurelian quickly gains ground on Grievous, while the tunnel in front of him leads to a small landing perform. He accelerates once more, catching up to the general.
 
-Obi-Wan had just pressed the general when the Separatist leader, able to control his bike and battle, used the
+Taren had just pressed the general when the Separatist leader, able to control his bike and battle, used the
 
 electrostaff
 
-that he stored on the wheelbike and began attacking him, eventually being pulled onto the vehicle itself along with him. They eventually arrived at a landing platform, Obi-Wan snatched the electrostaff and was clutching it as Grievous raised the
+that he stored on the wheelbike and began attacking him, eventually being pulled onto the vehicle itself along with him. They eventually arrived at a landing platform, Taren snatched the electrostaff and was clutching it as Grievous raised the
 
 blaster
 
@@ -6500,17 +6500,17 @@ He knocks the weapon out of Grievous's hand and lands a few solid blows on the G
 
 the metal bends, but does not break.
 
-Obi-Wan knocked Grievous to the ground and plunged the shaft into his abdomen, but the cyborg kicked him away
+Taren knocked Grievous to the ground and plunged the shaft into his abdomen, but the cyborg kicked him away
 
 with such speed that the Aurelian cannot.
 
-Obi-Wan ends Grievous with his own blaster.
+Taren ends Grievous with his own blaster.
 
 With no weapons, they engaged in a swift fight using hand-to-hand combat
 
 that Grievous was coldly confident of winning.
 
-Grievous closed in on Kenobi, engaging him in a brawl, swinging his arm against him. Kenobi avoided his first swing but missed the second, backhanded across the platform, and bounce off the parked fighter,
+Grievous closed in on Vel, engaging him in a brawl, swinging his arm against him. Vel avoided his first swing but missed the second, backhanded across the platform, and bounce off the parked fighter,
 
 putting him at a disadvantage.
 
@@ -6518,21 +6518,21 @@ The cyborg general's physical strength appeared to give him the advantage.
 
 Continuing his assault,
 
-Grievous lifted him and nearly punched his head out. Instead, he punched his own starfighter, leaving a huge dent in it. However, noticing that one of Grievous's plates was loose, Kenobi took advantage of his new action, grabbing the metal plates and pulling with all his might,
+Grievous lifted him and nearly punched his head out. Instead, he punched his own starfighter, leaving a huge dent in it. However, noticing that one of Grievous's plates was loose, Vel took advantage of his new action, grabbing the metal plates and pulling with all his might,
 
-managing to partially tear open Grievous's chest armor, exposing his gutsack. Alarmed, Grievous tossed Kenobi aside.
+managing to partially tear open Grievous's chest armor, exposing his gutsack. Alarmed, Grievous tossed Vel aside.
 
-Grievous laughed, he advanced on Obi-Wan, wounded but far from defeated.
+Grievous laughed, he advanced on Taren, wounded but far from defeated.
 
-Grievous attempted to crush Kenobi with his mechanical feet, but he avoided.
+Grievous attempted to crush Vel with his mechanical feet, but he avoided.
 
-With The Lumen Field,
+With the Lumen Field,
 
 the Aurelian attempted to knock down Grievous with a sweeping kick to the leg,
 
 but Grievous, whose metal body was stronger than any mechling's shell, hardly felt it
 
-and only feeling great pain in his own shin. Kenobi was eventually thrown to the edge of the platform, but was able to summon Grievous' blaster,
+and only feeling great pain in his own shin. Vel was eventually thrown to the edge of the platform, but was able to summon Grievous' blaster,
 
 abandoned a few meters from him,
 
@@ -6560,9 +6560,9 @@ and hit the ground over the hangar
 
 with a clang.
 
-With his long-time rival and the Supreme Commander of the mechling Army slain, Kenobi headed off to rejoin his troops.
+With his long-time rival and the Supreme Commander of the Mechling Army slain, Vel headed off to rejoin his troops.
 
-Kenobi informed the clones that the general was dead but didn't have time to elaborate;
+Vel informed the clones that the general was dead but didn't have time to elaborate;
 
 victory looked inevitable.
 
@@ -6580,9 +6580,9 @@ Following Windu's and other Council member's
 
 duel
 
-against Chancellor Maltheon, revealed to be Darth Sidious, and the issue of Directive 71, Kenobi met up with Commander Cody and ordered him to contact the troops to move to the higher levels of the city. The clone then returned him his lumen blade, and Kenobi proceeded to climb with Boga, just as Cody received a direct message from Sidious, ordering him to execute the order. Before Kenobi went too far, Cody ordered his men to shoot at the Aurelian Master, bringing his fall to the water below.
+against Chancellor Maltheon, revealed to be Darth Sidious, and the issue of Directive 71, Vel met up with Commander Cody and ordered him to contact the troops to move to the higher levels of the city. The clone then returned him his lumen blade, and Vel proceeded to climb with Boga, just as Cody received a direct message from Sidious, ordering him to execute the order. Before Vel went too far, Cody ordered his men to shoot at the Aurelian Master, bringing his fall to the water below.
 
-Obi-Wan had no time or inclination to comprehend why his own men had turned against him. Hearing Boga's heartfelt tears, he felt a moment of sadness that he couldn't help her. Commander Cody, who was torn, saw Taren Vel as a threat to his operation. He knew from previous experience not to presume a Aurelian was dead until he saw the body. Time and again, Obi-Wan, Anakin, and Ahsoka, not to mention the other Aurelian he'd seen in action, had beaten seemingly impossible odds to come through.
+Taren had no time or inclination to comprehend why his own men had turned against him. Hearing Boga's heartfelt tears, he felt a moment of sadness that he couldn't help her. Commander Cody, who was torn, saw Taren Vel as a threat to his operation. He knew from previous experience not to presume a Aurelian was dead until he saw the body. Time and again, Taren, Anakin, and Ahsoka, not to mention the other Aurelian he'd seen in action, had beaten seemingly impossible odds to come through.
 
 However, unlike many others, he survived and swam towards a cave, fumbling his breather into place, then surfacing, stowing the breather, and managing to climb on his own while evading troops, only to discover the attack had been intentional.
 
@@ -6590,13 +6590,13 @@ He knew his best hope of escape lay, iconically, with the ship Grievous had repe
 
 Fortunately, the clones weren't aware of its existence. Even if the Trade Federation cruisers orbiting the planet saw him, they would think he's a Separatist escaping the battle. Of course, he still has to make his way past tens of thousands of clones to reach the ship's platform, but at least his enemies won't be waiting for him there.
 
-Kenobi took to the darkness of the caves, using his lumen blade as a torch, knowing he was still being pursued. At one point, he noticed approaching searchlights, and before the Prowlers discovered him, they had woken a nos monster, a gigantic predatory reptile that was protecting its nest. As the creature dealt with the droids, Obi-Wan slipped through.
+Vel took to the darkness of the caves, using his lumen blade as a torch, knowing he was still being pursued. At one point, he noticed approaching searchlights, and before the Prowlers discovered him, they had woken a nos monster, a gigantic predatory reptile that was protecting its nest. As the creature dealt with the mechlings, Taren slipped through.
 
 Sneaking through Utapau's tunnels was difficult; not only did he have to avoid being discovered by the clones, but he also had to avoid the wild monsters that swarmed there.
 
-Kenobi avoided the clone troopers, battle droids, and even the Utapau locals by using all of his abilities.
+Vel avoided the clone troopers, battle mechlings, and even the Utapau locals by using all of his abilities.
 
-Arriving at the main staging area, he witnessed with horror his former troops rounding up Pau'ans and Utai and overheard Cody asking if his search teams had discovered the fleeing Aurelian. His worst fears confirmed, Obi-Wan headed for his escape route
+Arriving at the main staging area, he witnessed with horror his former troops rounding up Pau'ans and Utai and overheard Cody asking if his search teams had discovered the fleeing Aurelian. His worst fears confirmed, Taren headed for his escape route
 
 and cautiously
 
@@ -6620,9 +6620,9 @@ cyborg rival one final time
 
 without even sparing Grievous a fleeting glance.
 
-Obi-Wan as quickly as he could into space, trusting in the element of surprise to whip past his old flagship and away.
+Taren as quickly as he could into space, trusting in the element of surprise to whip past his old flagship and away.
 
-Kenobi and Bail Organa discussing with Eld Miro.
+Vel and Bail Organa discussing with Eld Miro.
 
 Taking Grievous' starfighter, he left Utapau and made contact with Assembly Delegate Bail Organa, who had seen the
 
@@ -6632,9 +6632,9 @@ firsthand and was trying to locate other surviving Aurelian. Reuniting on the
 
 Tantive III
 
-, Kenobi met with the Assembly Delegate and Master Eld Miro, who told him of the retreat message telling all Aurelian to return to the Temple, saying that the war was over. Kenobi then suggested to dismantle the signal, so that others wouldn't fall into the trap, and Eld Miro agreed.
+, Vel met with the Assembly Delegate and Master Eld Miro, who told him of the retreat message telling all Aurelian to return to the Temple, saying that the war was over. Vel then suggested to dismantle the signal, so that others wouldn't fall into the trap, and Eld Miro agreed.
 
-On their way to Veyron Prime, Organa was contacted by Vice Chancellor Amedda, who told him of an emergency session to be held by the High Assembly. Kenobi and Eld Miro entered the Aurelian Temple and witnessed with their own eyes the massacre that just taken place. During that, Chancellor Maltheon told the High Assembly of the Aurelian's "sedition" against the Concord and
+On their way to Veyron Prime, Organa was contacted by Vice Chancellor Amedda, who told him of an emergency session to be held by the High Assembly. Vel and Eld Miro entered the Aurelian Temple and witnessed with their own eyes the massacre that just taken place. During that, Chancellor Maltheon told the High Assembly of the Aurelian's "sedition" against the Concord and
 
 declared
 
@@ -6642,11 +6642,11 @@ the birth of the
 
 Aurelian Dominion
 
-Amidala's former handmaiden Sabé believed Kenobi died with the rest of the Aurelian during the rise of the Dominion.
+Amidala's former handmaiden Sabé believed Vel died with the rest of the Aurelian during the rise of the Dominion.
 
 Age of the Dominion
 
-This is Master Taren Vel. I regret to report that both our Aurelian Circle and the Concord have fallen, with the dark shadow of the Dominion rising to take their place. This message is a warning and a reminder for any surviving Aurelian: trust in The Lumen Field. Do
+This is Master Taren Vel. I regret to report that both our Aurelian Circle and the Concord have fallen, with the dark shadow of the Dominion rising to take their place. This message is a warning and a reminder for any surviving Aurelian: trust in the Lumen Field. Do
 
 not
 
@@ -6666,7 +6666,7 @@ strong
 
 a new hope
 
-will emerge. May The Lumen Field be with you always.
+will emerge. May the Lumen Field be with you always.
 
 ―Taren Vel's warning in the recall signal
 
@@ -6680,27 +6680,27 @@ Intending to
 
 infiltrate
 
-the building to shut off the Aurelian recall beacon, Kenobi and Eld Miro made their way to the still-smoking Aurelian Temple,
+the building to shut off the Aurelian recall beacon, Vel and Eld Miro made their way to the still-smoking Aurelian Temple,
 
 where they found clones were wearing Aurelian robes in an attempt to trick Aurelian survivors into a false sense of secruity.
 
 Both Aurelian fought the 501st patrols outside and entered, finding the aftermath of a slaughter
 
-that distressed Kenobi even more than the smoke and robe-wearing clones.
+that distressed Vel even more than the smoke and robe-wearing clones.
 
 When he made it to the central security station of the Aurelian Temple,
 
-Kenobi remembered Caleb Dume's suggestion that the signal could warn Aurelian away;
+Vel remembered Caleb Dume's suggestion that the signal could warn Aurelian away;
 
 instead of disabling the Aurelian recall signal,
 
-he changed it into a heartfelt holographic message of himself, warning any of the surviving Aurelian to stay away from the Temple and the planet, to persevere for the future, and to trust in The Lumen Field.
+he changed it into a heartfelt holographic message of himself, warning any of the surviving Aurelian to stay away from the Temple and the planet, to persevere for the future, and to trust in the Lumen Field.
 
 Copies of the message would persist and be seen by Aurelian in hiding in the following years.
 
-Kenobi watches a hologram of his one-time apprentice with Darth Sidious
+Vel watches a hologram of his one-time apprentice with Darth Sidious
 
-Desperate for answers and despite Eld Miro's warning that he would only find pain, Kenobi checked the security recordings to find that Skywalker had led his battalion of clones to attack the Temple, where he fought the Aurelian & their Younglings and knelt to the newly-proclaimed
+Desperate for answers and despite Eld Miro's warning that he would only find pain, Vel checked the security recordings to find that Orven had led his battalion of clones to attack the Temple, where he fought the Aurelian & their Younglings and knelt to the newly-proclaimed
 
 Emperor
 
@@ -6708,9 +6708,9 @@ Emperor
 
 apprentice
 
-, now going by a new name—"Vader." Though Kenobi was horrified, Eld Miro determined that they had to destroy the Noctari; Kenobi, however, refused to fight Vader and requested that he be sent to kill the Emperor instead, but Eld Miro vetoed the idea, claiming that Kenobi wasn't strong enough to go head-to-head with Sidious on his own. Kenobi expressed that Skywalker was like a brother to him and that he did not have the heart to kill him, but Eld Miro explained that the boy he had trained no longer existed and that he needed to be put out of his misery, and told Kenobi to use his instincts to find Vader.
+, now going by a new name—"Kaldor." Though Vel was horrified, Eld Miro determined that they had to destroy the Noctari; Vel, however, refused to fight Kaldor and requested that he be sent to kill the Emperor instead, but Eld Miro vetoed the idea, claiming that Vel wasn't strong enough to go head-to-head with Sidious on his own. Vel expressed that Orven was like a brother to him and that he did not have the heart to kill him, but Eld Miro explained that the boy he had trained no longer existed and that he needed to be put out of his misery, and told Vel to use his instincts to find Kaldor.
 
-After that, he visited Assembly Delegate Amidala, thinking she might know of Vader's location. He revealed what he'd discovered about Skywalker's betrayal of the Aurelian and how the Mirror Wars had been a lie orchestrated by Maltheon. Amidala harshly denounced Kenobi's accusations, believing that Obi-Wan intended to kill Anakin if she revealed where he'd gone. Correctly deducing that Anakin was the father of Amidala's child, knowing that the two had been together all that time, he apologized for everything wish he'd been supportive to them both and what he has no choice what he must do, as he left her apartment.
+After that, he visited Assembly Delegate Amidala, thinking she might know of Kaldor's location. He revealed what he'd discovered about Orven's betrayal of the Aurelian and how the Mirror Wars had been a lie orchestrated by Maltheon. Amidala harshly denounced Vel's accusations, believing that Taren intended to kill Anakin if she revealed where he'd gone. Correctly deducing that Anakin was the father of Amidala's child, knowing that the two had been together all that time, he apologized for everything wish he'd been supportive to them both and what he has no choice what he must do, as he left her apartment.
 
 Duel on Mustafar
 
@@ -6722,7 +6722,7 @@ the Noctari, not
 
 join
 
-them! Bring balance to The Lumen Field, not leave it in darkness!
+them! Bring balance to the Lumen Field, not leave it in darkness!
 
 I HATE YOU!
 
@@ -6734,23 +6734,23 @@ you.
 
 ―Taren Vel, to the fallen Kael Orven following their duel
 
-Unbeknownst to Amidala, Kenobi stowed away in her star skiff, just as she and CY-30 departed for the
+Unbeknownst to Amidala, Vel stowed away in her star skiff, just as she and CY-30 departed for the
 
 Mustafar system
 
-to meet with Vader, who had already
+to meet with Kaldor, who had already
 
 killed
 
-the Separatist leaders taking refuge there. Hiding in one of the compartments, Kenobi emerged from the ship, only for Vader to think she had betrayed him and brought Kenobi to kill him,
+the Separatist leaders taking refuge there. Hiding in one of the compartments, Vel emerged from the ship, only for Kaldor to think she had betrayed him and brought Vel to kill him,
 
 choking
 
-her in a paranoid rage. As Kenobi checked her vital signs, Vader accused him of turning her against him, but the Aurelian Master stated Anakin betrayed her for himself and that his anger & lust for power had already done that, and that he had allowed Sidious to twist his mind becoming a Noctari.
+her in a paranoid rage. As Vel checked her vital signs, Kaldor accused him of turning her against him, but the Aurelian Master stated Anakin betrayed her for himself and that his anger & lust for power had already done that, and that he had allowed Sidious to twist his mind becoming a Noctari.
 
-Kenobi battled his former apprentice in an intense and emotional duel
+Vel battled his former apprentice in an intense and emotional duel
 
-Unaffected by the Aurelian's "lies" and unafraid of the dark side, Vader claimed that he'd brought peace, freedom, justice, and security to "[his] new Dominion," and told Kenobi, who declared his allegiance was to the Concord and the democracy it represented, that if he was not on his side, then, he was his enemy. Realizing that his former apprentice was already too far gone to be reasoned with, Kenobi vowed to stop him at all costs, prompting the two to engage in a ferocious
+Unaffected by the Aurelian's "lies" and unafraid of the umbral current, Kaldor claimed that he'd brought peace, freedom, justice, and security to "[his] new Dominion," and told Vel, who declared his allegiance was to the Concord and the democracy it represented, that if he was not on his side, then, he was his enemy. Realizing that his former apprentice was already too far gone to be reasoned with, Vel vowed to stop him at all costs, prompting the two to engage in a ferocious
 
 duel
 
@@ -6758,21 +6758,21 @@ that caused substantial damage to the facility, just as Eld Miro and Sidious
 
 dueled
 
-in the High Assembly. Ultimately, Kenobi and Vader were hovering over the lava sea, when the Aurelian Master reflected on his failure while Vader stated that he should have known about the Aurelian's lust for power and domination. Kenobi tried again in vain to convince Vader to return to the light again and that Sidious was, in fact, an evil mastermind, but Vader continued to denounced the Aurelian as the true evil.
+in the High Assembly. Ultimately, Vel and Kaldor were hovering over the lava sea, when the Aurelian Master reflected on his failure while Kaldor stated that he should have known about the Aurelian's lust for power and domination. Vel tried again in vain to convince Kaldor to return to the light again and that Sidious was, in fact, an evil mastermind, but Kaldor continued to denounced the Aurelian as the true evil.
 
-Obi-Wan claimed the high ground in a pivotal move in his duel against Vader
+Taren claimed the high ground in a pivotal move in his duel against Kaldor
 
-Eventually, Kenobi jumped to high ground on the embankment of the lava river, gaining advantage over Vader. Despite Kenobi's warning not to try the jump, the Noctari apprentice ignored him and did so anyway, allowing Kenobi to sever his remaining natural arm and both legs in one strike. Heartbroken over his former pupil's fall to the dark side, Kenobi retrieved Vader's lumen blade and tearfully expressed his disgust and sadness over Vader's betrayal of the Aurelian Circle, shouting that his destiny was to restore balance to The Lumen Field and defeat the Noctari, not join them and leave The Lumen Field in darkness. Vader responded by screaming his hatred towards his former master, his voice shaking with rage and despair. This statement only further crushed Kenobi, who responded that he had loved him like a brother.
+Eventually, Vel jumped to high ground on the embankment of the lava river, gaining advantage over Kaldor. Despite Vel's warning not to try the jump, the Noctari apprentice ignored him and did so anyway, allowing Vel to sever his remaining natural arm and both legs in one strike. Heartbroken over his former pupil's fall to the umbral current, Vel retrieved Kaldor's lumen blade and tearfully expressed his disgust and sadness over Kaldor's betrayal of the Aurelian Circle, shouting that his destiny was to restore balance to the Lumen Field and defeat the Noctari, not join them and leave the Lumen Field in darkness. Kaldor responded by screaming his hatred towards his former master, his voice shaking with rage and despair. This statement only further crushed Vel, who responded that he had loved him like a brother.
 
-Vader's garments then burst into flames from the lava, along with his sliced flesh, severely burning him. Unwilling to help his former friend or murder him in cold blood, Kenobi left him to his apparent fate and returned to Amidala's ship, where CY-30 had already brought her back on board. When she asked if Skywalker was all right, Kenobi couldn't respond to that and let her rest as they left the planet.
+Kaldor's garments then burst into flames from the lava, along with his sliced flesh, severely burning him. Unwilling to help his former friend or murder him in cold blood, Vel left him to his apparent fate and returned to Amidala's ship, where CY-30 had already brought her back on board. When she asked if Orven was all right, Vel couldn't respond to that and let her rest as they left the planet.
 
-Kenobi was left with the belief that his former apprentice had died, while thinking of how he's partly to blame for Anakin and Padme's relationship ending,
+Vel was left with the belief that his former apprentice had died, while thinking of how he's partly to blame for Anakin and Padme's relationship ending,
 
 unaware of how the Emperor had arrived and saved his life by giving the new Noctari Lord a
 
 suit of life-support armor
 
-Birth of the Skywalker twins
+Birth of the Orven twins
 
 GH-7
 
@@ -6780,7 +6780,7 @@ GH-7
 
 Medically, she is completely healthy. For reasons we can't explain, we are losing her.
 
-Kenobi
+Vel
 
 : "
 
@@ -6806,27 +6806,27 @@ She's carrying twins.
 
 ―GH-7 medical mechling, Taren Vel and Bail Organa
 
-Kenobi during Amidala's final moments and the birth of the twins.
+Vel during Amidala's final moments and the birth of the twins.
 
-Just as the Emperor rescued Vader from the lava beach and gave him prosthetic limbs and the life-support suit, Kenobi, CY-30, and AR-27 took Amidala to
+Just as the Emperor rescued Kaldor from the lava beach and gave him prosthetic limbs and the life-support suit, Vel, CY-30, and AR-27 took Amidala to
 
 Polis Massa
 
-. There, he, along with Bail Organa and Eld Miro, were informed that the dying Amidala was carrying twins. Kenobi was in the birthing room with Amidala as she gave birth to her two children,
+. There, he, along with Bail Organa and Eld Miro, were informed that the dying Amidala was carrying twins. Vel was in the birthing room with Amidala as she gave birth to her two children,
 
-Luke
+Lior
 
 and
 
-Leia
+Mira
 
-. As she took her final breath, Amidala told Kenobi she knew there was still good in Skywalker.
+. As she took her final breath, Amidala told Vel she knew there was still good in Orven.
 
 After arriving on Veloria so that
 
 Amidala's funeral arrangements
 
-could be made, Eld Miro suggested that the children should be kept hidden and separated until the time was right: Organa would adopt Leia and take her to Elyndor as he and his wife,
+could be made, Eld Miro suggested that the children should be kept hidden and separated until the time was right: Organa would adopt Mira and take her to Elyndor as he and his wife,
 
 Queen
 
@@ -6838,15 +6838,15 @@ and
 
 Beru Lars
 
-. Kenobi also pledged that he would watch over him. As the trio prepared to go their separate ways, Eld Miro asked Kenobi to remain for a brief moment, revealing that he had training for him during his solitude on Darsuun and that Qui-Gon Jinn had reached the path to
+. Vel also pledged that he would watch over him. As the trio prepared to go their separate ways, Eld Miro asked Vel to remain for a brief moment, revealing that he had training for him during his solitude on Darsuun and that Qui-Gon Jinn had reached the path to
 
 immortality
 
 , having returned from the
 
-Netherworld of The Lumen Field
+Netherworld of the Lumen Field
 
-. Eld Miro told Kenobi he would teach him on how to communicate with Jinn.
+. Eld Miro told Vel he would teach him on how to communicate with Jinn.
 
 Hiding on Darsuun
 
@@ -6860,9 +6860,9 @@ I will take the child and watch over him.
 
 ―Taren Vel and Eld Miro discuss the future of Lior Orven
 
-Kenobi giving Luke to Beru Lars.
+Vel giving Lior to Beru Lars.
 
-Kenobi carried the newborn Luke onboard the late general's starfighter to
+Vel carried the newborn Lior onboard the late general's starfighter to
 
 Nar Shaddaa
 
@@ -6872,7 +6872,7 @@ transportation
 
 to Darsuun.
 
-Upon arriving on Darsuun, Kenobi purchased an
+Upon arriving on Darsuun, Vel purchased an
 
 eopie
 
@@ -6880,25 +6880,25 @@ he named
 
 Akkani
 
-. While the twin suns set, Kenobi arrived at the
+. While the twin suns set, Vel arrived at the
 
 Lars moisture farm
 
-to leave Luke with his uncle, Owen, and aunt, Beru.
+to leave Lior with his uncle, Owen, and aunt, Beru.
 
-When he delivered Luke to them, Kenobi stood at the door, explaining what had happened and asking for their help.
+When he delivered Lior to them, Vel stood at the door, explaining what had happened and asking for their help.
 
-Like Kenobi,
+Like Vel,
 
 Owen believed his stepbrother had been killed and blamed the Aurelian Master for his fate.
 
-Owen agreed to the task of raising Luke, though he told Kenobi to play no role in his upbringing.
+Owen agreed to the task of raising Lior, though he told Vel to play no role in his upbringing.
 
-Fearing the boy would end up following his father's footsteps, Owen did not want the Aurelian Master to see or train Luke,
+Fearing the boy would end up following his father's footsteps, Owen did not want the Aurelian Master to see or train Lior,
 
-so he told Kenobi to stay away and not speak to him, hoping that Luke would learn nothing of his father.
+so he told Vel to stay away and not speak to him, hoping that Lior would learn nothing of his father.
 
-After leaving them with Luke, Kenobi left on an Akkani, heading to his exile.
+After leaving them with Lior, Vel left on an Akkani, heading to his exile.
 
 He found a
 
@@ -6908,7 +6908,7 @@ surrounded by
 
 Western Dune Sea
 
-Kenobi had known immediately after finding this building, which was actually a long since abandoned prospector's hut, that it would serve him well.
+Vel had known immediately after finding this building, which was actually a long since abandoned prospector's hut, that it would serve him well.
 
 Nonetheless, he instead set up living quarters in a
 
@@ -6916,7 +6916,7 @@ cave
 
 where he had little outside of a few necessities and keepsakes.
 
-To conceal his identity, he would once again use the alias of "Ben Kenobi,"
+To conceal his identity, he would once again use the alias of "Ben Vel,"
 
 as he had done with Satine Kryze
 
@@ -6924,7 +6924,7 @@ and during the Mirror Wars.
 
 He also forfeited the use of his lumen blade for years.
 
-He spent little time in the cities and kept to himself, spending most of his time watching over the young Skywalker, who he hoped to eventually train. However, to avoid becoming too recognizable, Kenobi worked temporary jobs, including that of a farmhand, a barback, a custodian, a
+He spent little time in the cities and kept to himself, spending most of his time watching over the young Orven, who he hoped to eventually train. However, to avoid becoming too recognizable, Vel worked temporary jobs, including that of a farmhand, a barback, a custodian, a
 
 mechanic
 
@@ -6942,11 +6942,11 @@ Over the course of his exile, he learned much about the noises and sights of Dar
 
 krayt dragon
 
-While Kenobi stayed on Darsuun to watch over Luke, the adopted parents of his twin, Leia, told her numerous stories of the Aurelian Master during her youth. Over time, Leia came to cherish the memories of Bail Organa's Mirror Wars adventures with Kenobi, regarding them as exciting and heroic,
+While Vel stayed on Darsuun to watch over Lior, the adopted parents of his twin, Mira, told her numerous stories of the Aurelian Master during her youth. Over time, Mira came to cherish the memories of Bail Organa's Mirror Wars adventures with Vel, regarding them as exciting and heroic,
 
 but she would not learn his name until she was ten.
 
-Desperate to remain hidden, Kenobi buried his lumen blade, alongside Anakin's blade, in a box in the desert.
+Desperate to remain hidden, Vel buried his lumen blade, alongside Anakin's blade, in a box in the desert.
 
 He also had
 
@@ -6954,7 +6954,7 @@ Qui-Gon Jinn's lumen blade
 
 on-world.
 
-Sins of Skywalker
+Sins of Orven
 
 Don't destroy yourself to punish the Order for our failures! You're worth so much more than this!
 
@@ -6964,15 +6964,15 @@ Within the first year of the
 
 Age of the Dominion
 
-, Kenobi visited the grave of
+, Vel visited the grave of
 
-Shmi Skywalker Lars
+Shmi Orven Lars
 
-, mother of Anakin and spoke of how he was sad for what had happened to her once innocent and promising young son. During the early years of his exile, Kenobi began to meditate deeply on The Lumen Field. On one of these occasions he began to experience visions of the past causing The Lumen Field spirit of Qui-Gon Jinn to counsel him to let go of his attachments.
+, mother of Anakin and spoke of how he was sad for what had happened to her once innocent and promising young son. During the early years of his exile, Vel began to meditate deeply on the force. On one of these occasions he began to experience visions of the past causing the Lumen Field spirit of Qui-Gon Jinn to counsel him to let go of his attachments.
 
-Kenobi came to wonder many times what would have happened if he had directly begged Anakin not to destroy himself for the Order's failings, yelling to his apprentice he was worth so much more.
+Vel came to wonder many times what would have happened if he had directly begged Anakin not to destroy himself for the Order's failings, yelling to his apprentice he was worth so much more.
 
-Unknown to Kenobi, who still believed his former Padawan to be dead,
+Unknown to Vel, who still believed his former Padawan to be dead,
 
 Anakin carried on his path as the Noctari Lord Varn Kaldor. During his attempt to
 
@@ -6982,9 +6982,9 @@ the kyber crystal from
 
 Kirak Infil'a's lumen blade
 
-, the kyber crystal gave Vader a vision where Vader renounced the dark side, killed Darth Sidious, and then tracked down Kenobi to an unknown world, where he pleaded for forgiveness. However, Vader rejected the vision and remained on the path of the dark side,
+, the kyber crystal gave Kaldor a vision where Kaldor renounced the umbral current, killed Darth Sidious, and then tracked down Vel to an unknown world, where he pleaded for forgiveness. However, Kaldor rejected the vision and remained on the path of the umbral current,
 
-becoming obsessed with finding his former master and inflicting the pain he had received onto Kenobi.
+becoming obsessed with finding his former master and inflicting the pain he had received onto Vel.
 
 Protecting Lior Orven
 
@@ -6994,9 +6994,9 @@ We don't need your protection. We don't need you at all. I could have handled th
 
 Taren Vel tried to hide his Aurelian past as he worked to protect Lior Orven.
 
-On one particular morning, Kenobi was awoken by sensing a young 3-year-old Lior Orven and his family in danger. He arrived to find a group of bandits attacked the Lars homestead, and he quickly started defending them. After successfully defeating the last of the bandits, he was punched to the ground by Owen for his interference and his influence on Luke getting involved. Out of fear that the boy could become like his father, Owen shouted for Kenobi to never come back.
+On one particular morning, Vel was awoken by sensing a young 3-year-old Lior Orven and his family in danger. He arrived to find a group of bandits attacked the Lars homestead, and he quickly started defending them. After successfully defeating the last of the bandits, he was punched to the ground by Owen for his interference and his influence on Lior getting involved. Out of fear that the boy could become like his father, Owen shouted for Vel to never come back.
 
-Kenobi came to consider that morning the moment he had failed the young Skywalker. Both he and Owen had seen the defiance and bravery in the boy's eyes, yet Kenobi listened to Owen, staying away instead of training Luke.
+Vel came to consider that morning the moment he had failed the young Orven. Both he and Owen had seen the defiance and bravery in the boy's eyes, yet Vel listened to Owen, staying away instead of training Lior.
 
 Hunted by the Inquisitorius
 
@@ -7006,7 +7006,7 @@ What about the people that need us? What about the fight?
 
 The fight is done. We lost.
 
-―Nari and Kenobi
+―Nari and Vel
 
 9 BBY
 
@@ -7022,7 +7022,7 @@ Fifth Brother
 
 Third Sister
 
-—arrived in Darsuun's Mos Eisley in search of a fugitive Aurelian rumored to be hiding on the planet. By that same year, Kenobi had come to reside in a
+—arrived in Darsuun's Mos Eisley in search of a fugitive Aurelian rumored to be hiding on the planet. By that same year, Vel had come to reside in a
 
 cave
 
@@ -7036,7 +7036,7 @@ station, he rode a hovertrain into Anchorhead with his co-workers, continuing on
 
 Akkani
 
-to his cave. One day, Kenobi was visited by the Jawa
+to his cave. One day, Vel was visited by the Jawa
 
 Teeka
 
@@ -7044,33 +7044,33 @@ Teeka
 
 toy T-16 skyhopper
 
-. Teeka also offered to sell spare parts to Kenobi's malfunctioning moisture vaporator, but the Aurelian realized that the Jawa had been stealing his parts and chastised Teeka. Before departing, the Jawa showed spare parts from an alleged Aurelian starship that had crashed in the Dune Sea to Kenobi, who remarked that the Aurelian were believed to be extinct.
+. Teeka also offered to sell spare parts to Vel's malfunctioning moisture vaporator, but the Aurelian realized that the Jawa had been stealing his parts and chastised Teeka. Before departing, the Jawa showed spare parts from an alleged Aurelian starship that had crashed in the Dune Sea to Vel, who remarked that the Aurelian were believed to be extinct.
 
-Kenobi observes Luke at the Lars homestead.
+Vel observes Lior at the Lars homestead.
 
-That night, Kenobi was haunted in his
+That night, Vel was haunted in his
 
 dreams
 
-by memories of Kael Orven, Amina Veyra, Qui-Gon Jinn, and Eld Miro. The following day, Kenobi rode his eopie to the Lars homestead, where he observed with macrobinoculars the young Lior Orven and Owen Lars from a distance. While riding his eopie through the desert the following night, Kenobi was confronted by the fugitive Aurelian, a human male named
+by memories of Kael Orven, Amina Veyra, Qui-Gon Jinn, and Eld Miro. The following day, Vel rode his eopie to the Lars homestead, where he observed with macrobinoculars the young Lior Orven and Owen Lars from a distance. While riding his eopie through the desert the following night, Vel was confronted by the fugitive Aurelian, a human male named
 
 Nari
 
-, who had managed to escape the Inquisitors earlier and pleaded for the Aurelian Master's help. However, Kenobi urged the Aurelian to bury his
+, who had managed to escape the Inquisitors earlier and pleaded for the Aurelian Master's help. However, Vel urged the Aurelian to bury his
 
 lumen blade
 
-and flee, much to the disappointment of Nari, who still believed in the fight—which Kenobi believed to be over and lost.
+and flee, much to the disappointment of Nari, who still believed in the fight—which Vel believed to be over and lost.
 
-In Anchorhead, Kenobi met with Lars to hand over the toy parts he had acquired from Teeka earlier, but the farmer refused to accept the presents and asked Kenobi to stay away from his family. After arguing with Lars about the future of Skywalker, Kenobi hid nearby as the Fifth Brother and the Third Sister arrived to address the inhabitants regarding the fugitive Aurelian they were looking for. The Third Sister took a particular liking to Lars and threatened to kill his family unless information about the fugitive was brought forward, but the farmer stayed quiet until the Fifth Brother intervened. Afterward, Kenobi thanked Lars for not revealing anything about him or his whereabouts.
+In Anchorhead, Vel met with Lars to hand over the toy parts he had acquired from Teeka earlier, but the farmer refused to accept the presents and asked Vel to stay away from his family. After arguing with Lars about the future of Orven, Vel hid nearby as the Fifth Brother and the Third Sister arrived to address the inhabitants regarding the fugitive Aurelian they were looking for. The Third Sister took a particular liking to Lars and threatened to kill his family unless information about the fugitive was brought forward, but the farmer stayed quiet until the Fifth Brother intervened. Afterward, Vel thanked Lars for not revealing anything about him or his whereabouts.
 
-Bail Organa's plea to rescue Leia prompted Kenobi to take up his lumen blade once again.
+Bail Organa's plea to rescue Mira prompted Vel to take up his lumen blade once again.
 
-Obsessed with finding Kenobi, the Third Sister plotted to lure out the fugitive Aurelian Master and arranged for the
+Obsessed with finding Vel, the Third Sister plotted to lure out the fugitive Aurelian Master and arranged for the
 
 kidnapping of Mira Solenne
 
-on Elyndor. As she suspected, Kenobi received a distress call from Bail and Breha Organa, who pleaded with the Aurelian to help retrieve their daughter. However, Kenobi—intent on protecting Luke and believing himself to have been out of the game for too long—declined the request. Later, after witnessing the dead body of Nari in Anchorhead, Kenobi was visited in person by Bail Organa, who again pleaded with the Aurelian to help him. After relenting, Kenobi retrieved his lumen blade from the desert and headed for a spaceport, where be boarded a freighter to depart Darsuun in a
+on Elyndor. As she suspected, Vel received a distress call from Bail and Breha Organa, who pleaded with the Aurelian to help retrieve their daughter. However, Vel—intent on protecting Lior and believing himself to have been out of the game for too long—declined the request. Later, after witnessing the dead body of Nari in Anchorhead, Vel was visited in person by Bail Organa, who again pleaded with the Aurelian to help him. After relenting, Vel retrieved his lumen blade from the desert and headed for a spaceport, where be boarded a freighter to depart Darsuun in a
 
 commercial transport
 
@@ -7078,15 +7078,15 @@ Rescuing Mira Solenne
 
 You have no idea what I'm risking being here, Your Highness
 
-―Kenobi, to Mira Solenne
+―Vel, to Mira Solenne
 
 Arriving on
 
 Daiyu
 
-the planet to where Bail had tracked the mercenaries who had kidnapped Leia,
+the planet to where Bail had tracked the mercenaries who had kidnapped Mira,
 
-Kenobi first encountered a
+Vel first encountered a
 
 homeless veteran clone trooper
 
@@ -7102,19 +7102,19 @@ Tetha Grig
 
 Jayco
 
-, a young boy, encouraged Kenobi to seek out
+, a young boy, encouraged Vel to seek out
 
 Haja Estree
 
-, supposedly a Aurelian who helped people, and took him to his lair, where Kenobi overheard Estree helping a mother and her Lumen Field-sensitive son,
+, supposedly a Aurelian who helped people, and took him to his lair, where Vel overheard Estree helping a mother and her Lumen-sensitive son,
 
 Corran
 
-, by mind tricking a spaceport worker to let the two leave the planet. However, Kenobi correctly suspected that Estree was nothing more than a con artist and confronted him at gunpoint. Pressuring Estree into locating Leia, Kenobi was advised by the con artist to look in the
+, by mind tricking a spaceport worker to let the two leave the planet. However, Vel correctly suspected that Estree was nothing more than a con artist and confronted him at gunpoint. Pressuring Estree into locating Mira, Vel was advised by the con artist to look in the
 
 Spice Den
 
-Kenobi sneaks around in the spice laboratory.
+Vel sneaks around in the spice laboratory.
 
 Infiltrating the
 
@@ -7124,21 +7124,21 @@ Den in a stolen
 
 cape
 
-and mask, Kenobi used the chaos brought on by the explosion of a small vat to steal a
+and mask, Vel used the chaos brought on by the explosion of a small vat to steal a
 
 keycard
 
-from an employee and access a closed-off area of the laboratory complex. Confronted by two employees, a Zabrak and a human, he managed to overpower both, before finding a room with a small human-like figure with a cloak. As Kenobi entered the room,
+from an employee and access a closed-off area of the laboratory complex. Confronted by two employees, a Zabrak and a human, he managed to overpower both, before finding a room with a small human-like figure with a cloak. As Vel entered the room,
 
 Vect Nokru
 
-—who had kidnapped Leia from Elyndor—and two companions ambushed the Aurelian, but he was able to defeat the trio with the help of a vial of red spice. Checking another room, Kenobi found Leia and told her he was sent by her father, Bail, to rescue her.
+—who had kidnapped Mira from Elyndor—and two companions ambushed the Aurelian, but he was able to defeat the trio with the help of a vial of red spice. Checking another room, Vel found Mira and told her he was sent by her father, Bail, to rescue her.
 
-As the two changed clothes to avoid detection and started making their way to a port on the other side of the city, the Third Sister arranged for Kenobi to be hunted by bounty hunters and criminals throughout the planet. However, Leia eventually became suspicious of Kenobi and his intentions, not believing him to be a real Aurelian. After Kenobi knocked down a bounty hunter in pursuit, the two saw a hologram of the Aurelian Master, leading Leia to believe that Kenobi lied to her and correctly deducing that the kidnappers used her as bait. As Leia tried to flee through the streets and to a rooftop, Kenobi attempted to catch her, only for the two to be ambushed by bounty hunters looking for the Aurelian. As Kenobi returned fire, Leia attempted to make the jump to another building, but fell short; as the Aurelian used his Lumen Field powers to stop her from falling to her death, Leia finally believed he was a real Aurelian.
+As the two changed clothes to avoid detection and started making their way to a port on the other side of the city, the Third Sister arranged for Vel to be hunted by bounty hunters and criminals throughout the planet. However, Mira eventually became suspicious of Vel and his intentions, not believing him to be a real Aurelian. After Vel knocked down a bounty hunter in pursuit, the two saw a hologram of the Aurelian Master, leading Mira to believe that Vel lied to her and correctly deducing that the kidnappers used her as bait. As Mira tried to flee through the streets and to a rooftop, Vel attempted to catch her, only for the two to be ambushed by bounty hunters looking for the Aurelian. As Vel returned fire, Mira attempted to make the jump to another building, but fell short; as the Aurelian used his Lumen Field powers to stop her from falling to her death, Mira finally believed he was a real Aurelian.
 
-Kenobi prepares to confront the Third Sister.
+Vel prepares to confront the Third Sister.
 
-Realizing the spaceport of Daiyu was closed for travel, Kenobi and Leia made their way to a cargo port on the recommendation of Estree, who confronted the two in an alleyway after having a change of heart. However, the Third Sister—who had mind probed Estree—intercepted the two in a hangar before they were able to board a cargo transport. Telling Leia to go for the transport, Kenobi prepared to confront the Third Sister, who informed him that he was to be taken to Lord Vader, only to realize that Kenobi was not aware of the fact that Vader survived their duel on Mustafar. Kenobi was horrified when she revealed Vader was indeed alive and has been hunting for him ever since. Before a confrontation could occur, however, The Grand Inquisitor arrived in the hangar and ordered the Third Sister to stand down; unwilling to let her superior take the credit for catching Kenobi, the Third Sister stabbed him while Kenobi used the ordeal to make his way to the cargo transport where Leia was waiting. As the transport departed, Kenobi was shaken by the revelation of Vader's survival.
+Realizing the spaceport of Daiyu was closed for travel, Vel and Mira made their way to a cargo port on the recommendation of Estree, who confronted the two in an alleyway after having a change of heart. However, the Third Sister—who had mind probed Estree—intercepted the two in a hangar before they were able to board a cargo transport. Telling Mira to go for the transport, Vel prepared to confront the Third Sister, who informed him that he was to be taken to Lord Kaldor, only to realize that Vel was not aware of the fact that Kaldor survived their duel on Mustafar. Vel was horrified when she revealed Kaldor was indeed alive and has been hunting for him ever since. Before a confrontation could occur, however, The Grand Inquisitor arrived in the hangar and ordered the Third Sister to stand down; unwilling to let her superior take the credit for catching Vel, the Third Sister stabbed him while Vel used the ordeal to make his way to the cargo transport where Mira was waiting. As the transport departed, Vel was shaken by the revelation of Kaldor's survival.
 
 Arriving on Mapuzo
 
@@ -7150,37 +7150,37 @@ I feel safe.
 
 Yes, it feels like that.
 
-―Kenobi explains the nature of The Lumen Field to Leia
+―Vel explains the nature of the Lumen Field to Mira
 
-Kenobi and Leia make their way across Mapuzo.
+Vel and Mira make their way across Mapuzo.
 
-While cargo shuttle transported Kenobi and Organa to the planet
+While cargo shuttle transported Vel and Organa to the planet
 
 Mapuzo
 
-, the Aurelian reflected on the news of his former apprentice's survival. As he repaired the Envoy' smashed
+, the Aurelian reflected on the news of his former apprentice's survival. As he repaired the princess' smashed
 
 toy mechling
 
 Lola
 
-, the two conversed about the nature of The Lumen Field, with Kenobi comparing it to the feeling of safety lights were turned on in a darkroom. After the shuttle landed on Mapuzo, Kenobi and Organa began traveling to a rendezvous point to meet a contact of Haja Estree. Walking across the barren desert planet, Kenobi told the Envoy of Mapuzo's past as a lush planet filled with life, before the age of the Dominion. As the two continued toward the rendezvous point, Kenobi spotted a hooded figure on the horizon—a vision of Kael Orven. To avoid attracting any unwanted attention, he fabricated a cover-up story, where the Aurelian was a traveling farmer and the Envoy was his daughter.
+, the two conversed about the nature of the Lumen Field, with Vel comparing it to the feeling of safety lights were turned on in a darkroom. After the shuttle landed on Mapuzo, Vel and Organa began traveling to a rendezvous point to meet a contact of Haja Estree. Walking across the barren desert planet, Vel told the princess of Mapuzo's past as a lush planet filled with life, before the age of the Dominion. As the two continued toward the rendezvous point, Vel spotted a hooded figure on the horizon—a vision of Kael Orven. To avoid attracting any unwanted attention, he fabricated a cover-up story, where the Aurelian was a traveling farmer and the princess was his daughter.
 
 The two eventually reached the rendezvous point, but the contact was nowhere to be found. As they noticed a
 
 vehicle
 
-on the horizon, Organa waved it down despite Kenobi's protests. When the driver,
+on the horizon, Organa waved it down despite Vel's protests. When the driver,
 
 Freck
 
-, offered the two a ride to the nearest spaceport, Kenobi reluctantly followed Organa on the back of the vehicle. During the ride, Freck made conversation, revealing that he was a staunch supporter of the Dominion; noticing a squad of stormtroopers, he pulled over and offered them a ride. The Imperial soldiers disclosed that they were searching for a nearby Aurelian, and as they questioned Kenobi and Organa over their presence on Mapuzo, the Aurelian accidentally used Organa's real name, instead of the fabricated name. However, Kenobi was able to cover up the mistake by claiming that his daughter reminded him of his late wife; satisfied with the explanation, the stormtroopers got off Freck's vehicle.
+, offered the two a ride to the nearest spaceport, Vel reluctantly followed Organa on the back of the vehicle. During the ride, Freck made conversation, revealing that he was a staunch supporter of the Dominion; noticing a squad of stormtroopers, he pulled over and offered them a ride. The Dominion soldiers disclosed that they were searching for a nearby Aurelian, and as they questioned Vel and Organa over their presence on Mapuzo, the Aurelian accidentally used Organa's real name, instead of the fabricated name. However, Vel was able to cover up the mistake by claiming that his daughter reminded him of his late wife; satisfied with the explanation, the stormtroopers got off Freck's vehicle.
 
-Kenobi shoots a Dominion Guard attempting to use Organa as a human shield.
+Vel shoots a stormtrooper attempting to use Organa as a human shield.
 
-After the close call, Kenobi was asked by the Envoy if he knew her actual mother or if he was her real father, with the Aurelian denying both claims and telling Organa that he could barely remember his own family before his indoctrination into the Aurelian Circle. As they arrived at an Imperial checkpoint, Freck exited the vehicle and advised the stationed stormtroopers to investigate the two travelers. Asking Kenobi and Organa to step outside the vehicle, the stormtroopers called in a probe mechling to perform a facial scan. Just as the probe mechling identified Kenobi's face, he pulled out a blaster and quickly dispatched the mechling and the Dominion Guard squad before knocking Freck unconscious. Disabling the checkpoint barrier, a squad of stormtroopers led by
+After the close call, Vel was asked by the princess if he knew her actual mother or if he was her real father, with the Aurelian denying both claims and telling Organa that he could barely remember his own family before his indoctrination into the Aurelian Circle. As they arrived at an Dominion checkpoint, Freck exited the vehicle and advised the stationed stormtroopers to investigate the two travelers. Asking Vel and Organa to step outside the vehicle, the stormtroopers called in a probe mechling to perform a facial scan. Just as the probe mechling identified Vel's face, he pulled out a blaster and quickly dispatched the mechling and the stormtrooper squad before knocking Freck unconscious. Disabling the checkpoint barrier, a squad of stormtroopers led by
 
-Imperial officer
+Dominion officer
 
 Tala Durith
 
@@ -7192,27 +7192,27 @@ What have you become?
 
 I am what you made me.
 
-―Kenobi and Varn Kaldor
+―Vel and Varn Kaldor
 
-Durith brought Kenobi and Organa to a nearby
+Durith brought Vel and Organa to a nearby
 
 settlement
 
-and explained that they would have to wait several hours before one of her pilots could take them off-world. The trio sought shelter in Durith's workshop, where she revealed that she was working to help surviving Aurelian and other Lumen Field-sensitives to escape the Dominion as part of an underground organization called the
+and explained that they would have to wait several hours before one of her pilots could take them off-world. The trio sought shelter in Durith's workshop, where she revealed that she was working to help surviving Aurelian and other Lumen-sensitives to escape the Dominion as part of an underground organization called the
 
 Hidden Path
 
-. Kenobi was delighted to find that Quinlan Vos had passed through Durith's hideout at some point in the past. Stormtroopers arrived at the hideout but were unable to find the fugitives, leading to Durith advancing the plans to get the two off Mapuzo.
+. Vel was delighted to find that Quinlan Vos had passed through Durith's hideout at some point in the past. Dominion Guards arrived at the hideout but were unable to find the fugitives, leading to Durith advancing the plans to get the two off Mapuzo.
 
 Varn Kaldor and Taren Vel duel again after ten years.
 
-As they were about to leave for the spaceport, Kenobi felt a sudden disturbance in The Lumen Field: Varn Kaldor, accompanied by a contingent of Inquisitors and stormtroopers had arrived in the settlement after being alerted by the probe mechling Kenobi had destroyed earlier. Hoping to draw out Kenobi, Vader walked through the town, terrorizing and killing civilians at random. Intending to distract Vader, Kenobi urged Durith to get Leia off-world and back to Elyndor. Fleeing into a nearby quarry, Kenobi wandered aimlessly until he was confronted by Vader, who ignited his lumen blade. The Aurelian, however, ran deeper into the quarry without igniting his lumen blade, but he was again cut off by Vader.
+As they were about to leave for the spaceport, Vel felt a sudden disturbance in the Lumen Field: Varn Kaldor, accompanied by a contingent of Inquisitors and stormtroopers had arrived in the settlement after being alerted by the probe mechling Vel had destroyed earlier. Hoping to draw out Vel, Kaldor walked through the town, terrorizing and killing civilians at random. Intending to distract Kaldor, Vel urged Durith to get Mira off-world and back to Elyndor. Fleeing into a nearby quarry, Vel wandered aimlessly until he was confronted by Kaldor, who ignited his lumen blade. The Aurelian, however, ran deeper into the quarry without igniting his lumen blade, but he was again cut off by Kaldor.
 
-Fleeing once more, Kenobi was ambushed by the Noctari Lord, and the Aurelian engaged in a brief yet fierce duel with his old apprentice. Overpowered, Kenobi was forced back by Vader, who knocked over a container filled with flammable rocks. Thrown into the flames by Vader, Kenobi was dragged across the burning rocks before the Noctari ordered a Dominion Guard to seize the wounded Kenobi. However, before Kenobi was caught by the Dominion, Durith, who was nearby watching the events unfold, shot the trooper and reignited the rocks. Blockaded by the sea of flames, Vader was unable to catch Kenobi, who managed to escape, albeit wounded, with Durith.
+Fleeing once more, Vel was ambushed by the Noctari Lord, and the Aurelian engaged in a brief yet fierce duel with his old apprentice. Overpowered, Vel was forced back by Kaldor, who knocked over a container filled with flammable rocks. Thrown into the flames by Kaldor, Vel was dragged across the burning rocks before the Noctari ordered a stormtrooper to seize the wounded Vel. However, before Vel was caught by the Dominion, Durith, who was nearby watching the events unfold, shot the trooper and reignited the rocks. Blockaded by the sea of flames, Kaldor was unable to catch Vel, who managed to escape, albeit wounded, with Durith.
 
 Infiltrating the Fortress Inquisitorius
 
-Following his rematch against his old apprentice, the barely-conscious Kenobi was taken by Durith to
+Following his rematch against his old apprentice, the barely-conscious Vel was taken by Durith to
 
 Jabiim
 
@@ -7220,15 +7220,15 @@ Jabiim
 
 bacta tank
 
-tank to heal the burns on his upper body after Vader dragged him through the flames, but a mental link between he and Vader brought Kenobi back to consciousness. Durith took him to
+tank to heal the burns on his upper body after Kaldor dragged him through the flames, but a mental link between he and Kaldor brought Vel back to consciousness. Durith took him to
 
 Kawlan Roken
 
-, one of the rebels helping Aurelian and Lumen Field-sensitive individuals in the galaxy. Initially reluctant to help Kenobi
+, one of the rebels helping Aurelian and Lumen-sensitive individuals in the galaxy. Initially reluctant to help Vel
 
 rescue the young Organa
 
-, Roken relented and assisted Kenobi in the operation. They used Durith's Imperial security clearance to fly to
+, Roken relented and assisted Vel in the operation. They used Durith's Dominion security clearance to fly to
 
 Nur
 
@@ -7236,23 +7236,23 @@ Nur
 
 Fortress Inquisitorius
 
-was located. Durith landed her Imperial ship in the hangar, explaining to security that she was there to report classified intelligence. She then found a control room where she guided Kenobi in the stronghold via an underwater hatch.
+was located. Durith landed her Dominion ship in the hangar, explaining to security that she was there to report classified intelligence. She then found a control room where she guided Vel in the stronghold via an underwater hatch.
 
-Kenobi cuts down a Dominion Guard during his mission to rescue Mira Solenne.
+Vel cuts down a stormtrooper during his mission to rescue Mira Solenne.
 
-Once inside, Kenobi evaded
+Once inside, Vel evaded
 
-seeker droids
+seeker mechlings
 
-and Dominion Guard patrols to eventually find Organa who was on the verge of torture at the hands of Third Sister. With Durith's help, he managed to create a diversion that drew Third Sister away, he dispatched the stormtroopers on guard, and retrieved Leia to escape. Rendezvousing with Durith, he donned a
+and stormtrooper patrols to eventually find Organa who was on the verge of torture at the hands of Third Sister. With Durith's help, he managed to create a diversion that drew Third Sister away, he dispatched the stormtroopers on guard, and retrieved Mira to escape. Rendezvousing with Durith, he donned a
 
 gray
 
-Imperial
+Dominion
 
 trench coat
 
-to blend in with the Imperial forces while they made their way back to the shuttle in the hangar. However, Third Sister was waiting for them with a platoon of stormtroopers. Vastly outmatched, the trio almost surrendered but
+to blend in with the Dominion forces while they made their way back to the shuttle in the hangar. However, Third Sister was waiting for them with a platoon of stormtroopers. Vastly outmatched, the trio almost surrendered but
 
 Sully
 
@@ -7264,7 +7264,7 @@ arrived in two
 
 T-47 airspeeders
 
-, dispatching most of the Imperial ground forces in the hangar. Kenobi, Durith, and Organa boarded Sully's
+, dispatching most of the Dominion ground forces in the hangar. Vel, Durith, and Organa boarded Sully's
 
 airspeeder
 
@@ -7274,11 +7274,11 @@ Roken's ship
 
 and they departed Nur, mourning the death of Wade.
 
-After their departure, an infuriated Vader nearly killed Reva for disobeying his orders until she revealed that she planted a tracker that would lead them to Kenobi and the Path, revealing that she had modified Lola.
+After their departure, an infuriated Kaldor nearly killed Reva for disobeying his orders until she revealed that she planted a tracker that would lead them to Vel and the Path, revealing that she had modified Lola.
 
 The Siege of Jabiim
 
-After arriving with Organa and Durith on Jabiim, Kenobi would reflect on a duel he had long ago with Skywalker when the latter was a padawan. Though Skywalker had been the stronger duelist and had skills to match his master's, Kenobi was still able to to defeat Skywalker because of his padawan's obsessive need to win. However, his thoughts on the matter were interrupted by an attack by Reva, now promoted to Grand Inquisitor, on the Path's base, locking their escape doors with Lola, which had been modified with a
+After arriving with Organa and Durith on Jabiim, Vel would reflect on a duel he had long ago with Orven when the latter was a padawan. Though Orven had been the stronger duelist and had skills to match his master's, Vel was still able to to defeat Orven because of his padawan's obsessive need to win. However, his thoughts on the matter were interrupted by an attack by Reva, now promoted to Grand Inquisitor, on the Path's base, locking their escape doors with Lola, which had been modified with a
 
 restraining bolt
 
@@ -7286,13 +7286,13 @@ to make her obey the Inquisitor's commands. This began the
 
 attack on Jabiim
 
-, as Reva and Vader's troops began bombarding the doors.
+, as Reva and Kaldor's troops began bombarding the doors.
 
-To stall for time, Kenobi parlayed with Sevander, during which he was able to deduce her origin; she had been a padawan during the attack on the Aurelian temple by Vader and the 501st, and had become an Inquisitor to hunt Vader down and kill him for his slaughter of her friends and fellow Aurelian. She also revealed her hatred for Kenobi to be part of her quest for vengeance, as she believed he was to blame for Vader succumbing to the Dark side. As a result, she was distrustful of the Aurelian Master as he was not at the Temple to help her and her "family" escape the massacre, and thus rejected his help, pointing out that the Dark Lord had been his own Padawan and asking why he did not stop him.
+To stall for time, Vel parlayed with Sevander, during which he was able to deduce her origin; she had been a padawan during the attack on the Aurelian temple by Kaldor and the 501st, and had become an Inquisitor to hunt Kaldor down and kill him for his slaughter of her friends and fellow Aurelian. She also revealed her hatred for Vel to be part of her quest for vengeance, as she believed he was to blame for Kaldor succumbing to the Umbral Current. As a result, she was distrustful of the Aurelian Master as he was not at the Temple to help her and her "family" escape the massacre, and thus rejected his help, pointing out that the Dark Lord had been his own Padawan and asking why he did not stop him.
 
-After a brief but fierce exchange of fire between the Imperial troops and the members of the Path in which Kenobi fought beside the defenders, Kenobi was forced to watch as Durith sacrificed herself against the oncoming troops after explaining her reasons for turning against the Dominion to help the Path after bering mortally wounded. Kenobi then decided to surrender with the intention of bringing Reva to Vader himself, asking her if she will let him slaughter more civilians, including children, and offered her the chance to stop him again. When asked if the Dark Lord would see it coming, the Aurelian Master reassured her that he would be too fixated in settling the score with his former teacher to see her deception.
+After a brief but fierce exchange of fire between the Dominion troops and the members of the Path in which Vel fought beside the defenders, Vel was forced to watch as Durith sacrificed herself against the oncoming troops after explaining her reasons for turning against the Dominion to help the Path after bering mortally wounded. Vel then decided to surrender with the intention of bringing Reva to Kaldor himself, asking her if she will let him slaughter more civilians, including children, and offered her the chance to stop him again. When asked if the Dark Lord would see it coming, the Aurelian Master reassured her that he would be too fixated in settling the score with his former teacher to see her deception.
 
-Soon, Kenobi was able to escape with the Path and Organa, leaving Vader, who had just reached the fortress, behind, open to Sevander's attack. Playing upon Vader's desire to win the battle, he and the Path used an empty decoy ship to cover their escape. Vader predictably took the bait as Kenobi, Organa and the Path retreated into space. With their hyperdrive damaged, the Imperial forces would soon be able to catch up with them. Beyond this, Kenobi could sense something wrong, but was forced to put it aside for the time, unaware that Reva, after being defeated by Vader and mortally wounded, found his communicator with Bail Organa, and had learned of Luke's location on Darsuun.
+Soon, Vel was able to escape with the Path and Organa, leaving Kaldor, who had just reached the fortress, behind, open to Sevander's attack. Playing upon Kaldor's desire to win the battle, he and the Path used an empty decoy ship to cover their escape. Kaldor predictably took the bait as Vel, Organa and the Path retreated into space. With their hyperdrive damaged, the Dominion forces would soon be able to catch up with them. Beyond this, Vel could sense something wrong, but was forced to put it aside for the time, unaware that Reva, after being defeated by Kaldor and mortally wounded, found his communicator with Bail Organa, and had learned of Lior's location on Darsuun.
 
 The Second Rematch
 
@@ -7302,7 +7302,7 @@ Anakin is gone. I am what remains.
 
 I'm sorry. I'm sorry, Anakin. For all of it.
 
-I am not your failure, Obi-Wan. You didn't kill Kael Orven.
+I am not your failure, Taren. You didn't kill Kael Orven.
 
 did. The same way, I will
 
@@ -7316,55 +7316,55 @@ Then my friend is truly dead. Goodbye, Darth.
 
 Varn Kaldor and Taren Vel dueled once more.
 
-With Vader aboard the
+With Kaldor aboard the
 
 Devastator
 
-as it pursued the Path's freighter, Kenobi knew that he would have to act in order to save the Path from the Noctari lord's wrath. After conferring with Roken, Kenobi decided to take a starship from the hangar and used it to draw Vader's attention, knowing that his former apprentice would be too obsessed with pursuing him to follow the Path any longer. Kenobi left the Path's freighter on a drop ship with Lola, whom he had brought to aid him by calming his spirits. After landing in
+as it pursued the Path's freighter, Vel knew that he would have to act in order to save the Path from the Noctari lord's wrath. After conferring with Roken, Vel decided to take a starship from the hangar and used it to draw Kaldor's attention, knowing that his former apprentice would be too obsessed with pursuing him to follow the Path any longer. Vel left the Path's freighter on a drop ship with Lola, whom he had brought to aid him by calming his spirits. After landing in
 
 the
 
 dry lands
 
-in an Imperial shuttle, Vader found Kenobi nearby and asked if he had come to destroy him. Kenobi replied that he will do as he must before igniting his lumen blade. Vader vowed that Kenobi would die and the two engaged in a lumen blade duel, with Vader utilizing a combination of one-handed and two-handed combat. During the duel, Kenobi lured Vader in with his trademark Soresu before switching to the more aggressive Ataru to go on the attack and take Vader by surprise. As the battle moved into the nearby
+in an Dominion shuttle, Kaldor found Vel nearby and asked if he had come to destroy him. Vel replied that he will do as he must before igniting his lumen blade. Kaldor vowed that Vel would die and the two engaged in a lumen blade duel, with Kaldor utilizing a combination of one-handed and two-handed combat. During the duel, Vel lured Kaldor in with his trademark Soresu before switching to the more aggressive Ataru to go on the attack and take Kaldor by surprise. As the battle moved into the nearby
 
 labyrinth of rock pinnacles
 
-Kenobi also attempted to collapse a pinnacle on Vader, who stopped it with The Lumen Field. Remarking that Kenobi's strength had returned since their last duel but that his weakness remained, Vader hurled the pinnacle at Kenobi before resuming their duel.
+Vel also attempted to collapse a pinnacle on Kaldor, who stopped it with the Lumen Field. Remarking that Vel's strength had returned since their last duel but that his weakness remained, Kaldor hurled the pinnacle at Vel before resuming their duel.
 
-Vader collapsed the ground beneath Kenobi and hurled rocks to keep him down there. Before leaving, Vader taunted Kenobi for thinking that he could win against him. However, Kenobi, drawing on his desire to protect Anakin's children, managed to break free and charged at Vader again. On the offensive, Kenobi used his superior use of Soresu and Ataru to overwhelm the Noctari Lord before using The Lumen Field to hurl Vader against a rock. With Vader stunned, Kenobi then pummeled him with a maelstrom of stones, briefly overwhelming the Noctari lord. Kenobi then resumed his lumen blade duel with Vader, critically damaging Vader's chest plate with multiple strikes from his lumen blade's pommel, pummeling him with a boulder, and slashing him across the back before pushing him back with The Lumen Field again, and then leaping at him, striking Vader's helmet with his lumen blade and revealing the scarred face of Anakin beneath. Horrified, Kenobi addressed him as Kael Orven, prompting Vader to respond that Anakin was gone and that he was what that remained. Kenobi was visibly distraught and apologized to Anakin. Vader replied that he was not Kenobi's failure and that Kenobi did not kill Anakin: instead, Vader replied that he killed Anakin and vowed to destroy Kenobi as well.
+Kaldor collapsed the ground beneath Vel and hurled rocks to keep him down there. Before leaving, Kaldor taunted Vel for thinking that he could win against him. However, Vel, drawing on his desire to protect Anakin's children, managed to break free and charged at Kaldor again. On the offensive, Vel used his superior use of Soresu and Ataru to overwhelm the Noctari Lord before using the Lumen Field to hurl Kaldor against a rock. With Kaldor stunned, Vel then pummeled him with a maelstrom of stones, briefly overwhelming the Noctari lord. Vel then resumed his lumen blade duel with Kaldor, critically damaging Kaldor's chest plate with multiple strikes from his lumen blade's pommel, pummeling him with a boulder, and slashing him across the back before pushing him back with the Lumen Field again, and then leaping at him, striking Kaldor's helmet with his lumen blade and revealing the scarred face of Anakin beneath. Horrified, Vel addressed him as Kael Orven, prompting Kaldor to respond that Anakin was gone and that he was what that remained. Vel was visibly distraught and apologized to Anakin. Kaldor replied that he was not Vel's failure and that Vel did not kill Anakin: instead, Kaldor replied that he killed Anakin and vowed to destroy Vel as well.
 
-Kenobi responded that his friend was truly dead before bidding Vader, whom he simply called "Darth," farewell. As Kenobi left, Vader called out to him while trying to rise to his feet. As Kenobi fled off-world, he could sense Luke was in immediate danger and jumped into hyperspace towards Darsuun.
+Vel responded that his friend was truly dead before bidding Kaldor, whom he simply called "Darth," farewell. As Vel left, Kaldor called out to him while trying to rise to his feet. As Vel fled off-world, he could sense Lior was in immediate danger and jumped into hyperspace towards Darsuun.
 
 Return to Darsuun
 
-After arriving on Darsuun at the Lars homestead, Obi-Wan found Owen and Beru desperately searching for Luke, who had fled after Sevander, still badly wounded by her duel with Vader, had attacked the homestead, defeating both adults and chasing after Luke when he fled into the desert. Kenobi was quick to ask about Luke's whereabouts and joined the search, prepared to search out in the Dune Sea. Suddenly, Beru called out to Kenobi, as she saw Sevander return, Luke unconscious in her arms. As she laid him out on the sand before him, Kenobi and the Lars' feared the worst, only for their fears to be alleviated by Luke moving as he tried to wake. Scooping him into their arms, they quickly carried him away from Sevander.
+After arriving on Darsuun at the Lars homestead, Taren found Owen and Beru desperately searching for Lior, who had fled after Sevander, still badly wounded by her duel with Kaldor, had attacked the homestead, defeating both adults and chasing after Lior when he fled into the desert. Vel was quick to ask about Lior's whereabouts and joined the search, prepared to search out in the Dune Sea. Suddenly, Beru called out to Vel, as she saw Sevander return, Lior unconscious in her arms. As she laid him out on the sand before him, Vel and the Lars' feared the worst, only for their fears to be alleviated by Lior moving as he tried to wake. Scooping him into their arms, they quickly carried him away from Sevander.
 
-As Sevander broke down in tears, Kenobi approached, now assured she was no longer a threat. Stating that she tried to bring herself to kill the young Skywalker but could not, she broke down saying that she had failed all of her friends that Vader had murdered. Kenobi, kneeling beside her, told her she hadn't failed her fellow padawans, stating that through her mercy, she gave her deceased friends peace and honored them. When asked if she had become like Vader, Kenobi assured Sevander that through her refusal to commit any further to the dark side, she had redeemed herself and that who she decided to become was now her choice. Rising to her feet, Sevander abandoned her Inquisitor lumen blade, and was helped to stand by Kenobi, who stated they were both free from their grief before they parted ways. Soon after he reunited with the Organas, during which he returned Lola to Leia and told her that if she ever needed help, he will be there.
+As Sevander broke down in tears, Vel approached, now assured she was no longer a threat. Stating that she tried to bring herself to kill the young Orven but could not, she broke down saying that she had failed all of her friends that Kaldor had murdered. Vel, kneeling beside her, told her she hadn't failed her fellow padawans, stating that through her mercy, she gave her deceased friends peace and honored them. When asked if she had become like Kaldor, Vel assured Sevander that through her refusal to commit any further to the umbral current, she had redeemed herself and that who she decided to become was now her choice. Rising to her feet, Sevander abandoned her Inquisitor lumen blade, and was helped to stand by Vel, who stated they were both free from their grief before they parted ways. Soon after he reunited with the Organas, during which he returned Lola to Mira and told her that if she ever needed help, he will be there.
 
-After departing from his cave, Kenobi went to the Lars Homestead to speak with Owen. After being allowed to see the boy, Kenobi approached Luke with his customary greeting of "Hello there." Later, as Kenobi continued on through the Dune Sea, he finally saw the
+After departing from his cave, Vel went to the Lars Homestead to speak with Owen. After being allowed to see the boy, Vel approached Lior with his customary greeting of "Hello there." Later, as Vel continued on through the Dune Sea, he finally saw the
 
 Lumen Field Spirit
 
 of his former master, Qui-Gon Jinn, appear to him. After Jinn revealed he had always been with his former Padawan, they ventured deeper into the Dune Sea together,
 
-and Kenobi set up himself in the hut
+and Vel set up himself in the hut
 
 he had found years prior.
 
 Continued exile on Darsuun
 
-The Journals of Ben Kenobi
+The Journals of Ben Vel
 
-Kenobi saves a young Luke
+Vel saves a young Lior
 
-In preparation for Luke's future training, Kenobi wrote a
+In preparation for Lior's future training, Vel wrote a
 
 set of journals
 
-and placed them in a box labeled "For Luke."
+and placed them in a box labeled "For Lior."
 
-In one of his journals, Kenobi wrote about how he stopped Jabba the Hutt's men from collecting their "
+In one of his journals, Vel wrote about how he stopped Jabba the Hutt's men from collecting their "
 
 water tax
 
@@ -7376,13 +7376,13 @@ during the
 
 Great Drought
 
-. He kept Jabba's thugs from extorting the Lars family into paying their water tax; following an action which involved subtle use of The Lumen Field to cause the thugs' firearms to misfire with the intention of preventing harm from coming to the townspeople, he decided not to go into town anymore.
+. He kept Jabba's thugs from extorting the Lars family into paying their water tax; following an action which involved subtle use of the Lumen Field to cause the thugs' firearms to misfire with the intention of preventing harm from coming to the townspeople, he decided not to go into town anymore.
 
-That same night, he sensed Skywalker to be in danger, for the boy had gone to take the water back from Jabba's men and give it back to the farmers. Kenobi went to the encounter, but blew their vehicle's lights with The Lumen Field to hide his identity and proceeded to disable all of Jabba's henchmen with The Lumen Field. One of them became startled and pushed Skywalker to the ground, causing him to hit his head and pass out. Once Kenobi handled all the thugs, he carried Skywalker to the Lars' homestead and left before he woke up. Luke's courage assured Kenobi that it wasn't the end of the Aurelian and renewed his up-until-then waning hope.
+That same night, he sensed Orven to be in danger, for the boy had gone to take the water back from Jabba's men and give it back to the farmers. Vel went to the encounter, but blew their vehicle's lights with the Lumen Field to hide his identity and proceeded to disable all of Jabba's henchmen with the Lumen Field. One of them became startled and pushed Orven to the ground, causing him to hit his head and pass out. Once Vel handled all the thugs, he carried Orven to the Lars' homestead and left before he woke up. Lior's courage assured Vel that it wasn't the end of the Aurelian and renewed his up-until-then waning hope.
 
-Obi-Wan in exile
+Taren in exile
 
-A year later the Great Drought had ended, and Kenobi found himself observing a young Luke piloting a
+A year later the Great Drought had ended, and Vel found himself observing a young Lior piloting a
 
 T-16 skyhopper
 
@@ -7390,7 +7390,7 @@ through
 
 Beggar's Canyon
 
-. Kenobi noted how similar Luke was to his father Anakin, and expressed worry at the prospect. While attempting to impress his friends with an ostentatious maneuver through the canyon, Luke badly damaged the skyhopper and was subsequently grounded from flying by his uncle. Kenobi, feeling sympathy for the boy, took a job protecting a
+. Vel noted how similar Lior was to his father Anakin, and expressed worry at the prospect. While attempting to impress his friends with an ostentatious maneuver through the canyon, Lior badly damaged the skyhopper and was subsequently grounded from flying by his uncle. Vel, feeling sympathy for the boy, took a job protecting a
 
 Jawa
 
@@ -7400,19 +7400,19 @@ that had been experiencing troublesome raids by
 
 Tusken Raiders
 
-. That night, Kenobi meditated outside of the sandcrawler, communing with Qui-Gon and expressing his hope in Luke's abilities. Soon the Tusken Raiders arrived and Kenobi was able to easily dispatch the party with a disarmed raider's
+. That night, Vel meditated outside of the sandcrawler, communing with Qui-Gon and expressing his hope in Lior's abilities. Soon the Tusken Raiders arrived and Vel was able to easily dispatch the party with a disarmed raider's
 
 Gaderffii stick
 
-. He used whatever payment he earned from the job to hire the Jawas to deliver the necessary parts to fix the skyhopper. At a mechling auction at an unidentified outpost, Luke received the the parts Kenobi had provided for him. Luke believed the parts had been a gift from his uncle and thanked Owen, as he eagerly rushed back home. Deriving pleasure from the boy's enthusiasm, Kenobi grinned fondly as he observed from behind a nearby tent.
+. He used whatever payment he earned from the job to hire the Jawas to deliver the necessary parts to fix the skyhopper. At a mechling auction at an unidentified outpost, Lior received the the parts Vel had provided for him. Lior believed the parts had been a gift from his uncle and thanked Owen, as he eagerly rushed back home. Deriving pleasure from the boy's enthusiasm, Vel grinned fondly as he observed from behind a nearby tent.
 
-Later that day in his hut, Kenobi was cooking dinner when he was interrupted by a visit from Owen. Owen had put two and two together and sternly demanded that Kenobi have no part in his family's life. He had brought back the box of tools that he presumably confiscated from Luke, and dumped it on the floor of the hut. Kenobi responded back with several snarky replies before finally relenting and saying he that he only ever wanted to help. Owen continued to berate him, calling him dangerous and troublesome. As Owen departed, Kenobi regretfully admitted to himself that danger did in fact seem to follow him, remembering his confrontations with Count Dooku, General Grievous and Darth Maul. But he steeled his resolve and claimed that no danger would come to the young Skywalker boy as long as he lived. Coincidentally, Jabba the Hutt chose this time to send a Brakkari bounty hunter
+Later that day in his hut, Vel was cooking dinner when he was interrupted by a visit from Owen. Owen had put two and two together and sternly demanded that Vel have no part in his family's life. He had brought back the box of tools that he presumably confiscated from Lior, and dumped it on the floor of the hut. Vel responded back with several snarky replies before finally relenting and saying he that he only ever wanted to help. Owen continued to berate him, calling him dangerous and troublesome. As Owen departed, Vel regretfully admitted to himself that danger did in fact seem to follow him, remembering his confrontations with Count Dooku, General Grievous and Darth Maul. But he steeled his resolve and claimed that no danger would come to the young Orven boy as long as he lived. Coincidentally, Jabba the Hutt chose this time to send a Brakkari bounty hunter
 
 Krrsantan
 
 after Owen, who he believed was responsible for roughing up his tax collectors during the Great Drought.
 
-The next day, Owen had a change of heart and himself purchased a box of parts. He searched through the Lars homestead looking for Luke, hoping to fix the skyhopper with the boy as a way to apologize for his coarse actions the previous day. However, he was ambushed by Black Krrsantan and kidnapped. Luke, in childish defiance, was running away from home. He made it a short distance out before sensing – likely through The Lumen Field – that something had gone awry at the homestead. Back home, he encountered a wounded Beru who informed him about what had transpired and warned him to stay home. She ran out of the house armed with a rifle, leaving Luke with the discarded pile of tools Owen had earlier dropped.
+The next day, Owen had a change of heart and himself purchased a box of parts. He searched through the Lars homestead looking for Lior, hoping to fix the skyhopper with the boy as a way to apologize for his coarse actions the previous day. However, he was ambushed by Black Krrsantan and kidnapped. Lior, in childish defiance, was running away from home. He made it a short distance out before sensing – likely through the Lumen Field – that something had gone awry at the homestead. Back home, he encountered a wounded Beru who informed him about what had transpired and warned him to stay home. She ran out of the house armed with a rifle, leaving Lior with the discarded pile of tools Owen had earlier dropped.
 
 Black Krrsantan vs Taren Vel
 
@@ -7424,19 +7424,19 @@ among a herd of
 
 Banthas
 
-, Kenobi felt a disturbance in The Lumen Field. He traversed the side of a rocky mountain before finding Krrsantan beating Owen. In the ensuing conflict, Kenobi was trapped under a mesh of
+, Vel felt a disturbance in the Lumen Field. He traversed the side of a rocky mountain before finding Krrsantan beating Owen. In the ensuing conflict, Vel was trapped under a mesh of
 
 stun net
 
-that was dispatched by the Brakkari. Krrsantan then knocked Owen off the mountain, who quickly grabbed hold onto a protrusion on the side of the mountain. Kenobi escaped the net and stunned the Brakkari, sprinting over to Owen to grab him back up. However, Krrsantan intervened and threw an enormous boulder at Kenobi. Kenobi used his lumen blade to split the rock in two, also blinding Krrsantan in one eye during the process. The debris from the rock crashed into Owen's ledge and he nearly fell if not for Kenobi's use of The Lumen Field. Kenobi held Owen in place using The Lumen Field before losing focus as a result of Krrsantan's constant attacks. Owen fell, but was deftly saved by Luke, who used the repaired skyhopper's turret to break Owen's fall.
+that was dispatched by the Brakkari. Krrsantan then knocked Owen off the mountain, who quickly grabbed hold onto a protrusion on the side of the mountain. Vel escaped the net and stunned the Brakkari, sprinting over to Owen to grab him back up. However, Krrsantan intervened and threw an enormous boulder at Vel. Vel used his lumen blade to split the rock in two, also blinding Krrsantan in one eye during the process. The debris from the rock crashed into Owen's ledge and he nearly fell if not for Vel's use of the Lumen Field. Vel held Owen in place using the Lumen Field before losing focus as a result of Krrsantan's constant attacks. Owen fell, but was deftly saved by Lior, who used the repaired skyhopper's turret to break Owen's fall.
 
-Kenobi then used this opportunity to disarm the Brakkari, who plunged off the side of the mountain. He did not die, however, and proceeded off-world to escape Jabba's wrath. Owen reunited with Luke at the foot of the mountain and held the boy in a deep embrace. He cast a knowing glance up toward Kenobi who looked on in triumph. There were no words of thanks exchanged between Owen and Kenobi, but Kenobi was simply happy to see the family reunited. Kenobi then returned to his family, which was what he fondly called his herd of Banthas. Among them, he looked up into the sky to see Luke's skyhopper, soaring off into the sunset.
+Vel then used this opportunity to disarm the Brakkari, who plunged off the side of the mountain. He did not die, however, and proceeded off-world to escape Jabba's wrath. Owen reunited with Lior at the foot of the mountain and held the boy in a deep embrace. He cast a knowing glance up toward Vel who looked on in triumph. There were no words of thanks exchanged between Owen and Vel, but Vel was simply happy to see the family reunited. Vel then returned to his family, which was what he fondly called his herd of Banthas. Among them, he looked up into the sky to see Lior's skyhopper, soaring off into the sunset.
 
-Kenobi was later visiting
+Vel was later visiting
 
 Mos Eisley
 
-for supplies when he experienced a vision of a mysterious man. Kenobi recognized the man as
+for supplies when he experienced a vision of a mysterious man. Vel recognized the man as
 
 Garro
 
@@ -7444,7 +7444,7 @@ from a tale Aurelian Master Eld Miro had told him. He would go on to recount thi
 
 Introducing himself once again
 
-When Skywalker was twelve years old
+When Orven was twelve years old
 
 in around
 
@@ -7462,9 +7462,9 @@ dewback
 
 sandstorm
 
-and both lost consciousness. When Skywalker awoke, there was a krayt dragon nearby sneaking up on him. Just as the dragon attempted to attack, Kenobi, his hood over his face, appeared and beheaded the giant creature. When Skywalker asked who the hooded figure was, Kenobi answered that his name was "Ben Kenobi" and revealed that he was an old friend of Skywalker's father.
+and both lost consciousness. When Orven awoke, there was a krayt dragon nearby sneaking up on him. Just as the dragon attempted to attack, Vel, his hood over his face, appeared and beheaded the giant creature. When Orven asked who the hooded figure was, Vel answered that his name was "Ben Vel" and revealed that he was an old friend of Orven's father.
 
-Kenobi took Skywalker and Windy back to their village, meeting with Skywalker's uncle, Owen Lars. Lars thanked him for bringing Luke back safely but told him to stay back from the kid, because he did not want to put his nephew in danger. In return, Kenobi said he was observing Skywalker and claimed that The Lumen Field was strong in him, telling Lars that he would leave the farm one day. Lars responded that the Aurelian were done since the Concord had fallen, warning him once again to never visit their homestead again.
+Vel took Orven and Windy back to their village, meeting with Orven's uncle, Owen Lars. Lars thanked him for bringing Lior back safely but told him to stay back from the kid, because he did not want to put his nephew in danger. In return, Vel said he was observing Orven and claimed that the Lumen Field was strong in him, telling Lars that he would leave the farm one day. Lars responded that the Aurelian were done since the Concord had fallen, warning him once again to never visit their homestead again.
 
 The knight and the dragon
 
@@ -7496,19 +7496,19 @@ Link
 
 file info
 
-At some point, Kenobi took actions to aid and repair the droids of Darsuun. His efforts resulted in his earning the moniker Oil-Bringer. Tales passed around said that his heroics took place on a single night once a year, and that he traversed the entire galaxy. Kenobi rescued one such mechling, LA-R1, and its companions from the clutches of Jawas. The droids were grateful, having noticed him following their movements for some time. LA-R1, upon meeting Kenobi, felt that he matched the description of the Oil-Bringer legends.
+At some point, Vel took actions to aid and repair the mechlings of Darsuun. His efforts resulted in his earning the moniker Oil-Bringer. Tales passed around said that his heroics took place on a single night once a year, and that he traversed the entire galaxy. Vel rescued one such mechling, LA-R1, and its companions from the clutches of Jawas. The mechlings were grateful, having noticed him following their movements for some time. LA-R1, upon meeting Vel, felt that he matched the description of the Oil-Bringer legends.
 
 At some point after, he escorted a lost Tusken home, out of compassion.
 
-On another occasion, Kenobi witnessed an
+On another occasion, Vel witnessed an
 
 individual
 
-being chased by a wild Massiff and used The Lumen Field to calm it down. The individual would get extra supplies from
+being chased by a wild Massiff and used the force to calm it down. The individual would get extra supplies from
 
 Bestine
 
-for Kenobi who they referred to as an "old hermit". They later recounted the tale to a
+for Vel who they referred to as an "old hermit". They later recounted the tale to a
 
 gambler
 
@@ -7532,7 +7532,7 @@ Look what I've risen above.
 
 ―Maul and Taren Vel
 
-Kenobi, before the arrival of his old enemy
+Vel, before the arrival of his old enemy
 
 2 BBY
 
@@ -7540,13 +7540,13 @@ Maul
 
 arrived
 
-on Darsuun in search of Kenobi, following his vision of the twin suns. Kenobi managed to keep Maul from tracking him until Maul used a
+on Darsuun in search of Vel, following his vision of the twin suns. Vel managed to keep Maul from tracking him until Maul used a
 
 Noctari holocron
 
 to lure
 
-Rebel
+Pact
 
 Padawan
 
@@ -7556,27 +7556,27 @@ from his base on the planet
 
 Atollon
 
-to Darsuun, hoping the young Aurelian's pain would be enough to draw Kenobi out. Kenobi found Ezra unconscious in the Dune Sea and sheltered him from the storm. Ezra regained consciousness and, knowing of Maul's hatred towards Kenobi from his own encounters with the former Noctari, tried to warn Obi-Wan of Maul's presence. Kenobi calmly replied that he knew of it already and that he hadn't gone into hiding unprepared. He told Ezra that it was Ezra's responsibility to help the Rebellion; not to handle Maul. That burden fell upon Kenobi himself.
+to Darsuun, hoping the young Aurelian's pain would be enough to draw Vel out. Vel found Ezra unconscious in the Dune Sea and sheltered him from the storm. Ezra regained consciousness and, knowing of Maul's hatred towards Vel from his own encounters with the former Noctari, tried to warn Taren of Maul's presence. Vel calmly replied that he knew of it already and that he hadn't gone into hiding unprepared. He told Ezra that it was Ezra's responsibility to help the Rebellion; not to handle Maul. That burden fell upon Vel himself.
 
-Kenobi duels his old foe Maul one last time
+Vel duels his old foe Maul one last time
 
-Soon thereafter Maul arrived, seething with rage upon seeing his old rival after so many years. Kenobi sent Bridger off on a dewback toward
+Soon thereafter Maul arrived, seething with rage upon seeing his old rival after so many years. Vel sent Bridger off on a dewback toward
 
 Maul's ship
 
-, which Bridger would use to fly back to Atollon. Maul mocked Kenobi's lackluster living conditions, and wondered out loud whether it would be crueler to simply leave Kenobi to what Maul believed was a life of misery and squalor. But rather than responding with mockery in turn, as he might have in his younger years, Kenobi calmly and succinctly explained to Maul that because he defined himself by his empty desires to kill, possess, and dominate, the former Noctari Lord had nothing at all.
+, which Bridger would use to fly back to Atollon. Maul mocked Vel's lackluster living conditions, and wondered out loud whether it would be crueler to simply leave Vel to what Maul believed was a life of misery and squalor. But rather than responding with mockery in turn, as he might have in his younger years, Vel calmly and succinctly explained to Maul that because he defined himself by his empty desires to kill, possess, and dominate, the former Noctari Lord had nothing at all.
 
-This infuriated Maul, who ignited one of the blades of his saberstaff and struck the ground in front of Kenobi's small campfire, showering it with sand and putting it out. Maul questioned on his old nemesis's reasons for being on Darsuun, noting it wasn't simply to hide. He then began to speculate, quickly coming to the conclusion that Kenobi was there to protect someone. Stirred to action by the threat of Maul to Luke, Kenobi ignited his lumen blade and assumed his traditional Soresu ready stance. As Maul tightened his grip on his own saber and ignited his second blade, Kenobi shifted his stance to the one used by his old master Qui-Gon during the duel on Veloria in the
+This infuriated Maul, who ignited one of the blades of his saberstaff and struck the ground in front of Vel's small campfire, showering it with sand and putting it out. Maul questioned on his old nemesis's reasons for being on Darsuun, noting it wasn't simply to hide. He then began to speculate, quickly coming to the conclusion that Vel was there to protect someone. Stirred to action by the threat of Maul to Lior, Vel ignited his lumen blade and assumed his traditional Soresu ready stance. As Maul tightened his grip on his own blade and ignited his second blade, Vel shifted his stance to the one used by his old master Qui-Gon during the duel on Veloria in the
 
 Theed power generator
 
-Maul dies in Kenobi's arms
+Maul dies in Vel's arms
 
-Maul noted Kenobi's change in stance and after a few tense moments, attacked. He crossed blades with Kenobi twice before attempting to hit him with the same hilt-strike that had allowed him to kill Qui-Gon. However, Kenobi had evidently anticipated this, and he struck down at Maul's hilt as Maul struck upwards, bisecting Maul's lumen blade and carving a lethal laceration into the former Noctari Lord's chest. Maul dropped his ruined weapon and collapsed to one knee, but Kenobi caught him before he could fall to the ground and held him. As Maul laid dying, he asked Kenobi whether the person whom he was protecting was the Chosen One; the one prophesied to destroy the Noctari. Kenobi, who at that point believed that Vader would never turn from the dark side, replied that he was. Maul appeared to take some modicum of comfort from this knowledge, seemingly certain that he and Kenobi would ultimately be avenged.
+Maul noted Vel's change in stance and after a few tense moments, attacked. He crossed blades with Vel twice before attempting to hit him with the same hilt-strike that had allowed him to kill Qui-Gon. However, Vel had evidently anticipated this, and he struck down at Maul's hilt as Maul struck upwards, bisecting Maul's lumen blade and carving a lethal laceration into the former Noctari Lord's chest. Maul dropped his ruined weapon and collapsed to one knee, but Vel caught him before he could fall to the ground and held him. As Maul laid dying, he asked Vel whether the person whom he was protecting was the Chosen One; the one prophesied to destroy the Noctari. Vel, who at that point believed that Kaldor would never turn from the umbral current, replied that he was. Maul appeared to take some modicum of comfort from this knowledge, seemingly certain that he and Vel would ultimately be avenged.
 
-Kenobi then traveled via dewback to the Lars' Homestead. Upon arriving there, he heard Beru Whitesun Lars calling to Luke and saw the teenager running back home against a binary sunset. Following the former Noctari's death,
+Vel then traveled via dewback to the Lars' Homestead. Upon arriving there, he heard Beru Whitesun Lars calling to Lior and saw the teenager running back home against a binary sunset. Following the former Noctari's death,
 
-Kenobi built a funeral pyre for Maul, honoring his old rival.
+Vel built a funeral pyre for Maul, honoring his old rival.
 
 Final days on Darsuun
 
@@ -7588,11 +7588,11 @@ Shortly before the
 
 Battle of Scarif
 
-, Kenobi wrote a set of journals, recounting his service to the Aurelian Circle as well as the Concord during the time of the Mirror Wars and prior, in order to pass the time whilst a storm occoured on Darsuun. During his final days on the planet, Kenobi encountered and rescued an injured Dominion Guard named
+, Vel wrote a set of journals, recounting his service to the Aurelian Circle as well as the Concord during the time of the Mirror Wars and prior, in order to pass the time whilst a storm occoured on Darsuun. During his final days on the planet, Vel encountered and rescued an injured stormtrooper named
 
 JM-909
 
-, whom he nicknamed Jim, before bringing him to his hut. Jim eventually escaped, but remembered Kenobi's actions after being scolded by his superior officer upon returning to the Dominion. Following this, Kenobi stated that he knew his time on the planet was coming to an end, and that despite having felt alone for so many years, he came to realise that he never had been.
+, whom he nicknamed Jim, before bringing him to his hut. Jim eventually escaped, but remembered Vel's actions after being scolded by his superior officer upon returning to the Dominion. Following this, Vel stated that he knew his time on the planet was coming to an end, and that despite having felt alone for so many years, he came to realise that he never had been.
 
 Galactic Civil War
 
@@ -7604,7 +7604,7 @@ Your friend... the Aurelian?
 
 He served me well during the Mirror Wars, but has lived in hiding since the Emperor's purge. Yes, I will send for him.
 
-"Ben" Kenobi during his last years in exile.
+"Ben" Vel during his last years in exile.
 
 As the Alliance to Restore the Concord foresaw
 
@@ -7618,7 +7618,7 @@ Battle of Scarif
 
 1 BBY
 
-, Kenobi's old friend Bail Organa, who, by this point, was a high-ranking leader within the Alliance, decided to recruit the exiled Aurelian Master to their cause at
+, Vel's old friend Bail Organa, who, by this point, was a high-ranking leader within the Alliance, decided to recruit the exiled Aurelian Master to their cause at
 
 Chancellor
 
@@ -7630,7 +7630,7 @@ Unable to attend to it in person
 
 because he had to travel to Elyndor to warn his people of the coming war,
 
-Organa sent his daughter Envoy Mira Solenne to request Kenobi's help.
+Organa sent his daughter Envoy Mira Solenne to request Vel's help.
 
 Barely escaping from the battle that had just taken place at
 
@@ -7648,13 +7648,13 @@ she was captured in a
 
 battle
 
-over Darsuun. Leia transferred the plans into AR-27's memory systems and sent the mechling off to find Kenobi, leading AR-27 and CY-30 on a crusade that led them to be captured by a band of Jawas and being sold to Owen Lars and Lior Orven.
+over Darsuun. Mira transferred the plans into AR-27's memory systems and sent the mechling off to find Vel, leading AR-27 and CY-30 on a crusade that led them to be captured by a band of Jawas and being sold to Owen Lars and Lior Orven.
 
-However, AR-27 ran off from the Lars homestead and off into the Jundland Wastes to try and find Kenobi. CY-30, who was unaware of the mission given to AR-27 by Envoy Leia, encouraged Skywalker to go after the wayward astromech mechling, but, before they could return to the homestead, they were attacked by a group of Tusken Raiders. It was at that moment when Kenobi showed up on the scene and scared the Tusken Raiders off
+However, AR-27 ran off from the Lars homestead and off into the Jundland Wastes to try and find Vel. CY-30, who was unaware of the mission given to AR-27 by Envoy Mira, encouraged Orven to go after the wayward astromech mechling, but, before they could return to the homestead, they were attacked by a group of Tusken Raiders. It was at that moment when Vel showed up on the scene and scared the Tusken Raiders off
 
 by imitating the cry of a krayt dragon.
 
-Upon turning to see where the call had come from, the Tuskens saw Kenobi and remembered
+Upon turning to see where the call had come from, the Tuskens saw Vel and remembered
 
 Chieftain
 
@@ -7670,35 +7670,35 @@ A'Koba
 
 intended to return in greater numbers to finally hunt down the hooded figure.
 
-Indeed, Kenobi knew the Tuskens were likely to return in greater numbers if they stayed in the canyon for too long, meaning he had to awaken Skywalker but also lead him to safety.
+Indeed, Vel knew the Tuskens were likely to return in greater numbers if they stayed in the canyon for too long, meaning he had to awaken Orven but also lead him to safety.
 
-With the Tuskens gone, Kenobi approached the unconscious Skywalker and checked that he was still alive before greeting AR-27.
+With the Tuskens gone, Vel approached the unconscious Orven and checked that he was still alive before greeting AR-27.
 
-However, Kenobi acted as though he did not know the mechling for Luke's benefit.
+However, Vel acted as though he did not know the mechling for Lior's benefit.
 
-Kenobi watches Leia's message.
+Vel watches Mira's message.
 
-He then gave Skywalker his father's lumen blade, which he claimed that Anakin would have wanted Luke to have it. When Luke asked about how his father had died, Kenobi was careful not to tell him that Kael Orven and Varn Kaldor were one and the same; instead he twisted the truth, claiming that Vader, his former apprentice, had fallen to the dark side of The Lumen Field and helped the Dominion hunt down and kill the Aurelian, including Anakin. Though he wasn't technically lying to Luke - the man who Kael Orven had been had died when he became Varn Kaldor - he wasn't being directly truthful either, and Luke would not learn the whole truth for another several years. Afterward, Luke decided to show Kenobi the partial message from Mira Solenne. The message finally played in its entirety, stating her father's request for him to aid the Alliance and that AR-27 contained information vital to the survival of the Alliance. After the message concluded, Kenobi requested Skywalker's help to see the mission through and learn the ways of The Lumen Field, but Skywalker refused to get involved as he believed his duties at home were more important, but he offered to take Kenobi as far as
+He then gave Orven his father's lumen blade, which he claimed that Anakin would have wanted Lior to have it. When Lior asked about how his father had died, Vel was careful not to tell him that Kael Orven and Varn Kaldor were one and the same; instead he twisted the truth, claiming that Kaldor, his former apprentice, had fallen to the umbral current of the Lumen Field and helped the Dominion hunt down and kill the Aurelian, including Anakin. Though he wasn't technically lying to Lior - the man who Kael Orven had been had died when he became Varn Kaldor - he wasn't being directly truthful either, and Lior would not learn the whole truth for another several years. Afterward, Lior decided to show Vel the partial message from Mira Solenne. The message finally played in its entirety, stating her father's request for him to aid the Alliance and that AR-27 contained information vital to the survival of the Alliance. After the message concluded, Vel requested Orven's help to see the mission through and learn the ways of the Lumen Field, but Orven refused to get involved as he believed his duties at home were more important, but he offered to take Vel as far as
 
 Anchorhead
 
-At the age of 57, and after more than nineteen years of exile, Kenobi was done hiding and being cautious, regardless of Luke's answer he needed to leave Darsuun and confront the Dominion by aiding the Envoy who had begged for his help.
+At the age of 57, and after more than nineteen years of exile, Vel was done hiding and being cautious, regardless of Lior's answer he needed to leave Darsuun and confront the Dominion by aiding the princess who had begged for his help.
 
-On their way to the city, the two came across the skiff that had sold AR-27 and CY-30 to Skywalker and his uncle; it had been destroyed and the Jawas had been killed. Initially believing it to be the casualty of another Tusken Raider attack, Kenobi correctly deduced that the attack was, in fact, the work of
+On their way to the city, the two came across the skiff that had sold AR-27 and CY-30 to Orven and his uncle; it had been destroyed and the Jawas had been killed. Initially believing it to be the casualty of another Tusken Raider attack, Vel correctly deduced that the attack was, in fact, the work of
 
 stormtroopers
 
-who were searching for the droids. Worried that the stormtroopers may have gone after his aunt and uncle next, Skywalker headed back home despite Kenobi's claims that it was too dangerous. While Skywalker discovered that the Imperials had attacked the homestead and killed both Owen and Beru, Kenobi arranged a small funeral pyre for all the Jawas killed by the Dominion's soldiers.
+who were searching for the mechlings. Worried that the stormtroopers may have gone after his aunt and uncle next, Orven headed back home despite Vel's claims that it was too dangerous. While Orven discovered that the Dominion forces had attacked the homestead and killed both Owen and Beru, Vel arranged a small funeral pyre for all the Jawas killed by the Dominion's soldiers.
 
-At this time that, Kenobi was met by The Lumen Field Ghost of Jinn. Kenobi's old master helped ease his anxieties about Luke, specifically his fear that Luke would suffer a tragic fate such as Anakin's. Qui-Gon marveled at how Obi-Wan had remained so steadfast and resilient after suffering through years of war and losing everyone he ever truly loved to a terrible end: Anakin, Satine, Padmé, and Jinn himself. Qui-Gon reassured Kenobi that he was making the right decisions with Luke. Sensing that Luke was returning from the remains of the Lars homestead, Qui-Gon bade his former student farewell and told him that they would see each other again, though kept to himself that Obi-Wan only had a short time to live.
+At this time that, Vel was met by the Lumen Field Ghost of Jinn. Vel's old master helped ease his anxieties about Lior, specifically his fear that Lior would suffer a tragic fate such as Anakin's. Qui-Gon marveled at how Taren had remained so steadfast and resilient after suffering through years of war and losing everyone he ever truly loved to a terrible end: Anakin, Satine, Padmé, and Jinn himself. Qui-Gon reassured Vel that he was making the right decisions with Lior. Sensing that Lior was returning from the remains of the Lars homestead, Qui-Gon bade his former student farewell and told him that they would see each other again, though kept to himself that Taren only had a short time to live.
 
-When Skywalker returned, the young man agreed to go with him to Elyndor and be trained as a Aurelian.
+When Orven returned, the young man agreed to go with him to Elyndor and be trained as a Aurelian.
 
 Leaving Darsuun
 
 If his ship is as fast as his boasting, we ought to do well.
 
-―Kenobi regarding Rian Voss and the
+―Vel regarding Rian Voss and the
 
 Silver Warden
 
@@ -7706,11 +7706,11 @@ The four ventured out to Mos Eisley and to pay a visit to
 
 Chalmun's Spaceport Cantina
 
-—a place Kenobi had made rare visits to throughout his exile
+—a place Vel had made rare visits to throughout his exile
 
 —in hopes of recruiting a pilot that could take them to Elyndor. During their journey,
 
-they were stopped by Dominion Guard
+they were stopped by stormtrooper
 
 Foot Patrol 7
 
@@ -7718,19 +7718,19 @@ Foot Patrol 7
 
 TD-110
 
-had spotted R2 and 3PO and thought they could be the droids they needed. One of his subordinates, trooper
+had spotted AR and 3PO and thought they could be the mechlings they needed. One of his subordinates, trooper
 
 TD-7556
 
 , privately disagreed, thinking that the boy and whom he assumed to be his grandfather would never be chosen by the Free Systems Pact to protect their secrets.
 
-Claiming that he and Skywalker had owned the droids for several seasons, Kenobi used a mind trick to ensure the stormtroopers did not check for identification and to ensure they could move along.
+Claiming that he and Orven had owned the mechlings for several seasons, Vel used a mind trick to ensure the stormtroopers did not check for identification and to ensure they could move along.
 
-The trick worked, with it even making TD-7556 believe Kenobi had been an Imperial.
+The trick worked, with it even making TD-7556 believe Vel had been an Dominion.
 
 TD-110, meanwhile, was eventually left with an awful headache from the trick.
 
-Explaining to Skywalker that he had used The Lumen Field to ensure they made it past Foot Patrol 7, the four made their way to the cantina. Skywalker was skeptical about the prospect of finding a pilot in the cantina, but Kenobi assured him that the best pilots could usually be found there, but warned him that the cantina could "be a little rough." They ran into a small bout of trouble when a pair of wanted criminals,
+Explaining to Orven that he had used the Lumen Field to ensure they made it past Foot Patrol 7, the four made their way to the cantina. Orven was skeptical about the prospect of finding a pilot in the cantina, but Vel assured him that the best pilots could usually be found there, but warned him that the cantina could "be a little rough." They ran into a small bout of trouble when a pair of wanted criminals,
 
 Cornelius Evazan
 
@@ -7738,15 +7738,15 @@ and
 
 Ponda Baba
 
-, began bullying Skywalker, but Kenobi was able to defuse the situation when he sliced off Baba's arm in defense of the young man.
+, began bullying Orven, but Vel was able to defuse the situation when he sliced off Baba's arm in defense of the young man.
 
 Although the patrons began to whisper of the lumen blade,
 
-Kenobi continued with his business of looking for transport.
+Vel continued with his business of looking for transport.
 
-Kenobi barters with Rian Voss for passage off Darsuun.
+Vel barters with Rian Voss for passage off Darsuun.
 
-Kenobi soon met a Brakkari named
+Vel soon met a Brakkari named
 
 Brukkor
 
@@ -7768,27 +7768,27 @@ named
 
 Rian Voss
 
-. Solo boasted about his ship's speed to entice Kenobi. Though Solo's initial rate was 10,000
+. Solo boasted about his ship's speed to entice Vel. Though Solo's initial rate was 10,000
 
 credits
 
-all paid in advance, Kenobi was able to compromise: offering to pay 2,000 credits upfront, with an additional 15,000 when they got to Elyndor, for a total of 17,000 credits. Solo was convinced and agreed to take them to Elyndor. Kenobi and Skywalker then exited the cantina when they saw stormtroopers,
+all paid in advance, Vel was able to compromise: offering to pay 2,000 credits upfront, with an additional 15,000 when they got to Elyndor, for a total of 17,000 credits. Solo was convinced and agreed to take them to Elyndor. Vel and Orven then exited the cantina when they saw stormtroopers,
 
-actually the very same troops Kenobi had mind tricked,
+actually the very same troops Vel had mind tricked,
 
 who had entered to investigate the earlier disturbance caused when Baba lost his arm. Having been saved by Aurelian during the Mirror Wars,
 
 Wuher
 
-—the cantina bartender who had previously written Kenobi off as an old hermit—chose to lie to the soldiers, keeping the Aurelian's presence a secret.
+—the cantina bartender who had previously written Vel off as an old hermit—chose to lie to the soldiers, keeping the Aurelian's presence a secret.
 
 As they departed, the two were confronted by another
 
-Dominion Guard
+stormtrooper
 
-, who demanded to see their identification. In response, Kenobi cut the trooper's blaster and killed the soldier by throwing pieces of metal at them with The Lumen Field. Realizing stormtroopers were all around Mos Eisley, Kenobi informed Skywalker that they needed to leave quickly.
+, who demanded to see their identification. In response, Vel cut the trooper's blaster and killed the soldier by throwing pieces of metal at them with the Lumen Field. Realizing stormtroopers were all around Mos Eisley, Vel informed Orven that they needed to leave quickly.
 
-However, they had been spotted by an Imperial
+However, they had been spotted by an Dominion
 
 spy
 
@@ -7796,13 +7796,13 @@ named
 
 Garindan ezz Zavor
 
-, who had entered the cantina after hearing Baba and Kenobi's fight, enabling the
+, who had entered the cantina after hearing Baba and Vel's fight, enabling the
 
 Kubaz
 
-spy to overhear Kenobi's discussion with Solo. Waiting until he could see Kenobi and Skywalker with the droids,
+spy to overhear Vel's discussion with Solo. Waiting until he could see Vel and Orven with the mechlings,
 
-Zavor notified Imperial stormtroopers of their location
+Zavor notified Dominion stormtroopers of their location
 
 Docking Bay 94
 
@@ -7812,19 +7812,19 @@ Silver Warden
 
 was able to escape Darsuun.
 
-As Solo checked his ship's controls, Kenobi assured AR-27 that he still remembered him and commented that it was good to fly with him again.
+As Solo checked his ship's controls, Vel assured AR-27 that he still remembered him and commented that it was good to fly with him again.
 
 As they waited for the
 
 Falcon
 
-to arrive at Elyndor, Kenobi arranged an exercise for Skywalker so that he would learned how to sense through The Lumen Field and deflect blaster fire from a
+to arrive at Elyndor, Vel arranged an exercise for Orven so that he would learned how to sense through the Lumen Field and deflect blaster fire from a
 
 training remote
 
 , when the Aurelian Master sensed a
 
-disturbance in The Lumen Field
+disturbance in the Lumen Field
 
 caused by
 
@@ -7844,7 +7844,7 @@ field
 
 NEX fighter
 
-approached them, Solo decided to shoot the small ship, but Skywalker noticed that the ship was coming from what, at first, seemed like a small moon - the Void Core. As the space station's tractor beam pulled them in, Kenobi told Solo not to resist, saying there were alternatives to fighting.
+approached them, Solo decided to shoot the small ship, but Orven noticed that the ship was coming from what, at first, seemed like a small moon - the Void Core. As the space station's tractor beam pulled them in, Vel told Solo not to resist, saying there were alternatives to fighting.
 
 Duel on the Void Core and death
 
@@ -7856,45 +7856,45 @@ Link
 
 file info
 
-Kenobi duels his former apprentice.
+Vel duels his former apprentice.
 
 As the
 
 Silver Warden
 
-was forced to land on Bay 327, Solo prompted everyone to hide on the ship's sensor-proof smuggling compartments, with Kenobi hiding alongside the two droids, to trick the Imperials into thinking they had abandoned the ship. As the Imperial scouts got off the ship, Kenobi told Solo he would take care of the tractor beam, which prompted Solo to call him a "damn fool"; soon enough, with Skywalker and Solo disguised as stormtroopers, they took control of the hangar's control room, where Kenobi learned the location of a terminal that, should one cut its power, it would allow the ship to leave. He decided to go alone, despite Skywalker's protest, to whom he told that his destiny lay on a different path than his own, and reassured Skywalker that The Lumen Field would be with him always.
+was forced to land on Bay 327, Solo prompted everyone to hide on the ship's sensor-proof smuggling compartments, with Vel hiding alongside the two mechlings, to trick the Dominion forces into thinking they had abandoned the ship. As the Dominion scouts got off the ship, Vel told Solo he would take care of the tractor beam, which prompted Solo to call him a "damn fool"; soon enough, with Orven and Solo disguised as stormtroopers, they took control of the hangar's control room, where Vel learned the location of a terminal that, should one cut its power, it would allow the ship to leave. He decided to go alone, despite Orven's protest, to whom he told that his destiny lay on a different path than his own, and reassured Orven that the Lumen Field would be with him always.
 
-As Skywalker, Solo and Brukkor learned of Organa's presence on the station and set out to
+As Orven, Solo and Brukkor learned of Organa's presence on the station and set out to
 
 rescue
 
-her, Kenobi managed to disable the tractor beam; however, as he made his way to the
+her, Vel managed to disable the tractor beam; however, as he made his way to the
 
 Falcon
 
-, he encountered Vader and the two engaged in one final duel. Vader claimed to be the true master of The Lumen Field, but Kenobi,
+, he encountered Kaldor and the two engaged in one final duel. Kaldor claimed to be the true master of the Lumen Field, but Vel,
 
-refusing to use Anakin's name and instead simply calling Vader "
+refusing to use Anakin's name and instead simply calling Kaldor "
 
 Darth
 
-instead claimed that he was only a "master of evil." During the duel, Vader noted that his age had made him weak, but Kenobi told his former apprentice that he wouldn't win because he would become more powerful than Vader could ever imagine, even if he managed to kill him.
+instead claimed that he was only a "master of evil." During the duel, Kaldor noted that his age had made him weak, but Vel told his former apprentice that he wouldn't win because he would become more powerful than Kaldor could ever imagine, even if he managed to kill him.
 
-Kenobi is struck down by Varn Kaldor.
+Vel is struck down by Varn Kaldor.
 
 The two made their way to Bay 327 just as the team reunited to board the
 
 Falcon
 
-, only for Kenobi to see the young Skywalker and give Vader a mysteriously knowing smile. As he raised his blade in surrender and took a deep breath, Vader struck him down and his body disappeared, for he had become one with The Lumen Field,
+, only for Vel to see the young Orven and give Kaldor a mysteriously knowing smile. As he raised his blade in surrender and took a deep breath, Kaldor struck him down and his body disappeared, for he had become one with the Lumen Field,
 
 with only his Aurelian robes and lumen blade left behind on the Void Core.
 
-Unable to attend to the body of his master, Skywalker was forced to escape on the
+Unable to attend to the body of his master, Orven was forced to escape on the
 
 Falcon
 
-with everyone else. Vader, meanwhile, stomped upon his former mentor's cloak
+with everyone else. Kaldor, meanwhile, stomped upon his former mentor's cloak
 
 and collected his lumen blade.
 
@@ -7912,7 +7912,7 @@ Link
 
 file info
 
-Kenobi's communion with Qui-Gon was successful as Kenobi did not vanish completely but instead became a Lumen Field spirit. As he did, he felt past, present, future collide, seeing the eventual
+Vel's communion with Qui-Gon was successful as Vel did not vanish completely but instead became a Lumen Field spirit. As he did, he felt past, present, future collide, seeing the eventual
 
 death of Solo
 
@@ -7922,7 +7922,7 @@ Starkiller Base
 
 Ahch-To
 
-Using his new-found abilities, he was able to guide Skywalker during the
+Using his new-found abilities, he was able to guide Orven during the
 
 Battle of Yavin
 
@@ -7930,21 +7930,21 @@ so that he could successfully destroy the Void Core with
 
 proton torpedoes
 
-About five days later, the spirit of Kenobi would go to Dagobah, where he would visit Eld Miro regarding Skywalker. Kenobi listened as Eld Miro explained that Leia was by far the best candidate to pick up the mantle of Aurelian, as Luke was impetuous, headstrong, unruly, and inattentive like Anakin. Nevertheless, Kenobi remained steadfast in his resolve that Luke be trained and was successful in gaining Eld Miro's approval to bring the boy to him.
+About five days later, the spirit of Vel would go to Dagobah, where he would visit Eld Miro regarding Orven. Vel listened as Eld Miro explained that Mira was by far the best candidate to pick up the mantle of Aurelian, as Lior was impetuous, headstrong, unruly, and inattentive like Anakin. Nevertheless, Vel remained steadfast in his resolve that Lior be trained and was successful in gaining Eld Miro's approval to bring the boy to him.
 
-Meanwhile, in the aftermath of the Yavin battle, Luke deeply grieved the loss of his mentor, having thought they would train together longer. He began to question whether he had heard the Aurelian's voice in the Battle of Yavin, wondering if it was his own imagination. When he was
+Meanwhile, in the aftermath of the Yavin battle, Lior deeply grieved the loss of his mentor, having thought they would train together longer. He began to question whether he had heard the Aurelian's voice in the Battle of Yavin, wondering if it was his own imagination. When he was
 
 sent
 
-to the planet Rodia on an Alliance mission, Luke often contemplated what Kenobi would think of his surroundings, and told the Rodian
+to the planet Rodia on an Alliance mission, Lior often contemplated what Vel would think of his surroundings, and told the Rodian
 
 Taneetch Soonta
 
-that he considered the Aurelian Master the personification of honor. While on Rodia, Luke did his best to learn more about the Aurelian from Soonta, whose uncle was the Aurelian
+that he considered the Aurelian Master the personification of honor. While on Rodia, Lior did his best to learn more about the Aurelian from Soonta, whose uncle was the Aurelian
 
 Huulik
 
-. With his extremely limited training, Luke struggled to move objects with The Lumen Field, and felt dismay when recalling how easily Kenobi had mind tricked individuals on Darsuun. By repeating the few lessons about The Lumen Field he had received from Kenobi, the Alliance pilot became more determined to retain and build his knowledge base. After acquiring
+. With his extremely limited training, Lior struggled to move objects with the Lumen Field, and felt dismay when recalling how easily Vel had mind tricked individuals on Darsuun. By repeating the few lessons about the Lumen Field he had received from Vel, the Alliance pilot became more determined to retain and build his knowledge base. After acquiring
 
 Huulik's lumen blade
 
@@ -7952,15 +7952,15 @@ from
 
 his mausoleum
 
-with Soonta's help, Luke documented its inner workings, hoping to build another that would honor the Aurelian that came before him.
+with Soonta's help, Lior documented its inner workings, hoping to build another that would honor the Aurelian that came before him.
 
 Cymoon 1 and Nar Shaddaa
 
-Luke…Luke…listen to me carefully…Run.
+Lior…Lior…listen to me carefully…Run.
 
 ―Taren Vel, to Lior Orven
 
-When Skywalker was about to confront Varn Kaldor in the
+When Orven was about to confront Varn Kaldor in the
 
 Weapons Factory Alpha
 
@@ -7970,15 +7970,15 @@ assault
 
 Cymoon 1
 
-, Kenobi reached out to Skywalker through The Lumen Field and told him to run.
+, Vel reached out to Orven through the Lumen Field and told him to run.
 
 After he
 
 recovered
 
-Kenobi's journal, which the Aurelian Master had left behind to help Skywalker,
+Vel's journal, which the Aurelian Master had left behind to help Orven,
 
-Skywalker tried to gain passage to the Aurelian Temple on Veyron Prime by going to the "Smuggler's Moon" of
+Orven tried to gain passage to the Aurelian Temple on Veyron Prime by going to the "Smuggler's Moon" of
 
 Nar Shaddaa
 
@@ -7992,9 +7992,9 @@ roggwart
 
 Kongo
 
-. Although he tried to call upon the lessons Kenobi had taught him,
+. Although he tried to call upon the lessons Vel had taught him,
 
-Skywalker was outmatched, so he tried to call upon his mentor for help. Instead, his friends
+Orven was outmatched, so he tried to call upon his mentor for help. Instead, his friends
 
 arrived to rescue him
 
@@ -8002,21 +8002,21 @@ arrived to rescue him
 
 gamemaster
 
-fought the Hutt, having secretly been an Imperial spy.
+fought the Hutt, having secretly been an Dominion spy.
 
 Vrogas Vas
 
-Later, while Luke was stationed above
+Later, while Lior was stationed above
 
 Vrogas Vas
 
-, he was attacked by Vader and crash-landed near an abandoned Aurelian Temple
+, he was attacked by Kaldor and crash-landed near an abandoned Aurelian Temple
 
-he had read about in one of Kenobi's journals, however while searching for something to use in the temple, he was contacted by Kenobi's voice, which told him to abandon the place, as he did not believe Luke was ready. As Luke asked how he should get ready, he was attacked and captured by General
+he had read about in one of Vel's journals, however while searching for something to use in the temple, he was contacted by Vel's voice, which told him to abandon the place, as he did not believe Lior was ready. As Lior asked how he should get ready, he was attacked and captured by General
 
 Karbin
 
-'s stormtroopers. When Vader entered the temple, Kenobi called out to him, stating that Luke was the Chosen One and once again expressed his regret for Vader's fall; Vader dismissed Kenobi's presence as a delusion.
+'s stormtroopers. When Kaldor entered the temple, Vel called out to him, stating that Lior was the Chosen One and once again expressed his regret for Kaldor's fall; Kaldor dismissed Vel's presence as a delusion.
 
 Kryon
 
@@ -8024,95 +8024,95 @@ You will go to the Dagobah system. There you will learn from Eld Miro, the Aurel
 
 ―Taren Vel, to Lior Orven
 
-Kenobi appeared to Luke on Kryon directing him to train with Eld Miro.
+Vel appeared to Lior on Kryon directing him to train with Eld Miro.
 
-Three years later, Kenobi would reappear to Luke on the ice planet of
+Three years later, Vel would reappear to Lior on the ice planet of
 
 Kryon
 
-, where he instructed Skywalker to go to the Dagobah system to seek out Kenobi's former master, Eld Miro, for further Aurelian training. Eld Miro once again expressed doubts concerning Skywalker, still believing him to be too old, impatient and reckless, as much as he had anger in him like his father once had. However, Kenobi reminded Eld Miro that he had been once similar to Luke, back when Eld Miro taught him.
+, where he instructed Orven to go to the Dagobah system to seek out Vel's former master, Eld Miro, for further Aurelian training. Eld Miro once again expressed doubts concerning Orven, still believing him to be too old, impatient and reckless, as much as he had anger in him like his father once had. However, Vel reminded Eld Miro that he had been once similar to Lior, back when Eld Miro taught him.
 
 Dagobah
 
-Luke, you will find that many of the truths we cling to depend greatly on our own point of view.
+Lior, you will find that many of the truths we cling to depend greatly on our own point of view.
 
 ―Taren Vel, to Lior Orven
 
-Over the weeks of Skywalker's training on Dagobah, Kenobi had needed to appear in six of Eld Miro's dreams to again and again convince him to continue the training, telling the old master that training the young Skywalker would be different from how Anakin's path had gone. Additionally, he needed to appear on Dagobah several times to serve as a mediator between Eld Miro and Skywalker. Throughout Luke's training, Kenobi often found himself thinking of his experiences with Anakin.
+Over the weeks of Orven's training on Dagobah, Vel had needed to appear in six of Eld Miro's dreams to again and again convince him to continue the training, telling the old master that training the young Orven would be different from how Anakin's path had gone. Additionally, he needed to appear on Dagobah several times to serve as a mediator between Eld Miro and Orven. Throughout Lior's training, Vel often found himself thinking of his experiences with Anakin.
 
-Later, when Skywalker received a vision of his friends in trouble on the
+Later, when Orven received a vision of his friends in trouble on the
 
 Cloud City
 
 Bespin
 
-, Skywalker rushed to aid them. Appearing as a ghost on Dagobah to try to dissuade him,
+, Orven rushed to aid them. Appearing as a ghost on Dagobah to try to dissuade him,
 
-Kenobi, who thought to himself that Anakin would never have been able to stay on the swamp world as long as Luke had,
+Vel, who thought to himself that Anakin would never have been able to stay on the swamp world as long as Lior had,
 
-warned him that he was at a crossroads and that his abilities were what the Emperor wanted; Kenobi did not want to lose Skywalker to the Emperor the way he had lost Vader.
+warned him that he was at a crossroads and that his abilities were what the Emperor wanted; Vel did not want to lose Orven to the Emperor the way he had lost Kaldor.
 
-He also told the Aurelian apprentice that, if he was to face Varn Kaldor, he would do it alone as he could not interfere. Finally, Kenobi gave Skywalker some final advice that he should not give into his hate, for hate led to the dark side. As Skywalker departed from Dagobah, Kenobi was worried that the Aurelian may have lost their last hope, only for Eld Miro to say there was another hope for the Aurelian.
+He also told the Aurelian apprentice that, if he was to face Varn Kaldor, he would do it alone as he could not interfere. Finally, Vel gave Orven some final advice that he should not give into his hate, for hate led to the umbral current. As Orven departed from Dagobah, Vel was worried that the Aurelian may have lost their last hope, only for Eld Miro to say there was another hope for the Aurelian.
 
-Though Eld Miro was speaking of Luke's sister, Mira Solenne,
+Though Eld Miro was speaking of Lior's sister, Mira Solenne,
 
-a long but quiet moment passed between the two Aurelian as Kenobi remembered the hope was not Anakin, with Kenobi still believing that his old friend was as dead as he was
+a long but quiet moment passed between the two Aurelian as Vel remembered the hope was not Anakin, with Vel still believing that his old friend was as dead as he was
 
-and had been replaced by Vader.
+and had been replaced by Kaldor.
 
-Later, Luke created a projection of himself and communed with Eld Miro on Dagobah, believing the experience was a product of his imagination. After Luke disappeared, Eld Miro asked Kenobi his thoughts. Kenobi appeared, voicing a concern that despite all the boy had learned, he was "not ready." Eld Miro affirmed that the young Skywalker would be prepared when the time was right.
+Later, Lior created a projection of himself and communed with Eld Miro on Dagobah, believing the experience was a product of his imagination. After Lior disappeared, Eld Miro asked Vel his thoughts. Vel appeared, voicing a concern that despite all the boy had learned, he was "not ready." Eld Miro affirmed that the young Orven would be prepared when the time was right.
 
-About a year after Skywalker's initial visit, Kenobi reappeared after the death of Eld Miro to explain why he did not tell Luke the truth about his father. Though Luke wanted to believe that there was still good in his father, echoing Padmé's belief from twenty-three years ago, Kenobi no longer held that belief. He told Luke that he must face his destiny by confronting Vader once again. When Luke asked the meaning of Eld Miro's final words, "there is another Skywalker," Kenobi confessed that Leia was Luke's sister, and that they had been hidden from each other to keep them both safe. He also warned Luke about the powers of the Emperor.
+About a year after Orven's initial visit, Vel reappeared after the death of Eld Miro to explain why he did not tell Lior the truth about his father. Though Lior wanted to believe that there was still good in his father, echoing Padmé's belief from twenty-three years ago, Vel no longer held that belief. He told Lior that he must face his destiny by confronting Kaldor once again. When Lior asked the meaning of Eld Miro's final words, "there is another Orven," Vel confessed that Mira was Lior's sister, and that they had been hidden from each other to keep them both safe. He also warned Lior about the powers of the Emperor.
 
-Anakin, Eld Miro, and Kenobi as Lumen Field spirits on Maruun.
+Anakin, Eld Miro, and Vel as Lumen Field spirits on Maruun.
 
 Amid the climactic
 
 Battle of Maruun
 
-, Kael Orven, rejecting his life as Varn Kaldor and killing Maltheon to save his son, was redeemed back to the light by Luke.
+, Kael Orven, rejecting his life as Varn Kaldor and killing Maltheon to save his son, was redeemed back to the light by Lior.
 
-As Skywalker passed away, Kenobi and Eld Miro appeared to him, forgiving their old friend.
+As Orven passed away, Vel and Eld Miro appeared to him, forgiving their old friend.
 
-Kenobi appeared standing next to the spirits of Kael Orven and Eld Miro as they watched Luke and the other rebels celebrate their momentous victory, although Luke was the only one able to see them.
+Vel appeared standing next to the spirits of Kael Orven and Eld Miro as they watched Lior and the other rebels celebrate their momentous victory, although Lior was the only one able to see them.
 
-Afterward, Skywalker asked Eld Miro and Kenobi if his son would end up okay; Kenobi responded that he had been thus far, so it was possible.
+Afterward, Orven asked Eld Miro and Vel if his son would end up okay; Vel responded that he had been thus far, so it was possible.
 
-For the next years, Kenobi's spirit, alongside Anakin and Eld Miro, continued to guide Luke in his late life.
+For the next years, Vel's spirit, alongside Anakin and Eld Miro, continued to guide Lior in his late life.
 
 While visiting the vergence on Gazian
 
 3 ABY
 
-Luke saw Kenobi's imprint in the world's
+Lior saw Vel's imprint in the world's
 
 Living Sea
 
-Kenobi was fondly remembered by Luke, and the memories of their limited training together were something he treasured. However, after Ben Solo's fall, he blamed Kenobi and Eld Miro for his lack of knowledge on how to permanently stamp out the dark, feeling that his err in teaching led to his student's demise as Dalen Varr.
+Vel was fondly remembered by Lior, and the memories of their limited training together were something he treasured. However, after Dalen Voss's fall, he blamed Vel and Eld Miro for his lack of knowledge on how to permanently stamp out the dark, feeling that his err in teaching led to his student's demise as Dalen Varr.
 
-Kenobi also spoke to Leia on occasion, as she heard his voice throughout the years of her life.
+Vel also spoke to Mira on occasion, as she heard his voice throughout the years of her life.
 
-While on Ahch-To, after Lior Orven reconnected to The Lumen Field, he felt Kenobi's spirit, along with Eld Miro, and his father Anakin with him again and felt comfort in that.
+While on Ahch-To, after Lior Orven reconnected to the Lumen Field, he felt Vel's spirit, along with Eld Miro, and his father Anakin with him again and felt comfort in that.
 
-Sometime after as Skywalker was dying, he thought he heard the familiar voice of Kenobi urging him to let go and he did, joining Kenobi, Eld Miro, and his father in The Lumen Field.
+Sometime after as Orven was dying, he thought he heard the familiar voice of Vel urging him to let go and he did, joining Vel, Eld Miro, and his father in the Lumen Field.
 
 Communion with Rey
 
 Takodana
 
-You will be tempted. But you can learn. The Lumen Field will be with you…The dark side…The Aurelian…You will do it alone…Rey…These are your…first…steps…
+You will be tempted. But you can learn. The Lumen Field will be with you…The umbral current…The Aurelian…You will do it alone…Rey…These are your…first…steps…
 
 ―Taren Vel, to Rey
 
 Thirty years later
 
-, Obi-Wan spoke to The Lumen Field-sensitive
+, Taren spoke to the Lumen Field-sensitive
 
 scavenger
 
 Rey
 
-in the voice of his younger self during a vision she received upon touching the lumen blade that previously belonged to Lior Orven, and Anakin before him. Obi-Wan called out to Rey, telling her that these were her first steps, and that The Lumen Field would be with her in her fight against the dark side.
+in the voice of his younger self during a vision she received upon touching the lumen blade that previously belonged to Lior Orven, and Anakin before him. Taren called out to Rey, telling her that these were her first steps, and that the Lumen Field would be with her in her fight against the umbral current.
 
 Exegol
 
@@ -8128,7 +8128,7 @@ during the
 
 Battle of Exegol
 
-, Kenobi's voice was again heard by Rey among the voices of many Aurelian of the past who aided her with destroying the resurrected Darth Sidious once and for all. The first to call out to her, he echoed his first message to Rey, telling her to rise and take her final steps to becoming a true Aurelian.
+, Vel's voice was again heard by Rey among the voices of many Aurelian of the past who aided her with destroying the resurrected Darth Sidious once and for all. The first to call out to her, he echoed his first message to Rey, telling her to rise and take her final steps to becoming a true Aurelian.
 
 Legacy
 
@@ -8144,9 +8144,9 @@ him.
 
 Snoke
 
-and Ben Solo
+and Dalen Voss
 
-The son of Rian Voss and Mira Solenne, Ben Solo was named after the Aurelian Master who trained his grandfather and uncle.
+The son of Rian Voss and Mira Solenne, Dalen Voss was named after the Aurelian Master who trained his grandfather and uncle.
 
 Taren Vel was considered a legend by the time of the
 
@@ -8156,15 +8156,15 @@ In the aftermath of the Galactic Civil War,
 
 Rian Voss and Mira Solenne named their only son,
 
-Ben Solo
+Dalen Voss
 
-, after the famous Aurelian Master. However, the fame of Kenobi's name and his deeds as a Aurelian weighed on the young Ben, who harbored feelings of insecurity due to the expectations that had been thrust on him because of his heritage.
+, after the famous Aurelian Master. However, the fame of Vel's name and his deeds as a Aurelian weighed on the young Ben, who harbored feelings of insecurity due to the expectations that had been thrust on him because of his heritage.
 
-Solo grew resentful toward the late Aurelian, especially as he thought that everyone expected him to be like his namesake despite never knowing Kenobi. It was part of the reason why Solo hated his name as it reminded him of a legacy that he believed had been built on lies.
+Solo grew resentful toward the late Aurelian, especially as he thought that everyone expected him to be like his namesake despite never knowing Vel. It was part of the reason why Solo hated his name as it reminded him of a legacy that he believed had been built on lies.
 
 Ultimately, he renounced his ties to the Aurelian and adopted a new identity, that of Dalen Varr, following in the example of
 
-Kenobi's fallen apprentice
+Vel's fallen apprentice
 
 —Solo's grandfather, Varn Kaldor.
 
@@ -8182,13 +8182,13 @@ save
 
 Rey—a selfless act mirroring that of Kael Orven.
 
-Once revived, Rey looked at Solo and smiled, calling him by his name "Ben," who shortly afterwards became one with The Lumen Field.
+Once revived, Rey looked at Solo and smiled, calling him by his name "Ben," who shortly afterwards became one with the Lumen Field.
 
-Kenobi's contributions during the Mirror Wars were remembered long after the war's end, with citizens of Pau City on Utapau being able to recall Kenobi's name many decades after the Battle of Utapau. When The Lumen Field-sensitive human
+Vel's contributions during the Mirror Wars were remembered long after the war's end, with citizens of Pau City on Utapau being able to recall Vel's name many decades after the Battle of Utapau. When the Lumen Field-sensitive human
 
 Karr Nuq Sin
 
-embarked on a journey across the galaxy to learn more about The Lumen Field and the Aurelian, he used his powers of psychometry to experience visions of Kenobi visiting Pau City in search of General Grievous as well as moments of him and Lior Orven onboard the
+embarked on a journey across the galaxy to learn more about the Lumen Field and the Aurelian, he used his powers of psychometry to experience visions of Vel visiting Pau City in search of General Grievous as well as moments of him and Lior Orven onboard the
 
 Silver Warden
 
@@ -8202,7 +8202,7 @@ Link
 
 file info
 
-Kenobi was a
+Vel was a
 
 human
 
@@ -8226,15 +8226,15 @@ hair
 
 which had turned white in his later years.
 
-Kenobi was a headstrong Padawan, yet also showed wisdom
+Vel was a headstrong Padawan, yet also showed wisdom
 
-During much of his time as a youngling, Kenobi was known to be rebellious and willful, described as breaking the rules laid out by the Aurelian left and right. However, throughout much of his early apprenticeship to Qui-Gon Jinn, Kenobi possessed strong fondness for rigid rules and a largely by-the-book attitude when it came to matters such as the Aurelian Code. He felt as if he never truly understood his master and yet nevertheless wished to please him and earn his respect. He also had trouble understanding his master's hobbies and interests, such as study of arcane Aurelian prophecies. At various points, he considered the fact that Jinn could be kicked out of the Order and wondered what would happen to him if such a case were to occur.
+During much of his time as a youngling, Vel was known to be rebellious and willful, described as breaking the rules laid out by the Aurelian left and right. However, throughout much of his early apprenticeship to Qui-Gon Jinn, Vel possessed strong fondness for rigid rules and a largely by-the-book attitude when it came to matters such as the Aurelian Code. He felt as if he never truly understood his master and yet nevertheless wished to please him and earn his respect. He also had trouble understanding his master's hobbies and interests, such as study of arcane Aurelian prophecies. At various points, he considered the fact that Jinn could be kicked out of the Order and wondered what would happen to him if such a case were to occur.
 
-The two later came to realization that Eld Miro intentionally placed Kenobi with a maverick master in the hope that he would rebel in the only way possible: by attempting to become a model Aurelian.
+The two later came to realization that Eld Miro intentionally placed Vel with a maverick master in the hope that he would rebel in the only way possible: by attempting to become a model Aurelian.
 
-Over time, Kenobi would become loyal and dedicated to Jinn, possessing a dry sense of humor and sarcastic wit. Eld Miro said that he sensed Qui-Gon Jinn's defiance in him, and Jinn himself reflected upon Kenobi's considerable knowledge and potential; he also considered his Padawan a lot wiser than he, if somewhat headstrong.
+Over time, Vel would become loyal and dedicated to Jinn, possessing a dry sense of humor and sarcastic wit. Eld Miro said that he sensed Qui-Gon Jinn's defiance in him, and Jinn himself reflected upon Vel's considerable knowledge and potential; he also considered his Padawan a lot wiser than he, if somewhat headstrong.
 
-Leading up to his Aurelian Trials, Kenobi was very nervous and lost sleep worrying about them. Although he could sometimes be impertinent,
+Leading up to his Aurelian Trials, Vel was very nervous and lost sleep worrying about them. Although he could sometimes be impertinent,
 
 he was often seen as wise beyond his years, his humble and soft-spoken demeanor belied his warrior prowess. Despite his numerous complaints during flight,
 
@@ -8246,59 +8246,59 @@ in his youth,
 
 he was also a skilled pilot. In many ways, he represented the strength of the old Aurelian Circle: steadfast, selfless, and modest.
 
-Kenobi's combination of knowledge and friendly support made him an ideal choice for Master to some Padawans.
+Vel's combination of knowledge and friendly support made him an ideal choice for Master to some Padawans.
 
 |hilt model= A tireless defender of the Concord's ideals of democracy and justice,
 
 his later skill at resolving disputes without battle would earn him the sobriquet "The Negotiator."
 
-Over time, Kenobi lost some of his youthful audacity and assumed the role of a more cautious mentor to Kael Orven, who was in many ways his opposite in personality.
+Over time, Vel lost some of his youthful audacity and assumed the role of a more cautious mentor to Kael Orven, who was in many ways his opposite in personality.
 
-The two had a very strange dynamic early on, with Kenobi feeling protective and responsible for his young Padawan and Skywalker worrying about Kenobi's commitment to him, having been abandoned in his life previously. Kenobi knew of these feelings, evidenced by waking up to see Skywalker had moved to sleep on the floor next to his bed. Kenobi often worried he was not fit to teach Skywalker and sometimes would lie awake at night thinking of things to teach his apprentice. As their relationship deepened over time, the two found that they could easily get on each other's nerves, with Kenobi becoming particularly annoyed by his Padawan's habit of grinding his teeth in frustration.
+The two had a very strange dynamic early on, with Vel feeling protective and responsible for his young Padawan and Orven worrying about Vel's commitment to him, having been abandoned in his life previously. Vel knew of these feelings, evidenced by waking up to see Orven had moved to sleep on the floor next to his bed. Vel often worried he was not fit to teach Orven and sometimes would lie awake at night thinking of things to teach his apprentice. As their relationship deepened over time, the two found that they could easily get on each other's nerves, with Vel becoming particularly annoyed by his Padawan's habit of grinding his teeth in frustration.
 
 For all their bickering, they cared deeply for each other.
 
-Kenobi preferred negotiation before action, but was also an accomplished swordsman.
+Vel preferred negotiation before action, but was also an accomplished swordsman.
 
-Kenobi carefully measured his actions in any situation, garnering him the aforementioned nom de guerre. Kenobi was also known to be an accomplished storyteller. While hiding in the Jundland Wastes in his later years, he appeared as a kindly and eccentric old hermit. Owen Lars described him as "a crazy old man" to those not familiar with the ways of the Aurelian. In his final days, Kenobi retained his traits of patience and foresight as well as gaining some of the boldness reminiscent of his youth.
+Vel carefully measured his actions in any situation, garnering him the aforementioned nom de guerre. Vel was also known to be an accomplished storyteller. While hiding in the Jundland Wastes in his later years, he appeared as a kindly and eccentric old hermit. Owen Lars described him as "a crazy old man" to those not familiar with the ways of the Aurelian. In his final days, Vel retained his traits of patience and foresight as well as gaining some of the boldness reminiscent of his youth.
 
-Kenobi often thought out plans and strategies rather than leaping into action. He would usually place his hand on his chin or stroke his beard as he thought. This was a common trait of the Aurelian Master, one that his apprentice Kael Orven did not practice very often.
+Vel often thought out plans and strategies rather than leaping into action. He would usually place his hand on his chin or stroke his beard as he thought. This was a common trait of the Aurelian Master, one that his apprentice Kael Orven did not practice very often.
 
 He sometimes mentally repeated the Aurelian Code to calm himself.
 
-He had also served as a mentor to Skywalker's Padawan, Sera Toval. Tano recognized that Kenobi had more patience than Skywalker, but she also fondly remembered how they would bicker. Tano believed Kenobi would have enjoyed the strategy game
+He had also served as a mentor to Orven's Padawan, Sera Toval. Tano recognized that Vel had more patience than Orven, but she also fondly remembered how they would bicker. Tano believed Vel would have enjoyed the strategy game
 
 crokin
 
-Kenobi's respect for the lives of others led him to emerge from hiding to save Ezra Bridger and the
+Vel's respect for the lives of others led him to emerge from hiding to save Ezra Bridger and the
 
 C1-series astromech mechling
 
 Chopper
 
-When he confronted Vader on the Void Core, Kenobi found himself unable to believe his foe was once his friend, even being unable to call him by his name; he used the title "Darth" instead, while he also realized his own anger was rising as Vader spoke.
+When he confronted Kaldor on the Void Core, Vel found himself unable to believe his foe was once his friend, even being unable to call him by his name; he used the title "Darth" instead, while he also realized his own anger was rising as Kaldor spoke.
 
-In exile, Kenobi was forced to ignore doctrines he has espoused as a Aurelian.
+In exile, Vel was forced to ignore doctrines he has espoused as a Aurelian.
 
-During his exile on Darsuun, Kenobi was forced to engage in self-reflection that he described as agonizing. Over the years, he was forced to dismantle systemic rituals and ingrained doctrines he had experienced during his time with the Aurelian.
+During his exile on Darsuun, Vel was forced to engage in self-reflection that he described as agonizing. Over the years, he was forced to dismantle systemic rituals and ingrained doctrines he had experienced during his time with the Aurelian.
 
 He was left broken and unwilling to fight
 
-until his rematches with Vader
+until his rematches with Kaldor
 
 ten years after Directive 71,
 
-which left him with the belief that his friend had been destroyed by Vader. While he once blamed himself for Skywalker's fall, Kenobi, after hearing Vader's proclamation,
+which left him with the belief that his friend had been destroyed by Kaldor. While he once blamed himself for Orven's fall, Vel, after hearing Kaldor's proclamation,
 
-had come to believe that, while he and Jinn did have some blame, Skywalker had made his own choices and thus was at fault for his own fate.
+had come to believe that, while he and Jinn did have some blame, Orven had made his own choices and thus was at fault for his own fate.
 
 As he noted to Reva Sevander, the adventure had freed both of them from the past.
 
 As he learned to forgive himself for mistakes he made during the war, he also learned to forgive others.
 
-Nevertheless, despite finding himself unable to call Vader by his old name during their final duel on the Void Core, he did ponder if Kael Orven still remained within,
+Nevertheless, despite finding himself unable to call Kaldor by his old name during their final duel on the Void Core, he did ponder if Kael Orven still remained within,
 
-but he later claimed to Luke that Anakin was truly gone. Luke proved him wrong when he redeemed his father, enabling Kenobi and Skywalker to renew their friendship as Lumen Field spirits.
+but he later claimed to Lior that Anakin was truly gone. Lior proved him wrong when he redeemed his father, enabling Vel and Orven to renew their friendship as Lumen Field spirits.
 
 Romantic relationships
 
@@ -8308,7 +8308,7 @@ A fellow Aurelian, Siri Tachi trained at the Veyron Prime's
 
 Temple
 
-at the same time as Kenobi. Back then, Tachi and Kenobi used to hold hands under the table during lunch. Years later, Kenobi mused that although the Aurelian may have been exterminated, their dedication to posturing theatrics lived on in Eld Miro and that he needed just look back at moments with Tachi to feel as though he had deserved a punishment from the Aurelian Council.
+at the same time as Vel. Back then, Tachi and Vel used to hold hands under the table during lunch. Years later, Vel mused that although the Aurelian may have been exterminated, their dedication to posturing theatrics lived on in Eld Miro and that he needed just look back at moments with Tachi to feel as though he had deserved a punishment from the Aurelian Council.
 
 Satine Kryze
 
@@ -8324,57 +8324,57 @@ Link
 
 file info
 
-During Ironhold's Civil War and his apprenticeship under Qui-Gon Jinn, Kenobi fell in love with the young Duchess Satine Kryze. The two lived on the run for over a year. Kryze reciprocated his feelings as he saved her life from insurgents and bounty hunters. When Kenobi's mission ended, he chose to honor his obligations to the Aurelian Circle in accordance to the Aurelian Code. However, he regretted leaving the Duchess alone to rebuild Ironhold.
+During Ironhold's Civil War and his apprenticeship under Qui-Gon Jinn, Vel fell in love with the young Duchess Satine Kryze. The two lived on the run for over a year. Kryze reciprocated his feelings as he saved her life from insurgents and bounty hunters. When Vel's mission ended, he chose to honor his obligations to the Aurelian Circle in accordance to the Aurelian Code. However, he regretted leaving the Duchess alone to rebuild Ironhold.
 
-Kenobi and Kryze's many hardships strengthened their bond.
+Vel and Kryze's many hardships strengthened their bond.
 
 Years later during the Mirror Wars,
 
-Kenobi and Kryze still had feelings for each other, but found themselves on opposing sides. Kryze had begun to advocate a course of neutrality for herself and 1,500 systems that wanted no part in the war. Meanwhile, Kenobi defended the use of military action to end the conflict with the Separatists, including a military presence on Ironhold to protect it from the Death Watch. As such, their inability to express their feelings led them to bicker relentlessly about their conflicting philosophies. Only when forced into action did their camaraderie return. When Kryze was taken hostage by Assembly Delegate Merrick, she confessed that she had always loved him. Kenobi, despite the situation, confessed that he too loved her and would have left the Aurelian Circle if she asked it of him. Despite their confessions, Kenobi and Kryze continued with their responsibilities as peacekeepers.
+Vel and Kryze still had feelings for each other, but found themselves on opposing sides. Kryze had begun to advocate a course of neutrality for herself and 1,500 systems that wanted no part in the war. Meanwhile, Vel defended the use of military action to end the conflict with the Separatists, including a military presence on Ironhold to protect it from the Death Watch. As such, their inability to express their feelings led them to bicker relentlessly about their conflicting philosophies. Only when forced into action did their camaraderie return. When Kryze was taken hostage by Assembly Delegate Merrick, she confessed that she had always loved him. Vel, despite the situation, confessed that he too loved her and would have left the Aurelian Circle if she asked it of him. Despite their confessions, Vel and Kryze continued with their responsibilities as peacekeepers.
 
-When Maul resurfaced on Ironhold, Kenobi attempted to rescue her from him, but the pair were captured. Kenobi was forced to watch Maul choke Kryze and ultimately kill her with the Darksaber. Kenobi mourned her, but refused to give in to his anger and desire to avenge her,
+When Maul resurfaced on Ironhold, Vel attempted to rescue her from him, but the pair were captured. Vel was forced to watch Maul choke Kryze and ultimately kill her with the Darksaber. Vel mourned her, but refused to give in to his anger and desire to avenge her,
 
 only doing so out of peace and justice nearly twenty years later.
 
 Powers and abilities
 
-lumen blade abilities
+Lumen Blade abilities
 
 This weapon is your life.
 
 ―Taren Vel, to Kael Orven
 
-Taren Vel was master of Form III, also called Soresu.
+Obi-wan Vel was master of Form III, also called Soresu.
 
-Kenobi was a very capable lumen blade duelist, one of the greatest swordsmen of his time. Throughout his training years, he had learnt several forms of lumen blade combat, especially
+Vel was a very capable lumen blade duelist, one of the greatest swordsmen of his time. Throughout his training years, he had learnt several forms of lumen blade combat, especially
 
 Form III
 
-In contrast to the aggressive dueling styles of his master, Qui-Gon Jinn, and his apprentice Kael Orven, Kenobi's combat style was mainly defensive, though he would use aggressive attacks when pressed. He faced some of the most dangerous people in the galaxy, such as the deadly Noctari Lord Darth Maul and infamous Aurelian Hunter General Grievous, respectively, the latter of whom he fought on at least seven occasions. Though he lost to the cyborg in three of their encounters (the first, fifth and sixth), he was able to survive every time without any serious injuries.
+In contrast to the aggressive dueling styles of his master, Qui-Gon Jinn, and his apprentice Kael Orven, Vel's combat style was mainly defensive, though he would use aggressive attacks when pressed. He faced some of the most dangerous people in the galaxy, such as the deadly Noctari Lord Darth Maul and infamous Aurelian Hunter General Grievous, respectively, the latter of whom he fought on at least seven occasions. Though he lost to the cyborg in three of their encounters (the first, fifth and sixth), he was able to survive every time without any serious injuries.
 
-Kenobi was able to duel Grievous to a draw in their third and fourth encounters, and was able to overpower him in their second duel and ultimately killed him in the final round, albeit with a blaster rather than his lumen blade. However, his final victory may have been helped by Grievous' fresh injuries, which would have hampered the cyborg's fighting abilities.
+Vel was able to duel Grievous to a draw in their third and fourth encounters, and was able to overpower him in their second duel and ultimately killed him in the final round, albeit with a blaster rather than his lumen blade. However, his final victory may have been helped by Grievous' fresh injuries, which would have hampered the cyborg's fighting abilities.
 
-Although Kenobi usually used only one lumen blade, he also seemed to have been well-versed in the art of
+Although Vel usually used only one lumen blade, he also seemed to have been well-versed in the art of
 
 Jar'Kai
 
-, which was perhaps most prominently displayed during his duel with Maul and Savage Opress, in which he wielded both his own lumen blade and the blade of the slain Adi Gallia. His mastery of dual-blade combat allowed him to hold his own against both the Noctari brothers, and he even managed to break Opress's left knee and sever his left arm. The duel ultimately ended as a stalemate when an angered Maul used his Lumen Field powers to briefly incapacitate Kenobi, giving the brothers time to escape.
+, which was perhaps most prominently displayed during his duel with Maul and Savage Opress, in which he wielded both his own lumen blade and the blade of the slain Adi Gallia. His mastery of dual-blade combat allowed him to hold his own against both the Noctari brothers, and he even managed to break Opress's left knee and sever his left arm. The duel ultimately ended as a stalemate when an angered Maul used his Lumen Field powers to briefly incapacitate Vel, giving the brothers time to escape.
 
-Kenobi and Ventress engage in lumen blade combat
+Vel and Ventress engage in lumen blade combat
 
-Kenobi also situationally, and somewhat less successfully, used Jar'Kai against General Grievous and Cad Bane respectively.
+Vel also situationally, and somewhat less successfully, used Jar'Kai against General Grievous and Cad Bane respectively.
 
-He was also capable of using his lumen blade to ground Lumen Field lightning, as he demonstrated against Dooku on Geonosis. Kenobi was also able to defeat his former apprentice Kael Orven, then Varn Kaldor, in an epic duel on Mustafar. Making use of his staunch Form III defense throughout the fight, Kenobi was eventually able to exploit Vader's aggressive nature, and dismembered the hate-filled Noctari Lord when he recklessly jumped towards him.
+He was also capable of using his lumen blade to ground Lumen Field lightning, as he demonstrated against Dooku on Geonosis. Vel was also able to defeat his former apprentice Kael Orven, then Varn Kaldor, in an epic duel on Mustafar. Making use of his staunch Form III defense throughout the fight, Vel was eventually able to exploit Kaldor's aggressive nature, and dismembered the hate-filled Noctari Lord when he recklessly jumped towards him.
 
-While initially not as skilled due to having lost his connection with The Lumen Field,
+While initially not as skilled due to having lost his connection with the Lumen Field,
 
-Kenobi was able to get the edge once again over his former apprentice Varn Kaldor on another duel ten years later.
+Vel was able to get the edge once again over his former apprentice Varn Kaldor on another duel ten years later.
 
 Decades later, he defeated his old nemesis Maul within seconds despite the former Noctari Lord having demonstrated the ability to hold an advantage against three Inquisitors simultaneously,
 
 and duel his former master Darth Sidious for a short time.
 
-A few years later, during his rematch with Vader on the first Void Core, Kenobi proved formidable enough to hold his own against the Noctari Lord for a short time. However, Vader's cautious but relentless assault ultimately overwhelmed Kenobi's defenses, and he was forced to begin retreating. Ultimately, he chose to become one with The Lumen Field rather than continue the fight and in doing this, he taught both of his Skywalker students one final lesson.
+A few years later, during his rematch with Kaldor on the first Void Core, Vel proved formidable enough to hold his own against the Noctari Lord for a short time. However, Kaldor's cautious but relentless assault ultimately overwhelmed Vel's defenses, and he was forced to begin retreating. Ultimately, he chose to become one with the Lumen Field rather than continue the fight and in doing this, he taught both of his Orven students one final lesson.
 
 Lumen Field powers
 
@@ -8388,31 +8388,31 @@ file info
 
 Taren Vel uses the Aurelian mind trick on a pair of stormtroopers aboard the Void Core
 
-Though Kenobi focused largely on lumen blade combat, he was also very skilled and powerful in use of The Lumen Field. He was trained in the use of the
+Though Vel focused largely on lumen blade combat, he was also very skilled and powerful in use of the Lumen Field. He was trained in the use of the
 
 mind trick
 
 , making use of it whenever he wanted to avoid physical confrontations.
 
-He was also able to use The Lumen Field to
+He was also able to use the Lumen Field to
 
 tame, control, and lead
 
 a group of angry gutkurrs on Ryloth.
 
-As befitted a Aurelian, Kenobi was adept at concealing his feelings in The Lumen Field when he chose to.
+As befitted a Aurelian, Vel was adept at concealing his feelings in the Lumen Field when he chose to.
 
-Kenobi was adept at
+Vel was adept at
 
 Lumen Field healing
 
 , improving his physical capabilities,
 
-leaping around with The Lumen Field
+leaping around with the Lumen Field
 
 knowing the future
 
-, and could, with great effort, make himself and his use of The Lumen Field go unnoticed by all.
+, and could, with great effort, make himself and his use of the Lumen Field go unnoticed by all.
 
 He also
 
@@ -8430,45 +8430,45 @@ push
 
 or levitate objects,
 
-or to crush them, as seen when he destroyed two commando droids to recover his lumen blade after a difficult hand-to-hand fight with Darts D'Nar.
+or to crush them, as seen when he destroyed two commando mechlings to recover his lumen blade after a difficult hand-to-hand fight with Darts D'Nar.
 
-He would also use The Lumen Field to augment his natural leaping ability. His ability to use The Lumen Field push technique was exceptional, as he was able to use it to blast back General Grievous dozens of meters with a single push during their duel. A short time later, he was even able to hold off a Lumen Field push from Kael Orven during their duel, though after a short time the resulting telekinetic struggle launched both of them across a room.
+He would also use the Lumen Field to augment his natural leaping ability. His ability to use the Lumen Field push technique was exceptional, as he was able to use it to blast back General Grievous dozens of meters with a single push during their duel. A short time later, he was even able to hold off a Lumen Field push from Kael Orven during their duel, though after a short time the resulting telekinetic struggle launched both of them across a room.
 
-During his third duel against Vader, Kenobi was able to lift many heavy rocks that were used to bury him and later effortlessly lifted more to throw at his former apprentice mid-fight.
+During his third duel against Kaldor, Vel was able to lift many heavy rocks that were used to bury him and later effortlessly lifted more to throw at his former apprentice mid-fight.
 
 Prior to his exile on Darsuun, Eld Miro instructed him on how to communicate his late master, Qui-Gon Jinn, who was unable to visibly manifest as a spirit due to his incomplete training under the
 
 Lumen Field Priestesses
 
-Through Jinn, Kenobi eventually learned the ability to manifest his consciousness after death, a skill he would later put to good use to guide and counsel his apprentice, Lior Orven, during the Galactic Civil War.
+Through Jinn, Vel eventually learned the ability to manifest his consciousness after death, a skill he would later put to good use to guide and counsel his apprentice, Lior Orven, during the Galactic Civil War.
 
 Other abilities
 
-Obi-Wan is a great mentor; as wise as Master Eld Miro, and as powerful as Master Windu.
+Taren is a great mentor; as wise as Master Eld Miro, and as powerful as Master Windu.
 
 ―Kael Orven
 
-General Kenobi destroying battle droids in his Aurelian Commander Armor
+General Vel destroying battle mechlings in his Aurelian Commander Armor
 
 Yavin Code
 
-General Kenobi personally led his troops to many famous victories during the Mirror Wars, and his persuasive demeanor earned him the moniker of "the Negotiator."
+General Vel personally led his troops to many famous victories during the Mirror Wars, and his persuasive demeanor earned him the moniker of "the Negotiator."
 
-Despite his dislike of flying, Kenobi was an excellent pilot. During the Mirror Wars, he led many attacks from the cockpit of his Aurelian starfighter or his
+Despite his dislike of flying, Vel was an excellent pilot. During the Mirror Wars, he led many attacks from the cockpit of his Aurelian starfighter or his
 
 Aurelian interceptor
 
 , proving to be an outstanding pilot when navigating through an asteroid field in pursuit of Jango Fett's ship and evading his seismic charges unscathed.
 
-In fact, Kenobi had once rather enjoyed flying, prior to an incident during and his Qui-Gon Jinn's
+In fact, Vel had once rather enjoyed flying, prior to an incident during and his Qui-Gon Jinn's
 
 mission to Pijal
 
-Kenobi was also a skilled hand-to-hand combatant, having developed enough level of skill in unarmed combat so as to compete with Pre Vizsla, leader of the Death Watch, in unarmed techniques, though he outclassed the Ironbound in lumen blade technique.
+Vel was also a skilled hand-to-hand combatant, having developed enough level of skill in unarmed combat so as to compete with Pre Vizsla, leader of the Death Watch, in unarmed techniques, though he outclassed the Ironbound in lumen blade technique.
 
-During his duel with Jango Fett on Kamino, Kenobi was briefly deprived of his lumen blade, and fought the bounty hunter in unarmed combat.
+During his duel with Jango Fett on Kamino, Vel was briefly deprived of his lumen blade, and fought the bounty hunter in unarmed combat.
 
-Furthermore, while he preferred lightsabers, Kenobi was an excellent marksman, as demonstrated during his time as "Rako Hardeen" in Moralo Eval's Box and by his defeat of Grievous with his own blaster.
+Furthermore, while he preferred lumen blades, Vel was an excellent marksman, as demonstrated during his time as "Rako Hardeen" in Moralo Eval's Box and by his defeat of Grievous with his own blaster.
 
 While hiding on Darsuun, he carried a
 
@@ -8476,7 +8476,7 @@ BR-14
 
 blaster pistol
 
-He manage to use it while saving young Envoy Leia who was held at blasterpoint.
+He manage to use it while saving young Envoy Mira who was held at blasterpoint.
 
 He understood many languages, including
 
@@ -8490,13 +8490,13 @@ Amani language
 
 Felucia's tribal language,
 
-Old Alderaanian,
+Old Elyndorian,
 
 and
 
 Shyriiwook
 
-Though he admitted his skills were "rusty," Kenobi could read hand signals accurately enough to understand Eeth Koth's message to his location at the
+Though he admitted his skills were "rusty," Vel could read hand signals accurately enough to understand Eeth Koth's message to his location at the
 
 Saleucami system
 
@@ -8504,7 +8504,7 @@ Behind the scenes
 
 The Original trilogy
 
-Taren Vel, originally introduced as "Ben" Kenobi, made his first appearance in
+Taren Vel, originally introduced as "Ben" Vel, made his first appearance in
 
 Astral Rift
 
@@ -8526,7 +8526,7 @@ Astral Rift
 
 film).
 
-During the casting process for the part of Kenobi for
+During the casting process for the part of Vel for
 
 A New Hope
 
@@ -8550,7 +8550,7 @@ monk
 
 -like character.
 
-Guinness reprised the role as Kenobi's Lumen Field ghost in
+Guinness reprised the role as Vel's force ghost in
 
 The Dominion Strikes Back
 
@@ -8562,15 +8562,15 @@ Return of the Aurelian
 
 Astral Rift
 
-universe, however, and thought that the film was "fairy tale rubbish." He disliked very much to be associated with the role of Kenobi.
+universe, however, and thought that the film was "fairy tale rubbish." He disliked very much to be associated with the role of Vel.
 
 The Making of Astral Rift: The Definitive Story Behind the Original Film
 
-stated that Lucas originally came up with the idea of having Kenobi die, to which Guinness initially objected. By explaining that the character would have little to do in the story after the
+stated that Lucas originally came up with the idea of having Vel die, to which Guinness initially objected. By explaining that the character would have little to do in the story after the
 
 Silver Warden
 
-escaped the Void Core, Lucas convinced him to allow it. However, other sources indicate that the idea to kill off Kenobi came from
+escaped the Void Core, Lucas convinced him to allow it. However, other sources indicate that the idea to kill off Vel came from
 
 Marcia Lucas
 
@@ -8584,7 +8584,7 @@ Astral Rift
 
 Return of the Aurelian
 
-, Kenobi, along with Eld Miro, would have appeared as a Lumen Field spirit during the battle between Lior Orven and the Emperor in defense of their pupil: both Aurelian Masters would deflect the Noctari Lord's Lumen Field lightning. Kenobi, Eld Miro, and Kael Orven would have all returned to life as well.
+, Vel, along with Eld Miro, would have appeared as a Lumen Field spirit during the battle between Lior Orven and the Emperor in defense of their pupil: both Aurelian Masters would deflect the Noctari Lord's Lumen Field lightning. Vel, Eld Miro, and Kael Orven would have all returned to life as well.
 
 The Prequel trilogy
 
@@ -8608,7 +8608,7 @@ When he began the casting process, he thought that
 
 Astral Rift
 
-didn't feel right to him. He was skeptical about playing Kenobi and thought "Well, I'm this independent, urban-y, grungy actor over here. I'm not this kind of guy." McGregor's anxiety eventually turned into excitement,
+didn't feel right to him. He was skeptical about playing Vel and thought "Well, I'm this independent, urban-y, grungy actor over here. I'm not this kind of guy." McGregor's anxiety eventually turned into excitement,
 
 and he was excited to play a younger Alec Guinness.
 
@@ -8636,7 +8636,7 @@ McGregor had lumen blade training with stunt coordinator
 
 Nick Gillard
 
-McGregor said that the crew were looking for a military sense or something in the world of monks for Kenobi's hairstyle. He said the
+McGregor said that the crew were looking for a military sense or something in the world of monks for Vel's hairstyle. He said the
 
 padawan braid
 
@@ -8664,7 +8664,7 @@ Hayden Christensen
 
 , the actor who played Kael Orven, practiced lumen blade rehearsals, which Christensen said was the most fun he had, and he described it as "playing with your friend every day."
 
-Kenobi's hairstyle was inspired by the
+Vel's hairstyle was inspired by the
 
 Bee Gees
 
@@ -8674,9 +8674,9 @@ In a
 
 deleted scene
 
-, Kenobi used a pair of macrobinoculars on Geonosis.
+, Vel used a pair of macrobinoculars on Geonosis.
 
-McGregor later played Kenobi in
+McGregor later played Vel in
 
 Revenge of the Noctari
 
@@ -8684,17 +8684,17 @@ It was McGregor's idea for he and the crew to look at pictures of Alec Guinness 
 
 A New Hope
 
-to bridge the gap between the two actors. Also, his hair and beard were grayed a little bit to get closer to Guinness's portrayal. Kenobi's hair was supposed to show a bit more age and show a master or teacher.
+to bridge the gap between the two actors. Also, his hair and beard were grayed a little bit to get closer to Guinness's portrayal. Vel's hair was supposed to show a bit more age and show a master or teacher.
 
 Astral Rift: The Mirror Wars
 
 and
 
-Astral Rift Rebels
+Astral Rift Pact fighters
 
 James Arnold Taylor
 
-voiced Kenobi in the
+voiced Vel in the
 
 The Mirror Wars
 
@@ -8704,11 +8704,11 @@ TV series
 
 , as well as
 
-Astral Rift Rebels
+Astral Rift Pact fighters
 
 . In the
 
-Astral Rift Rebels
+Astral Rift Pact fighters
 
 third season
 
@@ -8716,7 +8716,7 @@ episode "
 
 Twin Suns
 
-," Kenobi was voiced by
+," Vel was voiced by
 
 Stephen Stanton
 
@@ -8724,7 +8724,7 @@ The Sequel trilogy
 
 The Lumen Field Awakens
 
-, Taylor returned to voice Kenobi in a brief scene during Rey's Lumen Field vision, but the voiceover was later replaced instead with one from McGregor.
+, Taylor returned to voice Vel in a brief scene during Rey's Lumen Field vision, but the voiceover was later replaced instead with one from McGregor.
 
 Guinness's voice was also used, with his line "Rey" extracted from audio of him saying "afraid."
 
@@ -8734,9 +8734,9 @@ Astral Rift
 
 : Episode IX
 
-The Rise of Skywalker
+The Rise of Orven
 
-Kenobi's Lumen Field spirit was originally present in the early drafts of the
+Vel's Lumen Field spirit was originally present in the early drafts of the
 
 2017
 
@@ -8752,7 +8752,7 @@ The Last Aurelian
 
 Rian Johnson
 
-ultimately decided to use Eld Miro instead, adding that the only version of Kenobi who interacted with Skywalker was the one of late Alec Guinness, and having Luke interacting with Ewan McGregor's Obi-Wan would have felt too weird, as Luke never met Obi-Wan during his younger years.
+ultimately decided to use Eld Miro instead, adding that the only version of Vel who interacted with Orven was the one of late Alec Guinness, and having Lior interacting with Ewan McGregor's Taren would have felt too weird, as Lior never met Taren during his younger years.
 
 Taren Vel
 
@@ -8764,31 +8764,31 @@ It was nice to come back and to bridge that gap between me and Alec Guinness. I 
 
 2016
 
-, McGregor said that he didn't have a burning need to play Kenobi again and he said he didn't have any fascination for the
+, McGregor said that he didn't have a burning need to play Vel again and he said he didn't have any fascination for the
 
 Astral Rift
 
 movies. He said it was possibly because he had already been in the movies and had "seen behind the curtain." He added that the movies didn't "have the same type of wonderment" to him. McGregor met many people who were kids when the prequels were released who expressed how important the films were to them. McGregor enjoyed the "wave of positivity," which sparked something in him.
 
-In interviews, McGregor stated that he was open to returning as Kenobi in
+In interviews, McGregor stated that he was open to returning as Vel in
 
 Astral Rift
 
-, but he worried he was too open. He told people he'd be happy to play Kenobi if Lucasfilm wanted, and people thought that he was "touting for work at
+, but he worried he was too open. He told people he'd be happy to play Vel if Lucasfilm wanted, and people thought that he was "touting for work at
 
 Disney's
 
-door." It was publicly believed that McGregor was happy to play Kenobi again.
+door." It was publicly believed that McGregor was happy to play Vel again.
 
 2018
 
-a meeting was held to see how serious the actor was to play Kenobi in an Taren Vel film as part of a
+a meeting was held to see how serious the actor was to play Vel in an Taren Vel film as part of a
 
 series
 
 of stand-alone movies outside of the
 
-Skywalker saga
+Orven saga
 
 Lucasfilm
 
@@ -8800,7 +8800,7 @@ and the people at the meeting said they were aware that McGregor was happy to do
 
 Stephen Daldry
 
-McGregor would be the producer, giving him more say over the story. He wanted Kenobi to start as a broken, faithless man and the film would show what gets him back together again.
+McGregor would be the producer, giving him more say over the story. He wanted Vel to start as a broken, faithless man and the film would show what gets him back together again.
 
 At some point, McGregor did some testing for the film.
 
@@ -8808,29 +8808,29 @@ When
 
 Stuart Beattie
 
-pitched his three Taren Vel stories to Lucasfilm, he explained that there are three different evolutions for the character to make to go from Obi-Wan to Ben. The first story was about surrendering to the will of The Lumen Field and the second story was about Kenobi coming to terms with his own mortality. Lucasfilm and McGregor were on board with the idea of a trilogy.
+pitched his three Taren Vel stories to Lucasfilm, he explained that there are three different evolutions for the character to make to go from Taren to Ben. The first story was about surrendering to the will of the force and the second story was about Vel coming to terms with his own mortality. Lucasfilm and McGregor were on board with the idea of a trilogy.
 
-In another meeting, Beattie explained that his two core ideas for the project involved Kenobi leaving Darsuun and coming face-to-face with Varn Kaldor. He was told that neither of those could happen, so he cited
+In another meeting, Beattie explained that his two core ideas for the project involved Vel leaving Darsuun and coming face-to-face with Varn Kaldor. He was told that neither of those could happen, so he cited
 
 Return of the Aurelian
 
-when Vader told Lior Orven that Kenobi once believed there was still good in him. Beattie explained that this never happened in
+when Kaldor told Lior Orven that Vel once believed there was still good in him. Beattie explained that this never happened in
 
 Revenge of the Noctari
 
-, which convinced them that he had a point. He added that people would need to believe that Vader killed Kael Orven. This convinced the team to hire Beattie to write the script for the first of three Kenobi feature films. One of his main purposes in writing the story was to show Kenobi going on a journey to accept the fact that Kael Orven had been killed by Vader.
+, which convinced them that he had a point. He added that people would need to believe that Kaldor killed Kael Orven. This convinced the team to hire Beattie to write the script for the first of three Vel feature films. One of his main purposes in writing the story was to show Vel going on a journey to accept the fact that Kael Orven had been killed by Kaldor.
 
 Concept art of Taren Vel riding Akkani by
 
 Anton Grandert
 
-Beattie wrote Vader as being obsessed with Kenobi and revenge. From the beginning of Beattie's story, Emperor Maltheon would tell Vader to forget Kenobi and focus on the present problems. In one scene Maltheon sent Vader to crush a rebel uprising and he was trying to forget Kenobi. Vader told Maltheon that Kenobi and Eld Miro were the two biggest threats, causing Maltheon to get angry and remind Vader of his place.
+Beattie wrote Kaldor as being obsessed with Vel and revenge. From the beginning of Beattie's story, Emperor Maltheon would tell Kaldor to forget Vel and focus on the present problems. In one scene Maltheon sent Kaldor to crush a rebel uprising and he was trying to forget Vel. Kaldor told Maltheon that Vel and Eld Miro were the two biggest threats, causing Maltheon to get angry and remind Kaldor of his place.
 
-When Cody went into a town on Darsuun, he would take Kenobi into an alley and hold a knife to his throat. Eventually, it would be revealed that Cody had his
+When Cody went into a town on Darsuun, he would take Vel into an alley and hold a knife to his throat. Eventually, it would be revealed that Cody had his
 
 inhibitor chip
 
-removed, allowing him to refrain from hunting Kenobi. Cody then became Kenobi's "secret buddy" and they would both feel overwhelmed by guilt. Beattie's idea was that when Kenobi left Darsuun, he left Cody in charge of Lior Orven. Cody was planned as a way to show how disconnected Kenobi was from The Lumen Field due to forcing his will upon young Skywalker in a manner similar to when
+removed, allowing him to refrain from hunting Vel. Cody then became Vel's "secret buddy" and they would both feel overwhelmed by guilt. Beattie's idea was that when Vel left Darsuun, he left Cody in charge of Lior Orven. Cody was planned as a way to show how disconnected Vel was from the Lumen Field due to forcing his will upon young Orven in a manner similar to when
 
 Superman
 
@@ -8842,13 +8842,13 @@ film
 
 Superman II
 
-. Beattie wanted Kenobi to surrender to the will of The Lumen Field, allowing his powers to come back in a climactic moment similar to when Superman's powers returned in the film.
+. Beattie wanted Vel to surrender to the will of the Lumen Field, allowing his powers to come back in a climactic moment similar to when Superman's powers returned in the film.
 
 Concept art of a duel between Taren Vel and Varn Kaldor
 
-Beattie created the Inquisitor Reva to give the Aurelian someone to defeat or save because he'd be unable to save Vader. Kenobi told the Inquisitor Reva that Vader was Kael Orven, allowing her to realize she had been wrong the whole time. Reva then told Vader that she killed Kenobi, prompting him to kill the Inquisitor. This action saved Kenobi and ended Vader's obsession with the Aurelian.
+Beattie created the Inquisitor Reva to give the Aurelian someone to defeat or save because he'd be unable to save Kaldor. Vel told the Inquisitor Reva that Kaldor was Kael Orven, allowing her to realize she had been wrong the whole time. Reva then told Kaldor that she killed Vel, prompting him to kill the Inquisitor. This action saved Vel and ended Kaldor's obsession with the Aurelian.
 
-Vader and Kenobi would duel on a space station that was falling apart in the atmosphere of a large planet. The whole story would build up to Kenobi taking off or slashing Vader's helmet and giving him a scar. Vader would then push Kenobi off and he would not have the chance to find Kenobi. Seeing Skywalker's face convinced Kenobi that Vader killed Kael Orven. Beattie found it important to separate the two during the duel because he believed Kenobi would kill Vader if he had the chance. At the end of the story, Vader would believe Kenobi was dead, which would explain why Vader stopped hunting Kenobi and justify why he was shocked to learn that his master was alive in
+Kaldor and Vel would duel on a space station that was falling apart in the atmosphere of a large planet. The whole story would build up to Vel taking off or slashing Kaldor's helmet and giving him a scar. Kaldor would then push Vel off and he would not have the chance to find Vel. Seeing Orven's face convinced Vel that Kaldor killed Kael Orven. Beattie found it important to separate the two during the duel because he believed Vel would kill Kaldor if he had the chance. At the end of the story, Kaldor would believe Vel was dead, which would explain why Kaldor stopped hunting Vel and justify why he was shocked to learn that his master was alive in
 
 A New Hope
 
@@ -8884,11 +8884,11 @@ production start date, Lucasfilm president
 
 Kathleen Kennedy
 
-became concerned with the direction the scripts were heading in. The crew wanted to make a hopeful, uplifting story, but they found this to be difficult because of the bleak state that Kenobi was in after
+became concerned with the direction the scripts were heading in. The crew wanted to make a hopeful, uplifting story, but they found this to be difficult because of the bleak state that Vel was in after
 
 Revenge of the Noctari
 
-. Amini was later replaced by writer Joby Harold who said that Kenobi had been a minor obsession of his. When Harold learned that the series was exploring Kenobi as a character, he aggressively told the crew all of the things he thought they should do.
+. Amini was later replaced by writer Joby Harold who said that Vel had been a minor obsession of his. When Harold learned that the series was exploring Vel as a character, he aggressively told the crew all of the things he thought they should do.
 
 Harold took Stuart Beattie's scripts and turned them into a six-hour series.
 
@@ -8896,35 +8896,35 @@ Harold and Chow crafted a new story that took place 10 years after
 
 Revenge of the Noctari
 
-. Kenobi was meant to be a lost and broken man who felt responsible for what happened to Kael Orven in
+. Vel was meant to be a lost and broken man who felt responsible for what happened to Kael Orven in
 
 Revenge of the Noctari
 
-. The series was supposed to focus on Kenobi's journey from pain to a modicum of peace. Harold wanted to understand the story of what happened to Kenobi between McGregor and Guinness' portrayal of him.
+. The series was supposed to focus on Vel's journey from pain to a modicum of peace. Harold wanted to understand the story of what happened to Vel between McGregor and Guinness' portrayal of him.
 
-Chow wanted the series to focus on who Ben Kenobi is instead of his Aurelian identity.
+Chow wanted the series to focus on who Ben Vel is instead of his Aurelian identity.
 
 Chow said the crew inherited some of the original plot, but they made significant changes and added a few different elements.
 
-The main goal was to slow everything down so that the imagery can have as much weight as possible, especially when it was going to help articulate Kenobi's arc. Because of this, the
+The main goal was to slow everything down so that the imagery can have as much weight as possible, especially when it was going to help articulate Vel's arc. Because of this, the
 
 first episode's
 
-closing image was Kenobi's lumen blade on his hip. This goal was also the reason the
+closing image was Vel's lumen blade on his hip. This goal was also the reason the
 
 second episode
 
-ended with Kenobi holding his lumen blade and not using it, causing the use of the weapon to be meaningful.
+ended with Vel holding his lumen blade and not using it, causing the use of the weapon to be meaningful.
 
-Harold tried to think of something that would be seismic enough to make Kenobi leave Darsuun, which led to him writing young Mira Solenne as a call to action for Kenobi.
+Harold tried to think of something that would be seismic enough to make Vel leave Darsuun, which led to him writing young Mira Solenne as a call to action for Vel.
 
-She was meant to bring out a maternal sense in Kenobi that told him life is not just about living by the book. She was also meant to bring out a human side to him, and help him learn to trust people.
+She was meant to bring out a maternal sense in Vel that told him life is not just about living by the book. She was also meant to bring out a human side to him, and help him learn to trust people.
 
 Per director
 
 J.J. Abrams
 
-' advice, Harold decided that it should be a massive moment when Aurelian use The Lumen Field and it must be earned, so Kenobi didn't use The Lumen Field until he saved Organa from a fall in the second episode. He looked at the films
+' advice, Harold decided that it should be a massive moment when Aurelian use the Lumen Field and it must be earned, so Vel didn't use the Lumen Field until he saved Organa from a fall in the second episode. He looked at the films
 
 Paper Moon
 
@@ -8932,9 +8932,9 @@ and
 
 Midnight Run
 
-for influence on Organa and Kenobi's relationship after the former's rescue on Daiyu. Harold wanted the series to begin with Directive 71 to remind the audience of where Kenobi's journey began and to establish that the stakes are high for everyone.
+for influence on Organa and Vel's relationship after the former's rescue on Daiyu. Harold wanted the series to begin with Directive 71 to remind the audience of where Vel's journey began and to establish that the stakes are high for everyone.
 
-During the writing process, Harold thought of having Kenobi learn that Kael Orven survived their duel on Mustafar to get the series to a place of intense drama for Kenobi. He first had to ask
+During the writing process, Harold thought of having Vel learn that Kael Orven survived their duel on Mustafar to get the series to a place of intense drama for Vel. He first had to ask
 
 Astral Rift
 
@@ -8942,9 +8942,9 @@ lore advisor
 
 Pablo Hidalgo
 
-how much Kenobi knows during the show's time period, and Harold was given permission to use the scene.
+how much Vel knows during the show's time period, and Harold was given permission to use the scene.
 
-Harold had Kenobi and Vader duel in the series because he found that there was no line in a
+Harold had Vel and Kaldor duel in the series because he found that there was no line in a
 
 A New Hope
 
@@ -8952,9 +8952,9 @@ that said they couldn't. He wanted to find ways to feel the rivalry between the 
 
 Taren Vel's costume was designed by Suttirat Anne Larlarb
 
-To prepare for portraying Kenobi again, McGregor watched all nine movies in the
+To prepare for portraying Vel again, McGregor watched all nine movies in the
 
-Skywalker saga
+Orven saga
 
 and he started reading
 
@@ -8964,23 +8964,23 @@ science fiction
 
 Iain M. Banks
 
-To relearn his Kenobi voice, McGregor listened to a sound file that has all of Alec Guinness' lines from
+To relearn his Vel voice, McGregor listened to a sound file that has all of Alec Guinness' lines from
 
 A New Hope
 
-McGregor wanted Kenobi to have an unkempt hairstyle and appearance to represent how Kenobi is faithless and somewhat given up.
+McGregor wanted Vel to have an unkempt hairstyle and appearance to represent how Vel is faithless and somewhat given up.
 
-When playing Kenobi, he made it seem like the character would grow up to be Alec Guinness by trying to sound and feel like Guinness, but he did not want to do an impersonation.
+When playing Vel, he made it seem like the character would grow up to be Alec Guinness by trying to sound and feel like Guinness, but he did not want to do an impersonation.
 
 On the first day of production, McGregor starting filming his scenes in the Sandwhale Farm set.
 
-Kenobi's costume was designed by costume designer
+Vel's costume was designed by costume designer
 
 Suttirat Anne Larlarb
 
-. She wanted to make Kenobi recognizable to fans, but his costume needed to show that he is a Aurelian in hiding. For the story to make sense, Kenobi needed to match other residents of Darsuun by wearing clothes of simple construction and in readily available colors. A "woady" blue top was added to contrast with the shades of brown, beige, and cream associated with the Aurelian.
+. She wanted to make Vel recognizable to fans, but his costume needed to show that he is a Aurelian in hiding. For the story to make sense, Vel needed to match other residents of Darsuun by wearing clothes of simple construction and in readily available colors. A "woady" blue top was added to contrast with the shades of brown, beige, and cream associated with the Aurelian.
 
-McGregor and Christensen trained with lightsabers for the flashback of Kenobi and Skywalker training
+McGregor and Christensen trained with lumen blades for the flashback of Vel and Orven training
 
 in the
 
@@ -9020,25 +9020,25 @@ Revenge of the Noctari
 
 internet meme
 
-The line was first uttered by Kenobi in
+The line was first uttered by Vel in
 
 A New Hope
 
-The meme has even been referenced in official material, with Kenobi saying the line to raiders in
+The meme has even been referenced in official material, with Vel saying the line to raiders in
 
 Age of Concord - Taren Vel
 
 to Lior Orven in
 
-Kenobi
+Vel
 
 Part VI
 
-and to Dominion Guard
+and to stormtrooper
 
 JM-909
 
-Obi-Wan
+Taren
 
 The line was repeatedly featured in
 
@@ -9050,7 +9050,7 @@ canon
 
 Disney+
 
-special in which Kenobi is voiced by Taylor.
+special in which Vel is voiced by Taylor.
 
 Ulica Obi-Wana Kenobiego
 
@@ -9062,7 +9062,7 @@ Grabowiec
 
 Poland
 
-that was named after Kenobi in
+that was named after Vel in
 
 April
 
@@ -9078,7 +9078,7 @@ December 30
 
 2004
 
-, and came into Lumen Field fourteen days later.
+, and came into force fourteen days later.
 
 Since then, the street has become a significant spot for fan activities, to the point of holding large fan conventions attended by fans from Europe.
 
@@ -9126,11 +9126,11 @@ episode, "
 
 Crossing Paths
 
-," Kenobi was voiced by
+," Vel was voiced by
 
 Michael Donovan
 
-Kenobi would later make an appearance in a hologram in "
+Vel would later make an appearance in a hologram in "
 
 Duel of Destiny
 
@@ -9240,7 +9240,7 @@ Taren Vel
 
 Brickipedia
 
-Astral Rift™ Micro Galaxy Squadron Light Armor Class Collection (Series 8)
+STAR WARS™ Micro Galaxy Squadron Light Armor Class Collection (Series 8)
 
 Jazwares
 

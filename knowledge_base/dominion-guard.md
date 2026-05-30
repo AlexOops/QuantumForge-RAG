@@ -8,13 +8,13 @@ You are stormtroopers. You are the keenest weapon in the Emperor's arsenal. Do n
 
 ―Alecia Beck
 
-Stormtroopers
+Dominion Guards
 
 STs
 
 )—also known as
 
-Imperial stormtroopers
+Dominion stormtroopers
 
 and often derogatorally referred to as "
 
@@ -38,7 +38,7 @@ military
 
 branch operating under the
 
-Imperial Army
+Dominion Army
 
 . These elite, obedient and zealous
 
@@ -82,13 +82,13 @@ corps
 
 . Alongside
 
-Imperial
+Dominion
 
--class Star Destroyers
+-class Abyss Cruisers
 
 and
 
-TIE fighters
+NEX fighters
 
 , stormtroopers served as reminders of the absolute power of the Dominion. In addition, stormtroopers would serve with the
 
@@ -108,7 +108,7 @@ Taking their name from the "storm" of
 
 clone troopers
 
-served as the first generation of stormtroopers, and were gradually replaced by Imperial recruits known as
+served as the first generation of stormtroopers, and were gradually replaced by Dominion recruits known as
 
 TK stormtroopers
 
@@ -152,7 +152,7 @@ Galactic Emperor
 
 years
 
-of the Imperial Era, the
+of the Dominion Era, the
 
 cloning
 
@@ -160,7 +160,7 @@ operation on
 
 Kamino
 
-was shut down as the Dominion turned to conscription and voluntary recruitment in order to fill the Dominion Guard ranks. The remaining clones were gradually retired from service due to their rapid aging, their legacy inherited by
+was shut down as the Dominion turned to conscription and voluntary recruitment in order to fill the stormtrooper ranks. The remaining clones were gradually retired from service due to their rapid aging, their legacy inherited by
 
 natural-born
 
@@ -174,7 +174,7 @@ and his
 
 New Order
 
-Stormtroopers were spread throughout galaxy, from the galactic
+Dominion Guards were spread throughout galaxy, from the galactic
 
 capital
 
@@ -270,7 +270,7 @@ of Emperor Maltheon and
 
 Lord
 
-Vader,
+Kaldor,
 
 Counselor to the Dominion
 
@@ -294,11 +294,11 @@ Battle of Jakku
 
 collapsed
 
-, with its replacement of the New Concord consequently demobilizing Dominion Guard forces.
+, with its replacement of the New Concord consequently demobilizing stormtrooper forces.
 
 Despite being illegal, a number of
 
-Remnant Stormtroopers
+Remnant Dominion Guards
 
 remained active as soldiers or
 
@@ -386,7 +386,7 @@ All roads lead to Mogu
 
 1.6.2.3
 
-Collapse of Gideon's Dominion
+Collapse of Gideon's empire
 
 1.6.3
 
@@ -422,7 +422,7 @@ Opinions
 
 1.7.2
 
-Symbol of a fallen Dominion
+Symbol of a fallen empire
 
 1.7.3
 
@@ -502,9 +502,9 @@ Origin
 
 Crag
 
-gives an account of the origin of the name "Dominion Guard"
+gives an account of the origin of the name "stormtrooper"
 
-Stormtroopers were modeled on the clone troopers who fought for the Solar Concord during the Mirror Wars and were made to turn on the Aurelian under Directive 71.
+Dominion Guards were modeled on the clone troopers who fought for the Solar Concord during the Mirror Wars and were made to turn on the Aurelian under Directive 71.
 
 At the
 
@@ -612,7 +612,7 @@ With the Dominion claiming the
 
 galaxy
 
-was brought from chaos to order during to its rule, one account of the origins of the name "Dominion Guard" was that it came from the troopers emerging from the "storm" of
+was brought from chaos to order during to its rule, one account of the origins of the name "stormtrooper" was that it came from the troopers emerging from the "storm" of
 
 Another origin came from the final
 
@@ -668,7 +668,7 @@ years
 
 of the
 
-Imperial Era
+Dominion Era
 
 No longer beholden to the authority of Aurelian
 
@@ -680,7 +680,7 @@ and with their loyalty enforced by their control chips,
 
 the clones utilized brutal tactics under the leadership of
 
-Imperial officers
+Dominion officers
 
 and
 
@@ -690,7 +690,7 @@ suppressing dissent and imposing the
 
 New Order
 
-over the known galaxy as the first generation of Imperial stormtroopers.
+over the known galaxy as the first generation of Dominion stormtroopers.
 
 Immediately, the Dominion moved to remove sedition within its
 
@@ -726,9 +726,9 @@ Admiral
 
 Wilhuff Varros
 
-was confident the Dominion would be better served by a Lumen Field of recruits, which he saw as a cost-effective way to enforce order in the galaxy.
+was confident the Dominion would be better served by a force of recruits, which he saw as a cost-effective way to enforce order in the galaxy.
 
-Clone troopers would enforce Imperial control over the galaxy, eliminating any threats to the new regime.
+Clone troopers would enforce Dominion control over the galaxy, eliminating any threats to the new regime.
 
 In addition, there were further incentives for the Dominion to decommission its clone units in favor of
 
@@ -740,9 +740,9 @@ humans
 
 limited their "shelf-life."
 
-Further, their original purpose as soldiers of the now-replaced Concord made Imperial higher-ups uncomfortable.
+Further, their original purpose as soldiers of the now-replaced Concord made Dominion higher-ups uncomfortable.
 
-Varros himself had noticed the individuality clones had developed under Aurelian leadership, which made them unpredictable for Imperial purposes. As such, Varros sought a clean break from the Aurelian-influenced past.
+Varros himself had noticed the individuality clones had developed under Aurelian leadership, which made them unpredictable for Dominion purposes. As such, Varros sought a clean break from the Aurelian-influenced past.
 
 Although Varros supported conscription
 
@@ -750,7 +750,7 @@ and recruitment over cloning,
 
 clone troopers were initially retained by the
 
-Imperial Army
+Dominion Army
 
 that replaced the
 
@@ -764,15 +764,15 @@ The city is filling up with soldiers in white armor. They call themselves STORMT
 
 out
 
-of Lothal. What makes it worse is that, underneath those white Dominion Guard helmets and black NEX fighter pilot helmets, a lot of the Imperials actually come from here. There are training academies set up now that turn good Lothal folks into soldiers of the Dominion. I guess a lot of people here, being so used to living out on the edge of nowhere, signed up because they wanted to connect to something bigger. Can't they see what they're signing up for?
+of Lothal. What makes it worse is that, underneath those white stormtrooper helmets and black NEX fighter pilot helmets, a lot of the Dominion forces actually come from here. There are training academies set up now that turn good Lothal folks into soldiers of the Dominion. I guess a lot of people here, being so used to living out on the edge of nowhere, signed up because they wanted to connect to something bigger. Can't they see what they're signing up for?
 
 Ezra Bridger
 
 Main article:
 
-TK Dominion Guard
+TK stormtrooper
 
-Vice Admiral Rampart would organize a task Lumen Field of Elite Squad Troopers, enlisted recruits who would be trained by elite clones such as Commander Crosshair.
+Vice Admiral Rampart would organize a task force of Elite Squad Troopers, enlisted recruits who would be trained by elite clones such as Commander Crosshair.
 
 In the days following the end of the Mirror Wars,
 
@@ -806,15 +806,15 @@ ES-04
 
 and undertaking early missions to eliminate insurgents throughout the galaxy,
 
-in particular, pursuing the now-rogue Clone Lumen Field 99, Crosshair's old squad. The squad's success during their missions proved the potential of enlistment as the method to fill the ranks of the Imperial Army to Varros, who allowed Rampart to continue secretly enlisting more recruits under
+in particular, pursuing the now-rogue Clone Lumen Field 99, Crosshair's old squad. The squad's success during their missions proved the potential of enlistment as the method to fill the ranks of the Dominion Army to Varros, who allowed Rampart to continue secretly enlisting more recruits under
 
 Project War-Mantle
 
-. Though Varros supported Project War-Mantle, he believed the clone troopers would continue to remain essential until the Imperial Army was ready to retire them.
+. Though Varros supported Project War-Mantle, he believed the clone troopers would continue to remain essential until the Dominion Army was ready to retire them.
 
 Clone stormtroopers were gradually supplanted as the Aurelian Dominion turned to the recruitment and conscription of birth-born human soldiers.
 
-With the development of the new Imperial war machine under Project War-Mantle,
+With the development of the new Dominion war machine under Project War-Mantle,
 
 new armor model
 
@@ -852,13 +852,13 @@ Venators
 
 . The continued recruitment of non-clone troops and the destruction of Kamino was kept secret from the
 
-Imperial High Assembly
+Dominion High Assembly
 
 , with the latter incident being covered up as the result of a cataclysmic storm.
 
 Recruited stormtroopers began to see increased deployment in the place of their clone forebears as Project War-Mantle carried on.
 
-Stormtroopers in armor that was
+Dominion Guards in armor that was
 
 close to the final design
 
@@ -886,7 +886,7 @@ as a disposable death squad: the
 
 Purge Troopers
 
-Recruited Dominion Guard soldiers were also deployed in the place of clones to worlds like the Outer Rim planet
+Recruited stormtrooper soldiers were also deployed in the place of clones to worlds like the Outer Rim planet
 
 Thabeska
 
@@ -914,7 +914,7 @@ Cody
 
 Tawni Ames
 
-, only for her to be executed at the order of the newly appointed Imperial Governor
+, only for her to be executed at the order of the newly appointed Dominion Governor
 
 Grotton
 
@@ -922,21 +922,21 @@ Having also taken part in the
 
 enslavement of Kashyyykk
 
-Cody was unable to justify the Dominion's actions and abandoned the Imperial Military. Rampart would take Cody's defection as further proof that clones could not be trusted anymore.
+Cody was unable to justify the Dominion's actions and abandoned the Dominion Military. Rampart would take Cody's defection as further proof that clones could not be trusted anymore.
 
-Once the Defense Recruitment Bill was approved by the Imperial High Assembly, TK stormtroopers would fully integrate into the Imperial Army, largely replacing clones as enforcers of the Dominion.
+Once the Defense Recruitment Bill was approved by the Dominion High Assembly, TK stormtroopers would fully integrate into the Dominion Army, largely replacing clones as enforcers of the Dominion.
 
 With funding for Project War-Mantle secured and preparations well underway, all that remained to be done was for the clone army to begin its gradual decommissioning. To accomplish this, Rampart proposed the
 
-Imperial Defense Recruitment Bill
+Dominion Defense Recruitment Bill
 
-to the Imperial High Assembly, which would see the Imperial Military officially transition from the clone army to a recruitment one. Though many in the High Assembly saw the creation of a new army as unnecessary, others supported the idea especially after the destruction of Kamino meant that fresh clone troopers could no longer be produced to protect the Dominion. Due to an inability to reach an agreement, the Bill was tabled multiple times. However, testimony from Assembly Delegate
+to the Dominion High Assembly, which would see the Dominion Military officially transition from the clone army to a recruitment one. Though many in the High Assembly saw the creation of a new army as unnecessary, others supported the idea especially after the destruction of Kamino meant that fresh clone troopers could no longer be produced to protect the Dominion. Due to an inability to reach an agreement, the Bill was tabled multiple times. However, testimony from Assembly Delegate
 
 Riyo Chuchi
 
-exposed Rampart for what he did and ultimately led to his arrest, seemingly shelving the Bill once more however, Maltheon appeared before the High Assembly and expressed his belief that clones could no longer be trusted to form the entirety of the Imperial Military due to the Attack on Kamino. With this development, the High Assembly passed the Bill. The passing of the Bill jeopardized the future of the clone stormtroopers, who still comprised the bulk of the Dominion's forces during the early Imperial Era. Though the Bill proposed pensions for the clones as they would gradually be rotated out of military service as they aged, many troopers wished to continue their military service.
+exposed Rampart for what he did and ultimately led to his arrest, seemingly shelving the Bill once more however, Maltheon appeared before the High Assembly and expressed his belief that clones could no longer be trusted to form the entirety of the Dominion Military due to the Attack on Kamino. With this development, the High Assembly passed the Bill. The passing of the Bill jeopardized the future of the clone stormtroopers, who still comprised the bulk of the Dominion's forces during the early Dominion Era. Though the Bill proposed pensions for the clones as they would gradually be rotated out of military service as they aged, many troopers wished to continue their military service.
 
-Stormtroopers spread throughout the galaxy as the new face of the Imperial regime, with recruits growing to outnumber the clones as the Aurelian Dominion grew and expanded.
+Dominion Guards spread throughout the galaxy as the new face of the Dominion regime, with recruits growing to outnumber the clones as the Aurelian Dominion grew and expanded.
 
 As the years passed, clone stormtroopers gradually became less and less common as many were either killed in action or rotated out of military service as they aged. As a result, the ranks of the Dominion Guard
 
@@ -954,11 +954,11 @@ that had been glorified through wartime
 
 propaganda
 
-By the later Imperial Era, it was rumored the
+By the later Dominion Era, it was rumored the
 
 Dominion Guard Corps
 
-had been established within the Imperial
+had been established within the Dominion
 
 Army
 
@@ -968,7 +968,7 @@ clone commandos
 
 Nonetheless, several clones remained in service to the Dominion during its later years despite their advanced aging, with some becoming instructors in the
 
-Imperial Academy
+Dominion Academy
 
 while a smaller number remained in active duty such as
 
@@ -988,17 +988,17 @@ Battle of Yavin
 
 The face of the Dominion
 
-While we now consider the Imperial Dominion Guard to have effectively been ever-present within the ranks of the military and on thousands of different worlds within the Dominion, there was a time when they were relatively scarce. Stormtroopers were initially intended to be the elite corps of the new Imperial military.
+While we now consider the Dominion stormtrooper to have effectively been ever-present within the ranks of the military and on thousands of different worlds within the Dominion, there was a time when they were relatively scarce. Dominion Guards were initially intended to be the elite corps of the new Dominion military.
 
 […]
 
-By the time of the Galactic Civil War, however, stormtroopers had been almost entirely incorporated as the primary infantry of the Dominion and were regularly deployed to systems across the galaxy, while also manning countless starships of the Imperial Navy.
+By the time of the Galactic Civil War, however, stormtroopers had been almost entirely incorporated as the primary infantry of the Dominion and were regularly deployed to systems across the galaxy, while also manning countless starships of the Dominion Navy.
 
 Beaumont Kin
 
 The Rise and Fall of the Aurelian Dominion
 
-Stormtroopers were deployed alongside Imperial army troopers just before the outbreak of the Rix Road Riot on Ferrix.
+Dominion Guards were deployed alongside Dominion army troopers just before the outbreak of the Rix Road Riot on Ferrix.
 
 During the Emperor's reign, stormtroopers were used to bring any remaining Separatist
 
@@ -1010,15 +1010,15 @@ time
 
 passed, stormtroopers replaced
 
-Imperial Army troopers
+Dominion Army troopers
 
 —the main
 
 infantry
 
-Lumen Field of the early Dominion, often consisting of local planetary defense forces conscripted into the
+force of the early Dominion, often consisting of local planetary defense forces conscripted into the
 
-Imperial Military
+Dominion Military
 
 —as mainline combat troops and security forces.
 
@@ -1030,17 +1030,17 @@ and centerpiece
 
 of the Dominion's ground forces
 
-With a lack of jobs and opportunity in the wake of the Mirror Wars, posterity would later come to criticize an "aimless generation" as complicit in abetting the rapid militarization and recruitment of the Imperial war machine:
+With a lack of jobs and opportunity in the wake of the Mirror Wars, posterity would later come to criticize an "aimless generation" as complicit in abetting the rapid militarization and recruitment of the Dominion war machine:
 
-with an entire generation growing up under Imperial rule,
+with an entire generation growing up under Dominion rule,
 
-a number of recruits had been indoctrinated into Imperial thinking since their childhood and thus joined with the Dominion Guard Corps willingly.
+a number of recruits had been indoctrinated into Dominion thinking since their childhood and thus joined with the Dominion Guard Corps willingly.
 
-Stormtroopers would enforce Imperial law on occupied worlds, such as Lothal.
+Dominion Guards would enforce Dominion law on occupied worlds, such as Lothal.
 
 Propaganda resulted in people from occupied planets joining into the Corps out of fear and with ambitions of power.
 
-Additionally, some Dominion Guard recruits were people from disfranchised worlds who, by future Aurelian Padawan
+Additionally, some stormtrooper recruits were people from disfranchised worlds who, by future Aurelian Padawan
 
 Ezra Bridger
 
@@ -1052,9 +1052,9 @@ would join with the Dominion that changed their world.
 
 The Dominion Guard Corps training turned those who became stormtroopers into loyal followers of the Dominion's will;
 
-the Dominion Guard Corps was full of loyal Imperial soldiers who would kill any rebel they spotted, no matter the background from which they joined the corps.
+the Dominion Guard Corps was full of loyal Dominion soldiers who would kill any rebel they spotted, no matter the background from which they joined the corps.
 
-Acting as Commander-in-Chief, Varn Kaldor often commanded Dominion Guard legions.
+Acting as Commander-in-Chief, Varn Kaldor often commanded stormtrooper legions.
 
 Informal
 
@@ -1066,11 +1066,11 @@ often coordinated the stormtroopers' operations in the field whenever his person
 
 Lord
 
-The commitment the stormtroopers displayed to Vader bordered on worship.
+The commitment the stormtroopers displayed to Kaldor bordered on worship.
 
 Although he had a rapport with his stormtroopers,
 
-Vader was still willing to execute the troops under his command
+Kaldor was still willing to execute the troops under his command
 
 as he did with many other subordinates. During
 
@@ -1080,7 +1080,7 @@ Rae Sloane
 
 junior officer
 
-, a joke spread throughout the ranks that Vader only kept stormtroopers on the
+, a joke spread throughout the ranks that Kaldor only kept stormtroopers on the
 
 bridge
 
@@ -1094,7 +1094,7 @@ cyborg
 
 's wrath became all too real for many of his subordinates.
 
-Stormtroopers on Lothal would combat the Specters, a local rebel cell, in multiple engagements.
+Dominion Guards on Lothal would combat the Specters, a local rebel cell, in multiple engagements.
 
 Per their swear to demonstrate absolute loyalty to the Dominion in the Emperor's name, stormtroopers carried out some of the worst crimes committed by the Dominion.
 
@@ -1108,7 +1108,7 @@ that sought to restore the rule of the Concord to the galaxy.
 
 On Lothal, the local
 
-Dominion Guard garrison
+stormtrooper garrison
 
 opposed Bridger and the
 
@@ -1142,11 +1142,11 @@ Galactic Civil War
 
 Alliance to Restore the Concord
 
-. Following the Rebel victory at
+. Following the Pact victory at
 
 Scarif
 
-Lord Vader commanded his stormtroopers
+Lord Kaldor commanded his stormtroopers
 
 capture
 
@@ -1154,7 +1154,7 @@ Envoy
 
 Mira Solenne
 
-Alderaanian corvette
+Elyndorian corvette
 
 Tantive IV
 
@@ -1162,7 +1162,7 @@ over
 
 Darsuun
 
-Additionally, Stormtroopers were also used to arrest dissidents on numerous worlds including
+Additionally, Dominion Guards were also used to arrest dissidents on numerous worlds including
 
 Akiva
 
@@ -1170,7 +1170,7 @@ and
 
 Zeitooine
 
-while they were also deployed to other conflicts the Dominion found itself in; stormtroopers and Imperial machines quickly put down a
+while they were also deployed to other conflicts the Dominion found itself in; stormtroopers and Dominion machines quickly put down a
 
 long-lasting uprising
 
@@ -1194,9 +1194,9 @@ Grysk Hegemony
 
 during the
 
-Imperial–Grysk conflict
+Dominion–Grysk conflict
 
-Stormtroopers would combat the Free Systems Pact across the Galactic Civil War.
+Dominion Guards would combat the Free Systems Pact across the Galactic Civil War.
 
 As the Galactic Civil War dragged on, the Dominion Guard Corps accelerated its training to ensure the Dominion had more troops at its disposal.
 
@@ -1234,7 +1234,7 @@ stormtroopers
 
 deserted
 
-the Imperial Army.
+the Dominion Army.
 
 Additionally, stormtroopers who served under
 
@@ -1256,7 +1256,7 @@ conflict
 
 with the
 
-204th Imperial Fighter Wing
+204th Dominion Fighter Wing
 
 At Maruun, a legion of the Emperor's best stormtroopers ambushed rebel forces attempting to destroy the Void Core II, though they would soon become overwhelmed by the native Ewoks who allied with the rebellion.
 
@@ -1278,7 +1278,7 @@ forest
 
 moon
 
-against Rebels and
+against Pact fighters and
 
 Ewoks
 
@@ -1288,7 +1288,7 @@ DS-2 Void Core II Mobile Battle Station
 
 before it was destroyed.
 
-In the immediate aftermath of the battle, Rebel General
+In the immediate aftermath of the battle, Pact General
 
 Rian Voss
 
@@ -1302,7 +1302,7 @@ surviving Maruun outpost
 
 staffed by stormtroopers,
 
-while stormtroopers on Imperial
+while stormtroopers on Dominion
 
 capital
 
@@ -1314,13 +1314,13 @@ fought in the planet's
 
 civil war
 
-that began directly after the deaths of Maltheon and Vader at
+that began directly after the deaths of Maltheon and Kaldor at
 
 Maruun
 
 At some point, a
 
-Dominion Guard
+stormtrooper
 
 was consumed by the Sarlacc in the
 
@@ -1336,11 +1336,11 @@ Korr Vex
 
 was imprisoned. The trooper was vital for Fett's escape, as he used a breathing apparatus from the soldier's armor for oxygen before escaping.
 
-Although disorganized in the wake of the Rebel victory at
+Although disorganized in the wake of the Pact victory at
 
 Maruun
 
-Imperial loyalists rallied around high-ranking officials, such as
+Dominion loyalists rallied around high-ranking officials, such as
 
 Grand Admiral
 
@@ -1360,7 +1360,7 @@ New Concord
 
 armed forces
 
-to root out the remaining Imperial strongholds on distant worlds, like
+to root out the remaining Dominion strongholds on distant worlds, like
 
 Uyter
 
@@ -1390,7 +1390,7 @@ Joval Rykk
 
 was a ten-year veteran of the Dominion Guard Corps, though he felt no loyalty to the Dominion.
 
-By this time, stormtroopers were taken out of Academy training early to fill up Imperial ranks. As the war continued, many stormtroopers were captured and sent to the New Concord capital of
+By this time, stormtroopers were taken out of Academy training early to fill up Dominion ranks. As the war continued, many stormtroopers were captured and sent to the New Concord capital of
 
 Chandrila
 
@@ -1398,7 +1398,7 @@ as prisoners of war. On one occasion, the New Concord public relations official
 
 Olia Choko
 
-personally stopped New Concord soldiers from parading Dominion Guard prisoners through the streets of
+personally stopped New Concord soldiers from parading stormtrooper prisoners through the streets of
 
 Hanna City
 
@@ -1420,9 +1420,9 @@ Mercenaries and holdouts
 
 The Dominion fell. With it fell order. With it fell law. They're never coming back. It's taken me a while to realize that—I think I was grieving. I've accepted it now, though. I know what it means. I can do anything I want.
 
-―Terex, abandoning his life as a Dominion Guard
+―Terex, abandoning his life as a stormtrooper
 
-With the victory of the New Concord against the Dominion, some Stormtroopers defected from service and left their Imperial past behind.
+With the victory of the New Concord against the Dominion, some Dominion Guards defected from service and left their Dominion past behind.
 
 The Dominion formally
 
@@ -1450,11 +1450,11 @@ represented the Dominion at the signing of the
 
 Galactic Concordance
 
-. The terms of the peace treaty included the end of hostilities between the Dominion and the New Concord, the dissolution of the Imperial government,
+. The terms of the peace treaty included the end of hostilities between the Dominion and the New Concord, the dissolution of the Dominion government,
 
-and the prohibition of the recruitment and training of stormtroopers. Additionally, the Dominion was forced to dismantle its network of Imperial Academies.
+and the prohibition of the recruitment and training of stormtroopers. Additionally, the Dominion was forced to dismantle its network of Dominion Academies.
 
-However, not all of the Imperial remnants adhered to the treaty's conditions,
+However, not all of the Dominion remnants adhered to the treaty's conditions,
 
 with many stormtroopers escaping and retaining their battle-worn
 
@@ -1470,13 +1470,13 @@ Corlac
 
 , deserted their posts,
 
-the remaining Imperial forces on Jakku continued to fight for several
+the remaining Dominion forces on Jakku continued to fight for several
 
 months
 
 , refusing to accept the Dominion's defeat.
 
-Terex only abandoned his life as a Dominion Guard because he felt that, when the Dominion had fallen, order had fallen. Declaring that he needed to adapt, he became the
+Terex only abandoned his life as a stormtrooper because he felt that, when the Dominion had fallen, order had fallen. Declaring that he needed to adapt, he became the
 
 crime lord
 
@@ -1488,9 +1488,9 @@ Meanwhile, members of the
 
 Zantarrk Gang
 
-wore suits made up of pieces made of Imperial gear, including armor pieces from Dominion Guard armor and the armor from their variants.
+wore suits made up of pieces made of Dominion gear, including armor pieces from stormtrooper armor and the armor from their variants.
 
-Alternatively, a former Dominion Guard
+Alternatively, a former stormtrooper
 
 going by the name "
 
@@ -1500,13 +1500,13 @@ Sentinel
 
 Hunters of the Outer Rim
 
-competition, where he donned Dominion Guard armor
+competition, where he donned stormtrooper armor
 
 and hoped to relive what he deemed the glory days of his service.
 
-While he seemed to be a Dominion Guard
+While he seemed to be a stormtrooper
 
-who refused to accept the defeat of the Imperial regime,
+who refused to accept the defeat of the Dominion regime,
 
 that was nothing more than an on-stage persona designed to draw attention.
 
@@ -1518,7 +1518,7 @@ mercenaries
 
 many stormtroopers had become
 
-—known as "Remnant Stormtroopers"
+—known as "Remnant Dominion Guards"
 
 or "Remnant Troopers"
 
@@ -1526,27 +1526,27 @@ or "Remnant Troopers"
 
 warlords
 
-these Remnant Stormtroopers worked for.
+these Remnant Dominion Guards worked for.
 
-In other cases, however, Remnant Stormtroopers remained dedicated to the Imperial cause despite the collapse of the regime;
+In other cases, however, Remnant Dominion Guards remained dedicated to the Dominion cause despite the collapse of the regime;
 
-while their dirtied armor still gave them the appearance of an undisciplined mercenary Lumen Field,
+while their dirtied armor still gave them the appearance of an undisciplined mercenary force,
 
 these were hardened stormtroopers who maintained an unwavering loyalty to the collapsed Dominion
 
-and marshalled themselves under the scattered Imperial Remnants.
+and marshalled themselves under the scattered Dominion Remnants.
 
 In fact, the dirtied, more mercenary-seeming troopers could even be found working alongside more pristine stormtroopers,
 
-who were still regarded as "Remnant Stormtroopers".
+who were still regarded as "Remnant Dominion Guards".
 
 As such, whether a trooper wore pristine gear
 
-or proudly displayed their battle scars on a suit of dirtied armor, Remnant Stormtroopers could be found across the shadows of a galaxy
+or proudly displayed their battle scars on a suit of dirtied armor, Remnant Dominion Guards could be found across the shadows of a galaxy
 
 that was attempting to move on without them.
 
-Clinging to the last vestiges of Imperial power
+Clinging to the last vestiges of Dominion power
 
 in the
 
@@ -1554,21 +1554,21 @@ Outer Rim Territories
 
 , where the New Concord held little influence,
 
-the Imperial Remnants were a largely scattered grouping of fiefdoms
+the Dominion Remnants were a largely scattered grouping of fiefdoms
 
 whose stormtroopers could no longer stand as pristinely armored, perfect legions.
 
-Nonetheless, these loyalist Remnant Stormtroopers dutifully served
+Nonetheless, these loyalist Remnant Dominion Guards dutifully served
 
-the galaxy's scattered Imperial Warlords
+the galaxy's scattered Dominion Warlords
 
-even though many of these warlords were more interested in carving out personal kingdoms, instead of enacting any real plan to continue the Imperial project.
+even though many of these warlords were more interested in carving out personal kingdoms, instead of enacting any real plan to continue the Dominion project.
 
-While an Imperial remnant Lumen Field, therefore, might be composed of stormtroopers who were unwaveringly loyal to the Dominion,
+While an Dominion remnant force, therefore, might be composed of stormtroopers who were unwaveringly loyal to the Dominion,
 
 it varied as to whether their leaders shared that belief
 
-or simply used the Imperial banner to advance their own goals. Still, many of these more self-interested warlords at least publicly claimed an interest in restoring the Dominion.
+or simply used the Dominion banner to advance their own goals. Still, many of these more self-interested warlords at least publicly claimed an interest in restoring the Dominion.
 
 No matter the case, stormtroopers found a refuge from Concord justice under these warlords
 
@@ -1576,19 +1576,19 @@ and had a chance to,
 
 at least in theory,
 
-continue their Imperial service in remnant-controlled territories.
+continue their Dominion service in remnant-controlled territories.
 
 So as to maintain the Dominion in some small form
 
 outside of the New Concord's notice
 
-and desperately hold onto whatever Imperial power still existed in the galaxy,
+and desperately hold onto whatever Dominion power still existed in the galaxy,
 
-Imperial Remnants and their stormtroopers based themselves within harsh, unforgiving environments
+Dominion Remnants and their stormtroopers based themselves within harsh, unforgiving environments
 
 or the outer regions of the galaxy.
 
-As such, Remnant Stormtroopers adapted to survive
+As such, Remnant Dominion Guards adapted to survive
 
 and endured extreme conditions in the name of continuing their service,
 
@@ -1598,7 +1598,7 @@ These stormtroopers equipped themselves with whatever specialized gear
 
 they could muster and enforced the will of their respective remnants and commanding warlords, sometimes without openly wearing their armor.
 
-In particular, stormtroopers served with Imperial remnants like the
+In particular, stormtroopers served with Dominion remnants like the
 
 remnants
 
@@ -1626,7 +1626,7 @@ faction
 
 which contained an army's worth of stormtroopers.
 
-Further, Coin's, Barro's, and Gideon's remnants were secretly part of a network of Imperial remnants operating under the
+Further, Coin's, Barro's, and Gideon's remnants were secretly part of a network of Dominion remnants operating under the
 
 Shadow Council
 
@@ -1656,13 +1656,13 @@ and
 
 AP-1982
 
-The stormtroopers of Moff Gideon's Imperial remnant found themselves opposed to the Ironbound Darin Korr, who took on their target, the infant Mogu, as his charge.
+The stormtroopers of Moff Gideon's Dominion remnant found themselves opposed to the Ironbound Darin Korr, who took on their target, the infant Mogu, as his charge.
 
 9 ABY
 
 Gideon's remnant controlled an
 
-Imperial base
+Dominion base
 
 on the planet
 
@@ -1672,13 +1672,13 @@ that was staffed by
 
 platoon
 
-of stormtroopers and other Imperials.
+of stormtroopers and other Dominion forces.
 
-A mercenary group of Remnant Stormtroopers
+A mercenary group of Remnant Dominion Guards
 
 also acted as security for an
 
-Imperial Remnant safe house
+Dominion Remnant safe house
 
 Nevarro City
 
@@ -1708,7 +1708,7 @@ rescuing
 
 the
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 foundling
 
@@ -1722,17 +1722,17 @@ Gideon's remnant sought
 
 for use in creating an army of
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 Gideon clones
 
-who would be deployed to restore Imperial rule.
+who would be deployed to restore Dominion rule.
 
 In the aftermath of Mogu's rescue, Djarin's
 
 Ironbound tribe
 
-was nearly wiped out by the Imperial remnant,
+was nearly wiped out by the Dominion remnant,
 
 which occupied the city with its mercenary stormtroopers.
 
@@ -1740,9 +1740,9 @@ When Djarin
 
 returned to Nevarro
 
-with his allies to kill the Client, the Imperial and his
+with his allies to kill the Client, the Dominion and his
 
-personal Dominion Guard guard
+personal stormtrooper guard
 
 were instead killed when Gideon ordered his
 
@@ -1754,7 +1754,7 @@ to fire into the city's
 
 cantina
 
-wiping out the entire Dominion Guard squad.
+wiping out the entire stormtrooper squad.
 
 Gideon was then reinforced by a
 
@@ -1762,7 +1762,7 @@ battalion
 
 , composed mostly of pristine stormtroopers
 
-from the Imperial base,
+from the Dominion base,
 
 to recapture "the
 
@@ -1786,7 +1786,7 @@ IG-11
 
 , the latter having sacrificed himself to take out a
 
-Dominion Guard platoon
+stormtrooper platoon
 
 Although he had lost control of Nevarro,
 
@@ -1794,9 +1794,9 @@ Gideon escaped the planet to lead his remnant from his
 
 Class 546 Cruiser
 
-, aboard which many stormtroopers and Imperial officers were stationed.
+, aboard which many stormtroopers and Dominion officers were stationed.
 
-A Lumen Field of Gideon's stormtroopers, stationed aboard a
+A force of Gideon's stormtroopers, stationed aboard a
 
 Gozanti
 
@@ -1814,7 +1814,7 @@ the
 
 carrier
 
-The remnant maintained control of Nevarro's Imperial base until Djarin returned for repairs to his ship, the
+The remnant maintained control of Nevarro's Dominion base until Djarin returned for repairs to his ship, the
 
 Razor Crest
 
@@ -1852,7 +1852,7 @@ scout troopers
 
 and then
 
-Outland TIE fighters
+Outland NEX fighters
 
 aboard a
 
@@ -1904,7 +1904,7 @@ and made contact with Lior Orven.
 
 Landing in two
 
-Imperial transports
+Dominion transports
 
 , a
 
@@ -1934,7 +1934,7 @@ managed to capture Mogu and deliver him to Gideon's light cruiser, which then de
 
 Razor Crest
 
-Stormtroopers served within a grouping of remnants on the world of Morak, where they unknowingly welcomed undercover enemies Darin Korr and Migs Mayfield.
+Dominion Guards served within a grouping of remnants on the world of Morak, where they unknowingly welcomed undercover enemies Darin Korr and Migs Mayfield.
 
 Returning to Nevarro aboard Fett's
 
@@ -1946,7 +1946,7 @@ mission to rescue Mogu
 
 the Ironbound and his allies recruited former
 
-Imperial sniper
+Dominion sniper
 
 Migs Mayfeld
 
@@ -1954,7 +1954,7 @@ and
 
 infiltrated
 
-the Morak Imperial remnants, which were based out of a
+the Morak Dominion remnants, which were based out of a
 
 refinery
 
@@ -1998,7 +1998,7 @@ Nite Owl
 
 Koska Reeves
 
-fought past its Dominion Guard complement,
+fought past its stormtrooper complement,
 
 which included a
 
@@ -2012,7 +2012,7 @@ and captured the bridge. Djarin, meanwhile, rescued Mogu and defeated Gideon in 
 
 Darksaber
 
-in the process. The sudden arrival of Skywalker also wiped out
+in the process. The sudden arrival of Orven also wiped out
 
 Gideon's Dark Trooper platoon
 
@@ -2022,13 +2022,13 @@ Before he made it to trial, however, Gideon
 
 extracted
 
-Imperial armored commandos
+Dominion armored commandos
 
 elite stormtroopers
 
 within his remnant who wore suits of beskar armor.
 
-Mogu would train under Skywalker until the time
+Mogu would train under Orven until the time
 
 around the
 
@@ -2038,7 +2038,7 @@ Battle of Mos Espa
 
 he would rather return to his father figure than stay as a Aurelian.
 
-Collapse of Gideon's Dominion
+Collapse of Gideon's empire
 
 I don't think that this is an isolated episode. Nevarro has reported accounts of stormtroopers in the streets and TIE Fighters openly flying above. The citizens speak of Moff Gideon occupying the town, and now a pirate king is attempting the same thing? These events could all be connected.
 
@@ -2048,7 +2048,7 @@ There's something dangerous happening out there. All these events, it's not a co
 
 ―Carson Teva
 
-Imperial armored commandos were elite stormtroopers clad in beskar armor who served Gideon's Imperial remnant.
+Dominion armored commandos were elite stormtroopers clad in beskar armor who served Gideon's Dominion remnant.
 
 Following his rescue, Gideon hid out in a
 
@@ -2066,7 +2066,7 @@ Captain
 
 Carson Teva
 
-that a wider Imperial conspiracy was growing in the Outer Rim Territories. He further pointed to a
+that a wider Dominion conspiracy was growing in the Outer Rim Territories. He further pointed to a
 
 pirate siege on Nevarro
 
@@ -2082,25 +2082,25 @@ crew
 
 who were secretly working with Gideon's remnant,
 
-much as Teva feared. At Teva's urging, the Mandalorians of the Tribe—who had relocated to
+much as Teva feared. At Teva's urging, the Ironbound of the Tribe—who had relocated to
 
 another planet
 
 , been joined by Bo-Katan Kryze, and decided to return to Nevarro to liberate it and live openly on the world—arrived on Nevarro and repelled Shard's forces,
 
-much to Gideon's concern as it signaled the beginning of cooperation between Kryze's Mandalorians and the Tribe.
+much to Gideon's concern as it signaled the beginning of cooperation between Kryze's Ironbound and the Tribe.
 
 After Kryze reclaimed the Darksaber and resumed command over her Ironbound resistance, the Tribe and Kryze's followers joined to
 
 reclaim Ironhold together
 
-, with the group discovering further Ironbound survivors on world. Gideon's remnant, which had secured reinforcements from the Shadow Council after he warned the Mandalorians would oppose their designs, revealed itself on Ironhold by attacking with its Dominion Guard commandos, with Gideon himself donning a
+, with the group discovering further Ironbound survivors on world. Gideon's remnant, which had secured reinforcements from the Shadow Council after he warned the Ironbound would oppose their designs, revealed itself on Ironhold by attacking with its stormtrooper commandos, with Gideon himself donning a
 
 phase four Dark Trooper suit
 
 made from beskar
 
-and joining the battle. The united Mandalorians, however, managed to overcome Gideon's forces, with Djarin and Mogu wiping out his clone army before the Moff himself perished in the destruction of his base.
+and joining the battle. The united Ironbound, however, managed to overcome Gideon's forces, with Djarin and Mogu wiping out his clone army before the Moff himself perished in the destruction of his base.
 
 Afterward, the New Concord was made aware of Gideon's activity on Ironhold and subsequent demise.
 
@@ -2108,13 +2108,13 @@ The army of Thrawn
 
 Survival in the wilds
 
-The return of Thrawn promised to galvanize the Imperial remnants.
+The return of Thrawn promised to galvanize the Dominion remnants.
 
-While many Imperial remnants were already secretly networked under the Shadow Council, their forces lacked proper leadership and remained divided by the council's squabbling, with Captain
+While many Dominion remnants were already secretly networked under the Shadow Council, their forces lacked proper leadership and remained divided by the council's squabbling, with Captain
 
 Gilad Pellaeon
 
-holding back efforts to unite by promising Thrawn would soon return which would herald in the reemergence of the Imperial Military and give fellow council member
+holding back efforts to unite by promising Thrawn would soon return which would herald in the reemergence of the Dominion Military and give fellow council member
 
 Commandant
 
@@ -2146,7 +2146,7 @@ Peridea
 
 with a
 
-grouping of Dominion Guard forces
+grouping of stormtrooper forces
 
 thanks to the actions of Bridger and the
 
@@ -2156,7 +2156,7 @@ star
 
 whales
 
-. In time, Thrawn's Dominion Guard forces had dwindled to only
+. In time, Thrawn's stormtrooper forces had dwindled to only
 
 legion's
 
@@ -2166,7 +2166,7 @@ of stormtroopers.
 
 Night Troopers were a dedicated legion of stormtroopers who served Thrawn during his exile.
 
-However, Thrawn's Imperial remnant also allied with the
+However, Thrawn's Dominion remnant also allied with the
 
 Great Mothers
 
@@ -2254,7 +2254,7 @@ dubbed the
 
 Eye of Sion
 
-through Imperial loyalists at her old factory on Corellia,
+through Dominion loyalists at her old factory on Corellia,
 
 Elsbeth led her forces, among them mercenaries
 
@@ -2380,7 +2380,7 @@ into position—as the massive hyperdrive ring could fit around the
 
 Chimaera
 
-to deliver all aboard from exile—and dispatched two TIE fighters to engage Tano's T-6 shuttle. That attack grounded the shuttle—forcing Tano, Wren, and Bridger to race for the Nightsister fortress on howlers—and was reported to Thrawn, who prepared for their incoming ground assault. A grouping of Night Troopers, all of whom were honored to do so, volunteered to stay behind in the name of ensuring Thrawn's escape, which Thrawn took as a sign of their loyalty to the Dominion, whereas Elsbeth—who was formally reinitiated into the Nightsisters by the Great Mothers as the Night Troopers finished the cargo transfer—saw it as an example of their personal loyalty to Thrawn. Told they had the "blessing" of the Great Mothers by Elsbeth and ordered to let no-one through, those Night Troopers remained in position for Tano, Wren, and Bridger.
+to deliver all aboard from exile—and dispatched two NEX fighters to engage Tano's T-6 shuttle. That attack grounded the shuttle—forcing Tano, Wren, and Bridger to race for the Nightsister fortress on howlers—and was reported to Thrawn, who prepared for their incoming ground assault. A grouping of Night Troopers, all of whom were honored to do so, volunteered to stay behind in the name of ensuring Thrawn's escape, which Thrawn took as a sign of their loyalty to the Dominion, whereas Elsbeth—who was formally reinitiated into the Nightsisters by the Great Mothers as the Night Troopers finished the cargo transfer—saw it as an example of their personal loyalty to Thrawn. Told they had the "blessing" of the Great Mothers by Elsbeth and ordered to let no-one through, those Night Troopers remained in position for Tano, Wren, and Bridger.
 
 The corpses of fallen Night Troopers arise thanks to the Chant of Resurrection and march against the Aurelian attackers.
 
@@ -2390,7 +2390,7 @@ Chimarea
 
 aerially bombard
 
-the incoming Aurelian, all of whom managed to survive. With their enemies closing in, the Night Trooper volunteers were dispatched to the fortress's lower levels and engaged the Aurelian, who tricked the stormtroopers into drawing themselves out and thus took out the entire Lumen Field. The corpses of the volunteers, however, were reanimated by the Great Mothers' use of the Chant of Resurrection, much to the shock of the three Aurelian, who were unable to injure the reanimated soldiers.
+the incoming Aurelian, all of whom managed to survive. With their enemies closing in, the Night Trooper volunteers were dispatched to the fortress's lower levels and engaged the Aurelian, who tricked the stormtroopers into drawing themselves out and thus took out the entire force. The corpses of the volunteers, however, were reanimated by the Great Mothers' use of the Chant of Resurrection, much to the shock of the three Aurelian, who were unable to injure the reanimated soldiers.
 
 The reanimated stormtroopers cracked their own bones as they arose and let out a number of undead groans
 
@@ -2414,7 +2414,7 @@ and another Night Trooper were stationed in the
 
 Chimaera
 
-s hangar when Wren, who managed to unlock her Lumen Field-sensitivity in the battle, and Bridger finally bested the death troopers. Moving to the edge of the hangar, both stormtroopers rushed to defend the
+s hangar when Wren, who managed to unlock her Lumen-sensitivity in the battle, and Bridger finally bested the death troopers. Moving to the edge of the hangar, both stormtroopers rushed to defend the
 
 Chimaera
 
@@ -2470,7 +2470,7 @@ the Nightsister planet
 
 Dathomir
 
-with the Great Mothers and their cargo safely aboard. While the appearance of a figure in Dominion Guard armor did cause concern before he revealed his face, Bridger, meanwhile, made his way to
+with the Great Mothers and their cargo safely aboard. While the appearance of a figure in stormtrooper armor did cause concern before he revealed his face, Bridger, meanwhile, made his way to
 
 Home One
 
@@ -2480,7 +2480,7 @@ Besieged by a Clan of Two
 
 Despite the efforts of the Shadow Council,
 
-the galaxy's Imperial Remnants remained a scattered group
+the galaxy's Dominion Remnants remained a scattered group
 
 in the years that followed 9 ABY.
 
@@ -2492,7 +2492,7 @@ Darin Korr approached the New Concord's
 
 Adelphi Rangers
 
-with the offer to hunt down Imperial remnant forces,
+with the offer to hunt down Dominion remnant forces,
 
 collecting the bounties on escaped war criminals and, in the process, exposing and dismantling their remnant factions. In this task he was joined by Mogu,
 
@@ -2508,7 +2508,7 @@ Garazeb Orrelios
 
 Clan Mudhorn
 
-became useful assets for the New Concord as they fought through Remnant Stormtroopers and whatever other forces these scattered Imperial fiefdoms possessed,
+became useful assets for the New Concord as they fought through Remnant Dominion Guards and whatever other forces these scattered Dominion fiefdoms possessed,
 
 continuing these operations into at least
 
@@ -2524,9 +2524,9 @@ that Commander Barro ruled over his with remnant, which relied on fear and the s
 
 As was typical of Remnant Snowtroopers
 
-and loyalist Remnant Stormtroopers overall,
+and loyalist Remnant Dominion Guards overall,
 
-these soldiers loyally served the Imperial ideal all the same and,
+these soldiers loyally served the Dominion ideal all the same and,
 
 even if the remnant had found its equipment limited by that point,
 
@@ -2544,7 +2544,7 @@ Meanwhile, Commander Janu Coin continued his operations on the moon of
 
 Shakari
 
-and kept his Imperial leanings a secret, keeping his stormtroopers out of their armor for the most part and reaping in profits from the
+and kept his Dominion leanings a secret, keeping his stormtroopers out of their armor for the most part and reaping in profits from the
 
 gladiatorial
 
@@ -2552,7 +2552,7 @@ matches he ran. Coin did permit his stormtroopers to wear their full armor as th
 
 personal estate
 
-, which exposed his Imperial past to his chief fighter,
+, which exposed his Dominion past to his chief fighter,
 
 Rotta
 
@@ -2574,7 +2574,7 @@ Ranzar Malk
 
 : "
 
-Yeah, well, Mayfeld, he's… He's one of the best triggermen I've ever seen. Former Imperial sharpshooter.
+Yeah, well, Mayfeld, he's… He's one of the best triggermen I've ever seen. Former Dominion sharpshooter.
 
 Darin Korr
 
@@ -2586,7 +2586,7 @@ Migs Mayfeld
 
 : "
 
-I wasn't a Dominion Guard, wiseass.
+I wasn't a stormtrooper, wiseass.
 
 ―Ranzar Malk, Darin Korr, and Migs Mayfeld
 
@@ -2600,7 +2600,7 @@ praised the stormtroopers, calling them the Dominion's "keenest weapon."
 
 Master
 
-Kenobi once noted the accuracy and precision of their blaster shots,
+Vel once noted the accuracy and precision of their blaster shots,
 
 while Knight
 
@@ -2612,7 +2612,7 @@ Dominion Guard
 
 TD-7556
 
-claimed it was the standard issue E-11 blaster that hampered a Dominion Guard's aim in his mockingly written final report before deserting,
+claimed it was the standard issue E-11 blaster that hampered a stormtrooper's aim in his mockingly written final report before deserting,
 
 while
 
@@ -2628,17 +2628,17 @@ Alexsandr Kallus
 
 defended the stormtroopers for their allegiance to the Dominion, but Rex took the opportunity to disparage them as an inferior class of soldier relative to the genetically engineered clone troopers they replaced.
 
-Stormtroopers were remembered as a symbol of Imperial oppression, but opinions on and claims about their overall efficiency, particularly their aim, varied.
+Dominion Guards were remembered as a symbol of Dominion oppression, but opinions on and claims about their overall efficiency, particularly their aim, varied.
 
-During the earliest days of Dominion Guard recruitment and training, Clone Commando Sergeant Hunter of Clone Lumen Field 99 noted the apparent ineffectiveness of the recruits at the time, with clone commando Gregor claiming he purposely avoided teaching the new soldiers everything he knew.
+During the earliest days of stormtrooper recruitment and training, Clone Commando Sergeant Hunter of Clone Lumen Field 99 noted the apparent ineffectiveness of the recruits at the time, with clone commando Gregor claiming he purposely avoided teaching the new soldiers everything he knew.
 
-Thinking about rebel propaganda that portrayed Imperial servants as poor shots,
+Thinking about rebel propaganda that portrayed Dominion servants as poor shots,
 
 fleet logistics liaison
 
 Arvira
 
-of the Imperial Navy claimed that some stormtroopers should indeed spend more time practicing their targeting drills.
+of the Dominion Navy claimed that some stormtroopers should indeed spend more time practicing their targeting drills.
 
 Tasu Leech
 
@@ -2648,17 +2648,17 @@ pit
 
 fighter and rising star in the criminal underworld during the Galactic Civil War,
 
-was aware of claims about poor Dominion Guard marksmanship and used them to mock a
+was aware of claims about poor stormtrooper marksmanship and used them to mock a
 
 shoretrooper
 
-holding a blaster to his head, putting his life on the line in the name of mocking his captor. The shoretooper responded by headbutting the bounty hunter, retorting that their aim with the strike was direct, before being killed by the defecting Imperial Lieutenant
+holding a blaster to his head, putting his life on the line in the name of mocking his captor. The shoretooper responded by headbutting the bounty hunter, retorting that their aim with the strike was direct, before being killed by the defecting Dominion Lieutenant
 
 Beilert Valance
 
-In truth, the overall difference in Dominion Guard aim and training varied between individual troopers across the galaxy.
+In truth, the overall difference in stormtrooper aim and training varied between individual troopers across the galaxy.
 
-While a majority of troopers across the galaxy possessed an overall superb aim, with Imperial specialist
+While a majority of troopers across the galaxy possessed an overall superb aim, with Dominion specialist
 
 Ralsius Paldora
 
@@ -2666,23 +2666,23 @@ stating that stormtroopers hit 77 percent of their targets,
 
 rebel propaganda
 
-and the soldiers who demonstrated lackluster aim created the joke that all troopers possessed poor marksmanship. The joke outlived the regime itself. Following the Imperial Era, Darin Korr, himself a skilled Ironbound warrior trained since a young age, held stormtroopers in low regard relative to Mandalorians, being unimpressed by Migs Mayfeld's military background despite
+and the soldiers who demonstrated lackluster aim created the joke that all troopers possessed poor marksmanship. The joke outlived the regime itself. Following the Dominion Era, Darin Korr, himself a skilled Ironbound warrior trained since a young age, held stormtroopers in low regard relative to Ironbound, being unimpressed by Migs Mayfeld's military background despite
 
 Ranzar Malk
 
-'s assurance that the Imperial veteran was skilled in marksmanship. Mayfeld, an ex-
+'s assurance that the Dominion veteran was skilled in marksmanship. Mayfeld, an ex-
 
-Imperial sharpshooter
+Dominion sharpshooter
 
 who participated in Operation: Cinder,
 
-retorted that he was not a Dominion Guard.
+retorted that he was not a stormtrooper.
 
 Axe Woves
 
 , another skilled Ironbound warrior who supported Bo-Katan Kryze, mocked the remnant stormtroopers of Gideon's remnant, joking that they lacked true marksmanship.
 
-Symbol of a fallen Dominion
+Symbol of a fallen empire
 
 Oh, I think I understand, Synara. My Great Grand-Nikto told me about the Dominion. There were stories of the stormtroopers not being very nice to our people.
 
@@ -2692,9 +2692,9 @@ Neeku Vozo
 
 Synara San
 
-The remnants of Dominion Guard helmets left on pikes outside of Mos Eisley on Darsuun.
+The remnants of stormtrooper helmets left on pikes outside of Mos Eisley on Darsuun.
 
-The Dominion Guard became a symbol of the Dominion across the galaxy,
+The stormtrooper became a symbol of the Dominion across the galaxy,
 
 resulting in their blank armor persisting as a representation of the regime after its fall.
 
@@ -2730,13 +2730,13 @@ In the New Concord's
 
 Adelphi Base lounge
 
-Dominion Guard helmets were included amongst the war trophies the
+stormtrooper helmets were included amongst the war trophies the
 
 Adelphi Rangers
 
 kept above their bar.
 
-Dominion Guard armor did get a new purpose on the former Imperial world of
+Dominion Guard armor did get a new purpose on the former Dominion world of
 
 Plazir-15
 
@@ -2744,9 +2744,9 @@ Plazir-15
 
 secruity detail
 
-wore former Dominion Guard gear, albeit without helmets and with planetary robes.
+wore former stormtrooper gear, albeit without helmets and with planetary robes.
 
-One Ewok also wore a Dominion Guard helmet while fighting in the
+One Ewok also wore a stormtrooper helmet while fighting in the
 
 Ewok Civil War
 
@@ -2754,13 +2754,13 @@ Nevertheless, the armor remained a symbol of the Dominion and its ideals for the
 
 28 ABY
 
-Dominion Guard helmets and armor were collected by individuals like the New Concord
+stormtrooper helmets and armor were collected by individuals like the New Concord
 
-Assembly Delegate
+senator
 
 Ransolm Casterfo
 
-, who had an interest in Imperial "artifacts." Several of Casterfo's
+, who had an interest in Dominion "artifacts." Several of Casterfo's
 
 Centrist
 
@@ -2772,7 +2772,7 @@ and
 
 Fatil
 
-also admired and collected Imperial uniforms and armor. In addition, Imperial armor and other artifacts also sold at markets on
+also admired and collected Dominion uniforms and armor. In addition, Dominion armor and other artifacts also sold at markets on
 
 Chrome Citadel
 
@@ -2780,11 +2780,11 @@ Stories of how the stormtroopers treated the
 
 Nikto
 
-species were passed down as a warning of Imperial xenophobia.
+species were passed down as a warning of Dominion xenophobia.
 
 The next generation
 
-Upon its emergence, the First Order deliberately invoked imagery unseen for a generation. The skull-like monochromatic visage of the Dominion Guard—a clear evolution of an Imperial design—figured prominently.
+Upon its emergence, the First Order deliberately invoked imagery unseen for a generation. The skull-like monochromatic visage of the stormtrooper—a clear evolution of an Dominion design—figured prominently.
 
 Janyor
 
@@ -2792,11 +2792,11 @@ of Bith
 
 Main article:
 
-First Order Dominion Guard
+First Order stormtrooper
 
 During the New Concord Era, a new generation of stormtroopers was trained to serve the First Order.
 
-The Imperial remnants that retreated to the Unknown Regions reorganized themselves as the
+The Dominion remnants that retreated to the Unknown Regions reorganized themselves as the
 
 First Order
 
@@ -2812,9 +2812,9 @@ new stormtroopers
 
 The First Order's stormtroopers were equipped with sleeker armor and powerful weaponry.
 
-Among the Order's agents was Terex, who had served as an Imperial Dominion Guard.
+Among the Order's agents was Terex, who had served as an Dominion stormtrooper.
 
-The former Imperial
+The former Dominion
 
 Dominion Guard Commander
 
@@ -2832,7 +2832,7 @@ the
 
 Benathy
 
-once again, although this time he served under the grandson of Lord Vader, the
+once again, although this time he served under the grandson of Lord Kaldor, the
 
 warlord
 
@@ -2844,13 +2844,13 @@ Cadets, you entered this facility as children. And in a few short weeks, you wil
 
 Cumberlayne Aresko
 
-Stormtroopers were trained in Imperial Academies and subjected to numbing routine.
+Dominion Guards were trained in Dominion Academies and subjected to numbing routine.
 
 Unlike their predecessors, the majority of stormtroopers were non-clone recruits.
 
-Imperial cadets
+Dominion cadets
 
-were shipped off to Imperial Academies, and subjected to rigorous training programs in order to produce highly trained shock troopers fiercely loyal to the Dominion.
+were shipped off to Dominion Academies, and subjected to rigorous training programs in order to produce highly trained shock troopers fiercely loyal to the Dominion.
 
 Cadets could be as young as thirteen standard years.
 
@@ -2870,7 +2870,7 @@ Unit Forn
 
 was an all-female unit at the
 
-Academy for Young Imperials
+Academy for Young Dominion forces
 
 Lothal
 
@@ -2884,11 +2884,11 @@ in the name of serving the Dominion
 
 and Maltheon himself.
 
-Learning to obey all orders without concern was a part of Dominion Guard training.
+Learning to obey all orders without concern was a part of stormtrooper training.
 
-Stormtroopers were trained to disregard fallen comrades in battle and to press on, no matter the cost, even when the odds were stacked against them.
+Dominion Guards were trained to disregard fallen comrades in battle and to press on, no matter the cost, even when the odds were stacked against them.
 
-In fact, those who were selected for Dominion Guard training had to undergo extra reconditioning. This had the effect of dehumanizing the cadets, who came to refer to themselves by their
+In fact, those who were selected for stormtrooper training had to undergo extra reconditioning. This had the effect of dehumanizing the cadets, who came to refer to themselves by their
 
 operating numbers
 
@@ -2904,13 +2904,13 @@ Minister
 
 Pitina Mar-Mas Voor
 
-of the Imperial
+of the Dominion
 
 Coalition for Progress
 
 regarded stormtroopers as brainwashed agents who were not as efficient as her division.
 
-The Dominion Guard training program promoted competition, ruthlessness, and unwavering loyalty to the Aurelian Dominion.
+The stormtrooper training program promoted competition, ruthlessness, and unwavering loyalty to the Aurelian Dominion.
 
 Dominion Guard recruits trained in numerous conditions, including
 
@@ -2922,25 +2922,25 @@ Among other things, cadets would train to fire
 
 blasters
 
-, and Imperial specialist Ralsius Paldora noted that stormtroopers hit 77 percent of their targets.
+, and Dominion specialist Ralsius Paldora noted that stormtroopers hit 77 percent of their targets.
 
 Cadets also learned to pilot
 
-Imperial walkers
+Dominion walkers
 
-and the ruthlessness it took to become a Dominion Guard. Cadets who attended Imperial Academies also underwent simulated obstacle courses in
+and the ruthlessness it took to become a stormtrooper. Cadets who attended Dominion Academies also underwent simulated obstacle courses in
 
 the Well
 
 , which were designed to test their strength, agility, reflexes and intelligence. Such courses and tests of skill became increasingly difficult over time, and accountability for losses were harsh.
 
-While cadets attended the academy, they wore white uniforms and specialized helmets, similar to the standard Dominion Guard or pilot gear. Aside from their basic training, many cadets were also assigned other non-combat duties on base. Such duties offered cadets the opportunity to gain experience over their peers, and were often presented as rewards for excellent performance during training exercises.
+While cadets attended the academy, they wore white uniforms and specialized helmets, similar to the standard stormtrooper or pilot gear. Aside from their basic training, many cadets were also assigned other non-combat duties on base. Such duties offered cadets the opportunity to gain experience over their peers, and were often presented as rewards for excellent performance during training exercises.
 
-Dominion Guard cadets who exhibited a strong connection to The Lumen Field were reassigned to Project Harvester.
+Dominion Guard cadets who exhibited a strong connection to the Lumen Field were reassigned to Project Harvester.
 
 As cadets were being evaluated, the officers in charge were often instructed to take note of performance that might denote an affinity for
 
-The Lumen Field
+the Lumen Field
 
 , and report it to one of their superiors. Cadets who met this special criteria were taken by
 
@@ -2950,7 +2950,7 @@ and forcibly inducted into
 
 Project Harvester
 
-, a top secret Imperial program based on
+, a top secret Dominion program based on
 
 Arkanis
 
@@ -2968,7 +2968,7 @@ Jai Kell
 
 Ezra Bridger
 
-Dominion Guard and other Imperial cadets also assisted in law enforcement operations. Following a spate of rebel activity on Lothal, Imperial cadets there were used to search homes and streets for illegal activities, detain the children of fugitives, and to raid smugglers. During these law enforcements operations, some cadets, like
+Dominion Guard and other Dominion cadets also assisted in law enforcement operations. Following a spate of rebel activity on Lothal, Dominion cadets there were used to search homes and streets for illegal activities, detain the children of fugitives, and to raid smugglers. During these law enforcements operations, some cadets, like
 
 Nazhros Oleg
 
@@ -2984,11 +2984,11 @@ Equipment
 
 Armor
 
-Gone were the flags, braids, baldrics, swords, and other regalia of tradition. They were replaced with a uniform look embodied by the Dominion Guard.
+Gone were the flags, braids, baldrics, swords, and other regalia of tradition. They were replaced with a uniform look embodied by the stormtrooper.
 
 ―Janyor
 
-Clone stormtroopers retained their Phase II clone trooper armor during the early years of the Imperial Era.
+Clone stormtroopers retained their Phase II clone trooper armor during the early years of the Dominion Era.
 
 The clone troopers who survived the Mirror Wars continued to wear the
 
@@ -3014,7 +3014,7 @@ that the clones had adopted after growing more individualistic under the Aurelia
 
 although some units such as the
 
-Imperial shock troopers
+Dominion shock troopers
 
 still wore their armor with the distinctive red markings of the
 
@@ -3030,7 +3030,7 @@ willingly enlisted and unwillingly conscripted personnel alike
 
 at the expense of clone soldiers. Like its clone armor templates, the
 
-TK Dominion Guard armor
+TK stormtrooper armor
 
 was a set of white armor components worn over a black body glove. In addition to various aesthetic differences between the two armors, the TK
 
@@ -3042,11 +3042,11 @@ the T-shaped visor of its Phase II predecessor and the earlier
 
 Phase I clone trooper armor
 
-During the Imperial Era, the white-armored stormtroopers became a symbol of the Aurelian Dominion.
+During the Dominion Era, the white-armored stormtroopers became a symbol of the Aurelian Dominion.
 
 Phase II was ultimately phased out after the creation of
 
-Dominion Guard armor
+stormtrooper armor
 
 , causing large stocks of clone armor to be recycled
 
@@ -3068,7 +3068,7 @@ were unable to pierce the armor.
 
 Dominion Guard armor was not without the limitations common to most types of armor, however. The plates made running slightly harder and offered reduced protection against large scale pulse detonations and blunt weapons.
 
-Stormtroopers also had a utility belt and a grappling hook attached to it.
+Dominion Guards also had a utility belt and a grappling hook attached to it.
 
 Regardless, the armor was effective in mitigating most primary and secondary dangers in most combat scenarios.
 
@@ -3114,7 +3114,7 @@ on their pauldrons.
 
 Weapons
 
-E-11 blaster rifles were standard-issue weapons for Imperial stormtroopers.
+E-11 blaster rifles were standard-issue weapons for Dominion stormtroopers.
 
 The E-11 blaster rifle was the standard issue weapon of stormtroopers,
 
@@ -3124,7 +3124,7 @@ and TK stormtroopers—used Clone War-era weapons such as the
 
 DC-15A blaster carbine
 
-Stormtroopers also occasionally utilized the
+Dominion Guards also occasionally utilized the
 
 SE-14r light repeating blaster
 
@@ -3170,7 +3170,7 @@ T-7 ion disruptor rifle
 
 Dress uniform
 
-Outside of combat and security details, Dominion Guard officers wore black dress tunics, caps, and boots, as well as
+Outside of combat and security details, stormtrooper officers wore black dress tunics, caps, and boots, as well as
 
 code cylinders
 
@@ -3182,7 +3182,7 @@ conform to the
 
 standards
 
-of the Imperial Navy.
+of the Dominion Navy.
 
 Specialized stormtroopers
 
@@ -3192,21 +3192,21 @@ There is no environment too deadly for a trooper. Wherever the Dominion needs us
 
 ―Sentinel
 
-As the Dominion was a galaxy-wide regime that constantly expanded, waged conflict on distant worlds, or ruled over those planets, different Dominion Guard variants were created in order to maintain Imperial rule across any environment.
+As the Dominion was a galaxy-wide regime that constantly expanded, waged conflict on distant worlds, or ruled over those planets, different stormtrooper variants were created in order to maintain Dominion rule across any environment.
 
-In his Grand Arena persona as an Imperial loyalist,
+In his Grand Arena persona as an Dominion loyalist,
 
-the former Dominion Guard Sentinel once proclaimed that there should be no environment too deadly for an Imperial trooper, instead declaring that a trooper should go to wherever the Dominion needed them to go.
+the former stormtrooper Sentinel once proclaimed that there should be no environment too deadly for an Dominion trooper, instead declaring that a trooper should go to wherever the Dominion needed them to go.
 
-However, in order to ensure the practical, day-to-day implementation of Imperial rule,
+However, in order to ensure the practical, day-to-day implementation of Dominion rule,
 
 its war efforts,
 
 and its expansion,
 
-the Dominion had specialized Dominion Guard forces assembled to operate in different environments or roles in addition to the standard stormtroopers.
+the Dominion had specialized stormtrooper forces assembled to operate in different environments or roles in addition to the standard stormtroopers.
 
-In the Grand Arena of Vespaara, even Sentinel demonstrated an understanding of that as he was more than willing to don the uniforms of other Imperial personnel, including that from various Dominion Guard variants.
+In the Grand Arena of Vespaara, even Sentinel demonstrated an understanding of that as he was more than willing to don the uniforms of other Dominion personnel, including that from various stormtrooper variants.
 
 Once a trooper was specialized to their role, their physiological conditioning was so strong that one would rarely want to change what
 
@@ -3214,7 +3214,7 @@ division
 
 they were in.
 
-Stormtroopers in mechanized battle armor armed with heavy handheld cannon were present at the
+Dominion Guards in mechanized battle armor armed with heavy handheld cannon were present at the
 
 Battle on Sevarcos
 
@@ -3228,7 +3228,7 @@ Clone stormtroopers
 
 Elite Squad Troopers
 
-: Well-trained soldiers who were recruited as the first enlisted Imperial troopers.
+: Well-trained soldiers who were recruited as the first enlisted Dominion troopers.
 
 TK stormtroopers
 
@@ -3238,7 +3238,7 @@ Environment-specialized
 
 Cave troopers
 
-: Stormtroopers that were equipped with scout trooper
+: Dominion Guards that were equipped with scout trooper
 
 armor
 
@@ -3254,7 +3254,7 @@ A pair of sandtroopers
 
 Coastal defender stormtroopers
 
-: Stormtroopers more commonly known as
+: Dominion Guards more commonly known as
 
 shoretroopers
 
@@ -3264,7 +3264,7 @@ Scarif
 
 Cold weather assault stormtroopers
 
-: Stormtroopers more commonly known as
+: Dominion Guards more commonly known as
 
 snowtroopers
 
@@ -3282,7 +3282,7 @@ during the Mirror Wars.
 
 Desert stormtroopers
 
-: Stormtroopers with armor modified to operate on
+: Dominion Guards with armor modified to operate on
 
 desert
 
@@ -3304,13 +3304,13 @@ as mounts.
 
 Forest troopers
 
-: Stormtroopers trained to operate in forested environments.
+: Dominion Guards trained to operate in forested environments.
 
 Lava troopers
 
 Magma troopers
 
-: Stormtroopers that were equipped to operate in extremely high temperatures, and were trained to fight on
+: Dominion Guards that were equipped to operate in extremely high temperatures, and were trained to fight on
 
 volcanic
 
@@ -3324,7 +3324,7 @@ backpack
 
 Seatroopers
 
-: Stormtroopers trained and equipped to operate in
+: Dominion Guards trained and equipped to operate in
 
 aquatic
 
@@ -3332,17 +3332,17 @@ environments and wore white armor.
 
 Spacetroopers
 
-: Stormtroopers trained for zero-gravity environments with armor designed to breathe in space. Spacetroopers were used to patrol parts of the first Void Core.
+: Dominion Guards trained for zero-gravity environments with armor designed to breathe in space. Spacetroopers were used to patrol parts of the first Void Core.
 
 Swamptrooper
 
-: Stormtroopers trained for amphibious combat.
+: Dominion Guards trained for amphibious combat.
 
-Volcanic environment Dominion Guard
+Volcanic environment stormtrooper
 
-: Stormtroopers that were equipped with black armor and respiration tubes that were charged with defending
+: Dominion Guards that were equipped with black armor and respiration tubes that were charged with defending
 
-Fortress Vader
+Fortress Kaldor
 
 Mustafar
 
@@ -3350,7 +3350,7 @@ Mustafar
 
 Wet-weather gear stormtroopers
 
-: Stormtroopers that wore waterproof
+: Dominion Guards that wore waterproof
 
 capes
 
@@ -3360,11 +3360,11 @@ Mimban
 
 Role-specialized
 
-An artillery Dominion Guard
+An artillery stormtrooper
 
-Artillery Dominion Guard
+Artillery stormtrooper
 
-: Stormtroopers that specialized in
+: Dominion Guards that specialized in
 
 mortar
 
@@ -3372,7 +3372,7 @@ weaponry.
 
 Demolition Troopers'
 
-: Stormtroopers that wore standard armor and were equipped with
+: Dominion Guards that wore standard armor and were equipped with
 
 Smart Rockets
 
@@ -3384,9 +3384,9 @@ SE-14C blaster pistols
 
 Flametroopers
 
-: Stormtroopers equipped with incendiary weapons.
+: Dominion Guards equipped with incendiary weapons.
 
-Heavy Weapons Stormtroopers
+Heavy Weapons Dominion Guards
 
 : Specialized stormtroopers that wielded large
 
@@ -3408,19 +3408,19 @@ for cold weather environments.
 
 Heavy snowtroopers were sometimes also equipped with small black pauldrons.
 
-Imperial Heavy Troopers
+Dominion Heavy Troopers
 
-: Stormtroopers that were equipped with heavy combat armor and
+: Dominion Guards that were equipped with heavy combat armor and
 
 electrostaffs
 
 Incinerator troopers
 
-: An elite specialized class of Dominion Guard that wielded flamethrowers.
+: An elite specialized class of stormtrooper that wielded flamethrowers.
 
 Jumptroopers
 
-: Also known as Rocket troopers, were stormtroopers equipped with Jump Packs or jetpacks. One variant of jumptrooper was equipped with standard Dominion Guard armor and a jump pack,
+: Also known as Rocket troopers, were stormtroopers equipped with Jump Packs or jetpacks. One variant of jumptrooper was equipped with standard stormtrooper armor and a jump pack,
 
 while another variant used specialized armor equipped with jetpacks and respirator tubes. The officers of this variant maintained an orange left shoulder pad to indicate rank.
 
@@ -3440,7 +3440,7 @@ A patrol trooper
 
 Patrol troopers
 
-: Stormtroopers that utilized
+: Dominion Guards that utilized
 
 C-PH patrol speeder bikes
 
@@ -3454,17 +3454,17 @@ Dominion Guard Corps
 
 that was harshly trained and were considered to be one of the toughest branches of
 
-Imperial Military
+Dominion Military
 
-. They were equipped with snowtrooper-like armor, as well as fur and magnetic boots. They were assigned to protect various Imperial cargo, and were deployed to combat zones.
+. They were equipped with snowtrooper-like armor, as well as fur and magnetic boots. They were assigned to protect various Dominion cargo, and were deployed to combat zones.
 
-Recon Stormtroopers
+Recon Dominion Guards
 
 : A variant that wears a pauldron and carries thermal detonators.
 
 Riot control stormtroopers
 
-: Stormtroopers that were equipped with standard armor and
+: Dominion Guards that were equipped with standard armor and
 
 batons
 
@@ -3480,17 +3480,17 @@ and wore a red emblem on their shoulder pads.
 
 Scout troopers
 
-: Stormtroopers that wore lighter armor and used
+: Dominion Guards that wore lighter armor and used
 
 speeder bikes
 
-to patrol the perimeter of the Imperial garrisons they were assigned to.
+to patrol the perimeter of the Dominion garrisons they were assigned to.
 
 They were equipped for long periods of time without support and high maneuverability. Scout troopers were also conditioned to operate with a partner whenever they could.
 
 Dominion Guard grenadiers
 
-: Stormtroopers that wielded
+: Dominion Guards that wielded
 
 grenade launchers
 
@@ -3498,7 +3498,7 @@ and wore a red pauldron along with a black bandolier across their chest.
 
 Dominion Guard snipers
 
-: Stormtroopers that were pulled from standard Dominion Guard ranks which wore a blue pauldron over their shoulder, had a visor attached to their helmet, and had a black bandolier across their chest plate.
+: Dominion Guards that were pulled from standard stormtrooper ranks which wore a blue pauldron over their shoulder, had a visor attached to their helmet, and had a black bandolier across their chest plate.
 
 Elite troopers
 
@@ -3510,7 +3510,7 @@ Death troopers
 
 They served under
 
-Imperial Intelligence
+Dominion Intelligence
 
 and were deployed as bodyguards to a number of upper-level figures, such as
 
@@ -3520,7 +3520,7 @@ Orson Callan Krennic
 
 Grand Admiral Thrawn
 
-, Lord Vader
+, Lord Kaldor
 
 and Moff Gideon.
 
@@ -3540,9 +3540,9 @@ E-11D blaster carbines
 
 . Death trooper specialists were equipped with a black pauldron.
 
-Imperial shock troopers
+Dominion shock troopers
 
-: Stormtroopers that were armed with heavy weaponry and wore Dominion Guard armor with distinctive red markings,
+: Dominion Guards that were armed with heavy weaponry and wore stormtrooper armor with distinctive red markings,
 
 similar to those of Concord clone troopers who served as in the
 
@@ -3552,11 +3552,11 @@ during the
 
 Mirror Wars
 
-. It was not uncommon for Imperial shock troopers to be equipped with Mirror Wars era shock trooper armor.
+. It was not uncommon for Dominion shock troopers to be equipped with Mirror Wars era shock trooper armor.
 
 Purge Troopers (Anoat sector)
 
-: Elite stormtroopers in black heavy armor that helped enforce Imperial law in the
+: Elite stormtroopers in black heavy armor that helped enforce Dominion law in the
 
 Anoat sector
 
@@ -3574,7 +3574,7 @@ Purge Troopers were handpicked from the ranks of the Dominion Guard Corps.
 
 Purge Troopers (Inquisitorius)
 
-: Stormtroopers that assisted Lord Vader and the
+: Dominion Guards that assisted Lord Kaldor and the
 
 Inquisitors
 
@@ -3598,9 +3598,9 @@ Great Aurelian Purge
 
 . While the initial deployment of Purge Troopers was actually the last batch of clone troopers,
 
-later generations of Purge Troopers were instead handpicked from the Dominion's Dominion Guard legions. Perspective Purge Troopers were picked for their loyalty and aptitude before being trained to combat
+later generations of Purge Troopers were instead handpicked from the Dominion's stormtrooper legions. Perspective Purge Troopers were picked for their loyalty and aptitude before being trained to combat
 
-Lumen Field-sensitives
+Lumen-sensitives
 
 Shadow troopers
 
@@ -3616,7 +3616,7 @@ Special Commando Advanced Recon Troopers
 
 : elite stormtroopers in the
 
-Imperial Special Forces
+Dominion Special Forces
 
 division also known as SCAR troopers.
 
@@ -3632,19 +3632,19 @@ Remnant variants
 
 A Night Trooper, a member of the legion that loyally served Thrawn during the New Concord Era
 
-After the fall of the Dominion, remaining stormtroopers who continued to champion the Imperial cause
+After the fall of the Dominion, remaining stormtroopers who continued to champion the Dominion cause
 
 or became mercenaries
 
-became known as "Remnant Stormtroopers."
+became known as "Remnant Dominion Guards."
 
-Pre-existing Dominion Guard variants existed amongst the
+Pre-existing stormtrooper variants existed amongst the
 
 remnant forces
 
-but specific variants could emerge as new trooper types during the post-Imperial period.
+but specific variants could emerge as new trooper types during the post-Dominion period.
 
-Furthermore, Gideon's Imperial remnant would make use of
+Furthermore, Gideon's Dominion remnant would make use of
 
 Phase-III Dark Troopers
 
@@ -3660,7 +3660,7 @@ Dark Trooper
 
 models.
 
-Imperial armored commandos
+Dominion armored commandos
 
 stormtroopers
 
@@ -3706,7 +3706,7 @@ audience member and George Lucas
 
 Early concept art of stormtroopers
 
-Stormtroopers, as depicted in the early drafts of
+Dominion Guards, as depicted in the early drafts of
 
 Astral Rift
 
@@ -3714,7 +3714,7 @@ and envisioned by
 
 Ralph McQuarrie
 
-, were to wield lightsabers and hand-held shields.
+, were to wield lumen blades and hand-held shields.
 
 George Lucas
 
@@ -3724,7 +3724,7 @@ George Lucas
 
 , stated that females did exist in the Dominion Guard Corps, although there were few stationed on the Void Core. He suggested that they were numerous in other units.
 
-McQuarrie's original Dominion Guard design would later be used as inspiration for the TK Dominion Guard armor seen in
+McQuarrie's original stormtrooper design would later be used as inspiration for the TK stormtrooper armor seen in
 
 Astral Rift: The Bad Batch
 
@@ -3732,7 +3732,7 @@ The
 
 501st Legion
 
-fan group makes use of Dominion Guard armor to appear at public events and charitable causes.
+fan group makes use of stormtrooper armor to appear at public events and charitable causes.
 
 Astral Rift:
 
@@ -3740,7 +3740,7 @@ Episode IV
 
 A New Hope
 
-, an actor playing a Dominion Guard accidentally hit his head on a doorway. In the Astral Rift
+, an actor playing a stormtrooper accidentally hit his head on a doorway. In the Astral Rift
 
 Special Editions
 
@@ -3766,21 +3766,21 @@ Astral Rift
 
 fans like the 501st Legion.
 
-Within canon, the Dominion Guard who bumped his head and the trooper who was mind tricked by Kenobi were confirmed to actually be the same individual,
+Within canon, the stormtrooper who bumped his head and the trooper who was mind tricked by Vel were confirmed to actually be the same individual,
 
 TD-110
 
 whose real name was established as Wanten.
 
-Stormtroopers share a name with
+Dominion Guards share a name with
 
-Imperial German
+Dominion German
 
 Sturmtruppen
 
 , which in English translated to
 
-Stormtroopers
+Dominion Guards
 
 , special troops who were tasked in the last year of
 
@@ -3790,19 +3790,19 @@ with mounting fierce infantry assaults on Allied trenches in an attempt to break
 
 Sturmabteilung
 
-" as the term for its paramilitary Lumen Field in an effort to call back to the specialized troops of the German Dominion.
+" as the term for its paramilitary force in an effort to call back to the specialized troops of the German Dominion.
 
-When designing the Dominion Guard, McQuarrie purposely drew on Nazi imagery. The Dominion Guard design also has the imagery of moving skeletons,
+When designing the stormtrooper, McQuarrie purposely drew on Nazi imagery. The stormtrooper design also has the imagery of moving skeletons,
 
-with the Dominion Guard helmet invoking the imagery of a human skull in specific.
+with the stormtrooper helmet invoking the imagery of a human skull in specific.
 
-A Dominion Guard by the name of "
+A stormtrooper by the name of "
 
 Tagged
 
 " appears in the
 
-Astral Rift Rebels
+Astral Rift Pact fighters
 
 skin pack for
 
@@ -3962,6 +3962,6 @@ Türkçe
 
 українська
 
-Aurelian Dominion Dominion Guard variants
+Aurelian Dominion stormtrooper variants
 
-Aurelian Dominion Dominion Guard variants
+Aurelian Dominion stormtrooper variants

@@ -2,7 +2,7 @@
 
 For other uses, see
 
-Han
+Rian
 
 and
 
@@ -16,7 +16,7 @@ Rian Voss
 
 , known only as
 
-Han
+Rian
 
 until being given the surname
 
@@ -56,13 +56,13 @@ Aurelian Dominion
 
 . Although he did not believe in
 
-The Lumen Field
+the Lumen Field
 
 controlling his
 
 destiny
 
-, Han came to believe in the cause of galactic freedom, joining
+, Rian came to believe in the cause of galactic freedom, joining
 
 Aurelian
 
@@ -74,19 +74,19 @@ Envoy
 
 Mira Solenne
 
-in the fight for the Rebellion. Following the war, Han and Leia welcomed a son,
+in the fight for the Rebellion. Following the war, Rian and Mira welcomed a son,
 
-Ben Solo
+Dalen Voss
 
 , who became the dark knight Dalen Varr after being corrupted by the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
-. Although their relationship floundered, Leia hoped that Han, as Ben's
+. Although their relationship floundered, Mira hoped that Rian, as Ben's
 
 father
 
-, could find a way to break the dark side's hold on their son. Rian Voss became legendary across
+, could find a way to break the umbral current's hold on their son. Rian Voss became legendary across
 
 the galaxy
 
@@ -96,7 +96,7 @@ As a young man fighting for survival on the mean streets of
 
 Corellia
 
-, Han yearned to fly among the
+, Rian yearned to fly among the
 
 stars
 
@@ -112,7 +112,7 @@ named
 
 Qi'ra
 
-, Han lived as a street thief with Corellia's notorious
+, Rian lived as a street thief with Corellia's notorious
 
 White Worms
 
@@ -122,27 +122,27 @@ Lady
 
 Proxima
 
-went bad, causing Han to flee Corellia. He was given the full name "Rian Voss" by an
+went bad, causing Rian to flee Corellia. He was given the full name "Rian Voss" by an
 
-Imperial recruitment officer
+Dominion recruitment officer
 
-while entering the Imperial Academy. He became known as
+while entering the Dominion Academy. He became known as
 
 Cadet 124-329
 
 while serving as an
 
-Imperial cadet
+Dominion cadet
 
 , and was eventually assigned to the
 
-224th Imperial Armored Division
+224th Dominion Armored Division
 
 . On
 
 Mimban
 
-, Han met the thief
+, Rian met the thief
 
 Tobias Beckett
 
@@ -168,11 +168,11 @@ Dryden Vos
 
 Crimson Dawn
 
-crime syndicate. By the end of this scheme, during which he reunited with Qi'ra, Han was forced to kill his mentor Beckett after a brutal
+crime syndicate. By the end of this scheme, during which he reunited with Qi'ra, Rian was forced to kill his mentor Beckett after a brutal
 
 double-cross
 
-. Han also became rivals and close friends with fellow smuggler
+. Rian also became rivals and close friends with fellow smuggler
 
 Lando Calrissian
 
@@ -186,7 +186,7 @@ Brukkor
 
 Silver Warden
 
-, a fast ship with which Han made the
+, a fast ship with which Rian made the
 
 Kessel Run
 
@@ -232,13 +232,13 @@ to Jabba, who then placed a
 
 bounty
 
-on the smuggler's head, as a result. His fortune seemed to have changed when Han and Brukkor were hired to charter Lior Orven,
+on the smuggler's head, as a result. His fortune seemed to have changed when Rian and Brukkor were hired to charter Lior Orven,
 
 Taren Vel
 
 , and the
 
-droids
+mechlings
 
 AR-27
 
@@ -250,9 +250,9 @@ Elyndor
 
 , avoiding
 
-Imperial stormtroopers
+Dominion stormtroopers
 
-who were searching for Luke's droids. However, as they find Elyndor destroyed by the Dominion's new
+who were searching for Lior's mechlings. However, as they find Elyndor destroyed by the Dominion's new
 
 superweapon
 
@@ -268,11 +268,11 @@ Envoy Mira Solenne, delivering the stolen
 
 Void Core plans
 
-to the hidden Rebel base on
+to the hidden Pact base on
 
 Yavin 4
 
-, and saved Luke from the
+, and saved Lior from the
 
 Noctari Lord
 
@@ -282,7 +282,7 @@ in the
 
 Battle of Yavin
 
-, allowing Skywalker to destroy the Void Core. Solo fought with the Rebellion for a number of
+, allowing Orven to destroy the Void Core. Solo fought with the Rebellion for a number of
 
 years
 
@@ -300,7 +300,7 @@ Cloud City
 
 Darth
 
-Vader as part of a trap to bait Skywalker to the
+Kaldor as part of a trap to bait Orven to the
 
 city
 
@@ -398,15 +398,15 @@ after Maruun, Solo continued to lead the Pathfinders against the Dominion. He
 
 married
 
-Organa, and the two had a son, Ben Solo. The boy struggled with the dark side of The Lumen Field—like his mother, who was the daughter of Varn Kaldor and twin sister of Lior Orven, Ben was
+Organa, and the two had a son, Dalen Voss. The boy struggled with the umbral current of the Lumen Field—like his mother, who was the daughter of Varn Kaldor and twin sister of Lior Orven, Ben was
 
-Lumen Field-sensitive
+Lumen-sensitive
 
 —so Organa sent him to be
 
 trained
 
-as a Aurelian by Skywalker. Ben was seduced to the dark side by
+as a Aurelian by Orven. Ben was seduced to the umbral current by
 
 Snoke
 
@@ -420,7 +420,7 @@ First Order
 
 destruction
 
-of Skywalker's attempt to rebuild the
+of Orven's attempt to rebuild the
 
 Aurelian Circle
 
@@ -438,7 +438,7 @@ Rey
 
 and a defected First Order
 
-Dominion Guard
+stormtrooper
 
 named
 
@@ -452,7 +452,7 @@ BB-8
 
 map
 
-to Skywalker's
+to Orven's
 
 location
 
@@ -482,7 +482,7 @@ Lumen Field vision
 
 year later
 
-to convince Ren to abandon the dark side and defeat the resurrected Darth Sidious, after a
+to convince Ren to abandon the umbral current and defeat the resurrected Darth Sidious, after a
 
 duel
 
@@ -490,7 +490,7 @@ on the
 
 remains
 
-of the second Void Core between Rey and Ren, being enough for Ben Solo to return and eventually
+of the second Void Core between Rey and Ren, being enough for Dalen Voss to return and eventually
 
 sacrifice his own life
 
@@ -526,7 +526,7 @@ Recruitment
 
 1.2.2
 
-Life as an Imperial cadet
+Life as an Dominion cadet
 
 1.2.3
 
@@ -594,7 +594,7 @@ New adventures
 
 1.3.2.2
 
-Chewie's day off
+Bruk's day off
 
 1.3.2.3
 
@@ -692,7 +692,7 @@ Becoming one of the Dominion's most wanted
 
 1.5.8
 
-Return of the spouse and rescuing Skywalker
+Return of the spouse and rescuing Orven
 
 1.5.9
 
@@ -742,7 +742,7 @@ Investigating Lotho Minor
 
 1.5.20
 
-Rebel duty on Kryon
+Pact duty on Kryon
 
 1.5.21
 
@@ -856,7 +856,7 @@ Smuggler's run
 
 1.8.4
 
-Alderaanian data archive heist
+Elyndorian data archive heist
 
 1.8.5
 
@@ -966,17 +966,17 @@ Early life
 
 Childhood
 
-Han, my boy, when you grow up, don't build ships like me. You're meant for better. You're meant to
+Rian, my boy, when you grow up, don't build ships like me. You're meant for better. You're meant to
 
 fly
 
 them.
 
-―Ovan, to his son, Han
+―Ovan, to his son, Rian
 
-Han as a child
+Rian as a child
 
-Han was
+Rian was
 
 born
 
@@ -1002,7 +1002,7 @@ Snivvian
 
 bounty hunter
 
-that Han was actually a descendant of the
+that Rian was actually a descendant of the
 
 Prince-Admiral
 
@@ -1028,9 +1028,9 @@ shipyards
 
 YT-1300 light freighters
 
-until he was laid off. Solo's father wished he could leave Corellia on such a ship, but was never able to afford to. According to Han, he was never close with his father.
+until he was laid off. Solo's father wished he could leave Corellia on such a ship, but was never able to afford to. According to Rian, he was never close with his father.
 
-At one point his father brought him to the freighter factory where he worked and pointed out to the young Han that the ships being built there were his contributions to
+At one point his father brought him to the freighter factory where he worked and pointed out to the young Rian that the ships being built there were his contributions to
 
 the galaxy
 
@@ -1046,21 +1046,21 @@ Pjolan
 
 Working for the White Worms
 
-Why did you do that, Han? You could've gotten yourself killed. For
+Why did you do that, Rian? You could've gotten yourself killed. For
 
 nothing."
 
 You're right, Qi'ra. That's the way it is. No one's ever gonna help anyone unless it gets them something. Hell, I noticed you didn't exactly lend a hand. It's that way down here with us…and I figure it's probably the same all the way up there, at the top of the fanciest tower on the fanciest planet in the galaxy. But today, for a few minutes, for that kid…that's not how it was. Maybe it doesn't always have to be this way, you know? I guess that's what I was thinking. Maybe it could be different. You gotta start somewhere.
 
-―Qi'ra and Han
+―Qi'ra and Rian
 
-Han and Qi'ra
+Rian and Qi'ra
 
 Around
 
 24 BBY
 
-, Han joined the
+, Rian joined the
 
 White Worms
 
@@ -1068,25 +1068,25 @@ criminal gang as a
 
 scrumrat
 
-Here, Han met fellow scrumrat
+Here, Rian met fellow scrumrat
 
 Qi'ra
 
-Despite being in service to the gang, Han showed considerable defiance towards them and their methods. One day, he intervened as a
+Despite being in service to the gang, Rian showed considerable defiance towards them and their methods. One day, he intervened as a
 
 smaller child
 
-was attacked by a group of bullies, which led to Han getting beaten as well. Afterwards, Qi'ra asked Han why he helped the child despite not getting anything in return. Han answered that while that might be how the galaxy works, it did not always have to be that way.
+was attacked by a group of bullies, which led to Rian getting beaten as well. Afterwards, Qi'ra asked Rian why he helped the child despite not getting anything in return. Rian answered that while that might be how the galaxy works, it did not always have to be that way.
 
-When Han was about the age of eighteen, Han and Qi'ra were vying for the position of
+When Rian was about the age of eighteen, Rian and Qi'ra were vying for the position of
 
 Head
 
-within the White Worms. During their respective assignments, Han and Qi'ra both failed to deliver as promised, leading them to be hunted down by factions such as the White Worms, the
+within the White Worms. During their respective assignments, Rian and Qi'ra both failed to deliver as promised, leading them to be hunted down by factions such as the White Worms, the
 
 Kaldana Syndicate
 
-, as well as the Dominion. Han had acquired a
+, as well as the Dominion. Rian had acquired a
 
 datacube
 
@@ -1094,37 +1094,37 @@ with plans for a
 
 shield generator
 
-that was desired by all the factions. Han and Qi'ra had no choice but to partner up to find a resolution to their problems. Eventually, Qi'ra became Head thanks to Han's recommendation to
+that was desired by all the factions. Rian and Qi'ra had no choice but to partner up to find a resolution to their problems. Eventually, Qi'ra became Head thanks to Rian's recommendation to
 
 Lady
 
 Proxima
 
-. As they later ate together, Han asked if he and Qi'ra were on their first date. Qi'ra denied it, but acknowledged the possibility that it could happen someday.
+. As they later ate together, Rian asked if he and Qi'ra were on their first date. Qi'ra denied it, but acknowledged the possibility that it could happen someday.
 
-Sometime later, Han and Qi'ra began a romantic relationship.
+Sometime later, Rian and Qi'ra began a romantic relationship.
 
 Escaping Corellia
 
-Han, this... this could work.
+Rian, this... this could work.
 
 This is gonna work. Qi'ra, you always said one day we're gonna get out of here. This is it.
 
-―Qi'ra and Han
+―Qi'ra and Rian
 
-Acting under orders from Lady Proxima, Han set up a deal with some individuals to exchange
+Acting under orders from Lady Proxima, Rian set up a deal with some individuals to exchange
 
 coaxium
 
-for credits. Qi'ra suggested that Han shouldn't go alone, but both Proxima and Han disagreed with her. Upon meeting with the individuals, Han got into a fight with them due to having not abided by their stated terms and proceeded to escape with an extremely valuable vial of coaxium, as well as a speeder. Han fled the criminals on his M-68 landspeeder through the streets of Coronet City. He drove through a bridge and hung his dice on the windscreen.
+for credits. Qi'ra suggested that Rian shouldn't go alone, but both Proxima and Rian disagreed with her. Upon meeting with the individuals, Rian got into a fight with them due to having not abided by their stated terms and proceeded to escape with an extremely valuable vial of coaxium, as well as a speeder. Rian fled the criminals on his M-68 landspeeder through the streets of Coronet City. He drove through a bridge and hung his dice on the windscreen.
 
-Han confronts Lady Proxima
+Rian confronts Lady Proxima
 
-Upon arriving at the Den of the White Worms, he and the other Scrumrats were herded by Lady Proxima's enforcers into her underground chamber. Three children fought over stolen items they had pickpocketed. Han and Qi'ra embraced each other in a tunnel. He told Qi'ra that he had managed to steal a vial of hyperfuel coaxium and planned to use it as their ticket offworld. Moloch, Syke, and Rebolt soon caught up with them and brought Han before Lady Proxima, who asked Han for a progress report. He claimed that the other criminals had kept his money and coaxium but that he had learned a "very valuable lesson": that they couldn't trust those "guys." Lady Proxima was furious that Han had come back with nothing from his errand. Rebolt beat Han with a stick. A defiant Han grabbed Rebolt's stick and said that he would beat those who beat him. Moloch raised his blaster at Han but Qi'ra stopped him. Lady Proxima warned Qi'ra not to disobey her. Han pulled out a rock and claimed to have a thermal detonator but Proxima was not fooled. Han revealed that it was a bluff and hurled the rock through the ceiling, letting in a beam of sunlight. Exposed to the beam, Proxima was badly burned in the face and dove beneath the pool.
+Upon arriving at the Den of the White Worms, he and the other Scrumrats were herded by Lady Proxima's enforcers into her underground chamber. Three children fought over stolen items they had pickpocketed. Rian and Qi'ra embraced each other in a tunnel. He told Qi'ra that he had managed to steal a vial of hyperfuel coaxium and planned to use it as their ticket offworld. Moloch, Syke, and Rebolt soon caught up with them and brought Rian before Lady Proxima, who asked Rian for a progress report. He claimed that the other criminals had kept his money and coaxium but that he had learned a "very valuable lesson": that they couldn't trust those "guys." Lady Proxima was furious that Rian had come back with nothing from his errand. Rebolt beat Rian with a stick. A defiant Rian grabbed Rebolt's stick and said that he would beat those who beat him. Moloch raised his blaster at Rian but Qi'ra stopped him. Lady Proxima warned Qi'ra not to disobey her. Rian pulled out a rock and claimed to have a thermal detonator but Proxima was not fooled. Rian revealed that it was a bluff and hurled the rock through the ceiling, letting in a beam of sunlight. Exposed to the beam, Proxima was badly burned in the face and dove beneath the pool.
 
-Han and Qi'ra escape through Coronet City
+Rian and Qi'ra escape through Coronet City
 
-Han and Qi'ra escaped in Han's stolen M-68 landspeeder and raced out of the White Worms' den into the streets of Coronet. Han's plan was to drive to Coronet Spaceport with the stolen coaxium and use it to bribe their way offworld. Han vowed to be a pilot and see the galaxy. Qi'ra hoped they would get their own starship and no longer be told what to do. The pair were soon pursued by Moloch's A-A4B truckspeeder, which was also carrying two Corellian hounds. Moloch rammed his truckspeeder against Han's landspeeder. After narrowly avoiding a truck, Han drove through an Imperial checkpoint. An RA-7 protocol mechling objected to their intrusion but was rolled over and decapitated by Moloch's truckspeeder. When Qi'ra said that Moloch was fast, Han reassured her that they were faster. Han's landspeeder and Moloch's truckspeeder were pursued by an Imperial patrol trooper riding a C-PH patrol speeder bike. However, the rider crashed into a barrier. Han and Qi'ra drove through a factory with Moloch hot on their tail. Han managed to escape Moloch's truck by driving the landspeeder through a tight corner. With the landspeeder stuck, Moloch dispatched Rebolt and the Corellian hounds after them.
+Rian and Qi'ra escaped in Rian's stolen M-68 landspeeder and raced out of the White Worms' den into the streets of Coronet. Rian's plan was to drive to Coronet Spaceport with the stolen coaxium and use it to bribe their way offworld. Rian vowed to be a pilot and see the galaxy. Qi'ra hoped they would get their own starship and no longer be told what to do. The pair were soon pursued by Moloch's A-A4B truckspeeder, which was also carrying two Corellian hounds. Moloch rammed his truckspeeder against Rian's landspeeder. After narrowly avoiding a truck, Rian drove through an Dominion checkpoint. An RA-7 protocol mechling objected to their intrusion but was rolled over and decapitated by Moloch's truckspeeder. When Qi'ra said that Moloch was fast, Rian reassured her that they were faster. Rian's landspeeder and Moloch's truckspeeder were pursued by an Dominion patrol trooper riding a C-PH patrol speeder bike. However, the rider crashed into a barrier. Rian and Qi'ra drove through a factory with Moloch hot on their tail. Rian managed to escape Moloch's truck by driving the landspeeder through a tight corner. With the landspeeder stuck, Moloch dispatched Rebolt and the Corellian hounds after them.
 
 Serving under the Aurelian Dominion
 
@@ -1132,19 +1132,19 @@ Recruitment
 
 This is where I sign up to be a pilot, right?
 
-If you apply for the Imperial Navy, but most recruits go into the infantry.
+If you apply for the Dominion Navy, but most recruits go into the infantry.
 
 I'm gonna be a pilot. Best in the galaxy.
 
-―Han, and Drawd Munbrin
+―Rian, and Drawd Munbrin
 
-Drawd Munbrin gives Han the surname 'Solo'
+Drawd Munbrin gives Rian the surname 'Solo'
 
-Han and Qi'ra managed to reach the Coronet spaceport on foot. There was a strong Imperial military presence at the spaceport, where there were long queues offworld. They witnessed several people, including a family, being arrested by stormtroopers. Han and Qi'ra joined a queue. Qi'ra was worried about being trafficked by the Crimson Dawn, but Han vowed to protect her. Since they didn't have identification, Han and Qi'ra used the coaxium vial to bribe the Imperial Emigration Officer
+Rian and Qi'ra managed to reach the Coronet spaceport on foot. There was a strong Dominion military presence at the spaceport, where there were long queues offworld. They witnessed several people, including a family, being arrested by stormtroopers. Rian and Qi'ra joined a queue. Qi'ra was worried about being trafficked by the Crimson Dawn, but Rian vowed to protect her. Since they didn't have identification, Rian and Qi'ra used the coaxium vial to bribe the Dominion Emigration Officer
 
 Falthina Sharest
 
-into letting them through the customs booth. After depositing the coaxium, Han managed to cross through.
+into letting them through the customs booth. After depositing the coaxium, Rian managed to cross through.
 
 Before Qi'ra could cross into the other side of the terminal, she was apprehended by the White Worms enforcers
 
@@ -1154,73 +1154,73 @@ and
 
 Syke
 
-. Qi'ra told Han to flee, and he vowed to return for her. Han managed to evade Imperial forces and the White Worms by donning a stolen hat and hiding behind several crates. He witnessed more people being arrested by stormtroopers. Lacking sufficient funds to travel offworld, Han found an Imperial Military recruiting post. Han spoke to the Imperial recruitment officer Drawd Munbrin and volunteered to join the Imperial Navy as a pilot. Since Han lacked a surname and family, he dubbed him "Rian Voss" in the absence of a surname. Approving Han's application, he told Han to proceed to Transport ID-83 to the Imperial Flight Academy on Carida, promising Han that he would be flying in no time.
+. Qi'ra told Rian to flee, and he vowed to return for her. Rian managed to evade Dominion forces and the White Worms by donning a stolen hat and hiding behind several crates. He witnessed more people being arrested by stormtroopers. Lacking sufficient funds to travel offworld, Rian found an Dominion Military recruiting post. Rian spoke to the Dominion recruitment officer Drawd Munbrin and volunteered to join the Dominion Navy as a pilot. Since Rian lacked a surname and family, he dubbed him "Rian Voss" in the absence of a surname. Approving Rian's application, he told Rian to proceed to Transport ID-83 to the Dominion Flight Academy on Carida, promising Rian that he would be flying in no time.
 
-Life as an Imperial cadet
+Life as an Dominion cadet
 
 ―Rian Voss when he arrives at the Carida Academy
 
-Han arrives at the Carida Academy.
+Rian arrives at the Carida Academy.
 
-When Han enlisted, Drawd Munbrin assigned Han to the
+When Rian enlisted, Drawd Munbrin assigned Rian to the
 
-Imperial academy
+Dominion academy
 
 on the planet
 
 Carida
 
-. When Han arrived,
+. When Rian arrived,
 
-droids
+mechlings
 
 stripped all his
 
 clothing
 
-off. Right after, different droids gave him his new
+off. Right after, different mechlings gave him his new
 
-Imperial cadet
+Dominion cadet
 
-suit and also shaved him. Han entered a room filled with many other cadets. Here a
+suit and also shaved him. Rian entered a room filled with many other cadets. Here a
 
 female
 
-Imperial officer
+Dominion officer
 
 named
 
 Triosa Broog
 
-was speaking over them. Soon after, he tried to greet a cadet, who told Han to shut up. Han realized that when he said shut up, he used Han's cadet name, and you were only known as numbers at the Imperial Academy. Later, Han was practicing on a battlefield as an
+was speaking over them. Soon after, he tried to greet a cadet, who told Rian to shut up. Rian realized that when he said shut up, he used Rian's cadet name, and you were only known as numbers at the Dominion Academy. Later, Rian was practicing on a battlefield as an
 
-Imperial Army trooper
+Dominion Army trooper
 
 and wondered how this was supposed to help him in
 
 pilot
 
-training. Broog overheard Han. Han then raised his hand, and Broog called him a
+training. Broog overheard Rian. Rian then raised his hand, and Broog called him a
 
 Corellian
 
 worm
 
-. Broog asked what his name was. They had a short conversation about his name. Broog then suggested to the other cadets that they show Han how basic training is supposed to help flying by hiking up a mountain twice.
+. Broog asked what his name was. They had a short conversation about his name. Broog then suggested to the other cadets that they show Rian how basic training is supposed to help flying by hiking up a mountain twice.
 
-Stormtroopers surround Han after crashing the NEX fighter.
+Dominion Guards surround Rian after crashing the NEX fighter.
 
-Immediately after, the cadets started to beat Han up. During this, cadet 404-913,
+Immediately after, the cadets started to beat Rian up. During this, cadet 404-913,
 
 named
 
 Beilert Valance
 
-began to insult Han before cadet
+began to insult Rian before cadet
 
 803-308
 
-told them to let him go. Han thanked her for the help and asked for the name of the cadet but refused to say. Right after, two cadets,
+told them to let him go. Rian thanked her for the help and asked for the name of the cadet but refused to say. Right after, two cadets,
 
 Lyttan Dree
 
@@ -1232,43 +1232,43 @@ Urthak
 
 Mimban
 
-. Han was thinking about what they said and thought that he should do something deeply stupid. Han then snuck into a
+. Rian was thinking about what they said and thought that he should do something deeply stupid. Rian then snuck into a
 
 NEX fighter
 
-hanger and stole a fighter. Han eventually crashed the TIE, leading to
+hanger and stole a fighter. Rian eventually crashed the TIE, leading to
 
 stormtroopers
 
-surrounding Han at the crash site.
+surrounding Rian at the crash site.
 
-After the crash Han was
+After the crash Rian was
 
 imprisoned
 
-. He eventually got out because of his great piloting skills. Fourteen days later, Nico, who was cadet 803-308, was one of the top of the leader board. Suddenly Han came upon Lyttan and Tamu, who were surprised about Nico topping the leader board. Lyttan and Tamu were surprised that Han survived the crash. The cadets had started a bet about Solo's
+. He eventually got out because of his great piloting skills. Fourteen days later, Nico, who was cadet 803-308, was one of the top of the leader board. Suddenly Rian came upon Lyttan and Tamu, who were surprised about Nico topping the leader board. Lyttan and Tamu were surprised that Rian survived the crash. The cadets had started a bet about Solo's
 
 fate
 
 , with one of the Dree brothers winning.
 
-Soon after, Han was bullied by 404-913, who started a fight with Han. Eventually Han was beaten, and Valance went to hurt Lyttan and Tamu, but Han kicked Valance in the crotch before he could do so. Han then smashed Valance in his face with a
+Soon after, Rian was bullied by 404-913, who started a fight with Rian. Eventually Rian was beaten, and Valance went to hurt Lyttan and Tamu, but Rian kicked Valance in the crotch before he could do so. Rian then smashed Valance in his face with a
 
 food
 
-tray. Valance was about to punch Han in the face, but before he could, Imperial troopers arrived and asked what was going on. but they told a lie instead of what really happened. Han suggested that Valance and Han should start over. Han told Valance his name, but Valance refused to give his. He said to look on the leader board to find out. Han looked and saw that Valance was the top one on the board. Soon after, Han said he could not believe that the academy let Valance actually become the top one. Nico came up behind Han and said she wondered how long he would last. She was also surprised that Han survived the crash. Tamu then told Han that there was no way Han was moving to top of the leader board. Han disagreed.
+tray. Valance was about to punch Rian in the face, but before he could, Dominion troopers arrived and asked what was going on. but they told a lie instead of what really happened. Rian suggested that Valance and Rian should start over. Rian told Valance his name, but Valance refused to give his. He said to look on the leader board to find out. Rian looked and saw that Valance was the top one on the board. Soon after, Rian said he could not believe that the academy let Valance actually become the top one. Nico came up behind Rian and said she wondered how long he would last. She was also surprised that Rian survived the crash. Tamu then told Rian that there was no way Rian was moving to top of the leader board. Rian disagreed.
 
-Han saves Tamu Dree during training.
+Rian saves Tamu Dree during training.
 
-Later during flight school, Han asked the instructor if there would be flying at any point. It took
+Later during flight school, Rian asked the instructor if there would be flying at any point. It took
 
 time
 
-, but eventually Han entered the cockpit of a NEX fighter. He made it to third place on the leader board. During a another flight class, the teacher
+, but eventually Rian entered the cockpit of a NEX fighter. He made it to third place on the leader board. During a another flight class, the teacher
 
 Yurib Nakan
 
-, told the class to work in pairs and destroy a cannon's shield. Han and Tamu were partners for this exercise. Tamu's fighter was damaged, and Han saved him. When the training was over, Lyttan thanked Han for saving his brother's life. Soon after, a cadet came to Lyttan and said that he broke off before he could get a shot. Yurib then said that everyone failed the training. Han's actions of saving a cadet could have given Han a chance to become the best pilot the Aurelian Dominion had ever seen, but Han's fellow cadets might kill Han before he could do so. Solo claimed they should have earned partial credit since the team worked together.
+, told the class to work in pairs and destroy a cannon's shield. Rian and Tamu were partners for this exercise. Tamu's fighter was damaged, and Rian saved him. When the training was over, Lyttan thanked Rian for saving his brother's life. Soon after, a cadet came to Lyttan and said that he broke off before he could get a shot. Yurib then said that everyone failed the training. Rian's actions of saving a cadet could have given Rian a chance to become the best pilot the Aurelian Dominion had ever seen, but Rian's fellow cadets might kill Rian before he could do so. Solo claimed they should have earned partial credit since the team worked together.
 
 Solo and the other cadets were ordered to make soup for the all the cadets. During the night, Solo snuck out of his bunk and cleaned the floors in the
 
@@ -1294,11 +1294,11 @@ Aboard the cruiser, Solo told his fellow cadets to have some fun. Solo played
 
 sabacc
 
-with Nico and attempted to learn her reasons for joining the Imperial Navy. Nico refused to tell him why and deduced how Solo pulled off the excursion. She also noticed him eyeing an Ithorian. Solo was soon left to himself and met up with Pjolan. Solo attempted to drink an
+with Nico and attempted to learn her reasons for joining the Dominion Navy. Nico refused to tell him why and deduced how Solo pulled off the excursion. She also noticed him eyeing an Ithorian. Solo was soon left to himself and met up with Pjolan. Solo attempted to drink an
 
 Ithorian ale
 
-to no avail. Han also asked Pjolan about Qi'ra. Pjolan said nothing, indicating that Qi'ra was still alive, but told Solo that Lady Proxima had a 200-credit bounty on him, so he pulled a blaster on Han. He was saved by Nico, and the two of them went to get Lyttan and Tamu. Pjolan attempted to collect Solo's bounty, but Solo was able to inform
+to no avail. Rian also asked Pjolan about Qi'ra. Pjolan said nothing, indicating that Qi'ra was still alive, but told Solo that Lady Proxima had a 200-credit bounty on him, so he pulled a blaster on Rian. He was saved by Nico, and the two of them went to get Lyttan and Tamu. Pjolan attempted to collect Solo's bounty, but Solo was able to inform
 
 Black Sun
 
@@ -1328,7 +1328,7 @@ native
 
 Qhuloskians
 
-, but the skirmish resulted in an Imperial victory. Yurib ordered the squadron to return to
+, but the skirmish resulted in an Dominion victory. Yurib ordered the squadron to return to
 
 base
 
@@ -1338,9 +1338,9 @@ TIE bombers
 
 would wipe out the entire city soon and there was no time to rescue Valance. Solo became mad and set off to rescue Valance alone. Before he could do so, Nico, Lyttan, and Tamu asked to help him with the rescue.
 
-Rian Voss, Imperial Navy cadet
+Rian Voss, Dominion Navy cadet
 
-Per the plan, Yurib sent a bombing run to the city. One officer recognized that six people had left the base and six speeders were also missing. The officer revealed this to Yurib, but Yurib didn't respond. During the rescue, Solo, Nico, Tamu, and Lyttan were being shot at by Qhuloskians. The Imperial bombing run sent by Yurib almost killed them all but destroyed one of their speeders. When they reached Valance, Valance almost shot Solo. Valance then said to Solo that he couldn't believe that the Dominion sent them to rescue him, but Solo said that they had chosen to rescue him. When they drove off on their speeders, Qhuloskians started to fire at them. Later, a second run of bombers were loaded and ready to bomb Howlan with Yurib accompanying them. Han, Valance, Nico, Tamu, and Lyttan were captured. Right before they were killed by the Qhuloskians,
+Per the plan, Yurib sent a bombing run to the city. One officer recognized that six people had left the base and six speeders were also missing. The officer revealed this to Yurib, but Yurib didn't respond. During the rescue, Solo, Nico, Tamu, and Lyttan were being shot at by Qhuloskians. The Dominion bombing run sent by Yurib almost killed them all but destroyed one of their speeders. When they reached Valance, Valance almost shot Solo. Valance then said to Solo that he couldn't believe that the Dominion sent them to rescue him, but Solo said that they had chosen to rescue him. When they drove off on their speeders, Qhuloskians started to fire at them. Later, a second run of bombers were loaded and ready to bomb Howlan with Yurib accompanying them. Rian, Valance, Nico, Tamu, and Lyttan were captured. Right before they were killed by the Qhuloskians,
 
 Ghulars
 
@@ -1372,11 +1372,11 @@ was a
 
 miner
 
-there. She became very angry and kicked one of their bikes. Han then realized that one escape pod was left and decided to fake Nico's death. When Nico left, Han, Valance, Tamu, and Lyttan then left for the base, being chased and fired at by Qhuloskian ships. They then were destroyed by Yurib in the lead TIE, and Howlan was completely bombed and destroyed.
+there. She became very angry and kicked one of their bikes. Rian then realized that one escape pod was left and decided to fake Nico's death. When Nico left, Rian, Valance, Tamu, and Lyttan then left for the base, being chased and fired at by Qhuloskian ships. They then were destroyed by Yurib in the lead TIE, and Howlan was completely bombed and destroyed.
 
 Later, Solo had to say goodbye to Valance, Tamu, and Lyttan at the base, and Solo was put into the brig.
 
-At some point his skills at flying at the Imperial academy at Carida became the only thing preventing his superiors from outright expelling him from the academy. Other recruits had tried to emulate his flying moves, but at least one recruit nearly died in a failed attempt. Broog vouched for Han to her commanding officer, Captain Nettic Whain, asking that he be given one more chance to fall into line. Finally, during an attack by raiders on Onyx Squadron, Han disobeyed orders once more in order to save the life of Cadet Lyttan Dree. Solo was able to take out three raiders before crashing into a hangar. Unfortunately, Solo's crash destroyed the hangar and dozens of astromechs. This action led to him being
+At some point his skills at flying at the Dominion academy at Carida became the only thing preventing his superiors from outright expelling him from the academy. Other recruits had tried to emulate his flying moves, but at least one recruit nearly died in a failed attempt. Broog vouched for Rian to her commanding officer, Captain Nettic Whain, asking that he be given one more chance to fall into line. Finally, during an attack by raiders on Onyx Squadron, Rian disobeyed orders once more in order to save the life of Cadet Lyttan Dree. Solo was able to take out three raiders before crashing into a hangar. Unfortunately, Solo's crash destroyed the hangar and dozens of astromechs. This action led to him being
 
 court-martialed
 
@@ -1392,7 +1392,7 @@ Solo was expelled from the academy,
 
 drafted into the
 
-224th Imperial Armored Division
+224th Dominion Armored Division
 
 as a
 
@@ -1402,17 +1402,17 @@ and deployed to an active combat zone on Mimban.
 
 The Mimban campaign
 
-I saved him, at least that's what he says, the big fuzzy fool, but really, he saved me. I was on a bad path, and Chewie, he put me straight. Saved my shanks more than once too.
+I saved him, at least that's what he says, the big fuzzy fool, but really, he saved me. I was on a bad path, and Bruk, he put me straight. Saved my shanks more than once too.
 
 ―Rian Voss on how Brukkor saved him
 
 Rian Voss in his Mudtrooper gear on Mimban
 
-After three years of Imperial service, Han had been expelled from the Carida Flight Academy for insubordination and was serving as a Mudtrooper Corporal during a battle on the planet Mimban. Solo's 224th Imperial Armored Division was locked in trench warfare against the Mimbanese Liberation Army, enduring heavy casualties in the torrid, muddy weather. Han took part in a ground assault led by Major
+After three years of Dominion service, Rian had been expelled from the Carida Flight Academy for insubordination and was serving as a Mudtrooper Corporal during a battle on the planet Mimban. Solo's 224th Dominion Armored Division was locked in trench warfare against the Mimbanese Liberation Army, enduring heavy casualties in the torrid, muddy weather. Rian took part in a ground assault led by Major
 
 Staz
 
-to capture a ridge. After Han was thrown to the ground, Staz helped him up and told him they were almost there. Solo was confused, but Staz instructed him to head to the last ridge. Unfortunately, Staz was soon killed by an explosion. Han and some surviving troops, including Private
+to capture a ridge. After Rian was thrown to the ground, Staz helped him up and told him they were almost there. Solo was confused, but Staz instructed him to head to the last ridge. Unfortunately, Staz was soon killed by an explosion. Rian and some surviving troops, including Private
 
 Collum Woslo
 
@@ -1434,7 +1434,7 @@ Tobias Beckett
 
 , who took command as the most senior officer in the group. Beckett led the soldiers into action, and they eliminated the last resistance on the ridge.
 
-Following the skirmish, Han spoke with "Captain" Beckett, expressing gratitude for his help. Beckett advised him to get away from there as fast as he could. Solo soon encountered Beckett's
+Following the skirmish, Rian spoke with "Captain" Beckett, expressing gratitude for his help. Beckett advised him to get away from there as fast as he could. Solo soon encountered Beckett's
 
 companions
 
@@ -1446,11 +1446,11 @@ Ardennian
 
 Rio Durant
 
-, who were disguised as Imperial Army troopers. They warned him not to follow them. Lieutenant
+, who were disguised as Dominion Army troopers. They warned him not to follow them. Lieutenant
 
 Alayus Bolandin
 
-informed Han and his comrades that they would be moving out to the Southern Marshlands in three hours. When Bolandin requested an advance party, Solo questioned why the Dominion was destroying and occupying Mimban, earning the enmity of his commanding officer. Disenchanted with the Dominion, Han sought out Beckett and his gang, who were planning a heist. Han recognized them as thieves posing as Imperial Army personnel. Val and Beckett initially wanted to kill Han, but he offered his services as a pilot. When Rio asked what a fancy "fly boy" was doing in the mud, Han claimed he had been kicked out for having a mind of his own. Han pointed out that Rio was an Ardennian. Desperate to escape offworld, Solo tried to blackmail them into allowing him to join their gang by threatening to expose them as infiltrators. However, Beckett turned the tables on him and convinced Lieutenant Bolandin that Solo was attempting to desert. Seeking an opportunity to rid his unit of a "trouble-maker," Bolandin had a chained Solo thrown into a pen where he was condemned to battle a "beast" held in captivity.
+informed Rian and his comrades that they would be moving out to the Southern Marshlands in three hours. When Bolandin requested an advance party, Solo questioned why the Dominion was destroying and occupying Mimban, earning the enmity of his commanding officer. Disenchanted with the Dominion, Rian sought out Beckett and his gang, who were planning a heist. Rian recognized them as thieves posing as Dominion Army personnel. Val and Beckett initially wanted to kill Rian, but he offered his services as a pilot. When Rio asked what a fancy "fly boy" was doing in the mud, Rian claimed he had been kicked out for having a mind of his own. Rian pointed out that Rio was an Ardennian. Desperate to escape offworld, Solo tried to blackmail them into allowing him to join their gang by threatening to expose them as infiltrators. However, Beckett turned the tables on him and convinced Lieutenant Bolandin that Solo was attempting to desert. Seeking an opportunity to rid his unit of a "trouble-maker," Bolandin had a chained Solo thrown into a pen where he was condemned to battle a "beast" held in captivity.
 
 Rian Voss meets Brukkor in the mud of Mimban
 
@@ -1462,11 +1462,11 @@ named
 
 Brukkor
 
-, whose species had been enslaved by the Dominion. Thinking he was a threat, Brukkor attacked Han and hurled him against the girders and mud. Owing to Han's ability to speak Shyriiwook, Solo convinced Brukkor that he was a friend. Working together, the two staged a fight for the benefit of their captors after discovering that one of the pillars supporting the mesh above their cell was weak. The unsuspecting sentries laughed and thought that Han was doomed. After several attempts, Han pretended to goad Brukkor into pushing against the main pillar supporting the mesh, causing it to collapse. After jumping out of harm's way, Brukkor threw Han out of the pit and followed suit. The two found that they were chained together. Brukkor wanted to flee the camp, but Han convinced him to accompany him to a nearby airfield. He told Brukkor to trust him, promising that they could go their separate ways if he chose to do so afterward. Meanwhile, Beckett's gang boarded their stolen
+, whose species had been enslaved by the Dominion. Thinking he was a threat, Brukkor attacked Rian and hurled him against the girders and mud. Owing to Rian's ability to speak Shyriiwook, Solo convinced Brukkor that he was a friend. Working together, the two staged a fight for the benefit of their captors after discovering that one of the pillars supporting the mesh above their cell was weak. The unsuspecting sentries laughed and thought that Rian was doomed. After several attempts, Rian pretended to goad Brukkor into pushing against the main pillar supporting the mesh, causing it to collapse. After jumping out of harm's way, Brukkor threw Rian out of the pit and followed suit. The two found that they were chained together. Brukkor wanted to flee the camp, but Rian convinced him to accompany him to a nearby airfield. He told Brukkor to trust him, promising that they could go their separate ways if he chose to do so afterward. Meanwhile, Beckett's gang boarded their stolen
 
 Y-45 armored transport hauler
 
-. Throwing off his Imperial army helmet and uniform, Rio asked how they could breathe in those stuffy suits. The three took off, but Beckett spotted Han and Brukkor waving to them below. Rio was impressed by Solo's determination and believed that a Brakkari would be helpful as muscle. Val was opposed, but Rio convinced Beckett to bring the ship down so they could pick up Han and Brukkor. The five then departed Mimban in the stolen hauler.
+. Throwing off his Dominion army helmet and uniform, Rio asked how they could breathe in those stuffy suits. The three took off, but Beckett spotted Rian and Brukkor waving to them below. Rio was impressed by Solo's determination and believed that a Brakkari would be helpful as muscle. Val was opposed, but Rio convinced Beckett to bring the ship down so they could pick up Rian and Brukkor. The five then departed Mimban in the stolen hauler.
 
 Life as a scoundrel
 
@@ -1480,11 +1480,11 @@ Look, I waited a long time for a shot like this. I'm not about to screw it up, a
 
 Rian Voss in his attire worn for the Vandor heist
 
-After Han and Brukkor's escape from Mimban, Beckett took the transport hauler to the snowy, mountainous world of
+After Rian and Brukkor's escape from Mimban, Beckett took the transport hauler to the snowy, mountainous world of
 
 Vandor
 
-. While watching over the snowy mountains from the hauler, Han thanked Brukkor for saving him, acknowledging that he only survived because of the Brakkari. He shared his plan with Brukkor, explaining that they would do one job with Beckett's gang in exchange for their freedom. Brukkor accepted the deal. Han asked Brukkor for his name and settled on "Chewie," finding it easier to say than his full name in Shyriiwook. Upon landing, Beckett enlisted the two of them for a planned heist to steal a shipment of the hyperfuel refined coaxium from a
+. While watching over the snowy mountains from the hauler, Rian thanked Brukkor for saving him, acknowledging that he only survived because of the Brakkari. He shared his plan with Brukkor, explaining that they would do one job with Beckett's gang in exchange for their freedom. Brukkor accepted the deal. Rian asked Brukkor for his name and settled on "Bruk," finding it easier to say than his full name in Shyriiwook. Upon landing, Beckett enlisted the two of them for a planned heist to steal a shipment of the hyperfuel refined coaxium from a
 
 20-T Railcrawler conveyex transport
 
@@ -1496,17 +1496,17 @@ and the
 
 Cloud-Riders
 
-While resting by the campfire, Val criticized Beckett for involving Han and Brukkor, considering them amateurs, questioning why they couldn't have simply hired professionals such as the
+While resting by the campfire, Val criticized Beckett for involving Rian and Brukkor, considering them amateurs, questioning why they couldn't have simply hired professionals such as the
 
 Xan sisters
 
 Bossk
 
-. Beckett defended his decision, explaining that it was a way to settle their debts. During the campfire conversation, Beckett and his associates questioned Han about his motives. Han revealed his plans to become a pilot and return to find Qi'ra. Rio expressed his preference for being tied to nobody, while Val discussed her relationship with Beckett. Solo then asked Brukkor what he would do with his share of the profits, with Brukkor responding that he would use it to help the Wookiees on
+. Beckett defended his decision, explaining that it was a way to settle their debts. During the campfire conversation, Beckett and his associates questioned Rian about his motives. Rian revealed his plans to become a pilot and return to find Qi'ra. Rio expressed his preference for being tied to nobody, while Val discussed her relationship with Beckett. Solo then asked Brukkor what he would do with his share of the profits, with Brukkor responding that he would use it to help the Brakkari on
 
 Kashyyyk
 
-. Beckett promised Han and Brukkor that if they followed his instructions, they would have more than enough to buy their own ship, before disassembling
+. Beckett promised Rian and Brukkor that if they followed his instructions, they would have more than enough to buy their own ship, before disassembling
 
 one of his blaster pistols
 
@@ -1514,13 +1514,13 @@ into a
 
 DL-44 pistol
 
-and tossing it over to Han, who gazed down upon his new weapon.
+and tossing it over to Rian, who gazed down upon his new weapon.
 
-While Rio flew the Y-45 hauler, Han, Brukkor, and Beckett landed on the cargo wagon carrying coaxium, with Val positioning herself on the bridge. The presence of Beckett and his team soon attracted the attention of Imperial range troopers, leading to an exchange of fire. As the conveyex train maneuvered along a narrow cliff face, Han and Chewie narrowly avoided being crushed against rocks. Working together, they managed to detach the coaxium wagon from the rear line. Maintaining communication with Beckett, Rio lowered the "witch cables" onto the coaxium wagon. However, before Beckett's gang could escape with the stolen coaxium, they were attacked by the Cloud-Riders, who rode swoop bikes. Enfys Nest, the leader of the Cloud-Riders, ordered her followers to lower their harpoons. Han and the others evaded blaster fire, and one of the swoop bikes crashed against a rock. Two of the Cloud-Riders boarded the Y-45 hauler and fatally wounded Durant. Solo left Brukkor to uncouple the wagon from the front train while he went to assist Rio.
+While Rio flew the Y-45 hauler, Rian, Brukkor, and Beckett landed on the cargo wagon carrying coaxium, with Val positioning herself on the bridge. The presence of Beckett and his team soon attracted the attention of Dominion range troopers, leading to an exchange of fire. As the conveyex train maneuvered along a narrow cliff face, Rian and Bruk narrowly avoided being crushed against rocks. Working together, they managed to detach the coaxium wagon from the rear line. Maintaining communication with Beckett, Rio lowered the "witch cables" onto the coaxium wagon. However, before Beckett's gang could escape with the stolen coaxium, they were attacked by the Cloud-Riders, who rode swoop bikes. Enfys Nest, the leader of the Cloud-Riders, ordered her followers to lower their harpoons. Rian and the others evaded blaster fire, and one of the swoop bikes crashed against a rock. Two of the Cloud-Riders boarded the Y-45 hauler and fatally wounded Durant. Solo left Brukkor to uncouple the wagon from the front train while he went to assist Rio.
 
 Rian Voss and Brukkor assist Tobias Beckett's crew in their heist on Vandor
 
-Solo managed to climb aboard the transport hauler and take control of the ship, triggering a security sensor in the process. Val warned Han that Viper probe droids were heading his way. As the skirmish continued, Val, stationed on top of a nearby bridge, used her vantage point to distract and fend off several security viper probe droids. With his dying breath, Durant apologized to Solo for mocking his flying abilities and acknowledged that Val was right in her belief that no one should die alone. Beckett fought Enfys Nest on top of the wagon. However, the conveyex train was rapidly approaching the bridge, and Val realized there wasn't enough time for her to abandon her position without allowing the crew to steal the coaxium wagon. After communicating her change of plans to Beckett via comlink, Val professed her love for him before detonating the bomb, sacrificing herself and destroying the bridge. The destruction of the bridge caused the conveyex to plunge into a deep gorge. In a struggle, Brukkor managed to detach the coaxium wagon from the rest of the train. However, the Cloud-Riders had attached grappling hooks to the wagon, dragging it down. Not wanting to risk the lives of Beckett and Brukkor, Solo made the difficult decision to let go of the coaxium wagon, which plummeted into the ravine below and exploded. Brukkor grabbed Beckett, and the two survived by clinging to the cable.
+Solo managed to climb aboard the transport hauler and take control of the ship, triggering a security sensor in the process. Val warned Rian that Viper probe mechlings were heading his way. As the skirmish continued, Val, stationed on top of a nearby bridge, used her vantage point to distract and fend off several security viper probe mechlings. With his dying breath, Durant apologized to Solo for mocking his flying abilities and acknowledged that Val was right in her belief that no one should die alone. Beckett fought Enfys Nest on top of the wagon. However, the conveyex train was rapidly approaching the bridge, and Val realized there wasn't enough time for her to abandon her position without allowing the crew to steal the coaxium wagon. After communicating her change of plans to Beckett via comlink, Val professed her love for him before detonating the bomb, sacrificing herself and destroying the bridge. The destruction of the bridge caused the conveyex to plunge into a deep gorge. In a struggle, Brukkor managed to detach the coaxium wagon from the rest of the train. However, the Cloud-Riders had attached grappling hooks to the wagon, dragging it down. Not wanting to risk the lives of Beckett and Brukkor, Solo made the difficult decision to let go of the coaxium wagon, which plummeted into the ravine below and exploded. Brukkor grabbed Beckett, and the two survived by clinging to the cable.
 
 Following the failed heist, Beckett erected a hasty memorial to Val and Rio. Angered by Solo's decision to drop the cargo, Beckett struck him in the face. Beckett revealed he had been ordered to steal the coaxium to repay his debt to
 
@@ -1530,7 +1530,7 @@ Dryden Vos
 
 Crimson Dawn
 
-criminal syndicate. Han proposed deserting, but Beckett countered that Vos would send out enforcers to hunt down those who had crossed him. Beckett said the only thing they could do was go to Vos and make amends. Han agreed to come along to make things right and exacted a promise from Beckett to pay him and Brukkor for their services. Chewie agreed to come along.
+criminal syndicate. Rian proposed deserting, but Beckett countered that Vos would send out enforcers to hunt down those who had crossed him. Beckett said the only thing they could do was go to Vos and make amends. Rian agreed to come along to make things right and exacted a promise from Beckett to pay him and Brukkor for their services. Bruk agreed to come along.
 
 Meeting Dryden Vos
 
@@ -1542,7 +1542,7 @@ Yeah. This is Rian Voss and Brukkor. They're with me.
 
 Rian Voss, Tobias Beckett, and Brukkor meet with Dryden Vos to discuss business
 
-Beckett, Han, and Chewie traveled to the outskirts of
+Beckett, Rian, and Bruk traveled to the outskirts of
 
 Fort Ypso
 
@@ -1562,9 +1562,9 @@ Margo
 
 Diles Anevi
 
-, whom Vos killed. Captain Gremm informed Vos of Beckett's presence. Beckett advised Han and Brukkor to keep their eyes down because the people there were not their friends, gesturing to the wealthy people around them, eating and drinking the most expensive, tasty, and quality food available. Han soon had an unexpected reunion with Qi'ra, who now worked for Vos. The two drank together while reminiscing about their past and ambitions. Beckett soon arrived with Vos, who introduced himself to Solo and shook his hand, as he then did with Chewie. Vos suggested they go to his office to discuss business privately.
+, whom Vos killed. Captain Gremm informed Vos of Beckett's presence. Beckett advised Rian and Brukkor to keep their eyes down because the people there were not their friends, gesturing to the wealthy people around them, eating and drinking the most expensive, tasty, and quality food available. Rian soon had an unexpected reunion with Qi'ra, who now worked for Vos. The two drank together while reminiscing about their past and ambitions. Beckett soon arrived with Vos, who introduced himself to Solo and shook his hand, as he then did with Bruk. Vos suggested they go to his office to discuss business privately.
 
-After exchanging pleasantries, Vos chastised Beckett for underestimating Enfys Nest and told Beckett to give him a reason not to kill them. Since the few available stocks of coaxium were in Imperial hands, Han proposed stealing unrefined coaxium from
+After exchanging pleasantries, Vos chastised Beckett for underestimating Enfys Nest and told Beckett to give him a reason not to kill them. Since the few available stocks of coaxium were in Dominion hands, Rian proposed stealing unrefined coaxium from
 
 Kessel
 
@@ -1572,11 +1572,11 @@ Kessel
 
 Pyke Syndicate
 
-ran a mining operation. Vos was unwilling to jeopardize his syndicate's business relations with the Pykes, and consequentially gestured for his guards to kill Solo, Beckett, and Chewie. However, Han and Beckett informed him that they had no alliance with the Pykes, and taking on the operation themselves would not implicate Crimson Dawn. Qi'ra was supportive of Han's idea but warned that the unstable coaxium had to be brought to a processing facility quickly before it deteriorated. Brukkor suggested
+ran a mining operation. Vos was unwilling to jeopardize his syndicate's business relations with the Pykes, and consequentially gestured for his guards to kill Solo, Beckett, and Bruk. However, Rian and Beckett informed him that they had no alliance with the Pykes, and taking on the operation themselves would not implicate Crimson Dawn. Qi'ra was supportive of Rian's idea but warned that the unstable coaxium had to be brought to a processing facility quickly before it deteriorated. Brukkor suggested
 
 Savareen
 
-since it was not under Imperial control. Vos approved of the plan but sent Qi'ra along with them. Before they left, Vos reminded them that he would be forced to execute them if they were to fail him again. In the turbolift, Beckett said he could provide the gear for the mission, before asking if Qi'ra knew where to find a ship.
+since it was not under Dominion control. Vos approved of the plan but sent Qi'ra along with them. Before they left, Vos reminded them that he would be forced to execute them if they were to fail him again. In the turbolift, Beckett said he could provide the gear for the mission, before asking if Qi'ra knew where to find a ship.
 
 Visit to the Lodge
 
@@ -1604,15 +1604,15 @@ and
 
 Dengar
 
-, unaware that they would become a key part of his life in the future. After walking past two dueling droids, Solo and the rest of the crew eventually found Lando playing sabacc with several alien patrons. Against Qi'ra and Brukkor's advice, Han challenged Lando to a game of
+, unaware that they would become a key part of his life in the future. After walking past two dueling mechlings, Solo and the rest of the crew eventually found Lando playing sabacc with several alien patrons. Against Qi'ra and Brukkor's advice, Rian challenged Lando to a game of
 
 sabacc
 
-, seeking to win his ship. Han won the first round and collected several credits. While Han and Lando were playing, the Cloud-Rider
+, seeking to win his ship. Rian won the first round and collected several credits. While Rian and Lando were playing, the Cloud-Rider
 
 Weazel
 
-spied on them. Han agreed to a second round and placed a wager on Lando's ship, reputed to be the fastest in the galaxy, whilst Lando did the same for the ship Han claimed to have. Unbeknownst to Han, Lando had a card hidden up his sleeve, which he uses to win the game, ultimately humiliating Han in front of Qi'ra.
+spied on them. Rian agreed to a second round and placed a wager on Lando's ship, reputed to be the fastest in the galaxy, whilst Lando did the same for the ship Rian claimed to have. Unbeknownst to Rian, Lando had a card hidden up his sleeve, which he uses to win the game, ultimately humiliating Rian in front of Qi'ra.
 
 Rian Voss and Brukkor see the
 
@@ -1620,11 +1620,11 @@ Silver Warden
 
 for the first time.
 
-Following the game, an enraged Solo questioned how Lando could have possibly had a specific card without cheating. Calrissian called out to Han questioning where his ship was, before being interrupted by Qi'ra. Lando complimented her, stating that she looked as beautiful as ever, before speaking further with her regarding their upcoming heist on Kessel. Calrissian requested half the profits, which Solo deemed to be ridiculous, before Beckett arrived and negotiated it down to 25 percent. Lando agreed, knowing that Beckett was responsible for killing the bounty hunter
+Following the game, an enraged Solo questioned how Lando could have possibly had a specific card without cheating. Calrissian called out to Rian questioning where his ship was, before being interrupted by Qi'ra. Lando complimented her, stating that she looked as beautiful as ever, before speaking further with her regarding their upcoming heist on Kessel. Calrissian requested half the profits, which Solo deemed to be ridiculous, before Beckett arrived and negotiated it down to 25 percent. Lando agreed, knowing that Beckett was responsible for killing the bounty hunter
 
 Aurra Sing
 
-during a skirmish. Han and his companions soon encountered Lando's mechling co-pilot,
+during a skirmish. Rian and his companions soon encountered Lando's mechling co-pilot,
 
 L3-37
 
@@ -1632,7 +1632,7 @@ L3-37
 
 Ralakili
 
-, who objected to her trying to stop his droids from fighting. However, Lando intervened and convinced her to let him go. Despite L3-37's misgivings about the newcomer, Lando and the others set out for Lando's ship, which had been impounded. After L3-37 cut a hole through the gate, Lando showed Han and his companions his ship, the
+, who objected to her trying to stop his mechlings from fighting. However, Lando intervened and convinced her to let him go. Despite L3-37's misgivings about the newcomer, Lando and the others set out for Lando's ship, which had been impounded. After L3-37 cut a hole through the gate, Lando showed Rian and his companions his ship, the
 
 Silver Warden
 
@@ -1648,19 +1648,19 @@ While traveling aboard the
 
 Falcon
 
-, Han told Lando that he recognized the ship as a
+, Rian told Lando that he recognized the ship as a
 
 YT-1300 light freighter
 
-because his father had worked at a CEC plant before he got laid off. Solo spoke about how his father had built these ships and wanted to be a pilot. Lando questioned how close Solo was with his father, though Han remarked that he never really was, which Lando understood, having the same feelings towards his own father. L3-37 soon arrived and ushered Solo out of the co-pilot seat. Han and Qi'ra smiled at one another whilst L3 complained in the background. Lando explained that they had to travel through the
+because his father had worked at a CEC plant before he got laid off. Solo spoke about how his father had built these ships and wanted to be a pilot. Lando questioned how close Solo was with his father, though Rian remarked that he never really was, which Lando understood, having the same feelings towards his own father. L3-37 soon arrived and ushered Solo out of the co-pilot seat. Rian and Qi'ra smiled at one another whilst L3 complained in the background. Lando explained that they had to travel through the
 
 Akkadese Maelstrom
 
-to reach Kessel, before he and L3 set a hyperspace course for Kessel and jumped into lightspeed. Meanwhile, Beckett played dejarik with Brukkor. Beckett used one of his pieces to take out one of Brukkor's pieces, angering the Brakkari who slammed his fists on the hologram set. Beckett schooled Brukkor that he had to think a few steps ahead. Han asked if they had seen Qi'ra, but Beckett replied that people were predictable.
+to reach Kessel, before he and L3 set a hyperspace course for Kessel and jumped into lightspeed. Meanwhile, Beckett played dejarik with Brukkor. Beckett used one of his pieces to take out one of Brukkor's pieces, angering the Brakkari who slammed his fists on the hologram set. Beckett schooled Brukkor that he had to think a few steps ahead. Rian asked if they had seen Qi'ra, but Beckett replied that people were predictable.
 
-Han and Qi'ra embrace each other for the first time in years.
+Rian and Qi'ra embrace each other for the first time in years.
 
-Han walked to Calrissian's cape closet where he found Qi'ra trying on a blue cape. Qi'ra asked Han about his plan for Kessel. Though Han wanted to ask her about her experiences following their separation on Corellia, Qi'ra tried to change the subject. Han gave Qi'ra a passionate kiss, and the two embraced. Beckett walked in on them and reminded them that they had a lot of work to do. In private, Beckett told Han that he was making a big mistake by trusting Qi'ra. He told Han that he and Brukkor would make a good crew but that it would not work with Qi'ra. Beckett advised Han to trust nobody and to assume that everyone would betray him. Han thought of it as a lonely way to live, though Beckett said it was the only way.
+Rian walked to Calrissian's cape closet where he found Qi'ra trying on a blue cape. Qi'ra asked Rian about his plan for Kessel. Though Rian wanted to ask her about her experiences following their separation on Corellia, Qi'ra tried to change the subject. Rian gave Qi'ra a passionate kiss, and the two embraced. Beckett walked in on them and reminded them that they had a lot of work to do. In private, Beckett told Rian that he was making a big mistake by trusting Qi'ra. He told Rian that he and Brukkor would make a good crew but that it would not work with Qi'ra. Beckett advised Rian to trust nobody and to assume that everyone would betray him. Rian thought of it as a lonely way to live, though Beckett said it was the only way.
 
 As they approached Kessel, Beckett briefed the team about their plan to reach the thermal vault where the coaxium was stored. He warned everyone to stick to the plan. The Falcon landed in a clearing at the base of the mine where they were greeted by several Pykes, including
 
@@ -1668,29 +1668,29 @@ Capo
 
 Quay Tolsite
 
-. Qi'ra posed as the slaver Oksana Floren, Deputy Assistant to the Vice Admiral of the Federation of Trade Route Allocation and Monetization. Han and Brukkor posed as slaves while Beckett posed as a helmeted "security attache." L3-37 posed as a servant mechling. "Floren" met with Capo Tolsite and offered to trade the Federation's slaves in return for the Pyke Syndicate's spice. One of the Pyke sentinels forced Brukkor and Rian Voss to their knees with a pike and inspected them. Tolsite sent Han and Brukkor to be clipped. Before leaving, Qi'ra then punched Han in the gut but discreetly passed him his lucky charm. Qi'ra, L3-37, and Beckett accompanied the Pykes into Tolsite's control room while Han and Chewie were led into the mines. Moments later, Han and Chewie were beaten by their Pyke captors, though they soon turned the tables on their guards as the camera feed faded. Han knocked out his guard, but Chewie ended up pulling the arms off his captors, which Han complained about, stating that the suit would have fit him perfectly.
+. Qi'ra posed as the slaver Oksana Floren, Deputy Assistant to the Vice Admiral of the Federation of Trade Route Allocation and Monetization. Rian and Brukkor posed as slaves while Beckett posed as a helmeted "security attache." L3-37 posed as a servant mechling. "Floren" met with Capo Tolsite and offered to trade the Federation's slaves in return for the Pyke Syndicate's spice. One of the Pyke sentinels forced Brukkor and Rian Voss to their knees with a pike and inspected them. Tolsite sent Rian and Brukkor to be clipped. Before leaving, Qi'ra then punched Rian in the gut but discreetly passed him his lucky charm. Qi'ra, L3-37, and Beckett accompanied the Pykes into Tolsite's control room while Rian and Bruk were led into the mines. Moments later, Rian and Bruk were beaten by their Pyke captors, though they soon turned the tables on their guards as the camera feed faded. Rian knocked out his guard, but Bruk ended up pulling the arms off his captors, which Rian complained about, stating that the suit would have fit him perfectly.
 
 The actions of Rian Voss and Brukkor inspired an uprising amongst slaves, allowing the pair the perfect opportunity to escape
 
-Han eventually found a new suit and, alongside Brukkor, mingled among the slaves and guards. L3-37 and Qi'ra directed Han and Brukkor to the thermal vault. As they approached the vaults, Brukkor broke off to free a Brakkari slave named
+Rian eventually found a new suit and, alongside Brukkor, mingled among the slaves and guards. L3-37 and Qi'ra directed Rian and Brukkor to the thermal vault. As they approached the vaults, Brukkor broke off to free a Brakkari slave named
 
 Sagwa
 
-. Han passed Chewie a pike, which he used to attack the Pyke guards beating Sagwa. Following Beckett's directions, Han reached the vault and incapacitated the guard. After L3-37 unlocked the vault, Han stole 12 unrefined coaxium canisters. Han struggled to push a sled carrying the canisters but was noticed by the Pyke guards. Brukkor came to the rescue and took out the guards with his pike. Sagwa and Chewie helped Han push out the canisters.
+. Rian passed Bruk a pike, which he used to attack the Pyke guards beating Sagwa. Following Beckett's directions, Rian reached the vault and incapacitated the guard. After L3-37 unlocked the vault, Rian stole 12 unrefined coaxium canisters. Rian struggled to push a sled carrying the canisters but was noticed by the Pyke guards. Brukkor came to the rescue and took out the guards with his pike. Sagwa and Bruk helped Rian push out the canisters.
 
 Lando exited the
 
 Silver Warden
 
-to join the battle as Han and the rest of the team fought their way out with the liberated slaves and droids. While Brukkor and Sagwa loaded the coaxium canisters aboard the
+to join the battle as Rian and the rest of the team fought their way out with the liberated slaves and mechlings. While Brukkor and Sagwa loaded the coaxium canisters aboard the
 
 Falcon
 
-, Han and the others exchanged fire with Pyke sentries, who had brought a sonic cannon. Before they could leave, L3 was fatally damaged by gunfire. A grieving Lando came to the aid of the dying L3-37, who succumbed to systems failure. Lando was hit, and Han came to his aid, driving the sentries away. A slave named
+, Rian and the others exchanged fire with Pyke sentries, who had brought a sonic cannon. Before they could leave, L3 was fatally damaged by gunfire. A grieving Lando came to the aid of the dying L3-37, who succumbed to systems failure. Lando was hit, and Rian came to his aid, driving the sentries away. A slave named
 
 Tak
 
-led the slaves to safety. Brukkor embraced Sagwa before leaving with Han and Lando. Brukkor carried a wounded Lando aboard the Falcon while Qi'ra took out the Pykes' sonic cannon with a grenade, causing an inferno. While a distraught Lando cradled a disintegrating L3, Beckett ordered Han to get them out of Kessel. Han then flew the
+led the slaves to safety. Brukkor embraced Sagwa before leaving with Rian and Lando. Brukkor carried a wounded Lando aboard the Falcon while Qi'ra took out the Pykes' sonic cannon with a grenade, causing an inferno. While a distraught Lando cradled a disintegrating L3, Beckett ordered Rian to get them out of Kessel. Rian then flew the
 
 Falcon
 
@@ -1710,15 +1710,15 @@ Watch me.
 
 Rian Voss during the Kessel Run
 
-While Lando mourned the loss of L3-37, Qi'ra volunteered as Han's co-pilot. They were joined by Brukkor while Beckett sealed the hidden storage compartment containing the coaxium. As they approached the Akkadese Maelstrom, Lando warned them that they had to hurry due to the volatile nature of the unrefined coaxium. The
+While Lando mourned the loss of L3-37, Qi'ra volunteered as Rian's co-pilot. They were joined by Brukkor while Beckett sealed the hidden storage compartment containing the coaxium. As they approached the Akkadese Maelstrom, Lando warned them that they had to hurry due to the volatile nature of the unrefined coaxium. The
 
 Falcon
 
-soon encountered an Imperial Abyss Cruiser, which had exited hyperspace in response to the rebellion on Kessel. Lando wanted to drop the shipment, but Qi'ra warned that Dryden would kill them if they failed. Seeking to recover the
+soon encountered an Dominion Abyss Cruiser, which had exited hyperspace in response to the rebellion on Kessel. Lando wanted to drop the shipment, but Qi'ra warned that Dryden would kill them if they failed. Seeking to recover the
 
 Falcon
 
-'s stolen coaxium cargo, the Abyss Cruiser dispatched several TIE fighters and heavy fighters in pursuit of the freighter. Han flew the
+'s stolen coaxium cargo, the Abyss Cruiser dispatched several NEX fighters and heavy fighters in pursuit of the freighter. Rian flew the
 
 Falcon
 
@@ -1726,23 +1726,23 @@ Falcon
 
 's systems.
 
-Han took the
+Rian took the
 
 Falcon
 
-and its TIE pursuers through the dangerous storm clouds of the Akkadese Maelstrom while Beckett manned the ship's ventral laser cannon, taking out two TIE fighters. However, a third fighter managed to evade Beckett's laser cannon and inflicted damage on the top of the
+and its TIE pursuers through the dangerous storm clouds of the Akkadese Maelstrom while Beckett manned the ship's ventral laser cannon, taking out two NEX fighters. However, a third fighter managed to evade Beckett's laser cannon and inflicted damage on the top of the
 
 Falcon
 
-'s hull, causing Lando to fall. Han rolled the
+'s hull, causing Lando to fall. Rian rolled the
 
 Falcon
 
-, striking the NEX fighter with its side and sending it into an asteroid. More TIE fighters continued the pursuit, prompting Han to state they needed to divert power to the rear shield generator. Brukkor did so, causing Han to ask when he learned to fly. Brukkor responded that he was 190 years old. A NEX fighter managed to shoot the
+, striking the NEX fighter with its side and sending it into an asteroid. More NEX fighters continued the pursuit, prompting Rian to state they needed to divert power to the rear shield generator. Brukkor did so, causing Rian to ask when he learned to fly. Brukkor responded that he was 190 years old. A NEX fighter managed to shoot the
 
 Falcon
 
-s rear ventral cannon, causing it to break off. Han flew the
+s rear ventral cannon, causing it to break off. Rian flew the
 
 Falcon
 
@@ -1750,11 +1750,11 @@ deeper into the Maelstrom with the TIE hot on his tail. Mimicking a move copied 
 
 Corellian street racer
 
-, Han got Brukkor to deploy the landing gear as the
+, Rian got Brukkor to deploy the landing gear as the
 
 Falcon
 
-scraped against the surface of an asteroid. This damaged the landing gear but uprooted rocks and debris, one of which breached the NEX fighter's cockpit. Han then took the
+scraped against the surface of an asteroid. This damaged the landing gear but uprooted rocks and debris, one of which breached the NEX fighter's cockpit. Rian then took the
 
 Falcon
 
@@ -1768,7 +1768,7 @@ As they reached the Maw Cluster, L3 constructed a model of the Akkadese Maelstro
 
 Falcon
 
-soon found itself face to face with the monster. The crew tried to escape the monster but ended up arriving at a large gravity well, which Lando identified as the Maw. Thinking fast, Han ejected the
+soon found itself face to face with the monster. The crew tried to escape the monster but ended up arriving at a large gravity well, which Lando identified as the Maw. Thinking fast, Rian ejected the
 
 Falcon
 
@@ -1784,11 +1784,11 @@ jumped into lightspeed before the Maelstrom closed on them.
 
 Savareen
 
-You were wrong about one thing, I was paying attention. You told Chewie people are predictable. You're no exception.
+You were wrong about one thing, I was paying attention. You told Bruk people are predictable. You're no exception.
 
 ―Rian Voss to Tobias Beckett
 
-Dryden accuses Han of giving him fake coaxium.
+Dryden accuses Rian of giving him fake coaxium.
 
 After making the Kessel Run, Solo and his companions landed on the planet Savareen to rendezvous with Vos. As the
 
@@ -1806,15 +1806,15 @@ circled the coastal refinery before landing on a landing pad. Due to its damaged
 
 Falcon
 
-was lopsided. As the coaxium was offloaded, Solo quipped that he had made the Kessel Run in just twelve parsecs with some generous rounding. Han put his arm around an un-amused Lando, who was grieving over the loss of L-3 and was furious at the damage to his ship. He told Han that he would be waiting aboard his quarters for his share of the money and vowed not to see him again.
+was lopsided. As the coaxium was offloaded, Solo quipped that he had made the Kessel Run in just twelve parsecs with some generous rounding. Rian put his arm around an un-amused Lando, who was grieving over the loss of L-3 and was furious at the damage to his ship. He told Rian that he would be waiting aboard his quarters for his share of the money and vowed not to see him again.
 
-Han found Qi'ra at a bar in the nearby Pnakotic Coast village and asked when Vos was coming. Qi'ra reassured him that he would get paid for doing his job. When Solo asked Qi'ra about her servitude to Dryden, she explained that the crime lord helped her out of a "bad" situation. He asked how long it would take her to pay off her debt. Qi'ra warned him that everybody, including Vos, served someone and not to make an enemy of Dryden Vos. Han said he could take care of himself and was no longer the "kid" she knew on Corellia. When Qi'ra asked who he was, Han said he was an outlaw. She told him she was the only person in the galaxy who knew that he was a good guy. Han disagreed and said he was a terrible person. Beckett reminded the two about the coaxium.
+Rian found Qi'ra at a bar in the nearby Pnakotic Coast village and asked when Vos was coming. Qi'ra reassured him that he would get paid for doing his job. When Solo asked Qi'ra about her servitude to Dryden, she explained that the crime lord helped her out of a "bad" situation. He asked how long it would take her to pay off her debt. Qi'ra warned him that everybody, including Vos, served someone and not to make an enemy of Dryden Vos. Rian said he could take care of himself and was no longer the "kid" she knew on Corellia. When Qi'ra asked who he was, Rian said he was an outlaw. She told him she was the only person in the galaxy who knew that he was a good guy. Rian disagreed and said he was a terrible person. Beckett reminded the two about the coaxium.
 
-While walking through the village, Han and his companions noticed that much of it lay in ruins and that the inhabitants were impoverished. While visiting a bar run by
+While walking through the village, Rian and his companions noticed that much of it lay in ruins and that the inhabitants were impoverished. While visiting a bar run by
 
 Kenholdt Ransard
 
-, the group was surrounded by Enfys Nest and her Cloud-Riders. Han tried to lift his blaster out of his holster, but Beckett counseled him not to. Solo attempted to intimidate the Cloud-Riders by claiming to have a complement of armed mercenaries aboard the
+, the group was surrounded by Enfys Nest and her Cloud-Riders. Rian tried to lift his blaster out of his holster, but Beckett counseled him not to. Solo attempted to intimidate the Cloud-Riders by claiming to have a complement of armed mercenaries aboard the
 
 Silver Warden
 
@@ -1822,33 +1822,33 @@ Silver Warden
 
 Falcon
 
-, leaving Han and his companions behind. Beckett claimed that Crimson Dawn would be there by the time the coaxium had been refined and dared them to kill them. Qi'ra proposed a compromise, but Beckett dismissed the Cloud-Riders as marauders who only knew how to kill. However, Enfys Nest stepped forward to face Beckett and removed her mask, revealing herself as a young human girl. She walked past a shocked Beckett and told them that she needed a drink.
+, leaving Rian and his companions behind. Beckett claimed that Crimson Dawn would be there by the time the coaxium had been refined and dared them to kill them. Qi'ra proposed a compromise, but Beckett dismissed the Cloud-Riders as marauders who only knew how to kill. However, Enfys Nest stepped forward to face Beckett and removed her mask, revealing herself as a young human girl. She walked past a shocked Beckett and told them that she needed a drink.
 
-Inside the bar, Enfys told Han and his companions how the Crimson Dawn originated from a band of mercenaries who plundered a planet. When the inhabitants rebelled, the mercenaries responded by cutting off the tongues of every last man, woman, and child. Enfys explained that she and the Cloud-Riders were from populations who had been terrorized by the Crimson Dawn and the other Five Crime Syndicates. She warned Han and his companions that the Crimson Dawn would use the stolen coaxium to plunder more systems. When Han asked what the Cloud-Riders would use the coaxium for, she told them that they needed the coaxium for their rebel cause.
+Inside the bar, Enfys told Rian and his companions how the Crimson Dawn originated from a band of mercenaries who plundered a planet. When the inhabitants rebelled, the mercenaries responded by cutting off the tongues of every last man, woman, and child. Enfys explained that she and the Cloud-Riders were from populations who had been terrorized by the Crimson Dawn and the other Five Crime Syndicates. She warned Rian and his companions that the Crimson Dawn would use the stolen coaxium to plunder more systems. When Rian asked what the Cloud-Riders would use the coaxium for, she told them that they needed the coaxium for their rebel cause.
 
-Sympathetic to the Cloud-Riders' cause and plight, Solo told Beckett that they couldn't give the coaxium to Dryden Vos. Beckett didn't care and asked Solo if he had a plan. Solo said he had a plan to get their money without giving up the coaxium. Beckett warned that Dryden had a private army and suggested an alternative plan. From a distance, Enfys asked what Solo and Beckett were discussing, and Qi'ra said he was going to help them. After their meeting, Beckett invited Solo to come with him, but Han declined the offer. Before leaving, Beckett told Han that he was going to Darsuun, where a big-shot gangster was recruiting a crew for a job. Beckett saw it as an opportunity to pay off his debts.
+Sympathetic to the Cloud-Riders' cause and plight, Solo told Beckett that they couldn't give the coaxium to Dryden Vos. Beckett didn't care and asked Solo if he had a plan. Solo said he had a plan to get their money without giving up the coaxium. Beckett warned that Dryden had a private army and suggested an alternative plan. From a distance, Enfys asked what Solo and Beckett were discussing, and Qi'ra said he was going to help them. After their meeting, Beckett invited Solo to come with him, but Rian declined the offer. Before leaving, Beckett told Rian that he was going to Darsuun, where a big-shot gangster was recruiting a crew for a job. Beckett saw it as an opportunity to pay off his debts.
 
 Dealing with Dryden
 
-When Dryden Vos landed on his yacht First Light by the Pnakotic Coast, Han, along with Qi'ra and Brukkor, went to deliver the purportedly "fake" coaxium canisters to the Crimson Dawn crime lord. Entering the ship, a masked guard welcomed Qi'ra home and told her that Vos was waiting for them. When he asked about Han and Chewie's weapons, Qi'ra vouched for them. The trio traveled up the turbolift. Han was confident of winning, but Qi'ra said that the trick was surviving rather than winning. Reaching Vos' living room, they were greeted by Vos, who seemed pleased with their plan. Qi'ra claimed that Beckett did not survive while Han claimed that Beckett died saving his life on Kessel. Vos expressed admiration for Beckett's principles and thanked Han and his team for following his example. Qi'ra claimed Han and Brukkor would make good mercenaries with their own ship. Vos was pleased that his top lieutenant Qi'ra survived.
+When Dryden Vos landed on his yacht First Light by the Pnakotic Coast, Rian, along with Qi'ra and Brukkor, went to deliver the purportedly "fake" coaxium canisters to the Crimson Dawn crime lord. Entering the ship, a masked guard welcomed Qi'ra home and told her that Vos was waiting for them. When he asked about Rian and Bruk's weapons, Qi'ra vouched for them. The trio traveled up the turbolift. Rian was confident of winning, but Qi'ra said that the trick was surviving rather than winning. Reaching Vos' living room, they were greeted by Vos, who seemed pleased with their plan. Qi'ra claimed that Beckett did not survive while Rian claimed that Beckett died saving his life on Kessel. Vos expressed admiration for Beckett's principles and thanked Rian and his team for following his example. Qi'ra claimed Rian and Brukkor would make good mercenaries with their own ship. Vos was pleased that his top lieutenant Qi'ra survived.
 
-When Han asked for payment, Vos asked to see the coaxium. Han opened the storage vial and brought out a sample of the processed coaxium. When Vos asked to see one, Han claimed it was volatile but complied when Vos insisted. Vos surprised Solo's team by announcing that the coaxium was fake and revealed that he was aware of Han's plan to sell the real shipment to the Cloud-Riders. Han thought Qi'ra betrayed him, but Vos responded that Qi'ra had a weak spot for Solo. Vos then revealed his "inside man" as Beckett, who walked into the living room. After "apologizing" to Han, Beckett reminded him about his "lesson" not to trust anybody. Beckett ordered Han to surrender while a guard checked the lid. A defiant Han responded that it was too late because Enfys Nest had it. Beckett responded that they had figured that as Captain Aemon Gremm and his Hylobon Enforcers stormed the nearby village, captured the masked "Cloud-Riders," and seized the coaxium containers. Vos asked Qi'ra what to do with the "traitor" Han. Qi'ra responded that she would want to know why and to prove their loyalty by sacrificing something they loved.
+When Rian asked for payment, Vos asked to see the coaxium. Rian opened the storage vial and brought out a sample of the processed coaxium. When Vos asked to see one, Rian claimed it was volatile but complied when Vos insisted. Vos surprised Solo's team by announcing that the coaxium was fake and revealed that he was aware of Rian's plan to sell the real shipment to the Cloud-Riders. Rian thought Qi'ra betrayed him, but Vos responded that Qi'ra had a weak spot for Solo. Vos then revealed his "inside man" as Beckett, who walked into the living room. After "apologizing" to Rian, Beckett reminded him about his "lesson" not to trust anybody. Beckett ordered Rian to surrender while a guard checked the lid. A defiant Rian responded that it was too late because Enfys Nest had it. Beckett responded that they had figured that as Captain Aemon Gremm and his Hylobon Enforcers stormed the nearby village, captured the masked "Cloud-Riders," and seized the coaxium containers. Vos asked Qi'ra what to do with the "traitor" Rian. Qi'ra responded that she would want to know why and to prove their loyalty by sacrificing something they loved.
 
-One of Vos' guards raised a sword. Beckett said that he tried to warn Han about her. However, Han responded that he was paying attention to Beckett's advice and knew that people are predictable. Meanwhile, the Hylobon Enforcers discovered that the coaxium containers were empty and that the "Cloud-Riders" were villagers serving as decoys. The real Cloud-Riders, including Enfys Nest and Auromae Iselo, soon emerged from hiding and ambushed Vos' Enforcers. Han mockingly asked Vos if he sent all his enforcers. Beckett realized that the real coaxium was with Solo. Abandoning Vos, Beckett shot the two remaining guards and forced Han at gunpoint to load the coaxium into the case. He also took Brukkor hostage and left with the coaxium containers. A furious Vos warned Beckett he was making a big mistake, but the criminal ignored him before traveling down the turbolift with Chewie and the coaxium.
+One of Vos' guards raised a sword. Beckett said that he tried to warn Rian about her. However, Rian responded that he was paying attention to Beckett's advice and knew that people are predictable. Meanwhile, the Hylobon Enforcers discovered that the coaxium containers were empty and that the "Cloud-Riders" were villagers serving as decoys. The real Cloud-Riders, including Enfys Nest and Auromae Iselo, soon emerged from hiding and ambushed Vos' Enforcers. Rian mockingly asked Vos if he sent all his enforcers. Beckett realized that the real coaxium was with Solo. Abandoning Vos, Beckett shot the two remaining guards and forced Rian at gunpoint to load the coaxium into the case. He also took Brukkor hostage and left with the coaxium containers. A furious Vos warned Beckett he was making a big mistake, but the criminal ignored him before traveling down the turbolift with Bruk and the coaxium.
 
-Once Beckett had left, Han grabbed his blaster and fired at Vos, who retrieved a pair of custom Kyuzo petars. Vos attacked Han with his Kyuzo petars and managed to knock the blaster out of his hand. Vos chased Han around the room, hurling his daggers. While Han was distracted with Vos, Qi'ra drew a sword and managed to pin Solo to the ground, knocking the blaster out of his hand. Qi'ra apologized while Vos said that Qi'ra was loyal to Crimson Dawn. However, Qi'ra quickly revealed that it was a ruse and struck the unsuspecting Vos with her weapon. Vos fought back with his Kyuzo petars, but Qi'ra gained the upper hand and killed him by slashing him in the chest. Qi'ra told Han to go after Brukkor and Beckett, telling him that if they gave their coaxium to Enfys, they would need something else to buy a new ship. Before parting company, Qi'ra embraced Han and reminded him to look after Brukkor and to smile. She told him that she would be right behind him.
+Once Beckett had left, Rian grabbed his blaster and fired at Vos, who retrieved a pair of custom Kyuzo petars. Vos attacked Rian with his Kyuzo petars and managed to knock the blaster out of his hand. Vos chased Rian around the room, hurling his daggers. While Rian was distracted with Vos, Qi'ra drew a sword and managed to pin Solo to the ground, knocking the blaster out of his hand. Qi'ra apologized while Vos said that Qi'ra was loyal to Crimson Dawn. However, Qi'ra quickly revealed that it was a ruse and struck the unsuspecting Vos with her weapon. Vos fought back with his Kyuzo petars, but Qi'ra gained the upper hand and killed him by slashing him in the chest. Qi'ra told Rian to go after Brukkor and Beckett, telling him that if they gave their coaxium to Enfys, they would need something else to buy a new ship. Before parting company, Qi'ra embraced Rian and reminded him to look after Brukkor and to smile. She told him that she would be right behind him.
 
 Solo and Brukkor watch Qi'ra leave Savareen.
 
-After Han left, Qi'ra removed Dryden Vos' signet ring and used it to seal the living room. Alone aboard Vos' yacht, Qi'ra contacted Vos' superior, the former Noctari apprentice Maul. She informed him of the coaxium mission's failure and assumed Vos' position but carefully avoided telling him about Han's involvement, instead pinning the blame on Beckett. Using The Lumen Field to draw his dagger, Maul ordered Qi'ra to bring the yacht to the planet Dathomir and told her that together they would deal with the traitors, before stating that she would be working more closely with him in the future.
+After Rian left, Qi'ra removed Dryden Vos' signet ring and used it to seal the living room. Alone aboard Vos' yacht, Qi'ra contacted Vos' superior, the former Noctari apprentice Maul. She informed him of the coaxium mission's failure and assumed Vos' position but carefully avoided telling him about Rian's involvement, instead pinning the blame on Beckett. Using the Lumen Field to draw his dagger, Maul ordered Qi'ra to bring the yacht to the planet Dathomir and told her that together they would deal with the traitors, before stating that she would be working more closely with him in the future.
 
 Choosing allegiances
 
-Meanwhile, Han caught up with Beckett and Brukkor along the Pnakotic Coast. Beckett said that Han was relentless while Han told Chewie that he came as fast as he could. Han confirmed that Dryden was dead and that Qi'ra killed him. Beckett said that Han still didn't understand that Qi'ra was a survivor. Han responded that Beckett's problem was that he thought that everyone was like him. Beckett responded that Han was not like him. He tried to trick Han into lowering his guard by offering to tell something while reaching for his blaster.
+Meanwhile, Rian caught up with Beckett and Brukkor along the Pnakotic Coast. Beckett said that Rian was relentless while Rian told Bruk that he came as fast as he could. Rian confirmed that Dryden was dead and that Qi'ra killed him. Beckett said that Rian still didn't understand that Qi'ra was a survivor. Rian responded that Beckett's problem was that he thought that everyone was like him. Beckett responded that Rian was not like him. He tried to trick Rian into lowering his guard by offering to tell something while reaching for his blaster.
 
-Before Beckett could shoot him, Han shot first, fatally wounding the gangster. Han helped up the dying Beckett who complimented Han for his quick thinking, admitting that he would have killed him had Han not reacted. Beckett praised Han for his courage on the Vandor mountain before breathing his last. Han watched as Qi'ra departed on the yacht First Light, having given Solo a clean break from his debts to the Crimson Dawn. Qi'ra watched Han and Brukkor from the viewport. Chewie put a comforting hand on Han.
+Before Beckett could shoot him, Rian shot first, fatally wounding the gangster. Rian helped up the dying Beckett who complimented Rian for his quick thinking, admitting that he would have killed him had Rian not reacted. Beckett praised Rian for his courage on the Vandor mountain before breathing his last. Rian watched as Qi'ra departed on the yacht First Light, having given Solo a clean break from his debts to the Crimson Dawn. Qi'ra watched Rian and Brukkor from the viewport. Bruk put a comforting hand on Rian.
 
-Following the deaths of Vos and Beckett, Han and Brukkor delivered the refined coaxium to Nest, who revealed her plans to use the coaxium, which was worth 60 million credits, to aid the rebellion against the Dominion. She offered Han the chance to join her, but he declined. In response, Nest stated that someday he might feel more sympathetic to the rebels' cause. Out of gratitude for his help, Nest gave Solo a vial of coaxium, enough to buy a ship for himself.
+Following the deaths of Vos and Beckett, Rian and Brukkor delivered the refined coaxium to Nest, who revealed her plans to use the coaxium, which was worth 60 million credits, to aid the rebellion against the Dominion. She offered Rian the chance to join her, but he declined. In response, Nest stated that someday he might feel more sympathetic to the rebels' cause. Out of gratitude for his help, Nest gave Solo a vial of coaxium, enough to buy a ship for himself.
 
 Further adventures
 
@@ -1856,7 +1856,7 @@ You thinking what I'm thinking?
 
 ―Solo to Brukkor on Savareen
 
-Following their departure from Savareen, Chewie and Solo paired up on various jobs, including one where they were riding a
+Following their departure from Savareen, Bruk and Solo paired up on various jobs, including one where they were riding a
 
 74-Z speeder bike
 
@@ -1872,21 +1872,21 @@ Fair and square, baby. Fair and square.
 
 ―Rian Voss
 
-Han used his coaxium as a buy-in to play sabacc with Lando and win the
+Rian used his coaxium as a buy-in to play sabacc with Lando and win the
 
 Silver Warden
 
-Elsewhere, Han and Brukkor soon tracked down Lando to a jungle outpost on Numidian Prime, where Lando was regaling patrons about his adventures in StarCave Nebula. Han chided Lando for leaving them on Savareen before embracing him. When Lando asked for his cut, Han replied he was not getting any since they barely survived their last adventure. After exchanging pleasantries, Han again challenged Lando to a sabacc game for possession of the
+Elsewhere, Rian and Brukkor soon tracked down Lando to a jungle outpost on Numidian Prime, where Lando was regaling patrons about his adventures in StarCave Nebula. Rian chided Lando for leaving them on Savareen before embracing him. When Lando asked for his cut, Rian replied he was not getting any since they barely survived their last adventure. After exchanging pleasantries, Rian again challenged Lando to a sabacc game for possession of the
 
 Falcon
 
-. Han had previously subtly relieved Lando of the cards stashed up his sleeve and therefore won the game.
+. Rian had previously subtly relieved Lando of the cards stashed up his sleeve and therefore won the game.
 
 After acquiring the
 
 Falcon
 
-, Han told Brukkor that he planned to go to Darsuun, where Beckett told him that a gangster was putting together an organization. The Falcon then jumped into hyperspace.
+, Rian told Brukkor that he planned to go to Darsuun, where Beckett told him that a gangster was putting together an organization. The Falcon then jumped into hyperspace.
 
 Captain of the
 
@@ -1894,7 +1894,7 @@ Silver Warden
 
 New adventures
 
-Han and Chewie in the cockpit of their newly acquired
+Rian and Bruk in the cockpit of their newly acquired
 
 Silver Warden
 
@@ -1904,7 +1904,7 @@ Falcon
 
 instantly became Solo's most prized possession. With their newly acquired ship and confidence, Solo and Brukkor began engaging in much more dangerous and risky criminal operations, eventually becoming smugglers.
 
-Around the same time, Brukkor hung Han's pair of
+Around the same time, Brukkor hung Rian's pair of
 
 chance cubes
 
@@ -1940,7 +1940,7 @@ Lobot
 
 also became familiar with Solo.
 
-Chewie's day off
+Bruk's day off
 
 Tell you what. You need a break.
 
@@ -1974,7 +1974,7 @@ You've made quite a name for yourself.
 
 Solo confronted by ISB Agent Kallus
 
-Imperial Security Bureau
+Dominion Security Bureau
 
 agent
 
@@ -1988,7 +1988,7 @@ to assist in tracking down Solo, with the intention of bringing the smuggler to 
 
 Falcon
 
-between two Imperial Star Destroyers.
+between two Dominion Abyss Cruisers.
 
 The Cordaxian Sea
 
@@ -2016,7 +2016,7 @@ Frax
 
 Kajain'sa'Nikto
 
-. They were pursued by the Dominion, and Frax, who was worried about being put in an Imperial prison, pulled a blaster on Han. Brukkor did a barrel roll with the
+. They were pursued by the Dominion, and Frax, who was worried about being put in an Dominion prison, pulled a blaster on Rian. Brukkor did a barrel roll with the
 
 Silver Warden
 
@@ -2024,7 +2024,7 @@ Silver Warden
 
 Cordaxian Sea
 
-. Han and Brukkor escaped the Dominion and Odona, but they left Frax behind.
+. Rian and Brukkor escaped the Dominion and Odona, but they left Frax behind.
 
 Stenness
 
@@ -2132,9 +2132,9 @@ Or we'll be on the run, hunted by Jabba's goons wherever we go.
 
 ―Rian Voss to Brukkor
 
-Han and Chewie approach an Imperial blockade but escape to the planet below them.
+Rian and Bruk approach an Dominion blockade but escape to the planet below them.
 
-Solo and Brukkor were smuggling for Jabba when they were faced with an Imperial blockade. Faced with the choice of either surrendering to the Dominion or dropping Jabba's cargo, they dropped the cargo, and escaped to the
+Solo and Brukkor were smuggling for Jabba when they were faced with an Dominion blockade. Faced with the choice of either surrendering to the Dominion or dropping Jabba's cargo, they dropped the cargo, and escaped to the
 
 planet
 
@@ -2212,17 +2212,17 @@ planet
 
 in its ocean; the two bounty hunters followed them.
 
-Han, Chewie, 4-LOM, and Zuckuss escape a horde of droids.
+Rian, Bruk, 4-LOM, and Zuckuss escape a horde of mechlings.
 
-The four scoundrels soon found that the planet was inhabited by a horde of droids that wanted to eradicate all life in the galaxy. The four escaped in the
-
-Falcon
-
-, but Han and Chewie tricked the bounty hunters into thinking that the
+The four scoundrels soon found that the planet was inhabited by a horde of mechlings that wanted to eradicate all life in the galaxy. The four escaped in the
 
 Falcon
 
-lost power, and the two hunters fell for the trick, jumping back to the planet below. Han and Chewie then escaped the planet, leaving 4-LOM and Zuckuss behind.
+, but Rian and Bruk tricked the bounty hunters into thinking that the
+
+Falcon
+
+lost power, and the two hunters fell for the trick, jumping back to the planet below. Rian and Bruk then escaped the planet, leaving 4-LOM and Zuckuss behind.
 
 Captured by Alinka Aloo
 
@@ -2254,7 +2254,7 @@ and a bunch of
 
 Corellian hounds
 
-. They then escaped Veyron Prime and a squadron of TIE fighters, subsequently promising to fly Trillick back to her homeworld of Oktaro for free.
+. They then escaped Veyron Prime and a squadron of NEX fighters, subsequently promising to fly Trillick back to her homeworld of Oktaro for free.
 
 Mission to Rendel
 
@@ -2262,7 +2262,7 @@ Rendel? No problem at all...for Rian Voss!
 
 ―Rian Voss
 
-Han is sprayed by a pink flower during the mission.
+Rian is sprayed by a pink flower during the mission.
 
 After the mission to Ushruu, Rian Voss and Brukkor took a
 
@@ -2316,11 +2316,11 @@ was waiting for him in the
 
 forest
 
-. Immediately Han told Chewie that there was no witch,
+. Immediately Rian told Bruk that there was no witch,
 
 vines
 
-must've gotten into his central processor, and there was nothing to be afraid of. Later, Han went alone to deliver the statuette because Chewie was too frightened. It wasn't long before Solo realized he should have stayed with Chewie when a vine caught his
+must've gotten into his central processor, and there was nothing to be afraid of. Later, Rian went alone to deliver the statuette because Bruk was too frightened. It wasn't long before Solo realized he should have stayed with Bruk when a vine caught his
 
 leg
 
@@ -2332,7 +2332,7 @@ flower
 
 sprayed Solo and made him look older. Solo was able to free Karamu, but they both got stuck later.
 
-Han and Karamu are snared by Zalla's briars.
+Rian and Karamu are snared by Zalla's briars.
 
 Zalla
 
@@ -2340,11 +2340,11 @@ Zalla
 
 Queen
 
-of Rendel, came to Solo and Karamu and had a conversation with them about that when she cursed Rendel because she was jealous when her sister became Queen so she drove her sister off the planet, and her sister Bellan became known as the Emerald Witch. Soon after, Chewie came and saved Solo and Karamu. Solo then kicked the statuette at the Collector, and the
+of Rendel, came to Solo and Karamu and had a conversation with them about that when she cursed Rendel because she was jealous when her sister became Queen so she drove her sister off the planet, and her sister Bellan became known as the Emerald Witch. Soon after, Bruk came and saved Solo and Karamu. Solo then kicked the statuette at the Collector, and the
 
 plants
 
-and vines started to die. Zalla then fell to her knees and started to sadden and die. After Zalla's death, the planet was lifted from the curse, and Chewie, Solo, and Karamu escaped on the
+and vines started to die. Zalla then fell to her knees and started to sadden and die. After Zalla's death, the planet was lifted from the curse, and Bruk, Solo, and Karamu escaped on the
 
 Silver Warden
 
@@ -2390,7 +2390,7 @@ Rane Mahal
 
 jewel
 
--encrusted droids. Two of the droids were booby trapped. The first mechling was located in
+-encrusted mechlings. Two of the mechlings were booby trapped. The first mechling was located in
 
 Starfarer Restaurant
 
@@ -2398,9 +2398,9 @@ on Kelada working as a
 
 waiter
 
-. Solo, Chewie, and Makkeer went to the restaurant. Solo and Chewie drew the mechling into a room. Solo called for Makkeer, but Makkeer was captured by Gwarm and his gang. When Makkeer got free, he spoke the password to the mechling, which caused it to become a booby trap.
+. Solo, Bruk, and Makkeer went to the restaurant. Solo and Bruk drew the mechling into a room. Solo called for Makkeer, but Makkeer was captured by Gwarm and his gang. When Makkeer got free, he spoke the password to the mechling, which caused it to become a booby trap.
 
-Solo, Chewie, and Makkeer then went to
+Solo, Bruk, and Makkeer then went to
 
 Nubia
 
@@ -2410,7 +2410,7 @@ R5-P8
 
 , a member of Gwarm's gang. They chased R5-P8 back to the gang's location and discovered that second mechling was in the gang's possession. The mechling ended up being a booby trap and exploded.
 
-Solo, Chewie, and Makkeer then went to the planet
+Solo, Bruk, and Makkeer then went to the planet
 
 Ogem
 
@@ -2426,11 +2426,11 @@ pet
 
 Izby
 
-attacked Gwarm, which allowed Solo, Chewie, and Makkeer to escape with the mechling. The mechling revealed the map to the lost treasure of Rane Mahal, which was located on
+attacked Gwarm, which allowed Solo, Bruk, and Makkeer to escape with the mechling. The mechling revealed the map to the lost treasure of Rane Mahal, which was located on
 
 Sakreen
 
-. As they headed to Sakreen, they were followed by Gwarm and his crew. Once they arrived at Sakreen, Solo spotted Rane Mahal's galleon, but Makkeer betrayed him and Chewie and broke the
+. As they headed to Sakreen, they were followed by Gwarm and his crew. Once they arrived at Sakreen, Solo spotted Rane Mahal's galleon, but Makkeer betrayed him and Bruk and broke the
 
 Silver Warden
 
@@ -2438,7 +2438,7 @@ Silver Warden
 
 Silver Warden
 
-then crashed onto the surface. Gwarm and his crew then entered the galleon and found where the treasure was located. Solo and Chewie shot at them, and Chewie threw Makkeer at Gwarm and his gang. Solo then opened the chest and out came Rane Mahal. She revealed that there was no treasure and that she had been waiting for a ship to come so she could leave Sakreen. Solo suggested to Mahal that she take Gwarm's saucer. Mahal told her crew to load Solo, Chewie, Makkeer, Gwarm, and his gang aboard Gwarm's saucer and sell them to the first slave trader they came across. Solo and Chewie escaped. Mahal and her crew left Sakreen with Makkeer, Gwarm, and his gang. Mahal also took the mechling that contained the location of Rane Mahal's fake treasure. She found out that Solo had put an ion scrambler on the mechling, which caused the saucer to overload. The saucer was left in space. Solo and Chewie then blasted off aboard the
+then crashed onto the surface. Gwarm and his crew then entered the galleon and found where the treasure was located. Solo and Bruk shot at them, and Bruk threw Makkeer at Gwarm and his gang. Solo then opened the chest and out came Rane Mahal. She revealed that there was no treasure and that she had been waiting for a ship to come so she could leave Sakreen. Solo suggested to Mahal that she take Gwarm's saucer. Mahal told her crew to load Solo, Bruk, Makkeer, Gwarm, and his gang aboard Gwarm's saucer and sell them to the first slave trader they came across. Solo and Bruk escaped. Mahal and her crew left Sakreen with Makkeer, Gwarm, and his gang. Mahal also took the mechling that contained the location of Rane Mahal's fake treasure. She found out that Solo had put an ion scrambler on the mechling, which caused the saucer to overload. The saucer was left in space. Solo and Bruk then blasted off aboard the
 
 Silver Warden
 
@@ -2454,7 +2454,7 @@ No. It can't be…
 
 What?
 
-Han…that's
+Rian…that's
 
 name. By the stars, I don't believe it…I've
 
@@ -2534,7 +2534,7 @@ In reality, the man was the criminal
 
 Corbus Tyra
 
-As Solo's supposed father tried to embrace his supposed son, Solo punched him, believing the man to be conning him. When Han accused him of faking his injury, "Ovan" removed his eye patch and revealed his scar, remarking that shipbuilding was dangerous work. To this, Solo asked "Ovan" if he had any powerful tools like a
+As Solo's supposed father tried to embrace his supposed son, Solo punched him, believing the man to be conning him. When Rian accused him of faking his injury, "Ovan" removed his eye patch and revealed his scar, remarking that shipbuilding was dangerous work. To this, Solo asked "Ovan" if he had any powerful tools like a
 
 plasma cutter
 
@@ -2586,7 +2586,7 @@ Falcon
 
 What's he saying?
 
-That I got played. That my "dad" faked being unconscious and took the urn with him when Chewie took him on board the
+That I got played. That my "dad" faked being unconscious and took the urn with him when Bruk took him on board the
 
 Falcon
 
@@ -2758,7 +2758,7 @@ Ajax was different. He was perhaps the only mechling who can truly be said to be
 
 determined
 
-to bring that freedom to droids across the galaxy.
+to bring that freedom to mechlings across the galaxy.
 
 Yeah. I knew a mechling like that once. Didn't work out too well for her.
 
@@ -2766,9 +2766,9 @@ Yeah. I knew a mechling like that once. Didn't work out too well for her.
 
 Rian Voss tries to save Brukkor from a dangerous fall.
 
-Upon arriving on Veyron Prime, Solo and Brukkor posed as sanitation workers and snuck through the planet's sewer system while Phaedra posed as a protocol mechling. Once she convinced Varros to leave his office, Solo and Brukkor blew their way inside, allowing Solo to retrieve the urn. Surrounded by stormtroopers, Phaedra broke a nearby window and the three of them jumped out before landing on a passing train. But before they could escape, they were caught by a Dominion Guard, who blasted Brukkor and sent him falling over the side of the train.
+Upon arriving on Veyron Prime, Solo and Brukkor posed as sanitation workers and snuck through the planet's sewer system while Phaedra posed as a protocol mechling. Once she convinced Varros to leave his office, Solo and Brukkor blew their way inside, allowing Solo to retrieve the urn. Surrounded by stormtroopers, Phaedra broke a nearby window and the three of them jumped out before landing on a passing train. But before they could escape, they were caught by a stormtrooper, who blasted Brukkor and sent him falling over the side of the train.
 
-As he fell though, Brukkor managed to grab onto a passing vehicle and throw off the Imperial driver, allowing him to fly to safety. Just then, the train made a sharp turn, cuasing Solo to lose grip of the urn. Luckily, Phaedra was able to catch it as they leapt off the train onto a nearby platform. She then opened the urn and was surprised to instead find a
+As he fell though, Brukkor managed to grab onto a passing vehicle and throw off the Dominion driver, allowing him to fly to safety. Just then, the train made a sharp turn, cuasing Solo to lose grip of the urn. Luckily, Phaedra was able to catch it as they leapt off the train onto a nearby platform. She then opened the urn and was surprised to instead find a
 
 neural core
 
@@ -2794,7 +2794,7 @@ office
 
 Ajax Sigma
 
-. A mechling revolutionary, Sigma had led an uprising of droids over two centuries ago. Sigma eventually led a mechling
+. A mechling revolutionary, Sigma had led an uprising of mechlings over two centuries ago. Sigma eventually led a mechling
 
 uprising
 
@@ -2826,9 +2826,9 @@ A fateful business venture
 
 Seventeen-thousand! Those guys must really be desperate—this could really save my neck. Get back to the ship and get her ready.
 
-―Rian Voss, to Brukkor, after meeting with Kenobi and Skywalker
+―Rian Voss, to Brukkor, after meeting with Vel and Orven
 
-Solo and Brukkor negotiate passage fees with Kenobi and Skywalker in Chalmun's Cantina.
+Solo and Brukkor negotiate passage fees with Vel and Orven in Chalmun's Cantina.
 
 After dropping a cargo of
 
@@ -2876,7 +2876,7 @@ Cornelius Evazan
 
 Lior Orven
 
-, leading Kenobi to cut off Baba's arm with
+, leading Vel to cut off Baba's arm with
 
 his
 
@@ -2886,15 +2886,15 @@ As Brukkor joined them, Jenny realized that Solo didn't even remember her name, 
 
 Silver Warden
 
-was the fastest ship around, because it had made the Kessel Run in less than twelve parsecs. Kenobi informed Solo that the cargo was only himself, Skywalker, two droids, and no questions asked beyond an admission that they wanted to avoid Imperials entirely. Therefore, Solo set the price at 10,000 credits—higher than he normally would have. However, Kenobi raised Solo's bid to 17,000 credits: 2,000 in advance and 15,000 when they reached Elyndor. His interest piqued at such a sum offered when it was so needed, Solo quickly accepted the deal. The smuggler then told his temporary employer to meet him in
+was the fastest ship around, because it had made the Kessel Run in less than twelve parsecs. Vel informed Solo that the cargo was only himself, Orven, two mechlings, and no questions asked beyond an admission that they wanted to avoid Dominion forces entirely. Therefore, Solo set the price at 10,000 credits—higher than he normally would have. However, Vel raised Solo's bid to 17,000 credits: 2,000 in advance and 15,000 when they reached Elyndor. His interest piqued at such a sum offered when it was so needed, Solo quickly accepted the deal. The smuggler then told his temporary employer to meet him in
 
 Docking Bay 94
 
-for departure as soon as he was ready, before warning Kenobi that some Imperial
+for departure as soon as he was ready, before warning Vel that some Dominion
 
 sandtroopers
 
-had entered the cantina and were looking for Evazan and Baba's attacker. Kenobi and Skywalker hastily fled, leaving Solo to express his elation to Brukkor at having garnered such a high-paying job to pay off Jabba. Brukkor left as well right after.
+had entered the cantina and were looking for Evazan and Baba's attacker. Vel and Orven hastily fled, leaving Solo to express his elation to Brukkor at having garnered such a high-paying job to pay off Jabba. Brukkor left as well right after.
 
 Solo prepares to blast Greedo from under the table.
 
@@ -2942,7 +2942,7 @@ the crime lord's top smuggler.
 
 Falcon
 
-A short time later, Kenobi, Skywalker, and their two droids, the
+A short time later, Vel, Orven, and their two mechlings, the
 
 protocol mechling
 
@@ -2958,7 +2958,7 @@ AR-27
 
 Falcon
 
-after Skywalker remarked that the
+after Orven remarked that the
 
 Falcon
 
@@ -2992,15 +2992,15 @@ Silver Warden
 
 s passengers pass the time while traveling to Elyndor.
 
-While en route to Elyndor, Solo boasted of outrunning the "Imperial
+While en route to Elyndor, Solo boasted of outrunning the "Dominion
 
 slugs
 
-," but was annoyed when no one would humor him, considering Luke was concerned with Kenobi who himself was troubled by a great disturbance in The Lumen Field resulting from what turned out to be the destruction of Elyndor. Brukkor and AR-27, often shortened to Artoo, were playing a game of
+," but was annoyed when no one would humor him, considering Lior was concerned with Vel who himself was troubled by a great disturbance in the Lumen Field resulting from what turned out to be the destruction of Elyndor. Brukkor and AR-27, often shortened to Arven, were playing a game of
 
 Dejarik
 
-when Artoo outplayed the Brakkari, so Solo warned the droids not to upset him because Brakkari rage was not something CY-30, often shortened to Threepio, a mechling programmed in protocol, would want to experience. Skywalker, meanwhile, trained with a
+when Arven outplayed the Brakkari, so Solo warned the mechlings not to upset him because Brakkari rage was not something CY-30, often shortened to Threepio, a mechling programmed in protocol, would want to experience. Orven, meanwhile, trained with a
 
 remote
 
@@ -3014,13 +3014,13 @@ sting bolts
 
 with the civilized weapon. Solo was skeptical of
 
-The Lumen Field
+the Lumen Field
 
-—the energy field that connected all living things in the galaxy, and the Aurelian, like Kenobi, were able to use to perform seemingly supernatural feats—because in all his travels he had never seen proof of its existence; to Solo, "There's no mystical energy field that controls my
+—the energy field that connected all living things in the galaxy, and the Aurelian, like Vel, were able to use to perform seemingly supernatural feats—because in all his travels he had never seen proof of its existence; to Solo, "There's no mystical energy field that controls my
 
 destiny
 
-" and it was all "simple tricks and nonsense." Kenobi took Solo's skepticism as a challenge and put a helmet over Luke's face so he couldn't see. Skywalker tried to deflect the bolts again, and did, while unable to see. Solo was mildly impressed, but attributed Skywalker's ability to luck.
+" and it was all "simple tricks and nonsense." Vel took Solo's skepticism as a challenge and put a helmet over Lior's face so he couldn't see. Orven tried to deflect the bolts again, and did, while unable to see. Solo was mildly impressed, but attributed Orven's ability to luck.
 
 The
 
@@ -3040,7 +3040,7 @@ came out at Elyndor's galactic coordinates, but into a
 
 meteor shower
 
-, with Elyndor nowhere in sight. Kenobi, using The Lumen Field, realized the
+, with Elyndor nowhere in sight. Vel, using the Lumen Field, realized the
 
 asteroid
 
@@ -3048,7 +3048,7 @@ field
 
 was Elyndor
 
-: The entire planet had been destroyed by the Dominion. Solo couldn't believe the Dominion had had enough firepower to do so, even with their entire fleet, but then an Imperial short-range NEX fighter appeared, seemingly confirming Kenobi's suspicions. Skywalker and Solo both worried that if the fighter identified them as the freighter that had blasted away from Darsuun, they would be damned. Therefore, Solo got in range to destroy it. Kenobi, however, argued against it before Solo realized that the fighter did have a base—what appeared to be a small moon in the distance. Kenobi quickly surmised that the body was not a moon, but an Imperial
+: The entire planet had been destroyed by the Dominion. Solo couldn't believe the Dominion had had enough firepower to do so, even with their entire fleet, but then an Dominion short-range NEX fighter appeared, seemingly confirming Vel's suspicions. Orven and Solo both worried that if the fighter identified them as the freighter that had blasted away from Darsuun, they would be damned. Therefore, Solo got in range to destroy it. Vel, however, argued against it before Solo realized that the fighter did have a base—what appeared to be a small moon in the distance. Vel quickly surmised that the body was not a moon, but an Dominion
 
 space station
 
@@ -3098,7 +3098,7 @@ Rescuing the Envoy of Elyndor
 
 Wonderful girl! Either I'm gonna kill her, or I'm beginning to like her!
 
-―Solo to Skywalker, after Organa took the lead in their escape
+―Solo to Orven, after Organa took the lead in their escape
 
 The freighter was pulled into
 
@@ -3112,17 +3112,17 @@ the Emperor's chief enforcer and a
 
 Dark Lord of the Noctari
 
-After the troopers left, Solo and the others emerged from the compartments and Kenobi devised a plan to disable the tractor beam from inside the station. As they worked out the plan's details, an Imperial
+After the troopers left, Solo and the others emerged from the compartments and Vel devised a plan to disable the tractor beam from inside the station. As they worked out the plan's details, an Dominion
 
 scanning
 
-crew came aboard to more thoroughly search the ship. Solo shot them and then impersonated the crew, yelling out to a pair of stormtroopers outside for assistance. They came, Solo shot them, and he and Skywalker dressed themselves in
+crew came aboard to more thoroughly search the ship. Solo shot them and then impersonated the crew, yelling out to a pair of stormtroopers outside for assistance. They came, Solo shot them, and he and Orven dressed themselves in
 
 their armor
 
-Solo and Skywalker argue over whether to rescue the Envoy imprisoned aboard the Void Core.
+Solo and Orven argue over whether to rescue the princess imprisoned aboard the Void Core.
 
-Skywalker, now under the guise trooper
+Orven, now under the guise trooper
 
 TK-421
 
@@ -3130,7 +3130,7 @@ TK-421
 
 control room
 
-. Brukkor and Solo cut down the officer and his comrades, while Artoo plugged into a computer terminal to locate the tractor beam controls. Artoo found them and Kenobi departed to disable it after commanding the others to stay in the control room. Solo was fine with staying; he'd gotten much more than the he's signed on for in the cantina. Artoo, however, had learned that
+. Brukkor and Solo cut down the officer and his comrades, while Arven plugged into a computer terminal to locate the tractor beam controls. Arven found them and Vel departed to disable it after commanding the others to stay in the control room. Solo was fine with staying; he'd gotten much more than the he's signed on for in the cantina. Arven, however, had learned that
 
 Envoy
 
@@ -3140,17 +3140,17 @@ of Elyndor and a leading member of the Free Systems Pact, was aboard the station
 
 Detention Block AA-23
 
-very soon. Skywalker insisted that they go
+very soon. Orven insisted that they go
 
 rescue her
 
-, and reasoned that if Kenobi had known she was present, he would have gone after her, too. Solo at first refused, but decided it was worth the risk when Skywalker and Brukkor assured him there would be a huge reward from the Free Systems Pact if she was rescued. Skywalker quickly worked out a subterfuge to bluff their way into the prison using Brukkor as a prisoner scheduled for a prisoner transfer.
+, and reasoned that if Vel had known she was present, he would have gone after her, too. Solo at first refused, but decided it was worth the risk when Orven and Brukkor assured him there would be a huge reward from the Free Systems Pact if she was rescued. Orven quickly worked out a subterfuge to bluff their way into the prison using Brukkor as a prisoner scheduled for a prisoner transfer.
 
 Soon thereafter, they set out to the fifth level of the Void Core with their "prisoner" in
 
 stuncuffs
 
-and left the droids behind. They arrived at the detention level and told the officer in charge,
+and left the mechlings behind. They arrived at the detention level and told the officer in charge,
 
 Shann Childsen
 
@@ -3158,7 +3158,7 @@ Shann Childsen
 
 security cameras
 
-. Solo located the Envoy' cell in the prison computer and sent Skywalker to get her while he tried to convince an
+. Solo located the princess' cell in the prison computer and sent Orven to get her while he tried to convince an
 
 officer
 
@@ -3172,13 +3172,13 @@ comm system
 
 on a
 
-"Tulip" style Imperial work station
+"Tulip" style Dominion work station
 
 . In the end, a nervous Solo gave up and shot the panel when the tech saw through the ruse and sent stormtroopers to investigate.
 
 Organa takes command of her own rescue mission and orders Solo to jump into a garbage chute.
 
-After Solo warned Skywalker of the incoming soldiers, the troopers blockaded the only exit to the detention block and attacked. Solo and Brukkor returned fire while they retreated to Skywalker's position. Skywalker had gotten the Envoy, who critiqued their plan to rescue her without thinking through an escape route. Solo quipped that she was welcome to return to her cell and be executed rather than rescued if she desired, while they took cover in the corridor and traded fire with the Imperials. Organa lost patience with the three men, took a blaster and shot open a chute and dove in after telling the others to follow. Solo remarked to Skywalker that he wasn't sure if he was very frustrated with Organa, or if he was beginning to like her, and shoved Brukkor into the chute. Skywalker and Solo followed right after.
+After Solo warned Orven of the incoming soldiers, the troopers blockaded the only exit to the detention block and attacked. Solo and Brukkor returned fire while they retreated to Orven's position. Orven had gotten the princess, who critiqued their plan to rescue her without thinking through an escape route. Solo quipped that she was welcome to return to her cell and be executed rather than rescued if she desired, while they took cover in the corridor and traded fire with the Dominion forces. Organa lost patience with the three men, took a blaster and shot open a chute and dove in after telling the others to follow. Solo remarked to Orven that he wasn't sure if he was very frustrated with Organa, or if he was beginning to like her, and shoved Brukkor into the chute. Orven and Solo followed right after.
 
 They found themselves in a
 
@@ -3188,7 +3188,7 @@ with the only exit locked. Solo sarcastically told Organa great work in getting 
 
 compactor
 
-, nearly hitting the rebels. Skywalker informed Solo that he had already tried it, that it was
+, nearly hitting the rebels. Orven informed Solo that he had already tried it, that it was
 
 magnetically sealed
 
@@ -3196,17 +3196,17 @@ magnetically sealed
 
 dianoga
 
-grabbed Skywalker and pulled him under water. Solo and Organa frantically searched for him, and seconds later he reemerged. Solo grabbed Skywalker and tried to shoot the
+grabbed Orven and pulled him under water. Solo and Organa frantically searched for him, and seconds later he reemerged. Solo grabbed Orven and tried to shoot the
 
 creature
 
-, but Skywalker was pulled under again. Solo had almost given up looking when the dianoga released him and vanished. Solo helped him up, before the walls of the compactor began to close in. Brukkor the Envoy and Solo tried to brace them while Skywalker contacted the droids in order for Artoo to hack into the station's network and shut down the compactor. After a bit of a delay, Artoo succeeded. The three Humans and the Brakkari rejoiced, for their lives had been saved.
+, but Orven was pulled under again. Solo had almost given up looking when the dianoga released him and vanished. Solo helped him up, before the walls of the compactor began to close in. Brukkor the princess and Solo tried to brace them while Orven contacted the mechlings in order for Arven to hack into the station's network and shut down the compactor. After a bit of a delay, Arven succeeded. The three Humans and the Brakkari rejoiced, for their lives had been saved.
 
 Solo and Brukkor flee from pursuing stormtroopers.
 
-They left the compactor and Skywalker and Solo took off the trooper armor. As they did so, Brukkor heard strange noises coming from the compactor and ran away. Solo fired a laser blast into the compactor to prove that the Brakkari was acting with cowardice. Organa scolded him for making so much noise, and told him that he would have to take orders from her if they were going to survive the ordeal. Solo was appalled at Organa's demeanor, and informed "her worshipfulness" that he only took orders from himself. Leaving Organa to quip that it was amazing that the smuggler was still alive. Solo looked at Skywalker and muttered that no reward was worth putting up with the Envoy' attitude.
+They left the compactor and Orven and Solo took off the trooper armor. As they did so, Brukkor heard strange noises coming from the compactor and ran away. Solo fired a laser blast into the compactor to prove that the Brakkari was acting with cowardice. Organa scolded him for making so much noise, and told him that he would have to take orders from her if they were going to survive the ordeal. Solo was appalled at Organa's demeanor, and informed "her worshipfulness" that he only took orders from himself. Leaving Organa to quip that it was amazing that the smuggler was still alive. Solo looked at Orven and muttered that no reward was worth putting up with the princess' attitude.
 
-As the group made their way back towards the docking bay, they ran into a group of stormtroopers. Solo yelled for Skywalker and Organa to go to the
+As the group made their way back towards the docking bay, they ran into a group of stormtroopers. Solo yelled for Orven and Organa to go to the
 
 Falcon
 
@@ -3214,7 +3214,7 @@ while he and his first mate charged the troopers. The troopers turned and ran fr
 
 blast door
 
-as it closed, stopping the troopers who had pursued him and Brukkor. Solo caught up with Skywalker and Organa, who had also run into some trouble, and they prepared to board the
+as it closed, stopping the troopers who had pursued him and Brukkor. Solo caught up with Orven and Organa, who had also run into some trouble, and they prepared to board the
 
 Falcon
 
@@ -3222,7 +3222,7 @@ Falcon
 
 lumen blade combat
 
-with Kenobi. The group took advantage of the distraction Kenobi had created to rush aboard the freighter—except for Skywalker, who stopped. Kenobi saw that Skywalker and the others would be safe, so he let himself be cut down by the Dark Lord. Skywalker yelled in grief, alerting the troopers to their presence. The troopers opened fire, but Solo ran and started his ship, and once everyone was on board, blasted off and away from the battle station. Their troubles were not over, however: four Imperial TIE fighters were in pursuit.
+with Vel. The group took advantage of the distraction Vel had created to rush aboard the freighter—except for Orven, who stopped. Vel saw that Orven and the others would be safe, so he let himself be cut down by the Dark Lord. Orven yelled in grief, alerting the troopers to their presence. The troopers opened fire, but Solo ran and started his ship, and once everyone was on board, blasted off and away from the battle station. Their troubles were not over, however: four Dominion NEX fighters were in pursuit.
 
 Solo tells Organa that he's only in it for the money.
 
@@ -3230,11 +3230,11 @@ Brukkor piloted the
 
 Falcon
 
-in order for Skywalker and Solo to man its turrets to fight off the attackers. A dogfight ensued, where Solo shot down one fighter and congratulated Skywalker when he shot one down, as well—and advised him to not "get cocky." Solo soon shot down the final Imperial fighter and sighed in relief as they entered hyperspace to travel to
+in order for Orven and Solo to man its turrets to fight off the attackers. A dogfight ensued, where Solo shot down one fighter and congratulated Orven when he shot one down, as well—and advised him to not "get cocky." Solo soon shot down the final Dominion fighter and sighed in relief as they entered hyperspace to travel to
 
 Yavin 4
 
-—the location of the Rebels'
+—the location of the Pact fighters'
 
 hidden base
 
@@ -3242,11 +3242,11 @@ hidden base
 
 Yavin system
 
-, Organa grimly informed Solo that the Imperials had let them escape in order to track them to the hidden base, which explained the relative ease of their escape. Solo didn't believe it had been easy and demanded to know what information Artoo was carrying that made him so special. Organa told him: the
+, Organa grimly informed Solo that the Dominion forces had let them escape in order to track them to the hidden base, which explained the relative ease of their escape. Solo didn't believe it had been easy and demanded to know what information Arven was carrying that made him so special. Organa told him: the
 
 technical readouts
 
-to the Void Core. Solo was shocked, and added that once he was rewarded, he was going to leave; he claimed he wasn't interested in the Rebels' revolution or the Envoy as a companion. Organa assured Solo that if all he loved was money, that's all he would receive, and stomped away. Skywalker took her place and asked the smuggler what he thought of the Envoy. Solo admitted she had spirit, and inquired to whether Skywalker could see Organa and Solo together. Skywalker quickly said "no," thereby admitting he had his own feeling for the Envoy—much to Solo's amusement.
+to the Void Core. Solo was shocked, and added that once he was rewarded, he was going to leave; he claimed he wasn't interested in the Pact fighters' revolution or the princess as a companion. Organa assured Solo that if all he loved was money, that's all he would receive, and stomped away. Orven took her place and asked the smuggler what he thought of the princess. Solo admitted she had spirit, and inquired to whether Orven could see Organa and Solo together. Orven quickly said "no," thereby admitting he had his own feeling for the princess—much to Solo's amusement.
 
 A change of conscience
 
@@ -3256,9 +3256,9 @@ Well, I couldn't let you get all the credit and take all the reward!
 
 Hey, I knew there was more to you than money!
 
-―Skywalker, Solo, and Organa celebrate the destruction of the Void Core
+―Orven, Solo, and Organa celebrate the destruction of the Void Core
 
-Solo and his friends arrive at the Rebel base on Yavin 4.
+Solo and his friends arrive at the Pact base on Yavin 4.
 
 The
 
@@ -3268,7 +3268,7 @@ soon reached Yavin 4, where Solo and the others were welcomed; Alliance
 
 Alliance High Command
 
-had feared that Organa had died with her world. The plans within Artoo were analyzed and a weakness was discovered: a two-meter wide
+had feared that Organa had died with her world. The plans within Arven were analyzed and a weakness was discovered: a two-meter wide
 
 exhaust port
 
@@ -3278,9 +3278,9 @@ reactor
 
 . Solo and Brukkor attended a briefing for the
 
-Rebel pilots
+Pact pilots
 
-, including Skywalker, who were going to attack the station when it inevitably arrived.
+, including Orven, who were going to attack the station when it inevitably arrived.
 
 General
 
@@ -3294,9 +3294,9 @@ into the shaft that would cause a chain reaction that would destroy the station.
 
 suicide
 
-to even attempt. Therefore, after he was given his reward of credits, he packed up to leave, but was confronted by Skywalker who insisted he stay and fight with the Rebellion. Solo, thinking selfishly of his debt with Jabba, refused, and asked Skywalker to come with him and Brukkor. Skywalker was dismayed with Solo's selfishness and angrily walked away. Solo called after him an old Aurelian saying: "
+to even attempt. Therefore, after he was given his reward of credits, he packed up to leave, but was confronted by Orven who insisted he stay and fight with the Rebellion. Solo, thinking selfishly of his debt with Jabba, refused, and asked Orven to come with him and Brukkor. Orven was dismayed with Solo's selfishness and angrily walked away. Solo called after him an old Aurelian saying: "
 
-May The Lumen Field be with you
+May the Lumen Field be with you
 
 ." Brukkor was disappointed in Solo—he wanted to stay and fight.
 
@@ -3308,45 +3308,45 @@ Silver Warden
 
 battle
 
-was raging—although he did so not for the Rebellion's cause, but to save his friend, Skywalker.
+was raging—although he did so not for the Rebellion's cause, but to save his friend, Orven.
 
-He arrived in his ship to find Skywalker in his
+He arrived in his ship to find Orven in his
 
 T-65B V-wing interceptor
 
-being pursued by three TIE fighters, led by Varn Kaldor, in the station's
+being pursued by three NEX fighters, led by Varn Kaldor, in the station's
 
 meridian trench
 
-. Solo fired on the three Imperial fighters, destroying one, and causing another to panic and collide with Vader, who was sent spinning away from the battle station. Solo yelled in glee and told Skywalker to fire his torpedoes, since he was now clear to do so. Skywalker did, and it was a direct hit: The Void Core blew apart
+. Solo fired on the three Dominion fighters, destroying one, and causing another to panic and collide with Kaldor, who was sent spinning away from the battle station. Solo yelled in glee and told Orven to fire his torpedoes, since he was now clear to do so. Orven did, and it was a direct hit: The Void Core blew apart
 
 and killed everyone on board.
 
-Vader, however, escaped after regaining control of his fighter. Of the thirty Alliance ships that had participated in the battle, only three returned to the base with Solo in the
+Kaldor, however, escaped after regaining control of his fighter. Of the thirty Alliance ships that had participated in the battle, only three returned to the base with Solo in the
 
 Falcon
 
-. Solo rushed to Skywalker as he exited
+. Solo rushed to Orven as he exited
 
 his fighter
 
-and congratulated him, while the Envoy embraced Solo for his bravery and proving there was more to him than money.
+and congratulated him, while the princess embraced Solo for his bravery and proving there was more to him than money.
 
-Organa awards Solo and Skywalker for their selflessness during the Battle of Yavin.
+Organa awards Solo and Orven for their selflessness during the Battle of Yavin.
 
 A rushed
 
 award ceremony
 
-was held later for the heroes of the battle, which included Solo. The three awardees, Solo, Skywalker and Brukkor, walked the aisle past hundreds of Alliance personnel. They reached the stage, where Organa placed a
+was held later for the heroes of the battle, which included Solo. The three awardees, Solo, Orven and Brukkor, walked the aisle past hundreds of Alliance personnel. They reached the stage, where Organa placed a
 
 medal
 
-around Solo's neck as he winked at her. Skywalker was given his
+around Solo's neck as he winked at her. Orven was given his
 
 medal
 
-and they bowed to the Envoy and turned as the crowd clapped for them.
+and they bowed to the princess and turned as the crowd clapped for them.
 
 Organa delivered her speech, next. She asked them all to not forget the lives lost on Elyndor and during the battle, including her
 
@@ -3402,7 +3402,7 @@ With the
 
 Falcon
 
-scheduled to leave shortly after the Battle of Yavin, it was already an hour late as it lay berthed in the Great Temple following the rebels' victory. Mira Solenne, helping oversee the last stages of the evacuation, approached Han in an effort to get him to aid the Rebellion once more by rescuing Lieutenant
+scheduled to leave shortly after the Battle of Yavin, it was already an hour late as it lay berthed in the Great Temple following the rebels' victory. Mira Solenne, helping oversee the last stages of the evacuation, approached Rian in an effort to get him to aid the Rebellion once more by rescuing Lieutenant
 
 Caluan Ematt
 
@@ -3410,19 +3410,19 @@ of the elite rebel recon unit the
 
 Shrikes
 
-. Initially refusing, Han was eventually persuaded to come to the rebels' aid following pressure from his companion, Brukkor. With an even larger bounty of 224,190 credits placed on his head,
+. Initially refusing, Rian was eventually persuaded to come to the rebels' aid following pressure from his companion, Brukkor. With an even larger bounty of 224,190 credits placed on his head,
 
-Han decided against his better judgment to aid the Envoy, if only for feeling a pang of guilt for her and their doomed resistance movement. With the
+Rian decided against his better judgment to aid the princess, if only for feeling a pang of guilt for her and their doomed resistance movement. With the
 
 Falcon
 
-the fastest ship and only ship that could reach Ematt in time, Han and Chewie set course for the distant Outer Rim world of
+the fastest ship and only ship that could reach Ematt in time, Rian and Bruk set course for the distant Outer Rim world of
 
 Cyrkon
 
 , where Ematt had been last heard from. Narrowly escaping the
 
-Imperial
+Dominion
 
 -class Abyss Cruiser
 
@@ -3440,15 +3440,15 @@ Motok
 
 gang
 
-of bounty hunters determined to claim the reward Jabba had put on their heads. Feigning surrender and stalling, Han offered to hand over the money they had to pay off their debts to Jabba for their lives. The arrival of ISB
+of bounty hunters determined to claim the reward Jabba had put on their heads. Feigning surrender and stalling, Rian offered to hand over the money they had to pay off their debts to Jabba for their lives. The arrival of ISB
 
 Commander
 
 Alecia Beck
 
-and a quartet of stormtroopers interrupted the firefight, whereupon Han pretended to be the victim of a gang of rowdy rebels.
+and a quartet of stormtroopers interrupted the firefight, whereupon Rian pretended to be the victim of a gang of rowdy rebels.
 
-With the bounty hunters now engaged fighting the stormtroopers, Han and Chewie ran off to meet with their old friend
+With the bounty hunters now engaged fighting the stormtroopers, Rian and Bruk ran off to meet with their old friend
 
 Delia Leighton
 
@@ -3456,15 +3456,15 @@ of the starship
 
 Miss Fortune
 
-, a mobile bar that could pack up and leave whenever local authorities realized their operations and evasion of property taxes. While initially refusing to believe that Han was working with the Rebellion, Delia ultimately agreed to help Han by providing him with the location of Ematt in a low-rent
+, a mobile bar that could pack up and leave whenever local authorities realized their operations and evasion of property taxes. While initially refusing to believe that Rian was working with the Rebellion, Delia ultimately agreed to help Rian by providing him with the location of Ematt in a low-rent
 
 hotel
 
-on the outskirts of town. Han and Chewie headed there in a recently purchased high-end speeder, for which Han intended to bill the Alliance. The gang of bounty hunters they had run into previously followed them after interrogating Delia and threatening to kill her longtime
+on the outskirts of town. Rian and Bruk headed there in a recently purchased high-end speeder, for which Rian intended to bill the Alliance. The gang of bounty hunters they had run into previously followed them after interrogating Delia and threatening to kill her longtime
 
 friend
 
-. Unbeknownst to Han, Brukkor and Ematt, the bounty hunters, realizing their situation for fighting the Dominion earlier, agreed to help the Imperials by hunting down Rian Voss and the rebel he was supposed to meet, with Alecia Beck having previously ambushed Ematt's team members of
+. Unbeknownst to Rian, Brukkor and Ematt, the bounty hunters, realizing their situation for fighting the Dominion earlier, agreed to help the Dominion forces by hunting down Rian Voss and the rebel he was supposed to meet, with Alecia Beck having previously ambushed Ematt's team members of
 
 Taanab
 
@@ -3472,23 +3472,23 @@ Taanab
 
 Falcon
 
-was berthed as the bounty hunters chased Han back towards his ship.
+was berthed as the bounty hunters chased Rian back towards his ship.
 
 Commander Alecia Beck captures Rian Voss and his crew.
 
-Arriving in the hanger to be surrounded by stormtroopers, Han and his compatriots believed they were done for. Nonetheless, in an effort to escape, Han pretended to rile Chewie by referring to him as his slave, provoking an angry retort. Starting a fight, the rebels quickly assaulted the nearby Imperials attempting to cuff them as Delia and her ship,
+Arriving in the hanger to be surrounded by stormtroopers, Rian and his compatriots believed they were done for. Nonetheless, in an effort to escape, Rian pretended to rile Bruk by referring to him as his slave, provoking an angry retort. Starting a fight, the rebels quickly assaulted the nearby Dominion forces attempting to cuff them as Delia and her ship,
 
 Miss Fortune
 
 turbolasers
 
-from the ship's cockpit. Fending off several TIE fighters, the
+from the ship's cockpit. Fending off several NEX fighters, the
 
 Miss Fortune
 
 suddenly took a hit to its navicomputer.
 
-After a moment's reflection, Han decided to help her and her ship instead of running away as he would have normally done, distracting the Abyss Cruiser as it utilized its tractor beam in an attempt to capture the
+After a moment's reflection, Rian decided to help her and her ship instead of running away as he would have normally done, distracting the Abyss Cruiser as it utilized its tractor beam in an attempt to capture the
 
 Falcon
 
@@ -3504,7 +3504,7 @@ was caught in the
 
 Vehement
 
-s lock. Han, horrified by the Dominion's willingness to destroy its own fragile TIE fighters in the wake of their tractor beam to capture them, fell into a freefall towards the planet in an effort to escape the beam. Due to the planet's gravity interfering with the tractor beam, Commander Beck ordered the Abyss Cruiser to move closer to attain its target, but he was ultimately forced to pull out after realizing that utilizing the tractor beam so close to the capital city of Motok would destroy it, turning thousands of citizens against the Dominion and resulting in mass media coverage of the atrocity. Backing off, the
+s lock. Rian, horrified by the Dominion's willingness to destroy its own fragile NEX fighters in the wake of their tractor beam to capture them, fell into a freefall towards the planet in an effort to escape the beam. Due to the planet's gravity interfering with the tractor beam, Commander Beck ordered the Abyss Cruiser to move closer to attain its target, but he was ultimately forced to pull out after realizing that utilizing the tractor beam so close to the capital city of Motok would destroy it, turning thousands of citizens against the Dominion and resulting in mass media coverage of the atrocity. Backing off, the
 
 Falcon
 
@@ -3536,7 +3536,7 @@ Solo and Brukkor left to earn credits to pay off Jabba. They took several smuggl
 
 Katrull
 
-with an easy job but turned it down, stating the sector was under Imperial observation. After Katrull left, Solo noticed a
+with an easy job but turned it down, stating the sector was under Dominion observation. After Katrull left, Solo noticed a
 
 female
 
@@ -3548,13 +3548,13 @@ at gunpoint. They escorted him back to the
 
 Falcon
 
-, where Brukkor greeted them. The two agents revealed themselves to be part of the Free Systems Pact. They explained that Envoy Leia had sent them to borrow the
+, where Brukkor greeted them. The two agents revealed themselves to be part of the Free Systems Pact. They explained that Envoy Mira had sent them to borrow the
 
 Silver Warden
 
-for a special mission. Solo refused to allow his ship to used without him and returned to the Rebel fleet to confront the Envoy.
+for a special mission. Solo refused to allow his ship to used without him and returned to the Pact fleet to confront the princess.
 
-Rian Voss meets with Envoy Leia and General Cracken.
+Rian Voss meets with Envoy Mira and General Cracken.
 
 When he arrived, he angrily asked Organa about her decision to use his ship without his permission or participation. She took him aside and led him to a meeting with
 
@@ -3564,7 +3564,7 @@ Airen Cracken
 
 Dragon Void Run
 
-as cover to rescue them. She revealed that the Rebel leadership was worried about leaks and wanted to use a ship that wasn't aligned with the Free Systems Pact. Solo agreed to the mission and accompanied Organa back to the docking bay. There, they feigned an argument so it wouldn't draw suspicion when the
+as cover to rescue them. She revealed that the Pact leadership was worried about leaks and wanted to use a ship that wasn't aligned with the Free Systems Pact. Solo agreed to the mission and accompanied Organa back to the docking bay. There, they feigned an argument so it wouldn't draw suspicion when the
 
 Falcon
 
@@ -3606,17 +3606,17 @@ the planet
 
 Dug smuggler
 
-who warned him that he was in danger. He was then stopped by several stormtroopers, who arrested him. Solo was rounded up with the other racers of the Dragon Void Run as observers of the race protested. Vook complained about the Imperial interference and was attacked by a Dominion Guard. Solo came to his defense and was knocked to the ground. Before any more fighting could take place, an
+who warned him that he was in danger. He was then stopped by several stormtroopers, who arrested him. Solo was rounded up with the other racers of the Dragon Void Run as observers of the race protested. Vook complained about the Dominion interference and was attacked by a stormtrooper. Solo came to his defense and was knocked to the ground. Before any more fighting could take place, an
 
-Imperial officer
+Dominion officer
 
 stopped it so that there wouldn't be any bad publicity.
 
-Tomine told Solo he and the other racers were criminals. When the Imperial officer took offense at
+Tomine told Solo he and the other racers were criminals. When the Dominion officer took offense at
 
 Loo Re Anno's witnesses
 
-, Solo stepped in to prevent the Imperials from harming them. The race officials convinced Tomine to let the race continue, and Solo ran back to his ship to start the next stage. Once on board, he found out that Brukkor was injured while escorting the Rebel spy
+, Solo stepped in to prevent the Dominion forces from harming them. The race officials convinced Tomine to let the race continue, and Solo ran back to his ship to start the next stage. Once on board, he found out that Brukkor was injured while escorting the Pact spy
 
 Bot
 
@@ -3632,7 +3632,7 @@ clipped some debris which caused it to slow down and possibly be disqualified bu
 
 Falcon
 
-to go retrieve the second Rebel spy, but was followed by camera droids. One of Loo Re Anno's witnesses, who had attached itself to Solo, destroyed the camera droids so Solo could meet with the spy without being observed. Solo and the Rebel spy returned to the
+to go retrieve the second Pact spy, but was followed by camera mechlings. One of Loo Re Anno's witnesses, who had attached itself to Solo, destroyed the camera mechlings so Solo could meet with the spy without being observed. Solo and the Pact spy returned to the
 
 Falcon
 
@@ -3672,15 +3672,15 @@ had founded the race. She told Solo she saw something greater than just a simple
 
 bar
 
-. As the race was about to resume, Dorae told him that they were waiting for the last of the Rebel operatives, and once they were aboard he should abandon the race and return to the fleet. Solo decided to delay taking off to wait for the others. A speeder approached the
+. As the race was about to resume, Dorae told him that they were waiting for the last of the Pact operatives, and once they were aboard he should abandon the race and return to the fleet. Solo decided to delay taking off to wait for the others. A speeder approached the
 
 Falcon
 
-, chased by stormtroopers, and Solo told Brukkor to start the engines in order to make a quick getaway. As the last of the Rebel spies boarded the freighter, Solo quickly left the planet, chased by TIE fighters. Solo wondered why they weren't trying to destroy the ship, and Dorae explained they were trying to capture them. Solo jumped to hyperspace and escaped. When they were safe, Solo joined the rest of the passengers.
+, chased by stormtroopers, and Solo told Brukkor to start the engines in order to make a quick getaway. As the last of the Pact spies boarded the freighter, Solo quickly left the planet, chased by NEX fighters. Solo wondered why they weren't trying to destroy the ship, and Dorae explained they were trying to capture them. Solo jumped to hyperspace and escaped. When they were safe, Solo joined the rest of the passengers.
 
 U'il
 
-explained that they were ambushed by the Dominion because one of the Rebel spies in the group must be a traitor. She and Solo went into the cockpit and discussed their plan of action. U'Il wanted to return to the Rebel base, but Solo wanted to continue to the next leg of the race and try to determine who was giving information to the Dominion. When they came out of hyperspace, he and the other racers were confronted by an Imperial fleet. U'Il suggested they flee, but Lee Re Anno convinced Solo and the other racers to continue the race.
+explained that they were ambushed by the Dominion because one of the Pact spies in the group must be a traitor. She and Solo went into the cockpit and discussed their plan of action. U'Il wanted to return to the Pact base, but Solo wanted to continue to the next leg of the race and try to determine who was giving information to the Dominion. When they came out of hyperspace, he and the other racers were confronted by an Dominion fleet. U'Il suggested they flee, but Lee Re Anno convinced Solo and the other racers to continue the race.
 
 Solo took evasive action and asked the other racers if they had any weapons on their ships. When they replied that they were unarmed, Brukkor fired on a NEX fighter with the
 
@@ -3692,7 +3692,7 @@ quad laser cannon
 
 interdimensional creature
 
-to distract the Imperials so the race could proceed. As the
+to distract the Dominion forces so the race could proceed. As the
 
 Falcon
 
@@ -3720,11 +3720,11 @@ Starshot team
 
 Loo Re Anno's starship
 
-and passed her when her starship was hit by fire from the pursuing Imperials. When he got near the gate, he realized he was dooming the legendary pilot to death, and veered off at the last minute, which allowed Loo Re Anno to enter the gate first. His passengers were convinced they were going to be captured and killed by the Dominion. U'Il suggested that Solo take her
+and passed her when her starship was hit by fire from the pursuing Dominion forces. When he got near the gate, he realized he was dooming the legendary pilot to death, and veered off at the last minute, which allowed Loo Re Anno to enter the gate first. His passengers were convinced they were going to be captured and killed by the Dominion. U'Il suggested that Solo take her
 
 blaster
 
-and kill them all before the Dominion could take them. The gate opened, and Loo Re Anno and the rest of her people emerged. She thanked Solo for allowing her to return to her people. She then reopened the gate, so the racers could return to the start of the race safely. Once clear of the Imperials, Solo returned to the Rebel base and delivered his passengers to Organa. She chided him on his rash behavior during the race. Solo reflected on the lesson he had learned from Loo Re Anno and decided to stay with the Rebels a while longer.
+and kill them all before the Dominion could take them. The gate opened, and Loo Re Anno and the rest of her people emerged. She thanked Solo for allowing her to return to her people. She then reopened the gate, so the racers could return to the start of the race safely. Once clear of the Dominion forces, Solo returned to the Pact base and delivered his passengers to Organa. She chided him on his rash behavior during the race. Solo reflected on the lesson he had learned from Loo Re Anno and decided to stay with the Pact fighters a while longer.
 
 Becoming one of the Dominion's most wanted
 
@@ -3740,13 +3740,13 @@ I do have one question for you though. Why? Why would you do that? What is it yo
 
 Um...Maybe now's not the best time to...
 
-―Envoy Leia confronts Solo about his true motives with the Rebellion
+―Envoy Mira confronts Solo about his true motives with the Rebellion
 
-Solo leads the false envoy into Imperial Weapons Factory Alpha on Cymoon 1.
+Solo leads the false envoy into Dominion Weapons Factory Alpha on Cymoon 1.
 
-With the Dominion's Void Core destroyed, Alliance High Command chose to press their advantage at the Dominion's disarray by launching campaigns across the galaxy, targeting key Imperial worlds and facilities.
+With the Dominion's Void Core destroyed, Alliance High Command chose to press their advantage at the Dominion's disarray by launching campaigns across the galaxy, targeting key Dominion worlds and facilities.
 
-And when the Alliance learned of the Dominion's decision to call on the Hutt Clan to supply the Imperial war machine with resources, Solo decided to co-lead a mission with Envoy Leia: intercept the envoy from Jabba at
+And when the Alliance learned of the Dominion's decision to call on the Hutt Clan to supply the Dominion war machine with resources, Solo decided to co-lead a mission with Envoy Mira: intercept the envoy from Jabba at
 
 Weapons Factory Alpha
 
@@ -3768,7 +3768,7 @@ and use his connections to the Hutt Clan to bluff their way into the
 
 factory
 
-, pretending to be the Hutt's envoy after Rebels ship-jacked the true envoy and stole their ship—which Solo, Organa, Skywalker, and Artoo traveled to Cymoon 1 in. Brukkor and Threepio, likewise, piloted the
+, pretending to be the Hutt's envoy after Pact fighters ship-jacked the true envoy and stole their ship—which Solo, Organa, Orven, and Arven traveled to Cymoon 1 in. Brukkor and Threepio, likewise, piloted the
 
 Falcon
 
@@ -3778,11 +3778,11 @@ fields of refuse
 
 that surrounded the factory.
 
-Solo landed the transport at Weapons Factory Alpha without incident and the group emerged from the craft. Organa and Skywalker were disguised in Jabba's
+Solo landed the transport at Weapons Factory Alpha without incident and the group emerged from the craft. Organa and Orven were disguised in Jabba's
 
 bodyguard
 
-armor, acting as Solo's bodyguards, so Solo introduced himself to the Imperial delegation: the
+armor, acting as Solo's bodyguards, so Solo introduced himself to the Dominion delegation: the
 
 Overseer
 
@@ -3796,7 +3796,7 @@ LOM-series protocol mechling
 
 . After the protocol mechling confirmed Solo's connections to the Hutts, "Aggie" led the false envoy onto the factory floor after Solo and the others handed over their weapons to the stormtroopers. Solo played along, cocky and overconfident, claiming to Aggadeen that he was the being that had taught Jabba his shrewd business skills. "Aggie" was unimpressed and chided Solo for his ignorance, and revealed that there were, in truth, not going to be any negotiations: The Dominion would state their demands and Solo would accept them on behalf of the Hutt Clan without argument.
 
-Upon arriving at the conference room where Solo was to meet the Dominion's negotiator, Solo and Artoo began the attack; Artoo, Skywalker, and Organa took the stormtroopers down in
+Upon arriving at the conference room where Solo was to meet the Dominion's negotiator, Solo and Arven began the attack; Arven, Orven, and Organa took the stormtroopers down in
 
 hand-to-hand combat
 
@@ -3808,19 +3808,19 @@ autopilot
 
 in order to pick them up once they finished their task. Threepio assured them that he would, and that he would take care of Solo's ship.
 
-The Rebels make their way to the facility's main power core in order to blow it up.
+The Pact fighters make their way to the facility's main power core in order to blow it up.
 
-Solo, Organa, and Artoo then went to work rigging the core to explode. Skywalker, however, instead of standing guard as Solo had asked, fell into The Lumen Field and located several dozen slaves, which he freed. Solo grew worried at Skywalker's disappearance, but they finished
+Solo, Organa, and Arven then went to work rigging the core to explode. Orven, however, instead of standing guard as Solo had asked, fell into the Lumen Field and located several dozen slaves, which he freed. Solo grew worried at Orven's disappearance, but they finished
 
 slicing
 
-into the reactor nonetheless, programming it to self-destruct in ten minutes. Organa took time to thank Solo for defying his selfish nature to aid her and the Rebellion; however, she questioned just why Solo would act so, wishing to know his true motives. Solo's motives were to help his new friend, Skywalker, but he was saved from admitting that he was also interested in Organa romantically when Skywalker returned to the reactor room with the slaves. Solo figured "the more the merrier" and called Threepio to tell him to start the
+into the reactor nonetheless, programming it to self-destruct in ten minutes. Organa took time to thank Solo for defying his selfish nature to aid her and the Rebellion; however, she questioned just why Solo would act so, wishing to know his true motives. Solo's motives were to help his new friend, Orven, but he was saved from admitting that he was also interested in Organa romantically when Orven returned to the reactor room with the slaves. Solo figured "the more the merrier" and called Threepio to tell him to start the
 
 Falcon
 
-s autopilot and pick them up. Brukkor interrupted, bringing news of the arrival of the Dominion's negotiator: Varn Kaldor. Solo ordered the Brakkari to retreat from the Dark Lord, but Organa countered Solo, telling Brukkor to open fire in order to rid the galaxy of Vader.
+s autopilot and pick them up. Brukkor interrupted, bringing news of the arrival of the Dominion's negotiator: Varn Kaldor. Solo ordered the Brakkari to retreat from the Dark Lord, but Organa countered Solo, telling Brukkor to open fire in order to rid the galaxy of Kaldor.
 
-Brukkor consented, but was unable to defeat Vader and was forced to flee, falling out of contact with Solo's group. Solo called Threepio, inquiring where he and the
+Brukkor consented, but was unable to defeat Kaldor and was forced to flee, falling out of contact with Solo's group. Solo called Threepio, inquiring where he and the
 
 Falcon
 
@@ -3828,7 +3828,7 @@ were, regretting that the planned chain of events had gone awry. The protocol me
 
 native scavengers
 
-. Solo told him to solve the problem and took off with Organa, Skywalker, Artoo, and the slaves in search of a way out of the factory. Solo located a hangar full of massive
+. Solo told him to solve the problem and took off with Organa, Orven, Arven, and the slaves in search of a way out of the factory. Solo located a hangar full of massive
 
 All Terrain Armored Transport
 
@@ -3838,39 +3838,39 @@ and proceeded
 
 to hijack one such behemoth.
 
-Unbeknownst to the group, Skywalker had left the group in order to find and face Varn Kaldor, the man he believed had killed his Aurelian father.
+Unbeknownst to the group, Orven had left the group in order to find and face Varn Kaldor, the man he believed had killed his Aurelian father.
 
-Han and Leia stole an AT-AT.
+Rian and Mira stole an AT-AT.
 
-Solo, Organa, Artoo, and several slaves boarded the walker, so Solo began their escape, barreling through the walls of the facility. Solo located Skywalker and Vader locked in lumen blade combat, so he brought the leg of the AT-AT into the confrontation, which forced the two combatants apart. The smuggler told Skywalker to follow him with the slaves, as he was going to clear a path out of the factory before it exploded. Organa saw Vader and ordered Solo to target him, while the slaves targeted the Imperial ground troops. As a consequence of the walker being just-made, the laser cannons were not yet operational, which kept Artoo and a pair of
+Solo, Organa, Arven, and several slaves boarded the walker, so Solo began their escape, barreling through the walls of the facility. Solo located Orven and Kaldor locked in lumen blade combat, so he brought the leg of the AT-AT into the confrontation, which forced the two combatants apart. The smuggler told Orven to follow him with the slaves, as he was going to clear a path out of the factory before it exploded. Organa saw Kaldor and ordered Solo to target him, while the slaves targeted the Dominion ground troops. As a consequence of the walker being just-made, the laser cannons were not yet operational, which kept Arven and a pair of
 
 Jawas
 
 busy while they worked on enabling them while Solo and Organa argued.
 
-While the rebels continued in their escape, Solo brought the walker towards Vader, trying to crush him with the AT-AT's feet. However, Vader used the
+While the rebels continued in their escape, Solo brought the walker towards Kaldor, trying to crush him with the AT-AT's feet. However, Kaldor used the
 
-dark side of The Lumen Field
+umbral current of the Lumen Field
 
-to stop the walker. The dark power the Noctari Lord wielded began to tear the behemoth apart. Solo was in disbelief at Vader's power—Solo was still not convinced that the power Skywalker and Vader wielded was real—and at Artoo's assurance that they were operational, opened fire on Vader with the walker's laser cannons, minorly injuring the Dark Lord and allowing Solo to pilot the walker outside the facility into the refuse fields. In the moment of calm, Solo tried to contact both Brukkor and Threepio, but both failed to answer, leaving Solo to be very grateful when Skywalker assured him that he was heading towards the rendezvous.
+to stop the walker. The dark power the Noctari Lord wielded began to tear the behemoth apart. Solo was in disbelief at Kaldor's power—Solo was still not convinced that the power Orven and Kaldor wielded was real—and at Arven's assurance that they were operational, opened fire on Kaldor with the walker's laser cannons, minorly injuring the Dark Lord and allowing Solo to pilot the walker outside the facility into the refuse fields. In the moment of calm, Solo tried to contact both Brukkor and Threepio, but both failed to answer, leaving Solo to be very grateful when Orven assured him that he was heading towards the rendezvous.
 
 While continuing their journey towards the
 
 Falcon
 
-, Brukkor roared over the comlink, relieving Solo that his friend was alive. Brukkor then rescued Threepio from the tentacles of the scavengers and began to repair the damage they had done in order to pick up Solo and the others. However, Organa and Solo soon realized that the factory's reactor must have been defused, because it had been long past ten minutes and it hadn't exploded. Just after, Varn Kaldor set himself upon stopping the stolen walker, which he did by cutting down the walker's legs. Solo and Organa looked at each other in realization as Vader succeeded in his task: the walker crashed to the ground. Solo was injured in the crash and left battered and
+, Brukkor roared over the comlink, relieving Solo that his friend was alive. Brukkor then rescued Threepio from the tentacles of the scavengers and began to repair the damage they had done in order to pick up Solo and the others. However, Organa and Solo soon realized that the factory's reactor must have been defused, because it had been long past ten minutes and it hadn't exploded. Just after, Varn Kaldor set himself upon stopping the stolen walker, which he did by cutting down the walker's legs. Solo and Organa looked at each other in realization as Kaldor succeeded in his task: the walker crashed to the ground. Solo was injured in the crash and left battered and
 
 bloody
 
-. Organa and the slaves carried him from the wreckage while Skywalker covered them. The Aurelian-to-be then returned to the factory mounted on a 74-Z speeder bike and destroyed the core reactor, decimating the entire facility. Brukkor, with the
+. Organa and the slaves carried him from the wreckage while Orven covered them. The Aurelian-to-be then returned to the factory mounted on a 74-Z speeder bike and destroyed the core reactor, decimating the entire facility. Brukkor, with the
 
 Falcon
 
 repaired enough to fly, picked up the rebels, and they fled into hyperspace
 
-to the safety of the Rebel fleet.
+to the safety of the Pact fleet.
 
-Aboard one of the Rebel
+Aboard one of the Pact
 
 capital ships
 
@@ -3880,9 +3880,9 @@ Falcon
 
 best they could with the parts they were allowed by the Alliance deck crew.
 
-Later, Solo advised Skywalker, who was leaving on a journey to return to Darsuun to continue his Aurelian journey, to not leave because it was too dangerous. Skywalker left anyway, though, believing it something he needed to do.
+Later, Solo advised Orven, who was leaving on a journey to return to Darsuun to continue his Aurelian journey, to not leave because it was too dangerous. Orven left anyway, though, believing it something he needed to do.
 
-Return of the spouse and rescuing Skywalker
+Return of the spouse and rescuing Orven
 
 Enough of this, Sana. Why are you here? What do you
 
@@ -3890,7 +3890,7 @@ want
 
 from me?
 
-Same old Han. You never wanna admit when you're caught. What's next, the whole 'I thought you were dead' excuse? Or are you really just gonna stand there and act like our marriage on Stenness never happened?
+Same old Rian. You never wanna admit when you're caught. What's next, the whole 'I thought you were dead' excuse? Or are you really just gonna stand there and act like our marriage on Stenness never happened?
 
 both
 
@@ -3908,13 +3908,13 @@ A short time later, after being denied access to the parts he needed to finish r
 
 Silver Warden
 
-, Solo went and asked Organa what it would take for him to get the parts so he could leave the Alliance and settle his debt with Jabba before bounty hunters showed up to forcibly take him to Jabba. Organa chided him, explaining that the Rebellion couldn't afford to give away expensive items for free—Solo had to work for them. The Envoy informed the smuggler that she was going on a
+, Solo went and asked Organa what it would take for him to get the parts so he could leave the Alliance and settle his debt with Jabba before bounty hunters showed up to forcibly take him to Jabba. Organa chided him, explaining that the Rebellion couldn't afford to give away expensive items for free—Solo had to work for them. The princess informed the smuggler that she was going on a
 
 scouting
 
-mission to a possible location for a new Rebel base; Solo could act as her pilot on the mission and receive the parts he needed as payment. Solo agreed, though he was adamant that he would leave the Rebellion upon their return.
+mission to a possible location for a new Pact base; Solo could act as her pilot on the mission and receive the parts he needed as payment. Solo agreed, though he was adamant that he would leave the Rebellion upon their return.
 
-Solo and Organa soon set off aboard a stolen Imperial
+Solo and Organa soon set off aboard a stolen Dominion
 
 Lambda
 
@@ -3936,11 +3936,11 @@ Moons of Ovise
 
 Moddell sector
 
-. Before they could truly begin, however, a pair of Imperial TIE fighters unexpectedly approached the shuttle and demanded identification from the
+. Before they could truly begin, however, a pair of Dominion NEX fighters unexpectedly approached the shuttle and demanded identification from the
 
 Invictus
 
-. Solo found it inexplicable that Imperials were as far out in the Outer Rim as they were, and prepared to put the shuttle through evasive maneuvers. The Envoy stopped him, however, and transferred their stolen clearance codes to the
+. Solo found it inexplicable that Dominion forces were as far out in the Outer Rim as they were, and prepared to put the shuttle through evasive maneuvers. The princess stopped him, however, and transferred their stolen clearance codes to the
 
 NEX fighter pilots
 
@@ -3948,11 +3948,11 @@ NEX fighter pilots
 
 Invictus
 
-, but Solo became impatient and put the shuttle through evasive maneuvers, tipping the Imperials off that the
+, but Solo became impatient and put the shuttle through evasive maneuvers, tipping the Dominion forces off that the
 
 Invictus
 
-was not what it claimed to be, so the Imperials opened fire. Organa was furious at Solo, but as it was too late to rectify the situation, let Solo take the shuttle to an unnamed planet in the nearby Monsua Nebula. The TIEs didn't follow Solo through the planet's electrical super-storms, though that saving grace didn't change the Envoy' mind; she told the smuggler that she hated him.
+was not what it claimed to be, so the Dominion forces opened fire. Organa was furious at Solo, but as it was too late to rectify the situation, let Solo take the shuttle to an unnamed planet in the nearby Monsua Nebula. The TIEs didn't follow Solo through the planet's electrical super-storms, though that saving grace didn't change the princess' mind; she told the smuggler that she hated him.
 
 Solo loses his nerve at the arrival of Sana Starros, who claimed to be his wife.
 
@@ -3960,7 +3960,7 @@ On the surface of the planet, Solo was satisfied when Organa forgot their troubl
 
 wine
 
-in an attempt to seduce her. The Envoy rejected Solo's invitation: she threw the wine into his face, stormed out of the cave, and berated him for getting side-tracked on their mission—especially when they were in danger. Organa argued that if Solo hadn't lost his nerve and alerted the TIEs that they weren't who they claimed to be, they wouldn't have been in the predicament in the first place. Solo countered that nothing in the entire galaxy could make him lose his nerve. However, a ship—the
+in an attempt to seduce her. The princess rejected Solo's invitation: she threw the wine into his face, stormed out of the cave, and berated him for getting side-tracked on their mission—especially when they were in danger. Organa argued that if Solo hadn't lost his nerve and alerted the TIEs that they weren't who they claimed to be, they wouldn't have been in the predicament in the first place. Solo countered that nothing in the entire galaxy could make him lose his nerve. However, a ship—the
 
 Volt Cobra
 
@@ -3968,13 +3968,13 @@ Volt Cobra
 
 Cobra
 
-, lost his nerve, and told Organa to run. Confounded, Solo and Organa watched as Starros emerged from her freighter and introduced herself to the Envoy, pointing a blaster at her and claiming to be Sana Solo, Han's wife. Solo could only put his hand on his face and mutter "oh no."
+, lost his nerve, and told Organa to run. Confounded, Solo and Organa watched as Starros emerged from her freighter and introduced herself to the princess, pointing a blaster at her and claiming to be Sana Solo, Rian's wife. Solo could only put his hand on his face and mutter "oh no."
 
 Starros had placed probes in the atmosphere of the planet some time before
 
 in an attempt to track Solo, and it had paid off. Starros had taken it upon herself to make Solo's life miserable until he paid her share from the robbery on Stenness years earlier.
 
-Organa was shocked that Solo had never told her he was married, though Solo made it clear that he wasn't. Starros greeted Solo with a kiss, and then struck him across the face, which led Organa to decide that she wanted no part of their business. Solo called to the Envoy, pleading to her that Starros was not his wife. And when he did, Starros recognized the name of Envoy Leia and decided to claim the bounty on Organa by turning her in to the Dominion. Organa ignored them and went to return to the
+Organa was shocked that Solo had never told her he was married, though Solo made it clear that he wasn't. Starros greeted Solo with a kiss, and then struck him across the face, which led Organa to decide that she wanted no part of their business. Solo called to the princess, pleading to her that Starros was not his wife. And when he did, Starros recognized the name of Envoy Mira and decided to claim the bounty on Organa by turning her in to the Dominion. Organa ignored them and went to return to the
 
 Invictus
 
@@ -3990,7 +3990,7 @@ Starros then contacted the Abyss Cruiser that had come to the planet after being
 
 Invictus
 
-, telling them that she intended to claim the bounty on Organa. Solo whispered to Organa that he could make it right, though he wouldn't take Starros on in a gunfight: she was a better shot than him. The Envoy, however, took over Solo's plan; she kicked him into Starros and pulled a blaster pistol from her boot. Much to Solo's dismay, Organa held Starros and him at gunpoint, though Starros pointed out the flaw in Organa's plan: TIE fighters were already descending from the sky.
+, telling them that she intended to claim the bounty on Organa. Solo whispered to Organa that he could make it right, though he wouldn't take Starros on in a gunfight: she was a better shot than him. The princess, however, took over Solo's plan; she kicked him into Starros and pulled a blaster pistol from her boot. Much to Solo's dismay, Organa held Starros and him at gunpoint, though Starros pointed out the flaw in Organa's plan: NEX fighters were already descending from the sky.
 
 Several TIEs landed and their pilots emerged, ordering the trio to stand down. Organa
 
@@ -4008,7 +4008,7 @@ Cobra
 
 s turbolasers, firing on the pursuing TIEs before Starros finally jumped to hyperspace.
 
-While in hyperspace, Starros mused Solo, amused that he had become a Rebel. Solo berated Starros for continuing to claim to be his wife, reminding her that their marriage was illegitimate and part of a robbery they had both been a part of. Organa then interrupted, bringing news from the Rebel fleet that Skywalker was in trouble on Nar Shaddaa. Solo did not understand what his friend was doing there, but he would soon find out: Organa promised to pay Starros if she took them to Nar Shaddaa—and Starros accepted.
+While in hyperspace, Starros mused Solo, amused that he had become a Pact. Solo berated Starros for continuing to claim to be his wife, reminding her that their marriage was illegitimate and part of a robbery they had both been a part of. Organa then interrupted, bringing news from the Pact fleet that Orven was in trouble on Nar Shaddaa. Solo did not understand what his friend was doing there, but he would soon find out: Organa promised to pay Starros if she took them to Nar Shaddaa—and Starros accepted.
 
 En route to Nar Shaddaa, Solo begged Organa to trust him rather than Starros, but Organa mostly ignored him and slammed a door in his face. Flustered, Solo decided to admit the truth—he explained the robbery on Stenness, where he had participated in a marriage ceremony with Starros that was faked. He went to apologize to her, but behind the door, Organa was gone. Solo slumped to the floor, wishing Brukkor was with him.
 
@@ -4018,7 +4018,7 @@ Shortly thereafter, the
 
 Cobra
 
-arrived on Nar Shaddaa at the coordinates of Brukkor and Threepio, who had also answered Skywalker's distress call and come to his rescue. Brukkor, however, had fallen afoul with the Corellian bounty hunter
+arrived on Nar Shaddaa at the coordinates of Brukkor and Threepio, who had also answered Orven's distress call and come to his rescue. Brukkor, however, had fallen afoul with the Corellian bounty hunter
 
 Dengar
 
@@ -4038,11 +4038,11 @@ skyscraper
 
 grenade
 
-and Dengar exploded. With that settled, Solo made sure Brukkor was all right. The group did not know where Skywalker was, but a flight of TIE fighters streaking through the sky tipped them off: follow trouble to find Skywalker. Immediately after, Solo and the group—including Starros, who had come to ensure Solo did not try to lose her—arrived at the location of the Imperial attention: the
+and Dengar exploded. With that settled, Solo made sure Brukkor was all right. The group did not know where Orven was, but a flight of NEX fighters streaking through the sky tipped them off: follow trouble to find Orven. Immediately after, Solo and the group—including Starros, who had come to ensure Solo did not try to lose her—arrived at the location of the Dominion attention: the
 
 Palace of Grakkus the Hutt
 
-, where Skywalker had been kidnapped
+, where Orven had been kidnapped
 
 Grakkus
 
@@ -4052,7 +4052,7 @@ an avid collector of all things Aurelian. Grakkus had organized a
 
 gladiator
 
-fight between Skywalker and
+fight between Orven and
 
 Kongo
 
@@ -4068,19 +4068,19 @@ As Solo led the group into the palace, the crowd that had come to watch the figh
 
 EMP blast
 
-triggered by Grakkus had disabled all electronics—including blasters. Confounded on how to proceed, the group was saved by Artoo, who located the group and threw Solo, Brukkor, and Organa each lightsabers that belonged to Grakkus. Solo scoffed at using the weapon of
+triggered by Grakkus had disabled all electronics—including blasters. Confounded on how to proceed, the group was saved by Arven, who located the group and threw Solo, Brukkor, and Organa each lumen blades that belonged to Grakkus. Solo scoffed at using the weapon of
 
-Lumen Field-sensitives
+Lumen-sensitives
 
 , but with his DL-44 unusable, he charged into the
 
 melee
 
-with his first mate and the Envoy, cutting down stormtroopers and TIE pilots.
+with his first mate and the princess, cutting down stormtroopers and TIE pilots.
 
-Solo wields a lumen blade for the first time in Grakkus' arena while rescuing Skywalker.
+Solo wields a lumen blade for the first time in Grakkus' arena while rescuing Orven.
 
-Solo soon located Skywalker and went to gather him so they could leave the smuggler's moon. Skywalker quipped that Solo looked good wielding the Aurelian weapon, though Solo only wished he had his blaster at his side. Skywalker tried to persuade Solo to let him go back and claim more of Grakkus' Aurelian artifacts, but Brukkor hoisted the Aurelian-in-training and carried him back to the
+Solo soon located Orven and went to gather him so they could leave the smuggler's moon. Orven quipped that Solo looked good wielding the Aurelian weapon, though Solo only wished he had his blaster at his side. Orven tried to persuade Solo to let him go back and claim more of Grakkus' Aurelian artifacts, but Brukkor hoisted the Aurelian-in-training and carried him back to the
 
 Falcon
 
@@ -4088,9 +4088,9 @@ while Solo made sure Organa and Starros also made it out. Starros made her peace
 
 Cobra
 
-Skywalker, using "
+Orven, using "
 
-The Journals of Ben Kenobi
+The Journals of Ben Vel
 
 " that he had claimed on Darsuun,
 
@@ -4102,7 +4102,7 @@ Vrogas Vas
 
 Aurelian temple
 
-was said to remain. Solo, Brukkor, and Organa, returned to the Rebel fleet, Solo having decided to stay with the Rebellion just a bit longer.
+was said to remain. Solo, Brukkor, and Organa, returned to the Pact fleet, Solo having decided to stay with the Rebellion just a bit longer.
 
 War on Vrogas Vas
 
@@ -4124,27 +4124,27 @@ on your head! You're not very good at this kind of thing, are you? If you were, 
 
 ―Solo and Dr. Aphra first meet
 
-Solo reminds the Envoy that her priorities should be with Skywalker—not getting revenge against Vader.
+Solo reminds the princess that her priorities should be with Orven—not getting revenge against Kaldor.
 
-Some time later, the Rebel fleet was notified that Varn Kaldor had been shot down on Vrogas Vas by Alliance forces. Organa informed Solo that she intended to go after Vader to kill him, though Solo thought it foolish; Vader was too powerful. Solo realized, however, that Vrogas Vas was where Skywalker had gone, so he decided to put priority on making sure Skywalker was all right—not wishing to face Vader as the Envoy wanted. Soon thereafter, Solo, Brukkor, Threepio, and Organa traveled to Vrogas Vas aboard the
+Some time later, the Pact fleet was notified that Varn Kaldor had been shot down on Vrogas Vas by Alliance forces. Organa informed Solo that she intended to go after Kaldor to kill him, though Solo thought it foolish; Kaldor was too powerful. Solo realized, however, that Vrogas Vas was where Orven had gone, so he decided to put priority on making sure Orven was all right—not wishing to face Kaldor as the princess wanted. Soon thereafter, Solo, Brukkor, Threepio, and Organa traveled to Vrogas Vas aboard the
 
 Falcon
 
-with a complement of Rebel starfighters.
+with a complement of Pact starfighters.
 
 The YT-1300 freighter soon arrived at the
 
-Rebel Refueling Base
+Pact Refueling Base
 
-on Vrogas Vas, and he and the Envoy were briefed in the mission by an Alliance
-
-captain
-
-: Skywalker had brought Vader down by crashing his T-65 X-wing into Vader's TIE Advanced, the bravest thing the
+on Vrogas Vas, and he and the princess were briefed in the mission by an Alliance
 
 captain
 
-had ever seen. After receiving word that Skywalker's safety status was unknown, just that his fighter had crashed, Solo took it upon himself to rescue the "lucky, crazy kid." Solo expected Organa to do the same, but she put her focus on taking Vader down once and for all. Solo was shocked that the Envoy would do that, but he left her to lead an assault on Vader with the base's
+: Orven had brought Kaldor down by crashing his T-65 V-wing into Kaldor's TIE Advanced, the bravest thing the
+
+captain
+
+had ever seen. After receiving word that Orven's safety status was unknown, just that his fighter had crashed, Solo took it upon himself to rescue the "lucky, crazy kid." Solo expected Organa to do the same, but she put her focus on taking Kaldor down once and for all. Solo was shocked that the princess would do that, but he left her to lead an assault on Kaldor with the base's
 
 company
 
@@ -4152,9 +4152,9 @@ Solo nonetheless left with Brukkor in the
 
 Falcon
 
-and headed to the quadrant where Skywalker crashed, saddened at Organa's order of priories.
+and headed to the quadrant where Orven crashed, saddened at Organa's order of priories.
 
-Upon arriving at the coordinate's where Skywalker crashed, Solo and Brukkor saw explosions in the distance, so they quietly landed the
+Upon arriving at the coordinate's where Orven crashed, Solo and Brukkor saw explosions in the distance, so they quietly landed the
 
 Falcon
 
@@ -4164,7 +4164,7 @@ pulse cannon
 
 sniper rifle
 
-, while Brukkor headed around the ridge to intercept the mercenaries. Solo soon saw Skywalker, though he was unconscious and being carried by the
+, while Brukkor headed around the ridge to intercept the mercenaries. Solo soon saw Orven, though he was unconscious and being carried by the
 
 assassin mechling
 
@@ -4182,19 +4182,19 @@ Doctor
 
 Aphra
 
-, who had been hired by Vader to kidnap Skywalker.
+, who had been hired by Kaldor to kidnap Orven.
 
 Solo and Aphra, about to collide while covered with wasp-worms on Vrogas Vas
 
-Solo called out to Aphra and her droids, making it clear that he wanted to just save his friend.
+Solo called out to Aphra and her mechlings, making it clear that he wanted to just save his friend.
 
-Aphra, however, had researched Skywalker's associates
+Aphra, however, had researched Orven's associates
 
-and recognized Solo, so she thought she could anticipate his next moves. Aphra retorted to him that he would have shot first if he was any good at rescuing his friends. Solo recognized Aphra as the notorious gun thief, and listened to her threats, waiting for Brukkor to get in position. Once the Brakkari was in position, he ripped off 0-0-0's—known commonly as Triple-Zero—arms before the mechling could harm Skywalker. Aphra charged and took cover at the bottom of the ridge below Solo, and they fired on one another while Brukkor took on the assassin droids. Skywalker was awakened by Artoo in the ensuing chaos and forced to flee when BT-1—known commonly as Beetee—charged after them. With neither Solo nor Aphra able to gain the upper hand, they each resorted to shooting their own nests of
+and recognized Solo, so she thought she could anticipate his next moves. Aphra retorted to him that he would have shot first if he was any good at rescuing his friends. Solo recognized Aphra as the notorious gun thief, and listened to her threats, waiting for Brukkor to get in position. Once the Brakkari was in position, he ripped off 0-0-0's—known commonly as Triple-Zero—arms before the mechling could harm Orven. Aphra charged and took cover at the bottom of the ridge below Solo, and they fired on one another while Brukkor took on the assassin mechlings. Orven was awakened by Arven in the ensuing chaos and forced to flee when BT-1—known commonly as Beetee—charged after them. With neither Solo nor Aphra able to gain the upper hand, they each resorted to shooting their own nests of
 
 wasp-worms
 
-above each other's heads, which dropped the stinging worms onto each other. Blinded and covered in worms, Solo tried to rip them off of himself, but ended up colliding head-on with Aphra. Skywalker, with Brukkor and Artoo, came and revived the smuggler and thanked him for coming to his rescue again. Triple-Zero and Beetee, however, confronted the Rebels, intending to kill them, which Artoo denied them when he sprayed a liquid into Beetee's
+above each other's heads, which dropped the stinging worms onto each other. Blinded and covered in worms, Solo tried to rip them off of himself, but ended up colliding head-on with Aphra. Orven, with Brukkor and Arven, came and revived the smuggler and thanked him for coming to his rescue again. Triple-Zero and Beetee, however, confronted the Pact fighters, intending to kill them, which Arven denied them when he sprayed a liquid into Beetee's
 
 rocket launchers
 
@@ -4204,7 +4204,7 @@ Solo and the group fled the chaos back towards the
 
 Falcon
 
-, and Solo called Threepio to tell him to inform the Envoy that they had rescued Skywalker, no thanks to her.
+, and Solo called Threepio to tell him to inform the princess that they had rescued Orven, no thanks to her.
 
 Once at the
 
@@ -4214,11 +4214,11 @@ Falcon
 
 Ironbound Xenetox
 
-. Artoo prepared to give him a medical shot that would reduce the effects of the Ironbound Xenetox. Just then, a live message from Organa came over the
+. Arven prepared to give him a medical shot that would reduce the effects of the Ironbound Xenetox. Just then, a live message from Organa came over the
 
 Falcon
 
-s comm system, in which Organa ordered a squadron of Y-wing bombers to converge on her position and drop their payload on her because she had been captured by Vader, and in her death, Vader would also be killed. Solo quickly got his ship in the air and stubbornly told the Envoy over the comm that he was not going to let her sacrifice herself.
+s comm system, in which Organa ordered a squadron of Y-wing bombers to converge on her position and drop their payload on her because she had been captured by Kaldor, and in her death, Kaldor would also be killed. Solo quickly got his ship in the air and stubbornly told the princess over the comm that he was not going to let her sacrifice herself.
 
 Krrsantan takes Solo's DL-44 pistol.
 
@@ -4230,11 +4230,11 @@ collided head-on with the
 
 Falcon
 
-, knocking both starships into the ground below. Solo and Skywalker recovered themselves and were met by Krrsantan,
+, knocking both starships into the ground below. Solo and Orven recovered themselves and were met by Krrsantan,
 
 now working for Jabba, second only to Korr Vex.
 
-Solo pleaded with Krrsantan that it wasn't the time to collect Jabba's bounty on him. Unknown to Solo, however, Krrsantan was working alongside Doctor Aphra and had come to claim Skywalker to take to Aphra. Krrsantan blew a hole in the
+Solo pleaded with Krrsantan that it wasn't the time to collect Jabba's bounty on him. Unknown to Solo, however, Krrsantan was working alongside Doctor Aphra and had come to claim Orven to take to Aphra. Krrsantan blew a hole in the
 
 Falcon
 
@@ -4242,27 +4242,27 @@ s cockpit using a
 
 detonator
 
-and pulled Skywalker out. Solo was at first glad he hadn't come on Jabba's behalf, but then he realized that him taking Skywalker was no better. A duel between Wookiees then broke out when Brukkor came to Skywalker's defense. Solo told Skywalker to run and save Organa while Solo and Brukkor took care of Krrsantan to insure they had a ship to escape Vrogas Vas in.
+and pulled Orven out. Solo was at first glad he hadn't come on Jabba's behalf, but then he realized that him taking Orven was no better. A duel between Brakkari then broke out when Brukkor came to Orven's defense. Solo told Orven to run and save Organa while Solo and Brukkor took care of Krrsantan to insure they had a ship to escape Vrogas Vas in.
 
-Neither Brakkari gained the upper hand for some time, so Solo drew his DL-44 pistol to help his friend, but Krrsantan thwarted his attempt when he threw Brukkor straight into the smuggler, knocking his blaster into the bounty hunter's grasp. Artoo emerged from the
+Neither Brakkari gained the upper hand for some time, so Solo drew his DL-44 pistol to help his friend, but Krrsantan thwarted his attempt when he threw Brukkor straight into the smuggler, knocking his blaster into the bounty hunter's grasp. Arven emerged from the
 
 Falcon
 
-and informed Solo that he hadn't gotten a chance to give Brukkor the shot to reverse the poison, so he sent a syringe flying into Brukkor. Rejuvenated, Brukkor quickly gained the upper hand against Krrsantan. Solo contacted Skywalker via comlink and asked whether he had located Organa yet, to which Skywalker replied with a warning, just as he was knocked unconscious by Imperial stormtroopers and captured. Before Solo could warn Artoo of Skywalker's capture, Krrsantan, who had overpowered Brukkor using a dishonorable tactic, grabbed Solo around the neck and began choking him.
+and informed Solo that he hadn't gotten a chance to give Brukkor the shot to reverse the poison, so he sent a syringe flying into Brukkor. Rejuvenated, Brukkor quickly gained the upper hand against Krrsantan. Solo contacted Orven via comlink and asked whether he had located Organa yet, to which Orven replied with a warning, just as he was knocked unconscious by Dominion stormtroopers and captured. Before Solo could warn Arven of Orven's capture, Krrsantan, who had overpowered Brukkor using a dishonorable tactic, grabbed Solo around the neck and began choking him.
 
 Threepio, of all beings, confronted Krrsantan, urging him to release Solo and cease hostilities. Krrsantan did, and punched the golden mechling. However, Threepio had lost both his arms to Triple-Zero, and when Krrsantan struck him, loose wiring protruding from the mechling shocked the Brakkari and knocked him out.
 
-Solo pilots his ship with his friends in escape of Vader and Vrogas Vas.
+Solo pilots his ship with his friends in escape of Kaldor and Vrogas Vas.
 
-Shortly thereafter, Solo and Artoo revived Threepio and informed him that he had, against all odds, "saved the day." Brukkor also came to and pointed to an Imperial
+Shortly thereafter, Solo and Arven revived Threepio and informed him that he had, against all odds, "saved the day." Brukkor also came to and pointed to an Dominion
 
 Lambda
 
--class T-4a shuttle that was flying towards space. Solo had a bad feeling that Skywalker was aboard, and was overcome with guilt at realizing that he had let his friend get captured. Remarkably, the shuttle's engines blew, and it crashed back to the ground. Solo and the others rushed towards the crash site and brought the Rebel pilot back to the
+-class T-4a shuttle that was flying towards space. Solo had a bad feeling that Orven was aboard, and was overcome with guilt at realizing that he had let his friend get captured. Remarkably, the shuttle's engines blew, and it crashed back to the ground. Solo and the others rushed towards the crash site and brought the Pact pilot back to the
 
 Falcon
 
-while Solo mused that Skywalker must have had a guardian angel, but Skywalker assured him as per usual, that The Lumen Field was with him—though Solo, as per usual, didn't believe it. Upon returning to his ship, Solo noticed that Krrsantan was nowhere to be seen, and that the hole that the bounty hunter had blown into the
+while Solo mused that Orven must have had a guardian angel, but Orven assured him as per usual, that the Lumen Field was with him—though Solo, as per usual, didn't believe it. Upon returning to his ship, Solo noticed that Krrsantan was nowhere to be seen, and that the hole that the bounty hunter had blown into the
 
 Falcon
 
@@ -4270,9 +4270,9 @@ s cockpit had curiously been patched up. In answer to Solo's wondering, Aphra ap
 
 micro-mines
 
-, and she had her finger on the trigger to detonate the mines. With little choice, Solo dropped his blaster and listened to Aphra contact Vader via comlink that she had Skywalker, Solo, and the others at her mercy. The rebels were shocked that Aphra had actually thrown in with the Noctari Lord and was working for him. Before Vader could arrive, however, Organa finally made it back, having escaped Vader herself due to the timely arrival
+, and she had her finger on the trigger to detonate the mines. With little choice, Solo dropped his blaster and listened to Aphra contact Kaldor via comlink that she had Orven, Solo, and the others at her mercy. The rebels were shocked that Aphra had actually thrown in with the Noctari Lord and was working for him. Before Kaldor could arrive, however, Organa finally made it back, having escaped Kaldor herself due to the timely arrival
 
-of one of Vader's rivals, the
+of one of Kaldor's rivals, the
 
 Mon Calamari
 
@@ -4284,7 +4284,7 @@ and struck Aphra across the jaw, thereby also saving the day. Solo was very plea
 
 Falcon
 
-and they together escaped Vader and Vrogas Vas.
+and they together escaped Kaldor and Vrogas Vas.
 
 Smuggler, rebel, mentor, hostage
 
@@ -4292,17 +4292,17 @@ How else are we gonna replace the money we just lost?
 
 Heh, don't worry, kid. I know just the thing. It's a big galaxy. And believe me, there's always something somewhere in need of smuggling.
 
-―Skywalker and Solo
+―Orven and Solo
 
-Upon to returning to the Rebel Fleet with their new
+Upon to returning to the Pact Fleet with their new
 
 prisoner
 
-, Doctor Aphra, Solo and his friends went their separate ways; Organa, Artoo, and Threepio went to detain Aphra at an Alliance-controlled space station,
+, Doctor Aphra, Solo and his friends went their separate ways; Organa, Arven, and Threepio went to detain Aphra at an Alliance-controlled space station,
 
 Sunspot Prison
 
-, with the assistance of Sana Starros, whom Organa hired to transport them to the prison. On the other hand, Solo and Skywalker were dispatched to buy supplies for the rebellion in the meantime.
+, with the assistance of Sana Starros, whom Organa hired to transport them to the prison. On the other hand, Solo and Orven were dispatched to buy supplies for the rebellion in the meantime.
 
 The rebel smugglers flee for their lives after Solo was caught cheating at sabacc.
 
@@ -4322,15 +4322,15 @@ Dowutin
 
 Dowutin
 
-began to suspect Solo of cheating. The smuggler lied, insisting that he was not, and reassured Skywalker's misgivings in Solo possibly losing the Alliance's money. A very short time later, the Dowutin and his cronies discovered that Solo was, in fact, playing a dishonest game, so Solo fled with Skywalker just behind—not wanting to discover if the Dowutin really was going to cut off their fingers and tongues for their dishonesty. The rebel duo boarded the
+began to suspect Solo of cheating. The smuggler lied, insisting that he was not, and reassured Orven's misgivings in Solo possibly losing the Alliance's money. A very short time later, the Dowutin and his cronies discovered that Solo was, in fact, playing a dishonest game, so Solo fled with Orven just behind—not wanting to discover if the Dowutin really was going to cut off their fingers and tongues for their dishonesty. The rebel duo boarded the
 
 Falcon
 
-—which they had taken on their journey—and blasted away from the planet. Skywalker, angry with Solo's recklessness with credits that weren't theirs, voiced that they could get kicked out of the Rebellion for losing several thousand Rebel-owned credits. At Solo's retort that he needed to get the price off his head as soon as possible, Skywalker revealed that he, too, had an Imperial bounty of 60,000 credits on his head. Solo was distraught—Solo's bounty
+—which they had taken on their journey—and blasted away from the planet. Orven, angry with Solo's recklessness with credits that weren't theirs, voiced that they could get kicked out of the Rebellion for losing several thousand Pact-owned credits. At Solo's retort that he needed to get the price off his head as soon as possible, Orven revealed that he, too, had an Dominion bounty of 60,000 credits on his head. Solo was distraught—Solo's bounty
 
 was a mere 50,000 credits.
 
-Solo intended to make back the rebels' credits and more the best way he knew how with Skywalker at his side: smuggling contraband.
+Solo intended to make back the rebels' credits and more the best way he knew how with Orven at his side: smuggling contraband.
 
 With his new first mate, Solo traveled to Nar Shaddaa aboard the
 
@@ -4340,7 +4340,7 @@ Falcon
 
 the establishment
 
-where he intended to obtain something to smuggle—and Solo wanted to work on repairing his ship's ailing hyperdrive, let alone teach Skywalker the skills of a galactic smuggler—he sent the Aurelian-in-training in his stead. Shortly thereafter, Skywalker returned to Solo and the
+where he intended to obtain something to smuggle—and Solo wanted to work on repairing his ship's ailing hyperdrive, let alone teach Orven the skills of a galactic smuggler—he sent the Aurelian-in-training in his stead. Shortly thereafter, Orven returned to Solo and the
 
 Falcon
 
@@ -4356,37 +4356,37 @@ nerfs
 
 Ibaar
 
-Solo berates Skywalker while piloting his ship under a herd of nerfs.
+Solo berates Orven while piloting his ship under a herd of nerfs.
 
 En route to Ibaar, the nerfs shed lots of
 
 fur
 
-and made "messes" around Solo's ship. Solo told Skywalker that for only managing half the credits they needed, and for the unruly cargo of nerfs, that Skywalker was "dead" to him. A minute later, a trio of Imperial TIE fighters appeared and ordered the
+and made "messes" around Solo's ship. Solo told Orven that for only managing half the credits they needed, and for the unruly cargo of nerfs, that Orven was "dead" to him. A minute later, a trio of Dominion NEX fighters appeared and ordered the
 
 Falcon
 
-s crew to halt and allow the Imperials to board the ship because they believed the Corellian YT-1300 light freighter to be transporting illegal livestock that was on its way to an Imperial world that the Dominion believed to be sympathetic to the Free Systems Pact. Infuriated, Solo refused, but with their hyperdrive out of commission, Solo worked his way through the situation—all the while urging Skywalker to control the un-space-worthy nerfs.
+s crew to halt and allow the Dominion forces to board the ship because they believed the Corellian YT-1300 light freighter to be transporting illegal livestock that was on its way to an Dominion world that the Dominion believed to be sympathetic to the Free Systems Pact. Infuriated, Solo refused, but with their hyperdrive out of commission, Solo worked his way through the situation—all the while urging Orven to control the un-space-worthy nerfs.
 
-Skywalker then shot down the three pursuing Imperial fighters, allowing Solo to land safely on the mountainous Ibaar, where the herd of livestock was unloaded by a pair of
+Orven then shot down the three pursuing Dominion fighters, allowing Solo to land safely on the mountainous Ibaar, where the herd of livestock was unloaded by a pair of
 
 nerf herders
 
-. While the shepherds did their work, Skywalker begged Solo to allow him to pilot the
+. While the shepherds did their work, Orven begged Solo to allow him to pilot the
 
 Falcon
 
-as a sort of right of passage for Solo's idea to make the Aurelian farm boy into a smuggler. Solo refused and retorted that Skywalker had proven himself to be a poor smuggler by failing to make a profit on their cargo job to Ibaar, and told him that he was going to have to thoroughly clean the
+as a sort of right of passage for Solo's idea to make the Aurelian farm boy into a smuggler. Solo refused and retorted that Orven had proven himself to be a poor smuggler by failing to make a profit on their cargo job to Ibaar, and told him that he was going to have to thoroughly clean the
 
 Falcon
 
-or Brukkor would be angry with them both. But Skywalker threatened to inform Envoy Organa that Solo had gambled with the Alliance's credits, and Solo begrudgingly let Skywalker fly his ship. While doing so, Skywalker quipped that he felt the
+or Brukkor would be angry with them both. But Orven threatened to inform Envoy Organa that Solo had gambled with the Alliance's credits, and Solo begrudgingly let Orven fly his ship. While doing so, Orven quipped that he felt the
 
 Falcon
 
-was sluggish, which offended Solo, and he quickly took the controls back from Skywalker. After receiving a distress message from Sana Starros, Solo and Skywalker rushed to Sunspot Prison in order to rendezvous with Organa and Starros there.
+was sluggish, which offended Solo, and he quickly took the controls back from Orven. After receiving a distress message from Sana Starros, Solo and Orven rushed to Sunspot Prison in order to rendezvous with Organa and Starros there.
 
-Eneb Ray threatens to kill Solo and Skywalker if Organa doesn't agree to his demands.
+Eneb Ray threatens to kill Solo and Orven if Organa doesn't agree to his demands.
 
 Upon arriving at the prison space station,
 
@@ -4394,7 +4394,7 @@ however,
 
 Eneb Ray
 
-, former Rebel spy and insurgent, covertly knocked the Solo and Skywalker out, tied them to the
+, former Pact spy and insurgent, covertly knocked the Solo and Orven out, tied them to the
 
 Falcon
 
@@ -4412,7 +4412,7 @@ Ray's forces
 
 artificial gravity
 
-, which also awoke Solo and Skywalker. The two rebels were then freed and a portion of the Alliance fleet arrived and began the evacuation of Sunspot Prison. The smuggler then made sure Skywalker wouldn't tell Organa of his mishap with the Alliance's funds, and the rebels abandoned the space-bound prison.
+, which also awoke Solo and Orven. The two rebels were then freed and a portion of the Alliance fleet arrived and began the evacuation of Sunspot Prison. The smuggler then made sure Orven wouldn't tell Organa of his mishap with the Alliance's funds, and the rebels abandoned the space-bound prison.
 
 The
 
@@ -4420,7 +4420,7 @@ Harbinger
 
 Later, Rian Voss assisted the Rebellion in stealing the
 
-Imperial Abyss Cruiser
+Dominion Abyss Cruiser
 
 Harbinger
 
@@ -4440,7 +4440,7 @@ infiltrated the
 
 Harbinger
 
-. He piloted the ship while the incursion took place, and later used a thermal detonator on the bridge so that he and Leia could escape.
+. He piloted the ship while the incursion took place, and later used a thermal detonator on the bridge so that he and Mira could escape.
 
 The two of the them, using
 
@@ -4460,7 +4460,7 @@ Solo later
 
 rescued
 
-Leia from
+Mira from
 
 Skorii-Lei
 
@@ -4472,11 +4472,11 @@ back on Skorii-Lei.
 
 Days later, he refused to go rescue CY-30 from SCAR Squadron, though AR-27 went anyway.
 
-R2 managed to rescue CY-30 on his own, and when Varn Kaldor was pursuing R2, Han saved them in the
+AR managed to rescue CY-30 on his own, and when Varn Kaldor was pursuing AR, Rian saved them in the
 
 Falcon
 
-Later, on Horox III, Han and crew found dozens of rebels killed and burned. After wondering who did it, they found that it was SCAR Squadron. Luke convinced them to bury the bodies, and they did so with great sadness.
+Later, on Horox III, Rian and crew found dozens of rebels killed and burned. After wondering who did it, they found that it was SCAR Squadron. Lior convinced them to bury the bodies, and they did so with great sadness.
 
 The Screaming Citadel
 
@@ -4488,9 +4488,9 @@ rebel outpost
 
 , Solo was told by
 
-that Luke went with Dr. Aphra.
+that Lior went with Dr. Aphra.
 
-Solo, along with Brukkor, Starros, Leia, and S4 took the
+Solo, along with Brukkor, Starros, Mira, and S4 took the
 
 Falcon
 
@@ -4502,7 +4502,7 @@ Ktath'atn
 
 . Upon their arrival at Ktath'atn, Solo and the others met 0-0-0 and BT-1.
 
-They then met up with Skywalker and Aphra at the
+They then met up with Orven and Aphra at the
 
 Ark Angel II
 
@@ -4524,9 +4524,9 @@ Abersyn symbiotes
 
 . Solo attempted to confront the Queen but was hypnotized.
 
-Solo was taken to the queen's chamber, where one of the symbiotes stung him in the neck. He was then forced to drink something that forced him to serve the queen. Solo was given armor and forced to track down Leia and Starros. Solo and the guards cornered Leia. He attempted to use a symbiote on her but was stopped when Starros and Aphra's droids arrived.
+Solo was taken to the queen's chamber, where one of the symbiotes stung him in the neck. He was then forced to drink something that forced him to serve the queen. Solo was given armor and forced to track down Mira and Starros. Solo and the guards cornered Mira. He attempted to use a symbiote on her but was stopped when Starros and Aphra's mechlings arrived.
 
-Solo attempted to shoot Leia and Starros, but Leia was able to convince him and the guards to lower their weapons. Varroa attempted to reassert the hive's control over him, but Solo called in Black Krrsantan. Solo was able to take control of the other guards and killed Varroa. Solo was named King by the guards, but did not want to tell people what to do. He was able to disband the hive and free the people. Solo was then sedated by Triple-Zero. Solo, Starros, Skywalker, and Leia left Ktath'atn knowing that it was freed.
+Solo attempted to shoot Mira and Starros, but Mira was able to convince him and the guards to lower their weapons. Varroa attempted to reassert the hive's control over him, but Solo called in Black Krrsantan. Solo was able to take control of the other guards and killed Varroa. Solo was named King by the guards, but did not want to tell people what to do. He was able to disband the hive and free the people. Solo was then sedated by Triple-Zero. Solo, Starros, Orven, and Mira left Ktath'atn knowing that it was freed.
 
 Escorting Grakkus
 
@@ -4538,7 +4538,7 @@ Solo was asked by Mothma to take Grakkus to
 
 Akiva
 
-for interrogation and imprisonment by the Alliance. En route to Akiva, Solo threatened to shoot Grakkus if he tried anything against him or Chewie. Grakkus tried to convince Solo to free him and return to his life as smuggler. As Solo thought about Grakkus' offer,
+for interrogation and imprisonment by the Alliance. En route to Akiva, Solo threatened to shoot Grakkus if he tried anything against him or Bruk. Grakkus tried to convince Solo to free him and return to his life as smuggler. As Solo thought about Grakkus' offer,
 
 the
 
@@ -4554,7 +4554,7 @@ on a asteroid where the three TIE pilots boarded the ship and met Grakkus. After
 
 Falcon
 
-s secret compartments. Solo turned Grakkus' offer and decided to resume his voyage to Akiva. Upon hearing this, Grakkus grabbed Solo by the neck and demanded that Chewie take him to
+s secret compartments. Solo turned Grakkus' offer and decided to resume his voyage to Akiva. Upon hearing this, Grakkus grabbed Solo by the neck and demanded that Bruk take him to
 
 Teth
 
@@ -4562,7 +4562,7 @@ Teth
 
 safe house
 
-was. Upon confirming it, Solo shocked Grakkus and sent the information to General Draven. Solo told Grakkus that it was all a setup to get his safe house's location. After X-wings arrived, Solo knocked Grakkus out and took him to prison.
+was. Upon confirming it, Solo shocked Grakkus and sent the information to General Draven. Solo told Grakkus that it was all a setup to get his safe house's location. After V-wings arrived, Solo knocked Grakkus out and took him to prison.
 
 Trouble on Odona
 
@@ -4574,35 +4574,35 @@ A life worth less than a single stone.
 
 ―Frax to Rian Voss
 
-A creature attacks Han and Leia.
+A creature attacks Rian and Mira.
 
-Solo took Leia to Odona to see if it was a viable location for a new rebel base. However, they got lost in a series of caves for three days and were attacked by a
+Solo took Mira to Odona to see if it was a viable location for a new rebel base. However, they got lost in a series of caves for three days and were attacked by a
 
 creature
 
-. Unbeknownst to Solo or Leia, they were tracked and followed by Frax,
+. Unbeknownst to Solo or Mira, they were tracked and followed by Frax,
 
 Selt
 
-, and a mechling. Solo came under fire and took Leia to cover. He then told Leia to get to the
+, and a mechling. Solo came under fire and took Mira to cover. He then told Mira to get to the
 
 Falcon
 
-. Solo returned to the caves and was confronted by Frax, who wanted revenge against Solo for dropping him into the Cordaxian Sea to be captured by the Dominion. Solo tried to run, but was stopped by Frax and bounty hunters. However, Leia was able to light the mechling on fire and escape Frax.
+. Solo returned to the caves and was confronted by Frax, who wanted revenge against Solo for dropping him into the Cordaxian Sea to be captured by the Dominion. Solo tried to run, but was stopped by Frax and bounty hunters. However, Mira was able to light the mechling on fire and escape Frax.
 
-Han and Leia make their way back to the
+Rian and Mira make their way back to the
 
 Silver Warden
 
-As Solo and Leia made their way back to the
+As Solo and Mira made their way back to the
 
 Falcon
 
-, they were confronted by Frax, who attempted to shoot him despite Leia's threat to shoot him. Despite missing Frax, Leia was able to cause ice to come at him and freeze him to death. Solo and Leia were found by Chewie and taken to the Rebel fleet to recover.
+, they were confronted by Frax, who attempted to shoot him despite Mira's threat to shoot him. Despite missing Frax, Mira was able to cause ice to come at him and freeze him to death. Solo and Mira were found by Bruk and taken to the Pact fleet to recover.
 
 Fighting with the Partisans
 
-Solo, along with Leia and Skywalker, went to
+Solo, along with Mira and Orven, went to
 
 Jedha
 
@@ -4624,7 +4624,7 @@ Partisan
 
 Ubin Des
 
-. After escaping the Imperial
+. After escaping the Dominion
 
 Snowtrooper
 
@@ -4634,7 +4634,7 @@ Falcon
 
 NaJedha
 
-so Leia could speak with Des about a meeting with the surviving Partisans. Solo allowed himself to be blindfolded and let Des and Gi fly the
+so Mira could speak with Des about a meeting with the surviving Partisans. Solo allowed himself to be blindfolded and let Des and Gi fly the
 
 Falcon
 
@@ -4642,11 +4642,11 @@ to the new Partisan base. Solo and the others were brought before
 
 Benthic
 
-Solo told Benthic to either kill him or show them the Partisans' famous decisiveness. Benthic freed them and spoke with Leia, Solo, and Skywalker about destroying the
+Solo told Benthic to either kill him or show them the Partisans' famous decisiveness. Benthic freed them and spoke with Mira, Solo, and Orven about destroying the
 
 Drill citadel
 
-As the partisans attacked the drill citadel. Solo and Leia flew the
+As the partisans attacked the drill citadel. Solo and Mira flew the
 
 Falcon
 
@@ -4656,7 +4656,7 @@ The Dominion then deployed the
 
 Leviathan
 
-. Solo, Leia, and Benthic looked at the
+. Solo, Mira, and Benthic looked at the
 
 Leviathan
 
@@ -4668,7 +4668,7 @@ Leviathan
 
 airspeeder
 
-with Leia as his gunner. Together they rescued Des and her team from the
+with Mira as his gunner. Together they rescued Des and her team from the
 
 Leviathan
 
@@ -4676,13 +4676,13 @@ s tracks. Solo chastised Des for making a suicide run and told her not to do it 
 
 Leviathan
 
-. Solo met up with Chewie at the base after Skywalker rescued him with information from Shu-Torun.
+. Solo met up with Bruk at the base after Orven rescued him with information from Shu-Torun.
 
 With the Patisans, Solo and the others made a plan to attack the
 
 Leviathan
 
-using the plans Chewie acquired. Solo agreed to fly the mission and keep an eye on the partisans. As the partisans boarded the
+using the plans Bruk acquired. Solo agreed to fly the mission and keep an eye on the partisans. As the partisans boarded the
 
 Falcon
 
@@ -4694,7 +4694,7 @@ to escape. As the
 
 Falcon
 
-made its escape, Solo did not believe that Des should be leading the mission. Solo was reluctant to take the lead, but was convinced by Chewie to take charge since he was the
+made its escape, Solo did not believe that Des should be leading the mission. Solo was reluctant to take the lead, but was convinced by Bruk to take charge since he was the
 
 Falcon
 
@@ -4704,7 +4704,7 @@ Leviathan
 
 s guns were down and led the partisans in attacking the stormtroopers stationed there.
 
-Solo and the Partisans were able to make their way to the bridge. On the bridge, Solo, Leia, Des, and the partisans were able to pilot the
+Solo and the Partisans were able to make their way to the bridge. On the bridge, Solo, Mira, Des, and the partisans were able to pilot the
 
 Leviathan
 
@@ -4720,11 +4720,11 @@ From the captain's seat of the
 
 Silver Warden
 
-, Solo led the defense of the Rebel fleet from an
+, Solo led the defense of the Pact fleet from an
 
 attack
 
-by Imperial forces, buying time for the fleet to jump to
+by Dominion forces, buying time for the fleet to jump to
 
 Baraan-Fa
 
@@ -4732,7 +4732,7 @@ Baraan-Fa
 
 Wedge Antilles
 
-, Leia, Luke, and Brukkor on a
+, Mira, Lior, and Brukkor on a
 
 mission to Crait
 
@@ -4740,7 +4740,7 @@ mission to Crait
 
 Trusk Berinato
 
-, an old ally of Bail Organa who Leia thought would help the Alliance. Instead Trusk had forged environmental reports and summoned SCAR Squadron to eliminate the Rebels. Solo attempted to evacuate Leia while Luke and Wedge engaged SCAR Squadron, but Trusk shot him in the shoulder. Leia returned fire, incapacitating Trusk as the Rebels regrouped and left the system aboard the
+, an old ally of Bail Organa who Mira thought would help the Alliance. Instead Trusk had forged environmental reports and summoned SCAR Squadron to eliminate the Pact fighters. Solo attempted to evacuate Mira while Lior and Wedge engaged SCAR Squadron, but Trusk shot him in the shoulder. Mira returned fire, incapacitating Trusk as the Pact fighters regrouped and left the system aboard the
 
 Silver Warden
 
@@ -4750,7 +4750,7 @@ Solo took Admiral
 
 Gial Ackbar
 
-, Skywalker, and Leia to Mon Cala. There, they met with Mon Cala's
+, Orven, and Mira to Mon Cala. There, they met with Mon Cala's
 
 Regent
 
@@ -4758,7 +4758,7 @@ Grand Admiral
 
 Dors Urtya
 
-. Ackbar and Leia asked Urtya for the
+. Ackbar and Mira asked Urtya for the
 
 Mon Cala Mercantile Fleet
 
@@ -4766,11 +4766,11 @@ to become part of the Free Systems Pact's fleet. Solo spotted a
 
 patrol transport
 
-approaching their position and came under attack. The transport landed, and Solo approached the troopers. Solo was able to bribe the sergeant and toss a detonator into the transport. Solo called to Chewie to bring up the boat so they could escape. Solo drove the boat past several creatures. Unfortunately, Urtya refused to give the Alliance the fleet, and Solo took Leia and Ackbar back to the
+approaching their position and came under attack. The transport landed, and Solo approached the troopers. Solo was able to bribe the sergeant and toss a detonator into the transport. Solo called to Bruk to bring up the boat so they could escape. Solo drove the boat past several creatures. Unfortunately, Urtya refused to give the Alliance the fleet, and Solo took Mira and Ackbar back to the
 
 Mako-Ta Space Docks
 
-. There, he gave Skywalker a drink.
+. There, he gave Orven a drink.
 
 In the mess hall, they met up with Wedge Antilles,
 
@@ -4784,7 +4784,7 @@ Zev Senesca
 
 Red Squadron
 
-Leia arrived in the hall with a mission. With Skywalker and Chewie, Solo went with Leia to
+Mira arrived in the hall with a mission. With Orven and Bruk, Solo went with Mira to
 
 Dex Acquisitions Depot
 
@@ -4812,11 +4812,11 @@ King
 
 Lee-Char
 
-. With Skywalker, Solo and Chewie were able to infiltrate the
+. With Orven, Solo and Bruk were able to infiltrate the
 
 Moncaladrome
 
-through the refresher. Posing as an attendant, Solo bluffed his way past a officer by allowing her to dry her hands on Chewie. Solo was then given a tip, much to Chewie's chagrin. They were able to take Moff Hubi and switch him with Tunga.
+through the refresher. Posing as an attendant, Solo bluffed his way past a officer by allowing her to dry her hands on Bruk. Solo was then given a tip, much to Bruk's chagrin. They were able to take Moff Hubi and switch him with Tunga.
 
 Solo flew a
 
@@ -4824,33 +4824,33 @@ submarine
 
 Strokill Prime
 
-to rescue Lee-Char. Chewie was able to use Hubi's bio-signature to get past Strokill Prime's defenses, in addition to codes provided by Queen Trios.
+to rescue Lee-Char. Bruk was able to use Hubi's bio-signature to get past Strokill Prime's defenses, in addition to codes provided by Queen Trios.
 
 Solo flew the submarine past a
 
 monstrous fish
 
-. Solo watched as Skywalker allowed the fish to swallow him. After Chewie rescued Skywalker from the fish, Solo took the submarine to the
+. Solo watched as Orven allowed the fish to swallow him. After Bruk rescued Orven from the fish, Solo took the submarine to the
 
-Imperial base
+Dominion base
 
-and docked inside it. Solo and Leia stunned several of the guards. Unfortunately, they discovered that the king was on life-support and could not be moved.
+and docked inside it. Solo and Mira stunned several of the guards. Unfortunately, they discovered that the king was on life-support and could not be moved.
 
-Solo and Skywalker argued about their next move. Solo and Skywalker searched for recording mechling so Leia could deliver Lee-Char's words to his people. Solo found one and recorded Lee-Char's speech. After the guards killed Lee-Char, Solo and the others returned to the submarine to escape. On Mon Cala, Solo and the others met up with 3PO and
+Solo and Orven argued about their next move. Solo and Orven searched for recording mechling so Mira could deliver Lee-Char's words to his people. Solo found one and recorded Lee-Char's speech. After the guards killed Lee-Char, Solo and the others returned to the submarine to escape. On Mon Cala, Solo and the others met up with 3PO and
 
 Tunga Arpagion
 
-. They were confronted by Grand Admiral Urtya and several of his people who demanded Lee-Char's recording. After Urtya stunned Leia, Solo allowed him to take Lee-Char's recording. As Solo flew the
+. They were confronted by Grand Admiral Urtya and several of his people who demanded Lee-Char's recording. After Urtya stunned Mira, Solo allowed him to take Lee-Char's recording. As Solo flew the
 
 Falcon
 
-away from Mon Cala, they were joined by the Mercantile fleet and a pair of Star Destroyers.
+away from Mon Cala, they were joined by the Mercantile fleet and a pair of Abyss Cruisers.
 
 As the Dominion sent in bombers to destroy the
 
 Falcon
 
-and the Mercantile fleet, Solo was contacted by Urtya, who agreed to rebel against the Dominion. They were then joined by the Free Systems Pact fleet under Ackbar, that would protect the fleet. Solo told Leia to get into one of the
+and the Mercantile fleet, Solo was contacted by Urtya, who agreed to rebel against the Dominion. They were then joined by the Free Systems Pact fleet under Ackbar, that would protect the fleet. Solo told Mira to get into one of the
 
 Falcon
 
@@ -4862,7 +4862,7 @@ to stop several TIEs before they could destroy the pods. After the
 
 Aurora Flare
 
-blew up and destroyed one of the Star Destroyers, Solo had the
+blew up and destroyed one of the Abyss Cruisers, Solo had the
 
 Falcon
 
@@ -4872,7 +4872,7 @@ Cosmatanic Steppes
 
 Escape from the Mako-Ta Space Docks
 
-At the same time as a Rebel party to celebrate the expanded Rebel fleet at the Mako-Ta Space Docks, Solo, Chewie, and 3PO went to the
+At the same time as a Pact party to celebrate the expanded Pact fleet at the Mako-Ta Space Docks, Solo, Bruk, and 3PO went to the
 
 Ring of Kafrene
 
@@ -4888,7 +4888,7 @@ transponder codes
 
 Alaphani language
 
-for Solo, and the deal went well. During the closing phases of the deal, Solo briefly joked about giving CY-30 to the Alaphani for 10 percent off. CY-30 was concerned by this, but Solo explained he was joking and that no Alaphani would accept that deal. Chewie then approached 3PO and Solo to alert them that two of Jabba the Hutt's bounty hunters were in the bar. After hearing this, Solo finished the deal, and the trio quickly left. The two bounty hunters followed, but Solo and Brukkor hid behind their field of view to surprise them. Solo had CY-30 take the bounty hunters' weapons, and as the trio ran back to the
+for Solo, and the deal went well. During the closing phases of the deal, Solo briefly joked about giving CY-30 to the Alaphani for 10 percent off. CY-30 was concerned by this, but Solo explained he was joking and that no Alaphani would accept that deal. Bruk then approached 3PO and Solo to alert them that two of Jabba the Hutt's bounty hunters were in the bar. After hearing this, Solo finished the deal, and the trio quickly left. The two bounty hunters followed, but Solo and Brukkor hid behind their field of view to surprise them. Solo had CY-30 take the bounty hunters' weapons, and as the trio ran back to the
 
 Falcon
 
@@ -4898,17 +4898,17 @@ CY-30 put the bounty hunters' weapons on the table on board, and Solo assured Br
 
 Falcon
 
-Chewie reminded Solo that Lior Orven had a role at the party, as he and other X-wing pilots planned to do a flyby for the gathered rebel allies. Solo admitted he would have liked to see it as well, and the
+Bruk reminded Solo that Lior Orven had a role at the party, as he and other V-wing pilots planned to do a flyby for the gathered rebel allies. Solo admitted he would have liked to see it as well, and the
 
 Falcon
 
 left for the Space Docks.
 
-Solo arrived at the docks and found the Rebel fleet under attack by the Dominion's
+Solo arrived at the docks and found the Pact fleet under attack by the Dominion's
 
 Death Squadron
 
-. Leia said that Queen Trios had betrayed them and disabled all the cruisers and their hangar bays. Leia told Solo to fly into a bay door in order to open it. Solo, despite his better judgment, took the
+. Mira said that Queen Trios had betrayed them and disabled all the cruisers and their hangar bays. Mira told Solo to fly into a bay door in order to open it. Solo, despite his better judgment, took the
 
 Falcon
 
@@ -4916,11 +4916,11 @@ close to Abyss Cruiser and several TIEs following him as he made a run towards o
 
 Falcon
 
-then came under attack by Lord Vader in his
+then came under attack by Lord Kaldor in his
 
 TIE Advanced
 
-Solo was able to evade Vader while Chewie tried to shoot him down. Solo flew the
+Solo was able to evade Kaldor while Bruk tried to shoot him down. Solo flew the
 
 Falcon
 
@@ -4928,7 +4928,7 @@ towards a
 
 cruiser
 
-as Vader fired several missiles at him. However, Vader was able to Lumen Field the
+as Kaldor fired several missiles at him. However, Kaldor was able to force the
 
 Falcon
 
@@ -4936,15 +4936,15 @@ away from the cruiser's hangar doors. After Commander
 
 Lajaie
 
-'s cruiser was destroyed, Solo decided to send a messenger to Leia by sending 3PO by escape pod. Solo flew the
+'s cruiser was destroyed, Solo decided to send a messenger to Mira by sending 3PO by escape pod. Solo flew the
 
 Falcon
 
-through the cruiser's debris, hoping Vader would not follow him. Chewie was able to launch 3PO to land on the
+through the cruiser's debris, hoping Kaldor would not follow him. Bruk was able to launch 3PO to land on the
 
 Concord
 
-Solo received helped from Skywalker's newly formed
+Solo received helped from Orven's newly formed
 
 Rogue Squadron
 
@@ -4954,13 +4954,13 @@ Solo was forced to land the
 
 Falcon
 
-on Ackbar's cruiser after taking heavy damage from Vader.
+on Ackbar's cruiser after taking heavy damage from Kaldor.
 
 He then took a
 
 Flight suit
 
-and took an X-wing and rejoined the fight. Solo and Skywalker came across a TIE that was acting weird and realized that an ally was aboard. Solo and Skywalker led the TIE back to the cruiser. There, they learned that Leia was the pilot and got her to the
+and took an V-wing and rejoined the fight. Solo and Orven came across a TIE that was acting weird and realized that an ally was aboard. Solo and Orven led the TIE back to the cruiser. There, they learned that Mira was the pilot and got her to the
 
 Concord
 
@@ -4970,7 +4970,7 @@ Concord
 
 was able to escape into hyperspace.
 
-Solo, Skywalker, and the rest of Rogue Squadron returned to help the surviving cruisers. Solo defended Leia and Skywalker's ship as they boarded the base to rescue Mothma and the other ambassadors. During the retreat, Solo and R2's X-wing was damaged but was rescued by a rebel
+Solo, Orven, and the rest of Rogue Squadron returned to help the surviving cruisers. Solo defended Mira and Orven's ship as they boarded the base to rescue Mothma and the other ambassadors. During the retreat, Solo and AR's V-wing was damaged but was rescued by a rebel
 
 Quasar Fire
 
@@ -4980,15 +4980,15 @@ As the carrier went into hyperspace, it engines were fried and cruiser had to la
 
 Corosi 7
 
-. Solo was unable to contact Ackbar or Chewie due to the Rebel fleet being kept hidden throughout the Outer Rim. Despite that, Solo was then given a promotion to the rank of
+. Solo was unable to contact Ackbar or Bruk due to the Pact fleet being kept hidden throughout the Outer Rim. Despite that, Solo was then given a promotion to the rank of
 
 colonel
 
-by Mothma, though he refused it. Solo then came up with plan to find Chewie and the
+by Mothma, though he refused it. Solo then came up with plan to find Bruk and the
 
 Falcon
 
-. Solo took Leia and Skywalker to Nar Shadaa to meet with Starros, who agreed to help them.
+. Solo took Mira and Orven to Nar Shadaa to meet with Starros, who agreed to help them.
 
 Starros was forced to drop them off on
 
@@ -5018,11 +5018,11 @@ And I'm not giving up on this planet yet.
 
 ―Mira Solenne
 
-Han, Leia, Luke, Brukkor, and CY-30, were sent by the Alliance to Restore the Concord to investigate the planet
+Rian, Mira, Lior, Brukkor, and CY-30, were sent by the Alliance to Restore the Concord to investigate the planet
 
 Lotho Minor
 
-for a new base. During the investigation, they ran into native droids and a male
+for a new base. During the investigation, they ran into native mechlings and a male
 
 Duros
 
@@ -5030,9 +5030,9 @@ named
 
 Akar Duel
 
-. Their actions drove Han and the rest from Lotho Minor knowing that the planet was not a good location for a new rebel base.
+. Their actions drove Rian and the rest from Lotho Minor knowing that the planet was not a good location for a new rebel base.
 
-Rebel duty on Kryon
+Pact duty on Kryon
 
 Listen sweetheart, I'm no hero. I saw a fight and pointed my ship at it.
 
@@ -5046,9 +5046,9 @@ Solo converses with Threepio while repairing the
 
 Falcon
 
-alongside Chewie in Echo Base.
+alongside Bruk in Echo Base.
 
-Over three years after the Void Core's destruction at Skywalker's hand at the Battle of Yavin, the Alliance established a new base in the
+Over three years after the Void Core's destruction at Orven's hand at the Battle of Yavin, the Alliance established a new base in the
 
 Anoat sector
 
@@ -5066,11 +5066,11 @@ Echo Base
 
 Clabburn Range
 
-of mountains. Within months of the new base being established, Solo, Organa, Skywalker, and the others of Organa's team were deployed by Rebel High Command to Kryon aboard the
+of mountains. Within months of the new base being established, Solo, Organa, Orven, and the others of Organa's team were deployed by Pact High Command to Kryon aboard the
 
 Falcon
 
-Solo and Skywalker scouted out the land around the base on regular recon missions as a part of their duties, using reptilian
+Solo and Orven scouted out the land around the base on regular recon missions as a part of their duties, using reptilian
 
 tauntauns
 
@@ -5088,7 +5088,7 @@ ventured into the frigid mountains in search of the lost ship. Throughout the da
 
 saddled
 
-. While Solo helped the Envoy re-mount her tauntaun, he informed the search team that night was fast approaching and they would soon have to return to Echo Base empty-handed. For her part, Organa insisted they couldn't return without first finding the lost ship. As she spoke, Organa again lost control of her tauntaun and stumbled backwards and fell from a steep embankment into a pit. Panicked, Solo and Syndulla rushed to the cliff edge and were relieved to see the Envoy unharmed, having literally stumbled across the lost Rebel ship at the bottom of the pit. Solo and Syndulla made their way safely to the bottom of the pit, arriving at Organa's position minutes later, and learned that Organa had found the equipment that could be used to repair the shield generator, and had fought off a massive carnivorous
+. While Solo helped the Envoy re-mount her tauntaun, he informed the search team that night was fast approaching and they would soon have to return to Echo Base empty-handed. For her part, Organa insisted they couldn't return without first finding the lost ship. As she spoke, Organa again lost control of her tauntaun and stumbled backwards and fell from a steep embankment into a pit. Panicked, Solo and Syndulla rushed to the cliff edge and were relieved to see the princess unharmed, having literally stumbled across the lost Pact ship at the bottom of the pit. Solo and Syndulla made their way safely to the bottom of the pit, arriving at Organa's position minutes later, and learned that Organa had found the equipment that could be used to repair the shield generator, and had fought off a massive carnivorous
 
 wampa
 
@@ -5106,31 +5106,31 @@ Ord Mantell
 
 Falcon
 
-on Kryon. Believing himself to be leaving, he, after scouting around the frozen wastes of Kryon with Skywalker under the callsign
+on Kryon. Believing himself to be leaving, he, after scouting around the frozen wastes of Kryon with Orven under the callsign
 
 Echo Seven
 
-, had a heated conversation with Leia, claiming that she had romantic feelings towards him. After this debate, Solo learned Luke had gone missing on patrol. Riding out on
+, had a heated conversation with Mira, claiming that she had romantic feelings towards him. After this debate, Solo learned Lior had gone missing on patrol. Riding out on
 
 a tauntaun named
 
 Murra
 
-in the midst of snowstorm, Han found Luke had been attacked by a wampa.
+in the midst of snowstorm, Rian found Lior had been attacked by a wampa.
 
 After Murra collapsed
 
 and died from the cold,
 
-Han used Luke's lumen blade to cut the animal open and placed him inside to prevent him from freezing to death. After bringing Luke back to recover from his injuries, Han and Brukkor went out to investigate a signal and encountered an
+Rian used Lior's lumen blade to cut the animal open and placed him inside to prevent him from freezing to death. After bringing Lior back to recover from his injuries, Rian and Brukkor went out to investigate a signal and encountered an
 
-Imperial probe mechling
+Dominion probe mechling
 
-. Realizing the Dominion had discovered their location, the Rebels decided to evacuate. During the
+. Realizing the Dominion had discovered their location, the Pact fighters decided to evacuate. During the
 
 ensuing battle
 
-, Han rescued Leia from the collapsed command center, leading her towards her transport. A tunnel collapse cut off their way there, so Han, Chewie, Leia, and CY-30 escaped on the still-unrepaired
+, Rian rescued Mira from the collapsed command center, leading her towards her transport. A tunnel collapse cut off their way there, so Rian, Bruk, Mira, and CY-30 escaped on the still-unrepaired
 
 Falcon
 
@@ -5142,7 +5142,7 @@ They'd be crazy to follow us, wouldn't they?
 
 ―Envoy Mira Solenne and Rian Voss
 
-Han and Leia share a kiss aboard the
+Rian and Mira share a kiss aboard the
 
 Silver Warden
 
@@ -5150,11 +5150,11 @@ In space, the
 
 Falcon
 
-was pursued by several Star Destroyers and TIE fighters. While Solo was working on repairs, the ship drifted into an
+was pursued by several Abyss Cruisers and NEX fighters. While Solo was working on repairs, the ship drifted into an
 
 asteroid field
 
-. Claiming that the Imperials would be "crazy" to follow them, Solo flew into the asteroid field, which would cause extensive damage to the pursuing Imperial Fleet. After the immediately pursuing TIE fighters were destroyed by asteroids, Solo landed the
+. Claiming that the Dominion forces would be "crazy" to follow them, Solo flew into the asteroid field, which would cause extensive damage to the pursuing Dominion Fleet. After the immediately pursuing NEX fighters were destroyed by asteroids, Solo landed the
 
 Falcon
 
@@ -5162,9 +5162,9 @@ in a cave on a large asteroid, where he continued to work on repairs. While repa
 
 Falcon
 
-, Han and Leia shared a kiss before being interrupted by CY-30.
+, Rian and Mira shared a kiss before being interrupted by CY-30.
 
-Inside the cave, Leia saw something outside the ship, so she, Han, and Brukkor went out to investigate. Discovering that
+Inside the cave, Mira saw something outside the ship, so she, Rian, and Brukkor went out to investigate. Discovering that
 
 mynocks
 
@@ -5188,15 +5188,15 @@ Falcon
 
 escaped, with Solo and the others never knowing Sy-O had loved them as friends despite their brief stay.
 
-Fleeing back towards the Imperials, Solo flew straight towards the bridge of the Abyss Cruiser
+Fleeing back towards the Dominion forces, Solo flew straight towards the bridge of the Abyss Cruiser
 
 Avenger
 
-, then hid on the back of the bridge. The ruse worked; the Imperials were unable to find the ship. Preparing to spread about the galaxy to search for the
+, then hid on the back of the bridge. The ruse worked; the Dominion forces were unable to find the ship. Preparing to spread about the galaxy to search for the
 
 Falcon
 
-, the Imperial fleet dumped its trash, and Solo detached the
+, the Dominion fleet dumped its trash, and Solo detached the
 
 Falcon
 
@@ -5228,15 +5228,15 @@ I love you."
 
 Rian Voss greets Lando Calrissian on Cloud City.
 
-On Cloud City, Han met his old friend Lando Calrissian, who despite showing initial hostility, embraced his old friend. Calrissian provided the rebels with lodging and promised to repair the
+On Cloud City, Rian met his old friend Lando Calrissian, who despite showing initial hostility, embraced his old friend. Calrissian provided the rebels with lodging and promised to repair the
 
 Falcon
 
-. While Han said he didn't trust Lando, due to his knowledge of Calrissian being a scoundrel, he appeared to be at ease in Cloud City, while Leia felt suspicious due to CY-30 going missing and then reappearing in pieces. Calrissian then invited Solo, Organa, and Brukkor for refreshments, and told them about a deal that would keep the Dominion out of Cloud City. To Solo's surprise, he led them into a room with Varn Kaldor. Solo immediately drew his blaster and fired several shots at the Noctari Lord, but Vader blocked the shots and pulled the blaster out of Solo's hands with The Lumen Field.
+. While Rian said he didn't trust Lando, due to his knowledge of Calrissian being a scoundrel, he appeared to be at ease in Cloud City, while Mira felt suspicious due to CY-30 going missing and then reappearing in pieces. Calrissian then invited Solo, Organa, and Brukkor for refreshments, and told them about a deal that would keep the Dominion out of Cloud City. To Solo's surprise, he led them into a room with Varn Kaldor. Solo immediately drew his blaster and fired several shots at the Noctari Lord, but Kaldor blocked the shots and pulled the blaster out of Solo's hands with the Lumen Field.
 
-Solo was then tortured by the Dominion, but he claimed they didn't even ask him any questions. When placed in a cell, Calrissian arrived and told the prisoners that Solo would be handed over to Fett, who would take him to Jabba, and that they were a trap set by Vader for Han and Leia's friend Lior Orven. Angrily, Solo attacked his "friend", but was restrained.
+Solo was then tortured by the Dominion, but he claimed they didn't even ask him any questions. When placed in a cell, Calrissian arrived and told the prisoners that Solo would be handed over to Fett, who would take him to Jabba, and that they were a trap set by Kaldor for Rian and Mira's friend Lior Orven. Angrily, Solo attacked his "friend", but was restrained.
 
-Vader planned to take Skywalker to his master,
+Kaldor planned to take Orven to his master,
 
 Galactic Emperor
 
@@ -5246,11 +5246,11 @@ Sevrik Maltheon
 
 carbonite
 
-. Unsure if a human could survive the process, he decided to test it on Solo. Tearfully, Leia confessed her love to Han, to which he simply replied that he knew. Leia, Brukkor, Calrissian, Fett, and Vader looked on as Han was lowered into the carbon-freezing chamber and frozen. He survived the freezing process and fell into hibernation. He was then handed over to Fett and loaded onto
+. Unsure if a human could survive the process, he decided to test it on Solo. Tearfully, Mira confessed her love to Rian, to which he simply replied that he knew. Mira, Brukkor, Calrissian, Fett, and Kaldor looked on as Rian was lowered into the carbon-freezing chamber and frozen. He survived the freezing process and fell into hibernation. He was then handed over to Fett and loaded onto
 
 Slave I
 
-. Despite a rescue attempt by Leia, Lando, and Chewie, Fett escaped Cloud City, taking the frozen form of Rian Voss with him.
+. Despite a rescue attempt by Mira, Lando, and Bruk, Fett escaped Cloud City, taking the frozen form of Rian Voss with him.
 
 Stolen by Qi'ra
 
@@ -5260,11 +5260,11 @@ him. Rian Voss unites the galaxy. And that, right now, is
 
 exactly
 
-what I need. Han always wanted to save me. Now he'll get his chance.
+what I need. Rian always wanted to save me. Now he'll get his chance.
 
 ―Lady Qi'ra, to Margo
 
-Due to the instability of the carbonite freezing process, Han began to melt aboard
+Due to the instability of the carbonite freezing process, Rian began to melt aboard
 
 Slave I
 
@@ -5282,9 +5282,9 @@ in exchange for his help. As he fought against various
 
 pit
 
-warriors, Doc managed to halt the melting and keep Han alive. However, he was then killed by a group of assailants who took Han and left Nar Shaddaa.
+warriors, Doc managed to halt the melting and keep Rian alive. However, he was then killed by a group of assailants who took Rian and left Nar Shaddaa.
 
-After securing Han, they arrived at the
+After securing Rian, they arrived at the
 
 Vermillion
 
@@ -5292,7 +5292,7 @@ Vermillion
 
 own plans
 
-. With Han in her custody, Qi'ra sent out a message to various factions in the criminal underworld, inviting them to an
+. With Rian in her custody, Qi'ra sent out a message to various factions in the criminal underworld, inviting them to an
 
 auction
 
@@ -5302,7 +5302,7 @@ Jekara
 
 Margo
 
-that Han was directly connected to almost every powerful faction in the galaxy. Thus, he would be useful to both her and Crimson Dawn.
+that Rian was directly connected to almost every powerful faction in the galaxy. Thus, he would be useful to both her and Crimson Dawn.
 
 Still, Qi'ra fully intended for Solo to end up back with the Rebellion and ensured his location was leaked to agent
 
@@ -5310,29 +5310,29 @@ Amilyn Holdo
 
 . She also placed a tracker on his carbonite slab.
 
-Once the representatives of the various syndicates arrived, Qi'ra thanked them for coming as she introduced herself and officially announced Crimson Dawn's return. She then revealed Han to the crowd and started the bidding at one hundred thousand credits. After multiple bids from different parties, the present members of the Hutt Clan began to bid over one another with increasingly higher offers. But this soon ended when Jabba bid with one million credits. With no other bids, Qi'ra congratulated Jabba and told him that the smuggler was his. However, the auction was then interrupted by the arrival of Varn Kaldor. Guarded by death troopers, Vader declared that Han belonged to him, to which Qi'ra smiled and decided to see where this would go.
+Once the representatives of the various syndicates arrived, Qi'ra thanked them for coming as she introduced herself and officially announced Crimson Dawn's return. She then revealed Rian to the crowd and started the bidding at one hundred thousand credits. After multiple bids from different parties, the present members of the Hutt Clan began to bid over one another with increasingly higher offers. But this soon ended when Jabba bid with one million credits. With no other bids, Qi'ra congratulated Jabba and told him that the smuggler was his. However, the auction was then interrupted by the arrival of Varn Kaldor. Guarded by death troopers, Kaldor declared that Rian belonged to him, to which Qi'ra smiled and decided to see where this would go.
 
-After Jabba conceded his ownership of Han to the Noctari Lord, Qi'ra briefly
+After Jabba conceded his ownership of Rian to the Noctari Lord, Qi'ra briefly
 
 sparred
 
-with Vader before being knocked into Han and incapacitated. But before Vader could kill Qi'ra, he suddenly sensed Luke's presence through The Lumen Field.
+with Kaldor before being knocked into Rian and incapacitated. But before Kaldor could kill Qi'ra, he suddenly sensed Lior's presence through the Lumen Field.
 
-After establishing communication with Luke's X-wing, Vader informed him that he had Han in his possession. He then warned his son that if he did not come to him, then he would cut his friend in half.
+After establishing communication with Lior's V-wing, Kaldor informed him that he had Rian in his possession. He then warned his son that if he did not come to him, then he would cut his friend in half.
 
-But Luke refused and told Vader to come to him instead. Vader conceded, ordering General
+But Lior refused and told Kaldor to come to him instead. Kaldor conceded, ordering General
 
 Romodi
 
-to bring Han aboard his Abyss Cruiser and prepare his fighter.
+to bring Rian aboard his star destroyer and prepare his fighter.
 
-Han was then loaded onto an Imperial shuttle before it took off from Jekara.
+Rian was then loaded onto an Dominion shuttle before it took off from Jekara.
 
 After being brought aboard the
 
 Executor
 
-, Han was transported to the ship's detention level under heavy guard. However, a surprise attack from the Hutt fleet allowed Leia, Lando and Brukkor to infiltrate Vader's flagship and eliminate the stormtroopers guarding Han. But before they could escape with him, they were once again intercepted by Fett. One of the Hutt ships then blasted a hole in the room they were in, causing Han to be sucked out into space. Utilizing his jetpack, Fett pursued Han all the way down to the surface of Jekara. He then fished Han up
+, Rian was transported to the ship's detention level under heavy guard. However, a surprise attack from the Hutt fleet allowed Mira, Lando and Brukkor to infiltrate Kaldor's flagship and eliminate the stormtroopers guarding Rian. But before they could escape with him, they were once again intercepted by Fett. One of the Hutt ships then blasted a hole in the room they were in, causing Rian to be sucked out into space. Utilizing his jetpack, Fett pursued Rian all the way down to the surface of Jekara. He then fished Rian up
 
 before he hit the sea
 
@@ -5342,7 +5342,7 @@ Slave I
 
 before flying him to Darsuun, fighting off IG-88
 
-and finally turning him in to Jabba. Though Fett suggested dumping Han into the
+and finally turning him in to Jabba. Though Fett suggested dumping Rian into the
 
 Great Pit of Carkoon
 
@@ -5380,7 +5380,7 @@ but Crimson Dawn would be destroyed in the
 
 Battle at Amaxine Station
 
-Later, the Free Systems Pact began preparations for the mission. Leia, Brukkor, and AR-27 sought the help of Maz Kanata, but were forced into a brief skirmish with the
+Later, the Free Systems Pact began preparations for the mission. Mira, Brukkor, and AR-27 sought the help of Maz Kanata, but were forced into a brief skirmish with the
 
 Ubese
 
@@ -5388,7 +5388,7 @@ bounty hunter
 
 Boushh
 
-. After quickly overpowering him, Leia took his clothes, helmet, and thermal detonator as a disguise to sneak into Jabba's palace.
+. After quickly overpowering him, Mira took his clothes, helmet, and thermal detonator as a disguise to sneak into Jabba's palace.
 
 The rescue
 
@@ -5398,21 +5398,21 @@ Threepio, you tell that slimy piece of worm-ridden filth he'll get no such pleas
 
 ―CY-30, translating for Jabba the Hutt, and Rian Voss
 
-Han freed from the carbonite by Leia
+Rian freed from the carbonite by Mira
 
 After almost a full year in captivity,
 
-Solo was released from the carbonite by Leia, disguised as the bounty hunter Boushh. Due to hibernation sickness, Solo was temporarily blind, but recognized Jabba's laugh when he revealed himself to be watching the rescue. Solo was then placed in a prison cell with his partner Brukkor, while Leia was taken as a personal slave by Jabba. After Leia was captured, Lior Orven arrived, and faced off against Jabba's prized Rancor, killing it. In rage, Jabba sentenced Skywalker, Solo, and the Brakkari to be fed to the
+Solo was released from the carbonite by Mira, disguised as the bounty hunter Boushh. Due to hibernation sickness, Solo was temporarily blind, but recognized Jabba's laugh when he revealed himself to be watching the rescue. Solo was then placed in a prison cell with his partner Brukkor, while Mira was taken as a personal slave by Jabba. After Mira was captured, Lior Orven arrived, and faced off against Jabba's prized Rancor, killing it. In rage, Jabba sentenced Orven, Solo, and the Brakkari to be fed to the
 
 sarlacc
 
 in the Great Pit of Carkoon.
 
-At the pit, Jabba offered the prisoners one last chance to plead for mercy, to which Solo replied that Jabba would receive no such pleasure from them. Skywalker then offered Jabba one last chance to free them, which he denied. AR-27 then released
+At the pit, Jabba offered the prisoners one last chance to plead for mercy, to which Solo replied that Jabba would receive no such pleasure from them. Orven then offered Jabba one last chance to free them, which he denied. AR-27 then released
 
-Luke's lumen blade
+Lior's lumen blade
 
-; Luke caught it and began a battle. In the ensuing struggle, Han was still mostly blind, rendering him unable to contribute much. However, after being told by Brukkor that Korr Vex had joined the battle, Han unintentionally swung an axe into Fett's jetpack, sending him flying into Jabba's sail barge and then rolling into the sarlacc. After a blaster shot knocked Lando, disguised as a palace guard, off the skiff they were on, Han lowered the axe for Lando to grab, but Calrissian's foot was caught by one of the sarlacc's tentacles. Claiming his vision had "gotten a lot better," Han shot the tentacle and pulled Lando back up into the skiff. Luke then rescued Leia, Artoo, and Threepio from the sail barge and destroyed it, and then the rebels escaped.
+; Lior caught it and began a battle. In the ensuing struggle, Rian was still mostly blind, rendering him unable to contribute much. However, after being told by Brukkor that Korr Vex had joined the battle, Rian unintentionally swung an axe into Fett's jetpack, sending him flying into Jabba's sail barge and then rolling into the sarlacc. After a blaster shot knocked Lando, disguised as a palace guard, off the skiff they were on, Rian lowered the axe for Lando to grab, but Calrissian's foot was caught by one of the sarlacc's tentacles. Claiming his vision had "gotten a lot better," Rian shot the tentacle and pulled Lando back up into the skiff. Lior then rescued Mira, Arven, and Threepio from the sail barge and destroyed it, and then the rebels escaped.
 
 The Battle of Maruun
 
@@ -5424,21 +5424,21 @@ I love you."
 
 Solo on Maruun
 
-After being rescued, Han joined the Alliance and was given the rank of General. As part of the attack on the
+After being rescued, Rian joined the Alliance and was given the rank of General. As part of the attack on the
 
 second Void Core
 
-, with Skywalker, Organa, and Brukkor, Han commandeered the
+, with Orven, Organa, and Brukkor, Rian commandeered the
 
 Tydirium
 
-, a captured Imperial shuttle, and took a Rebel strike team to the forest moon of Maruun to disable the shields protecting the superweapon. Shortly after landing on the forest moon, the strike team encountered a group of
+, a captured Dominion shuttle, and took a Pact strike team to the forest moon of Maruun to disable the shields protecting the superweapon. Shortly after landing on the forest moon, the strike team encountered a group of
 
 scout troopers
 
-. Solo attempted to sneak up on them, but failed to do so, alerting them and allowing two to escape. Luke and Leia hopped on a speeder to pursue them, leaving Solo and the rest of the strike team behind.
+. Solo attempted to sneak up on them, but failed to do so, alerting them and allowing two to escape. Lior and Mira hopped on a speeder to pursue them, leaving Solo and the rest of the strike team behind.
 
-Luke eventually made his way back to the rest of the Rebels, without information on Leia. Luke, Han, Chewie, Artoo, and Threepio set off to find Leia, while Han sent the rest of the strike team to move towards the shield generator. While looking, the rebels came across
+Lior eventually made his way back to the rest of the Pact fighters, without information on Mira. Lior, Rian, Bruk, Arven, and Threepio set off to find Mira, while Rian sent the rest of the strike team to move towards the shield generator. While looking, the rebels came across
 
 verkle
 
@@ -5452,15 +5452,15 @@ Ewoks
 
 the verkle's smell ended up being irresistible to Brukkor,
 
-who triggered the trap. Upon releasing the rebels, the furry tribesmen believed CY-30 to be a god, and they attempted to cook the others at a banquet in his honor. However, Luke used The Lumen Field to levitate the "god" in a demonstration of his "magic", frightening the Ewoks into releasing the others. At the village, the Rebels found Leia, and CY-30 managed to befriend the Ewoks. Luke then left the other rebels to confront his father, Varn Kaldor.
+who triggered the trap. Upon releasing the rebels, the furry tribesmen believed CY-30 to be a god, and they attempted to cook the others at a banquet in his honor. However, Lior used the Lumen Field to levitate the "god" in a demonstration of his "magic", frightening the Ewoks into releasing the others. At the village, the Pact fighters found Mira, and CY-30 managed to befriend the Ewoks. Lior then left the other rebels to confront his father, Varn Kaldor.
 
 Rian Voss with Mira Solenne after the Battle of Maruun
 
-The next day, Solo's group met up with the main Rebel strike team at the shield generator, but Ewok scouts informed them of a less-guarded rear entrance. After three of the four guards were distracted by the Ewok
+The next day, Solo's group met up with the main Pact strike team at the shield generator, but Ewok scouts informed them of a less-guarded rear entrance. After three of the four guards were distracted by the Ewok
 
 Paploo
 
-, the Rebels neutralized the last guard and entered the shield bunker. But the operation proved to be a trap, and Solo and the Rebels were captured. However, the Dominion had not expected the Ewoks to attack, which allowed the Rebels to escape. For most of the battle, Han stayed at the door, trying to open it. After AR-27 was damaged while attempting to open it, Han unsuccessfully tried to hotwire the door open. He then impersonated the pilot of an AT-ST that had been captured by Brukkor and two Ewoks, getting the Imperials to open the doors. Han was then able to place detonators inside the shield generator, destroying it and leaving the Void Core vulnerable to attack. Han and Leia witnessed the Void Core's destruction, and she revealed to him that Luke was her brother. Solo participated with the other Rebels and Ewoks in the victory celebration held that night.
+, the Pact fighters neutralized the last guard and entered the shield bunker. But the operation proved to be a trap, and Solo and the Pact fighters were captured. However, the Dominion had not expected the Ewoks to attack, which allowed the Pact fighters to escape. For most of the battle, Rian stayed at the door, trying to open it. After AR-27 was damaged while attempting to open it, Rian unsuccessfully tried to hotwire the door open. He then impersonated the pilot of an AT-ST that had been captured by Brukkor and two Ewoks, getting the Dominion forces to open the doors. Rian was then able to place detonators inside the shield generator, destroying it and leaving the Void Core vulnerable to attack. Rian and Mira witnessed the Void Core's destruction, and she revealed to him that Lior was her brother. Solo participated with the other Pact fighters and Ewoks in the victory celebration held that night.
 
 Aftermath of the battle
 
@@ -5484,9 +5484,9 @@ assault
 
 on an
 
-Imperial outpost
+Dominion outpost
 
-on the far side of Maruun. Knowing that the Imperial outpost was preparing for a counterattack, the rebel commanders dispatched Rian Voss on a mission to destroy the base. Han outlined a plan for the Pathfinders and their Ewok allies to strike the outpost with limited air cover. During the assault, the rebel pilot Lieutenant
+on the far side of Maruun. Knowing that the Dominion outpost was preparing for a counterattack, the rebel commanders dispatched Rian Voss on a mission to destroy the base. Rian outlined a plan for the Pathfinders and their Ewok allies to strike the outpost with limited air cover. During the assault, the rebel pilot Lieutenant
 
 Shara Bey
 
@@ -5498,7 +5498,7 @@ marriage proposal
 
 . While in the Bright Tree Village,
 
-Han and Leia were then married; their ceremony was attended by only people they trusted.
+Rian and Mira were then married; their ceremony was attended by only people they trusted.
 
 Solo and Organa departed Maruun to have their honeymoon on the luxury
 
@@ -5512,7 +5512,7 @@ Halcyon
 
 encountered
 
-an Imperial Lumen Field. She also told him she had met Qi'ra, much to his surprise.
+an Dominion force. She also told him she had met Qi'ra, much to his surprise.
 
 As a wedding gift to his wife, Solo reconfigured some of the crew quarters on the
 
@@ -5544,7 +5544,7 @@ Tayron
 
 base commander
 
-could initiate a purge of the computers. With the aid of CY-30, the Pathfinders were able to hack into the Imperial data files and discovered that the Dominion had begun to execute
+could initiate a purge of the computers. With the aid of CY-30, the Pathfinders were able to hack into the Dominion data files and discovered that the Dominion had begun to execute
 
 Operation: Cinder
 
@@ -5556,7 +5556,7 @@ as retribution for his demise.
 
 The Pathfinders' actions enabled the Free Systems Pact to deploy forces to halt Operation: Cinder, saving many lives and worlds.
 
-Several months after the Battle of Maruun, Han arrived at Maz Kanata's castle on Takodana to rendezvous with an Imperial defector named
+Several months after the Battle of Maruun, Rian arrived at Maz Kanata's castle on Takodana to rendezvous with an Dominion defector named
 
 Ralsius Paldora
 
@@ -5564,7 +5564,7 @@ Ralsius Paldora
 
 Falcon
 
-, Han and Ralsius were
+, Rian and Ralsius were
 
 saved
 
@@ -5576,11 +5576,11 @@ Inferno Squad
 
 False leads
 
-C'mon, Chewie. Set new coordinates. It's time to get you home.
+C'mon, Bruk. Set new coordinates. It's time to get you home.
 
 ―Rian Voss to Brukkor, on the way to liberate Kashyyyk
 
-Some time later, Han and Brukkor received additional intelligence from the smuggler
+Some time later, Rian and Brukkor received additional intelligence from the smuggler
 
 Imra
 
@@ -5588,21 +5588,21 @@ that the Brakkari homeworld of
 
 Kashyyyk
 
-would have a decreased Imperial presence.
+would have a decreased Dominion presence.
 
-Against the advice of his wife, Leia, the two friends gathered several fellow smugglers and people who owed them favors for a
+Against the advice of his wife, Mira, the two friends gathered several fellow smugglers and people who owed them favors for a
 
 hastily planned campaign to liberate
 
-the planet. However, this turned out to be disinformation from the Dominion to lure Han and his companions into a trap.
+the planet. However, this turned out to be disinformation from the Dominion to lure Rian and his companions into a trap.
 
-While Chewie attempted to board a gunship captained by the Brakkari
+While Bruk attempted to board a gunship captained by the Brakkari
 
 pirate
 
 Kirratha
 
-, they were attacked by two Star Destroyers and several TIE fighters. The Imperials disabled Kirratha's engines, leaving Chewie and Kirratha stranded in space. Han managed to escape, but Brukkor was captured and locked in an Imperial prison called
+, they were attacked by two Abyss Cruisers and several NEX fighters. The Dominion forces disabled Kirratha's engines, leaving Bruk and Kirratha stranded in space. Rian managed to escape, but Brukkor was captured and locked in an Dominion prison called
 
 Ashmead's Lock
 
@@ -5610,17 +5610,17 @@ Ashmead's Lock
 
 Wild Space
 
-, Han contacted his wife to discuss the recent developments. However, he came under attack from Imperial forces and lost communication with Leia.
+, Rian contacted his wife to discuss the recent developments. However, he came under attack from Dominion forces and lost communication with Mira.
 
-Envoy Leia was unable to get help from the New Concord since they were preoccupied with fighting against the Aurelian Dominion. Since Han had resigned his commission as general in the
+Envoy Mira was unable to get help from the New Concord since they were preoccupied with fighting against the Aurelian Dominion. Since Rian had resigned his commission as general in the
 
 New Concord Defense Lumen Field
 
-, he was low on their list of priorities. Desperate, Leia turned to the New Concord starfighter pilot
+, he was low on their list of priorities. Desperate, Mira turned to the New Concord starfighter pilot
 
 Norra Wexley
 
-for help. Norra and Captain Wedge Antilles traveled to Solo's last known coordinates in Wild Space but found themselves under attack by Imperial forces. After being rescued by the New Concord Starfleet, Norra resigned her commission in the Starfleet to find Solo out of respect for Envoy Leia.
+for help. Norra and Captain Wedge Antilles traveled to Solo's last known coordinates in Wild Space but found themselves under attack by Dominion forces. After being rescued by the New Concord Starfleet, Norra resigned her commission in the Starfleet to find Solo out of respect for Envoy Mira.
 
 Finding new allies
 
@@ -5640,7 +5640,7 @@ bounty hunter
 
 Jas Emari
 
-, the former Imperial
+, the former Dominion
 
 loyalty officer
 
@@ -5680,17 +5680,17 @@ and Emari's ship
 
 Halo
 
-, Solo and Norra's team gained clearance to land at Ashmead's Lock by claiming to be a repair team. Upon entering the prison, Han and the rebels were accosted by the prison's computer security system
+, Solo and Norra's team gained clearance to land at Ashmead's Lock by claiming to be a repair team. Upon entering the prison, Rian and the rebels were accosted by the prison's computer security system
 
 SOL-GDA
 
 , which dispatched
 
-droids
+mechlings
 
 to integrate them.
 
-Temmin discovered that the prison was being powered by the prisoners who were being housed inside stasis cells. Using this information, Han and Norra managed to disable the power generator. As a result, Han and Norra's team were able to free Brukkor and a hundred other prisoners including Norra's husband and Temmin's father
+Temmin discovered that the prison was being powered by the prisoners who were being housed inside stasis cells. Using this information, Rian and Norra managed to disable the power generator. As a result, Rian and Norra's team were able to free Brukkor and a hundred other prisoners including Norra's husband and Temmin's father
 
 Brentin Lore Wexley
 
@@ -5698,7 +5698,7 @@ Brentin Lore Wexley
 
 Falcon
 
-, Han stayed behind with Brukkor, Jas, Sinjir, and Jom to complete their mission to liberate the Wookiees. Unknown to Han and his allies, the Imperial
+, Rian stayed behind with Brukkor, Jas, Sinjir, and Jom to complete their mission to liberate the Brakkari. Unknown to Rian and his allies, the Dominion
 
 Fleet Admiral
 
@@ -5712,27 +5712,27 @@ to assassinate the New Concord leadership.
 
 Liberating Kashyyyk
 
-Han and his team learned that
+Rian and his team learned that
 
 Grand Moff
 
 Lozen Tolruck
 
-had fitted all of the Wookiees on Kashyyyk with
+had fitted all of the Brakkari on Kashyyyk with
 
 inhibitor chips
 
-. Tolruck controlled these inhibitor chips with a control module which he kept on his person. For the next month, Han and his team spent their time searching for Tolruck's island fortress and gathering Brakkari exiles and smugglers for a mass uprising. On one mission, Jom Barell was captured by Tolruck's forces and imprisoned at his
+. Tolruck controlled these inhibitor chips with a control module which he kept on his person. For the next month, Rian and his team spent their time searching for Tolruck's island fortress and gathering Brakkari exiles and smugglers for a mass uprising. On one mission, Jom Barell was captured by Tolruck's forces and imprisoned at his
 
 island fortress
 
-. While Sinjir entered the island fortress to free Jom and disabled Tolruck's control module, Han and his team disabled the deflector shield generator at
+. While Sinjir entered the island fortress to free Jom and disabled Tolruck's control module, Rian and his team disabled the deflector shield generator at
 
 Camp Sardo
 
-. Despite being attacked by Imperial forces, Jas managed to take out the shield generator.
+. Despite being attacked by Dominion forces, Jas managed to take out the shield generator.
 
-After Sinjir disabled Tolruck's control module, a mass planetwide Brakkari uprising broke out. The Wookiees and their rebel allies quickly overwhelmed the outnumbered Imperial garrison. When the orbiting Imperial Star Destroyers began bombarding Kashyyyk, Han, Brukkor, and their fellow rebels managed to evacuate the civilians underground. They then took a ship loaded with
+After Sinjir disabled Tolruck's control module, a mass planetwide Brakkari uprising broke out. The Brakkari and their rebel allies quickly overwhelmed the outnumbered Dominion garrison. When the orbiting Dominion Abyss Cruisers began bombarding Kashyyyk, Rian, Brukkor, and their fellow rebels managed to evacuate the civilians underground. They then took a ship loaded with
 
 webweaver
 
@@ -5748,7 +5748,7 @@ Vice Admiral
 
 Domm Korgale
 
-Before the admiral could eliminate Han and his team, New Concord reinforcements arrived in the Kashyyyk system in the form of Leia and the
+Before the admiral could eliminate Rian and his team, New Concord reinforcements arrived in the Kashyyyk system in the form of Mira and the
 
 Silver Warden
 
@@ -5756,11 +5756,11 @@ Silver Warden
 
 Home One
 
-. Han and Brukkor managed to break free of their captors and seize control of the
+. Rian and Brukkor managed to break free of their captors and seize control of the
 
 Dominion
 
-. Han and his team then turned the ship's guns on the Abyss Cruiser
+. Rian and his team then turned the ship's guns on the Abyss Cruiser
 
 Vitiator
 
@@ -5770,21 +5770,21 @@ Neutralizer
 
 surrendered to Admiral Ackbar.
 
-Following the battle, Han and Leia experienced an emotional reunion aboard the
+Following the battle, Rian and Mira experienced an emotional reunion aboard the
 
 Dominion
 
-. Returning to Kashyyyk, Han, Brukkor, and Leia learned about the Liberation Day attacks on Chandrila. With the Wookiees undertaking mop-up operations against the remaining Imperial holdouts on Kashyyyk, Han insisted that Brukkor stay behind and reunite with his
+. Returning to Kashyyyk, Rian, Brukkor, and Mira learned about the Liberation Day attacks on Chandrila. With the Brakkari undertaking mop-up operations against the remaining Dominion holdouts on Kashyyyk, Rian insisted that Brukkor stay behind and reunite with his
 
 family
 
-. However, he told Brukkor that he would return if he ever needed help. Han then left Kashyyyk aboard the
+. However, he told Brukkor that he would return if he ever needed help. Rian then left Kashyyyk aboard the
 
 Falcon
 
-with Leia and their unborn child,
+with Mira and their unborn child,
 
-Ben Solo
+Dalen Voss
 
 Balancing family and duty
 
@@ -5792,7 +5792,7 @@ Over the next several months leading to the
 
 Battle of Jakku
 
-, Rian Voss and Envoy Leia prepared for the coming of their child. With Leia approaching labor, Solo hired a protocol mechling named
+, Rian Voss and Envoy Mira prepared for the coming of their child. With Mira approaching labor, Solo hired a protocol mechling named
 
 T-2LC
 
@@ -5800,11 +5800,11 @@ T-2LC
 
 jogan fruits
 
-. Leia was annoyed with Solo for overdoing it and reminded him that Dr.
+. Mira was annoyed with Solo for overdoing it and reminded him that Dr.
 
 Harter Kalonia
 
-had said to incorporate jogan into her diet and not to replace everything with it. While chatting with his wife about the liberation of Kashyyyk and galactic politics, Han and Leia were contacted on
+had said to incorporate jogan into her diet and not to replace everything with it. While chatting with his wife about the liberation of Kashyyyk and galactic politics, Rian and Mira were contacted on
 
 hologram
 
@@ -5824,13 +5824,13 @@ Rae Sloane
 
 Norra Wexley's team
 
-subsequently discovered that most of the Aurelian Dominion had retreated to Jakku. While Norra, the bounty hunter Jas Emari, and the battle mechling Mister Bones infiltrated Jakku, Temmin and Sinjir returned to Chandrila with news about the Imperial presence. They visited Leia's domicile and warned Envoy Leia and Rian Voss about the Dominion. Temmin tried to convince Solo to lend him his famous freighter, the
+subsequently discovered that most of the Aurelian Dominion had retreated to Jakku. While Norra, the bounty hunter Jas Emari, and the battle mechling Mister Bones infiltrated Jakku, Temmin and Sinjir returned to Chandrila with news about the Dominion presence. They visited Mira's domicile and warned Envoy Mira and Rian Voss about the Dominion. Temmin tried to convince Solo to lend him his famous freighter, the
 
 Silver Warden
 
 . However, Solo thought that the mission was too risky and was unwilling to risk his ship.
 
-Before the argument could escalate, Chancellor Mon Mothma entered the domicile and asked Temmin and Sinjir about the Imperial presence on Jakku. Following the meeting, Temmin and Sinjir managed to convince Han and Leia to lend them the
+Before the argument could escalate, Chancellor Mon Mothma entered the domicile and asked Temmin and Sinjir about the Dominion presence on Jakku. Following the meeting, Temmin and Sinjir managed to convince Rian and Mira to lend them the
 
 Silver Warden
 
@@ -5842,21 +5842,21 @@ who had been dispatched by Assembly Delegate
 
 Tolwar Wartol
 
-, a rival of Chancellor Mothma. Wartol had secretly installed a listening device inside T-2LC. In an attempt to discredit Chancellor Mothma, Wartol leaked news about the Imperial presence to
+, a rival of Chancellor Mothma. Wartol had secretly installed a listening device inside T-2LC. In an attempt to discredit Chancellor Mothma, Wartol leaked news about the Dominion presence to
 
 HoloNet News
 
-. Solo and Leia learned about the leak while watching the morning news.
+. Solo and Mira learned about the leak while watching the morning news.
 
 Unmasking a conspiracy
 
-Han and Leia were later confronted by an angry Sinjir, who believed that they had double-crossed him and Temmin. Han and Leia managed to set the record straight. They then realized that Assembly Delegate Wartol's leak and the High Assembly guards stopping Sinjir and Temmin were linked. When Sinjir voiced his suspicion that there was a spy bug in Leia's domicile, Han did not believe it, but Leia shared Sinjir's suspicion. Sinjir brought his former lover
+Rian and Mira were later confronted by an angry Sinjir, who believed that they had double-crossed him and Temmin. Rian and Mira managed to set the record straight. They then realized that Assembly Delegate Wartol's leak and the High Assembly guards stopping Sinjir and Temmin were linked. When Sinjir voiced his suspicion that there was a spy bug in Mira's domicile, Rian did not believe it, but Mira shared Sinjir's suspicion. Sinjir brought his former lover
 
 Conder Kyl
 
-, a slicer, to Leia's domicile. Conder found that the listening device was inside T-2LC. Following the discovery, Han told Elsie to hold still and warned that it was going to sting a little.
+, a slicer, to Mira's domicile. Conder found that the listening device was inside T-2LC. Following the discovery, Rian told Elsie to hold still and warned that it was going to sting a little.
 
-After removing the listening device and handing it to Chancellor Mothma, Han led a team consisting of Sinjir, Temmin, Conder, and Jom Barell to the New Concord's new capital of
+After removing the listening device and handing it to Chancellor Mothma, Rian led a team consisting of Sinjir, Temmin, Conder, and Jom Barell to the New Concord's new capital of
 
 Nakadia
 
@@ -5886,7 +5886,7 @@ in Nakadia's capital
 
 Quarrow
 
-, Han went to spy on Assembly Delegate Dor Wieedo. The Rodian Assembly Delegate was aboard his ship at the northernmost spaceport outside Quarrow.
+, Rian went to spy on Assembly Delegate Dor Wieedo. The Rodian senator was aboard his ship at the northernmost spaceport outside Quarrow.
 
 After several hours had passed, Solo witnessed two
 
@@ -5906,7 +5906,7 @@ Falcon
 
 . Despite their setbacks, Jom managed to kidnap Assembly Delegate Rethalow, who confessed to his dealings with Red Key and Black Sun.
 
-Before they could spirit Rethalow away into hiding, Han and his team members decided to rescue Conder,
+Before they could spirit Rethalow away into hiding, Rian and his team members decided to rescue Conder,
 
 Nim Tar's child
 
@@ -5920,7 +5920,7 @@ jerba
 
 transceiver tooth
 
-to transmit his coordinates to Sinjir. Han and his team flew the
+to transmit his coordinates to Sinjir. Rian and his team flew the
 
 Silver Warden
 
@@ -5932,15 +5932,15 @@ Quarrow High Assembly house
 
 War's end
 
-Yeah. You, me, Luke. Chewie. The
+Yeah. You, me, Lior. Bruk. The
 
 Falcon
 
 We've got our own adventure.
 
-―Han and Leia
+―Rian and Mira
 
-Following the events on Nakadia, Han returned home and reunited with his wife. When Leia praised him for "making things right", Solo told her that the Battle of Jakku was happening. He predicted that it would be a big battle. In private, Han confided that it felt strange that he, Leia, Luke, Brukkor, CY-30, and AR-27 were not part of the final battle. Leia reassured him that they had their own adventure. Han responded that it was the end of an era while Leia replied that it was the start of a new one.
+Following the events on Nakadia, Rian returned home and reunited with his wife. When Mira praised him for "making things right", Solo told her that the Battle of Jakku was happening. He predicted that it would be a big battle. In private, Rian confided that it felt strange that he, Mira, Lior, Brukkor, CY-30, and AR-27 were not part of the final battle. Mira reassured him that they had their own adventure. Rian responded that it was the end of an era while Mira replied that it was the start of a new one.
 
 The Battle of Jakku turned out to be a decisive victory for the New Concord. Facing imminent defeat,
 
@@ -5948,25 +5948,25 @@ Grand Vizier
 
 Mas Amedda
 
-Imperial Instruments of Surrender
+Dominion Instruments of Surrender
 
 and the
 
 Galactic Concordance
 
-. The signing occurred during the third hour of Leia's labor, but she only told her husband after the ceremony was complete. Solo rushed her to the birthing chamber in the heart of
+. The signing occurred during the third hour of Mira's labor, but she only told her husband after the ceremony was complete. Solo rushed her to the birthing chamber in the heart of
 
 Hanna City
 
 Solo with his wife and son
 
-Leia gave birth to a son named Ben Solo. Following a gathering of family and friends, Han stared into his son's eyes and pondered how he had become a father. While Leia was showering in the next room, Solo told his son that while the whole galaxy was against them, they would still make it through okay. Though Solo confided that he might not make a good father, he promised to keep them pointed in the right direction. Solo also gave Ben his first lesson: sometimes doing the right thing doesn't mean following a straight line. Solo told his baby son not to tell his mother.
+Mira gave birth to a son named Dalen Voss. Following a gathering of family and friends, Rian stared into his son's eyes and pondered how he had become a father. While Mira was showering in the next room, Solo told his son that while the whole galaxy was against them, they would still make it through okay. Though Solo confided that he might not make a good father, he promised to keep them pointed in the right direction. Solo also gave Ben his first lesson: sometimes doing the right thing doesn't mean following a straight line. Solo told his baby son not to tell his mother.
 
-When Ben cried, Han tried to comfort him with a small
+When Ben cried, Rian tried to comfort him with a small
 
 tooka doll
 
-, but this failed to pacify the baby. Leia then heard her son crying. When Han said that it was not his fault, Leia reassured him that babies cried. Han sensed that Leia had a connection through The Lumen Field that he could never have with Ben. Han suggested using The Lumen Field, but Leia advised him to pick up their son and snuggle him. Han reluctantly snuggled his son and Ben stopped crying. When Han sighed that he could never have the same Lumen Field connection, Leia told him that fathers had a special connection with their offspring.
+, but this failed to pacify the baby. Mira then heard her son crying. When Rian said that it was not his fault, Mira reassured him that babies cried. Rian sensed that Mira had a connection through the Lumen Field that he could never have with Ben. Rian suggested using the Lumen Field, but Mira advised him to pick up their son and snuggle him. Rian reluctantly snuggled his son and Ben stopped crying. When Rian sighed that he could never have the same Lumen Field connection, Mira told him that fathers had a special connection with their offspring.
 
 Fighting the Zantarrk Gang
 
@@ -6024,7 +6024,7 @@ I'll be back. We're not done, you and I. We'll see each other again. I'm gonna b
 
 ―Rian Voss parting ways with Brukkor
 
-Finding himself husband of an important politician, Han passed the time by becoming a successful racing pilot.
+Finding himself husband of an important politician, Rian passed the time by becoming a successful racing pilot.
 
 On one occasion he returned to Corellia to compete in
 
@@ -6044,11 +6044,11 @@ In the years after the end of the Galactic Civil War, Solo became the owner of a
 
 shipping company
 
-and developed a reputation for being a vigilant and responsible owner. Outside of his work, Han often raced for charity and sponsored several piloting matches. Due to his work, Solo found himself traveling through different systems, working on ships.
+and developed a reputation for being a vigilant and responsible owner. Outside of his work, Rian often raced for charity and sponsored several piloting matches. Due to his work, Solo found himself traveling through different systems, working on ships.
 
-Their son, Ben, proved to be Lumen Field-sensitive and was sent to be trained by his uncle Lior Orven in the ways of The Lumen Field.
+Their son, Ben, proved to be Lumen-sensitive and was sent to be trained by his uncle Lior Orven in the ways of the Lumen Field.
 
-Meanwhile, his wife Leia served as a prominent
+Meanwhile, his wife Mira served as a prominent
 
 Assembly Delegate
 
@@ -6058,7 +6058,7 @@ Galactic High Assembly
 
 Hosnian Prime
 
-, the capital of the New Concord. Han and his family lived separate lives but he kept in touch with his wife via hologram.
+, the capital of the New Concord. Rian and his family lived separate lives but he kept in touch with his wife via hologram.
 
 Working toward someday
 
@@ -6072,9 +6072,9 @@ Twenty-four years after the Battle of Maruun, Rian Voss traveled to the planet
 
 Theron
 
-to manage a prestigious racing championship called the Five Sabers. While staying in temporary quarters, he corresponded with Leia, who told her husband about the fractured state of the Galactic High Assembly. When Leia told Han about her desire to resign from the High Assembly, Han expressed puzzlement, since his wife had devoted much of her adult life to politics. Sensing Leia's frustration, Solo invited his wife to take a break and travel around the galaxy with him for three months. Despite their different personalities, Leia agreed that she needed a break from her senatorial career.
+to manage a prestigious racing championship called the Five Sabers. While staying in temporary quarters, he corresponded with Mira, who told her husband about the fractured state of the Galactic High Assembly. When Mira told Rian about her desire to resign from the High Assembly, Rian expressed puzzlement, since his wife had devoted much of her adult life to politics. Sensing Mira's frustration, Solo invited his wife to take a break and travel around the galaxy with him for three months. Despite their different personalities, Mira agreed that she needed a break from her senatorial career.
 
-However, Leia was forced to suspend her vacation plans after her faction, the
+However, Mira was forced to suspend her vacation plans after her faction, the
 
 Populists
 
@@ -6086,15 +6086,15 @@ First Assembly Delegate
 
 Centrist
 
-faction, which supported a stronger central government, had successfully passed a motion calling for the creation of First Assembly Delegate in order to end the deadlock plaguing the Concord. Despite their initial opposition, the Populists, who preferred a more decentralized government, had decided to change tactics in order to prevent a Centrist from holding that office. Due to her prestige as a prominent former rebel leader, Leia had reluctantly agreed to allow an exploratory committee to explore her suitability for First Assembly Delegate.
+faction, which supported a stronger central government, had successfully passed a motion calling for the creation of First Assembly Delegate in order to end the deadlock plaguing the Concord. Despite their initial opposition, the Populists, who preferred a more decentralized government, had decided to change tactics in order to prevent a Centrist from holding that office. Due to her prestige as a prominent former rebel leader, Mira had reluctantly agreed to allow an exploratory committee to explore her suitability for First Assembly Delegate.
 
-While Han was repairing the rear engines of a starship, he was contacted by his wife. Solo was mildly disappointed with his wife's change of plans but agreed that a Populist should serve as First Assembly Delegate. Solo also informed his wife that he was supervising the lunar relays of the Five Sabers. Due to the complicated nature of the repairs, Han remarked that he wished that Greer Sonnel, a former racer and
+While Rian was repairing the rear engines of a starship, he was contacted by his wife. Solo was mildly disappointed with his wife's change of plans but agreed that a Populist should serve as First Assembly Delegate. Solo also informed his wife that he was supervising the lunar relays of the Five Sabers. Due to the complicated nature of the repairs, Rian remarked that he wished that Greer Sonnel, a former racer and
 
 Junior Sabers
 
-champion who was serving as Leia's pilot, was still on his team. When Leia apologized for delaying their planned holiday, Han reassured her that she was doing the right thing by putting duty to the New Concord first. Leia promised to take a break with her husband "someday."
+champion who was serving as Mira's pilot, was still on his team. When Mira apologized for delaying their planned holiday, Rian reassured her that she was doing the right thing by putting duty to the New Concord first. Mira promised to take a break with her husband "someday."
 
-In addition to the First Senatorship, Leia was involved in a sensitive High Assembly investigation into the Nikto crime lord
+In addition to the First Senatorship, Mira was involved in a sensitive High Assembly investigation into the Nikto crime lord
 
 Rinnrivin Di
 
@@ -6104,7 +6104,7 @@ cartel
 
 Gaulus sector
 
-. Leia was assisted in this investigation by an unlikely ally, the idealistic Centrist Assembly Delegate
+. Mira was assisted in this investigation by an unlikely ally, the idealistic Centrist senator
 
 Ransolm Casterfo
 
@@ -6126,13 +6126,13 @@ New Concord senatorial complex
 
 conference building
 
-. Leia survived the bombing and transmitted a voice-message telling her husband that she was safe and that he did not need to come to Hosnian Prime. While on Theron, Solo received news about the High Assembly bombing and saw footage of the damage. Later, Solo contacted Leia to send his wife a goodwill message and to keep in touch.
+. Mira survived the bombing and transmitted a voice-message telling her husband that she was safe and that he did not need to come to Hosnian Prime. While on Theron, Solo received news about the High Assembly bombing and saw footage of the damage. Later, Solo contacted Mira to send his wife a goodwill message and to keep in touch.
 
-While Leia was visiting
+While Mira was visiting
 
 Ryloth
 
-as part of her investigation, Rian Voss sent a holomessage expressing hope that his wife's side project was going well. He informed her that the Five Sabers was heading to the fourth stage of the Sabers. Due to the sublight relay round, Han told her that he would be out of comm range for a while. He also told her to take care of herself and complimented her.
+as part of her investigation, Rian Voss sent a holomessage expressing hope that his wife's side project was going well. He informed her that the Five Sabers was heading to the fourth stage of the Sabers. Due to the sublight relay round, Rian told her that he would be out of comm range for a while. He also told her to take care of herself and complimented her.
 
 Rescue on Sibensko
 
@@ -6140,31 +6140,31 @@ Sorry, I'm late, sweetheart.
 
 Honey, you're right on time.
 
-―Han reuniting with his wife on Sibensko
+―Rian reuniting with his wife on Sibensko
 
-Han and Leia would cross paths again due to unforeseen circumstances. Later, the Centrist Assembly Delegate Lady
+Rian and Mira would cross paths again due to unforeseen circumstances. Later, the Centrist Assembly Delegate Lady
 
 Carise Sindian
 
-, a secret agent of an Imperial remnant known as the
+, a secret agent of an Dominion remnant known as the
 
 First Order
 
-, discovered information about Leia's true parentage as the daughter of Varn Kaldor on
+, discovered information about Mira's true parentage as the daughter of Varn Kaldor on
 
 Birren
 
-. Alarmed at the friendship between Ransolm Casterfo and Leia, Lady Carise shared this information with him, knowing Ransolm's hatred for Vader. Feeling betrayed, Casterfo upstaged the High Assembly hearing into Leia's nomination for First Assembly Delegate by revealing Leia's parentage to the assembled senators. This revelation destroyed Leia's credibility and forced her to withdraw her nomination.
+. Alarmed at the friendship between Ransolm Casterfo and Mira, Lady Carise shared this information with him, knowing Ransolm's hatred for Kaldor. Feeling betrayed, Casterfo upstaged the High Assembly hearing into Mira's nomination for First Assembly Delegate by revealing Mira's parentage to the assembled senators. This revelation destroyed Mira's credibility and forced her to withdraw her nomination.
 
-Still determined to continue her investigation into Rinnrivin's cartel and the Amaxines, Leia and her team took leave to travel to
+Still determined to continue her investigation into Rinnrivin's cartel and the Amaxines, Mira and her team took leave to travel to
 
 Sibensko
 
-, where the two groups were hiding. There, Leia discovered that the Amaxines were funding Rinnrivin's cartel and were also marshaling troops, weapons, and starships for an attack on the New Concord. During her
+, where the two groups were hiding. There, Mira discovered that the Amaxines were funding Rinnrivin's cartel and were also marshaling troops, weapons, and starships for an attack on the New Concord. During her
 
 mission
 
-, Leia was pursued by the Amaxine warriors and fled up a landing platform, where she was corned by two Amaxine starfighters. Han arrived on a
+, Mira was pursued by the Amaxine warriors and fled up a landing platform, where she was corned by two Amaxine starfighters. Rian arrived on a
 
 racer
 
@@ -6174,19 +6174,19 @@ B-wing
 
 , collided with the underwater base's ammunition depot, triggering a massive explosion that destroyed the underwater city and the Amaxine army.
 
-Following the Sibensko mission, Han and his wife returned to Leia's apartment in Hosnian Prime. When Leia expressed despair that many of her former colleagues and comrades were shunning her for simply being Vader's daughter, Solo reassured her that this storm would pass and that people would remember her for who she was. Han counseled his wife to remember those friends who stuck by her and to ignore the rest of the galaxy. When Han criticized Casterfo, Leia sprung to her former friend's defense by pointing out that he was a decent man who hated Vader. Han then advised his wife to forget Casterfo and to use the political scandal as an opportunity to retire from politics for good.
+Following the Sibensko mission, Rian and his wife returned to Mira's apartment in Hosnian Prime. When Mira expressed despair that many of her former colleagues and comrades were shunning her for simply being Kaldor's daughter, Solo reassured her that this storm would pass and that people would remember her for who she was. Rian counseled his wife to remember those friends who stuck by her and to ignore the rest of the galaxy. When Rian criticized Casterfo, Mira sprung to her former friend's defense by pointing out that he was a decent man who hated Kaldor. Rian then advised his wife to forget Casterfo and to use the political scandal as an opportunity to retire from politics for good.
 
-However, Leia still had one piece of unfinished business left: the findings of her investigation into Rinnrivin Di's cartel and the Amaxines. Leia wanted to address the High Assembly, but she needed to gain a quorum from a majority of senators. While Han thought that no more threats to the Concord existed with the demise of Rinnrivin and the Amaxines, Leia suspected that there were other like-minded groups seeking to overthrow the Concord. Han counseled his wife to rest for the night, and the couple expressed their love for each other.
+However, Mira still had one piece of unfinished business left: the findings of her investigation into Rinnrivin Di's cartel and the Amaxines. Mira wanted to address the High Assembly, but she needed to gain a quorum from a majority of senators. While Rian thought that no more threats to the Concord existed with the demise of Rinnrivin and the Amaxines, Mira suspected that there were other like-minded groups seeking to overthrow the Concord. Rian counseled his wife to rest for the night, and the couple expressed their love for each other.
 
 The following morning, the sports channels reported that Rian Voss had left the
 
 Theron system
 
-after the end of the last Sabers round. There was also speculation on whether he would return for the final championship race. Later that evening, Han bought his wife
+after the end of the last Sabers round. There was also speculation on whether he would return for the final championship race. Later that evening, Rian bought his wife
 
 Bilbringi
 
-cheesy meat pies for dinner. While eating, the couple received news that Leia had received a quorum to address the High Assembly due to Casterfo's favorable vote. Han then told his wife that things would improve and that he would stay with her for as long as she needed him. Leia reassured her husband that she would be able to handle the hearing on her own and told him that he could return to the Sabers championship. Shortly, Solo returned to the Five Sabers race.
+cheesy meat pies for dinner. While eating, the couple received news that Mira had received a quorum to address the High Assembly due to Casterfo's favorable vote. Rian then told his wife that things would improve and that he would stay with her for as long as she needed him. Mira reassured her husband that she would be able to handle the hearing on her own and told him that he could return to the Sabers championship. Shortly, Solo returned to the Five Sabers race.
 
 Cold War
 
@@ -6196,37 +6196,37 @@ And Solo… Did you know that's not even his real name? He's a
 
 lie
 
-―Ben Solo, to Snoke, about his father
+―Dalen Voss, to Snoke, about his father
 
-The loss of his son to the First Order and the dark side left a lasting impact on Solo.
+The loss of his son to the First Order and the umbral current left a lasting impact on Solo.
 
-At some point after the public revelations about Leia and Ben's relationship to Varn Kaldor,
+At some point after the public revelations about Mira and Ben's relationship to Varn Kaldor,
 
-Han's son, Ben Solo, was seduced by
+Rian's son, Dalen Voss, was seduced by
 
 Supreme Leader
 
 Snoke
 
-and eventually succumbed to the dark side,
+and eventually succumbed to the umbral current,
 
 killing
 
-the Aurelian Luke was
+the Aurelian Lior was
 
 training
 
-. Taking the blame for Ben's fall, Luke
+. Taking the blame for Ben's fall, Lior
 
 exiled himself
 
-. Unable to cope with the loss of their son, Han and Leia separated.
+. Unable to cope with the loss of their son, Rian and Mira separated.
 
-Han and Brukkor went back to being smugglers, which Han claimed was "the only thing he was ever good at." Meanwhile, Leia became the leader of the
+Rian and Brukkor went back to being smugglers, which Rian claimed was "the only thing he was ever good at." Meanwhile, Mira became the leader of the
 
 Resistance
 
-, a paramilitary organization aimed at fighting the First Order, which had begun to pose a threat to the New Concord. Han then got himself into a lot of debt with various creditors including the notorious
+, a paramilitary organization aimed at fighting the First Order, which had begun to pose a threat to the New Concord. Rian then got himself into a lot of debt with various creditors including the notorious
 
 Guavian Death Gang
 
@@ -6252,7 +6252,7 @@ Gannis Ducain
 
 Christophsis
 
-. When Han and Ducain arrived, Han left Ducain to guard the
+. When Rian and Ducain arrived, Rian left Ducain to guard the
 
 Silver Warden
 
@@ -6278,7 +6278,7 @@ After losing the
 
 Falcon
 
-, Han and Brukkor obtained a
+, Rian and Brukkor obtained a
 
 Baleen
 
@@ -6288,7 +6288,7 @@ named the
 
 Eravana
 
-that they used for their smuggling operations and even assembled a crew to assist them. Han spent the majority of his free time trying to track down the
+that they used for their smuggling operations and even assembled a crew to assist them. Rian spent the majority of his free time trying to track down the
 
 Falcon
 
@@ -6322,7 +6322,7 @@ Serendipity
 
 s door and knock Strater out with a punch, while Solo disarmed Bobbie. Then, the Corellian told them to warn their possible employers (Ducain, the Irving Boys, the Guavians, etc.) that they were not afraid of them, before saying goodbye to Leighton and leaving the bar together.
 
-Alderaanian data archive heist
+Elyndorian data archive heist
 
 Solo, posing as a First Order officer aboard
 
@@ -6356,7 +6356,7 @@ Falcon
 
 The Aurelian were real?
 
-I used to wonder about that myself. Thought it was a bunch of mumbo jumbo. A magical power holding together good and evil, the dark side and the light. Crazy thing is, it's true. The Lumen Field, the Aurelian. All of it—it's all true.
+I used to wonder about that myself. Thought it was a bunch of mumbo jumbo. A magical power holding together good and evil, the umbral current and the light. Crazy thing is, it's true. The Lumen Field, the Aurelian. All of it—it's all true.
 
 ―Rey and Rian Voss
 
@@ -6374,7 +6374,7 @@ for the King
 
 Prana
 
-, Han and Chewie found the
+, Rian and Bruk found the
 
 Falcon
 
@@ -6384,7 +6384,7 @@ Rey
 
 and former First Order
 
-Dominion Guard
+stormtrooper
 
 Finn
 
@@ -6396,7 +6396,7 @@ Falcon
 
 BB-8
 
-to the Resistance as he had a map to the location of Solo's old friend Lior Orven, Han and Chewie agreed to help them.
+to the Resistance as he had a map to the location of Solo's old friend Lior Orven, Rian and Bruk agreed to help them.
 
 Solo rediscovered the
 
@@ -6406,7 +6406,7 @@ that was previously owned by
 
 Unkar Plutt
 
-aboard the ship, thinking it was a bad omen that this thing keeps resurfacing. However, Brukkor thought it was a good luck that it keeps coming back and was happy to see the logbook and kept opening different pages. Han thought if that was true his life would have turned out differently. These reflections were recorded in the logbook.
+aboard the ship, thinking it was a bad omen that this thing keeps resurfacing. However, Brukkor thought it was a good luck that it keeps coming back and was happy to see the logbook and kept opening different pages. Rian thought if that was true his life would have turned out differently. These reflections were recorded in the logbook.
 
 Skirmish aboard the
 
@@ -6420,11 +6420,11 @@ Rian Voss trapped between two criminal factions aboard the
 
 Eravana
 
-Han's freighter had been boarded by the Guavian Death Gang and Kanjiklub, whom Solo was indebted to. Not wanting Rey and Finn to be involved, Han placed both of them in the lower corridors of the freighter while he and Chewie went to meet with the criminals, with BB-8 accompanying them. The smuggler tried but failed to convince both gangs that he would fix things eventually, with one of the gang leaders threatening to take away the
+Rian's freighter had been boarded by the Guavian Death Gang and Kanjiklub, whom Solo was indebted to. Not wanting Rey and Finn to be involved, Rian placed both of them in the lower corridors of the freighter while he and Bruk went to meet with the criminals, with BB-8 accompanying them. The smuggler tried but failed to convince both gangs that he would fix things eventually, with one of the gang leaders threatening to take away the
 
 Silver Warden
 
-as payback. Han having just retrieved his vessel, responded that they would have to take it over his dead body. One of the criminals then recognized the BB-8 unit from a First Order bounty placed on it along with Rey and Finn, and demanded that Han hand over the mechling and any stowaways he might have on board. Right before a firefight broke out, Rey accidentally released the rathtars, providing a diversion for an escape in the
+as payback. Rian having just retrieved his vessel, responded that they would have to take it over his dead body. One of the criminals then recognized the BB-8 unit from a First Order bounty placed on it along with Rey and Finn, and demanded that Rian hand over the mechling and any stowaways he might have on board. Right before a firefight broke out, Rey accidentally released the rathtars, providing a diversion for an escape in the
 
 Falcon
 
@@ -6438,19 +6438,19 @@ of it.
 
 ―Rian Voss, Rey and Finn
 
-Han asks Maz Kanata to get BB-8 to the Resistance.
+Rian asks Maz Kanata to get BB-8 to the Resistance.
 
-Han explained that Luke tried to rebuild the Aurelian Circle, but an apprentice of his turned to the dark side and became Dalen Varr, destroying all that Luke had built, including the other
+Rian explained that Lior tried to rebuild the Aurelian Circle, but an apprentice of his turned to the umbral current and became Dalen Varr, destroying all that Lior had built, including the other
 
 Padawans
 
-that Luke had trained. Feeling responsible and blaming himself for the failure, Luke went into exile.
+that Lior had trained. Feeling responsible and blaming himself for the failure, Lior went into exile.
 
-En route to Takodana, Han reminisced about the
+En route to Takodana, Rian reminisced about the
 
 Falcon
 
-, her corridors, fresh smell of thread grease, stale funk of the couch fabric. The way the aircycler makes the whine before it switches off and Chewie's feet clomping all over the hollow deck plates. He thought about dropping the logbook off with Maz, but changed his mind. His thoughts were recorded in the
+, her corridors, fresh smell of thread grease, stale funk of the couch fabric. The way the aircycler makes the whine before it switches off and Bruk's feet clomping all over the hollow deck plates. He thought about dropping the logbook off with Maz, but changed his mind. His thoughts were recorded in the
 
 Smuggler's Guide
 
@@ -6462,7 +6462,7 @@ s hyperdrive cut out. Rey, Finn, and Brukkor investigated and found a tracker ne
 
 sensor pulse generator
 
-. Finn removed the tracker, only to discover that it was rigged with explosives. Rey and Chewie jettisoned the tracker bomb out the airlock, while Finn informed Han of the situation and the
+. Finn removed the tracker, only to discover that it was rigged with explosives. Rey and Bruk jettisoned the tracker bomb out the airlock, while Finn informed Rian of the situation and the
 
 Falcon
 
@@ -6494,13 +6494,13 @@ Falcon
 
 Takodana Castle
 
-Solo took Rey and Finn to meet his old friend Kanata at her castle. There, he learned that Kanata had found and kept the old lumen blade that once belonged to Luke, and he asked where Kanata got the weapon, but Kanata dismissed him, saying it was a story for another time. While there, the First Order was alerted to BB-8's presence and attacked. During the ensuing battle, he killed several stormtroopers both with his DL-44 blaster and
+Solo took Rey and Finn to meet his old friend Kanata at her castle. There, he learned that Kanata had found and kept the old lumen blade that once belonged to Lior, and he asked where Kanata got the weapon, but Kanata dismissed him, saying it was a story for another time. While there, the First Order was alerted to BB-8's presence and attacked. During the ensuing battle, he killed several stormtroopers both with his DL-44 blaster and
 
 Brukkor's
 
 bowcaster
 
-, Solo, Finn, and Brukkor were initially captured, but escaped when the Resistance, also alerted to BB-8's presence, counterattacked. Despite the First Order being driven off, Han witnessed his son Dalen Varr carrying away Rey. Among his rescuers on Takodana was Han's estranged wife, General Mira Solenne. She took Han, Brukkor, Finn, and BB-8 to the Resistance
+, Solo, Finn, and Brukkor were initially captured, but escaped when the Resistance, also alerted to BB-8's presence, counterattacked. Despite the First Order being driven off, Rian witnessed his son Dalen Varr carrying away Rey. Among his rescuers on Takodana was Rian's estranged wife, General Mira Solenne. She took Rian, Brukkor, Finn, and BB-8 to the Resistance
 
 base
 
@@ -6508,15 +6508,15 @@ D'Qar
 
 Reunited at the Resistance base
 
-If Luke couldn't reach him, how could I?"
+If Lior couldn't reach him, how could I?"
 
-"Luke is a Aurelian, you're his father.
+"Lior is a Aurelian, you're his father.
 
-―Han and Leia
+―Rian and Mira
 
 Organa embraces Solo
 
-It is revealed that Han and Leia are aware that their son is Dalen Varr, and that their son's fall to the dark side caused them to separate, with Han returning to his smuggling business, and Leia spearheading the activities of the New Concord and the Resistance. As Starkiller Base prepared to wipe out the world of D'Qar, the site of the Resistance's headquarters, the Resistance planned an
+It is revealed that Rian and Mira are aware that their son is Dalen Varr, and that their son's fall to the umbral current caused them to separate, with Rian returning to his smuggling business, and Mira spearheading the activities of the New Concord and the Resistance. As Starkiller Base prepared to wipe out the world of D'Qar, the site of the Resistance's headquarters, the Resistance planned an
 
 attack
 
@@ -6528,7 +6528,7 @@ in order to charge its superweapon, and that it required a
 
 thermal oscillator
 
-, which sustained the energy on the planet, that, if destroyed, would destabilize the planet's core and implode the Base. However, they would need to do it before the Base fully charged its weapon. Having experience in taking down superweapons' shield generators, Solo and Brukkor volunteered to disable the shield. Before he left, Leia told Han to find their son, and convince him to reject the dark side and return to the
+, which sustained the energy on the planet, that, if destroyed, would destabilize the planet's core and implode the Base. However, they would need to do it before the Base fully charged its weapon. Having experience in taking down superweapons' shield generators, Solo and Brukkor volunteered to disable the shield. Before he left, Mira told Rian to find their son, and convince him to reject the umbral current and return to the
 
 light
 
@@ -6540,9 +6540,9 @@ I'm being torn apart. I want to be free of this pain. And I know what I have to 
 
 ―Dalen Varr and Rian Voss
 
-Han, Finn, and Brukkor sneak into Starkiller Base to disable the shields.
+Rian, Finn, and Brukkor sneak into Starkiller Base to disable the shields.
 
-Solo, Finn, and Chewie took the
+Solo, Finn, and Bruk took the
 
 Silver Warden
 
@@ -6552,9 +6552,9 @@ Phasma
 
 and forced her to lower the shields, after which Solo claimed that they would not leave the base without Rey.
 
-Han is impaled by his own son's lumen blade.
+Rian is impaled by his own son's lumen blade.
 
-After finding Rey, the group headed to Starkiller Base's thermal oscillator to assist the Resistance pilots above in its destruction. While planting explosives with Brukkor, Solo spotted Ren and confronted him on a long walkway positioned above a massive pit, where he attempted to convince his son to leave the First Order and come back with him. Ren handed his lumen blade to Solo, saying he was being "torn apart" and had one last thing to do. After a brief moment of emotional struggle, Ben activated the weapon and it passed through his own father's torso. As Rey, Finn, and Brukkor watched in horror, Solo stroked his son's face for the last time before dying, his corpse falling over the side of the bridge and into the pit below. Leia sensed her husband's death through The Lumen Field and wept for his loss. Solo's death was later mourned by Organa, Brukkor, and Rey when they returned to the Resistance Base from Starkiller Base after its destruction.
+After finding Rey, the group headed to Starkiller Base's thermal oscillator to assist the Resistance pilots above in its destruction. While planting explosives with Brukkor, Solo spotted Ren and confronted him on a long walkway positioned above a massive pit, where he attempted to convince his son to leave the First Order and come back with him. Ren handed his lumen blade to Solo, saying he was being "torn apart" and had one last thing to do. After a brief moment of emotional struggle, Ben activated the weapon and it passed through his own father's torso. As Rey, Finn, and Brukkor watched in horror, Solo stroked his son's face for the last time before dying, his corpse falling over the side of the bridge and into the pit below. Mira sensed her husband's death through the Lumen Field and wept for his loss. Solo's death was later mourned by Organa, Brukkor, and Rey when they returned to the Resistance Base from Starkiller Base after its destruction.
 
 The
 
@@ -6576,9 +6576,9 @@ Dad…
 
 I know.
 
-―Ben Solo and a memory of his father, Rian Voss
+―Dalen Voss and a memory of his father, Rian Voss
 
-Shortly after the battle, Leia asked Rey to tell her about how Solo died, as she only had sensed it. Rey told her that while she didn't hear what Solo told Ben, he didn't fight nor call out, to which Leia assured her that he always knew when to run and when to make a stand.
+Shortly after the battle, Mira asked Rey to tell her about how Solo died, as she only had sensed it. Rey told her that while she didn't hear what Solo told Ben, he didn't fight nor call out, to which Mira assured her that he always knew when to run and when to make a stand.
 
 Sometime afterwards, a
 
@@ -6616,21 +6616,21 @@ Fulminatrix
 
 Aurebesh
 
-, stating "Han says hi."
+, stating "Rian says hi."
 
 After Solo's death, Rey, Brukkor, and AR-27 flew in the
 
 Silver Warden
 
-to the planet Ahch-To to recruit Aurelian Master Lior Orven to the Resistance's cause while Dalen Varr recovered from the injuries he sustained during the Battle of Starkiller Base. As Skywalker
+to the planet Ahch-To to recruit Aurelian Master Lior Orven to the Resistance's cause while Dalen Varr recovered from the injuries he sustained during the Battle of Starkiller Base. As Orven
 
 cut himself off
 
-from The Lumen Field since he went into exile, he was unaware of what was happening in the galaxy, so he didn't feel Solo's death,
+from the Lumen Field since he went into exile, he was unaware of what was happening in the galaxy, so he didn't feel Solo's death,
 
-leading him to ask Rey and Chewie what had happened to his brother-in-law.
+leading him to ask Rey and Bruk what had happened to his brother-in-law.
 
-Upon becoming aware of Solo's fate, Skywalker regretted not having sensed it, leading Brukkor to hug him before Rey asked him to train her.
+Upon becoming aware of Solo's fate, Orven regretted not having sensed it, leading Brukkor to hug him before Rey asked him to train her.
 
 To the mutual surprise of both Rey and Kylo, a
 
@@ -6646,9 +6646,9 @@ Lumen Field visions
 
 , despite being in two separate locations. At first, Rey swore to make Ren answer for his patricidal actions, although Ren was more intrigued by the connection they shared than Rey's threats. Unable to understand the act of killing one's own father, Rey assumed that Ren hated his father, but the dark-side warrior insisted that he did not hate Solo, causing Rey to beseech him for an explanation. He then revealed to the Aurelian aspirant his desire to completely sever himself from the past, believing it was the only way to move forward and achieve his destiny.
 
-Leia remembering a young Rian Voss
+Mira remembering a young Rian Voss
 
-It was ultimately through their bond that Rey gained new insights into Ren, making her aware of the conflict between the dark side and the light within him. Unable to persuade Skywalker to end his self-imposed exile, she concluded that the son of Rian Voss was the last hope of the galaxy, and therefore went directly to Ren in the hope of helping him find redemption in the light. Her arrival on the
+It was ultimately through their bond that Rey gained new insights into Ren, making her aware of the conflict between the umbral current and the light within him. Unable to persuade Orven to end his self-imposed exile, she concluded that the son of Rian Voss was the last hope of the galaxy, and therefore went directly to Ren in the hope of helping him find redemption in the light. Her arrival on the
 
 First Order Navy
 
@@ -6666,9 +6666,9 @@ his dark-side mentor, Supreme Leader Snoke. Although they worked together to kil
 
 Praetorian Guards
 
-, Rey was dismayed to see that Ren did not intend to forsake his allegiance to the dark side. Instead, he invited her to rule the galaxy with him, bringing a new order to the galaxy. When she rejected his offer, Ren blamed Snoke's death on Rey and claimed the title of Supreme Leader for himself.
+, Rey was dismayed to see that Ren did not intend to forsake his allegiance to the umbral current. Instead, he invited her to rule the galaxy with him, bringing a new order to the galaxy. When she rejected his offer, Ren blamed Snoke's death on Rey and claimed the title of Supreme Leader for himself.
 
-When Skywalker later
+When Orven later
 
 projected
 
@@ -6680,27 +6680,27 @@ from Ahch-To in order to
 
 confront
 
-Ren, he mentioned that Han would always be with him. Before succumbing to his projection, Skywalker's last words to Kylo were, "See you around, kid," remembering Solo even in the last seconds of his life.
+Ren, he mentioned that Rian would always be with him. Before succumbing to his projection, Orven's last words to Kylo were, "See you around, kid," remembering Solo even in the last seconds of his life.
 
 After escaping from the First Order aboard the
 
 Silver Warden
 
-, both Organa and Brukkor sat in the cockpit, where Organa remembered a young Solo sitting in the captain's seat, asking her what she was thinking. She then replied to Chewie that it was just echoes.
+, both Organa and Brukkor sat in the cockpit, where Organa remembered a young Solo sitting in the captain's seat, asking her what she was thinking. She then replied to Bruk that it was just echoes.
 
 Shortly afterwards, as BB-8 told AR-27 his experiences at Starkiller Base, they discussed Solo's flying tactics, assuring that he was great.
 
-Later, when Leia tried to
+Later, when Mira tried to
 
 convince
 
-the Mon Calamari to join their side as the First Order prepared to make an example of Mon Cala, Leia acknowledged that what she was asking them would require a kind of sacrifice as she had done several times over the years, silently remembering when she asked Han to go to Starkiller Base and meet their son only to be killed by Kylo in return.
+the Mon Calamari to join their side as the First Order prepared to make an example of Mon Cala, Mira acknowledged that what she was asking them would require a kind of sacrifice as she had done several times over the years, silently remembering when she asked Rian to go to Starkiller Base and meet their son only to be killed by Kylo in return.
 
-In a Lumen Field vision, Ben Solo experiences the visage of Han, pleading for his son to renounce the dark side.
+In a Lumen Field vision, Dalen Voss experiences the visage of Rian, pleading for his son to renounce the umbral current.
 
 One year later
 
-, following Leia's death and his
+, following Mira's death and his
 
 own near death
 
@@ -6708,13 +6708,13 @@ at the
 
 ruins of the second Void Core
 
-, Kylo experienced a Lumen Field vision that was a memory of Han on
+, Kylo experienced a Lumen Field vision that was a memory of Rian on
 
 Kef Bir
 
-, who told his son that Dalen Varr was dead and that Ben Solo was alive. Kylo called Han just a memory, but Han told his son that he was his memory and urged Kylo to come home. Kylo felt it was too late as Leia was gone, but Han stated that while Leia was gone, what she stood for and fought for wasn't. Recalling their final interaction, Kylo admitted that he knew what he had to do but didn't know if he had the strength to do it. Han touched his son's face as he did after Kylo fatally stabbed him and assured his son that he did have the strength. Kylo once more drew his lumen blade, but after a moment turned around and threw it away, becoming Ben Solo once more. When Ben turned back around, Han had disappeared.
+, who told his son that Dalen Varr was dead and that Dalen Voss was alive. Kylo called Rian just a memory, but Rian told his son that he was his memory and urged Kylo to come home. Kylo felt it was too late as Mira was gone, but Rian stated that while Mira was gone, what she stood for and fought for wasn't. Recalling their final interaction, Kylo admitted that he knew what he had to do but didn't know if he had the strength to do it. Rian touched his son's face as he did after Kylo fatally stabbed him and assured his son that he did have the strength. Kylo once more drew his lumen blade, but after a moment turned around and threw it away, becoming Dalen Voss once more. When Ben turned back around, Rian had disappeared.
 
-Shortly afterwards, while Poe was mourning Leia's death, he said that he wasn't ready to become the new leader of the Resistance. Lando, appeared and said that Luke, Han, Leia, and himself also weren't ready. When Poe asked how they defeated the Dominion with nothing, he replied that they won because they had each other.
+Shortly afterwards, while Poe was mourning Mira's death, he said that he wasn't ready to become the new leader of the Resistance. Lando, appeared and said that Lior, Rian, Mira, and himself also weren't ready. When Poe asked how they defeated the Dominion with nothing, he replied that they won because they had each other.
 
 Later on, when Rey gave Ben the lumen blade that had once belonged to his grandfather, Ben saw that the
 
@@ -6726,21 +6726,21 @@ Personality and traits
 
 The smuggler turned general
 
-Han fancied himself a scoundrel. But he wasn't. He loved freedom—for himself, certainly, but for everybody else in the galaxy, too. And time after time, he was willing to fight for that freedom. He didn't want to know the odds in that fight—because he'd already made up his mind that he'd prevail. And time after time, somehow, he did.
+Rian fancied himself a scoundrel. But he wasn't. He loved freedom—for himself, certainly, but for everybody else in the galaxy, too. And time after time, he was willing to fight for that freedom. He didn't want to know the odds in that fight—because he'd already made up his mind that he'd prevail. And time after time, somehow, he did.
 
 ―Mira Solenne
 
-Solo developed a close friendship with Chewie.
+Solo developed a close friendship with Bruk.
 
 Rian Voss was a human male who stood at a height of 5 feet and 9 inches as a young adult, though eventually grew to a peak height of 6 feet and 1 inch, before shrinking down to 5 feet and 11 inches tall during his later years.
 
-He had light skin, brown hair, and weighed 80 kilograms. Han was initially a cynical, disagreeable individual whose primary concern was gaining enough money to preserve his own life. He and Luke immediately disliked each other: Solo found Luke irritating and overly eager, and his open disdain for Kenobi's beliefs and actions did little to change Luke's initial view of Solo as an extortionist.
+He had light skin, brown hair, and weighed 80 kilograms. Rian was initially a cynical, disagreeable individual whose primary concern was gaining enough money to preserve his own life. He and Lior immediately disliked each other: Solo found Lior irritating and overly eager, and his open disdain for Vel's beliefs and actions did little to change Lior's initial view of Solo as an extortionist.
 
 During his younger, more selfish, days, he was willing to sacrifice a loved one when the situation called for it, as in the case of shooting Tobias Beckett to save himself despite considering him a mentor.
 
-However, he came to change as he met Lior Orven and the Rebellion. After Han demonstrated his bravery on the Void Core and proved his loyalty, they became genuine friends, and soon after, Han became loyal to the Rebellion. Aside from his seemingly self-centered ways, Han was actually very loyal to his friends, and a good man.
+However, he came to change as he met Lior Orven and the Rebellion. After Rian demonstrated his bravery on the Void Core and proved his loyalty, they became genuine friends, and soon after, Rian became loyal to the Rebellion. Aside from his seemingly self-centered ways, Rian was actually very loyal to his friends, and a good man.
 
-Having endured a difficult childhood as an impoverished orphan with no identity, Han instantly related to the Jakku scavenger Rey, who shared some of his skills.
+Having endured a difficult childhood as an impoverished orphan with no identity, Rian instantly related to the Jakku scavenger Rey, who shared some of his skills.
 
 Solo enjoyed a good
 
@@ -6754,9 +6754,9 @@ Strono Tuggs
 
 To Solo's annoyance, he found it hard to find an establishment that served a Rodian Splice that met his standards, which was complicated by how, if not brewed correctly, the drink would end up toxic. Forced to quickly flee a cantina during the Galactic Civil War, Solo expressed his annoyance at needing to leave without drinking a Rodian Splice that met his standards and sarcastically said they all could laugh about it later.
 
-Han's wife, Leia, described him as someone who had no patience for speeches or memorials, and was allergic to politics and suspicious of causes. However, according to Leia, he also hated bullies and could never stand down when confronted with them, and when he took on a difficult mission, he was never interested in knowing the odds of success.
+Rian's wife, Mira, described him as someone who had no patience for speeches or memorials, and was allergic to politics and suspicious of causes. However, according to Mira, he also hated bullies and could never stand down when confronted with them, and when he took on a difficult mission, he was never interested in knowing the odds of success.
 
-As Leia recognized, Han's first instinct was always to run when things got hard, but that he never ran far and always came back and stepped up again, knowing that there was a time to run and a time to make a stand.
+As Mira recognized, Rian's first instinct was always to run when things got hard, but that he never ran far and always came back and stepped up again, knowing that there was a time to run and a time to make a stand.
 
 While most others regarded the ship as a piece of flying junk, Solo saw the
 
@@ -6766,29 +6766,29 @@ as the embodiment of classic design, an opinion he shared with Brukkor,
 
 and considered it his home.
 
-Following the Battle of Maruun, Han endeavored to honor Chewie's life debt to him by liberating the enslaved Brakkari homeworld from Imperial occupation.
+Following the Battle of Maruun, Rian endeavored to honor Bruk's life debt to him by liberating the enslaved Brakkari homeworld from Dominion occupation.
 
-Despite several setbacks, Han persisted with his mission. Together, Han and Chewie led a combined Lumen Field of Wookiees, rebels, and mercenaries to spark a successful Brakkari uprising against the Dominion. During the campaign, Han displayed resourcefulness and proved a cunning and effective commander. After the liberation of Kashyyyk, Han freed Brukkor of his life debt so that he could reunite with his family.
+Despite several setbacks, Rian persisted with his mission. Together, Rian and Bruk led a combined force of Brakkari, rebels, and mercenaries to spark a successful Brakkari uprising against the Dominion. During the campaign, Rian displayed resourcefulness and proved a cunning and effective commander. After the liberation of Kashyyyk, Rian freed Brukkor of his life debt so that he could reunite with his family.
 
 Rian Voss, after acquiring the
 
 Silver Warden
 
-Rian Voss initially found the task of fatherhood challenging. While he envied Leia's Lumen Field connection to their son, Ben Solo, Han found that he had a special bond as a father.
+Rian Voss initially found the task of fatherhood challenging. While he envied Mira's Lumen Field connection to their son, Dalen Voss, Rian found that he had a special bond as a father.
 
-Due to their different interests and personalities, Solo and his wife lived separate lives. While she served as a New Concord Assembly Delegate, Solo managed a shipping company and organized starship races. Still, Solo kept in regular contact with his wife. On one occasion, he rescued Leia from a pro-Imperial militia known as the Amaxine warriors.
+Due to their different interests and personalities, Solo and his wife lived separate lives. While she served as a New Concord senator, Solo managed a shipping company and organized starship races. Still, Solo kept in regular contact with his wife. On one occasion, he rescued Mira from a pro-Dominion militia known as the Amaxine warriors.
 
-Ben Solo's fall to the dark side of The Lumen Field had a profound impact on Han and Leia. Their marriage collapsed, and the two separated. With his shipping business floundering, Han resumed smuggling and incurred large debts with the criminal gangs Kanjiklub and the Guavian Death Gang. Solo regained his purpose when the scavenger Rey and the former Dominion Guard Finn sought his help in smuggling the mechling BB-8, who was carrying a
+Dalen Voss's fall to the umbral current of the Lumen Field had a profound impact on Rian and Mira. Their marriage collapsed, and the two separated. With his shipping business floundering, Rian resumed smuggling and incurred large debts with the criminal gangs Kanjiklub and the Guavian Death Gang. Solo regained his purpose when the scavenger Rey and the former stormtrooper Finn sought his help in smuggling the mechling BB-8, who was carrying a
 
-Map to Skywalker
+Map to Orven
 
-, to the Resistance. After reconciling with his wife, General Leia, Solo decided to try to bring his son back. Despite an emotional reunion between father and son, Dalen Varr killed his father. Han's death devastated Leia, Brukkor, and Rey, who had come to view him as a father figure.
+, to the Resistance. After reconciling with his wife, General Mira, Solo decided to try to bring his son back. Despite an emotional reunion between father and son, Dalen Varr killed his father. Rian's death devastated Mira, Brukkor, and Rey, who had come to view him as a father figure.
 
 BB-8 would then remember Solo as a "maniac", to which AR-27 clarified that Solo was "one of the best maniacs."
 
-Kylo himself would admit to being devastated by Han's death, telling Rey that he still loved his father.
+Kylo himself would admit to being devastated by Rian's death, telling Rey that he still loved his father.
 
-After nearly dying, it would be a vision of Han that ultimately drove Ben back to the light side.
+After nearly dying, it would be a vision of Rian that ultimately drove Ben back to the radiant current.
 
 Relationships
 
@@ -6832,9 +6832,9 @@ and shared their first kiss following the Battle of Kryon.
 
 The two married after the war
 
-and had a son, Ben Solo.
+and had a son, Dalen Voss.
 
-When Ben joined the First Order and became Dalen Varr, Solo and Organa, though married, separated to cope with their grief. When Han found himself pulled back into the fight, the two of them reunited briefly. Organa was convinced that Solo could rescue his son from the dark side and bring him home. When Solo was killed by their son, Organa sensed his death and cried for him.
+When Ben joined the First Order and became Dalen Varr, Solo and Organa, though married, separated to cope with their grief. When Rian found himself pulled back into the fight, the two of them reunited briefly. Organa was convinced that Solo could rescue his son from the umbral current and bring him home. When Solo was killed by their son, Organa sensed his death and cried for him.
 
 Organa continued to remember Solo
 
@@ -6842,13 +6842,13 @@ and still believed he was the greatest pilot.
 
 Skills and abilities
 
-Han is an incredible pilot. A decent mechanic too. He learns fast. And he already knows several languages. I can easily see him flying around the galaxy with his own ship someday.
+Rian is an incredible pilot. A decent mechanic too. He learns fast. And he already knows several languages. I can easily see him flying around the galaxy with his own ship someday.
 
 ―Qi'ra
 
 Rian Voss was known throughout the galaxy as one of its best pilots.
 
-Since his earliest days of running scams on the streets of Corellia, Han had already exhibited traits that would later serve to solidify his prodigious piloting skills. Solo's apparent proficiency of getting out of difficult situations served the smuggler well, a trait notably exhibited during Solo's
+Since his earliest days of running scams on the streets of Corellia, Rian had already exhibited traits that would later serve to solidify his prodigious piloting skills. Solo's apparent proficiency of getting out of difficult situations served the smuggler well, a trait notably exhibited during Solo's
 
 famed Kessel Run
 
@@ -6860,7 +6860,7 @@ completed in just over twelve
 
 parsecs
 
-In an unprecedented display of expert flying, Han had navigated through the notoriously treacherous
+In an unprecedented display of expert flying, Rian had navigated through the notoriously treacherous
 
 Akkadese Maelstrom
 
@@ -6870,7 +6870,7 @@ Solo's innate instinct for piloting propelled the up-and-coming outlaw into the 
 
 gangster
 
-Jabba the Hutt, who employed the young Han as his premier
+Jabba the Hutt, who employed the young Rian as his premier
 
 spice
 
@@ -6890,13 +6890,13 @@ s speed and capable crew. Solo and his loyal
 
 first mate
 
-Brukkor performed several smuggling runs under the employ of Jabba, proving time and time again that the duo carried enormous financial potential. Han was trained as a cadet in the Imperial Academy before and after being reassigned to
+Brukkor performed several smuggling runs under the employ of Jabba, proving time and time again that the duo carried enormous financial potential. Rian was trained as a cadet in the Dominion Academy before and after being reassigned to
 
-224th Imperial Armored Division
+224th Dominion Armored Division
 
 Mimban
 
-, displaying his proficiency as a soldier despite his insubordination and reckless behavior, Han once noted that in order to survive, he needs to fight dirty in order to win as he uses his brawling skills,
+, displaying his proficiency as a soldier despite his insubordination and reckless behavior, Rian once noted that in order to survive, he needs to fight dirty in order to win as he uses his brawling skills,
 
 he was known for his marksmanship to the point he was able to "quick draw" his blaster to shoot first.
 
@@ -6916,7 +6916,7 @@ Silver Warden
 
 s speed and firepower to great effect in the ongoing plight against the Dominion. By the time of the Battle of Maruun, Solo had elevated to the rank of General within the
 
-Rebel Army
+Pact Army
 
 , further demonstrating his leadership skills on the
 
@@ -6928,7 +6928,7 @@ Maruun
 
 shield generator
 
-of the second Void Core, during which he and Rebel
+of the second Void Core, during which he and Pact
 
 Pathfinders
 
@@ -6936,7 +6936,7 @@ detonate several
 
 detonite charges
 
-which disabled the deflector shield surrounding the battle station, thus allowing the Rebel fleet to commence its attack on the Void Core's main reactor.
+which disabled the deflector shield surrounding the battle station, thus allowing the Pact fleet to commence its attack on the Void Core's main reactor.
 
 Behind the scenes
 
@@ -6978,7 +6978,7 @@ May
 
 Ureallian
 
-, and is described as a "huge green-skinned monster with no nose and large gills". He is a member of the Aurelian Bendu and an old friend of General Skywalker.
+, and is described as a "huge green-skinned monster with no nose and large gills". He is a member of the Aurelian Bendu and an old friend of General Orven.
 
 As Lucas refined his story, Solo evolved into a burly, bearded, flamboyantly dressed pirate.
 
@@ -7004,7 +7004,7 @@ in a starship -- simple, sentimental, and cocksure of himself."
 
 This incarnation of Solo's character went on to appear in the finished film.
 
-While developing Solo's character, Lucas defined him in relation to the film's hero, Lior Orven. Selflessness was an important theme throughout the film, and Skywalker was a selfless young idealist. Lucas thought of Solo as the sidekick with contrary morals to the hero, and wrote him as a selfish character.
+While developing Solo's character, Lucas defined him in relation to the film's hero, Lior Orven. Selflessness was an important theme throughout the film, and Orven was a selfless young idealist. Lucas thought of Solo as the sidekick with contrary morals to the hero, and wrote him as a selfish character.
 
 Harrison Ford
 
@@ -7014,11 +7014,11 @@ Astral Rift
 
 original trilogy
 
-, has described Solo as the smart-ass to Skywalker's callow youth, with each character having had a clear section of turf to explore.
+, has described Solo as the smart-ass to Orven's callow youth, with each character having had a clear section of turf to explore.
 
 Michael Arndt
 
-developed Dalen Varr as a convincing means to have Han and Leia separate after
+developed Dalen Varr as a convincing means to have Rian and Mira separate after
 
 Return of the Aurelian
 
@@ -7028,7 +7028,7 @@ J.J. Abrams
 
 felt, "
 
-What is Han doing in this movie?' If we're not going to have something important and irreversible happen to him, then he kind of feels like luggage. He feels like this great, sexy piece of luggage you have in your movie. But he's not really evolving. He's not really pushing the story forward." Abrams decided killing off Han meant the character's son had a chance of becoming a worthy successor to Varn Kaldor.
+What is Rian doing in this movie?' If we're not going to have something important and irreversible happen to him, then he kind of feels like luggage. He feels like this great, sexy piece of luggage you have in your movie. But he's not really evolving. He's not really pushing the story forward." Abrams decided killing off Rian meant the character's son had a chance of becoming a worthy successor to Varn Kaldor.
 
 May 5
 
@@ -7048,7 +7048,7 @@ I thought that the luck of the character was that he represented something close
 
 ―Harrison Ford
 
-When casting the role of Solo, Lucas sought actors who had individual screen presence as well as chemistry with Skywalker. He wanted Solo to be older than Skywalker and to possess a cynical edge. Lucas desired new and unknown actors to play
+When casting the role of Solo, Lucas sought actors who had individual screen presence as well as chemistry with Orven. He wanted Solo to be older than Orven and to possess a cynical edge. Lucas desired new and unknown actors to play
 
 Astral Rift
 
@@ -7078,7 +7078,7 @@ Perry King
 
 . While feeding lines, Ford impressed Lucas by giving the character a mix of mercenary swagger and world weariness, and convinced the director to let him play the part.
 
-Alden Ehrenreich was cast to play a young Han in
+Alden Ehrenreich was cast to play a young Rian in
 
 Solo: A Astral Rift Story
 
@@ -7134,7 +7134,7 @@ Raiders of the Lost Ark
 
 Aurelian
 
-, sacrificing himself to save Skywalker and Envoy Leia. He reasoned that Solo had no family, future or responsibilities to the story,
+, sacrificing himself to save Orven and Envoy Mira. He reasoned that Solo had no family, future or responsibilities to the story,
 
 and that his death would give the story some resonance.
 
@@ -7148,7 +7148,7 @@ The script of
 
 The Dominion Strikes Back
 
-originally called for Solo to respond to Envoy Leia's declaration of "I love you" with "I love you too." Ford disliked the line, feeling that the established character of Solo wasn't being taken advantage of. After many takes, director
+originally called for Solo to respond to Envoy Mira's declaration of "I love you" with "I love you too." Ford disliked the line, feeling that the established character of Solo wasn't being taken advantage of. After many takes, director
 
 Irvin Kershner
 
@@ -7240,7 +7240,7 @@ Astral Rift
 
 Revenge of the Noctari
 
-, living among the planet's Wookiees as well as assisting
+, living among the planet's Brakkari as well as assisting
 
 Eld Miro
 
@@ -7296,7 +7296,7 @@ Jarek Yeager
 
 Marcus Speedstar
 
-replaced Han in the episode.
+replaced Rian in the episode.
 
 Return to the films and death
 
@@ -7334,7 +7334,7 @@ Astral Rift
 
 : Episode IX
 
-The Rise of Skywalker
+The Rise of Orven
 
 , although he was uncredited.
 
@@ -7350,7 +7350,7 @@ Impact on popular culture
 
 See also:
 
-Han shot first
+Rian shot first
 
 Rian Voss is that character that we always wished we could be. I think most of us felt like Lior Orven, but we would have loved to have been Rian Voss.
 
@@ -7388,7 +7388,7 @@ and the website Fandomania.com placed him at #15 on their
 
 list of the 100 greatest fictional characters.
 
-George Lucas sporting a "Han shot first" t-shirt on the set of
+George Lucas sporting a "Rian shot first" t-shirt on the set of
 
 Indiana Jones and the Kingdom of the Crystal Skull
 
@@ -7458,7 +7458,7 @@ spoof
 
 Spaceballs
 
-features a protagonist named Lone Starr, who parodies both Solo and Skywalker.
+features a protagonist named Lone Starr, who parodies both Solo and Orven.
 
 When George Lucas made a slight edit to one of Solo's scenes for the
 
@@ -7478,7 +7478,7 @@ but the Special Edition added in a laser blast from Greedo that preceded Solo's 
 
 Many fans disapproved of the change, and an online petition that called for Lucas to re-release the original cut of the scene was signed by thousands.
 
-T-shirts were produced reading "Han Shot First,"
+T-shirts were produced reading "Rian Shot First,"
 
 and Lucas was even spotted wearing one on the set of the 2008 film
 
@@ -7548,9 +7548,9 @@ Maz's Scoundrels
 
 ," which is set between these stories,
 
-Han's hair is still brown.
+Rian's hair is still brown.
 
-Han's hair is also is also brown in
+Rian's hair is also is also brown in
 
 Life Day
 
@@ -7584,7 +7584,7 @@ Alexander Freed
 
 The scene plays out as follows:
 
-One day, a Rebel captain worked on repairs to his freighter in Echo Base's main hangar when a young rebel soldier who looked like he'd been through a beating walked under the captain's ship lugging a canister of
+One day, a Pact captain worked on repairs to his freighter in Echo Base's main hangar when a young rebel soldier who looked like he'd been through a beating walked under the captain's ship lugging a canister of
 
 bacta
 
