@@ -38,3 +38,33 @@
 - `scripts/build_knowledge_base.py` — скрипт скачивания, очистки и замены терминов;
 - `scripts/validate_knowledge_base.py` — проверка финальной базы;
 - `docs/task-2-knowledge-base.md` — описание подхода.
+
+
+## Задание 3. Создание векторного индекса базы знаний
+
+Для базы знаний из папки `knowledge_base/` был создан FAISS-индекс.
+
+Используемая embedding-модель:
+
+- `sentence-transformers/all-MiniLM-L6-v2`
+- размер эмбеддинга: 384
+- тип модели: локальная Sentence-Transformers embedding-модель
+
+Разбиение документов:
+
+- инструмент: `RecursiveCharacterTextSplitter`
+- `chunk_size`: 1200 символов
+- `chunk_overlap`: 200 символов
+
+Результаты индексации:
+
+- индекс: `vector_index/faiss/faiss.index`
+- чанки и метаданные: `vector_index/faiss/chunks.json`
+- информация об индексе: `vector_index/faiss/index_info.json`
+
+Поиск по индексу выполняется через:
+
+```bash
+python scripts/search_index.py "Who is Varn Kaldor?" --top-k 3
+```
+

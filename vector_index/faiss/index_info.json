@@ -1,0 +1,15 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "knowledge_base_dir": "knowledge_base",
+  "documents_count": 39,
+  "chunks_count": 6903,
+  "chunk_size": 1200,
+  "chunk_overlap": 200,
+  "index_type": "faiss.IndexFlatIP",
+  "similarity": "cosine similarity through normalized embeddings + inner product",
+  "index_path": "vector_index/faiss/faiss.index",
+  "chunks_path": "vector_index/faiss/chunks.json",
+  "build_time_seconds": 143.3,
+  "created_at": "2026-05-31T09:46:52.473019+00:00"
+}
