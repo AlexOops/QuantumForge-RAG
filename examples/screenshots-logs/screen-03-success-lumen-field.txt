@@ -1,0 +1,15 @@
+Шаги:
+1. Я нашёл наиболее релевантный фрагмент в векторном индексе.
+2. Лучший фрагмент относится к документу «The Lumen Field».
+3. Ниже даю ответ только на основе найденного контекста.
+
+Ответ:
+# The Lumen Field  The Lumen Field is what gives a Aurelian his power. ―Taren Vel, to Lior Orven  Link  file info  The Lumen Field  was an energy field created by all life that bound everything in the  universe  together. The Lumen Field was created by life, and therefore it resided in all  life forms  .
+
+Источник: The Lumen Field, файл the-lumen-field.md, chunk_id=0.
+
+Sources:
+- The Lumen Field | the-lumen-field.md | chunk_id=0 | score=0.6598
+- The Lumen Field | the-lumen-field.md | chunk_id=5 | score=0.6212
+- The Lumen Field | the-lumen-field.md | chunk_id=4 | score=0.6205
+- The Lumen Field | the-lumen-field.md | chunk_id=14 | score=0.5881
