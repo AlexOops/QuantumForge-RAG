@@ -68,3 +68,37 @@
 python scripts/search_index.py "Who is Varn Kaldor?" --top-k 3
 ```
 
+
+## Задание 4. Реализация RAG-бота с техниками промптинга
+
+Реализован консольный RAG-бот.
+
+Основные файлы:
+
+- `app/rag_bot.py` — загрузка FAISS-индекса, поиск, prompt, генерация ответа;
+- `scripts/rag_repl.py` — REPL-интерфейс;
+- `scripts/rag_query.py` — запуск одного запроса;
+- `examples/task-4-dialogues.md` — примеры диалогов;
+- `docs/task-4-rag-bot.md` — описание реализации.
+
+Пайплайн:
+
+1. пользователь вводит вопрос;
+2. вопрос преобразуется в embedding моделью `sentence-transformers/all-MiniLM-L6-v2`;
+3. выполняется поиск ближайших чанков в FAISS;
+4. формируется prompt с найденным контекстом;
+5. используется few-shot prompting;
+6. используются короткие проверяемые шаги рассуждения;
+7. бот возвращает ответ с источниками или честно пишет «Я не знаю».
+
+Запуск:
+
+```bash
+python scripts/rag_repl.py
+```
+
+Пример одноразового запроса:
+
+```bash
+python scripts/rag_query.py "Who is Varn Kaldor?"
+```
