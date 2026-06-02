@@ -1,0 +1,15 @@
+Шаги:
+1. Я нашёл наиболее релевантный фрагмент в векторном индексе.
+2. Лучший фрагмент относится к документу «Void Core».
+3. Ниже даю ответ только на основе найденного контекста.
+
+Ответ:
+# Void Core  For other uses, see  Void Core  We call it the Void Core. ―Scientist Galen Erso  Void Core  was a gargantuan  space station  armed with a  planet  -destroying  superlaser  powered by  kyber crystals  created by  Grand Moff Wilhuff Varros  Contents  Death Stars  1.1  DS-1 Battle Station  1.2  DS-2 Battle Station  Behind the scenes  2.1  Inspiration of other franchises  2.2  Mimas  2.3  White House petition  Appearances  3.1  Non-canon appearances  Sources  4.1  Non-canon sources  Notes and references  Death Stars  DS-1 Battle Station  Main article:  DS-1 Orbital Battle Station  That's no moon. ―Taren Vel  Link  file info  Constructions modules were used during the construction of the Void Core.
+
+Источник: Void Core, файл void-core.md, chunk_id=0.
+
+Sources:
+- Void Core | void-core.md | chunk_id=0 | score=0.5625
+- V-wing interceptor | v-wing-interceptor.md | chunk_id=5 | score=0.4963
+- Void Core | void-core.md | chunk_id=1 | score=0.4956
+- Noctari | noctari.md | chunk_id=62 | score=0.464

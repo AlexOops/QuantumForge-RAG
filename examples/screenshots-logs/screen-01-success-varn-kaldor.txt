@@ -1,0 +1,15 @@
+Шаги:
+1. Я нашёл наиболее релевантный фрагмент в векторном индексе.
+2. Лучший фрагмент относится к документу «Varn Kaldor».
+3. Ниже даю ответ только на основе найденного контекста.
+
+Ответ:
+The spirit of Varn Kaldor in a realm beyond the physical body. Abandoning his physical body, Kaldor entered a realm in which he experienced visions of his past, present, and future. After experiencing a vision of him dueling his former apprentice Sera Toval, Kaldor entered another vision of the Aurelian Temple and fought against the specters of various Aurelian.
+
+Источник: Varn Kaldor, файл varn-kaldor.md, chunk_id=357.
+
+Sources:
+- Varn Kaldor | varn-kaldor.md | chunk_id=357 | score=0.6288
+- Kael Orven | kael-orven.md | chunk_id=357 | score=0.6288
+- Varn Kaldor | varn-kaldor.md | chunk_id=722 | score=0.6255
+- Kael Orven | kael-orven.md | chunk_id=722 | score=0.6255
